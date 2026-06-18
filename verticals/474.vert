@@ -1,12 +1,12 @@
 <doc id="transcript_474" name="0660_STEY_jungII_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="474.xml" title="Transcript: Transcript_474">
-<u who="spk_321" sex="male" age="jung (18-35) +matura" name="Informant 0660" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:26.633000" end="0:00:28.113000" age_lower="18" age_upper="35">
+<u who="spk_321" sex="male" age="jung (18-35) +matura" name="Informant 0660" subproject="PP03" standard_competence="5" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:26.633000" end="0:00:28.113000" project="PP03" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:26.633000	0:00:28.113000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:26.633000" end="0:00:28.113000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:26.633000" end="0:00:28.113000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:26.633000	0:00:28.113000
 </u>
-<u who="spk_321" sex="male" age="jung (18-35) +matura" name="Informant 0660" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:26.633000" end="0:01:08.473000" age_lower="18" age_upper="35">
+<u who="spk_321" sex="male" age="jung (18-35) +matura" name="Informant 0660" subproject="PP03" standard_competence="5" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:26.633000" end="0:01:08.473000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:00:26.633000	0:00:28.113000
 Sonne	-	-	-	0:00:26.633000	0:00:28.113000
 einst	-	-	LautNach LautVor Nas Ons Ons- P sPal sPal- sPal-t	0:00:28.113000	0:00:30.973000

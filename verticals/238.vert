@@ -1,6 +1,6 @@
 <doc id="transcript_238" name="0510_RAGG_alt_f_LESN_Vers8" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="238.xml" title="Transcript: Transcript_238">
-<u who="spk_95" sex="female" age="Alt (65+)" name="Informant 0510" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:00.059000" end="0:01:21.190000" age_lower="65" age_upper="999">
+<u who="spk_95" sex="female" age="Alt (65+)" name="Informant 0510" subproject="PP03" standard_competence="7" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:00.059000" end="0:01:21.190000" project="PP03" age_lower="65" age_upper="999">
 XXX=	XXXNordwind	PROPN	-	0:00:00.059000	0:00:20.932000
 Nordwind	-	SPACE	-	0:00:20.932000	0:00:22.932000
 und	und	CCONJ	-	0:00:20.932000	0:00:22.932000

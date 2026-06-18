@@ -1,12 +1,12 @@
 <doc id="transcript_318" name="0643_HUTT_jungI_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="318.xml" title="Transcript: Transcript_318">
-<u who="spk_285" sex="male" age="jung (18-35) -matura" name="Informant 0643" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:14.873000" end="0:00:18.580000" age_lower="18" age_upper="35">
+<u who="spk_285" sex="male" age="jung (18-35) -matura" name="Informant 0643" subproject="PP03" standard_competence="4" dialect_competence="4" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:14.873000" end="0:00:18.580000" project="PP03" age_lower="18" age_upper="35">
 einst	-	-	LautNach LautVor Nas Ons Ons- P sPal sPal+ sPal-t	0:00:14.873000	0:00:18.580000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:14.873000" end="0:00:18.580000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:14.873000" end="0:00:18.580000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:14.873000	0:00:18.580000
 </u>
-<u who="spk_285" sex="male" age="jung (18-35) -matura" name="Informant 0643" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:14.873000" end="0:01:15.066000" age_lower="18" age_upper="35">
+<u who="spk_285" sex="male" age="jung (18-35) -matura" name="Informant 0643" subproject="PP03" standard_competence="4" dialect_competence="4" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:14.873000" end="0:01:15.066000" project="PP03" age_lower="18" age_upper="35">
 stritten	-	-	-	0:00:14.873000	0:00:18.580000
 sich	-	-	-	0:00:14.873000	0:00:18.580000
 Nordwind	-	-	-	0:00:14.873000	0:00:18.580000
@@ -137,10 +137,10 @@ Stärkere	-	-	-	0:01:13.626000	0:01:15.066000
 war	-	-	-	0:01:13.626000	0:01:15.066000
 .	-	-	-	0:01:13.626000	0:01:15.066000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:15.066000" end="0:01:17.066000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:15.066000" end="0:01:17.066000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:01:15.066000	0:01:17.066000
 </u>
-<u who="spk_285" sex="male" age="jung (18-35) -matura" name="Informant 0643" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:15.066000" end="0:01:17.066000" age_lower="18" age_upper="35">
+<u who="spk_285" sex="male" age="jung (18-35) -matura" name="Informant 0643" subproject="PP03" standard_competence="4" dialect_competence="4" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:15.066000" end="0:01:17.066000" project="PP03" age_lower="18" age_upper="35">
 XXX	-	-	-	0:01:15.066000	0:01:17.066000
 </u>
 </file>

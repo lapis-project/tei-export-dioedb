@@ -1,6 +1,6 @@
 <doc id="transcript_462" name="0604_HUTT_jungI_f_INT" erhebung="Interview_PP0308" erhebungsart="Interview">
 <file id="462.xml" title="Transcript: Transcript_462">
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:06.419000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:06.419000" age_lower="1" age_upper="999">
 ´(?)	-	-	-	0:00:00	0:00:01.526000
 ,	-	-	-	0:00:00	0:00:01.526000
 <pause duration="1,0s"/>
@@ -17,13 +17,13 @@ Ihr	-	-	-	0:00:04.454000	0:00:06.419000
 Geburtsdatum	-	-	-	0:00:04.454000	0:00:06.419000
 ?	-	-	-	0:00:04.454000	0:00:06.419000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:06.419000" end="0:00:08.917000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:06.419000" end="0:00:08.917000" project="PP03" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:00:06.419000	0:00:08.917000
 fünfter	-	-	-	0:00:06.419000	0:00:08.917000
 ZAHL	ZAHL	-	-	0:00:06.419000	0:00:08.917000
 .	-	-	-	0:00:06.419000	0:00:08.917000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:08.917000" end="0:00:14.595000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:08.917000" end="0:00:14.595000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:08.917000	0:00:09.858000
 .	-	-	-	0:00:08.917000	0:00:09.858000
 <pause duration="3,2s"/>
@@ -33,11 +33,11 @@ Ihr	-	-	-	0:00:13.085000	0:00:14.595000
 Geburtsort	-	-	-	0:00:13.085000	0:00:14.595000
 ?	-	-	-	0:00:13.085000	0:00:14.595000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:14.595000" end="0:00:15.470000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:14.595000" end="0:00:15.470000" project="PP03" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:00:14.595000	0:00:15.470000
 .	-	-	-	0:00:14.595000	0:00:15.470000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:15.470000" end="0:00:18.777000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:15.470000" end="0:00:18.777000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:15.470000	0:00:16.033000
 .	-	-	-	0:00:15.470000	0:00:16.033000
 <pause duration="0,9s"/>
@@ -50,11 +50,11 @@ Sie	-	-	-	0:00:16.033000	0:00:18.777000
 aufgewachsen	-	-	-	0:00:16.033000	0:00:18.777000
 ?	-	-	-	0:00:16.033000	0:00:18.777000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:18.777000" end="0:00:19.338000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:18.777000" end="0:00:19.338000" project="PP03" age_lower="18" age_upper="35">
 Hüttschlag	-	-	-	0:00:18.777000	0:00:19.338000
 .	-	-	-	0:00:18.777000	0:00:19.338000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:19.338000" end="0:00:22.642000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:19.338000" end="0:00:22.642000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:19.338000	0:00:19.778000
 .	-	-	-	0:00:19.338000	0:00:19.778000
 <pause duration="1,0s"/>
@@ -68,14 +68,14 @@ in	-	-	-	0:00:20.811000	0:00:22.642000
 ORT	ORT	-	-	0:00:20.811000	0:00:22.642000
 ?	-	-	-	0:00:20.811000	0:00:22.642000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:22.642000" end="0:00:24.276000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:22.642000" end="0:00:24.276000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:22.642000	0:00:24.276000
 seit	-	-	-	0:00:22.642000	0:00:24.276000
 fünf	-	-	-	0:00:22.642000	0:00:24.276000
 Jahren	-	-	-	0:00:22.642000	0:00:24.276000
 .	-	-	-	0:00:22.642000	0:00:24.276000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:24.276000" end="0:00:27.735000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:24.276000" end="0:00:27.735000" age_lower="1" age_upper="999">
 seit	-	-	-	0:00:24.276000	0:00:25.841000
 fünf	-	-	-	0:00:24.276000	0:00:25.841000
 Jahren	-	-	-	0:00:24.276000	0:00:25.841000
@@ -90,11 +90,11 @@ dazwischen	-	-	-	0:00:25.841000	0:00:27.735000
 noch	-	-	-	0:00:25.841000	0:00:27.735000
 woanders	-	-	-	0:00:25.841000	0:00:27.735000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:27.735000" end="0:00:28.273000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:27.735000" end="0:00:28.273000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:00:27.735000	0:00:28.273000
 .	-	-	-	0:00:27.735000	0:00:28.273000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:27.735000" end="0:00:30.098000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:27.735000" end="0:00:30.098000" age_lower="1" age_upper="999">
 gelebt	-	-	-	0:00:27.735000	0:00:28.273000
 oder	-	-	-	0:00:27.735000	0:00:28.273000
 nur	-	-	-	0:00:28.272000	0:00:30.098000
@@ -103,19 +103,19 @@ von	-	-	-	0:00:28.272000	0:00:30.098000
 Hüttschlag	-	-	-	0:00:28.272000	0:00:30.098000
 nach	-	-	-	0:00:28.272000	0:00:30.098000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:30.098000" end="0:00:30.885000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:30.098000" end="0:00:30.885000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:00:30.098000	0:00:30.885000
 .	-	-	-	0:00:30.098000	0:00:30.885000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:30.098000" end="0:00:30.885000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:30.098000" end="0:00:30.885000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:00:30.098000	0:00:30.885000
 ?	-	-	-	0:00:30.098000	0:00:30.885000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:30.885000" end="0:00:31.432000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:30.885000" end="0:00:31.432000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:00:30.885000	0:00:31.432000
 .	-	-	-	0:00:30.885000	0:00:31.432000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:30.885000" end="0:00:34.384000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:30.885000" end="0:00:34.384000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:30.885000	0:00:31.432000
 .	-	-	-	0:00:30.885000	0:00:31.432000
 <pause duration="1,2s"/>
@@ -127,21 +127,21 @@ Ihre	-	-	-	0:00:32.598000	0:00:34.384000
 Eltern	-	-	-	0:00:32.598000	0:00:34.384000
 ?	-	-	-	0:00:32.598000	0:00:34.384000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:34.384000" end="0:00:36.555000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:34.384000" end="0:00:36.555000" project="PP03" age_lower="18" age_upper="35">
 beide	-	-	-	0:00:34.384000	0:00:35.614000
 aus	-	-	-	0:00:34.384000	0:00:35.614000
 ORT	ORT	-	-	0:00:34.384000	0:00:35.614000
 .	-	-	-	0:00:34.384000	0:00:35.614000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:35.614000" end="0:00:36.555000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:35.614000" end="0:00:36.555000" age_lower="1" age_upper="999">
 beide	-	-	-	0:00:35.614000	0:00:36.555000
 aus	-	-	-	0:00:35.614000	0:00:36.555000
 ORT	ORT	-	-	0:00:35.614000	0:00:36.555000
 ,	-	-	-	0:00:35.614000	0:00:36.555000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:36.555000" end="0:00:37.593000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:36.555000" end="0:00:37.593000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:36.555000" end="0:00:40.606000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:36.555000" end="0:00:40.606000" age_lower="1" age_upper="999">
 super	-	-	-	0:00:36.555000	0:00:37.593000
 .	-	-	-	0:00:36.555000	0:00:37.593000
 und	-	-	-	0:00:37.593000	0:00:40.606000
@@ -153,17 +153,17 @@ da	-	-	-	0:00:37.593000	0:00:40.606000
 geblieben	-	-	-	0:00:37.593000	0:00:40.606000
 ?	-	-	-	0:00:37.593000	0:00:40.606000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:40.606000" end="0:00:41.598000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:40.606000" end="0:00:41.598000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:40.606000	0:00:40.940000
 .	-	-	-	0:00:40.606000	0:00:40.940000
 nie	-	-	-	0:00:40.940000	0:00:41.598000
 /.	-	-	-	0:00:40.940000	0:00:41.598000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:40.940000" end="0:00:41.598000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:40.940000" end="0:00:41.598000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:40.940000	0:00:41.598000
 .	-	-	-	0:00:40.940000	0:00:41.598000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:41.598000" end="0:00:45.493000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:41.598000" end="0:00:45.493000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:00:41.598000	0:00:42.304000
 waren	-	-	-	0:00:41.598000	0:00:42.304000
 nie	-	-	-	0:00:41.598000	0:00:42.304000
@@ -176,7 +176,7 @@ in	-	-	-	0:00:42.304000	0:00:44.414000
 (ihrem)	-	-	-	0:00:44.414000	0:00:45.493000
 .	-	-	-	0:00:44.414000	0:00:45.493000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:44.414000" end="0:00:47.798000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:44.414000" end="0:00:47.798000" age_lower="1" age_upper="999">
 ja	-	-	-	0:00:44.414000	0:00:45.493000
 .	-	-	-	0:00:44.414000	0:00:45.493000
 super	-	-	-	0:00:45.493000	0:00:46.622000
@@ -185,19 +185,19 @@ also	-	-	-	0:00:46.622000	0:00:47.798000
 so	-	-	-	0:00:46.622000	0:00:47.798000
 echte	-	-	-	0:00:46.622000	0:00:47.798000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:47.798000" end="0:00:48.830000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:47.798000" end="0:00:48.830000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:47.798000	0:00:48.830000
 ,	-	-	-	0:00:47.798000	0:00:48.830000
 genau	-	-	-	0:00:47.798000	0:00:48.830000
 .	-	-	-	0:00:47.798000	0:00:48.830000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:47.798000" end="0:00:48.830000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:47.798000" end="0:00:48.830000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:00:47.798000	0:00:48.830000
 .	-	-	-	0:00:47.798000	0:00:48.830000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:48.830000" end="0:00:49.601000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:48.830000" end="0:00:49.601000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:49.601000" end="0:00:51.332000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:49.601000" end="0:00:51.332000" age_lower="1" age_upper="999">
 was	-	-	-	0:00:49.601000	0:00:51.332000
 machen	-	-	-	0:00:49.601000	0:00:51.332000
 Ihre	-	-	-	0:00:49.601000	0:00:51.332000
@@ -205,7 +205,7 @@ Eltern	-	-	-	0:00:49.601000	0:00:51.332000
 beruflich	-	-	-	0:00:49.601000	0:00:51.332000
 ?	-	-	-	0:00:49.601000	0:00:51.332000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:51.332000" end="0:00:54.206000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:51.332000" end="0:00:54.206000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:51.332000	0:00:53.086000
 mein	-	-	-	0:00:51.332000	0:00:53.086000
 Vater	-	-	-	0:00:51.332000	0:00:53.086000
@@ -218,11 +218,11 @@ eine	-	-	-	0:00:53.086000	0:00:54.206000
 SONSTIGE	SONSTIGE	-	-	0:00:53.086000	0:00:54.206000
 .	-	-	-	0:00:53.086000	0:00:54.206000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:54.206000" end="0:00:54.652000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:54.206000" end="0:00:54.652000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:54.206000	0:00:54.652000
 .	-	-	-	0:00:54.206000	0:00:54.652000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:54.652000" end="0:00:56.190000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:54.652000" end="0:00:56.190000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:00:54.652000	0:00:56.190000
 meine	-	-	-	0:00:54.652000	0:00:56.190000
 Mama	-	-	-	0:00:54.652000	0:00:56.190000
@@ -231,13 +231,13 @@ seine	-	-	-	0:00:54.652000	0:00:56.190000
 SONSTIGE	SONSTIGE	-	-	0:00:54.652000	0:00:56.190000
 .	-	-	-	0:00:54.652000	0:00:56.190000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:56.190000" end="0:00:56.690000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:56.190000" end="0:00:56.690000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:56.190000	0:00:56.690000
 .	-	-	-	0:00:56.190000	0:00:56.690000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:56.690000" end="0:00:57.128000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:56.690000" end="0:00:57.128000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:57.128000" end="0:01:00.940000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:57.128000" end="0:01:00.940000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 Sie	-	-	-	0:00:58.888000	0:01:00.104000
 leben	-	-	-	0:00:58.888000	0:01:00.104000
@@ -250,7 +250,7 @@ habe	-	-	-	0:01:00.104000	0:01:00.940000
 ich	-	-	-	0:01:00.104000	0:01:00.940000
 davor	-	-	-	0:01:00.104000	0:01:00.940000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:00.940000" end="0:01:01.912000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:00.940000" end="0:01:01.912000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:00.940000	0:01:01.912000
 ,	-	-	-	0:01:00.940000	0:01:01.912000
 ja	-	-	-	0:01:00.940000	0:01:01.912000
@@ -258,7 +258,7 @@ ja	-	-	-	0:01:00.940000	0:01:01.912000
 ja	-	-	-	0:01:00.940000	0:01:01.912000
 .	-	-	-	0:01:00.940000	0:01:01.912000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:00.940000" end="0:01:04.622000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:00.940000" end="0:01:04.622000" age_lower="1" age_upper="999">
 schon	-	-	-	0:01:00.940000	0:01:01.912000
 gehört	-	-	-	0:01:00.940000	0:01:01.912000
 .	-	-	-	0:01:00.940000	0:01:01.912000
@@ -273,11 +273,11 @@ Ihrem	-	-	-	0:01:02.257000	0:01:04.622000
 Partner	-	-	-	0:01:02.257000	0:01:04.622000
 ?	-	-	-	0:01:02.257000	0:01:04.622000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:04.622000" end="0:01:05.702000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:04.622000" end="0:01:05.702000" project="PP03" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:01:04.622000	0:01:05.702000
 .	-	-	-	0:01:04.622000	0:01:05.702000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:05.702000" end="0:01:08.518000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:05.702000" end="0:01:08.518000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:05.702000	0:01:06.078000
 .	-	-	-	0:01:05.702000	0:01:06.078000
 und	-	-	-	0:01:06.078000	0:01:07.958000
@@ -291,12 +291,12 @@ kommt	-	-	-	0:01:07.958000	0:01:08.518000
 er	-	-	-	0:01:07.958000	0:01:08.518000
 auch	-	-	-	0:01:07.958000	0:01:08.518000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:08.518000" end="0:01:09.662000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:08.518000" end="0:01:09.662000" project="PP03" age_lower="18" age_upper="35">
 aus	-	-	-	0:01:08.518000	0:01:09.662000
 ORT	ORT	-	-	0:01:08.518000	0:01:09.662000
 .	-	-	-	0:01:08.518000	0:01:09.662000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:08.518000" end="0:01:10.401000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:08.518000" end="0:01:10.401000" age_lower="1" age_upper="999">
 aus	-	-	-	0:01:08.518000	0:01:09.662000
 Hüttschlag	-	-	-	0:01:08.518000	0:01:09.662000
 ?	-	-	-	0:01:08.518000	0:01:09.662000
@@ -304,11 +304,11 @@ aus	-	-	-	0:01:09.662000	0:01:10.401000
 ORT	ORT	-	-	0:01:09.662000	0:01:10.401000
 .	-	-	-	0:01:09.662000	0:01:10.401000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:10.401000" end="0:01:10.913000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:10.401000" end="0:01:10.913000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:01:10.401000	0:01:10.913000
 .	-	-	-	0:01:10.401000	0:01:10.913000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:10.401000" end="0:01:14.193000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:10.401000" end="0:01:14.193000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:10.401000	0:01:10.913000
 .	-	-	-	0:01:10.401000	0:01:10.913000
 <pause duration="1,4s"/>
@@ -320,11 +320,11 @@ auch	-	-	-	0:01:12.318000	0:01:14.193000
 berufstätig	-	-	-	0:01:12.318000	0:01:14.193000
 ?	-	-	-	0:01:12.318000	0:01:14.193000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:14.193000" end="0:01:14.569000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:14.193000" end="0:01:14.569000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:14.193000	0:01:14.569000
 .	-	-	-	0:01:14.193000	0:01:14.569000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:14.569000" end="0:01:16.310000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:14.569000" end="0:01:16.310000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:14.569000	0:01:16.310000
 ,	-	-	-	0:01:14.569000	0:01:16.310000
 welchen	-	-	-	0:01:14.569000	0:01:16.310000
@@ -334,12 +334,12 @@ er	-	-	-	0:01:14.569000	0:01:16.310000
 aus	-	-	-	0:01:14.569000	0:01:16.310000
 ?	-	-	-	0:01:14.569000	0:01:16.310000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:16.310000" end="0:01:18.054000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:16.310000" end="0:01:18.054000" project="PP03" age_lower="18" age_upper="35">
 selbstständiger	-	-	-	0:01:16.310000	0:01:18.054000
 SONSTIGE	SONSTIGE	-	-	0:01:16.310000	0:01:18.054000
 .	-	-	-	0:01:16.310000	0:01:18.054000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:18.054000" end="0:01:21.640000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:18.054000" end="0:01:21.640000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:18.054000	0:01:18.542000
 ,	-	-	-	0:01:18.054000	0:01:18.542000
 toll	-	-	-	0:01:18.542000	0:01:19.297000
@@ -350,11 +350,11 @@ Sie	-	-	-	0:01:20.721000	0:01:21.640000
 Kinder	-	-	-	0:01:20.721000	0:01:21.640000
 ?	-	-	-	0:01:20.721000	0:01:21.640000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:21.640000" end="0:01:22.086000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:21.640000" end="0:01:22.086000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:21.640000	0:01:22.086000
 .	-	-	-	0:01:21.640000	0:01:22.086000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:22.086000" end="0:01:26.716000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:22.086000" end="0:01:26.716000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:22.086000	0:01:22.582000
 .	-	-	-	0:01:22.086000	0:01:22.582000
 <pause duration="0,8s"/>
@@ -368,7 +368,7 @@ hinter	-	-	-	0:01:22.582000	0:01:26.716000
 sich	-	-	-	0:01:22.582000	0:01:26.716000
 ?	-	-	-	0:01:22.582000	0:01:26.716000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:26.716000" end="0:01:29.932000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:26.716000" end="0:01:29.932000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:01:26.716000	0:01:28.544000
 <pause duration="0,7s"/>
 Hauptschule	-	-	-	0:01:26.716000	0:01:28.544000
@@ -379,19 +379,19 @@ Volksschule	-	-	-	0:01:28.544000	0:01:29.270000
 Hauptschule	-	-	-	0:01:29.270000	0:01:29.932000
 /.	-	-	-	0:01:29.270000	0:01:29.932000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:29.270000" end="0:01:30.634000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:29.270000" end="0:01:30.634000" age_lower="1" age_upper="999">
 in	-	-	-	0:01:29.270000	0:01:29.932000
 in	-	-	-	0:01:29.932000	0:01:30.634000
 Hüttschlag	-	-	-	0:01:29.932000	0:01:30.634000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:30.634000" end="0:01:31.288000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:30.634000" end="0:01:31.288000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:01:30.634000	0:01:31.288000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:30.634000" end="0:01:31.288000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:30.634000" end="0:01:31.288000" age_lower="1" age_upper="999">
 direkt	-	-	-	0:01:30.634000	0:01:31.288000
 ?	-	-	-	0:01:30.634000	0:01:31.288000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:31.288000" end="0:01:33.101000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:31.288000" end="0:01:33.101000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:01:31.288000	0:01:32.669000
 Hüttschlag	-	-	-	0:01:31.288000	0:01:32.669000
 gibt	-	-	-	0:01:31.288000	0:01:32.669000
@@ -401,11 +401,11 @@ Volksschule	-	-	-	0:01:31.288000	0:01:32.669000
 .	-	-	-	0:01:31.288000	0:01:32.669000
 also	-	-	-	0:01:32.669000	0:01:33.101000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:32.669000" end="0:01:33.101000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:32.669000" end="0:01:33.101000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:32.669000	0:01:33.101000
 .	-	-	-	0:01:32.669000	0:01:33.101000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:33.101000" end="0:01:35.152000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:33.101000" end="0:01:35.152000" project="PP03" age_lower="18" age_upper="35">
 Kindergarten	-	-	-	0:01:33.101000	0:01:34.362000
 und	-	-	-	0:01:33.101000	0:01:34.362000
 Volksschule	-	-	-	0:01:33.101000	0:01:34.362000
@@ -415,11 +415,11 @@ in	-	-	-	0:01:34.364000	0:01:35.152000
 Hüttschlag	-	-	-	0:01:34.364000	0:01:35.152000
 ,	-	-	-	0:01:34.364000	0:01:35.152000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:34.364000" end="0:01:35.152000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:34.364000" end="0:01:35.152000" age_lower="1" age_upper="999">
 ja	-	-	-	0:01:34.364000	0:01:35.152000
 .	-	-	-	0:01:34.364000	0:01:35.152000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:35.152000" end="0:01:38.134000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:35.152000" end="0:01:38.134000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:01:35.152000	0:01:36.602000
 Hauptschule	-	-	-	0:01:35.152000	0:01:36.602000
 ist	-	-	-	0:01:35.152000	0:01:36.602000
@@ -433,7 +433,7 @@ nächstgelegenen	-	-	-	0:01:36.602000	0:01:37.468000
 Dorf	-	-	-	0:01:37.468000	0:01:38.134000
 .	-	-	-	0:01:37.468000	0:01:38.134000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:37.468000" end="0:01:38.640000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:37.468000" end="0:01:38.640000" age_lower="1" age_upper="999">
 ah	-	-	-	0:01:37.468000	0:01:38.134000
 ,	-	-	-	0:01:37.468000	0:01:38.134000
 okay	-	-	-	0:01:37.468000	0:01:38.134000
@@ -441,14 +441,14 @@ okay	-	-	-	0:01:37.468000	0:01:38.134000
 mhm	-	-	-	0:01:38.134000	0:01:38.640000
 .	-	-	-	0:01:38.134000	0:01:38.640000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:38.640000" end="0:01:39.196000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:38.640000" end="0:01:39.196000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:01:38.640000	0:01:39.196000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:38.640000" end="0:01:39.196000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:38.640000" end="0:01:39.196000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:38.640000	0:01:39.196000
 .	-	-	-	0:01:38.640000	0:01:39.196000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:39.196000" end="0:01:45.152000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:39.196000" end="0:01:45.152000" project="PP03" age_lower="18" age_upper="35">
 danach	-	-	-	0:01:39.196000	0:01:42.844000
 ähm	-	-	-	0:01:39.196000	0:01:42.844000
 die	-	-	-	0:01:39.196000	0:01:42.844000
@@ -467,7 +467,7 @@ Lehre	-	-	-	0:01:42.844000	0:01:45.152000
 begonnen	-	-	-	0:01:42.844000	0:01:45.152000
 .	-	-	-	0:01:42.844000	0:01:45.152000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:45.152000" end="0:01:50.896000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:45.152000" end="0:01:50.896000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:45.152000	0:01:45.620000
 .	-	-	-	0:01:45.152000	0:01:45.620000
 <pause duration="3,6s"/>
@@ -479,7 +479,7 @@ Poly	-	-	-	0:01:49.240000	0:01:50.896000
 ab	-	-	-	0:01:49.240000	0:01:50.896000
 ?	-	-	-	0:01:49.240000	0:01:50.896000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:50.896000" end="0:01:55.269000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:50.896000" end="0:01:55.269000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:01:50.896000	0:01:52.309000
 ganz	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:01:50.896000	0:01:52.309000
 ein	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:01:50.896000	0:01:52.309000
@@ -497,7 +497,7 @@ Jahr	-	-	-	0:01:52.309000	0:01:54.114000
 Schule	-	-	-	0:01:54.114000	0:01:55.269000
 .	-	-	-	0:01:54.114000	0:01:55.269000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:54.114000" end="0:01:58.003000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:54.114000" end="0:01:58.003000" age_lower="1" age_upper="999">
 ah	-	-	-	0:01:54.114000	0:01:55.269000
 ,	-	-	-	0:01:54.114000	0:01:55.269000
 okay	-	-	-	0:01:54.114000	0:01:55.269000
@@ -513,12 +513,12 @@ Lehre	-	-	-	0:01:55.786000	0:01:58.003000
 haben	-	-	-	0:01:55.786000	0:01:58.003000
 Sie	-	-	-	0:01:55.786000	0:01:58.003000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:58.003000" end="0:01:59.604000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:58.003000" end="0:01:59.604000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:01:58.003000	0:01:59.604000
 SONSTIGE	SONSTIGE	-	-	0:01:58.003000	0:01:59.604000
 .	-	-	-	0:01:58.003000	0:01:59.604000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:58.003000" end="0:02:01.818000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:58.003000" end="0:02:01.818000" age_lower="1" age_upper="999">
 (gemacht)	-	-	-	0:01:58.003000	0:01:59.604000
 ?	-	-	-	0:01:58.003000	0:01:59.604000
 ja	-	-	-	0:01:59.604000	0:01:59.979000
@@ -531,19 +531,19 @@ auch	-	-	-	0:01:59.979000	0:02:01.818000
 ihr	-	-	-	0:01:59.979000	0:02:01.818000
 jetziger	-	-	-	0:01:59.979000	0:02:01.818000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:01.818000" end="0:02:02.166000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:01.818000" end="0:02:02.166000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:02:01.818000	0:02:02.166000
 .	-	-	-	0:02:01.818000	0:02:02.166000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:02.166000" end="0:02:02.553000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:02.166000" end="0:02:02.553000" age_lower="1" age_upper="999">
 Beruf	-	-	-	0:02:02.166000	0:02:02.553000
 ?	-	-	-	0:02:02.166000	0:02:02.553000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:02.553000" end="0:02:03.009000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:02.553000" end="0:02:03.009000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:02:02.553000	0:02:03.009000
 .	-	-	-	0:02:02.553000	0:02:03.009000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:02.553000" end="0:02:05.009000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:02.553000" end="0:02:05.009000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:02.553000	0:02:03.009000
 .	-	-	-	0:02:02.553000	0:02:03.009000
 können	-	-	-	0:02:03.009000	0:02:05.009000
@@ -556,22 +556,22 @@ erzählen	-	-	-	0:02:03.009000	0:02:05.009000
 von	-	-	-	0:02:03.009000	0:02:05.009000
 Ihrem	-	-	-	0:02:03.009000	0:02:05.009000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:05.009000" end="0:02:07.144000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:05.009000" end="0:02:07.144000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:05.009000	0:02:07.144000
 seit	-	-	-	0:02:05.009000	0:02:07.144000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:05.009000" end="0:02:07.144000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:05.009000" end="0:02:07.144000" age_lower="1" age_upper="999">
 Berufsalltag	-	-	-	0:02:05.009000	0:02:07.144000
 ?	-	-	-	0:02:05.009000	0:02:07.144000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:07.144000" end="0:02:07.514000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:07.144000" end="0:02:07.514000" project="PP03" age_lower="18" age_upper="35">
 zehn	-	-	-	0:02:07.144000	0:02:07.514000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:07.144000" end="0:02:07.514000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:07.144000" end="0:02:07.514000" age_lower="1" age_upper="999">
 was	-	-	-	0:02:07.144000	0:02:07.514000
 /?	-	-	-	0:02:07.144000	0:02:07.514000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:07.514000" end="0:02:09.103000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:07.514000" end="0:02:09.103000" project="PP03" age_lower="18" age_upper="35">
 Jahren	-	-	-	0:02:07.514000	0:02:08.544000
 arbeite	-	-	-	0:02:07.514000	0:02:08.544000
 ich	-	-	-	0:02:07.514000	0:02:08.544000
@@ -579,11 +579,11 @@ da	-	-	-	0:02:07.514000	0:02:08.544000
 jetzt	-	-	-	0:02:08.544000	0:02:09.103000
 .	-	-	-	0:02:08.544000	0:02:09.103000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:08.544000" end="0:02:09.103000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:08.544000" end="0:02:09.103000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:08.544000	0:02:09.103000
 .	-	-	-	0:02:08.544000	0:02:09.103000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:09.103000" end="0:02:11.385000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:09.103000" end="0:02:11.385000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:09.103000	0:02:10.358000
 soll	-	-	-	0:02:09.103000	0:02:10.358000
 ich	-	-	-	0:02:09.103000	0:02:10.358000
@@ -592,19 +592,19 @@ oder	-	-	-	0:02:09.103000	0:02:10.358000
 /?	-	-	-	0:02:09.103000	0:02:10.358000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:10.358000" end="0:02:11.385000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:10.358000" end="0:02:11.385000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:11.385000" end="0:02:12.358000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:11.385000" end="0:02:12.358000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:02:11.385000	0:02:12.358000
 Mundart	-	-	-	0:02:11.385000	0:02:12.358000
 .	-	-	-	0:02:11.385000	0:02:12.358000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:11.385000" end="0:02:12.358000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:11.385000" end="0:02:12.358000" age_lower="1" age_upper="999">
 wie	-	-	-	0:02:11.385000	0:02:12.358000
 es	-	-	-	0:02:11.385000	0:02:12.358000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:12.358000" end="0:02:14.025000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:12.358000" end="0:02:14.025000" project="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:02:12.358000	0:02:12.956000
 ja	-	-	-	0:02:12.358000	0:02:12.956000
 ,	-	-	-	0:02:12.358000	0:02:12.956000
@@ -613,7 +613,7 @@ stimmt	-	-	-	0:02:12.956000	0:02:14.025000
 passt	-	-	-	0:02:12.956000	0:02:14.025000
 .	-	-	-	0:02:12.956000	0:02:14.025000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:12.956000" end="0:02:18.290000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:12.956000" end="0:02:18.290000" age_lower="1" age_upper="999">
 wie	-	-	-	0:02:12.956000	0:02:14.025000
 es	-	-	-	0:02:12.956000	0:02:14.025000
 ähm	-	-	-	0:02:12.956000	0:02:14.025000
@@ -633,30 +633,30 @@ eben	-	-	-	0:02:14.025000	0:02:18.290000
 mit	-	-	-	0:02:14.025000	0:02:18.290000
 mir	-	-	-	0:02:14.025000	0:02:18.290000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:18.290000" end="0:02:18.989000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:18.290000" end="0:02:18.989000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:02:18.290000	0:02:18.989000
 .	-	-	-	0:02:18.290000	0:02:18.989000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:18.990000" end="0:02:20.203000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:18.990000" end="0:02:20.203000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 für	-	-	-	0:02:18.990000	0:02:20.203000
 passend	-	-	-	0:02:18.990000	0:02:20.203000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:20.203000" end="0:02:20.702000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:20.203000" end="0:02:20.702000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:02:20.203000	0:02:20.702000
 ,	-	-	-	0:02:20.203000	0:02:20.702000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:20.203000" end="0:02:20.702000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:20.203000" end="0:02:20.702000" age_lower="1" age_upper="999">
 halten	-	-	-	0:02:20.203000	0:02:20.702000
 .	-	-	-	0:02:20.203000	0:02:20.702000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:20.702000" end="0:02:21.416000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:20.702000" end="0:02:21.416000" project="PP03" age_lower="18" age_upper="35">
 passt	-	-	-	0:02:20.702000	0:02:21.416000
 .	-	-	-	0:02:20.702000	0:02:21.416000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:20.702000" end="0:02:21.416000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:20.702000" end="0:02:21.416000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:21.416000" end="0:02:28.397000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:21.416000" end="0:02:28.397000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:21.416000	0:02:24.910000
 ich	-	-	-	0:02:21.416000	0:02:24.910000
 arbeite	-	-	-	0:02:21.416000	0:02:24.910000
@@ -677,11 +677,11 @@ drei	-	-	-	0:02:26.910000	0:02:28.397000
 Jahre	-	-	-	0:02:26.910000	0:02:28.397000
 ähm	-	-	-	0:02:26.910000	0:02:28.397000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:28.397000" end="0:02:28.915000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:28.397000" end="0:02:28.915000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:28.397000	0:02:28.915000
 .	-	-	-	0:02:28.397000	0:02:28.915000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:28.915000" end="0:02:37.934000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:28.915000" end="0:02:37.934000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 hat	-	-	-	0:02:30.130000	0:02:32.129000
 die	-	-	-	0:02:30.130000	0:02:32.129000
@@ -706,11 +706,11 @@ für	-	-	-	0:02:33.946000	0:02:36.560000
 SONSTIGE	SONSTIGE	-	-	0:02:36.560000	0:02:37.934000
 bis	-	-	-	0:02:36.560000	0:02:37.934000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:36.560000" end="0:02:37.934000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:36.560000" end="0:02:37.934000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:36.560000	0:02:37.934000
 .	-	-	-	0:02:36.560000	0:02:37.934000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:37.934000" end="0:02:42.078000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:37.934000" end="0:02:42.078000" project="PP03" age_lower="18" age_upper="35">
 zur	-	-	-	0:02:37.934000	0:02:39.258000
 SONSTIGE	SONSTIGE	-	-	0:02:37.934000	0:02:39.258000
 ,	-	-	-	0:02:37.934000	0:02:39.258000
@@ -719,11 +719,11 @@ Angebotsberechnung	-	-	-	0:02:39.258000	0:02:40.969000
 ,	-	-	-	0:02:39.258000	0:02:40.969000
 Kundenbetreuung	-	-	-	0:02:40.969000	0:02:42.078000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:40.969000" end="0:02:42.078000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:40.969000" end="0:02:42.078000" age_lower="1" age_upper="999">
 (okay)	-	-	-	0:02:40.969000	0:02:42.078000
 .	-	-	-	0:02:40.969000	0:02:42.078000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:42.078000" end="0:02:43.813000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:42.078000" end="0:02:43.813000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:02:42.078000	0:02:43.418000
 alles	-	-	-	0:02:42.078000	0:02:43.418000
 durch	-	-	-	0:02:42.078000	0:02:43.418000
@@ -731,11 +731,11 @@ die	-	-	-	0:02:43.418000	0:02:43.813000
 Bank	-	-	-	0:02:43.418000	0:02:43.813000
 .	-	-	-	0:02:43.418000	0:02:43.813000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:43.418000" end="0:02:43.813000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:43.418000" end="0:02:43.813000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:43.418000	0:02:43.813000
 .	-	-	-	0:02:43.418000	0:02:43.813000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:43.813000" end="0:02:45.897000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:43.813000" end="0:02:45.897000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:02:43.813000	0:02:45.391000
 ich	-	-	-	0:02:43.813000	0:02:45.391000
 bin	-	-	-	0:02:43.813000	0:02:45.391000
@@ -746,11 +746,11 @@ Zweig	-	-	-	0:02:43.813000	0:02:45.391000
 zuständig	-	-	-	0:02:45.391000	0:02:45.897000
 ,	-	-	-	0:02:45.391000	0:02:45.897000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:45.391000" end="0:02:45.897000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:45.391000" end="0:02:45.897000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:45.391000	0:02:45.897000
 .	-	-	-	0:02:45.391000	0:02:45.897000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:45.897000" end="0:02:47.298000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:45.897000" end="0:02:47.298000" project="PP03" age_lower="18" age_upper="35">
 sondern	-	-	-	0:02:45.897000	0:02:47.045000
 ich	-	-	-	0:02:45.897000	0:02:47.045000
 mache	-	-	-	0:02:45.897000	0:02:47.045000
@@ -760,17 +760,17 @@ alles	-	-	-	0:02:45.897000	0:02:47.045000
 wir	-	-	-	0:02:47.045000	0:02:47.298000
 sind	-	-	-	0:02:47.045000	0:02:47.298000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:47.045000" end="0:02:47.298000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:47.045000" end="0:02:47.298000" age_lower="1" age_upper="999">
 ja	-	-	-	0:02:47.045000	0:02:47.298000
 .	-	-	-	0:02:47.045000	0:02:47.298000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:47.298000" end="0:02:48.227000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:47.298000" end="0:02:48.227000" project="PP03" age_lower="18" age_upper="35">
 ein	-	-	-	0:02:47.298000	0:02:48.227000
 SONSTIGE	SONSTIGE	-	-	0:02:47.298000	0:02:48.227000
 und	-	-	-	0:02:47.298000	0:02:48.227000
 /.	-	-	-	0:02:47.298000	0:02:48.227000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:48.227000" end="0:02:50.401000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:48.227000" end="0:02:50.401000" age_lower="1" age_upper="999">
 okay	-	-	-	0:02:48.227000	0:02:48.805000
 ,	-	-	-	0:02:48.227000	0:02:48.805000
 das	-	-	-	0:02:48.805000	0:02:49.026000
@@ -781,28 +781,28 @@ ist	-	-	-	0:02:49.026000	0:02:50.401000
 sehr	-	-	-	0:02:49.026000	0:02:50.401000
 vielfältig	-	-	-	0:02:49.026000	0:02:50.401000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:50.401000" end="0:02:51.142000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:50.401000" end="0:02:51.142000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:02:50.401000	0:02:51.142000
 ,	-	-	-	0:02:50.401000	0:02:51.142000
 ja	-	-	-	0:02:50.401000	0:02:51.142000
 .	-	-	-	0:02:50.401000	0:02:51.142000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:50.401000" end="0:02:51.142000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:50.401000" end="0:02:51.142000" age_lower="1" age_upper="999">
 die	-	-	-	0:02:50.401000	0:02:51.142000
 Aufgaben	-	-	-	0:02:50.401000	0:02:51.142000
 ?	-	-	-	0:02:50.401000	0:02:51.142000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:51.142000" end="0:02:51.786000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:51.142000" end="0:02:51.786000" project="PP03" age_lower="18" age_upper="35">
 extrem	-	-	-	0:02:51.142000	0:02:51.786000
 ,	-	-	-	0:02:51.142000	0:02:51.786000
 ja	-	-	-	0:02:51.142000	0:02:51.786000
 .	-	-	-	0:02:51.142000	0:02:51.786000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:51.142000" end="0:02:51.786000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:51.142000" end="0:02:51.786000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:51.142000	0:02:51.786000
 .	-	-	-	0:02:51.142000	0:02:51.786000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:51.786000" end="0:02:53.647000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:51.786000" end="0:02:53.647000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 gibt	-	-	-	0:02:51.786000	0:02:53.647000
 immer	-	-	-	0:02:51.786000	0:02:53.647000
@@ -813,7 +813,7 @@ Neues	-	-	-	0:02:51.786000	0:02:53.647000
 ja	-	-	-	0:02:51.786000	0:02:53.647000
 .	-	-	-	0:02:51.786000	0:02:53.647000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:53.647000" end="0:02:56.055000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:53.647000" end="0:02:56.055000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:53.647000	0:02:53.941000
 .	-	-	-	0:02:53.647000	0:02:53.941000
 und	-	-	-	0:02:53.941000	0:02:56.055000
@@ -826,7 +826,7 @@ der	-	-	-	0:02:53.941000	0:02:56.055000
 gleichen	-	-	-	0:02:53.941000	0:02:56.055000
 /?	-	-	-	0:02:53.941000	0:02:56.055000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:56.055000" end="0:02:58.438000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:56.055000" end="0:02:58.438000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:02:56.055000	0:02:57.075000
 der	-	-	-	0:02:56.055000	0:02:57.075000
 gleichen	-	-	-	0:02:56.055000	0:02:57.075000
@@ -840,11 +840,11 @@ Zehnjähriges	-	-	-	0:02:57.075000	0:02:58.067000
 gehabt	-	-	-	0:02:58.067000	0:02:58.438000
 .	-	-	-	0:02:58.067000	0:02:58.438000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:58.067000" end="0:02:58.438000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:58.067000" end="0:02:58.438000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:58.438000" end="0:03:00.606000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:58.438000" end="0:03:00.606000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:58.438000" end="0:03:08.914000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:58.438000" end="0:03:08.914000" age_lower="1" age_upper="999">
 ja	-	-	-	0:02:58.438000	0:03:00.606000
 super	-	-	-	0:02:58.438000	0:03:00.606000
 .	-	-	-	0:02:58.438000	0:03:00.606000
@@ -871,7 +871,7 @@ gleich	-	-	-	0:03:07.560000	0:03:08.914000
 sprechen	-	-	-	0:03:07.560000	0:03:08.914000
 ?	-	-	-	0:03:07.560000	0:03:08.914000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:08.914000" end="0:03:10.605000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:08.914000" end="0:03:10.605000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:03:08.914000	0:03:09.983000
 ,	-	-	-	0:03:08.914000	0:03:09.983000
 unterschiedlich	-	-	-	0:03:08.914000	0:03:09.983000
@@ -879,11 +879,11 @@ unterschiedlich	-	-	-	0:03:08.914000	0:03:09.983000
 also	-	-	-	0:03:09.983000	0:03:10.605000
 auch	-	-	-	0:03:09.983000	0:03:10.605000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:09.983000" end="0:03:10.605000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:09.983000" end="0:03:10.605000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:09.983000	0:03:10.605000
 .	-	-	-	0:03:09.983000	0:03:10.605000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:10.605000" end="0:03:15.171000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:10.605000" end="0:03:15.171000" project="PP03" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:03:10.605000	0:03:12.567000
 ähm	-	-	-	0:03:10.605000	0:03:12.567000
 speziell	-	-	-	0:03:10.605000	0:03:12.567000
@@ -905,11 +905,11 @@ natürlich	-	-	-	0:03:12.567000	0:03:15.171000
 anders	-	-	-	0:03:12.567000	0:03:15.171000
 ,	-	-	-	0:03:12.567000	0:03:15.171000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:15.171000" end="0:03:15.685000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:15.171000" end="0:03:15.685000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:15.171000	0:03:15.685000
 .	-	-	-	0:03:15.171000	0:03:15.685000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:15.685000" end="0:03:20.036000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:15.685000" end="0:03:20.036000" project="PP03" age_lower="18" age_upper="35">
 als	-	-	-	0:03:15.685000	0:03:20.036000
 wie	-	-	-	0:03:15.685000	0:03:20.036000
 wenn	-	-	-	0:03:15.685000	0:03:20.036000
@@ -926,11 +926,11 @@ Ort	-	-	-	0:03:15.685000	0:03:20.036000
 kommt	-	-	-	0:03:15.685000	0:03:20.036000
 ,	-	-	-	0:03:15.685000	0:03:20.036000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:20.036000" end="0:03:20.417000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:20.036000" end="0:03:20.417000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:20.036000	0:03:20.417000
 .	-	-	-	0:03:20.036000	0:03:20.417000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:20.417000" end="0:03:22.906000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:20.417000" end="0:03:22.906000" project="PP03" age_lower="18" age_upper="35">
 ein	-	-	-	0:03:20.417000	0:03:22.127000
 Bauer	-	-	-	0:03:20.417000	0:03:22.127000
 oder	-	-	-	0:03:20.417000	0:03:22.127000
@@ -942,18 +942,18 @@ spricht	-	-	-	0:03:22.126000	0:03:22.906000
 man	-	-	-	0:03:22.126000	0:03:22.906000
 schon	-	-	-	0:03:22.126000	0:03:22.906000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:22.906000" end="0:03:23.162000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:22.906000" end="0:03:23.162000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:22.906000	0:03:23.162000
 .	-	-	-	0:03:22.906000	0:03:23.162000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:23.162000" end="0:03:24.369000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:23.162000" end="0:03:24.369000" project="PP03" age_lower="18" age_upper="35">
 extrem	-	-	-	0:03:23.162000	0:03:23.915000
 Mundart	-	-	-	0:03:23.162000	0:03:23.915000
 .	-	-	-	0:03:23.162000	0:03:23.915000
 ja	-	-	-	0:03:23.915000	0:03:24.369000
 .	-	-	-	0:03:23.915000	0:03:24.369000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:23.915000" end="0:03:31.837000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:23.915000" end="0:03:31.837000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:23.915000	0:03:24.369000
 .	-	-	-	0:03:23.915000	0:03:24.369000
 und	-	-	-	0:03:24.369000	0:03:26.369000
@@ -978,14 +978,14 @@ unterschiedlichen	-	-	-	0:03:29.782000	0:03:31.837000
 Personen	-	-	-	0:03:29.782000	0:03:31.837000
 unterschiedlich	-	-	-	0:03:29.782000	0:03:31.837000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:31.837000" end="0:03:32.712000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:31.837000" end="0:03:32.712000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:03:31.837000	0:03:32.712000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:31.837000" end="0:03:32.712000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:31.837000" end="0:03:32.712000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:03:31.837000	0:03:32.712000
 ?	-	-	-	0:03:31.837000	0:03:32.712000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:32.712000" end="0:03:37.501000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:32.712000" end="0:03:37.501000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:32.712000	0:03:33.906000
 ,	-	-	-	0:03:32.712000	0:03:33.906000
 wenn	-	-	-	0:03:32.712000	0:03:33.906000
@@ -1010,11 +1010,11 @@ Tourismus	-	-	-	0:03:36.192000	0:03:37.501000
 ist	-	-	-	0:03:36.192000	0:03:37.501000
 .	-	-	-	0:03:36.192000	0:03:37.501000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:37.501000" end="0:03:37.992000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:37.501000" end="0:03:37.992000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:37.501000	0:03:37.992000
 .	-	-	-	0:03:37.501000	0:03:37.992000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:37.992000" end="0:03:42.721000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:37.992000" end="0:03:42.721000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:03:37.992000	0:03:38.785000
 wenn	-	-	-	0:03:37.992000	0:03:38.785000
 ich	-	-	-	0:03:37.992000	0:03:38.785000
@@ -1037,19 +1037,19 @@ man	-	-	-	0:03:41.571000	0:03:42.721000
 natürlich	-	-	-	0:03:41.571000	0:03:42.721000
 auch	-	-	-	0:03:41.571000	0:03:42.721000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:42.721000" end="0:03:43.766000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:42.721000" end="0:03:43.766000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:42.721000	0:03:43.766000
 .	-	-	-	0:03:42.721000	0:03:43.766000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:42.721000" end="0:03:43.766000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:42.721000" end="0:03:43.766000" project="PP03" age_lower="18" age_upper="35">
 dementsprechend	-	-	-	0:03:42.721000	0:03:43.766000
 .	-	-	-	0:03:42.721000	0:03:43.766000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:43.766000" end="0:03:44.349000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:43.766000" end="0:03:44.349000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:43.766000	0:03:44.349000
 .	-	-	-	0:03:43.766000	0:03:44.349000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:44.349000" end="0:03:48.473000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:44.349000" end="0:03:48.473000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:03:44.349000	0:03:46.947000
 speziell	-	-	-	0:03:44.349000	0:03:46.947000
 ähm	-	-	-	0:03:44.349000	0:03:46.947000
@@ -1064,21 +1064,21 @@ kein	-	-	-	0:03:46.947000	0:03:48.473000
 Wort	-	-	-	0:03:46.947000	0:03:48.473000
 ,	-	-	-	0:03:46.947000	0:03:48.473000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:48.473000" end="0:03:49.751000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:48.473000" end="0:03:49.751000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:48.473000	0:03:49.751000
 .	-	-	-	0:03:48.473000	0:03:49.751000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:48.473000" end="0:03:50.149000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:48.473000" end="0:03:50.149000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:03:48.473000	0:03:49.751000
 ,	-	-	-	0:03:48.473000	0:03:49.751000
 ja	-	-	-	0:03:49.751000	0:03:50.149000
 ,	-	-	-	0:03:49.751000	0:03:50.149000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:50.149000" end="0:03:50.415000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:50.149000" end="0:03:50.415000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:50.149000	0:03:50.415000
 .	-	-	-	0:03:50.149000	0:03:50.415000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:50.415000" end="0:03:51.493000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:50.415000" end="0:03:51.493000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:03:50.415000	0:03:51.493000
 passt	-	-	-	0:03:50.415000	0:03:51.493000
 man	-	-	-	0:03:50.415000	0:03:51.493000
@@ -1087,15 +1087,15 @@ schon	-	-	-	0:03:50.415000	0:03:51.493000
 an	-	-	-	0:03:50.415000	0:03:51.493000
 ,	-	-	-	0:03:50.415000	0:03:51.493000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:51.493000" end="0:03:51.911000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:51.493000" end="0:03:51.911000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:51.493000	0:03:51.911000
 .	-	-	-	0:03:51.493000	0:03:51.911000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:51.493000" end="0:03:51.911000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:51.493000" end="0:03:51.911000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:51.493000	0:03:51.911000
 .	-	-	-	0:03:51.493000	0:03:51.911000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:51.911000" end="0:03:57.611000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:51.911000" end="0:03:57.611000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 wie	-	-	-	0:03:51.911000	0:03:53.231000
 nennen	-	-	-	0:03:51.911000	0:03:53.231000
@@ -1113,7 +1113,7 @@ miteinander	-	-	-	0:03:53.231000	0:03:57.611000
 sprechen	-	-	-	0:03:53.231000	0:03:57.611000
 ?	-	-	-	0:03:53.231000	0:03:57.611000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:57.611000" end="0:03:58.953000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:57.611000" end="0:03:58.953000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 wie	-	-	-	0:03:57.611000	0:03:58.953000
 ich	-	-	-	0:03:57.611000	0:03:58.953000
@@ -1121,7 +1121,7 @@ das	-	-	-	0:03:57.611000	0:03:58.953000
 nenne	-	-	-	0:03:57.611000	0:03:58.953000
 ?	-	-	-	0:03:57.611000	0:03:58.953000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:58.953000" end="0:04:01.670000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:58.953000" end="0:04:01.670000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:58.953000	0:03:59.325000
 ,	-	-	-	0:03:58.953000	0:03:59.325000
 <pause duration="0,8s"/>
@@ -1131,21 +1131,21 @@ diese	-	-	-	0:03:59.325000	0:04:00.964000
 Spra/	-	-	-	0:04:00.964000	0:04:01.670000
 /.	-	-	-	0:04:00.964000	0:04:01.670000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:00.964000" end="0:04:01.670000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:00.964000" end="0:04:01.670000" project="PP03" age_lower="18" age_upper="35">
 Hüttschlagerisch	-	-	-	0:04:00.964000	0:04:01.670000
 .	-	-	-	0:04:00.964000	0:04:01.670000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:01.670000" end="0:04:02.754000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:01.670000" end="0:04:02.754000" age_lower="1" age_upper="999">
 Hüttschlagerisch	-	-	-	0:04:01.670000	0:04:02.348000
 ,	-	-	-	0:04:01.670000	0:04:02.348000
 mhm	-	-	-	0:04:02.348000	0:04:02.754000
 .	-	-	-	0:04:02.348000	0:04:02.754000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:02.348000" end="0:04:03.784000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:02.348000" end="0:04:03.784000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:02.348000	0:04:02.754000
 .	-	-	-	0:04:02.348000	0:04:02.754000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:03.784000" end="0:04:11.606000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:03.784000" end="0:04:11.606000" age_lower="1" age_upper="999">
 <pause duration="4,3s"/>
 und	-	-	-	0:04:08.134000	0:04:11.606000
 ähm	-	-	-	0:04:08.134000	0:04:11.606000
@@ -1156,18 +1156,18 @@ Hüttschlagerisch	-	-	-	0:04:08.134000	0:04:11.606000
 sprechen	-	-	-	0:04:08.134000	0:04:11.606000
 ?	-	-	-	0:04:08.134000	0:04:11.606000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:11.606000" end="0:04:12.176000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:11.606000" end="0:04:12.176000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:11.606000	0:04:12.176000
 .	-	-	-	0:04:11.606000	0:04:12.176000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:12.176000" end="0:04:13.907000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:12.176000" end="0:04:13.907000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:12.176000	0:04:12.882000
 .	-	-	-	0:04:12.176000	0:04:12.882000
 ähm	-	-	-	0:04:12.882000	0:04:13.907000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:12.882000" end="0:04:13.907000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:12.882000" end="0:04:13.907000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:13.907000" end="0:04:17.394000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:13.907000" end="0:04:17.394000" age_lower="1" age_upper="999">
 wie	-	-	-	0:04:13.907000	0:04:17.394000
 gut	-	-	-	0:04:13.907000	0:04:17.394000
 können	-	-	-	0:04:13.907000	0:04:17.394000
@@ -1177,13 +1177,13 @@ Hüttschlagerisch	-	-	-	0:04:13.907000	0:04:17.394000
 sprechen	-	-	-	0:04:13.907000	0:04:17.394000
 ?	-	-	-	0:04:13.907000	0:04:17.394000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:17.394000" end="0:04:19.567000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:17.394000" end="0:04:19.567000" project="PP03" age_lower="18" age_upper="35">
 Hüttschlagerisch	-	-	-	0:04:17.394000	0:04:18.688000
 sehr	-	-	-	0:04:17.394000	0:04:18.688000
 gut	-	-	-	0:04:17.394000	0:04:18.688000
 .	-	-	-	0:04:17.394000	0:04:18.688000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:18.688000" end="0:04:20.832000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:18.688000" end="0:04:20.832000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:18.688000	0:04:19.567000
 .	-	-	-	0:04:18.688000	0:04:19.567000
 da	-	-	-	0:04:19.567000	0:04:20.832000
@@ -1194,11 +1194,11 @@ Skala	-	-	-	0:04:19.567000	0:04:20.832000
 für	-	-	-	0:04:19.567000	0:04:20.832000
 Sie	-	-	-	0:04:19.567000	0:04:20.832000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:20.832000" end="0:04:21.414000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:20.832000" end="0:04:21.414000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:20.832000	0:04:21.414000
 .	-	-	-	0:04:20.832000	0:04:21.414000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:20.832000" end="0:04:23.720000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:20.832000" end="0:04:23.720000" age_lower="1" age_upper="999">
 bitte	-	-	-	0:04:20.832000	0:04:21.414000
 ,	-	-	-	0:04:20.832000	0:04:21.414000
 (wenn)	-	-	-	0:04:21.414000	0:04:22.890000
@@ -1211,24 +1211,24 @@ eintragen	-	-	-	0:04:21.414000	0:04:22.890000
 nicht"	-	-	-	0:04:22.890000	0:04:23.720000
 oder	-	-	-	0:04:22.890000	0:04:23.720000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:23.720000" end="0:04:24.596000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:23.720000" end="0:04:24.596000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:04:23.720000	0:04:24.596000
 .	-	-	-	0:04:23.720000	0:04:24.596000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:23.720000" end="0:04:24.596000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:23.720000" end="0:04:24.596000" age_lower="1" age_upper="999">
 "vollständig"	-	-	-	0:04:23.720000	0:04:24.596000
 .	-	-	-	0:04:23.720000	0:04:24.596000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:24.596000" end="0:04:26.462000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:24.596000" end="0:04:26.462000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:26.461000" end="0:04:26.954000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:26.461000" end="0:04:26.954000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:26.461000	0:04:26.954000
 .	-	-	-	0:04:26.461000	0:04:26.954000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:26.954000" end="0:04:27.424000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:26.954000" end="0:04:27.424000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:27.424000" end="0:04:29.765000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:27.424000" end="0:04:29.765000" age_lower="1" age_upper="999">
 also	-	-	-	0:04:27.424000	0:04:29.765000
 Sie	-	-	-	0:04:27.424000	0:04:29.765000
 haben	-	-	-	0:04:27.424000	0:04:29.765000
@@ -1237,11 +1237,11 @@ jetzt	-	-	-	0:04:27.424000	0:04:29.765000
 ausgewählt	-	-	-	0:04:27.424000	0:04:29.765000
 ,	-	-	-	0:04:27.424000	0:04:29.765000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:29.765000" end="0:04:30.085000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:29.765000" end="0:04:30.085000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:29.765000	0:04:30.085000
 .	-	-	-	0:04:29.765000	0:04:30.085000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:30.085000" end="0:04:44.207000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:30.085000" end="0:04:44.207000" age_lower="1" age_upper="999">
 dass	-	-	-	0:04:30.085000	0:04:32.594000
 Sie	-	-	-	0:04:30.085000	0:04:32.594000
 so	-	-	-	0:04:30.085000	0:04:32.594000
@@ -1278,7 +1278,7 @@ Hüttschlag	-	-	-	0:04:40.646000	0:04:44.207000
 vielleicht	-	-	-	0:04:40.646000	0:04:44.207000
 ?	-	-	-	0:04:40.646000	0:04:44.207000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:44.207000" end="0:04:54.920000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:44.207000" end="0:04:54.920000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:44.207000	0:04:45.590000
 ähm	-	-	-	0:04:44.207000	0:04:45.590000
 ,	-	-	-	0:04:44.207000	0:04:45.590000
@@ -1306,11 +1306,11 @@ Bereich	-	-	-	0:04:52.536000	0:04:54.222000
 von	-	-	-	0:04:54.222000	0:04:54.920000
 Hüttschlag	-	-	-	0:04:54.222000	0:04:54.920000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:54.222000" end="0:04:54.920000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:54.222000" end="0:04:54.920000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:54.222000	0:04:54.920000
 .	-	-	-	0:04:54.222000	0:04:54.920000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:54.920000" end="0:05:02.514000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:54.920000" end="0:05:02.514000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:04:54.920000	0:04:57.344000
 im	-	-	-	0:04:54.920000	0:04:57.344000
 Ort	-	-	-	0:04:54.920000	0:04:57.344000
@@ -1335,11 +1335,11 @@ Wörter	-	-	-	0:04:59.832000	0:05:01.877000
 also	-	-	-	0:05:01.877000	0:05:02.514000
 es	-	-	-	0:05:01.877000	0:05:02.514000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:01.877000" end="0:05:02.514000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:01.877000" end="0:05:02.514000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:01.877000	0:05:02.514000
 .	-	-	-	0:05:01.877000	0:05:02.514000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:02.514000" end="0:05:05.495000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:02.514000" end="0:05:05.495000" project="PP03" age_lower="18" age_upper="35">
 gibt	-	-	-	0:05:02.514000	0:05:03.543000
 schon	-	-	-	0:05:02.514000	0:05:03.543000
 viele	-	-	-	0:05:02.514000	0:05:03.543000
@@ -1355,16 +1355,16 @@ sehr	-	-	-	0:05:03.543000	0:05:05.495000
 wenig	-	-	-	0:05:03.543000	0:05:05.495000
 benutzt	-	-	-	0:05:03.543000	0:05:05.495000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:05.495000" end="0:05:06.081000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:05.495000" end="0:05:06.081000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:05.495000	0:05:06.081000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:05.495000" end="0:05:06.081000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:05.495000" end="0:05:06.081000" project="PP03" age_lower="18" age_upper="35">
 werden	-	-	-	0:05:05.495000	0:05:06.081000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:05.495000" end="0:05:06.081000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:05.495000" end="0:05:06.081000" age_lower="1" age_upper="999">
 .	-	-	-	0:05:05.495000	0:05:06.081000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:05.495000" end="0:05:14.196000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:05.495000" end="0:05:14.196000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:05:05.495000	0:05:06.081000
 /.	-	-	-	0:05:05.495000	0:05:06.081000
 also	-	-	-	0:05:06.081000	0:05:08.341000
@@ -1399,11 +1399,11 @@ was	-	-	-	0:05:12.578000	0:05:14.196000
 bedeutet	-	-	-	0:05:12.578000	0:05:14.196000
 das	-	-	-	0:05:12.578000	0:05:14.196000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:14.197000" end="0:05:14.735000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:14.197000" end="0:05:14.735000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:14.197000	0:05:14.735000
 .	-	-	-	0:05:14.197000	0:05:14.735000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:14.197000" end="0:05:25.005000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:14.197000" end="0:05:25.005000" project="PP03" age_lower="18" age_upper="35">
 jetzt"	-	-	-	0:05:14.197000	0:05:14.735000
 ?	-	-	-	0:05:14.197000	0:05:14.735000
 ,	-	-	-	0:05:14.197000	0:05:14.735000
@@ -1444,11 +1444,11 @@ Oma	-	-	-	0:05:22.973000	0:05:25.005000
 immer	-	-	-	0:05:22.973000	0:05:25.005000
 gesagt	-	-	-	0:05:22.973000	0:05:25.005000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:25.005000" end="0:05:25.387000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:25.005000" end="0:05:25.387000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:25.005000	0:05:25.387000
 .	-	-	-	0:05:25.005000	0:05:25.387000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:25.005000" end="0:05:27.877000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:25.005000" end="0:05:27.877000" project="PP03" age_lower="18" age_upper="35">
 hat	-	-	-	0:05:25.005000	0:05:25.387000
 und	-	-	-	0:05:25.387000	0:05:26.886000
 wir	-	-	-	0:05:25.387000	0:05:26.886000
@@ -1463,13 +1463,13 @@ ja	-	-	-	0:05:26.886000	0:05:27.877000
 dann	-	-	-	0:05:26.886000	0:05:27.877000
 fragen	-	-	-	0:05:26.886000	0:05:27.877000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:27.877000" end="0:05:28.644000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:27.877000" end="0:05:28.644000" age_lower="1" age_upper="999">
 gerne	-	-	-	0:05:27.877000	0:05:28.342000
 ,	-	-	-	0:05:27.877000	0:05:28.342000
 ja	-	-	-	0:05:28.342000	0:05:28.644000
 .	-	-	-	0:05:28.342000	0:05:28.644000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:28.342000" end="0:05:29.663000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:28.342000" end="0:05:29.663000" project="PP03" age_lower="18" age_upper="35">
 soll	-	-	-	0:05:28.342000	0:05:28.644000
 ich	-	-	-	0:05:28.644000	0:05:29.663000
 kurz	-	-	-	0:05:28.644000	0:05:29.663000
@@ -1479,7 +1479,7 @@ gehen	-	-	-	0:05:28.644000	0:05:29.663000
 oder	-	-	-	0:05:28.644000	0:05:29.663000
 ?	-	-	-	0:05:28.644000	0:05:29.663000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:29.663000" end="0:05:31.193000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:29.663000" end="0:05:31.193000" age_lower="1" age_upper="999">
 das	-	-	-	0:05:29.663000	0:05:30.418000
 ist	-	-	-	0:05:29.663000	0:05:30.418000
 interessant	-	-	-	0:05:29.663000	0:05:30.418000
@@ -1489,17 +1489,17 @@ können	-	-	-	0:05:30.418000	0:05:30.807000
 wir	-	-	-	0:05:30.418000	0:05:30.807000
 später	-	-	-	0:05:30.807000	0:05:31.193000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:30.807000" end="0:05:31.193000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:30.807000" end="0:05:31.193000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:30.807000	0:05:31.193000
 .	-	-	-	0:05:30.807000	0:05:31.193000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:31.193000" end="0:05:32.757000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:31.193000" end="0:05:32.757000" age_lower="1" age_upper="999">
 auch	-	-	-	0:05:31.193000	0:05:31.804000
 (noch	-	-	-	0:05:31.193000	0:05:31.804000
 was)	-	-	-	0:05:31.193000	0:05:31.804000
 .	-	-	-	0:05:31.193000	0:05:31.804000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:31.804000" end="0:05:36.609000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:31.804000" end="0:05:36.609000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:05:31.804000	0:05:32.757000
 ja	-	-	-	0:05:32.757000	0:05:33.236000
 ,	-	-	-	0:05:32.757000	0:05:33.236000
@@ -1514,11 +1514,11 @@ eigentlich	-	-	-	0:05:34.234000	0:05:36.609000
 teilweise	-	-	-	0:05:34.234000	0:05:36.609000
 nur	-	-	-	0:05:34.234000	0:05:36.609000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:36.609000" end="0:05:37.801000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:36.609000" end="0:05:37.801000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:36.609000	0:05:37.801000
 .	-	-	-	0:05:36.609000	0:05:37.801000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:36.609000" end="0:05:39.539000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:36.609000" end="0:05:39.539000" project="PP03" age_lower="18" age_upper="35">
 vereinzelte	-	-	-	0:05:36.609000	0:05:37.801000
 Wörter	-	-	-	0:05:37.801000	0:05:38.508000
 ,	-	-	-	0:05:37.801000	0:05:38.508000
@@ -1529,11 +1529,11 @@ in	-	-	-	0:05:38.508000	0:05:39.539000
 im	-	-	-	0:05:38.508000	0:05:39.539000
 gesch/	-	-	-	0:05:38.508000	0:05:39.539000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:39.539000" end="0:05:40.771000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:39.539000" end="0:05:40.771000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:39.539000	0:05:40.771000
 .	-	-	-	0:05:39.539000	0:05:40.771000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:39.539000" end="0:05:45.718000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:39.539000" end="0:05:45.718000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 im	-	-	-	0:05:39.539000	0:05:40.771000
 Gebrauch	-	-	-	0:05:39.539000	0:05:40.771000
@@ -1557,11 +1557,11 @@ extrem	-	-	??	0:05:44.060000	0:05:45.718000
 viel	-	-	??	0:05:44.060000	0:05:45.718000
 Unterschied	-	-	??	0:05:44.060000	0:05:45.718000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:45.718000" end="0:05:46.076000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:45.718000" end="0:05:46.076000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:45.718000	0:05:46.076000
 .	-	-	-	0:05:45.718000	0:05:46.076000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:45.718000" end="0:05:48.795000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:45.718000" end="0:05:48.795000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:05:45.718000	0:05:46.076000
 zwischen	-	-	-	0:05:46.076000	0:05:46.605000
 /.	-	-	-	0:05:46.076000	0:05:46.605000
@@ -1571,7 +1571,7 @@ ja	-	-	-	0:05:46.605000	0:05:47.824000
 verschieden	-	-	-	0:05:47.824000	0:05:48.795000
 .	-	-	-	0:05:47.824000	0:05:48.795000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:48.795000" end="0:05:52.472000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:48.795000" end="0:05:52.472000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 mhm	-	-	-	0:05:48.795000	0:05:50.006000
 .	-	-	-	0:05:48.795000	0:05:50.006000
@@ -1582,24 +1582,24 @@ gerne	-	-	-	0:05:50.006000	0:05:52.472000
 Hüttschlagerisch	-	-	-	0:05:50.006000	0:05:52.472000
 ?	-	-	-	0:05:50.006000	0:05:52.472000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:52.472000" end="0:05:52.789000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:52.472000" end="0:05:52.789000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:52.472000	0:05:52.789000
 .	-	-	-	0:05:52.472000	0:05:52.789000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:52.789000" end="0:05:53.260000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:52.789000" end="0:05:53.260000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:52.789000	0:05:53.260000
 .	-	-	-	0:05:52.789000	0:05:53.260000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:52.789000" end="0:05:53.260000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:52.789000" end="0:05:53.260000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:53.260000" end="0:05:54.122000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:53.260000" end="0:05:54.122000" age_lower="1" age_upper="999">
 warum	-	-	-	0:05:53.260000	0:05:54.122000
 ist	-	-	-	0:05:53.260000	0:05:54.122000
 das	-	-	-	0:05:53.260000	0:05:54.122000
 so	-	-	-	0:05:53.260000	0:05:54.122000
 ?	-	-	-	0:05:53.260000	0:05:54.122000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:54.122000" end="0:06:04.611000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:54.122000" end="0:06:04.611000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:05:54.122000	0:05:57.289000
 es	-	-	-	0:05:54.122000	0:05:57.289000
 ist	-	-	-	0:05:54.122000	0:05:57.289000
@@ -1634,11 +1634,11 @@ auch	-	-	-	0:06:03.436000	0:06:04.611000
 aus	-	-	-	0:06:03.436000	0:06:04.611000
 Hüttschlag	-	-	-	0:06:03.436000	0:06:04.611000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:04.611000" end="0:06:05.481000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:04.611000" end="0:06:05.481000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:04.611000	0:06:05.481000
 .	-	-	-	0:06:04.611000	0:06:05.481000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:04.611000" end="0:06:14.522000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:04.611000" end="0:06:14.522000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:06:04.611000	0:06:05.481000
 irgendwie	-	-	-	0:06:04.611000	0:06:05.481000
 <pause duration="0,6s"/>
@@ -1677,11 +1677,11 @@ wieder	-	-	-	0:06:12.946000	0:06:14.522000
 vollständig	-	-	-	0:06:12.946000	0:06:14.522000
 Dialekt	-	-	-	0:06:12.946000	0:06:14.522000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:14.522000" end="0:06:15.127000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:14.522000" end="0:06:15.127000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:14.522000	0:06:15.127000
 .	-	-	-	0:06:14.522000	0:06:15.127000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:14.522000" end="0:06:16.490000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:14.522000" end="0:06:16.490000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:06:14.522000	0:06:15.127000
 dann	-	-	-	0:06:14.522000	0:06:15.127000
 sagt	-	-	-	0:06:14.522000	0:06:15.127000
@@ -1694,11 +1694,11 @@ hat	-	-	-	0:06:15.127000	0:06:16.490000
 im	-	-	-	0:06:15.127000	0:06:16.490000
 gefehlt	-	-	-	0:06:15.127000	0:06:16.490000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:16.490000" end="0:06:16.973000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:16.490000" end="0:06:16.973000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:16.490000	0:06:16.973000
 .	-	-	-	0:06:16.490000	0:06:16.973000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:16.490000" end="0:06:21.063000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:16.490000" end="0:06:21.063000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:06:16.490000	0:06:16.973000
 es	-	-	-	0:06:16.490000	0:06:16.973000
 ist	-	-	-	0:06:16.490000	0:06:16.973000
@@ -1714,11 +1714,11 @@ ist	-	-	-	0:06:17.907000	0:06:19.969000
 und	-	-	-	0:06:17.907000	0:06:19.969000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:21.063000" end="0:06:21.467000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:21.063000" end="0:06:21.467000" age_lower="1" age_upper="999">
 (dann)	-	-	-	0:06:21.063000	0:06:21.467000
 /.	-	-	-	0:06:21.063000	0:06:21.467000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:21.063000" end="0:06:22.765000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:21.063000" end="0:06:22.765000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:06:21.063000	0:06:21.467000
 ist	-	-	-	0:06:21.467000	0:06:22.765000
 es	-	-	-	0:06:21.467000	0:06:22.765000
@@ -1727,15 +1727,15 @@ so	-	-	-	0:06:21.467000	0:06:22.765000
 sagen	-	-	-	0:06:21.467000	0:06:22.765000
 die	-	-	-	0:06:21.467000	0:06:22.765000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:22.764000" end="0:06:24.017000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:22.764000" end="0:06:24.017000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:22.764000	0:06:24.017000
 .	-	-	-	0:06:22.764000	0:06:24.017000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:22.764000" end="0:06:24.017000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:22.764000" end="0:06:24.017000" project="PP03" age_lower="18" age_upper="35">
 Muttersprache	-	-	-	0:06:22.764000	0:06:24.017000
 .	-	-	-	0:06:22.764000	0:06:24.017000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:24.017000" end="0:06:24.792000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:24.017000" end="0:06:24.792000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:24.017000	0:06:24.792000
 ,	-	-	-	0:06:24.017000	0:06:24.792000
 auf	-	-	-	0:06:24.017000	0:06:24.792000
@@ -1743,7 +1743,7 @@ jeden	-	-	-	0:06:24.017000	0:06:24.792000
 Fall	-	-	-	0:06:24.017000	0:06:24.792000
 .	-	-	-	0:06:24.017000	0:06:24.792000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:24.792000" end="0:06:29.738000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:24.792000" end="0:06:29.738000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:24.792000	0:06:25.206000
 .	-	-	-	0:06:24.792000	0:06:25.206000
 also	-	-	-	0:06:25.206000	0:06:28.387000
@@ -1762,25 +1762,25 @@ richtig	-	-	-	0:06:28.387000	0:06:29.738000
 schönes	-	-	-	0:06:28.387000	0:06:29.738000
 Deutsch	-	-	-	0:06:28.387000	0:06:29.738000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:29.738000" end="0:06:30.832000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:29.738000" end="0:06:30.832000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:30.832000" end="0:06:32.021000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:30.832000" end="0:06:32.021000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:06:30.832000	0:06:32.021000
 gar	-	-	-	0:06:30.832000	0:06:32.021000
 nicht	-	-	-	0:06:30.832000	0:06:32.021000
 gesprochen	-	-	-	0:06:30.832000	0:06:32.021000
 ,	-	-	-	0:06:30.832000	0:06:32.021000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:32.021000" end="0:06:32.428000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:32.021000" end="0:06:32.428000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:32.021000	0:06:32.428000
 .	-	-	-	0:06:32.021000	0:06:32.428000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:32.428000" end="0:06:32.957000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:32.428000" end="0:06:32.957000" project="PP03" age_lower="18" age_upper="35">
 mm	-	-	-	0:06:32.428000	0:06:32.957000
 .	-	-	-	0:06:32.428000	0:06:32.957000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:32.957000" end="0:06:39.205000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:32.957000" end="0:06:39.205000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 wie	-	-	-	0:06:34.132000	0:06:37.042000
 schaut	-	-	-	0:06:34.132000	0:06:37.042000
@@ -1803,36 +1803,36 @@ das	-	-	-	0:06:37.042000	0:06:39.205000
 verstehen	-	-	-	0:06:37.042000	0:06:39.205000
 ?	-	-	-	0:06:37.042000	0:06:39.205000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:39.205000" end="0:06:39.807000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:39.205000" end="0:06:39.807000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:06:39.205000	0:06:39.807000
 sehr	-	-	-	0:06:39.205000	0:06:39.807000
 gut	-	-	-	0:06:39.205000	0:06:39.807000
 ,	-	-	-	0:06:39.205000	0:06:39.807000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:39.807000" end="0:06:40.287000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:39.807000" end="0:06:40.287000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:39.807000	0:06:40.287000
 .	-	-	-	0:06:39.807000	0:06:40.287000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:39.807000" end="0:06:40.287000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:39.807000" end="0:06:40.287000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:39.807000	0:06:40.287000
 .	-	-	-	0:06:39.807000	0:06:40.287000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:40.287000" end="0:06:41.111000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:40.287000" end="0:06:41.111000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:41.111000" end="0:06:42.454000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:41.111000" end="0:06:42.454000" project="PP03" age_lower="18" age_upper="35">
 ((Telefon	-	-	-	0:06:41.111000	0:06:42.454000
 läutet))	-	-	-	0:06:41.111000	0:06:42.454000
 darf	-	-	-	0:06:41.111000	0:06:42.454000
 ich	-	-	-	0:06:41.111000	0:06:42.454000
 ganz	-	-	-	0:06:41.111000	0:06:42.454000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:42.454000" end="0:06:43.282000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:42.454000" end="0:06:43.282000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:42.454000	0:06:43.282000
 ,	-	-	-	0:06:42.454000	0:06:43.282000
 bitte	-	-	-	0:06:42.454000	0:06:43.282000
 .	-	-	-	0:06:42.454000	0:06:43.282000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:42.454000" end="0:06:43.521000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:42.454000" end="0:06:43.521000" project="PP03" age_lower="18" age_upper="35">
 kurz	-	-	-	0:06:42.454000	0:06:43.282000
 abheben	-	-	-	0:06:42.454000	0:06:43.282000
 ?	-	-	-	0:06:42.454000	0:06:43.282000
@@ -1841,17 +1841,17 @@ das	-	-	-	0:06:42.454000	0:06:43.282000
 blöd	-	-	-	0:06:43.282000	0:06:43.521000
 ?	-	-	-	0:06:43.282000	0:06:43.521000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:43.521000" end="0:06:44.366000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:43.521000" end="0:06:44.366000" age_lower="1" age_upper="999">
 nein	-	-	-	0:06:43.521000	0:06:44.366000
 ,	-	-	-	0:06:43.521000	0:06:44.366000
 nein	-	-	-	0:06:43.521000	0:06:44.366000
 ,	-	-	-	0:06:43.521000	0:06:44.366000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:43.521000" end="0:06:44.366000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:43.521000" end="0:06:44.366000" project="PP03" age_lower="18" age_upper="35">
 Entschuldigung	-	-	-	0:06:43.521000	0:06:44.366000
 .	-	-	-	0:06:43.521000	0:06:44.366000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:44.366000" end="0:06:47.124000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:44.366000" end="0:06:47.124000" age_lower="1" age_upper="999">
 können	-	-	-	0:06:44.366000	0:06:45.730000
 jederzeit	-	-	-	0:06:44.366000	0:06:45.730000
 Pause	-	-	-	0:06:44.366000	0:06:45.730000
@@ -1859,13 +1859,13 @@ machen	-	-	-	0:06:44.366000	0:06:45.730000
 .	-	-	-	0:06:44.366000	0:06:45.730000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:45.730000" end="0:06:54.427000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:45.730000" end="0:06:54.427000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 <pause duration="7,0s"/>
 okay	-	-	-	0:06:54.133000	0:06:54.427000
 .	-	-	-	0:06:54.133000	0:06:54.427000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:54.427000" end="0:06:56.860000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:54.427000" end="0:06:56.860000" age_lower="1" age_upper="999">
 auf	-	-	-	0:06:54.427000	0:06:55.277000
 Pause	-	-	-	0:06:54.427000	0:06:55.277000
 gedrückt	-	-	-	0:06:54.427000	0:06:55.277000
@@ -1880,18 +1880,18 @@ weiter	-	-	-	0:06:55.277000	0:06:56.401000
 mhm	-	-	-	0:06:56.401000	0:06:56.860000
 .	-	-	-	0:06:56.401000	0:06:56.860000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:56.401000" end="0:06:57.950000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:56.401000" end="0:06:57.950000" project="PP03" age_lower="18" age_upper="35">
 passt	-	-	-	0:06:56.401000	0:06:56.860000
 eigentlich	-	-	-	0:06:56.859000	0:06:57.950000
 auch	-	-	-	0:06:56.859000	0:06:57.950000
 so	-	-	-	0:06:56.859000	0:06:57.950000
 .	-	-	-	0:06:56.859000	0:06:57.950000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:57.950000" end="0:06:58.437000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:57.950000" end="0:06:58.437000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:57.950000	0:06:58.437000
 .	-	-	-	0:06:57.950000	0:06:58.437000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:58.437000" end="0:07:02.761000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:58.437000" end="0:07:02.761000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:06:58.437000	0:06:59.582000
 eigentlich	-	-	-	0:06:58.437000	0:06:59.582000
 ,	-	-	-	0:06:58.437000	0:06:59.582000
@@ -1910,13 +1910,13 @@ ganz	-	-	-	0:07:01.471000	0:07:02.761000
 selten	-	-	-	0:07:01.471000	0:07:02.761000
 .	-	-	-	0:07:01.471000	0:07:02.761000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:02.761000" end="0:07:03.166000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:02.761000" end="0:07:03.166000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:02.761000	0:07:03.166000
 .	-	-	-	0:07:02.761000	0:07:03.166000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:03.166000" end="0:07:03.862000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:03.166000" end="0:07:03.862000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:03.862000" end="0:07:07.673000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:03.862000" end="0:07:07.673000" age_lower="1" age_upper="999">
 in	-	-	-	0:07:03.862000	0:07:07.673000
 welchen	-	-	-	0:07:03.862000	0:07:07.673000
 Situationen	-	-	-	0:07:03.862000	0:07:07.673000
@@ -1929,7 +1929,7 @@ Sie	-	-	-	0:07:03.862000	0:07:07.673000
 Hüttschlagerisch	-	-	-	0:07:03.862000	0:07:07.673000
 ?	-	-	-	0:07:03.862000	0:07:07.673000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:07.673000" end="0:07:12.849000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:07.673000" end="0:07:12.849000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 eigentlich	-	-	-	0:07:08.987000	0:07:10.670000
 ähm	-	-	-	0:07:08.987000	0:07:10.670000
@@ -1939,11 +1939,11 @@ zuhause	-	-	-	0:07:10.670000	0:07:12.849000
 natürlich	-	-	-	0:07:10.670000	0:07:12.849000
 ,	-	-	-	0:07:10.670000	0:07:12.849000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:12.849000" end="0:07:13.370000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:12.849000" end="0:07:13.370000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:12.849000	0:07:13.370000
 .	-	-	-	0:07:12.849000	0:07:13.370000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:13.370000" end="0:07:16.335000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:13.370000" end="0:07:16.335000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:07:13.370000	0:07:16.335000
 <pause duration="0,5s"/>
 auch	-	-	-	0:07:13.370000	0:07:16.335000
@@ -1952,11 +1952,11 @@ im	-	-	-	0:07:13.370000	0:07:16.335000
 Beruf	-	-	-	0:07:13.370000	0:07:16.335000
 ,	-	-	-	0:07:13.370000	0:07:16.335000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:16.335000" end="0:07:17.059000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:16.335000" end="0:07:17.059000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:16.335000	0:07:17.059000
 .	-	-	-	0:07:16.335000	0:07:17.059000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:16.335000" end="0:07:22.552000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:16.335000" end="0:07:22.552000" project="PP03" age_lower="18" age_upper="35">
 (und)	-	-	-	0:07:16.335000	0:07:17.059000
 <pause duration="0,7s"/>
 durch	-	-	-	0:07:17.059000	0:07:18.097000
@@ -1974,11 +1974,11 @@ sehr	-	-	-	0:07:21.005000	0:07:22.552000
 ähnlich	-	-	-	0:07:21.005000	0:07:22.552000
 ,	-	-	-	0:07:21.005000	0:07:22.552000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:22.552000" end="0:07:22.946000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:22.552000" end="0:07:22.946000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:22.552000	0:07:22.946000
 .	-	-	-	0:07:22.552000	0:07:22.946000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:22.552000" end="0:07:29.964000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:22.552000" end="0:07:29.964000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:07:22.552000	0:07:22.946000
 man	-	-	-	0:07:22.946000	0:07:25.507000
 versteht	-	-	-	0:07:22.946000	0:07:25.507000
@@ -2003,11 +2003,11 @@ aus	-	-	-	0:07:27.377000	0:07:29.964000
 ORT	ORT	-	-	0:07:27.377000	0:07:29.964000
 .	-	-	-	0:07:27.377000	0:07:29.964000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:29.964000" end="0:07:30.318000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:29.964000" end="0:07:30.318000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:29.964000	0:07:30.318000
 .	-	-	-	0:07:29.964000	0:07:30.318000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:30.318000" end="0:07:38.032000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:30.318000" end="0:07:38.032000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:07:30.318000	0:07:31.941000
 ich	-	-	-	0:07:30.318000	0:07:31.941000
@@ -2039,22 +2039,22 @@ mittlerweile	-	-	-	0:07:35.525000	0:07:38.032000
 alles	-	-	-	0:07:35.525000	0:07:38.032000
 ,	-	-	-	0:07:35.525000	0:07:38.032000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:38.032000" end="0:07:38.900000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:38.032000" end="0:07:38.900000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:38.032000	0:07:38.900000
 .	-	-	-	0:07:38.032000	0:07:38.900000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:38.032000" end="0:07:39.852000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:38.032000" end="0:07:39.852000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:07:38.032000	0:07:38.900000
 auch	-	-	-	0:07:38.032000	0:07:38.900000
 eigentlich	-	-	-	0:07:38.900000	0:07:39.852000
 jedes	-	-	-	0:07:38.900000	0:07:39.852000
 Wort	-	-	-	0:07:38.900000	0:07:39.852000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:39.852000" end="0:07:40.517000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:39.852000" end="0:07:40.517000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:39.852000	0:07:40.517000
 .	-	-	-	0:07:39.852000	0:07:40.517000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:39.852000" end="0:07:45.053000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:39.852000" end="0:07:45.053000" project="PP03" age_lower="18" age_upper="35">
 mittlerweile	-	-	-	0:07:39.852000	0:07:40.517000
 ,	-	-	-	0:07:39.852000	0:07:40.517000
 also	-	-	-	0:07:40.517000	0:07:42.238000
@@ -2073,11 +2073,11 @@ eigentlich	-	-	-	0:07:42.238000	0:07:45.053000
 fast	-	-	-	0:07:42.238000	0:07:45.053000
 immer	-	-	-	0:07:42.238000	0:07:45.053000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:45.053000" end="0:07:45.647000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:45.053000" end="0:07:45.647000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:45.053000	0:07:45.647000
 .	-	-	-	0:07:45.053000	0:07:45.647000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:45.647000" end="0:07:48.875000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:45.647000" end="0:07:48.875000" project="PP03" age_lower="18" age_upper="35">
 Mundart	-	-	-	0:07:45.647000	0:07:46.521000
 ,	-	-	-	0:07:45.647000	0:07:46.521000
 ja	-	-	-	0:07:45.647000	0:07:46.521000
@@ -2087,7 +2087,7 @@ also	-	-	-	0:07:47.757000	0:07:48.875000
 Hüttschlagerisch	-	-	-	0:07:47.757000	0:07:48.875000
 .	-	-	-	0:07:47.757000	0:07:48.875000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:48.875000" end="0:07:54.738000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:48.875000" end="0:07:54.738000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:48.875000	0:07:49.338000
 .	-	-	-	0:07:48.875000	0:07:49.338000
 und	-	-	-	0:07:49.338000	0:07:52.649000
@@ -2109,16 +2109,16 @@ dann	-	-	-	0:07:52.649000	0:07:54.738000
 Hüttschlagerisch	-	-	-	0:07:52.649000	0:07:54.738000
 ?	-	-	-	0:07:52.649000	0:07:54.738000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:54.738000" end="0:07:56.463000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:54.738000" end="0:07:56.463000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 in	-	-	-	0:07:54.738000	0:07:56.463000
 Prozent	-	-	-	0:07:54.738000	0:07:56.463000
 oder	-	-	-	0:07:54.738000	0:07:56.463000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:56.463000" end="0:07:56.861000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:56.463000" end="0:07:56.861000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:07:56.463000	0:07:56.861000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:56.861000" end="0:07:58.122000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:56.861000" end="0:07:58.122000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:07:56.861000	0:07:57.736000
 auch	-	-	-	0:07:56.861000	0:07:57.736000
 so	-	-	-	0:07:56.861000	0:07:57.736000
@@ -2126,7 +2126,7 @@ so	-	-	-	0:07:56.861000	0:07:57.736000
 ja	-	-	-	0:07:57.736000	0:07:58.122000
 .	-	-	-	0:07:57.736000	0:07:58.122000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:58.122000" end="0:07:59.558000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:58.122000" end="0:07:59.558000" age_lower="1" age_upper="999">
 es	-	-	-	0:07:58.122000	0:07:58.852000
 gibt	-	-	-	0:07:58.122000	0:07:58.852000
 auch	-	-	-	0:07:58.122000	0:07:58.852000
@@ -2134,15 +2134,15 @@ für	-	-	-	0:07:58.122000	0:07:58.852000
 die	-	-	-	0:07:58.122000	0:07:58.852000
 Skala	-	-	-	0:07:58.853000	0:07:59.558000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:58.853000" end="0:07:59.558000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:58.853000" end="0:07:59.558000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:07:58.853000	0:07:59.558000
 .	-	-	-	0:07:58.853000	0:07:59.558000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:59.558000" end="0:07:59.920000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:59.558000" end="0:07:59.920000" age_lower="1" age_upper="999">
 jetzt	-	-	-	0:07:59.558000	0:07:59.920000
 .	-	-	-	0:07:59.558000	0:07:59.920000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:59.920000" end="0:08:07.292000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:59.920000" end="0:08:07.292000" project="PP03" age_lower="18" age_upper="35">
 passt	-	-	-	0:07:59.920000	0:08:00.724000
 ,	-	-	-	0:07:59.920000	0:08:00.724000
 okay	-	-	-	0:07:59.920000	0:08:00.724000
@@ -2159,13 +2159,13 @@ eigentlich	-	-	-	0:08:02.898000	0:08:07.292000
 immer"	-	-	-	0:08:02.898000	0:08:07.292000
 .	-	-	-	0:08:02.898000	0:08:07.292000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:07.292000" end="0:08:08.757000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:07.292000" end="0:08:08.757000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:07.292000" end="0:08:08.757000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:07.292000" end="0:08:08.757000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:08.757000" end="0:08:14.461000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:08.757000" end="0:08:14.461000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:08.757000	0:08:09.266000
 .	-	-	-	0:08:08.757000	0:08:09.266000
 gibt	-	-	-	0:08:09.266000	0:08:10.422000
@@ -2184,7 +2184,7 @@ passend	-	-	-	0:08:10.422000	0:08:14.461000
 erscheint	-	-	-	0:08:10.422000	0:08:14.461000
 ?	-	-	-	0:08:10.422000	0:08:14.461000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:14.461000" end="0:08:19.700000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:14.461000" end="0:08:19.700000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:08:14.461000	0:08:16.445000
 besonders	-	-	-	0:08:14.461000	0:08:16.445000
 passend	-	-	-	0:08:14.461000	0:08:16.445000
@@ -2201,13 +2201,13 @@ in	-	-	-	0:08:16.445000	0:08:19.700000
 Hüttschlag	-	-	-	0:08:16.445000	0:08:19.700000
 ,	-	-	-	0:08:16.445000	0:08:19.700000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:19.700000" end="0:08:21.360000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:19.700000" end="0:08:21.360000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:19.700000	0:08:20.252000
 ,	-	-	-	0:08:19.700000	0:08:20.252000
 super	-	-	-	0:08:20.252000	0:08:21.360000
 .	-	-	-	0:08:20.252000	0:08:21.360000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:20.252000" end="0:08:26.380000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:20.252000" end="0:08:26.380000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:08:20.252000	0:08:21.360000
 <pause duration="0,5s"/>
 da	-	-	-	0:08:21.360000	0:08:23.217000
@@ -2227,11 +2227,11 @@ Hüttschlager	-	-	-	0:08:23.218000	0:08:26.380000
 in	-	-	-	0:08:23.218000	0:08:26.380000
 diesem	-	-	-	0:08:23.218000	0:08:26.380000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:26.380000" end="0:08:26.994000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:26.380000" end="0:08:26.994000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:26.380000	0:08:26.994000
 .	-	-	-	0:08:26.380000	0:08:26.994000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:26.380000" end="0:08:39.996000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:26.380000" end="0:08:39.996000" project="PP03" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:08:26.380000	0:08:26.994000
 und	-	-	-	0:08:26.380000	0:08:26.994000
 da	-	-	-	0:08:26.994000	0:08:31.018000
@@ -2273,17 +2273,17 @@ bisschen	-	-	-	0:08:35.991000	0:08:39.996000
 intensiver	-	-	-	0:08:35.991000	0:08:39.996000
 den	-	-	-	0:08:35.991000	0:08:39.996000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:39.996000" end="0:08:40.477000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:39.996000" end="0:08:40.477000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:39.996000	0:08:40.477000
 .	-	-	-	0:08:39.996000	0:08:40.477000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:39.996000" end="0:08:41.361000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:39.996000" end="0:08:41.361000" project="PP03" age_lower="18" age_upper="35">
 Dialekt	-	-	-	0:08:39.996000	0:08:40.477000
 oder	-	-	-	0:08:40.477000	0:08:40.789000
 ja	-	-	-	0:08:40.789000	0:08:41.361000
 .	-	-	-	0:08:40.789000	0:08:41.361000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:41.361000" end="0:08:49.132000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:41.361000" end="0:08:49.132000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 gibt	-	-	-	0:08:42.313000	0:08:44.569000
 es	-	-	-	0:08:42.313000	0:08:44.569000
@@ -2304,7 +2304,7 @@ unpassend	-	-	-	0:08:44.569000	0:08:49.132000
 erscheint	-	-	-	0:08:44.569000	0:08:49.132000
 ?	-	-	-	0:08:44.569000	0:08:49.132000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:49.132000" end="0:08:58.289000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:49.132000" end="0:08:58.289000" project="PP03" age_lower="18" age_upper="35">
 unpassend	-	-	-	0:08:49.132000	0:08:50.410000
 ,	-	-	-	0:08:49.132000	0:08:50.410000
 ja	-	-	-	0:08:49.132000	0:08:50.410000
@@ -2339,11 +2339,11 @@ auch	-	-	-	0:08:55.912000	0:08:58.289000
 nicht	-	-	-	0:08:55.912000	0:08:58.289000
 unbedingt	-	-	-	0:08:55.912000	0:08:58.289000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:58.289000" end="0:08:59.036000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:58.289000" end="0:08:59.036000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:58.289000	0:08:59.036000
 .	-	-	-	0:08:58.289000	0:08:59.036000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:58.289000" end="0:09:04.766000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:58.289000" end="0:09:04.766000" project="PP03" age_lower="18" age_upper="35">
 sympathisch	-	-	-	0:08:58.289000	0:08:59.036000
 ,	-	-	-	0:08:58.289000	0:08:59.036000
 wenn	-	-	-	0:08:58.289000	0:08:59.036000
@@ -2377,7 +2377,7 @@ unpassend	-	-	-	0:09:02.858000	0:09:04.766000
 das	-	-	-	0:09:02.858000	0:09:04.766000
 .	-	-	-	0:09:02.858000	0:09:04.766000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:04.766000" end="0:09:07.330000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:04.766000" end="0:09:07.330000" age_lower="1" age_upper="999">
 aber	-	-	-	0:09:04.766000	0:09:06.450000
 da	-	-	-	0:09:04.766000	0:09:06.450000
 geht	-	-	-	0:09:04.766000	0:09:06.450000
@@ -2389,16 +2389,16 @@ Verständnis	-	-	-	0:09:06.450000	0:09:07.330000
 dann	-	-	-	0:09:06.450000	0:09:07.330000
 ?	-	-	-	0:09:06.450000	0:09:07.330000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:06.450000" end="0:09:07.694000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:06.450000" end="0:09:07.694000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:06.450000	0:09:07.330000
 ,	-	-	-	0:09:06.450000	0:09:07.330000
 genau	-	-	-	0:09:07.330000	0:09:07.694000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:07.694000" end="0:09:08.133000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:07.694000" end="0:09:08.133000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:07.694000	0:09:08.133000
 .	-	-	-	0:09:07.694000	0:09:08.133000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:07.694000" end="0:09:09.507000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:07.694000" end="0:09:09.507000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:09:07.694000	0:09:08.133000
 ,	-	-	-	0:09:07.694000	0:09:08.133000
 ansonsten	-	-	-	0:09:08.133000	0:09:09.507000
@@ -2406,12 +2406,12 @@ eigentlich	-	-	-	0:09:08.133000	0:09:09.507000
 nicht	-	-	-	0:09:08.133000	0:09:09.507000
 .	-	-	-	0:09:08.133000	0:09:09.507000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:09.507000" end="0:09:10.661000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:09.507000" end="0:09:10.661000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ja	-	-	-	0:09:09.507000	0:09:10.661000
 .	-	-	-	0:09:09.507000	0:09:10.661000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:09.507000" end="0:09:11.201000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:09.507000" end="0:09:11.201000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 nur	-	-	-	0:09:09.507000	0:09:10.661000
 um	-	-	-	0:09:09.507000	0:09:10.661000
@@ -2419,16 +2419,16 @@ das	-	-	-	0:09:09.507000	0:09:10.661000
 Verständnis	-	-	-	0:09:10.661000	0:09:11.201000
 ,	-	-	-	0:09:10.661000	0:09:11.201000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:11.201000" end="0:09:11.586000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:11.201000" end="0:09:11.586000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:11.201000	0:09:11.586000
 .	-	-	-	0:09:11.201000	0:09:11.586000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:11.201000" end="0:09:11.909000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:11.201000" end="0:09:11.909000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:11.201000	0:09:11.586000
 genau	-	-	-	0:09:11.586000	0:09:11.909000
 .	-	-	-	0:09:11.586000	0:09:11.909000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:11.909000" end="0:09:17.756000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:11.909000" end="0:09:17.756000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 was	-	-	-	0:09:11.909000	0:09:13.108000
 glauben	-	-	-	0:09:11.909000	0:09:13.108000
@@ -2448,7 +2448,7 @@ sprechen	-	-	-	0:09:15.108000	0:09:17.756000
 können	-	-	-	0:09:15.108000	0:09:17.756000
 ?	-	-	-	0:09:15.108000	0:09:17.756000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:17.756000" end="0:09:26.294000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:17.756000" end="0:09:26.294000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:09:17.756000	0:09:20.356000
 sie	-	-	-	0:09:17.756000	0:09:20.356000
 dazu	-	-	-	0:09:17.756000	0:09:20.356000
@@ -2467,11 +2467,11 @@ es	-	-	-	0:09:23.760000	0:09:26.294000
 ihnen	-	-	-	0:09:23.760000	0:09:26.294000
 ,	-	-	-	0:09:23.760000	0:09:26.294000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:26.294000" end="0:09:26.835000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:26.294000" end="0:09:26.835000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:26.294000	0:09:26.835000
 .	-	-	-	0:09:26.294000	0:09:26.835000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:26.294000" end="0:09:30.175000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:26.294000" end="0:09:30.175000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:09:26.294000	0:09:26.835000
 teilweise	-	-	-	0:09:26.835000	0:09:27.645000
 auch	-	-	-	0:09:26.835000	0:09:27.645000
@@ -2482,11 +2482,11 @@ ganz	-	-	-	0:09:28.937000	0:09:30.175000
 verschieden	-	-	-	0:09:28.937000	0:09:30.175000
 .	-	-	-	0:09:28.937000	0:09:30.175000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:30.175000" end="0:09:30.845000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:30.175000" end="0:09:30.845000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:30.175000	0:09:30.845000
 .	-	-	-	0:09:30.175000	0:09:30.845000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:30.845000" end="0:09:35.529000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:30.845000" end="0:09:35.529000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 also	-	-	-	0:09:30.845000	0:09:32.390000
 es	-	-	-	0:09:30.845000	0:09:32.390000
@@ -2509,11 +2509,11 @@ Stadt	-	-	-	0:09:32.390000	0:09:35.529000
 sind	-	-	-	0:09:32.390000	0:09:35.529000
 ,	-	-	-	0:09:32.390000	0:09:35.529000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:35.529000" end="0:09:35.746000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:35.529000" end="0:09:35.746000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:35.529000	0:09:35.746000
 .	-	-	-	0:09:35.529000	0:09:35.746000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:35.529000" end="0:09:37.734000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:35.529000" end="0:09:37.734000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:09:35.529000	0:09:35.746000
 meinen	-	-	-	0:09:35.746000	0:09:36.333000
 viele	-	-	-	0:09:35.746000	0:09:36.333000
@@ -2526,20 +2526,20 @@ zum	-	-	-	0:09:36.333000	0:09:37.734000
 Beispiel	-	-	-	0:09:36.333000	0:09:37.734000
 ,	-	-	-	0:09:36.333000	0:09:37.734000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:37.734000" end="0:09:38.688000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:37.734000" end="0:09:38.688000" age_lower="1" age_upper="999">
 okay	-	-	-	0:09:37.734000	0:09:38.688000
 ,	-	-	-	0:09:37.734000	0:09:38.688000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:37.734000" end="0:09:38.688000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:37.734000" end="0:09:38.688000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:09:37.734000	0:09:38.688000
 die	-	-	-	0:09:37.734000	0:09:38.688000
 verwechseln	-	-	-	0:09:37.734000	0:09:38.688000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:38.688000" end="0:09:39.112000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:38.688000" end="0:09:39.112000" age_lower="1" age_upper="999">
 aha	-	-	-	0:09:38.688000	0:09:39.112000
 .	-	-	-	0:09:38.688000	0:09:39.112000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:39.112000" end="0:09:43.440000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:39.112000" end="0:09:43.440000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:09:39.112000	0:09:41.700000
 unseren	-	-	-	0:09:39.112000	0:09:41.700000
 Dialekt	-	-	-	0:09:39.112000	0:09:41.700000
@@ -2554,11 +2554,11 @@ uns	-	-	-	0:09:41.700000	0:09:43.440000
 komplett	-	-	-	0:09:41.700000	0:09:43.440000
 verschieden	-	-	-	0:09:41.700000	0:09:43.440000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:43.440000" end="0:09:44.006000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:43.440000" end="0:09:44.006000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:43.440000	0:09:44.006000
 .	-	-	-	0:09:43.440000	0:09:44.006000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:43.440000" end="0:09:45.881000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:43.440000" end="0:09:45.881000" project="PP03" age_lower="18" age_upper="35">
 klingt	-	-	-	0:09:43.440000	0:09:44.006000
 wieder	-	-	-	0:09:43.440000	0:09:44.006000
 ,	-	-	-	0:09:43.440000	0:09:44.006000
@@ -2570,20 +2570,20 @@ wir	-	-	-	0:09:44.009000	0:09:45.881000
 nicht	-	-	-	0:09:44.009000	0:09:45.881000
 .	-	-	-	0:09:44.009000	0:09:45.881000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:45.881000" end="0:09:47.435000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:45.881000" end="0:09:47.435000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:45.881000" end="0:09:48.443000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:45.881000" end="0:09:48.443000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:09:47.435000	0:09:48.443000
 ja	-	-	-	0:09:47.435000	0:09:48.443000
 .	-	-	-	0:09:47.435000	0:09:48.443000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:48.443000" end="0:09:50.261000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:48.443000" end="0:09:50.261000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:48.443000" end="0:09:50.261000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:48.443000" end="0:09:50.261000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:50.261000" end="0:09:54.462000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:50.261000" end="0:09:54.462000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:50.261000	0:09:50.615000
 .	-	-	-	0:09:50.261000	0:09:50.615000
 <pause duration="0,6s"/>
@@ -2601,16 +2601,16 @@ oder	-	-	-	0:09:53.630000	0:09:54.462000
 (?)/	-	-	-	0:09:53.630000	0:09:54.462000
 /?	-	-	-	0:09:53.630000	0:09:54.462000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:53.630000" end="0:09:54.462000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:53.630000" end="0:09:54.462000" project="PP03" age_lower="18" age_upper="35">
 eher	-	-	-	0:09:53.630000	0:09:54.462000
 schon	-	-	-	0:09:53.630000	0:09:54.462000
 ,	-	-	-	0:09:53.630000	0:09:54.462000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:54.462000" end="0:09:54.801000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:54.462000" end="0:09:54.801000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:54.462000	0:09:54.801000
 .	-	-	-	0:09:54.462000	0:09:54.801000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:54.462000" end="0:09:56.244000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:54.462000" end="0:09:56.244000" project="PP03" age_lower="18" age_upper="35">
 glaube	-	-	-	0:09:54.462000	0:09:54.801000
 ich	-	-	-	0:09:54.462000	0:09:54.801000
 ,	-	-	-	0:09:54.462000	0:09:54.801000
@@ -2620,7 +2620,7 @@ ja	-	-	-	0:09:54.801000	0:09:55.077000
 ja	-	-	-	0:09:55.077000	0:09:56.244000
 .	-	-	-	0:09:55.077000	0:09:56.244000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:56.244000" end="0:10:00.857000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:56.244000" end="0:10:00.857000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 welche	-	-	-	0:09:56.244000	0:10:00.857000
 Personenkreise	-	-	-	0:09:56.244000	0:10:00.857000
@@ -2632,7 +2632,7 @@ das	-	-	-	0:09:56.244000	0:10:00.857000
 Hüttschlagerisch	-	-	-	0:09:56.244000	0:10:00.857000
 ?	-	-	-	0:09:56.244000	0:10:00.857000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:00.857000" end="0:10:03.651000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:00.857000" end="0:10:03.651000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ähm	-	-	-	0:10:00.857000	0:10:03.651000
 eigentlich	-	-	-	0:10:00.857000	0:10:03.651000
@@ -2640,7 +2640,7 @@ eigentlich	-	-	-	0:10:00.857000	0:10:03.651000
 jeder	-	-	-	0:10:00.857000	0:10:03.651000
 .	-	-	-	0:10:00.857000	0:10:03.651000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:03.651000" end="0:10:05.657000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:03.651000" end="0:10:05.657000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:03.651000	0:10:04.419000
 ,	-	-	-	0:10:03.651000	0:10:04.419000
 eigentlich	-	-	-	0:10:04.419000	0:10:05.223000
@@ -2649,7 +2649,7 @@ alle	-	-	-	0:10:04.419000	0:10:05.223000
 mhm	-	-	-	0:10:05.223000	0:10:05.657000
 .	-	-	-	0:10:05.223000	0:10:05.657000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:05.657000" end="0:10:06.955000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:05.657000" end="0:10:06.955000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:10:05.657000	0:10:06.955000
 eigentlich	-	-	-	0:10:05.657000	0:10:06.955000
 schon	-	-	-	0:10:05.657000	0:10:06.955000
@@ -2657,7 +2657,7 @@ schon	-	-	-	0:10:05.657000	0:10:06.955000
 ja	-	-	-	0:10:05.657000	0:10:06.955000
 .	-	-	-	0:10:05.657000	0:10:06.955000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:06.955000" end="0:10:13.594000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:06.955000" end="0:10:13.594000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 aber	-	-	-	0:10:06.955000	0:10:09.239000
 gibt	-	-	-	0:10:06.955000	0:10:09.239000
@@ -2673,7 +2673,7 @@ Personenkreisen	-	-	-	0:10:11.239000	0:10:13.594000
 eben	-	-	-	0:10:11.239000	0:10:13.594000
 ?	-	-	-	0:10:11.239000	0:10:13.594000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:13.594000" end="0:10:17.775000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:13.594000" end="0:10:17.775000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:13.594000	0:10:15.191000
 ,	-	-	-	0:10:13.594000	0:10:15.191000
 <pause duration="0,7s"/>
@@ -2688,11 +2688,11 @@ finde	-	-	-	0:10:17.310000	0:10:17.775000
 ich	-	-	-	0:10:17.310000	0:10:17.775000
 .	-	-	-	0:10:17.310000	0:10:17.775000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:17.775000" end="0:10:18.357000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:17.775000" end="0:10:18.357000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:17.775000	0:10:18.357000
 .	-	-	-	0:10:17.775000	0:10:18.357000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:17.775000" end="0:10:22" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:17.775000" end="0:10:22" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:10:17.775000	0:10:18.357000
 im	-	-	-	0:10:17.775000	0:10:18.357000
 Prinzip	-	-	-	0:10:18.357000	0:10:22
@@ -2705,23 +2705,23 @@ mu/	-	-	-	0:10:18.357000	0:10:22
 Mundart	-	-	-	0:10:18.357000	0:10:22
 ,	-	-	-	0:10:18.357000	0:10:22
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:22" end="0:10:22.466000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:22" end="0:10:22.466000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:22	0:10:22.466000
 .	-	-	-	0:10:22	0:10:22.466000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:22.466000" end="0:10:23.444000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:22.466000" end="0:10:23.444000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:22.466000	0:10:23.444000
 ,	-	-	-	0:10:22.466000	0:10:23.444000
 schon	-	-	-	0:10:22.466000	0:10:23.444000
 .	-	-	-	0:10:22.466000	0:10:23.444000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:23.444000" end="0:10:26.210000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:23.444000" end="0:10:26.210000" age_lower="1" age_upper="999">
 <pause duration="2,8s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:23.444000" end="0:10:26.210000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:23.444000" end="0:10:26.210000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:26.210000" end="0:10:30.049000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:26.210000" end="0:10:30.049000" age_lower="1" age_upper="999">
 wie	-	-	-	0:10:26.210000	0:10:29.456000
 sehen	-	-	-	0:10:26.210000	0:10:29.456000
 Sie	-	-	-	0:10:26.210000	0:10:29.456000
@@ -2734,7 +2734,7 @@ in	-	-	-	0:10:26.210000	0:10:29.456000
 Hüttschlag	-	-	-	0:10:29.456000	0:10:30.049000
 ?	-	-	-	0:10:29.456000	0:10:30.049000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:29.456000" end="0:10:40.384000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:29.456000" end="0:10:40.384000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:10:29.456000	0:10:30.049000
 ich	-	-	-	0:10:30.050000	0:10:30.493000
 glaube	-	-	-	0:10:30.050000	0:10:30.493000
@@ -2780,11 +2780,11 @@ grob	-	-	-	0:10:38.114000	0:10:40.384000
 nicht	-	-	-	0:10:38.114000	0:10:40.384000
 viel	-	-	-	0:10:38.114000	0:10:40.384000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:40.384000" end="0:10:41.282000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:40.384000" end="0:10:41.282000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:40.384000	0:10:41.282000
 .	-	-	-	0:10:40.384000	0:10:41.282000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:40.384000" end="0:10:55.901000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:40.384000" end="0:10:55.901000" project="PP03" age_lower="18" age_upper="35">
 verändern	-	-	-	0:10:40.384000	0:10:41.282000
 ,	-	-	-	0:10:40.384000	0:10:41.282000
 <pause duration="0,6s"/>
@@ -2836,11 +2836,11 @@ oder	-	-	-	0:10:54.906000	0:10:55.901000
 viel	-	-	-	0:10:54.906000	0:10:55.901000
 weniger	-	-	-	0:10:54.906000	0:10:55.901000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:55.901000" end="0:10:56.892000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:55.901000" end="0:10:56.892000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:55.901000	0:10:56.892000
 .	-	-	-	0:10:55.901000	0:10:56.892000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:55.901000" end="0:11:01.276000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:55.901000" end="0:11:01.276000" project="PP03" age_lower="18" age_upper="35">
 Hüttschlagerisch	-	-	-	0:10:55.901000	0:10:56.892000
 .	-	-	-	0:10:55.901000	0:10:56.892000
 aber	-	-	-	0:10:56.892000	0:11:00.010000
@@ -2858,11 +2858,11 @@ verändern	-	-	-	0:11:00.010000	0:11:01.276000
 wird	-	-	-	0:11:00.010000	0:11:01.276000
 .	-	-	-	0:11:00.010000	0:11:01.276000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:01.276000" end="0:11:01.561000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:01.276000" end="0:11:01.561000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:01.276000	0:11:01.561000
 .	-	-	-	0:11:01.276000	0:11:01.561000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:01.561000" end="0:11:07.017000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:01.561000" end="0:11:07.017000" project="PP03" age_lower="18" age_upper="35">
 vielleicht	-	-	-	0:11:01.561000	0:11:03.113000
 so	-	-	-	0:11:01.561000	0:11:03.113000
 gewisse	-	-	-	0:11:01.561000	0:11:03.113000
@@ -2878,15 +2878,15 @@ verblassen	-	-	-	0:11:04.430000	0:11:06.790000
 ,	-	-	-	0:11:04.430000	0:11:06.790000
 aber	-	-	-	0:11:06.790000	0:11:07.017000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:07.017000" end="0:11:07.732000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:07.017000" end="0:11:07.732000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:07.017000	0:11:07.732000
 .	-	-	-	0:11:07.017000	0:11:07.732000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:07.017000" end="0:11:07.732000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:07.017000" end="0:11:07.732000" project="PP03" age_lower="18" age_upper="35">
 ansonsten	-	-	-	0:11:07.017000	0:11:07.732000
 .	-	-	-	0:11:07.017000	0:11:07.732000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:07.732000" end="0:11:11.454000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:07.732000" end="0:11:11.454000" age_lower="1" age_upper="999">
 aber	-	-	-	0:11:07.732000	0:11:09.238000
 Sie	-	-	-	0:11:07.732000	0:11:09.238000
 können	-	-	-	0:11:07.732000	0:11:09.238000
@@ -2900,36 +2900,36 @@ Hüttschlager/	-	-	-	0:11:09.238000	0:11:10.556000
 das	-	-	-	0:11:10.556000	0:11:11.454000
 Hüttschlagerisch	-	-	-	0:11:10.556000	0:11:11.454000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:10.556000" end="0:11:11.454000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:10.556000" end="0:11:11.454000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:11:10.556000	0:11:11.454000
 .	-	-	-	0:11:10.556000	0:11:11.454000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:11.454000" end="0:11:12.547000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:11.454000" end="0:11:12.547000" age_lower="1" age_upper="999">
 ausstirbt	-	-	-	0:11:11.454000	0:11:12.547000
 ?	-	-	-	0:11:11.454000	0:11:12.547000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:11.454000" end="0:11:12.547000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:11.454000" end="0:11:12.547000" project="PP03" age_lower="18" age_upper="35">
 mm	-	-	-	0:11:11.454000	0:11:12.547000
 .	-	-	-	0:11:11.454000	0:11:12.547000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:12.547000" end="0:11:12.943000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:12.547000" end="0:11:12.943000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:12.547000	0:11:12.943000
 .	-	-	-	0:11:12.547000	0:11:12.943000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:12.943000" end="0:11:13.633000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:12.943000" end="0:11:13.633000" project="PP03" age_lower="18" age_upper="35">
 mm	-	-	-	0:11:12.943000	0:11:13.633000
 .	-	-	-	0:11:12.943000	0:11:13.633000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:13.633000" end="0:11:14.655000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:13.633000" end="0:11:14.655000" age_lower="1" age_upper="999">
 und	-	-	-	0:11:13.633000	0:11:14.298000
 würden	-	-	-	0:11:13.633000	0:11:14.298000
 Sie	-	-	-	0:11:14.298000	0:11:14.655000
 sagen	-	-	-	0:11:14.298000	0:11:14.655000
 ,	-	-	-	0:11:14.298000	0:11:14.655000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:14.298000" end="0:11:14.655000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:14.298000" end="0:11:14.655000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:14.655000" end="0:11:18.237000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:14.655000" end="0:11:18.237000" age_lower="1" age_upper="999">
 dass	-	-	-	0:11:14.655000	0:11:15.769000
 das	-	-	-	0:11:14.655000	0:11:15.769000
 eine	-	-	-	0:11:14.655000	0:11:15.769000
@@ -2945,7 +2945,7 @@ beschränkt	-	-	-	0:11:15.769000	0:11:18.237000
 ist	-	-	-	0:11:15.769000	0:11:18.237000
 ?	-	-	-	0:11:15.769000	0:11:18.237000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:18.237000" end="0:11:23.791000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:18.237000" end="0:11:23.791000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:11:19.329000	0:11:21.621000
 allgemein	-	-	-	0:11:19.329000	0:11:21.621000
@@ -2964,17 +2964,17 @@ bleiben	-	-	-	0:11:21.974000	0:11:23.791000
 wird	-	-	-	0:11:21.974000	0:11:23.791000
 ,	-	-	-	0:11:21.974000	0:11:23.791000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:23.791000" end="0:11:24.243000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:23.791000" end="0:11:24.243000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:23.791000	0:11:24.243000
 .	-	-	-	0:11:23.791000	0:11:24.243000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:24.243000" end="0:11:25.293000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:24.243000" end="0:11:25.293000" project="PP03" age_lower="18" age_upper="35">
 denke	-	-	-	0:11:24.243000	0:11:25.293000
 ich	-	-	-	0:11:24.243000	0:11:25.293000
 eher	-	-	-	0:11:24.243000	0:11:25.293000
 .	-	-	-	0:11:24.243000	0:11:25.293000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:25.293000" end="0:11:28.134000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:25.293000" end="0:11:28.134000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 also	-	-	-	0:11:26.275000	0:11:27.599000
 auch	-	-	-	0:11:26.275000	0:11:27.599000
@@ -2987,35 +2987,35 @@ Sie	-	-	-	0:11:27.599000	0:11:28.134000
 ,	-	-	-	0:11:27.599000	0:11:28.134000
 dass	-	-	-	0:11:27.599000	0:11:28.134000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:27.599000" end="0:11:28.134000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:27.599000" end="0:11:28.134000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:27.599000	0:11:28.134000
 .	-	-	-	0:11:27.599000	0:11:28.134000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:28.134000" end="0:11:30.231000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:28.134000" end="0:11:30.231000" age_lower="1" age_upper="999">
 sich	-	-	-	0:11:28.134000	0:11:29.192000
 die	-	-	-	0:11:28.134000	0:11:29.192000
 Mundart	-	-	-	0:11:28.134000	0:11:29.192000
 halten	-	-	-	0:11:29.192000	0:11:30.231000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:29.192000" end="0:11:30.231000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:29.192000" end="0:11:30.231000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:11:29.192000	0:11:30.231000
 glaube	-	-	-	0:11:29.192000	0:11:30.231000
 schon	-	-	-	0:11:29.192000	0:11:30.231000
 ,	-	-	-	0:11:29.192000	0:11:30.231000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:30.231000" end="0:11:30.671000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:30.231000" end="0:11:30.671000" age_lower="1" age_upper="999">
 kann	-	-	-	0:11:30.231000	0:11:30.671000
 ?	-	-	-	0:11:30.231000	0:11:30.671000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:30.231000" end="0:11:30.671000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:30.231000" end="0:11:30.671000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:30.231000	0:11:30.671000
 .	-	-	-	0:11:30.231000	0:11:30.671000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:30.671000" end="0:11:31.079000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:30.671000" end="0:11:31.079000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:30.671000	0:11:31.079000
 .	-	-	-	0:11:30.671000	0:11:31.079000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:31.079000" end="0:11:43.771000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:31.079000" end="0:11:43.771000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 also	-	-	-	0:11:31.079000	0:11:33.159000
 ich	-	-	-	0:11:31.079000	0:11:33.159000
@@ -3070,11 +3070,11 @@ kennt	-	-	-	0:11:43.137000	0:11:43.771000
 man	-	-	-	0:11:43.137000	0:11:43.771000
 eigentlich	-	-	-	0:11:43.137000	0:11:43.771000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:43.771000" end="0:11:44.497000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:43.771000" end="0:11:44.497000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:43.771000	0:11:44.497000
 .	-	-	-	0:11:43.771000	0:11:44.497000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:43.771000" end="0:11:47.576000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:43.771000" end="0:11:47.576000" project="PP03" age_lower="18" age_upper="35">
 sofort	-	-	-	0:11:43.771000	0:11:44.497000
 ,	-	-	-	0:11:43.771000	0:11:44.497000
 "ah	-	-	-	0:11:43.771000	0:11:44.497000
@@ -3096,11 +3096,11 @@ verschieden	-	-	-	0:11:45.576000	0:11:47.576000
 ja	-	-	-	0:11:45.576000	0:11:47.576000
 .	-	-	-	0:11:45.576000	0:11:47.576000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:47.576000" end="0:11:48.209000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:47.576000" end="0:11:48.209000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:47.576000	0:11:48.209000
 .	-	-	-	0:11:47.576000	0:11:48.209000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:48.209000" end="0:11:51.546000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:48.209000" end="0:11:51.546000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:11:48.209000	0:11:49.151000
 schon	-	-	-	0:11:48.209000	0:11:49.151000
 .	-	-	-	0:11:48.209000	0:11:49.151000
@@ -3121,13 +3121,13 @@ es	-	-	-	0:11:50.141000	0:11:51.546000
 schön	-	-	-	0:11:50.141000	0:11:51.546000
 .	-	-	-	0:11:50.141000	0:11:51.546000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:51.546000" end="0:11:52.208000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:51.546000" end="0:11:52.208000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:51.546000	0:11:52.208000
 .	-	-	-	0:11:51.546000	0:11:52.208000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:52.208000" end="0:11:52.900000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:52.208000" end="0:11:52.900000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:52.900000" end="0:11:58.325000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:52.900000" end="0:11:58.325000" age_lower="1" age_upper="999">
 denken	-	-	-	0:11:52.900000	0:11:55.698000
 Sie	-	-	-	0:11:52.900000	0:11:55.698000
 jetzt	-	-	-	0:11:52.900000	0:11:55.698000
@@ -3143,11 +3143,11 @@ Fernsehen	-	-	-	0:11:55.698000	0:11:58.003000
 ,	-	-	-	0:11:55.698000	0:11:58.003000
 wie	-	-	-	0:11:58.003000	0:11:58.325000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:58.003000" end="0:11:58.325000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:58.003000" end="0:11:58.325000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:11:58.003000	0:11:58.325000
 .	-	-	-	0:11:58.003000	0:11:58.325000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:58.325000" end="0:12:00.246000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:58.325000" end="0:12:00.246000" age_lower="1" age_upper="999">
 würden	-	-	-	0:11:58.325000	0:11:59.125000
 Sie	-	-	-	0:11:58.325000	0:11:59.125000
 das	-	-	-	0:11:58.325000	0:11:59.125000
@@ -3158,17 +3158,17 @@ diese	-	-	-	0:11:59.125000	0:12:00.246000
 sprechen	-	-	-	0:11:59.125000	0:12:00.246000
 ?	-	-	-	0:11:59.125000	0:12:00.246000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:00.246000" end="0:12:02.246000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:00.246000" end="0:12:02.246000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:12:00.246000	0:12:02.246000
 Österreichisch	-	-	-	0:12:00.246000	0:12:02.246000
 .	-	-	-	0:12:00.246000	0:12:02.246000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:02.246000" end="0:12:02.876000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:02.246000" end="0:12:02.876000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:02.246000	0:12:02.876000
 .	-	-	-	0:12:02.246000	0:12:02.876000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:02.246000" end="0:12:10.158000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:02.246000" end="0:12:10.158000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:12:02.876000	0:12:04.613000
 <pause duration="0,7s"/>
 ja	-	-	-	0:12:02.876000	0:12:04.613000
@@ -3192,11 +3192,11 @@ ein	-	-	-	0:12:08.745000	0:12:10.158000
 Unterschied	-	-	-	0:12:08.745000	0:12:10.158000
 .	-	-	-	0:12:08.745000	0:12:10.158000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:10.158000" end="0:12:10.606000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:10.158000" end="0:12:10.606000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:10.158000	0:12:10.606000
 .	-	-	-	0:12:10.158000	0:12:10.606000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:10.606000" end="0:12:17.210000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:10.606000" end="0:12:17.210000" project="PP03" age_lower="18" age_upper="35">
 man	-	-	-	0:12:10.606000	0:12:12.528000
 hört	-	-	-	0:12:10.606000	0:12:12.528000
 das	-	-	-	0:12:10.606000	0:12:12.528000
@@ -3221,23 +3221,23 @@ der	-	-	-	0:12:16.370000	0:12:17.210000
 aus	-	-	-	0:12:16.370000	0:12:17.210000
 Österreich	-	-	-	0:12:16.370000	0:12:17.210000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:17.210000" end="0:12:17.752000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:17.210000" end="0:12:17.752000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:17.210000	0:12:17.752000
 ,	-	-	-	0:12:17.210000	0:12:17.752000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:17.210000" end="0:12:17.752000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:17.210000" end="0:12:17.752000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:12:17.210000	0:12:17.752000
 ,	-	-	-	0:12:17.210000	0:12:17.752000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:17.752000" end="0:12:18.480000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:17.752000" end="0:12:18.480000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:17.752000	0:12:18.480000
 .	-	-	-	0:12:17.752000	0:12:18.480000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:17.752000" end="0:12:18.480000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:17.752000" end="0:12:18.480000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:17.752000	0:12:18.480000
 .	-	-	-	0:12:17.752000	0:12:18.480000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:18.480000" end="0:12:28.898000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:18.480000" end="0:12:28.898000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 fallen	-	-	-	0:12:18.480000	0:12:20.913000
 Ihnen	-	-	-	0:12:18.480000	0:12:20.913000
@@ -3262,12 +3262,12 @@ oder	-	-	-	0:12:27.605000	0:12:28.898000
 Personengruppen	-	-	-	0:12:27.605000	0:12:28.898000
 ?	-	-	-	0:12:27.605000	0:12:28.898000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:28.898000" end="0:12:33.576000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:28.898000" end="0:12:33.576000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,2s"/>
 wie	-	-	-	0:12:33.072000	0:12:33.576000
 ?	-	-	-	0:12:33.072000	0:12:33.576000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:33.576000" end="0:12:36.685000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:33.576000" end="0:12:36.685000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 ob	-	-	-	0:12:34.621000	0:12:35.568000
 noch	-	-	-	0:12:34.621000	0:12:35.568000
@@ -3277,12 +3277,12 @@ den	-	-	-	0:12:34.621000	0:12:35.568000
 Nachrichtensprechern	-	-	-	0:12:35.568000	0:12:36.685000
 das	-	-	-	0:12:35.568000	0:12:36.685000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:35.568000" end="0:12:36.685000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:35.568000" end="0:12:36.685000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:12:35.568000	0:12:36.685000
 so	-	-	-	0:12:35.568000	0:12:36.685000
 .	-	-	-	0:12:35.568000	0:12:36.685000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:36.686000" end="0:12:39.741000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:36.686000" end="0:12:39.741000" age_lower="1" age_upper="999">
 Österreichisch	-	-	-	0:12:36.686000	0:12:37.658000
 spricht	-	-	-	0:12:36.686000	0:12:37.658000
 ,	-	-	-	0:12:36.686000	0:12:37.658000
@@ -3295,7 +3295,7 @@ Fernsehen	-	-	-	0:12:37.658000	0:12:38.983000
 sprechen	-	-	-	0:12:38.983000	0:12:39.741000
 ?	-	-	-	0:12:38.983000	0:12:39.741000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:38.983000" end="0:12:48.011000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:38.983000" end="0:12:48.011000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:12:38.983000	0:12:39.741000
 .	-	-	-	0:12:38.983000	0:12:39.741000
 <pause duration="2,5s"/>
@@ -3328,11 +3328,11 @@ auch	-	-	-	0:12:46.356000	0:12:47.750000
 ,	-	-	-	0:12:46.356000	0:12:47.750000
 man	-	-	-	0:12:47.750000	0:12:48.011000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:48.011000" end="0:12:48.609000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:48.011000" end="0:12:48.609000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:48.011000	0:12:48.609000
 .	-	-	-	0:12:48.011000	0:12:48.609000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:48.011000" end="0:12:53.165000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:48.011000" end="0:12:53.165000" project="PP03" age_lower="18" age_upper="35">
 hört	-	-	-	0:12:48.011000	0:12:48.609000
 es	-	-	-	0:12:48.011000	0:12:48.609000
 ja	-	-	-	0:12:48.011000	0:12:48.609000
@@ -3352,11 +3352,11 @@ komme	-	-	-	0:12:49.960000	0:12:52.861000
 sozusagen	-	-	-	0:12:49.960000	0:12:52.861000
 oder	-	-	-	0:12:52.861000	0:12:53.165000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:53.165000" end="0:12:53.536000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:53.165000" end="0:12:53.536000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:53.165000	0:12:53.536000
 .	-	-	-	0:12:53.165000	0:12:53.536000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:53.536000" end="0:12:56.036000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:53.536000" end="0:12:56.036000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:12:53.536000	0:12:56.036000
 muss	-	-	-	0:12:53.536000	0:12:56.036000
 ja	-	-	-	0:12:53.536000	0:12:56.036000
@@ -3368,13 +3368,13 @@ vergleichen	-	-	-	0:12:53.536000	0:12:56.036000
 aber	-	-	-	0:12:53.536000	0:12:56.036000
 /.	-	-	-	0:12:53.536000	0:12:56.036000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:56.038000" end="0:12:59.372000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:56.038000" end="0:12:59.372000" age_lower="1" age_upper="999">
 <pause duration="3,3s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:56.038000" end="0:12:59.372000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:56.038000" end="0:12:59.372000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:59.372000" end="0:13:03.154000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:59.372000" end="0:13:03.154000" age_lower="1" age_upper="999">
 halten	-	-	-	0:12:59.372000	0:13:03.154000
 Sie	-	-	-	0:12:59.372000	0:13:03.154000
 die/	-	-	-	0:12:59.372000	0:13:03.154000
@@ -3387,42 +3387,42 @@ für	-	-	-	0:12:59.372000	0:13:03.154000
 passend	-	-	-	0:12:59.372000	0:13:03.154000
 ?	-	-	-	0:12:59.372000	0:13:03.154000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:03.154000" end="0:13:04.093000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:03.154000" end="0:13:04.093000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:13:03.154000	0:13:04.093000
 .	-	-	-	0:13:03.154000	0:13:04.093000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:04.094000" end="0:13:05.564000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:04.094000" end="0:13:05.564000" age_lower="1" age_upper="999">
 nein	-	-	-	0:13:04.094000	0:13:04.926000
 ?	-	-	-	0:13:04.094000	0:13:04.926000
 wa/	-	-	-	0:13:04.926000	0:13:05.564000
 /?	-	-	-	0:13:04.926000	0:13:05.564000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:04.926000" end="0:13:05.564000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:04.926000" end="0:13:05.564000" project="PP03" age_lower="18" age_upper="35">
 Hüttschlagerisch	-	-	-	0:13:04.926000	0:13:05.564000
 ?	-	-	-	0:13:04.926000	0:13:05.564000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:05.564000" end="0:13:05.882000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:05.564000" end="0:13:05.882000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:13:05.564000	0:13:05.882000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:05.882000" end="0:13:06.436000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:05.882000" end="0:13:06.436000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:13:05.882000	0:13:06.436000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:06.436000" end="0:13:07.115000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:06.436000" end="0:13:07.115000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:13:06.436000	0:13:07.115000
 wir	-	-	-	0:13:06.436000	0:13:07.115000
 jetzt	-	-	-	0:13:06.436000	0:13:07.115000
 das	-	-	-	0:13:06.436000	0:13:07.115000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:06.436000" end="0:13:07.115000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:06.436000" end="0:13:07.115000" project="PP03" age_lower="18" age_upper="35">
 Österreichisch	-	-	-	0:13:06.436000	0:13:07.115000
 ?	-	-	-	0:13:06.436000	0:13:07.115000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:07.115000" end="0:13:08.033000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:07.115000" end="0:13:08.033000" age_lower="1" age_upper="999">
 Österreichisch	-	-	-	0:13:07.115000	0:13:08.033000
 /.	-	-	-	0:13:07.115000	0:13:08.033000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:07.115000" end="0:13:14.194000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:07.115000" end="0:13:14.194000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:13:07.115000	0:13:08.033000
 so	-	-	-	0:13:07.115000	0:13:08.033000
 ,	-	-	-	0:13:07.115000	0:13:08.033000
@@ -3452,11 +3452,11 @@ Unterschied	-	-	-	0:13:10.505000	0:13:14.194000
 erkennen	-	-	-	0:13:10.505000	0:13:14.194000
 .	-	-	-	0:13:10.505000	0:13:14.194000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:14.194000" end="0:13:14.519000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:14.194000" end="0:13:14.519000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:14.194000	0:13:14.519000
 .	-	-	-	0:13:14.194000	0:13:14.519000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:14.519000" end="0:13:17.431000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:14.519000" end="0:13:17.431000" project="PP03" age_lower="18" age_upper="35">
 solang	-	-	-	0:13:14.519000	0:13:15.558000
 es	-	-	-	0:13:14.519000	0:13:15.558000
 die	-	-	-	0:13:14.519000	0:13:15.558000
@@ -3472,30 +3472,30 @@ spricht	-	-	-	0:13:16.445000	0:13:17.222000
 ,	-	-	-	0:13:16.445000	0:13:17.222000
 das	-	-	-	0:13:17.222000	0:13:17.431000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:17.431000" end="0:13:18.217000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:17.431000" end="0:13:18.217000" age_lower="1" age_upper="999">
 versteht	-	-	-	0:13:17.431000	0:13:18.217000
 .	-	-	-	0:13:17.431000	0:13:18.217000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:17.431000" end="0:13:18.217000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:17.431000" end="0:13:18.217000" project="PP03" age_lower="18" age_upper="35">
 versteht	-	-	-	0:13:17.431000	0:13:18.217000
 .	-	-	-	0:13:17.431000	0:13:18.217000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:18.217000" end="0:13:18.995000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:18.217000" end="0:13:18.995000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:18.217000	0:13:18.995000
 .	-	-	-	0:13:18.217000	0:13:18.995000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:18.217000" end="0:13:18.995000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:18.217000" end="0:13:18.995000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:13:18.217000	0:13:18.995000
 .	-	-	-	0:13:18.217000	0:13:18.995000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:18.995000" end="0:13:20.186000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:18.995000" end="0:13:20.186000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 und	-	-	-	0:13:18.995000	0:13:20.186000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:18.995000" end="0:13:20.186000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:18.995000" end="0:13:20.186000" project="PP03" age_lower="18" age_upper="35">
 ((lachen)	-	-	-	0:13:18.995000	0:13:20.186000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:20.186000" end="0:13:27.458000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:20.186000" end="0:13:27.458000" age_lower="1" age_upper="999">
 halten	-	-	-	0:13:20.186000	0:13:21.306000
 Sie	-	-	-	0:13:20.186000	0:13:21.306000
 die	-	-	-	0:13:20.186000	0:13:21.306000
@@ -3522,7 +3522,7 @@ im	-	-	-	0:13:24.650000	0:13:27.458000
 Fernsehen	-	-	-	0:13:24.650000	0:13:27.458000
 .	-	-	-	0:13:24.650000	0:13:27.458000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:27.458000" end="0:13:36.646000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:27.458000" end="0:13:36.646000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 ja	-	-	-	0:13:30.666000	0:13:32.163000
 ,	-	-	-	0:13:30.666000	0:13:32.163000
@@ -3548,7 +3548,7 @@ schon	-	-	-	0:13:35.274000	0:13:36.646000
 passend	-	-	-	0:13:35.274000	0:13:36.646000
 .	-	-	-	0:13:35.274000	0:13:36.646000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:36.646000" end="0:13:39.565000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:36.646000" end="0:13:39.565000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:36.646000	0:13:36.989000
 .	-	-	-	0:13:36.646000	0:13:36.989000
 also	-	-	-	0:13:36.989000	0:13:39.099000
@@ -3559,11 +3559,11 @@ Situationen	-	-	-	0:13:36.989000	0:13:39.099000
 sondern	-	-	-	0:13:39.099000	0:13:39.565000
 /.	-	-	-	0:13:39.099000	0:13:39.565000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:39.565000" end="0:13:40.345000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:39.565000" end="0:13:40.345000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:13:39.565000	0:13:40.345000
 .	-	-	-	0:13:39.565000	0:13:40.345000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:40.345000" end="0:13:45.441000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:40.345000" end="0:13:45.441000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:40.345000	0:13:40.883000
 .	-	-	-	0:13:40.345000	0:13:40.883000
 <pause duration="1,6s"/>
@@ -3577,26 +3577,26 @@ das	-	-	-	0:13:42.472000	0:13:45.441000
 Österreichisch	-	-	-	0:13:42.472000	0:13:45.441000
 ?	-	-	-	0:13:42.472000	0:13:45.441000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:45.441000" end="0:13:46.989000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:45.441000" end="0:13:46.989000" project="PP03" age_lower="18" age_upper="35">
 Österreichisch	-	-	-	0:13:45.441000	0:13:46.989000
 ,	-	-	-	0:13:45.441000	0:13:46.989000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:46.989000" end="0:13:47.758000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:46.989000" end="0:13:47.758000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:46.989000" end="0:13:48.019000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:46.989000" end="0:13:48.019000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:46.989000	0:13:47.758000
 ,	-	-	-	0:13:46.989000	0:13:47.758000
 gut	-	-	-	0:13:47.758000	0:13:48.019000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:48.019000" end="0:13:48.935000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:48.019000" end="0:13:48.935000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:48.019000	0:13:48.935000
 .	-	-	-	0:13:48.019000	0:13:48.935000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:48.019000" end="0:13:48.935000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:48.019000" end="0:13:48.935000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:13:48.019000	0:13:48.935000
 .	-	-	-	0:13:48.019000	0:13:48.935000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:48.935000" end="0:13:51.830000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:48.935000" end="0:13:51.830000" age_lower="1" age_upper="999">
 genau	-	-	-	0:13:48.935000	0:13:51.830000
 ,	-	-	-	0:13:48.935000	0:13:51.830000
 auch	-	-	-	0:13:48.935000	0:13:51.830000
@@ -3610,9 +3610,9 @@ das	-	-	-	0:13:48.935000	0:13:51.830000
 eintragen	-	-	-	0:13:48.935000	0:13:51.830000
 .	-	-	-	0:13:48.935000	0:13:51.830000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:48.935000" end="0:13:51.830000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:48.935000" end="0:13:51.830000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:51.830000" end="0:13:58.885000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:51.830000" end="0:13:58.885000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:13:51.830000	0:13:53.097000
 .	-	-	-	0:13:51.830000	0:13:53.097000
@@ -3621,10 +3621,10 @@ ja	-	-	-	0:13:53.097000	0:13:54.202000
 .	-	-	-	0:13:53.097000	0:13:54.202000
 <pause duration="4,7s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:54.202000" end="0:13:58.885000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:54.202000" end="0:13:58.885000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:58.886000" end="0:14:03.100000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:58.886000" end="0:14:03.100000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:13:58.886000	0:14:00.132000
 würden	-	-	-	0:13:58.886000	0:14:00.132000
 Sie	-	-	-	0:13:58.886000	0:14:00.132000
@@ -3642,29 +3642,29 @@ gesprochenen	-	-	-	0:14:00.132000	0:14:03.100000
 Deutsch	-	-	-	0:14:00.132000	0:14:03.100000
 gibt	-	-	-	0:14:00.132000	0:14:03.100000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:03.100000" end="0:14:03.538000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:03.100000" end="0:14:03.538000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:03.100000	0:14:03.538000
 ,	-	-	-	0:14:03.100000	0:14:03.538000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:03.538000" end="0:14:05.140000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:03.538000" end="0:14:05.140000" age_lower="1" age_upper="999">
 als	-	-	-	0:14:03.538000	0:14:03.870000
 das	-	-	-	0:14:03.870000	0:14:05.140000
 Österreichisch	-	-	-	0:14:03.870000	0:14:05.140000
 ?	-	-	-	0:14:03.870000	0:14:05.140000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:03.870000" end="0:14:05.140000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:03.870000" end="0:14:05.140000" project="PP03" age_lower="18" age_upper="35">
 schon	-	-	-	0:14:03.870000	0:14:05.140000
 .	-	-	-	0:14:03.870000	0:14:05.140000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:05.140000" end="0:14:05.605000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:05.140000" end="0:14:05.605000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:05.140000	0:14:05.605000
 .	-	-	-	0:14:05.140000	0:14:05.605000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:05.140000" end="0:14:05.605000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:05.140000" end="0:14:05.605000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:05.140000	0:14:05.605000
 .	-	-	-	0:14:05.140000	0:14:05.605000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:05.605000" end="0:14:06.991000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:05.605000" end="0:14:06.991000" age_lower="1" age_upper="999">
 und	-	-	-	0:14:05.605000	0:14:06.991000
 wie	-	-	-	0:14:05.605000	0:14:06.991000
 würden	-	-	-	0:14:05.605000	0:14:06.991000
@@ -3673,50 +3673,50 @@ das	-	-	-	0:14:05.605000	0:14:06.991000
 nennen	-	-	-	0:14:05.605000	0:14:06.991000
 ?	-	-	-	0:14:05.605000	0:14:06.991000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:06.991000" end="0:14:08.282000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:06.991000" end="0:14:08.282000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 Hochdeutsch	-	-	-	0:14:06.991000	0:14:08.282000
 .	-	-	-	0:14:06.991000	0:14:08.282000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:08.282000" end="0:14:08.841000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:08.282000" end="0:14:08.841000" age_lower="1" age_upper="999">
 Hochdeutsch	-	-	-	0:14:08.282000	0:14:08.841000
 .	-	-	-	0:14:08.282000	0:14:08.841000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:08.841000" end="0:14:08.985000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:08.841000" end="0:14:08.985000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:14:08.841000	0:14:08.985000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:08.985000" end="0:14:09.381000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:08.985000" end="0:14:09.381000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:08.985000	0:14:09.381000
 .	-	-	-	0:14:08.985000	0:14:09.381000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:08.985000" end="0:14:09.617000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:08.985000" end="0:14:09.617000" project="PP03" age_lower="18" age_upper="35">
 für	-	-	-	0:14:08.985000	0:14:09.381000
 mich	-	-	-	0:14:08.985000	0:14:09.381000
 ,	-	-	-	0:14:08.985000	0:14:09.381000
 ja	-	-	-	0:14:09.381000	0:14:09.617000
 .	-	-	-	0:14:09.381000	0:14:09.617000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:09.617000" end="0:14:10.796000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:09.617000" end="0:14:10.796000" age_lower="1" age_upper="999">
 darf	-	-	-	0:14:09.617000	0:14:10.796000
 ich	-	-	-	0:14:09.617000	0:14:10.796000
 mir	-	-	-	0:14:09.617000	0:14:10.796000
 den	-	-	-	0:14:09.617000	0:14:10.796000
 /?	-	-	-	0:14:09.617000	0:14:10.796000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:10.796000" end="0:14:11.090000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:10.796000" end="0:14:11.090000" project="PP03" age_lower="18" age_upper="35">
 klar	-	-	-	0:14:10.796000	0:14:11.090000
 .	-	-	-	0:14:10.796000	0:14:11.090000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:11.090000" end="0:14:12.632000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:11.090000" end="0:14:12.632000" age_lower="1" age_upper="999">
 Entschuldigung	-	-	-	0:14:11.090000	0:14:11.753000
 .	-	-	-	0:14:11.090000	0:14:11.753000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:11.753000" end="0:14:12.632000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:11.753000" end="0:14:12.632000" project="PP03" age_lower="18" age_upper="35">
 passt	-	-	-	0:14:11.753000	0:14:12.632000
 schon	-	-	-	0:14:11.753000	0:14:12.632000
 .	-	-	-	0:14:11.753000	0:14:12.632000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:12.632000" end="0:14:23.593000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:12.632000" end="0:14:23.593000" age_lower="1" age_upper="999">
 <pause duration="3,0s"/>
 mhm	-	-	-	0:14:15.610000	0:14:16.050000
 .	-	-	-	0:14:15.610000	0:14:16.050000
@@ -3731,7 +3731,7 @@ das	-	-	-	0:14:19.180000	0:14:21.976000
 Hochdeutsch	-	-	-	0:14:19.180000	0:14:21.976000
 ?	-	-	-	0:14:19.180000	0:14:21.976000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:21.976000" end="0:14:31.330000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:21.976000" end="0:14:31.330000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 also	-	-	-	0:14:25.202000	0:14:26.142000
 ich	-	-	-	0:14:25.202000	0:14:26.142000
@@ -3758,11 +3758,11 @@ oder	-	-	-	0:14:26.449000	0:14:31.330000
 das	-	-	-	0:14:26.449000	0:14:31.330000
 ,	-	-	-	0:14:26.449000	0:14:31.330000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:31.330000" end="0:14:32.106000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:31.330000" end="0:14:32.106000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:31.330000	0:14:32.106000
 .	-	-	-	0:14:31.330000	0:14:32.106000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:31.330000" end="0:14:42.531000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:31.330000" end="0:14:42.531000" project="PP03" age_lower="18" age_upper="35">
 man	-	-	-	0:14:31.330000	0:14:32.106000
 mu/	-	-	-	0:14:31.330000	0:14:32.106000
 man	-	-	-	0:14:31.330000	0:14:32.106000
@@ -3808,11 +3808,11 @@ Kinder	-	-	-	0:14:41.091000	0:14:42.531000
 auf	-	-	-	0:14:41.091000	0:14:42.531000
 Mundart	-	-	-	0:14:41.091000	0:14:42.531000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:42.531000" end="0:14:43.208000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:42.531000" end="0:14:43.208000" age_lower="1" age_upper="999">
 ja	-	-	-	0:14:42.531000	0:14:43.208000
 .	-	-	-	0:14:42.531000	0:14:43.208000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:42.531000" end="0:14:46.300000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:42.531000" end="0:14:46.300000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:14:42.531000	0:14:43.208000
 Aufsätze	-	-	-	0:14:43.208000	0:14:44.299000
 oder	-	-	-	0:14:43.208000	0:14:44.299000
@@ -3827,11 +3827,11 @@ eigentlich	-	-	-	0:14:44.299000	0:14:46.300000
 schon	-	-	-	0:14:44.299000	0:14:46.300000
 etwas	-	-	-	0:14:44.299000	0:14:46.300000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:46.300000" end="0:14:47.180000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:46.300000" end="0:14:47.180000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:46.300000	0:14:47.180000
 .	-	-	-	0:14:46.300000	0:14:47.180000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:46.300000" end="0:14:48.364000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:46.300000" end="0:14:48.364000" project="PP03" age_lower="18" age_upper="35">
 schwierig	-	-	-	0:14:46.300000	0:14:47.180000
 ,	-	-	-	0:14:46.300000	0:14:47.180000
 ist	-	-	-	0:14:46.300000	0:14:47.180000
@@ -3840,17 +3840,17 @@ fast	-	-	-	0:14:47.180000	0:14:48.364000
 zweisprachig	-	-	-	0:14:47.180000	0:14:48.364000
 .	-	-	-	0:14:47.180000	0:14:48.364000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:48.364000" end="0:14:48.856000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:48.364000" end="0:14:48.856000" age_lower="1" age_upper="999">
 ja	-	-	-	0:14:48.364000	0:14:48.856000
 ,	-	-	-	0:14:48.364000	0:14:48.856000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:48.364000" end="0:14:48.856000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:48.364000" end="0:14:48.856000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:48.856000" end="0:14:49.597000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:48.856000" end="0:14:49.597000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:48.856000	0:14:49.597000
 .	-	-	-	0:14:48.856000	0:14:49.597000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:48.856000" end="0:14:51.489000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:48.856000" end="0:14:51.489000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:14:49.597000	0:14:50.122000
 ja	-	-	-	0:14:49.597000	0:14:50.122000
 .	-	-	-	0:14:49.597000	0:14:50.122000
@@ -3862,17 +3862,17 @@ es	-	-	-	0:14:50.122000	0:14:51.489000
 schon	-	-	-	0:14:50.122000	0:14:51.489000
 und	-	-	-	0:14:50.122000	0:14:51.489000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:51.489000" end="0:14:51.997000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:51.489000" end="0:14:51.997000" age_lower="1" age_upper="999">
 ja	-	-	-	0:14:51.489000	0:14:51.997000
 .	-	-	-	0:14:51.489000	0:14:51.997000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:51.489000" end="0:14:52.337000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:51.489000" end="0:14:52.337000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:14:51.489000	0:14:51.997000
 /.	-	-	-	0:14:51.489000	0:14:51.997000
 ja	-	-	-	0:14:51.997000	0:14:52.337000
 .	-	-	-	0:14:51.997000	0:14:52.337000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:52.336000" end="0:15:02.659000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:52.336000" end="0:15:02.659000" age_lower="1" age_upper="999">
 können	-	-	-	0:14:52.336000	0:14:55.596000
 bitte	-	-	-	0:14:52.336000	0:14:55.596000
 <pause duration="0,6s"/>
@@ -3897,24 +3897,24 @@ zum	-	-	-	0:15:00.266000	0:15:02.659000
 Beispiel	-	-	-	0:15:00.266000	0:15:02.659000
 ?	-	-	-	0:15:00.266000	0:15:02.659000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:02.659000" end="0:15:04.165000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:02.659000" end="0:15:04.165000" project="PP03" age_lower="18" age_upper="35">
 teilweise	-	-	-	0:15:02.659000	0:15:04.165000
 die	-	-	-	0:15:02.659000	0:15:04.165000
 Aussprache	-	-	-	0:15:02.659000	0:15:04.165000
 ,	-	-	-	0:15:02.659000	0:15:04.165000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:04.165000" end="0:15:04.858000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:04.165000" end="0:15:04.858000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:04.165000	0:15:04.858000
 ,	-	-	-	0:15:04.165000	0:15:04.858000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:04.165000" end="0:15:04.858000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:04.165000" end="0:15:04.858000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:15:04.165000	0:15:04.858000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:04.858000" end="0:15:05.294000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:04.858000" end="0:15:05.294000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:04.858000	0:15:05.294000
 .	-	-	-	0:15:04.858000	0:15:05.294000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:05.295000" end="0:15:12.878000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:05.295000" end="0:15:12.878000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	-	-	-	0:15:06.374000	0:15:08.546000
 ,	-	-	-	0:15:06.374000	0:15:08.546000
@@ -3932,15 +3932,15 @@ etwas	-	-	-	0:15:08.546000	0:15:12.878000
 anders	-	-	-	0:15:08.546000	0:15:12.878000
 .	-	-	-	0:15:08.546000	0:15:12.878000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:12.878000" end="0:15:13.469000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:12.878000" end="0:15:13.469000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:12.878000	0:15:13.469000
 .	-	-	-	0:15:12.878000	0:15:13.469000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:13.469000" end="0:15:13.755000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:13.469000" end="0:15:13.755000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:13.469000	0:15:13.755000
 .	-	-	-	0:15:13.469000	0:15:13.755000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:13.755000" end="0:15:22.405000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:13.755000" end="0:15:22.405000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 und	-	-	-	0:15:14.827000	0:15:15.877000
 gibt	-	-	-	0:15:14.827000	0:15:15.877000
@@ -3966,7 +3966,7 @@ gesprochenen	-	-	-	0:15:19.990000	0:15:22.405000
 Deutsch	-	-	-	0:15:19.990000	0:15:22.405000
 ?	-	-	-	0:15:19.990000	0:15:22.405000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:22.405000" end="0:15:25.331000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:22.405000" end="0:15:25.331000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 hm	-	-	-	0:15:23.845000	0:15:24.413000
 ,	-	-	-	0:15:23.845000	0:15:24.413000
@@ -3974,15 +3974,15 @@ für	-	-	-	0:15:24.413000	0:15:25.331000
 mich	-	-	-	0:15:24.413000	0:15:25.331000
 eigentlich	-	-	-	0:15:24.413000	0:15:25.331000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:25.331000" end="0:15:26.032000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:25.331000" end="0:15:26.032000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:25.331000	0:15:26.032000
 .	-	-	-	0:15:25.331000	0:15:26.032000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:25.331000" end="0:15:26.032000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:25.331000" end="0:15:26.032000" project="PP03" age_lower="18" age_upper="35">
 nicht	-	-	-	0:15:25.331000	0:15:26.032000
 .	-	-	-	0:15:25.331000	0:15:26.032000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:26.032000" end="0:15:28.867000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:26.032000" end="0:15:28.867000" age_lower="1" age_upper="999">
 das	-	-	-	0:15:26.032000	0:15:26.472000
 heißt	-	-	-	0:15:26.032000	0:15:26.472000
 ,	-	-	-	0:15:26.032000	0:15:26.472000
@@ -3993,11 +3993,11 @@ das	-	-	-	0:15:26.472000	0:15:28.867000
 reinste	-	-	-	0:15:26.472000	0:15:28.867000
 ,	-	-	-	0:15:26.472000	0:15:28.867000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:28.867000" end="0:15:29.420000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:28.867000" end="0:15:29.420000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:28.867000	0:15:29.420000
 .	-	-	-	0:15:28.867000	0:15:29.420000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:29.420000" end="0:15:35.440000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:29.420000" end="0:15:35.440000" age_lower="1" age_upper="999">
 was	-	-	-	0:15:29.420000	0:15:31.420000
 Sie	-	-	-	0:15:29.420000	0:15:31.420000
 sich	-	-	-	0:15:29.420000	0:15:31.420000
@@ -4015,7 +4015,7 @@ das	-	-	-	0:15:33.308000	0:15:35.440000
 Hochdeutsch	-	-	-	0:15:33.308000	0:15:35.440000
 ?	-	-	-	0:15:33.308000	0:15:35.440000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:35.440000" end="0:15:47.959000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:35.440000" end="0:15:47.959000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 das	-	-	-	0:15:36.442000	0:15:37.240000
 Hochdeutsch	-	-	-	0:15:36.442000	0:15:37.240000
@@ -4052,17 +4052,17 @@ hat	-	-	-	0:15:46.654000	0:15:47.959000
 andere	-	-	-	0:15:46.654000	0:15:47.959000
 Ausdrucks-	-	-	-	0:15:46.654000	0:15:47.959000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:47.959000" end="0:15:48.437000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:47.959000" end="0:15:48.437000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:47.959000	0:15:48.437000
 .	-	-	-	0:15:47.959000	0:15:48.437000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:48.437000" end="0:15:50.147000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:48.437000" end="0:15:50.147000" project="PP03" age_lower="18" age_upper="35">
 -weisen	-	-	-	0:15:48.437000	0:15:49.245000
 ,	-	-	-	0:15:48.437000	0:15:49.245000
 also	-	-	-	0:15:49.245000	0:15:50.147000
 /.	-	-	-	0:15:49.245000	0:15:50.147000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:50.147000" end="0:15:52.513000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:50.147000" end="0:15:52.513000" age_lower="1" age_upper="999">
 haben	-	-	-	0:15:50.147000	0:15:52.513000
 Sie	-	-	-	0:15:50.147000	0:15:52.513000
 da	-	-	-	0:15:50.147000	0:15:52.513000
@@ -4074,7 +4074,7 @@ dafür	-	-	-	0:15:50.147000	0:15:52.513000
 oder	-	-	-	0:15:50.147000	0:15:52.513000
 /?	-	-	-	0:15:50.147000	0:15:52.513000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:52.513000" end="0:16:13.533000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:52.513000" end="0:16:13.533000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 wer	-	-	-	0:15:54.456000	0:15:56.212000
 richtig	-	-	-	0:15:54.456000	0:15:56.212000
@@ -4126,11 +4126,11 @@ hat	-	-	-	0:16:09.122000	0:16:12.480000
 ,	-	-	-	0:16:09.122000	0:16:12.480000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:13.533000" end="0:16:14.068000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:13.533000" end="0:16:14.068000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:13.533000	0:16:14.068000
 .	-	-	-	0:16:13.533000	0:16:14.068000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:14.068000" end="0:16:22" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:14.068000" end="0:16:22" project="PP03" age_lower="18" age_upper="35">
 dass	-	-	-	0:16:14.068000	0:16:15.953000
 man	-	-	-	0:16:14.068000	0:16:15.953000
 komplett	-	-	-	0:16:14.068000	0:16:15.953000
@@ -4156,11 +4156,11 @@ anders	-	-	-	0:16:16.386000	0:16:22
 also	-	-	-	0:16:16.386000	0:16:22
 /.	-	-	-	0:16:16.386000	0:16:22
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:22" end="0:16:22.813000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:22" end="0:16:22.813000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:22	0:16:22.813000
 .	-	-	-	0:16:22	0:16:22.813000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:22.813000" end="0:16:27.187000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:22.813000" end="0:16:27.187000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 <pause duration="seufzen"/>
 schwierig	-	-	-	0:16:24.389000	0:16:25.053000
@@ -4171,15 +4171,15 @@ ein	-	-	-	0:16:25.054000	0:16:27.187000
 Deutschlehrer	-	-	-	0:16:25.054000	0:16:27.187000
 .	-	-	-	0:16:25.054000	0:16:27.187000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:27.187000" end="0:16:28.251000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:27.187000" end="0:16:28.251000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:27.187000	0:16:28.251000
 ,	-	-	-	0:16:27.187000	0:16:28.251000
 mhm	-	-	-	0:16:27.187000	0:16:28.251000
 .	-	-	-	0:16:27.187000	0:16:28.251000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:28.251000" end="0:16:28.946000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:28.251000" end="0:16:28.946000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:28.946000" end="0:16:37.229000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:28.946000" end="0:16:37.229000" age_lower="1" age_upper="999">
 <pause duration="1,6s"/>
 wie	-	-	-	0:16:30.515000	0:16:32.515000
 würden	-	-	-	0:16:30.515000	0:16:32.515000
@@ -4203,7 +4203,7 @@ nächsten	-	-	-	0:16:35.229000	0:16:37.229000
 kommt	-	-	-	0:16:35.229000	0:16:37.229000
 ?	-	-	-	0:16:35.229000	0:16:37.229000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:37.229000" end="0:16:43.536000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:37.229000" end="0:16:43.536000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:16:38.342000	0:16:39.587000
 ,	-	-	-	0:16:38.342000	0:16:39.587000
 eigentlich	-	-	-	0:16:38.342000	0:16:39.587000
@@ -4230,11 +4230,11 @@ Hochdeutsch	-	-	-	0:16:42.298000	0:16:43.536000
 reden"	-	-	-	0:16:42.298000	0:16:43.536000
 .	-	-	-	0:16:42.298000	0:16:43.536000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:43.536000" end="0:16:44.024000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:43.536000" end="0:16:44.024000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:43.536000	0:16:44.024000
 .	-	-	-	0:16:43.536000	0:16:44.024000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:43.536000" end="0:16:48.302000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:43.536000" end="0:16:48.302000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:16:43.536000	0:16:44.024000
 sage	-	-	-	0:16:43.536000	0:16:44.024000
 ich	-	-	-	0:16:43.536000	0:16:44.024000
@@ -4255,39 +4255,39 @@ Hochdeutsch	-	-	-	0:16:45.278000	0:16:47.363000
 pff	-	-	-	0:16:47.363000	0:16:48.302000
 .	-	-	-	0:16:47.363000	0:16:48.302000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:48.302000" end="0:16:48.830000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:48.302000" end="0:16:48.830000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:48.302000" end="0:16:48.830000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:48.302000" end="0:16:48.830000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:48.830000" end="0:16:51.293000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:48.830000" end="0:16:51.293000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:48.830000" end="0:16:51.293000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:48.830000" end="0:16:51.293000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:16:48.830000	0:16:51.293000
 *is*	-	-	-	0:16:48.830000	0:16:51.293000
 Österreichisch	-	-	-	0:16:48.830000	0:16:51.293000
 .	-	-	-	0:16:48.830000	0:16:51.293000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:51.293000" end="0:16:51.928000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:51.293000" end="0:16:51.928000" age_lower="1" age_upper="999">
 okay	-	-	-	0:16:51.293000	0:16:51.928000
 .	-	-	-	0:16:51.293000	0:16:51.928000
 das	-	-	-	0:16:51.293000	0:16:51.928000
 heißt	-	-	-	0:16:51.293000	0:16:51.928000
 ,	-	-	-	0:16:51.293000	0:16:51.928000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:51.293000" end="0:16:51.928000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:51.293000" end="0:16:51.928000" project="PP03" age_lower="18" age_upper="35">
 naja	-	-	-	0:16:51.293000	0:16:51.928000
 ,	-	-	-	0:16:51.293000	0:16:51.928000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:51.928000" end="0:16:52.290000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:51.928000" end="0:16:52.290000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:16:51.928000	0:16:52.290000
 würden	-	-	-	0:16:51.928000	0:16:52.290000
 es	-	-	-	0:16:51.928000	0:16:52.290000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:51.928000" end="0:16:52.290000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:51.928000" end="0:16:52.290000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:16:51.928000	0:16:52.290000
 /.	-	-	-	0:16:51.928000	0:16:52.290000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:52.290000" end="0:16:58.179000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:52.290000" end="0:16:58.179000" age_lower="1" age_upper="999">
 als	-	-	-	0:16:52.290000	0:16:53.762000
 Hochdeutsch	-	-	-	0:16:52.290000	0:16:53.762000
 bezeichnen	-	-	-	0:16:52.290000	0:16:53.762000
@@ -4309,7 +4309,7 @@ ein	-	-	-	0:16:56.966000	0:16:58.179000
 Österreichisch	-	-	-	0:16:56.966000	0:16:58.179000
 ,	-	-	-	0:16:56.966000	0:16:58.179000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:56.966000" end="0:16:58.179000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:56.966000" end="0:16:58.179000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:16:56.966000	0:16:58.179000
 ,	-	-	-	0:16:56.966000	0:16:58.179000
 eigentlich	-	-	-	0:16:56.966000	0:16:58.179000
@@ -4318,18 +4318,18 @@ schon	-	-	-	0:16:56.966000	0:16:58.179000
 ja	-	-	-	0:16:56.966000	0:16:58.179000
 .	-	-	-	0:16:56.966000	0:16:58.179000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:58.179000" end="0:16:59.398000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:58.179000" end="0:16:59.398000" age_lower="1" age_upper="999">
 das	-	-	-	0:16:58.179000	0:16:58.876000
 nicht	-	-	-	0:16:58.179000	0:16:58.876000
 so	-	-	-	0:16:58.179000	0:16:58.876000
 nicht	-	-	-	0:16:58.876000	0:16:59.398000
 so	-	-	-	0:16:58.876000	0:16:59.398000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:58.876000" end="0:16:59.398000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:58.876000" end="0:16:59.398000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:16:58.876000	0:16:59.398000
 .	-	-	-	0:16:58.876000	0:16:59.398000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:59.398000" end="0:17:01.820000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:59.398000" end="0:17:01.820000" age_lower="1" age_upper="999">
 genau	-	-	-	0:16:59.398000	0:17:01.112000
 in	-	-	-	0:16:59.398000	0:17:01.112000
 der	-	-	-	0:16:59.398000	0:17:01.112000
@@ -4341,7 +4341,7 @@ ist	-	-	-	0:17:01.112000	0:17:01.820000
 oder	-	-	-	0:17:01.112000	0:17:01.820000
 ?	-	-	-	0:17:01.112000	0:17:01.820000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:01.112000" end="0:17:03.442000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:01.112000" end="0:17:03.442000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:01.112000	0:17:01.820000
 ,	-	-	-	0:17:01.112000	0:17:01.820000
 genau	-	-	-	0:17:01.112000	0:17:01.820000
@@ -4355,25 +4355,25 @@ so	-	-	-	0:17:02.617000	0:17:03.442000
 schön	-	-	-	0:17:02.617000	0:17:03.442000
 .	-	-	-	0:17:02.617000	0:17:03.442000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:03.442000" end="0:17:04.500000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:03.442000" end="0:17:04.500000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:03.442000" end="0:17:04.500000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:03.442000" end="0:17:04.500000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:04.500000" end="0:17:06.608000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:04.500000" end="0:17:06.608000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:04.500000	0:17:04.998000
 .	-	-	-	0:17:04.500000	0:17:04.998000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:04.998000" end="0:17:06.608000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:04.998000" end="0:17:06.608000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:06.608000" end="0:17:08.520000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:06.608000" end="0:17:08.520000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:06.608000" end="0:17:08.520000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:06.608000" end="0:17:08.520000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:08.520000" end="0:17:14.826000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:08.520000" end="0:17:14.826000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 so	-	-	-	0:17:10.338000	0:17:10.809000
 ,	-	-	-	0:17:10.338000	0:17:10.809000
@@ -4395,11 +4395,11 @@ was	-	-	-	0:17:12.760000	0:17:13.900000
 eintragen	-	-	-	0:17:13.900000	0:17:14.826000
 .	-	-	-	0:17:13.900000	0:17:14.826000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:13.900000" end="0:17:14.826000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:13.900000" end="0:17:14.826000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:13.900000	0:17:14.826000
 .	-	-	-	0:17:13.900000	0:17:14.826000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:14.826000" end="0:17:39.421000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:14.826000" end="0:17:39.421000" age_lower="1" age_upper="999">
 <pause duration="17,6s"/>
 wenn	-	-	-	0:17:32.531000	0:17:34.158000
 Sie	-	-	-	0:17:32.531000	0:17:34.158000
@@ -4422,26 +4422,26 @@ dem	-	-	-	0:17:36.355000	0:17:39.421000
 Hochdeutsch	-	-	-	0:17:36.355000	0:17:39.421000
 .	-	-	-	0:17:36.355000	0:17:39.421000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:39.421000" end="0:17:40.757000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:39.421000" end="0:17:40.757000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:40.757000" end="0:17:41.909000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:40.757000" end="0:17:41.909000" age_lower="1" age_upper="999">
 wo	-	-	-	0:17:40.757000	0:17:41.909000
 es	-	-	-	0:17:40.757000	0:17:41.909000
 näher	-	-	-	0:17:40.757000	0:17:41.909000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:41.909000" end="0:17:42.530000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:41.909000" end="0:17:42.530000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:41.909000	0:17:42.530000
 .	-	-	-	0:17:41.909000	0:17:42.530000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:42.530000" end="0:17:42.974000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:42.530000" end="0:17:42.974000" age_lower="1" age_upper="999">
 ist	-	-	-	0:17:42.530000	0:17:42.974000
 .	-	-	-	0:17:42.530000	0:17:42.974000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:42.973000" end="0:17:49.528000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:42.973000" end="0:17:49.528000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="6,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:49.528000" end="0:17:57.210000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:49.528000" end="0:17:57.210000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:49.528000	0:17:49.939000
 .	-	-	-	0:17:49.528000	0:17:49.939000
 <pause duration="1,8s"/>
@@ -4465,7 +4465,7 @@ das	-	-	-	0:17:54.310000	0:17:57.210000
 Österreichisch	-	-	-	0:17:54.310000	0:17:57.210000
 ?	-	-	-	0:17:54.310000	0:17:57.210000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:57.210000" end="0:18:02.720000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:57.210000" end="0:18:02.720000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 das	-	-	-	0:17:59.210000	0:18:00.706000
 Österreichisch	-	-	-	0:17:59.210000	0:18:00.706000
@@ -4476,11 +4476,11 @@ ich	-	-	-	0:18:01.886000	0:18:02.720000
 wieder	-	-	-	0:18:01.886000	0:18:02.720000
 eintragen	-	-	-	0:18:01.886000	0:18:02.720000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:02.720000" end="0:18:03.190000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:02.720000" end="0:18:03.190000" age_lower="1" age_upper="999">
 genau	-	-	-	0:18:02.720000	0:18:03.190000
 .	-	-	-	0:18:02.720000	0:18:03.190000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:02.720000" end="0:18:05.917000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:02.720000" end="0:18:05.917000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:18:02.720000	0:18:03.190000
 /?	-	-	-	0:18:02.720000	0:18:03.190000
 okay	-	-	-	0:18:03.190000	0:18:03.743000
@@ -4490,7 +4490,7 @@ passt	-	-	-	0:18:03.190000	0:18:03.743000
 <pause duration="0,6s"/>
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:05.917000" end="0:18:07.295000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:05.917000" end="0:18:07.295000" age_lower="1" age_upper="999">
 das	-	-	-	0:18:05.917000	0:18:07.295000
 ist	-	-	-	0:18:05.917000	0:18:07.295000
 glaube	-	-	-	0:18:05.917000	0:18:07.295000
@@ -4500,10 +4500,10 @@ mit	-	-	-	0:18:05.917000	0:18:07.295000
 dem	-	-	-	0:18:05.917000	0:18:07.295000
 .	-	-	-	0:18:05.917000	0:18:07.295000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:07.296000" end="0:18:15.656000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:07.296000" end="0:18:15.656000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="8,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:15.657000" end="0:18:21.816000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:15.657000" end="0:18:21.816000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:15.657000	0:18:16.128000
 .	-	-	-	0:18:15.657000	0:18:16.128000
 <pause duration="0,8s"/>
@@ -4523,7 +4523,7 @@ das	-	-	-	0:18:19.728000	0:18:21.816000
 sprechen	-	-	-	0:18:19.728000	0:18:21.816000
 ?	-	-	-	0:18:19.728000	0:18:21.816000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:21.816000" end="0:18:23.504000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:21.816000" end="0:18:23.504000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:18:21.816000	0:18:23.504000
 nur	-	-	-	0:18:21.816000	0:18:23.504000
 fast	-	-	-	0:18:21.816000	0:18:23.504000
@@ -4533,15 +4533,15 @@ der	-	-	-	0:18:21.816000	0:18:23.504000
 Arbeit	-	-	-	0:18:21.816000	0:18:23.504000
 .	-	-	-	0:18:21.816000	0:18:23.504000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:23.504000" end="0:18:24.073000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:23.504000" end="0:18:24.073000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:23.504000	0:18:24.073000
 .	-	-	-	0:18:23.504000	0:18:24.073000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:24.073000" end="0:18:24.431000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:24.073000" end="0:18:24.431000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:24.073000	0:18:24.431000
 .	-	-	-	0:18:24.073000	0:18:24.431000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:24.431000" end="0:18:28.524000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:24.431000" end="0:18:28.524000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 und	-	-	-	0:18:25.974000	0:18:27.321000
 mit	-	-	-	0:18:25.974000	0:18:27.321000
@@ -4553,32 +4553,32 @@ eher	-	-	-	0:18:27.321000	0:18:28.524000
 mit	-	-	-	0:18:27.321000	0:18:28.524000
 den	-	-	-	0:18:27.321000	0:18:28.524000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:28.524000" end="0:18:29.224000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:28.524000" end="0:18:29.224000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:18:28.524000	0:18:29.224000
 mit	-	-	-	0:18:28.524000	0:18:29.224000
 den	-	-	-	0:18:28.524000	0:18:29.224000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:29.224000" end="0:18:29.788000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:29.224000" end="0:18:29.788000" age_lower="1" age_upper="999">
 Kunden	-	-	-	0:18:29.224000	0:18:29.788000
 ?	-	-	-	0:18:29.224000	0:18:29.788000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:29.224000" end="0:18:30.001000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:29.224000" end="0:18:30.001000" project="PP03" age_lower="18" age_upper="35">
 Kunden	-	-	-	0:18:29.224000	0:18:29.788000
 .	-	-	-	0:18:29.224000	0:18:29.788000
 ja	-	-	-	0:18:29.788000	0:18:30.001000
 ,	-	-	-	0:18:29.788000	0:18:30.001000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:30.001000" end="0:18:30.482000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:30.001000" end="0:18:30.482000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:30.001000	0:18:30.482000
 .	-	-	-	0:18:30.001000	0:18:30.482000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:30.001000" end="0:18:31.240000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:30.001000" end="0:18:31.240000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:18:30.001000	0:18:30.482000
 ,	-	-	-	0:18:30.001000	0:18:30.482000
 genau	-	-	-	0:18:30.482000	0:18:31.240000
 .	-	-	-	0:18:30.482000	0:18:31.240000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:31.240000" end="0:18:34.518000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:31.240000" end="0:18:34.518000" age_lower="1" age_upper="999">
 also	-	-	-	0:18:31.240000	0:18:32.465000
 nur	-	-	-	0:18:31.240000	0:18:32.465000
 mit	-	-	-	0:18:31.240000	0:18:32.465000
@@ -4593,23 +4593,23 @@ Arbeitskollegen	-	-	-	0:18:32.465000	0:18:34.518000
 oder	-	-	-	0:18:32.465000	0:18:34.518000
 ?	-	-	-	0:18:32.465000	0:18:34.518000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:34.518000" end="0:18:35.614000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:34.518000" end="0:18:35.614000" project="PP03" age_lower="18" age_upper="35">
 ganz	-	-	-	0:18:34.518000	0:18:35.614000
 selten	-	-	-	0:18:34.518000	0:18:35.614000
 ,	-	-	-	0:18:34.518000	0:18:35.614000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:35.614000" end="0:18:36.054000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:35.614000" end="0:18:36.054000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:35.614000	0:18:36.054000
 .	-	-	-	0:18:35.614000	0:18:36.054000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:35.614000" end="0:18:36.616000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:35.614000" end="0:18:36.616000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:18:35.614000	0:18:36.054000
 nicht	-	-	-	0:18:36.054000	0:18:36.318000
 ,	-	-	-	0:18:36.054000	0:18:36.318000
 nein	-	-	-	0:18:36.318000	0:18:36.616000
 .	-	-	-	0:18:36.318000	0:18:36.616000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:36.616000" end="0:18:49.867000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:36.616000" end="0:18:49.867000" age_lower="1" age_upper="999">
 <pause duration="3,4s"/>
 gibt	-	-	-	0:18:39.981000	0:18:42.584000
 es	-	-	-	0:18:39.981000	0:18:42.584000
@@ -4648,7 +4648,7 @@ gefordert	-	-	-	0:18:48.393000	0:18:49.867000
 ist	-	-	-	0:18:48.393000	0:18:49.867000
 ?	-	-	-	0:18:48.393000	0:18:49.867000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:49.867000" end="0:18:51.354000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:49.867000" end="0:18:51.354000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:49.867000	0:18:51.354000
 ,	-	-	-	0:18:49.867000	0:18:51.354000
 das	-	-	-	0:18:49.867000	0:18:51.354000
@@ -4657,17 +4657,17 @@ Gefühl	-	-	-	0:18:49.867000	0:18:51.354000
 ja	-	-	-	0:18:49.867000	0:18:51.354000
 ,	-	-	-	0:18:49.867000	0:18:51.354000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:51.354000" end="0:18:51.780000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:51.354000" end="0:18:51.780000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:51.354000	0:18:51.780000
 .	-	-	-	0:18:51.354000	0:18:51.780000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:51.780000" end="0:18:52.659000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:51.780000" end="0:18:52.659000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:18:51.780000	0:18:52.141000
 ,	-	-	-	0:18:51.780000	0:18:52.141000
 mhm	-	-	-	0:18:52.141000	0:18:52.659000
 .	-	-	-	0:18:52.141000	0:18:52.659000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:52.659000" end="0:18:56.178000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:52.659000" end="0:18:56.178000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:18:52.659000	0:18:55.470000
 ist	-	-	-	0:18:52.659000	0:18:55.470000
@@ -4684,7 +4684,7 @@ Sie	-	-	-	0:18:55.638000	0:18:56.178000
 sagen	-	-	-	0:18:55.638000	0:18:56.178000
 /?	-	-	-	0:18:55.638000	0:18:56.178000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:55.638000" end="0:19:00.445000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:55.638000" end="0:19:00.445000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:18:55.638000	0:18:56.178000
 .	-	-	-	0:18:55.638000	0:18:56.178000
 genau	-	-	-	0:18:56.178000	0:18:58.582000
@@ -4702,11 +4702,11 @@ dann	-	-	-	0:18:58.582000	0:19:00.445000
 irgendwie	-	-	-	0:18:58.582000	0:19:00.445000
 automatisch	-	-	-	0:18:58.582000	0:19:00.445000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:00.445000" end="0:19:00.920000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:00.445000" end="0:19:00.920000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:00.445000	0:19:00.920000
 .	-	-	-	0:19:00.445000	0:19:00.920000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:00.445000" end="0:19:01.573000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:00.445000" end="0:19:01.573000" project="PP03" age_lower="18" age_upper="35">
 an	-	-	-	0:19:00.445000	0:19:00.920000
 ,	-	-	-	0:19:00.445000	0:19:00.920000
 also	-	-	-	0:19:00.445000	0:19:00.920000
@@ -4714,7 +4714,7 @@ je	-	-	-	0:19:00.920000	0:19:01.573000
 nachdem	-	-	-	0:19:00.920000	0:19:01.573000
 .	-	-	-	0:19:00.920000	0:19:01.573000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:01.573000" end="0:19:04.541000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:01.573000" end="0:19:04.541000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 und	-	-	-	0:19:02.742000	0:19:04.541000
 gibt	-	-	-	0:19:02.742000	0:19:04.541000
@@ -4725,61 +4725,61 @@ noch	-	-	-	0:19:02.742000	0:19:04.541000
 Situationen	-	-	-	0:19:02.742000	0:19:04.541000
 ?	-	-	-	0:19:02.742000	0:19:04.541000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:04.541000" end="0:19:07.231000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:04.541000" end="0:19:07.231000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 wo	-	-	-	0:19:06.411000	0:19:07.231000
 ich	-	-	-	0:19:06.411000	0:19:07.231000
 Österreichisch	-	-	-	0:19:06.411000	0:19:07.231000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:07.231000" end="0:19:07.818000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:07.231000" end="0:19:07.818000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:07.231000	0:19:07.818000
 .	-	-	-	0:19:07.231000	0:19:07.818000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:07.231000" end="0:19:09.284000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:07.231000" end="0:19:09.284000" project="PP03" age_lower="18" age_upper="35">
 spreche	-	-	-	0:19:07.231000	0:19:07.818000
 ?	-	-	-	0:19:07.231000	0:19:07.818000
 ähm	-	-	-	0:19:07.818000	0:19:09.284000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:09.284000" end="0:19:09.756000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:09.284000" end="0:19:09.756000" age_lower="1" age_upper="999">
 eben	-	-	-	0:19:09.284000	0:19:09.756000
 weil	-	-	-	0:19:09.284000	0:19:09.756000
 es	-	-	-	0:19:09.284000	0:19:09.756000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:09.284000" end="0:19:09.756000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:09.284000" end="0:19:09.756000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:09.756000" end="0:19:11.020000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:09.756000" end="0:19:11.020000" age_lower="1" age_upper="999">
 gefordert	-	-	-	0:19:09.756000	0:19:10.568000
 wird	-	-	-	0:19:10.568000	0:19:11.020000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:10.568000" end="0:19:11.020000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:10.568000" end="0:19:11.020000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:10.568000	0:19:11.020000
 ,	-	-	-	0:19:10.568000	0:19:11.020000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:11.020000" end="0:19:11.498000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:11.020000" end="0:19:11.498000" age_lower="1" age_upper="999">
 oder	-	-	-	0:19:11.020000	0:19:11.498000
 weil	-	-	-	0:19:11.020000	0:19:11.498000
 Sie	-	-	-	0:19:11.020000	0:19:11.498000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:11.020000" end="0:19:11.498000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:11.020000" end="0:19:11.498000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:19:11.020000	0:19:11.498000
 /.	-	-	-	0:19:11.020000	0:19:11.498000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:11.498000" end="0:19:11.958000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:11.498000" end="0:19:11.958000" age_lower="1" age_upper="999">
 glauben	-	-	-	0:19:11.498000	0:19:11.958000
 ,	-	-	-	0:19:11.498000	0:19:11.958000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:11.498000" end="0:19:11.958000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:11.498000" end="0:19:11.958000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:11.498000	0:19:11.958000
 genau	-	-	-	0:19:11.498000	0:19:11.958000
 .	-	-	-	0:19:11.498000	0:19:11.958000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:11.958000" end="0:19:12.686000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:11.958000" end="0:19:12.686000" age_lower="1" age_upper="999">
 es	-	-	-	0:19:11.958000	0:19:12.686000
 muss	-	-	-	0:19:11.958000	0:19:12.686000
 sein	-	-	-	0:19:11.958000	0:19:12.686000
 .	-	-	-	0:19:11.958000	0:19:12.686000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:12.686000" end="0:19:18.274000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:12.686000" end="0:19:18.274000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 sozusagen	-	-	-	0:19:12.686000	0:19:14.184000
 ,	-	-	-	0:19:12.686000	0:19:14.184000
@@ -4797,15 +4797,15 @@ automatisch	-	-	-	0:19:14.184000	0:19:18.274000
 Hüttschlagerisch	-	-	-	0:19:14.184000	0:19:18.274000
 .	-	-	-	0:19:14.184000	0:19:18.274000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:18.274000" end="0:19:20.297000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:18.274000" end="0:19:20.297000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:18.274000	0:19:20.297000
 ,	-	-	-	0:19:18.274000	0:19:20.297000
 ja	-	-	-	0:19:18.274000	0:19:20.297000
 .	-	-	-	0:19:18.274000	0:19:20.297000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:18.274000" end="0:19:20.297000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:18.274000" end="0:19:20.297000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:20.297000" end="0:19:33.035000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:20.297000" end="0:19:33.035000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 stellen	-	-	-	0:19:20.297000	0:19:22.600000
 Sie	-	-	-	0:19:20.297000	0:19:22.600000
@@ -4856,7 +4856,7 @@ Kunden	-	-	-	0:19:28.498000	0:19:33.035000
 sprechen	-	-	-	0:19:28.498000	0:19:33.035000
 ?	-	-	-	0:19:28.498000	0:19:33.035000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:33.035000" end="0:19:47.672000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:33.035000" end="0:19:47.672000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 wie	-	-	-	0:19:34.141000	0:19:35.402000
 das	-	-	-	0:19:34.141000	0:19:35.402000
@@ -4869,7 +4869,7 @@ hm	-	-	-	0:19:43.590000	0:19:43.984000
 .	-	-	-	0:19:43.590000	0:19:43.984000
 <pause duration="3,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:47.672000" end="0:19:51.423000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:47.672000" end="0:19:51.423000" age_lower="1" age_upper="999">
 ist	-	-	-	0:19:47.672000	0:19:49.986000
 das	-	-	-	0:19:47.672000	0:19:49.986000
 für	-	-	-	0:19:47.672000	0:19:49.986000
@@ -4881,7 +4881,7 @@ Ihnen	-	-	-	0:19:49.986000	0:19:51.423000
 das	-	-	-	0:19:49.986000	0:19:51.423000
 auf	-	-	-	0:19:49.986000	0:19:51.423000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:49.986000" end="0:19:51.423000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:49.986000" end="0:19:51.423000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:19:49.986000	0:19:51.423000
 so	-	-	-	0:19:49.986000	0:19:51.423000
 ,	-	-	-	0:19:49.986000	0:19:51.423000
@@ -4890,11 +4890,11 @@ man	-	-	-	0:19:49.986000	0:19:51.423000
 sich	-	-	-	0:19:49.986000	0:19:51.423000
 /.	-	-	-	0:19:49.986000	0:19:51.423000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:51.423000" end="0:19:51.979000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:51.423000" end="0:19:51.979000" age_lower="1" age_upper="999">
 oder	-	-	-	0:19:51.423000	0:19:51.979000
 /?	-	-	-	0:19:51.423000	0:19:51.979000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:51.979000" end="0:20:03.017000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:51.979000" end="0:20:03.017000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:19:53.070000	0:19:53.880000
 ja	-	-	-	0:19:53.880000	0:19:54.829000
@@ -4929,16 +4929,16 @@ Kunden	-	-	-	0:19:59.639000	0:20:03.017000
 zum	-	-	-	0:19:59.639000	0:20:03.017000
 Beispiel	-	-	-	0:19:59.639000	0:20:03.017000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:03.017000" end="0:20:03.678000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:03.017000" end="0:20:03.678000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:03.017000	0:20:03.678000
 .	-	-	-	0:20:03.017000	0:20:03.678000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:03.017000" end="0:20:03.678000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:03.017000" end="0:20:03.678000" project="PP03" age_lower="18" age_upper="35">
 telefoniert	-	-	-	0:20:03.017000	0:20:03.678000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:03.678000" end="0:20:04.508000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:03.678000" end="0:20:04.508000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:03.678000" end="0:20:06.170000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:03.678000" end="0:20:06.170000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:20:03.678000	0:20:04.508000
 richtig	-	-	-	0:20:03.678000	0:20:04.508000
 schön	-	-	-	0:20:04.508000	0:20:05.136000
@@ -4951,9 +4951,9 @@ dann	-	-	-	0:20:05.136000	0:20:06.170000
 immer	-	-	-	0:20:05.136000	0:20:06.170000
 ,	-	-	-	0:20:05.136000	0:20:06.170000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:06.170000" end="0:20:08.180000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:06.170000" end="0:20:08.180000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:06.170000" end="0:20:08.180000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:06.170000" end="0:20:08.180000" project="PP03" age_lower="18" age_upper="35">
 "ha	-	-	-	0:20:06.170000	0:20:08.180000
 ,	-	-	-	0:20:06.170000	0:20:08.180000
 du	-	-	-	0:20:06.170000	0:20:08.180000
@@ -4964,20 +4964,20 @@ sprechen	-	-	-	0:20:06.170000	0:20:08.180000
 heute"	-	-	-	0:20:06.170000	0:20:08.180000
 ,	-	-	-	0:20:06.170000	0:20:08.180000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:08.181000" end="0:20:09.282000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:08.181000" end="0:20:09.282000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:08.181000" end="0:20:10.270000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:08.181000" end="0:20:10.270000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:20:08.181000	0:20:09.282000
 also	-	-	-	0:20:09.282000	0:20:10.270000
 es	-	-	-	0:20:09.282000	0:20:10.270000
 fällt	-	-	-	0:20:09.282000	0:20:10.270000
 schon	-	-	-	0:20:09.282000	0:20:10.270000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:10.270000" end="0:20:10.818000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:10.270000" end="0:20:10.818000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:10.270000	0:20:10.818000
 .	-	-	-	0:20:10.270000	0:20:10.818000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:10.270000" end="0:20:11.417000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:10.270000" end="0:20:11.417000" project="PP03" age_lower="18" age_upper="35">
 auf	-	-	-	0:20:10.270000	0:20:10.818000
 ,	-	-	-	0:20:10.270000	0:20:10.818000
 aber	-	-	-	0:20:10.270000	0:20:10.818000
@@ -4985,11 +4985,11 @@ es	-	-	-	0:20:10.270000	0:20:10.818000
 ist	-	-	-	0:20:10.818000	0:20:11.417000
 eigentlich	-	-	-	0:20:10.818000	0:20:11.417000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:11.417000" end="0:20:12.404000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:11.417000" end="0:20:12.404000" age_lower="1" age_upper="999">
 lustig	-	-	-	0:20:11.417000	0:20:12.404000
 .	-	-	-	0:20:11.417000	0:20:12.404000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:11.417000" end="0:20:13.297000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:11.417000" end="0:20:13.297000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:20:11.417000	0:20:12.404000
 selbstverständlich	-	-	-	0:20:11.417000	0:20:12.404000
 ,	-	-	-	0:20:11.417000	0:20:12.404000
@@ -4999,23 +4999,23 @@ sich	-	-	-	0:20:12.404000	0:20:13.297000
 anpasst	-	-	-	0:20:12.404000	0:20:13.297000
 ,	-	-	-	0:20:12.404000	0:20:13.297000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:13.297000" end="0:20:13.639000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:13.297000" end="0:20:13.639000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:13.297000	0:20:13.639000
 .	-	-	-	0:20:13.297000	0:20:13.639000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:13.297000" end="0:20:14.573000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:13.297000" end="0:20:14.573000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:20:13.297000	0:20:13.639000
 das	-	-	-	0:20:13.639000	0:20:14.573000
 schon	-	-	-	0:20:13.639000	0:20:14.573000
 .	-	-	-	0:20:13.639000	0:20:14.573000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:14.573000" end="0:20:15.005000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:14.573000" end="0:20:15.005000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:14.573000	0:20:15.005000
 .	-	-	-	0:20:14.573000	0:20:15.005000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:14.573000" end="0:20:15.005000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:14.573000" end="0:20:15.005000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:15.005000" end="0:20:16.660000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:15.005000" end="0:20:16.660000" age_lower="1" age_upper="999">
 wie	-	-	-	0:20:15.005000	0:20:16.660000
 wäre	-	-	-	0:20:15.005000	0:20:16.660000
 das	-	-	-	0:20:15.005000	0:20:16.660000
@@ -5023,9 +5023,9 @@ jetzt	-	-	-	0:20:15.005000	0:20:16.660000
 umgekehrt	-	-	-	0:20:15.005000	0:20:16.660000
 ,	-	-	-	0:20:15.005000	0:20:16.660000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:15.005000" end="0:20:16.660000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:15.005000" end="0:20:16.660000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:16.660000" end="0:20:23.481000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:16.660000" end="0:20:23.481000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:20:16.660000	0:20:23.481000
 in	-	-	-	0:20:16.660000	0:20:23.481000
 so	-	-	-	0:20:16.660000	0:20:23.481000
@@ -5041,11 +5041,11 @@ nicht	-	-	-	0:20:16.660000	0:20:23.481000
 spricht	-	-	-	0:20:16.660000	0:20:23.481000
 ?	-	-	-	0:20:16.660000	0:20:23.481000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:23.481000" end="0:20:24.389000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:23.481000" end="0:20:24.389000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:20:23.481000	0:20:24.389000
 .	-	-	-	0:20:23.481000	0:20:24.389000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:24.389000" end="0:20:25.826000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:24.389000" end="0:20:25.826000" age_lower="1" age_upper="999">
 wie	-	-	-	0:20:24.389000	0:20:25.826000
 wirkt	-	-	-	0:20:24.389000	0:20:25.826000
 das	-	-	-	0:20:24.389000	0:20:25.826000
@@ -5054,7 +5054,7 @@ auf	-	-	-	0:20:24.389000	0:20:25.826000
 Sie	-	-	-	0:20:24.389000	0:20:25.826000
 ?	-	-	-	0:20:24.389000	0:20:25.826000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:25.826000" end="0:20:29.803000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:25.826000" end="0:20:29.803000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 ähm	-	-	-	0:20:28.067000	0:20:29.803000
 wenn	-	-	-	0:20:28.067000	0:20:29.803000
@@ -5063,14 +5063,14 @@ jetzt	-	-	-	0:20:28.067000	0:20:29.803000
 irgendeinen	-	-	-	0:20:28.067000	0:20:29.803000
 Dialekt	-	-	-	0:20:28.067000	0:20:29.803000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:29.803000" end="0:20:30.914000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:29.803000" end="0:20:30.914000" age_lower="1" age_upper="999">
 zum	-	-	-	0:20:29.803000	0:20:30.914000
 Beispiel	-	-	-	0:20:29.803000	0:20:30.914000
 ,	-	-	-	0:20:29.803000	0:20:30.914000
 ja	-	-	-	0:20:29.803000	0:20:30.914000
 .	-	-	-	0:20:29.803000	0:20:30.914000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:29.803000" end="0:20:34.508000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:29.803000" end="0:20:34.508000" project="PP03" age_lower="18" age_upper="35">
 hat	-	-	-	0:20:29.803000	0:20:30.914000
 jetzt	-	-	-	0:20:29.803000	0:20:30.914000
 oder	-	-	-	0:20:29.803000	0:20:30.914000
@@ -5085,17 +5085,17 @@ sympathisch	-	-	-	0:20:31.994000	0:20:34.508000
 sofort	-	-	-	0:20:31.994000	0:20:34.508000
 .	-	-	-	0:20:31.994000	0:20:34.508000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:34.508000" end="0:20:35.152000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:34.508000" end="0:20:35.152000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:34.508000	0:20:35.152000
 .	-	-	-	0:20:34.508000	0:20:35.152000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:34.508000" end="0:20:36.676000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:34.508000" end="0:20:36.676000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:20:34.508000	0:20:35.152000
 <pause duration="1,1s"/>
 mhm	-	-	-	0:20:36.226000	0:20:36.676000
 .	-	-	-	0:20:36.226000	0:20:36.676000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:36.676000" end="0:20:40.256000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:36.676000" end="0:20:40.256000" age_lower="1" age_upper="999">
 das	-	-	-	0:20:36.676000	0:20:37.130000
 heißt	-	-	-	0:20:36.676000	0:20:37.130000
 ,	-	-	-	0:20:36.676000	0:20:37.130000
@@ -5109,7 +5109,7 @@ unpassend	-	-	-	0:20:37.130000	0:20:39.130000
 erachten	-	-	-	0:20:39.130000	0:20:40.256000
 ?	-	-	-	0:20:39.130000	0:20:40.256000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:39.130000" end="0:20:46.610000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:39.130000" end="0:20:46.610000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:20:39.130000	0:20:40.256000
 ,	-	-	-	0:20:39.130000	0:20:40.256000
 eigentlich	-	-	-	0:20:39.130000	0:20:40.256000
@@ -5136,22 +5136,22 @@ aber	-	-	-	0:20:44.877000	0:20:45.296000
 /.	-	-	-	0:20:44.877000	0:20:45.296000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:46.610000" end="0:20:46.989000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:46.610000" end="0:20:46.989000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:46.610000	0:20:46.989000
 .	-	-	-	0:20:46.610000	0:20:46.989000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:46.989000" end="0:20:48.613000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:46.989000" end="0:20:48.613000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 naja	-	-	-	0:20:48.171000	0:20:48.613000
 .	-	-	-	0:20:48.171000	0:20:48.613000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:48.613000" end="0:20:51.307000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:48.613000" end="0:20:51.307000" age_lower="1" age_upper="999">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:48.613000" end="0:20:51.307000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:48.613000" end="0:20:51.307000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:51.307000" end="0:20:57.376000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:51.307000" end="0:20:57.376000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:20:51.307000	0:20:53.307000
 es	-	-	-	0:20:51.307000	0:20:53.307000
 auch	-	-	-	0:20:51.307000	0:20:53.307000
@@ -5172,7 +5172,7 @@ sprechen	-	-	-	0:20:53.306000	0:20:57.376000
 würden	-	-	-	0:20:53.306000	0:20:57.376000
 ?	-	-	-	0:20:53.306000	0:20:57.376000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:57.376000" end="0:21:10.817000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:57.376000" end="0:21:10.817000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 wo	-	-	-	0:21:00.984000	0:21:02.546000
 ich	-	-	-	0:21:00.984000	0:21:02.546000
@@ -5214,11 +5214,11 @@ oder	-	-	-	0:21:09.822000	0:21:10.817000
 so	-	-	-	0:21:09.822000	0:21:10.817000
 ,	-	-	-	0:21:09.822000	0:21:10.817000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:10.817000" end="0:21:11.412000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:10.817000" end="0:21:11.412000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:10.817000	0:21:11.412000
 .	-	-	-	0:21:10.817000	0:21:11.412000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:10.817000" end="0:21:16.190000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:10.817000" end="0:21:16.190000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:21:10.817000	0:21:11.412000
 sich	-	-	-	0:21:11.412000	0:21:14.158000
 sowieso	-	-	-	0:21:11.412000	0:21:14.158000
@@ -5240,11 +5240,11 @@ mich	-	-	-	0:21:14.158000	0:21:16.190000
 sofort	-	-	-	0:21:14.158000	0:21:16.190000
 an	-	-	-	0:21:14.158000	0:21:16.190000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:16.190000" end="0:21:16.680000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:16.190000" end="0:21:16.680000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:16.190000	0:21:16.680000
 .	-	-	-	0:21:16.190000	0:21:16.680000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:16.190000" end="0:21:20.240000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:16.190000" end="0:21:20.240000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:21:16.190000	0:21:16.680000
 <pause duration="0,7s"/>
 spreche	-	-	-	0:21:16.680000	0:21:18.955000
@@ -5255,11 +5255,11 @@ Deutsch	-	-	-	0:21:16.680000	0:21:18.955000
 also	-	-	-	0:21:18.955000	0:21:20.240000
 verständnisvolles	-	-	-	0:21:18.955000	0:21:20.240000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:20.240000" end="0:21:20.773000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:20.240000" end="0:21:20.773000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:20.240000	0:21:20.773000
 .	-	-	-	0:21:20.240000	0:21:20.773000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:20.240000" end="0:21:31.681000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:20.240000" end="0:21:31.681000" project="PP03" age_lower="18" age_upper="35">
 Deutsch	-	-	-	0:21:20.240000	0:21:20.773000
 ,	-	-	-	0:21:20.240000	0:21:20.773000
 <pause duration="0,6s"/>
@@ -5308,22 +5308,22 @@ nochmal	-	-	-	0:21:30.463000	0:21:31.681000
 ganz	-	-	-	0:21:30.463000	0:21:31.681000
 was	-	-	-	0:21:30.463000	0:21:31.681000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:31.681000" end="0:21:32.482000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:31.681000" end="0:21:32.482000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:31.681000	0:21:32.482000
 .	-	-	-	0:21:31.681000	0:21:32.482000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:31.681000" end="0:21:32.717000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:31.681000" end="0:21:32.717000" project="PP03" age_lower="18" age_upper="35">
 Anderes	-	-	-	0:21:31.681000	0:21:32.482000
 für	-	-	-	0:21:31.681000	0:21:32.482000
 die	-	-	-	0:21:31.681000	0:21:32.482000
 ,	-	-	-	0:21:31.681000	0:21:32.482000
 also	-	-	-	0:21:32.482000	0:21:32.717000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:32.717000" end="0:21:33.143000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:32.717000" end="0:21:33.143000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:32.717000	0:21:33.143000
 .	-	-	-	0:21:32.717000	0:21:33.143000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:32.717000" end="0:21:34.229000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:32.717000" end="0:21:34.229000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:21:32.717000	0:21:33.143000
 ist	-	-	-	0:21:32.717000	0:21:33.143000
 dann	-	-	-	0:21:32.717000	0:21:33.143000
@@ -5334,7 +5334,7 @@ schwierig	-	-	-	0:21:33.143000	0:21:34.229000
 ja	-	-	-	0:21:33.143000	0:21:34.229000
 .	-	-	-	0:21:33.143000	0:21:34.229000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:34.229000" end="0:21:40.666000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:34.229000" end="0:21:40.666000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 wie	-	-	-	0:21:34.229000	0:21:35.952000
 wirken	-	-	-	0:21:34.229000	0:21:35.952000
@@ -5355,7 +5355,7 @@ Hüttschlagerisch	-	-	-	0:21:35.952000	0:21:40.666000
 sprechen	-	-	-	0:21:35.952000	0:21:40.666000
 ?	-	-	-	0:21:35.952000	0:21:40.666000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:40.666000" end="0:21:46.034000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:40.666000" end="0:21:46.034000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:21:40.666000	0:21:41.446000
 ,	-	-	-	0:21:40.666000	0:21:41.446000
 das	-	-	-	0:21:40.666000	0:21:41.446000
@@ -5382,9 +5382,9 @@ die	-	-	-	0:21:44.547000	0:21:46.034000
 <pause duration="seufzen"/>
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:46.034000" end="0:21:46.386000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:46.034000" end="0:21:46.386000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:46.386000" end="0:21:48.547000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:46.386000" end="0:21:48.547000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:21:46.386000	0:21:48.547000
 die	-	-	-	0:21:46.386000	0:21:48.547000
 passen	-	-	-	0:21:46.386000	0:21:48.547000
@@ -5395,11 +5395,11 @@ schwer	-	-	-	0:21:46.386000	0:21:48.547000
 an	-	-	-	0:21:46.386000	0:21:48.547000
 ,	-	-	-	0:21:46.386000	0:21:48.547000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:48.547000" end="0:21:49.089000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:48.547000" end="0:21:49.089000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:48.547000	0:21:49.089000
 .	-	-	-	0:21:48.547000	0:21:49.089000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:48.547000" end="0:22:06.437000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:48.547000" end="0:22:06.437000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:21:48.547000	0:21:49.089000
 .	-	-	-	0:21:48.547000	0:21:49.089000
 <pause duration="0,7s"/>
@@ -5462,11 +5462,11 @@ sich	-	-	-	0:22:03.501000	0:22:06.437000
 da	-	-	-	0:22:03.501000	0:22:06.437000
 sehr	-	-	-	0:22:03.501000	0:22:06.437000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:06.437000" end="0:22:07" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:06.437000" end="0:22:07" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:06.437000	0:22:07
 .	-	-	-	0:22:06.437000	0:22:07
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:06.437000" end="0:22:09.273000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:06.437000" end="0:22:09.273000" project="PP03" age_lower="18" age_upper="35">
 schwer	-	-	-	0:22:06.437000	0:22:07
 .	-	-	-	0:22:06.437000	0:22:07
 ja	-	-	-	0:22:07	0:22:09.021000
@@ -5481,11 +5481,11 @@ versuchen	-	-	-	0:22:07	0:22:09.021000
 weil	-	-	-	0:22:09.021000	0:22:09.273000
 im	-	-	-	0:22:09.021000	0:22:09.273000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:09.273000" end="0:22:09.729000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:09.273000" end="0:22:09.729000" age_lower="1" age_upper="999">
 ja	-	-	-	0:22:09.273000	0:22:09.729000
 .	-	-	-	0:22:09.273000	0:22:09.729000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:09.273000" end="0:22:11.250000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:09.273000" end="0:22:11.250000" project="PP03" age_lower="18" age_upper="35">
 Prinzip	-	-	-	0:22:09.273000	0:22:09.729000
 haben	-	-	-	0:22:09.273000	0:22:09.729000
 wir	-	-	-	0:22:09.729000	0:22:10.941000
@@ -5497,15 +5497,15 @@ gelernt	-	-	-	0:22:09.729000	0:22:10.941000
 also	-	-	-	0:22:10.941000	0:22:11.250000
 .	-	-	-	0:22:10.941000	0:22:11.250000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:11.250000" end="0:22:12.657000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:11.250000" end="0:22:12.657000" age_lower="1" age_upper="999">
 ja	-	-	-	0:22:11.250000	0:22:12.657000
 .	-	-	-	0:22:11.250000	0:22:12.657000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:11.250000" end="0:22:13.160000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:11.250000" end="0:22:13.160000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:12.657000	0:22:13.160000
 .	-	-	-	0:22:12.657000	0:22:13.160000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:13.160000" end="0:22:18.368000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:13.160000" end="0:22:18.368000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 das	-	-	-	0:22:13.160000	0:22:14.354000
 heißt	-	-	-	0:22:13.160000	0:22:14.354000
@@ -5529,7 +5529,7 @@ das	-	-	-	0:22:16.104000	0:22:18.368000
 richtig	-	-	-	0:22:16.104000	0:22:18.368000
 ?	-	-	-	0:22:16.104000	0:22:18.368000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:16.104000" end="0:22:18.368000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:16.104000" end="0:22:18.368000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:16.104000	0:22:18.368000
 .	-	-	-	0:22:16.104000	0:22:18.368000
 nein	-	-	-	0:22:16.104000	0:22:18.368000
@@ -5543,15 +5543,15 @@ anpassen	-	-	-	0:22:16.104000	0:22:18.368000
 ja	-	-	-	0:22:16.104000	0:22:18.368000
 .	-	-	-	0:22:16.104000	0:22:18.368000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:18.368000" end="0:22:18.798000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:18.368000" end="0:22:18.798000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:18.368000	0:22:18.798000
 .	-	-	-	0:22:18.368000	0:22:18.798000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:18.368000" end="0:22:18.798000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:18.368000" end="0:22:18.798000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:18.368000	0:22:18.798000
 .	-	-	-	0:22:18.368000	0:22:18.798000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:18.798000" end="0:22:25.454000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:18.798000" end="0:22:25.454000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 haben	-	-	-	0:22:18.798000	0:22:20.389000
 Sie	-	-	-	0:22:18.798000	0:22:20.389000
@@ -5576,17 +5576,17 @@ das	-	-	-	0:22:22.590000	0:22:25.454000
 sprechen	-	-	-	0:22:22.590000	0:22:25.454000
 ?	-	-	-	0:22:22.590000	0:22:25.454000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:25.454000" end="0:22:28.769000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:25.454000" end="0:22:28.769000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 meistens	-	-	-	0:22:28.163000	0:22:28.769000
 schon	-	-	-	0:22:28.163000	0:22:28.769000
 ,	-	-	-	0:22:28.163000	0:22:28.769000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:28.769000" end="0:22:29.262000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:28.769000" end="0:22:29.262000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:28.769000	0:22:29.262000
 .	-	-	-	0:22:28.769000	0:22:29.262000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:28.769000" end="0:22:30.017000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:28.769000" end="0:22:30.017000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:28.769000	0:22:29.262000
 .	-	-	-	0:22:28.769000	0:22:29.262000
 denke	-	-	-	0:22:29.262000	0:22:30.017000
@@ -5596,7 +5596,7 @@ schon	-	-	-	0:22:29.262000	0:22:30.017000
 ja	-	-	-	0:22:29.262000	0:22:30.017000
 .	-	-	-	0:22:29.262000	0:22:30.017000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:30.017000" end="0:22:34.741000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:30.017000" end="0:22:34.741000" age_lower="1" age_upper="999">
 das	-	-	-	0:22:30.017000	0:22:30.467000
 heißt	-	-	-	0:22:30.017000	0:22:30.467000
 ,	-	-	-	0:22:30.017000	0:22:30.467000
@@ -5616,27 +5616,27 @@ Sie	-	-	-	0:22:33.277000	0:22:33.958000
 das	-	-	-	0:22:33.277000	0:22:33.958000
 Österreichisch	-	-	-	0:22:33.958000	0:22:34.741000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:33.958000" end="0:22:34.741000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:33.958000" end="0:22:34.741000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:33.958000	0:22:34.741000
 .	-	-	-	0:22:33.958000	0:22:34.741000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:34.741000" end="0:22:35.410000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:34.741000" end="0:22:35.410000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:22:34.741000	0:22:35.410000
 ?	-	-	-	0:22:34.741000	0:22:35.410000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:34.741000" end="0:22:35.410000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:34.741000" end="0:22:35.410000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:34.741000	0:22:35.410000
 .	-	-	-	0:22:34.741000	0:22:35.410000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:35.410000" end="0:22:36.197000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:35.410000" end="0:22:36.197000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:35.410000	0:22:36.197000
 .	-	-	-	0:22:35.410000	0:22:36.197000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:35.410000" end="0:22:36.197000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:35.410000" end="0:22:36.197000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:22:35.410000	0:22:36.197000
 .	-	-	-	0:22:35.410000	0:22:36.197000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:36.197000" end="0:22:38.208000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:36.197000" end="0:22:38.208000" age_lower="1" age_upper="999">
 in	-	-	-	0:22:36.197000	0:22:38.208000
 welchen	-	-	-	0:22:36.197000	0:22:38.208000
 Situationen	-	-	-	0:22:36.197000	0:22:38.208000
@@ -5645,7 +5645,7 @@ Sie	-	-	-	0:22:36.197000	0:22:38.208000
 das	-	-	-	0:22:36.197000	0:22:38.208000
 ?	-	-	-	0:22:36.197000	0:22:38.208000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:38.208000" end="0:22:44.341000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:38.208000" end="0:22:44.341000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:22:38.208000	0:22:39.169000
 <pause duration="2,2s"/>
 ja	-	-	-	0:22:41.412000	0:22:43.759000
@@ -5662,11 +5662,11 @@ abstellen	-	-	-	0:22:41.412000	0:22:43.759000
 oder	-	-	-	0:22:43.759000	0:22:44.341000
 schwer	-	-	-	0:22:43.759000	0:22:44.341000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:44.341000" end="0:22:45.404000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:44.341000" end="0:22:45.404000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:44.341000	0:22:45.404000
 .	-	-	-	0:22:44.341000	0:22:45.404000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:44.341000" end="0:23:03.405000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:44.341000" end="0:23:03.405000" project="PP03" age_lower="18" age_upper="35">
 überspielen	-	-	-	0:22:44.341000	0:22:45.404000
 .	-	-	-	0:22:44.341000	0:22:45.404000
 <pause duration="0,5s"/>
@@ -5740,15 +5740,15 @@ Eis	-	-	-	0:23:01.913000	0:23:03.405000
 bestellt	-	-	-	0:23:01.913000	0:23:03.405000
 ,	-	-	-	0:23:01.913000	0:23:03.405000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:03.405000" end="0:23:04.410000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:03.405000" end="0:23:04.410000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:03.405000" end="0:23:04.410000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:03.405000" end="0:23:04.410000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:23:03.405000	0:23:04.410000
 ,	-	-	-	0:23:03.405000	0:23:04.410000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:04.410000" end="0:23:04.996000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:04.410000" end="0:23:04.996000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:04.410000" end="0:23:06.614000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:04.410000" end="0:23:06.614000" project="PP03" age_lower="18" age_upper="35">
 (habe)	-	-	-	0:23:04.410000	0:23:04.996000
 ich	-	-	-	0:23:04.410000	0:23:04.996000
 gesagt	-	-	-	0:23:04.410000	0:23:04.996000
@@ -5761,16 +5761,16 @@ Hüttschlag"	-	-	-	0:23:04.996000	0:23:06.614000
 .	-	-	-	0:23:04.996000	0:23:06.614000
 .	-	-	-	0:23:04.996000	0:23:06.614000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:06.614000" end="0:23:07.244000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:06.614000" end="0:23:07.244000" age_lower="1" age_upper="999">
 das	-	-	-	0:23:06.614000	0:23:07.244000
 heißt	-	-	-	0:23:06.614000	0:23:07.244000
 ,	-	-	-	0:23:06.614000	0:23:07.244000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:06.614000" end="0:23:07.244000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:06.614000" end="0:23:07.244000" project="PP03" age_lower="18" age_upper="35">
 naja	-	-	-	0:23:06.614000	0:23:07.244000
 .	-	-	-	0:23:06.614000	0:23:07.244000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:07.244000" end="0:23:08.368000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:07.244000" end="0:23:08.368000" age_lower="1" age_upper="999">
 das	-	-	-	0:23:07.244000	0:23:07.504000
 sind	-	-	-	0:23:07.244000	0:23:07.504000
 so	-	-	-	0:23:07.504000	0:23:08.368000
@@ -5778,11 +5778,11 @@ die	-	-	-	0:23:07.504000	0:23:08.368000
 Situationen	-	-	-	0:23:07.504000	0:23:08.368000
 ,	-	-	-	0:23:07.504000	0:23:08.368000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:07.504000" end="0:23:08.368000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:07.504000" end="0:23:08.368000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:23:07.504000	0:23:08.368000
 /.	-	-	-	0:23:07.504000	0:23:08.368000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:08.368000" end="0:23:09.823000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:08.368000" end="0:23:09.823000" age_lower="1" age_upper="999">
 wo	-	-	-	0:23:08.368000	0:23:08.981000
 man	-	-	-	0:23:08.368000	0:23:08.981000
 es	-	-	-	0:23:08.368000	0:23:08.981000
@@ -5792,7 +5792,7 @@ merkt	-	-	-	0:23:08.981000	0:23:09.823000
 dass	-	-	-	0:23:08.981000	0:23:09.823000
 man	-	-	-	0:23:08.981000	0:23:09.823000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:08.981000" end="0:23:10.851000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:08.981000" end="0:23:10.851000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:08.981000	0:23:09.823000
 ,	-	-	-	0:23:08.981000	0:23:09.823000
 obwohl	-	-	-	0:23:09.823000	0:23:10.851000
@@ -5800,39 +5800,39 @@ man	-	-	-	0:23:09.823000	0:23:10.851000
 es	-	-	-	0:23:09.823000	0:23:10.851000
 eigentlich	-	-	-	0:23:09.823000	0:23:10.851000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:10.851000" end="0:23:11.703000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:10.851000" end="0:23:11.703000" age_lower="1" age_upper="999">
 eingeordnet	-	-	-	0:23:10.851000	0:23:11.703000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:10.851000" end="0:23:11.703000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:10.851000" end="0:23:11.703000" project="PP03" age_lower="18" age_upper="35">
 gar	-	-	-	0:23:10.851000	0:23:11.703000
 nicht	-	-	-	0:23:10.851000	0:23:11.703000
 /.	-	-	-	0:23:10.851000	0:23:11.703000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:11.703000" end="0:23:12.410000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:11.703000" end="0:23:12.410000" age_lower="1" age_upper="999">
 werden	-	-	-	0:23:11.703000	0:23:12.410000
 kann	-	-	-	0:23:11.703000	0:23:12.410000
 ?	-	-	-	0:23:11.703000	0:23:12.410000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:11.703000" end="0:23:12.410000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:11.703000" end="0:23:12.410000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:11.703000	0:23:12.410000
 ,	-	-	-	0:23:11.703000	0:23:12.410000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:12.410000" end="0:23:12.829000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:12.410000" end="0:23:12.829000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:12.410000	0:23:12.829000
 .	-	-	-	0:23:12.410000	0:23:12.829000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:12.410000" end="0:23:13.861000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:12.410000" end="0:23:13.861000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:23:12.410000	0:23:12.829000
 .	-	-	-	0:23:12.410000	0:23:12.829000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:13.861000" end="0:23:15.159000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:13.861000" end="0:23:15.159000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:13.861000" end="0:23:15.159000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:13.861000" end="0:23:15.159000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:15.159000" end="0:23:21.030000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:15.159000" end="0:23:21.030000" age_lower="1" age_upper="999">
 bitte	-	-	-	0:23:15.159000	0:23:16.809000
 hier	-	-	-	0:23:15.159000	0:23:16.809000
 wieder	-	-	-	0:23:15.159000	0:23:16.809000
@@ -5852,11 +5852,11 @@ sehr	-	-	-	0:23:19.035000	0:23:20.505000
 starken	-	-	-	0:23:19.035000	0:23:20.505000
 regionalen	-	-	-	0:23:20.505000	0:23:21.030000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:20.505000" end="0:23:21.030000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:20.505000" end="0:23:21.030000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:23:20.505000	0:23:21.030000
 .	-	-	-	0:23:20.505000	0:23:21.030000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:21.030000" end="0:23:34.076000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:21.030000" end="0:23:34.076000" age_lower="1" age_upper="999">
 Akzent	-	-	-	0:23:21.030000	0:23:21.709000
 haben	-	-	-	0:23:21.030000	0:23:21.709000
 oder	-	-	-	0:23:21.709000	0:23:23.245000
@@ -5893,7 +5893,7 @@ Sie	-	-	-	0:23:31.142000	0:23:34.076000
 sprechen	-	-	-	0:23:31.142000	0:23:34.076000
 ?	-	-	-	0:23:31.142000	0:23:34.076000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:34.076000" end="0:23:39.427000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:34.076000" end="0:23:39.427000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 eigentlich	-	-	-	0:23:36.637000	0:23:37.706000
 ja	-	-	-	0:23:36.637000	0:23:37.706000
@@ -5906,7 +5906,7 @@ aus	-	-	-	0:23:37.706000	0:23:39.427000
 also	-	-	-	0:23:37.706000	0:23:39.427000
 .	-	-	-	0:23:37.706000	0:23:39.427000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:39.427000" end="0:23:45.987000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:39.427000" end="0:23:45.987000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:39.427000	0:23:40.126000
 .	-	-	-	0:23:39.427000	0:23:40.126000
 <pause duration="0,6s"/>
@@ -5931,15 +5931,15 @@ unangenehm	-	-	-	0:23:44.133000	0:23:45.615000
 dass	-	-	-	0:23:45.615000	0:23:45.987000
 Sie	-	-	-	0:23:45.615000	0:23:45.987000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:45.987000" end="0:23:46.250000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:45.987000" end="0:23:46.250000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:23:45.987000	0:23:46.250000
 ,	-	-	-	0:23:45.987000	0:23:46.250000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:46.250000" end="0:23:47.296000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:46.250000" end="0:23:47.296000" age_lower="1" age_upper="999">
 eingeordnet	-	-	-	0:23:46.250000	0:23:47.296000
 werden	-	-	-	0:23:46.250000	0:23:47.296000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:46.250000" end="0:23:47.296000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:46.250000" end="0:23:47.296000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:23:46.250000	0:23:47.296000
 überhaupt	-	-	-	0:23:46.250000	0:23:47.296000
 nicht	-	-	-	0:23:46.250000	0:23:47.296000
@@ -5947,23 +5947,23 @@ nicht	-	-	-	0:23:46.250000	0:23:47.296000
 nein	-	-	-	0:23:46.250000	0:23:47.296000
 .	-	-	-	0:23:46.250000	0:23:47.296000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:47.296000" end="0:23:47.702000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:47.296000" end="0:23:47.702000" age_lower="1" age_upper="999">
 können	-	-	-	0:23:47.296000	0:23:47.702000
 ?	-	-	-	0:23:47.296000	0:23:47.702000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:47.702000" end="0:23:48.010000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:47.702000" end="0:23:48.010000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:23:47.702000	0:23:48.010000
 .	-	-	-	0:23:47.702000	0:23:48.010000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:48.010000" end="0:23:48.624000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:48.010000" end="0:23:48.624000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:48.010000	0:23:48.624000
 .	-	-	-	0:23:48.010000	0:23:48.624000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:48.010000" end="0:23:48.624000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:48.010000" end="0:23:48.624000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:23:48.010000	0:23:48.624000
 .	-	-	-	0:23:48.010000	0:23:48.624000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:48.624000" end="0:23:50.870000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:48.624000" end="0:23:50.870000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 und	-	-	-	0:23:48.624000	0:23:50.430000
 warum	-	-	-	0:23:48.624000	0:23:50.430000
@@ -5975,7 +5975,7 @@ dass	-	-	-	0:23:50.430000	0:23:50.870000
 Sie	-	-	-	0:23:50.430000	0:23:50.870000
 /?	-	-	-	0:23:50.430000	0:23:50.870000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:50.870000" end="0:23:57.174000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:50.870000" end="0:23:57.174000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:23:50.870000	0:23:51.737000
 mag	-	-	-	0:23:50.870000	0:23:51.737000
 es	-	-	-	0:23:50.870000	0:23:51.737000
@@ -6002,13 +6002,13 @@ so	-	-	-	0:23:56.458000	0:23:57.174000
 ist	-	-	-	0:23:56.458000	0:23:57.174000
 .	-	-	-	0:23:56.458000	0:23:57.174000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:57.174000" end="0:23:58.054000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:57.174000" end="0:23:58.054000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:57.174000	0:23:58.054000
 .	-	-	-	0:23:57.174000	0:23:58.054000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:57.174000" end="0:23:58.054000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:57.174000" end="0:23:58.054000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:58.054000" end="0:24:06.702000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:58.054000" end="0:24:06.702000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 würden	-	-	-	0:23:58.054000	0:23:59.473000
 Sie	-	-	-	0:23:58.054000	0:23:59.473000
@@ -6029,10 +6029,10 @@ verändert	-	-	-	0:24:03.958000	0:24:05.273000
 ?	-	-	-	0:24:03.958000	0:24:05.273000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:05.273000" end="0:24:06.702000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:05.273000" end="0:24:06.702000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:06.702000" end="0:24:08.907000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:06.702000" end="0:24:08.907000" age_lower="1" age_upper="999">
 für	-	-	-	0:24:06.702000	0:24:08.447000
 das	-	-	-	0:24:06.702000	0:24:08.447000
 Hüttschlagerisch	-	-	-	0:24:06.702000	0:24:08.447000
@@ -6045,16 +6045,16 @@ dass	-	-	-	0:24:08.447000	0:24:08.907000
 es	-	-	-	0:24:08.447000	0:24:08.907000
 sich	-	-	-	0:24:08.447000	0:24:08.907000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:08.447000" end="0:24:08.907000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:08.447000" end="0:24:08.907000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:08.447000	0:24:08.907000
 .	-	-	-	0:24:08.447000	0:24:08.907000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:08.907000" end="0:24:10.406000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:08.907000" end="0:24:10.406000" age_lower="1" age_upper="999">
 vielleicht	-	-	-	0:24:08.907000	0:24:10.406000
 ver/	-	-	-	0:24:08.907000	0:24:10.406000
 /.	-	-	-	0:24:08.907000	0:24:10.406000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:08.907000" end="0:24:14.223000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:08.907000" end="0:24:14.223000" project="PP03" age_lower="18" age_upper="35">
 beim	-	-	-	0:24:08.907000	0:24:10.406000
 Österreichisch	-	-	-	0:24:08.907000	0:24:10.406000
 /.	-	-	-	0:24:08.907000	0:24:10.406000
@@ -6068,14 +6068,14 @@ viel	-	-	-	0:24:12.142000	0:24:14.223000
 herum	-	-	-	0:24:12.142000	0:24:14.223000
 .	-	-	-	0:24:12.142000	0:24:14.223000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:14.225000" end="0:24:15.880000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:14.225000" end="0:24:15.880000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:14.225000" end="0:24:16.950000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:14.225000" end="0:24:16.950000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 naja	-	-	-	0:24:15.880000	0:24:16.950000
 ,	-	-	-	0:24:15.880000	0:24:16.950000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:16.950000" end="0:24:18.307000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:16.950000" end="0:24:18.307000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 aber	-	-	-	0:24:16.950000	0:24:18.307000
 was	-	-	-	0:24:16.950000	0:24:18.307000
@@ -6083,13 +6083,13 @@ für	-	-	-	0:24:16.950000	0:24:18.307000
 ein	-	-	-	0:24:16.950000	0:24:18.307000
 Gefühl	-	-	-	0:24:16.950000	0:24:18.307000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:16.950000" end="0:24:18.307000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:16.950000" end="0:24:18.307000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 (jedenfalls	-	-	-	0:24:16.950000	0:24:18.307000
 sicher)	-	-	-	0:24:16.950000	0:24:18.307000
 /.	-	-	-	0:24:16.950000	0:24:18.307000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:18.307000" end="0:24:19.714000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:18.307000" end="0:24:19.714000" age_lower="1" age_upper="999">
 hätten	-	-	-	0:24:18.307000	0:24:18.793000
 Sie	-	-	-	0:24:18.307000	0:24:18.793000
 ,	-	-	-	0:24:18.307000	0:24:18.793000
@@ -6098,7 +6098,7 @@ denken	-	-	-	0:24:18.793000	0:24:19.714000
 Sie	-	-	-	0:24:18.793000	0:24:19.714000
 ?	-	-	-	0:24:18.793000	0:24:19.714000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:19.714000" end="0:24:27.721000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:19.714000" end="0:24:27.721000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:19.714000	0:24:20.617000
 ,	-	-	-	0:24:19.714000	0:24:20.617000
 schon	-	-	-	0:24:19.714000	0:24:20.617000
@@ -6124,11 +6124,11 @@ den	-	-	-	0:24:23.670000	0:24:27.721000
 Dialekten	-	-	-	0:24:23.670000	0:24:27.721000
 ,	-	-	-	0:24:23.670000	0:24:27.721000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:27.721000" end="0:24:28.258000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:27.721000" end="0:24:28.258000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:27.721000	0:24:28.258000
 .	-	-	-	0:24:27.721000	0:24:28.258000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:28.258000" end="0:24:31.426000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:28.258000" end="0:24:31.426000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 für	-	-	-	0:24:29.637000	0:24:31.426000
 ganz	-	-	-	0:24:29.637000	0:24:31.426000
@@ -6137,7 +6137,7 @@ eher	-	-	-	0:24:29.637000	0:24:31.426000
 schon	-	-	-	0:24:29.637000	0:24:31.426000
 .	-	-	-	0:24:29.637000	0:24:31.426000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:31.426000" end="0:24:38.081000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:31.426000" end="0:24:38.081000" age_lower="1" age_upper="999">
 ja	-	-	-	0:24:31.426000	0:24:31.832000
 .	-	-	-	0:24:31.426000	0:24:31.832000
 <pause duration="1,0s"/>
@@ -6157,60 +6157,60 @@ Sie	-	-	-	0:24:36.601000	0:24:38.081000
 auch	-	-	-	0:24:36.601000	0:24:38.081000
 ?	-	-	-	0:24:36.601000	0:24:38.081000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:36.601000" end="0:24:39.557000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:36.601000" end="0:24:39.557000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:24:36.601000	0:24:38.081000
 Österreichisch	-	-	-	0:24:36.601000	0:24:38.081000
 <pause duration="seufzen"/>
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:39.558000" end="0:24:40.074000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:39.558000" end="0:24:40.074000" age_lower="1" age_upper="999">
 vielleicht	-	-	-	0:24:39.558000	0:24:40.074000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:39.558000" end="0:24:40.074000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:39.558000" end="0:24:40.074000" project="PP03" age_lower="18" age_upper="35">
 eher	-	-	-	0:24:39.558000	0:24:40.074000
 /.	-	-	-	0:24:39.558000	0:24:40.074000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:40.074000" end="0:24:41.262000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:40.074000" end="0:24:41.262000" age_lower="1" age_upper="999">
 in	-	-	-	0:24:40.074000	0:24:41.262000
 den	-	-	-	0:24:40.074000	0:24:41.262000
 Städten	-	-	-	0:24:40.074000	0:24:41.262000
 ?	-	-	-	0:24:40.074000	0:24:41.262000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:41.262000" end="0:24:42.197000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:41.262000" end="0:24:42.197000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:41.262000	0:24:42.197000
 ,	-	-	-	0:24:41.262000	0:24:42.197000
 in	-	-	-	0:24:41.262000	0:24:42.197000
 den	-	-	-	0:24:41.262000	0:24:42.197000
 Städten	-	-	-	0:24:41.262000	0:24:42.197000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:42.197000" end="0:24:42.744000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:42.197000" end="0:24:42.744000" age_lower="1" age_upper="999">
 oder	-	-	-	0:24:42.197000	0:24:42.744000
 /?	-	-	-	0:24:42.197000	0:24:42.744000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:42.197000" end="0:24:42.744000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:42.197000" end="0:24:42.744000" project="PP03" age_lower="18" age_upper="35">
 schon	-	-	-	0:24:42.197000	0:24:42.744000
 ,	-	-	-	0:24:42.197000	0:24:42.744000
 ja	-	-	-	0:24:42.197000	0:24:42.744000
 .	-	-	-	0:24:42.197000	0:24:42.744000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:42.744000" end="0:24:43.518000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:42.744000" end="0:24:43.518000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:42.744000	0:24:43.518000
 .	-	-	-	0:24:42.744000	0:24:43.518000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:43.518000" end="0:24:45.882000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:43.518000" end="0:24:45.882000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:43.518000	0:24:44.100000
 .	-	-	-	0:24:43.518000	0:24:44.100000
 <pause duration="1,3s"/>
 mhm	-	-	-	0:24:45.402000	0:24:45.882000
 .	-	-	-	0:24:45.402000	0:24:45.882000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:45.882000" end="0:24:49.462000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:45.882000" end="0:24:49.462000" age_lower="1" age_upper="999">
 <pause duration="3,6s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:45.882000" end="0:24:49.462000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:45.882000" end="0:24:49.462000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:49.462000" end="0:25:00.801000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:49.462000" end="0:25:00.801000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:24:49.462000	0:24:50.452000
 <pause duration="0,7s"/>
 eben	-	-	-	0:24:50.454000	0:24:54.551000
@@ -6243,7 +6243,7 @@ der	-	-	-	0:24:56.371000	0:25:00.801000
 Sprache	-	-	-	0:24:56.371000	0:25:00.801000
 ?	-	-	-	0:24:56.371000	0:25:00.801000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:00.800000" end="0:25:16.343000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:00.800000" end="0:25:16.343000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ich	-	-	-	0:25:01.885000	0:25:02.211000
 glaube	-	-	-	0:25:01.885000	0:25:02.211000
@@ -6281,15 +6281,15 @@ puh	-	-	-	0:25:14.978000	0:25:15.234000
 schwierig	-	-	-	0:25:15.234000	0:25:16.343000
 .	-	-	-	0:25:15.234000	0:25:16.343000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:16.343000" end="0:25:18.396000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:16.343000" end="0:25:18.396000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:16.343000	0:25:16.833000
 .	-	-	-	0:25:16.343000	0:25:16.833000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:16.833000" end="0:25:18.396000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:16.833000" end="0:25:18.396000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:18.396000" end="0:25:22.698000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:18.396000" end="0:25:22.698000" age_lower="1" age_upper="999">
 das	-	-	-	0:25:18.396000	0:25:18.734000
 heißt	-	-	-	0:25:18.396000	0:25:18.734000
 ,	-	-	-	0:25:18.396000	0:25:18.734000
@@ -6312,24 +6312,24 @@ positiv	-	-	-	0:25:21.349000	0:25:22.698000
 und	-	-	-	0:25:21.349000	0:25:22.698000
 nicht	-	-	-	0:25:21.349000	0:25:22.698000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:21.349000" end="0:25:22.698000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:21.349000" end="0:25:22.698000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:21.349000	0:25:22.698000
 ,	-	-	-	0:25:21.349000	0:25:22.698000
 eigentlich	-	-	-	0:25:21.349000	0:25:22.698000
 schon	-	-	-	0:25:21.349000	0:25:22.698000
 .	-	-	-	0:25:21.349000	0:25:22.698000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:22.698000" end="0:25:23.634000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:22.698000" end="0:25:23.634000" age_lower="1" age_upper="999">
 negativ	-	-	-	0:25:22.698000	0:25:23.634000
 ?	-	-	-	0:25:22.698000	0:25:23.634000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:22.698000" end="0:25:23.634000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:22.698000" end="0:25:23.634000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:22.698000	0:25:23.634000
 ,	-	-	-	0:25:22.698000	0:25:23.634000
 genau	-	-	-	0:25:22.698000	0:25:23.634000
 .	-	-	-	0:25:22.698000	0:25:23.634000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:23.634000" end="0:25:26.024000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:23.634000" end="0:25:26.024000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:23.634000	0:25:24.004000
 ,	-	-	-	0:25:23.634000	0:25:24.004000
 okay	-	-	-	0:25:24.004000	0:25:24.610000
@@ -6341,11 +6341,11 @@ Sie	-	-	-	0:25:24.610000	0:25:25.428000
 die	-	-	-	0:25:25.428000	0:25:26.024000
 Zukunft	-	-	-	0:25:25.428000	0:25:26.024000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:25.428000" end="0:25:26.024000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:25.428000" end="0:25:26.024000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:25:25.428000	0:25:26.024000
 .	-	-	-	0:25:25.428000	0:25:26.024000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:26.024000" end="0:25:28.449000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:26.024000" end="0:25:28.449000" age_lower="1" age_upper="999">
 von	-	-	-	0:25:26.024000	0:25:28.449000
 Österreichisch	-	-	-	0:25:26.024000	0:25:28.449000
 hier	-	-	-	0:25:26.024000	0:25:28.449000
@@ -6353,7 +6353,7 @@ in	-	-	-	0:25:26.024000	0:25:28.449000
 Österreich	-	-	-	0:25:26.024000	0:25:28.449000
 ?	-	-	-	0:25:26.024000	0:25:28.449000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:28.450000" end="0:25:35.601000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:28.450000" end="0:25:35.601000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 ja	-	-	-	0:25:31.154000	0:25:31.724000
 ,	-	-	-	0:25:31.154000	0:25:31.724000
@@ -6371,7 +6371,7 @@ ja	-	-	-	0:25:33.480000	0:25:34.136000
 puh	-	-	-	0:25:35.305000	0:25:35.601000
 .	-	-	-	0:25:35.305000	0:25:35.601000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:35.601000" end="0:25:37.916000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:35.601000" end="0:25:37.916000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 aber	-	-	-	0:25:35.601000	0:25:37.916000
 es	-	-	-	0:25:35.601000	0:25:37.916000
@@ -6382,17 +6382,17 @@ immer	-	-	-	0:25:35.601000	0:25:37.916000
 geben	-	-	-	0:25:35.601000	0:25:37.916000
 ?	-	-	-	0:25:35.601000	0:25:37.916000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:37.916000" end="0:25:38.640000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:37.916000" end="0:25:38.640000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:25:37.916000	0:25:38.640000
 glaube	-	-	-	0:25:37.916000	0:25:38.640000
 schon	-	-	-	0:25:37.916000	0:25:38.640000
 .	-	-	-	0:25:37.916000	0:25:38.640000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:38.640000" end="0:25:39.005000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:38.640000" end="0:25:39.005000" age_lower="1" age_upper="999">
 ja	-	-	-	0:25:38.640000	0:25:39.005000
 .	-	-	-	0:25:38.640000	0:25:39.005000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:39.005000" end="0:25:40.293000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:39.005000" end="0:25:40.293000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:25:39.005000	0:25:40.293000
 glaube	-	-	-	0:25:39.005000	0:25:40.293000
 schon	-	-	-	0:25:39.005000	0:25:40.293000
@@ -6400,7 +6400,7 @@ schon	-	-	-	0:25:39.005000	0:25:40.293000
 ja	-	-	-	0:25:39.005000	0:25:40.293000
 .	-	-	-	0:25:39.005000	0:25:40.293000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:40.294000" end="0:25:53.360000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:40.294000" end="0:25:53.360000" age_lower="1" age_upper="999">
 <pause duration="3,0s"/>
 bitte	-	-	-	0:25:43.329000	0:25:44.399000
 überlegen	-	-	-	0:25:43.329000	0:25:44.399000
@@ -6435,13 +6435,13 @@ gesprochen	-	-	-	0:25:51.257000	0:25:53.360000
 haben	-	-	-	0:25:51.257000	0:25:53.360000
 ?	-	-	-	0:25:51.257000	0:25:53.360000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:53.360000" end="0:25:57.635000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:53.360000" end="0:25:57.635000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 hm	-	-	-	0:25:54.400000	0:25:54.730000
 .	-	-	-	0:25:54.400000	0:25:54.730000
 <pause duration="2,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:57.635000" end="0:26:03.594000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:57.635000" end="0:26:03.594000" age_lower="1" age_upper="999">
 (also)	-	-	-	0:25:57.635000	0:25:58.833000
 über	-	-	-	0:25:57.635000	0:25:58.833000
 das	-	-	-	0:25:57.635000	0:25:58.833000
@@ -6461,7 +6461,7 @@ gesprochen	-	-	-	0:26:00.145000	0:26:02.577000
 .	-	-	-	0:26:00.145000	0:26:02.577000
 /?	-	-	-	0:26:02.577000	0:26:03.594000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:02.577000" end="0:26:09.346000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:02.577000" end="0:26:09.346000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:26:02.577000	0:26:03.594000
 ja	-	-	-	0:26:03.594000	0:26:04.885000
 ,	-	-	-	0:26:03.594000	0:26:04.885000
@@ -6479,18 +6479,18 @@ ORT	ORT	-	-	0:26:06.885000	0:26:09.026000
 ,	-	-	-	0:26:06.885000	0:26:09.026000
 aber	-	-	-	0:26:09.026000	0:26:09.346000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:09.346000" end="0:26:09.857000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:09.346000" end="0:26:09.857000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:09.346000	0:26:09.857000
 .	-	-	-	0:26:09.346000	0:26:09.857000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:09.857000" end="0:26:11.215000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:09.857000" end="0:26:11.215000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:11.215000" end="0:26:11.533000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:11.215000" end="0:26:11.533000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:26:11.215000	0:26:11.533000
 .	-	-	-	0:26:11.215000	0:26:11.533000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:11.533000" end="0:26:21.431000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:11.533000" end="0:26:21.431000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:26:11.533000	0:26:13.795000
 da	-	-	-	0:26:11.533000	0:26:13.795000
 ist	-	-	-	0:26:11.533000	0:26:13.795000
@@ -6533,9 +6533,9 @@ ein	-	-	IRR	0:26:19.695000	0:26:21.431000
 typischer	-	-	IRR	0:26:19.695000	0:26:21.431000
 hüttschlagerischer	-	-	IRR	0:26:19.695000	0:26:21.431000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:21.431000" end="0:26:22.757000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:21.431000" end="0:26:22.757000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:21.431000" end="0:26:25.607000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:21.431000" end="0:26:25.607000" project="PP03" age_lower="18" age_upper="35">
 Ausdruck	-	-	IRR	0:26:21.431000	0:26:22.757000
 ,	-	-	-	0:26:21.431000	0:26:22.757000
 sozusagen	-	-	-	0:26:21.431000	0:26:22.757000
@@ -6551,11 +6551,11 @@ die	-	-	-	0:26:24.653000	0:26:25.607000
 ORT	ORT	-	-	0:26:24.653000	0:26:25.607000
 oder	-	-	-	0:26:24.653000	0:26:25.607000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:25.607000" end="0:26:26.257000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:25.607000" end="0:26:26.257000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:25.607000	0:26:26.257000
 .	-	-	-	0:26:25.607000	0:26:26.257000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:25.607000" end="0:26:30.517000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:25.607000" end="0:26:30.517000" project="PP03" age_lower="18" age_upper="35">
 umgekehrt	-	-	-	0:26:25.607000	0:26:26.257000
 ,	-	-	-	0:26:25.607000	0:26:26.257000
 aber	-	-	-	0:26:26.256000	0:26:29.270000
@@ -6571,7 +6571,7 @@ Wörter	-	-	-	0:26:29.271000	0:26:30.517000
 also	-	-	-	0:26:29.271000	0:26:30.517000
 .	-	-	-	0:26:29.271000	0:26:30.517000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:30.517000" end="0:26:35.733000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:30.517000" end="0:26:35.733000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:26:30.517000	0:26:31.106000
 .	-	-	-	0:26:30.517000	0:26:31.106000
 <pause duration="1,2s"/>
@@ -6586,11 +6586,11 @@ Mischform	-	-	-	0:26:32.273000	0:26:35.035000
 irgendwo	-	-	-	0:26:32.273000	0:26:35.035000
 dazwischen	-	-	-	0:26:35.035000	0:26:35.733000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:35.035000" end="0:26:35.733000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:35.035000" end="0:26:35.733000" project="PP03" age_lower="18" age_upper="35">
 puh	-	-	-	0:26:35.035000	0:26:35.733000
 .	-	-	-	0:26:35.035000	0:26:35.733000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:35.733000" end="0:26:41.788000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:35.733000" end="0:26:41.788000" age_lower="1" age_upper="999">
 oder	-	-	-	0:26:35.733000	0:26:37.250000
 <pause duration="0,5s"/>
 wie	-	-	-	0:26:35.733000	0:26:37.250000
@@ -6609,14 +6609,14 @@ von	-	-	-	0:26:39.438000	0:26:41.788000
 Ungarn	-	-	-	0:26:39.438000	0:26:41.788000
 ?	-	-	-	0:26:39.438000	0:26:41.788000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:41.788000" end="0:26:42.445000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:41.788000" end="0:26:42.445000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:26:41.788000	0:26:42.445000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:42.445000" end="0:26:43.094000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:42.445000" end="0:26:43.094000" age_lower="1" age_upper="999">
 von	-	-	-	0:26:42.445000	0:26:43.094000
 /.	-	-	-	0:26:42.445000	0:26:43.094000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:42.445000" end="0:26:44.354000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:42.445000" end="0:26:44.354000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:26:42.445000	0:26:43.094000
 sprechen	-	-	-	0:26:42.445000	0:26:43.094000
 dann	-	-	-	0:26:43.095000	0:26:44.354000
@@ -6626,32 +6626,32 @@ eine	-	-	IRR	0:26:43.095000	0:26:44.354000
 Mischung	-	-	IRR	0:26:43.095000	0:26:44.354000
 .	-	-	-	0:26:43.095000	0:26:44.354000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:44.354000" end="0:26:45.204000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:44.354000" end="0:26:45.204000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:26:44.354000	0:26:45.204000
 .	-	-	-	0:26:44.354000	0:26:45.204000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:44.354000" end="0:26:46.117000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:44.354000" end="0:26:46.117000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:26:44.354000	0:26:45.204000
 *ist*	-	-	-	0:26:45.204000	0:26:46.117000
 schon	-	-	-	0:26:45.204000	0:26:46.117000
 oft	-	-	-	0:26:45.204000	0:26:46.117000
 ganz	-	-	-	0:26:45.204000	0:26:46.117000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:46.117000" end="0:26:46.968000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:46.117000" end="0:26:46.968000" age_lower="1" age_upper="999">
 würden	-	-	-	0:26:46.117000	0:26:46.968000
 Sie	-	-	-	0:26:46.117000	0:26:46.968000
 das	-	-	-	0:26:46.117000	0:26:46.968000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:46.117000" end="0:26:46.968000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:46.117000" end="0:26:46.968000" project="PP03" age_lower="18" age_upper="35">
 witzig	-	-	-	0:26:46.117000	0:26:46.968000
 dann	-	-	-	0:26:46.117000	0:26:46.968000
 .	-	-	-	0:26:46.117000	0:26:46.968000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:46.968000" end="0:26:47.605000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:46.968000" end="0:26:47.605000" age_lower="1" age_upper="999">
 beschreiben	-	-	-	0:26:46.968000	0:26:47.605000
 ?	-	-	-	0:26:46.968000	0:26:47.605000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:47.605000" end="0:26:57.986000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:47.605000" end="0:26:57.986000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 eine	-	-	-	0:26:48.744000	0:26:53.786000
 Mischung	-	-	-	0:26:48.744000	0:26:53.786000
@@ -6684,11 +6684,11 @@ eigentlich	-	-	-	0:26:56.602000	0:26:57.986000
 Deutsch	-	-	-	0:26:56.602000	0:26:57.986000
 lernen	-	-	-	0:26:56.602000	0:26:57.986000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:57.986000" end="0:26:58.512000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:57.986000" end="0:26:58.512000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:26:57.986000	0:26:58.512000
 .	-	-	-	0:26:57.986000	0:26:58.512000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:57.986000" end="0:27:11.170000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:57.986000" end="0:27:11.170000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:26:57.986000	0:26:58.512000
 dann	-	-	-	0:26:57.986000	0:26:58.512000
 kommt	-	-	-	0:26:58.512000	0:26:59.973000
@@ -6741,17 +6741,17 @@ ich	-	-	-	0:27:08.749000	0:27:11.170000
 da	-	-	-	0:27:08.749000	0:27:11.170000
 ,	-	-	-	0:27:08.749000	0:27:11.170000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:11.170000" end="0:27:11.718000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:11.170000" end="0:27:11.718000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:11.170000	0:27:11.718000
 .	-	-	-	0:27:11.170000	0:27:11.718000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:11.170000" end="0:27:11.718000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:11.170000" end="0:27:11.718000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:27:11.170000	0:27:11.718000
 als	-	-	-	0:27:11.170000	0:27:11.718000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:11.718000" end="0:27:12.335000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:11.718000" end="0:27:12.335000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:11.718000" end="0:27:15.963000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:11.718000" end="0:27:15.963000" project="PP03" age_lower="18" age_upper="35">
 hat	-	-	-	0:27:12.335000	0:27:13.587000
 man	-	-	-	0:27:12.335000	0:27:13.587000
 es	-	-	-	0:27:12.335000	0:27:13.587000
@@ -6772,7 +6772,7 @@ negativ	-	-	-	0:27:14.210000	0:27:15.963000
 ja	-	-	-	0:27:14.210000	0:27:15.963000
 .	-	-	-	0:27:14.210000	0:27:15.963000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:15.963000" end="0:27:20.030000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:15.963000" end="0:27:20.030000" age_lower="1" age_upper="999">
 ja	-	-	-	0:27:15.963000	0:27:16.386000
 .	-	-	-	0:27:15.963000	0:27:16.386000
 und	-	-	-	0:27:16.386000	0:27:17.561000
@@ -6786,16 +6786,16 @@ zuziehen	-	-	-	0:27:17.561000	0:27:19.085000
 oder	-	-	-	0:27:17.561000	0:27:19.085000
 einheiraten	-	-	-	0:27:19.085000	0:27:20.030000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:19.085000" end="0:27:20.030000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:19.085000" end="0:27:20.030000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:27:19.085000	0:27:20.030000
 .	-	-	-	0:27:19.085000	0:27:20.030000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:20.030000" end="0:27:21.286000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:20.030000" end="0:27:21.286000" age_lower="1" age_upper="999">
 nach	-	-	-	0:27:20.030000	0:27:20.193000
 Hüttschlag	-	-	-	0:27:20.193000	0:27:21.286000
 ?	-	-	-	0:27:20.193000	0:27:21.286000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:20.193000" end="0:27:23.619000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:20.193000" end="0:27:23.619000" project="PP03" age_lower="18" age_upper="35">
 verschieden	-	-	-	0:27:20.193000	0:27:21.286000
 ,	-	-	-	0:27:20.193000	0:27:21.286000
 <pause duration="0,5s"/>
@@ -6809,22 +6809,22 @@ nein	-	-	-	0:27:21.286000	0:27:23.237000
 nein	-	-	-	0:27:23.237000	0:27:23.619000
 .	-	-	-	0:27:23.237000	0:27:23.619000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:23.619000" end="0:27:24.021000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:23.619000" end="0:27:24.021000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:23.619000	0:27:24.021000
 .	-	-	-	0:27:23.619000	0:27:24.021000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:24.021000" end="0:27:25.329000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:24.021000" end="0:27:25.329000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 mm	-	-	-	0:27:24.021000	0:27:25.329000
 .	-	-	-	0:27:24.021000	0:27:25.329000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:25.329000" end="0:27:27.297000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:25.329000" end="0:27:27.297000" age_lower="1" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:25.329000" end="0:27:27.297000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:25.329000" end="0:27:27.297000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:27.297000" end="0:27:33.764000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:27.297000" end="0:27:33.764000" age_lower="1" age_upper="999">
 fällt	-	-	-	0:27:27.297000	0:27:29.845000
 es	-	-	-	0:27:27.297000	0:27:29.845000
 Ihnen	-	-	-	0:27:27.297000	0:27:29.845000
@@ -6850,7 +6850,7 @@ zu	-	-	-	0:27:29.845000	0:27:33.764000
 wechseln	-	-	-	0:27:29.845000	0:27:33.764000
 ?	-	-	-	0:27:29.845000	0:27:33.764000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:33.764000" end="0:27:36.068000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:33.764000" end="0:27:36.068000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 eigentlich	-	-	-	0:27:33.764000	0:27:36.068000
 schon	-	-	-	0:27:33.764000	0:27:36.068000
@@ -6858,11 +6858,11 @@ eher	-	-	-	0:27:33.764000	0:27:36.068000
 leicht	-	-	-	0:27:33.764000	0:27:36.068000
 ,	-	-	-	0:27:33.764000	0:27:36.068000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:36.068000" end="0:27:36.486000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:36.068000" end="0:27:36.486000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:36.068000	0:27:36.486000
 .	-	-	-	0:27:36.068000	0:27:36.486000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:36.486000" end="0:27:40.213000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:36.486000" end="0:27:40.213000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:27:36.486000	0:27:38.808000
 ähm	-	-	-	0:27:36.486000	0:27:38.808000
 /.	-	-	-	0:27:36.486000	0:27:38.808000
@@ -6876,7 +6876,7 @@ leicht	-	-	-	0:27:38.808000	0:27:39.960000
 ja	-	-	-	0:27:39.960000	0:27:40.213000
 .	-	-	-	0:27:39.960000	0:27:40.213000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:40.213000" end="0:27:43.113000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:40.213000" end="0:27:43.113000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:40.213000	0:27:40.614000
 .	-	-	-	0:27:40.213000	0:27:40.614000
 <pause duration="0,5s"/>
@@ -6888,34 +6888,34 @@ oder	-	-	-	0:27:42.407000	0:27:42.771000
 dann	-	-	-	0:27:42.407000	0:27:42.771000
 doch	-	-	-	0:27:42.771000	0:27:43.113000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:42.771000" end="0:27:43.113000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:42.771000" end="0:27:43.113000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:42.771000	0:27:43.113000
 ,	-	-	-	0:27:42.771000	0:27:43.113000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:43.113000" end="0:27:44.538000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:43.113000" end="0:27:44.538000" age_lower="1" age_upper="999">
 gezielt	-	-	-	0:27:43.113000	0:27:44.538000
 und	-	-	-	0:27:43.113000	0:27:44.538000
 bewusst	-	-	-	0:27:43.113000	0:27:44.538000
 ?	-	-	-	0:27:43.113000	0:27:44.538000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:43.113000" end="0:27:45.477000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:43.113000" end="0:27:45.477000" project="PP03" age_lower="18" age_upper="35">
 automatisch	-	-	-	0:27:43.113000	0:27:44.538000
 .	-	-	-	0:27:43.113000	0:27:44.538000
 schon	-	-	-	0:27:44.538000	0:27:45.477000
 automatisch	-	-	-	0:27:44.538000	0:27:45.477000
 ,	-	-	-	0:27:44.538000	0:27:45.477000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:45.477000" end="0:27:45.836000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:45.477000" end="0:27:45.836000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:45.477000	0:27:45.836000
 .	-	-	-	0:27:45.477000	0:27:45.836000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:45.477000" end="0:27:46.334000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:45.477000" end="0:27:46.334000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:45.477000	0:27:45.836000
 .	-	-	-	0:27:45.477000	0:27:45.836000
 mhm	-	-	-	0:27:45.836000	0:27:46.334000
 .	-	-	-	0:27:45.836000	0:27:46.334000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:46.334000" end="0:27:52.394000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:46.334000" end="0:27:52.394000" age_lower="1" age_upper="999">
 <pause duration="1,4s"/>
 sprechen	-	-	-	0:27:47.749000	0:27:52.394000
 Sie	-	-	-	0:27:47.749000	0:27:52.394000
@@ -6933,7 +6933,7 @@ eine	-	-	-	0:27:47.749000	0:27:52.394000
 andere	-	-	-	0:27:47.749000	0:27:52.394000
 ?	-	-	-	0:27:47.749000	0:27:52.394000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:52.394000" end="0:27:57.124000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:52.394000" end="0:27:57.124000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 am	-	-	-	0:27:53.616000	0:27:54.885000
 liebsten	-	-	-	0:27:53.616000	0:27:54.885000
@@ -6951,18 +6951,18 @@ in	-	-	-	0:27:55.428000	0:27:57.124000
 Mundart	-	-	-	0:27:55.428000	0:27:57.124000
 ,	-	-	-	0:27:55.428000	0:27:57.124000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:57.124000" end="0:27:58.070000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:57.124000" end="0:27:58.070000" age_lower="1" age_upper="999">
 ja	-	-	-	0:27:57.124000	0:27:58.070000
 .	-	-	-	0:27:57.124000	0:27:58.070000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:57.124000" end="0:27:58.534000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:57.124000" end="0:27:58.534000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:27:57.124000	0:27:58.070000
 Hüttschlagerisch	-	-	-	0:27:57.124000	0:27:58.070000
 .	-	-	-	0:27:57.124000	0:27:58.070000
 ja	-	-	-	0:27:58.070000	0:27:58.534000
 .	-	-	-	0:27:58.070000	0:27:58.534000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:58.534000" end="0:28:00.882000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:58.534000" end="0:28:00.882000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 und	-	-	-	0:27:58.534000	0:28:00.648000
 was	-	-	-	0:27:58.534000	0:28:00.648000
@@ -6970,10 +6970,10 @@ würde	-	-	-	0:27:58.534000	0:28:00.648000
 in	-	-	-	0:27:58.534000	0:28:00.648000
 dem	-	-	-	0:28:00.648000	0:28:00.882000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:00.648000" end="0:28:00.882000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:00.648000" end="0:28:00.882000" project="PP03" age_lower="18" age_upper="35">
 s/	-	-	-	0:28:00.648000	0:28:00.882000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:00.882000" end="0:28:04.707000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:00.882000" end="0:28:04.707000" age_lower="1" age_upper="999">
 in	-	-	-	0:28:00.882000	0:28:02.154000
 der	-	-	-	0:28:00.882000	0:28:02.154000
 Reihung	-	-	-	0:28:00.882000	0:28:02.154000
@@ -6986,30 +6986,30 @@ oder	-	-	-	0:28:02.154000	0:28:03.725000
 das	-	-	-	0:28:03.725000	0:28:04.707000
 /?	-	-	-	0:28:03.725000	0:28:04.707000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:03.725000" end="0:28:04.707000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:03.725000" end="0:28:04.707000" project="PP03" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:28:03.725000	0:28:04.707000
 dann	-	-	-	0:28:03.725000	0:28:04.707000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:04.707000" end="0:28:06.345000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:04.707000" end="0:28:06.345000" age_lower="1" age_upper="999">
 ja	-	-	-	0:28:04.707000	0:28:06.345000
 und	-	-	-	0:28:04.707000	0:28:06.345000
 dann	-	-	-	0:28:04.707000	0:28:06.345000
 /.	-	-	-	0:28:04.707000	0:28:06.345000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:04.707000" end="0:28:06.345000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:04.707000" end="0:28:06.345000" project="PP03" age_lower="18" age_upper="35">
 Österreichisch	-	-	-	0:28:04.707000	0:28:06.345000
 und	-	-	-	0:28:04.707000	0:28:06.345000
 dann	-	-	-	0:28:04.707000	0:28:06.345000
 Hochdeutsch	-	-	-	0:28:04.707000	0:28:06.345000
 .	-	-	-	0:28:04.707000	0:28:06.345000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:06.345000" end="0:28:08.163000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:06.345000" end="0:28:08.163000" age_lower="1" age_upper="999">
 okay	-	-	-	0:28:06.345000	0:28:08.163000
 .	-	-	-	0:28:06.345000	0:28:08.163000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:06.345000" end="0:28:08.163000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:06.345000" end="0:28:08.163000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:08.163000" end="0:28:12.341000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:08.163000" end="0:28:12.341000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 mit	-	-	-	0:28:09.361000	0:28:12.341000
 welchen	-	-	-	0:28:09.361000	0:28:12.341000
@@ -7022,7 +7022,7 @@ Sie	-	-	-	0:28:09.361000	0:28:12.341000
 wie	-	-	-	0:28:09.361000	0:28:12.341000
 ?	-	-	-	0:28:09.361000	0:28:12.341000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:12.341000" end="0:28:18.334000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:12.341000" end="0:28:18.334000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ähm	-	-	-	0:28:13.954000	0:28:15.542000
 in	-	-	-	0:28:13.954000	0:28:15.542000
@@ -7039,17 +7039,17 @@ Prozent	-	-	-	0:28:15.542000	0:28:18.334000
 aus	-	-	-	0:28:15.542000	0:28:18.334000
 ORT	ORT	-	-	0:28:15.542000	0:28:18.334000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:18.334000" end="0:28:18.962000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:18.334000" end="0:28:18.962000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:18.334000	0:28:18.962000
 .	-	-	-	0:28:18.334000	0:28:18.962000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:18.334000" end="0:28:18.962000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:18.334000" end="0:28:18.962000" project="PP03" age_lower="18" age_upper="35">
 stammen	-	-	-	0:28:18.334000	0:28:18.962000
 ,	-	-	-	0:28:18.334000	0:28:18.962000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:18.962000" end="0:28:19.591000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:18.962000" end="0:28:19.591000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:18.962000" end="0:28:21.927000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:18.962000" end="0:28:21.927000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:28:19.591000	0:28:21.927000
 eigentlich	-	-	-	0:28:19.591000	0:28:21.927000
 mit	-	-	-	0:28:19.591000	0:28:21.927000
@@ -7057,15 +7057,15 @@ allen	-	-	-	0:28:19.591000	0:28:21.927000
 Hüttschlagerisch	-	-	-	0:28:19.591000	0:28:21.927000
 .	-	-	-	0:28:19.591000	0:28:21.927000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:21.927000" end="0:28:22.505000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:21.927000" end="0:28:22.505000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:21.927000	0:28:22.505000
 .	-	-	-	0:28:21.927000	0:28:22.505000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:22.505000" end="0:28:22.762000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:22.505000" end="0:28:22.762000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:22.505000	0:28:22.762000
 .	-	-	-	0:28:22.505000	0:28:22.762000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:22.762000" end="0:28:26.267000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:22.762000" end="0:28:26.267000" age_lower="1" age_upper="999">
 also	-	-	-	0:28:22.762000	0:28:24.476000
 mit	-	-	-	0:28:22.762000	0:28:24.476000
 den	-	-	-	0:28:22.762000	0:28:24.476000
@@ -7080,46 +7080,46 @@ den	-	-	-	0:28:24.476000	0:28:25.281000
 Großeltern	-	-	-	0:28:25.281000	0:28:26.267000
 ?	-	-	-	0:28:25.281000	0:28:26.267000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:25.281000" end="0:28:26.591000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:25.281000" end="0:28:26.591000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:28:25.281000	0:28:26.267000
 gleich	-	-	-	0:28:26.267000	0:28:26.591000
 .	-	-	-	0:28:26.267000	0:28:26.591000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:26.591000" end="0:28:27.334000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:26.591000" end="0:28:27.334000" age_lower="1" age_upper="999">
 auch	-	-	-	0:28:26.591000	0:28:26.895000
 gleich	-	-	-	0:28:26.895000	0:28:27.334000
 .	-	-	-	0:28:26.895000	0:28:27.334000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:26.895000" end="0:28:27.334000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:26.895000" end="0:28:27.334000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:26.895000	0:28:27.334000
 .	-	-	-	0:28:26.895000	0:28:27.334000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:27.334000" end="0:28:28.401000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:27.334000" end="0:28:28.401000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:27.334000	0:28:27.691000
 .	-	-	-	0:28:27.334000	0:28:27.691000
 und	-	-	-	0:28:27.691000	0:28:28.401000
 mit	-	-	-	0:28:27.691000	0:28:28.401000
 Ihrer	-	-	-	0:28:27.691000	0:28:28.401000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:27.691000" end="0:28:28.401000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:27.691000" end="0:28:28.401000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:28:27.691000	0:28:28.401000
 .	-	-	-	0:28:27.691000	0:28:28.401000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:28.400000" end="0:28:28.995000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:28.400000" end="0:28:28.995000" age_lower="1" age_upper="999">
 Schwester	-	-	-	0:28:28.400000	0:28:28.995000
 ?	-	-	-	0:28:28.400000	0:28:28.995000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:28.995000" end="0:28:29.898000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:28.995000" end="0:28:29.898000" project="PP03" age_lower="18" age_upper="35">
 meine	-	-	-	0:28:28.995000	0:28:29.898000
 Schwester	-	-	-	0:28:28.995000	0:28:29.898000
 auch	-	-	-	0:28:28.995000	0:28:29.898000
 ,	-	-	-	0:28:28.995000	0:28:29.898000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:29.898000" end="0:28:30.391000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:29.898000" end="0:28:30.391000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:29.898000	0:28:30.391000
 .	-	-	-	0:28:29.898000	0:28:30.391000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:29.898000" end="0:28:32.311000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:29.898000" end="0:28:32.311000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:28:29.898000	0:28:30.391000
 wohnt	-	-	-	0:28:29.898000	0:28:30.391000
 zwar	-	-	-	0:28:30.391000	0:28:31.559000
@@ -7135,33 +7135,33 @@ auch	-	-	-	0:28:31.559000	0:28:32.311000
 gleich	-	-	-	0:28:31.559000	0:28:32.311000
 ,	-	-	-	0:28:31.559000	0:28:32.311000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:32.311000" end="0:28:32.865000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:32.311000" end="0:28:32.865000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:32.311000	0:28:32.865000
 .	-	-	-	0:28:32.311000	0:28:32.865000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:32.311000" end="0:28:32.865000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:32.311000" end="0:28:32.865000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:32.311000	0:28:32.865000
 .	-	-	-	0:28:32.311000	0:28:32.865000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:32.865000" end="0:28:33.411000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:32.865000" end="0:28:33.411000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:28:32.865000	0:28:33.411000
 es	-	-	-	0:28:32.865000	0:28:33.411000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:32.865000" end="0:28:33.411000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:32.865000" end="0:28:33.411000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:28:32.865000	0:28:33.411000
 .	-	-	-	0:28:32.865000	0:28:33.411000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:33.411000" end="0:28:35.021000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:33.411000" end="0:28:35.021000" age_lower="1" age_upper="999">
 keine	-	-	-	0:28:33.411000	0:28:33.859000
 keine	-	-	-	0:28:33.859000	0:28:34.309000
 Unterschiede	-	-	-	0:28:34.309000	0:28:35.021000
 ?	-	-	-	0:28:34.309000	0:28:35.021000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:34.309000" end="0:28:35.021000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:34.309000" end="0:28:35.021000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:28:34.309000	0:28:35.021000
 .	-	-	-	0:28:34.309000	0:28:35.021000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:35.021000" end="0:28:40.661000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:35.021000" end="0:28:40.661000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:35.021000	0:28:35.713000
 .	-	-	-	0:28:35.021000	0:28:35.713000
 <pause duration="0,6s"/>
@@ -7180,24 +7180,24 @@ miteinander	-	-	-	0:28:38.191000	0:28:40.661000
 geredet	-	-	-	0:28:38.191000	0:28:40.661000
 ?	-	-	-	0:28:38.191000	0:28:40.661000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:40.661000" end="0:28:41.262000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:40.661000" end="0:28:41.262000" project="PP03" age_lower="18" age_upper="35">
 Mundart	-	-	-	0:28:40.661000	0:28:41.262000
 ,	-	-	-	0:28:40.661000	0:28:41.262000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:41.262000" end="0:28:42.143000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:41.262000" end="0:28:42.143000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:41.262000	0:28:42.143000
 .	-	-	-	0:28:41.262000	0:28:42.143000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:41.262000" end="0:28:42.143000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:41.262000" end="0:28:42.143000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:28:41.262000	0:28:42.143000
 Hüttschlagerisch	-	-	-	0:28:41.262000	0:28:42.143000
 .	-	-	-	0:28:41.262000	0:28:42.143000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:42.143000" end="0:28:42.558000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:42.143000" end="0:28:42.558000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:42.143000	0:28:42.558000
 .	-	-	-	0:28:42.143000	0:28:42.558000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:42.558000" end="0:28:44.431000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:42.558000" end="0:28:44.431000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:28:42.558000	0:28:44.109000
 wenn	-	-	-	0:28:42.558000	0:28:44.109000
 ich	-	-	-	0:28:42.558000	0:28:44.109000
@@ -7207,21 +7207,21 @@ sage	-	-	-	0:28:42.558000	0:28:44.109000
 meine	-	-	-	0:28:44.109000	0:28:44.431000
 ich	-	-	-	0:28:44.109000	0:28:44.431000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:44.431000" end="0:28:45.365000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:44.431000" end="0:28:45.365000" age_lower="1" age_upper="999">
 Hüttschlagerisch	-	-	-	0:28:44.431000	0:28:45.365000
 ,	-	-	-	0:28:44.431000	0:28:45.365000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:44.431000" end="0:28:45.365000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:44.431000" end="0:28:45.365000" project="PP03" age_lower="18" age_upper="35">
 Hüttschlagerisch	-	-	-	0:28:44.431000	0:28:45.365000
 .	-	-	-	0:28:44.431000	0:28:45.365000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:45.365000" end="0:28:46.637000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:45.365000" end="0:28:46.637000" age_lower="1" age_upper="999">
 ja	-	-	-	0:28:45.365000	0:28:46.637000
 .	-	-	-	0:28:45.365000	0:28:46.637000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:45.365000" end="0:28:46.637000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:45.365000" end="0:28:46.637000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:46.637000" end="0:28:51.015000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:46.637000" end="0:28:51.015000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:28:46.637000	0:28:51.015000
 wie	-	-	-	0:28:46.637000	0:28:51.015000
 hat	-	-	-	0:28:46.637000	0:28:51.015000
@@ -7238,21 +7238,21 @@ Kind	-	-	-	0:28:46.637000	0:28:51.015000
 gesprochen	-	-	-	0:28:46.637000	0:28:51.015000
 ?	-	-	-	0:28:46.637000	0:28:51.015000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:51.015000" end="0:28:54.452000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:51.015000" end="0:28:54.452000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 hm	-	-	-	0:28:54.094000	0:28:54.452000
 .	-	-	-	0:28:54.094000	0:28:54.452000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:54.452000" end="0:28:55.566000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:54.452000" end="0:28:55.566000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 oder	-	-	-	0:28:54.452000	0:28:55.566000
 was	-	-	-	0:28:54.452000	0:28:55.566000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:54.452000" end="0:28:55.566000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:54.452000" end="0:28:55.566000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 /.	-	-	-	0:28:54.452000	0:28:55.566000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:55.566000" end="0:28:57.446000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:55.566000" end="0:28:57.446000" age_lower="1" age_upper="999">
 was	-	-	-	0:28:55.566000	0:28:56.264000
 denken	-	-	-	0:28:55.566000	0:28:56.264000
 Sie	-	-	-	0:28:55.566000	0:28:56.264000
@@ -7263,14 +7263,14 @@ sich	-	-	-	0:28:56.595000	0:28:57.446000
 nicht	-	-	-	0:28:56.595000	0:28:57.446000
 erinnern	-	-	-	0:28:56.595000	0:28:57.446000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:56.595000" end="0:28:57.446000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:56.595000" end="0:28:57.446000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:28:56.595000	0:28:57.446000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:57.446000" end="0:28:57.833000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:57.446000" end="0:28:57.833000" age_lower="1" age_upper="999">
 können	-	-	-	0:28:57.446000	0:28:57.833000
 ?	-	-	-	0:28:57.446000	0:28:57.833000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:57.833000" end="0:29:01.430000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:57.833000" end="0:29:01.430000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 also	-	-	-	0:28:57.833000	0:28:59.070000
 ich	-	-	-	0:28:57.833000	0:28:59.070000
@@ -7282,11 +7282,11 @@ mehr	-	-	-	0:28:59.070000	0:29:01.430000
 Österreichisch	-	-	-	0:28:59.070000	0:29:01.430000
 ,	-	-	-	0:28:59.070000	0:29:01.430000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:01.430000" end="0:29:01.939000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:01.430000" end="0:29:01.939000" age_lower="1" age_upper="999">
 ja	-	-	-	0:29:01.430000	0:29:01.939000
 .	-	-	-	0:29:01.430000	0:29:01.939000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:01.939000" end="0:29:12.223000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:01.939000" end="0:29:12.223000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:29:01.939000	0:29:03.813000
 ähm	-	-	-	0:29:01.939000	0:29:03.813000
 bei	-	-	-	0:29:01.939000	0:29:03.813000
@@ -7332,11 +7332,11 @@ Bauernhof	-	-	-	0:29:10.651000	0:29:12.223000
 zum	-	-	-	0:29:10.651000	0:29:12.223000
 Beispiel	-	-	-	0:29:10.651000	0:29:12.223000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:12.223000" end="0:29:13.170000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:12.223000" end="0:29:13.170000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:12.223000	0:29:13.170000
 .	-	-	-	0:29:12.223000	0:29:13.170000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:12.223000" end="0:29:14.275000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:12.223000" end="0:29:14.275000" project="PP03" age_lower="18" age_upper="35">
 stammen	-	-	-	0:29:12.223000	0:29:13.170000
 ,	-	-	-	0:29:12.223000	0:29:13.170000
 die	-	-	-	0:29:12.223000	0:29:13.170000
@@ -7346,20 +7346,20 @@ ein	-	-	DIM|??	0:29:13.170000	0:29:14.275000
 bisschen	-	-	DIM|??	0:29:13.170000	0:29:14.275000
 extremer	-	-	??	0:29:13.170000	0:29:14.275000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:14.275000" end="0:29:15.157000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:14.275000" end="0:29:15.157000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:14.275000	0:29:15.157000
 .	-	-	-	0:29:14.275000	0:29:15.157000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:14.275000" end="0:29:15.157000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:14.275000" end="0:29:15.157000" project="PP03" age_lower="18" age_upper="35">
 ORT	ORT	-	??	0:29:14.275000	0:29:15.157000
 ,	-	-	-	0:29:14.275000	0:29:15.157000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:15.157000" end="0:29:16.699000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:15.157000" end="0:29:16.699000" age_lower="1" age_upper="999">
 extremer	-	-	-	0:29:15.157000	0:29:16.699000
 Hüttschlagerisch	-	-	-	0:29:15.157000	0:29:16.699000
 ?	-	-	-	0:29:15.157000	0:29:16.699000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:15.157000" end="0:29:19.918000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:15.157000" end="0:29:19.918000" project="PP03" age_lower="18" age_upper="35">
 haben	-	-	-	0:29:15.157000	0:29:16.699000
 meine	-	-	-	0:29:15.157000	0:29:16.699000
 Eltern	-	-	-	0:29:15.157000	0:29:16.699000
@@ -7383,11 +7383,11 @@ her"	-	-	-	0:29:17.849000	0:29:19.918000
 ?	-	-	-	0:29:17.849000	0:29:19.918000
 .	-	-	-	0:29:17.849000	0:29:19.918000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:19.918000" end="0:29:20.238000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:19.918000" end="0:29:20.238000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:19.918000	0:29:20.238000
 .	-	-	-	0:29:19.918000	0:29:20.238000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:19.918000" end="0:29:25.464000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:19.918000" end="0:29:25.464000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:29:19.918000	0:29:20.238000
 ,	-	-	-	0:29:19.918000	0:29:20.238000
 also	-	-	-	0:29:20.238000	0:29:20.704000
@@ -7405,11 +7405,11 @@ aufgezogen	-	-	-	0:29:20.704000	0:29:25.464000
 worden	-	-	-	0:29:20.704000	0:29:25.464000
 ,	-	-	-	0:29:20.704000	0:29:25.464000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:25.464000" end="0:29:26.006000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:25.464000" end="0:29:26.006000" age_lower="1" age_upper="999">
 ja	-	-	-	0:29:25.464000	0:29:26.006000
 .	-	-	-	0:29:25.464000	0:29:26.006000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:25.464000" end="0:29:30.219000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:25.464000" end="0:29:30.219000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:29:25.464000	0:29:26.006000
 durch	-	-	-	0:29:25.464000	0:29:26.006000
 die	-	-	-	0:29:26.007000	0:29:26.881000
@@ -7422,13 +7422,13 @@ ich	-	-	-	0:29:27.835000	0:29:28.957000
 ja	-	-	-	0:29:28.957000	0:29:29.397000
 .	-	-	-	0:29:28.957000	0:29:29.397000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:30.219000" end="0:29:32.025000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:30.219000" end="0:29:32.025000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:30.219000" end="0:29:32.025000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:30.219000" end="0:29:32.025000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:32.025000" end="0:29:38.860000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:32.025000" end="0:29:38.860000" age_lower="1" age_upper="999">
 und	-	-	-	0:29:32.025000	0:29:35.214000
 aber	-	-	-	0:29:32.025000	0:29:35.214000
 Sie	-	-	-	0:29:32.025000	0:29:35.214000
@@ -7449,7 +7449,7 @@ Hüttschlagerisch	-	-	-	0:29:37.157000	0:29:38.860000
 bezeichnen	-	-	-	0:29:37.157000	0:29:38.860000
 ?	-	-	-	0:29:37.157000	0:29:38.860000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:37.157000" end="0:29:38.860000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:37.157000" end="0:29:38.860000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:37.157000	0:29:38.860000
 ,	-	-	-	0:29:37.157000	0:29:38.860000
 eigentlich	-	-	-	0:29:37.157000	0:29:38.860000
@@ -7458,11 +7458,11 @@ schon	-	-	-	0:29:37.157000	0:29:38.860000
 ja	-	-	-	0:29:37.157000	0:29:38.860000
 .	-	-	-	0:29:37.157000	0:29:38.860000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:38.860000" end="0:29:39.122000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:38.860000" end="0:29:39.122000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:38.860000	0:29:39.122000
 .	-	-	-	0:29:38.860000	0:29:39.122000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:39.122000" end="0:29:52.678000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:39.122000" end="0:29:52.678000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:29:39.122000	0:29:40.095000
 eine	-	-	-	0:29:39.122000	0:29:40.095000
 ist	-	-	-	0:29:39.122000	0:29:40.095000
@@ -7500,15 +7500,15 @@ meisten	-	-	-	0:29:50.641000	0:29:52.678000
 sozusagen	-	-	-	0:29:50.641000	0:29:52.678000
 .	-	-	-	0:29:50.641000	0:29:52.678000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:52.678000" end="0:29:53.283000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:52.678000" end="0:29:53.283000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:52.678000	0:29:53.283000
 .	-	-	-	0:29:52.678000	0:29:53.283000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:53.283000" end="0:29:53.753000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:53.283000" end="0:29:53.753000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:53.283000	0:29:53.753000
 .	-	-	-	0:29:53.283000	0:29:53.753000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:53.753000" end="0:29:57.925000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:53.753000" end="0:29:57.925000" age_lower="1" age_upper="999">
 und	-	-	-	0:29:53.753000	0:29:55.513000
 sie	-	-	-	0:29:53.753000	0:29:55.513000
 hat	-	-	-	0:29:53.753000	0:29:55.513000
@@ -7526,21 +7526,21 @@ zu	-	-	-	0:29:56.439000	0:29:57.925000
 sprechen	-	-	-	0:29:56.439000	0:29:57.925000
 ?	-	-	-	0:29:56.439000	0:29:57.925000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:56.439000" end="0:29:57.925000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:56.439000" end="0:29:57.925000" project="PP03" age_lower="18" age_upper="35">
 eher	-	-	-	0:29:56.439000	0:29:57.925000
 schon	-	-	-	0:29:56.439000	0:29:57.925000
 eigentlich	-	-	-	0:29:56.439000	0:29:57.925000
 ,	-	-	-	0:29:56.439000	0:29:57.925000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:57.925000" end="0:29:58.306000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:57.925000" end="0:29:58.306000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:57.925000	0:29:58.306000
 .	-	-	-	0:29:57.925000	0:29:58.306000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:57.925000" end="0:29:58.306000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:57.925000" end="0:29:58.306000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:57.925000	0:29:58.306000
 .	-	-	-	0:29:57.925000	0:29:58.306000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:58.306000" end="0:29:59.921000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:58.306000" end="0:29:59.921000" age_lower="1" age_upper="999">
 warum	-	-	-	0:29:58.306000	0:29:59.921000
 glauben	-	-	-	0:29:58.306000	0:29:59.921000
 Sie	-	-	-	0:29:58.306000	0:29:59.921000
@@ -7550,7 +7550,7 @@ das	-	-	-	0:29:58.306000	0:29:59.921000
 dass	-	-	-	0:29:58.306000	0:29:59.921000
 sie	-	-	-	0:29:58.306000	0:29:59.921000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:58.306000" end="0:29:59.921000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:58.306000" end="0:29:59.921000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:29:58.306000	0:29:59.921000
 ein	-	-	DIM	0:29:58.306000	0:29:59.921000
 bissel	-	-	DIM	0:29:58.306000	0:29:59.921000
@@ -7559,13 +7559,13 @@ eigentlich	-	-	-	0:29:58.306000	0:29:59.921000
 ja	-	-	-	0:29:58.306000	0:29:59.921000
 .	-	-	-	0:29:58.306000	0:29:59.921000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:59.921000" end="0:30:00.700000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:59.921000" end="0:30:00.700000" age_lower="1" age_upper="999">
 das	-	-	-	0:29:59.921000	0:30:00.700000
 gemacht	-	-	-	0:29:59.921000	0:30:00.700000
 hat	-	-	-	0:29:59.921000	0:30:00.700000
 ?	-	-	-	0:29:59.921000	0:30:00.700000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:00.700000" end="0:30:05.947000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:00.700000" end="0:30:05.947000" project="PP03" age_lower="18" age_upper="35">
 pff	-	-	-	0:30:00.700000	0:30:01.561000
 ja	-	-	-	0:30:01.561000	0:30:02.557000
 ,	-	-	-	0:30:01.561000	0:30:02.557000
@@ -7587,11 +7587,11 @@ es	-	-	-	0:30:02.957000	0:30:05.947000
 schon	-	-	-	0:30:02.957000	0:30:05.947000
 schwierig	-	-	-	0:30:02.957000	0:30:05.947000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:05.947000" end="0:30:06.429000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:05.947000" end="0:30:06.429000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:05.947000	0:30:06.429000
 .	-	-	-	0:30:05.947000	0:30:06.429000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:06.429000" end="0:30:13.993000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:06.429000" end="0:30:13.993000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:30:06.429000	0:30:07.221000
 der	-	-	-	0:30:06.429000	0:30:07.221000
 Mundart	-	-	-	0:30:06.429000	0:30:07.221000
@@ -7619,11 +7619,11 @@ ein	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe-	0:30:12.333000	0:30:1
 leichter	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe-	0:30:12.333000	0:30:13.993000
 Unterschied	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe-	0:30:12.333000	0:30:13.993000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:13.993000" end="0:30:14.383000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:13.993000" end="0:30:14.383000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:13.993000	0:30:14.383000
 .	-	-	-	0:30:13.993000	0:30:14.383000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:13.993000" end="0:30:17.377000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:13.993000" end="0:30:17.377000" project="PP03" age_lower="18" age_upper="35">
 vielleicht	-	-	-	0:30:13.993000	0:30:14.383000
 ,	-	-	-	0:30:13.993000	0:30:14.383000
 es	-	-	-	0:30:14.383000	0:30:17.377000
@@ -7635,7 +7635,7 @@ Extremes	-	-	-	0:30:14.383000	0:30:17.377000
 aber	-	-	-	0:30:14.383000	0:30:17.377000
 /.	-	-	-	0:30:14.383000	0:30:17.377000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:17.377000" end="0:30:21.845000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:17.377000" end="0:30:21.845000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:30:17.377000	0:30:18.327000
 .	-	-	-	0:30:17.377000	0:30:18.327000
@@ -7652,7 +7652,7 @@ als	-	-	-	0:30:18.327000	0:30:21.231000
 Kind	-	-	-	0:30:21.231000	0:30:21.845000
 ?	-	-	-	0:30:21.231000	0:30:21.845000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:21.231000" end="0:30:31.005000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:21.231000" end="0:30:31.005000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:30:21.231000	0:30:21.845000
 eigentlich	-	-	-	0:30:21.845000	0:30:23.022000
 auch	-	-	-	0:30:21.845000	0:30:23.022000
@@ -7678,19 +7678,19 @@ ganz	-	-	-	0:30:28.431000	0:30:31.005000
 schwer	-	-	-	0:30:28.431000	0:30:31.005000
 zu	-	-	-	0:30:28.431000	0:30:31.005000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:31.005000" end="0:30:31.930000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:31.005000" end="0:30:31.930000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:31.005000	0:30:31.930000
 .	-	-	-	0:30:31.005000	0:30:31.930000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:31.005000" end="0:30:31.930000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:31.005000" end="0:30:31.930000" project="PP03" age_lower="18" age_upper="35">
 beschreiben	-	-	-	0:30:31.005000	0:30:31.930000
 .	-	-	-	0:30:31.005000	0:30:31.930000
 also	-	-	-	0:30:31.005000	0:30:31.930000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:31.930000" end="0:30:33.633000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:31.930000" end="0:30:33.633000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:31.930000" end="0:30:37.313000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:31.930000" end="0:30:37.313000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ein	-	-	DIM	0:30:33.633000	0:30:34.572000
 bisschen	-	-	DIM	0:30:33.633000	0:30:34.572000
@@ -7706,22 +7706,22 @@ bisschen	-	-	DIM	0:30:36.066000	0:30:37.313000
 Österreichisch	-	-	-	0:30:36.066000	0:30:37.313000
 .	-	-	-	0:30:36.066000	0:30:37.313000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:37.313000" end="0:30:37.963000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:37.313000" end="0:30:37.963000" age_lower="1" age_upper="999">
 ja	-	-	-	0:30:37.313000	0:30:37.963000
 .	-	-	-	0:30:37.313000	0:30:37.963000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:37.313000" end="0:30:39.007000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:37.313000" end="0:30:39.007000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:30:37.313000	0:30:37.963000
 mitten	-	-	-	0:30:37.313000	0:30:37.963000
 drinnen	-	-	-	0:30:37.962000	0:30:39.007000
 sozusagen	-	-	-	0:30:37.962000	0:30:39.007000
 .	-	-	-	0:30:37.962000	0:30:39.007000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:39.007000" end="0:30:39.409000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:39.007000" end="0:30:39.409000" age_lower="1" age_upper="999">
 ja	-	-	-	0:30:39.007000	0:30:39.409000
 .	-	-	-	0:30:39.007000	0:30:39.409000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:39.409000" end="0:30:53.455000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:39.409000" end="0:30:53.455000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:39.409000	0:30:39.748000
 .	-	-	-	0:30:39.409000	0:30:39.748000
 <pause duration="1,9s"/>
@@ -7777,11 +7777,11 @@ wir	-	-	-	0:30:52.270000	0:30:53.455000
 _fok_	-	-	-	0:30:52.270000	0:30:53.455000
 zum	-	-	-	0:30:52.270000	0:30:53.455000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:53.455000" end="0:30:54.006000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:53.455000" end="0:30:54.006000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:53.455000	0:30:54.006000
 .	-	-	-	0:30:53.455000	0:30:54.006000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:53.455000" end="0:30:58.337000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:53.455000" end="0:30:58.337000" project="PP03" age_lower="18" age_upper="35">
 Beispiel	-	-	-	0:30:53.455000	0:30:54.006000
 .	-	-	-	0:30:53.455000	0:30:54.006000
 es	-	-	-	0:30:53.455000	0:30:54.006000
@@ -7803,11 +7803,11 @@ einem	-	-	-	0:30:55.099000	0:30:58.337000
 schönen	-	-	-	0:30:55.099000	0:30:58.337000
 Deutsch	-	-	-	0:30:55.099000	0:30:58.337000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:58.337000" end="0:30:58.742000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:58.337000" end="0:30:58.742000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:58.337000	0:30:58.742000
 .	-	-	-	0:30:58.337000	0:30:58.742000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:58.337000" end="0:30:59.923000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:58.337000" end="0:30:59.923000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:30:58.337000	0:30:58.742000
 lernt	-	-	-	0:30:58.337000	0:30:58.742000
 man	-	-	-	0:30:58.742000	0:30:59.923000
@@ -7817,7 +7817,7 @@ Mundart	-	-	-	0:30:58.742000	0:30:59.923000
 oder	-	-	-	0:30:58.742000	0:30:59.923000
 /.	-	-	-	0:30:58.742000	0:30:59.923000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:59.923000" end="0:31:03.270000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:59.923000" end="0:31:03.270000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 können	-	-	-	0:30:59.923000	0:31:01.346000
 Sie	-	-	-	0:30:59.923000	0:31:01.346000
@@ -7834,15 +7834,15 @@ Tiere	-	-	-	0:31:01.346000	0:31:02.694000
 zum	-	-	-	0:31:02.694000	0:31:03.270000
 Beispiel	-	-	-	0:31:02.694000	0:31:03.270000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:02.694000" end="0:31:03.270000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:02.694000" end="0:31:03.270000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:31:02.694000	0:31:03.270000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:03.270000" end="0:31:03.867000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:03.270000" end="0:31:03.867000" age_lower="1" age_upper="999">
 gelernt	-	-	-	0:31:03.270000	0:31:03.867000
 haben	-	-	-	0:31:03.270000	0:31:03.867000
 ?	-	-	-	0:31:03.270000	0:31:03.867000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:03.867000" end="0:31:05.731000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:03.867000" end="0:31:05.731000" project="PP03" age_lower="18" age_upper="35">
 schon	-	-	-	0:31:03.867000	0:31:05.065000
 ähm	-	-	-	0:31:03.867000	0:31:05.065000
 in	-	-	-	0:31:03.867000	0:31:05.065000
@@ -7853,11 +7853,11 @@ schon	-	-	-	0:31:05.065000	0:31:05.731000
 in	-	-	-	0:31:05.065000	0:31:05.731000
 /.	-	-	-	0:31:05.065000	0:31:05.731000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:05.731000" end="0:31:06.151000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:05.731000" end="0:31:06.151000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:05.731000	0:31:06.151000
 .	-	-	-	0:31:05.731000	0:31:06.151000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:06.151000" end="0:31:09.947000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:06.151000" end="0:31:09.947000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:31:06.151000	0:31:07.457000
 "grün"	-	-	-	0:31:06.151000	0:31:07.457000
 und	-	-	-	0:31:07.457000	0:31:09.947000
@@ -7869,13 +7869,13 @@ Beispiel	-	-	-	0:31:07.457000	0:31:09.947000
 "grea"	-	-	-	0:31:07.457000	0:31:09.947000
 .	-	-	-	0:31:07.457000	0:31:09.947000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:09.947000" end="0:31:10.725000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:09.947000" end="0:31:10.725000" age_lower="1" age_upper="999">
 ja	-	-	-	0:31:09.947000	0:31:10.725000
 ,	-	-	-	0:31:09.947000	0:31:10.725000
 mhm	-	-	-	0:31:09.947000	0:31:10.725000
 .	-	-	-	0:31:09.947000	0:31:10.725000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:09.947000" end="0:31:13.326000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:09.947000" end="0:31:13.326000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:31:09.947000	0:31:10.725000
 schon	-	-	-	0:31:10.725000	0:31:11.647000
 "grün"	-	-	-	0:31:10.725000	0:31:11.647000
@@ -7893,11 +7893,11 @@ Farbe"	-	-	-	0:31:11.647000	0:31:13.051000
 "grün"	-	-	-	0:31:13.051000	0:31:13.326000
 ,	-	-	-	0:31:13.051000	0:31:13.326000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:13.326000" end="0:31:13.753000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:13.326000" end="0:31:13.753000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:13.326000	0:31:13.753000
 .	-	-	-	0:31:13.326000	0:31:13.753000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:13.326000" end="0:31:15.871000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:13.326000" end="0:31:15.871000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:13.326000	0:31:13.753000
 .	-	-	-	0:31:13.326000	0:31:13.753000
 so	-	-	-	0:31:13.753000	0:31:15.871000
@@ -7905,7 +7905,7 @@ zum	-	-	-	0:31:13.753000	0:31:15.871000
 Beispiel	-	-	-	0:31:13.753000	0:31:15.871000
 .	-	-	-	0:31:13.753000	0:31:15.871000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:15.871000" end="0:31:23.272000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:15.871000" end="0:31:23.272000" age_lower="1" age_upper="999">
 bleiben	-	-	-	0:31:15.871000	0:31:17.991000
 wir	-	-	-	0:31:15.871000	0:31:17.991000
 noch	-	-	-	0:31:15.871000	0:31:17.991000
@@ -7937,7 +7937,7 @@ gegangen	-	-	-	0:31:21.502000	0:31:23.272000
 sind	-	-	-	0:31:21.502000	0:31:23.272000
 ?	-	-	-	0:31:21.502000	0:31:23.272000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:23.272000" end="0:31:25.952000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:23.272000" end="0:31:25.952000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:31:23.272000	0:31:25.952000
 so	-	-	-	0:31:23.272000	0:31:25.952000
@@ -7947,18 +7947,18 @@ zwischen	-	-	-	0:31:23.272000	0:31:25.952000
 Mundart	-	-	-	0:31:23.272000	0:31:25.952000
 und	-	-	-	0:31:23.272000	0:31:25.952000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:25.952000" end="0:31:27.789000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:25.952000" end="0:31:27.789000" age_lower="1" age_upper="999">
 ja	-	-	-	0:31:25.952000	0:31:27.789000
 ,	-	-	-	0:31:25.952000	0:31:27.789000
 mhm	-	-	-	0:31:25.952000	0:31:27.789000
 .	-	-	-	0:31:25.952000	0:31:27.789000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:25.952000" end="0:31:27.789000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:25.952000" end="0:31:27.789000" project="PP03" age_lower="18" age_upper="35">
 Österreichisch	-	-	-	0:31:25.952000	0:31:27.789000
 sozusagen	-	-	-	0:31:25.952000	0:31:27.789000
 .	-	-	-	0:31:25.952000	0:31:27.789000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:27.789000" end="0:31:35.087000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:27.789000" end="0:31:35.087000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 und	-	-	-	0:31:27.789000	0:31:31.252000
 haben	-	-	-	0:31:27.789000	0:31:31.252000
@@ -7981,7 +7981,7 @@ etwas	-	-	-	0:31:31.251000	0:31:35.087000
 verändert	-	-	-	0:31:31.251000	0:31:35.087000
 ?	-	-	-	0:31:31.251000	0:31:35.087000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:35.087000" end="0:31:39.551000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:35.087000" end="0:31:39.551000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:31:35.087000	0:31:38.401000
 eigentlich	-	-	-	0:31:35.087000	0:31:38.401000
 sogar	-	-	-	0:31:35.087000	0:31:38.401000
@@ -7994,11 +7994,11 @@ meine	-	-	-	0:31:38.401000	0:31:39.551000
 Freunde	-	-	-	0:31:38.401000	0:31:39.551000
 dann	-	-	-	0:31:38.401000	0:31:39.551000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:39.551000" end="0:31:40.331000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:39.551000" end="0:31:40.331000" age_lower="1" age_upper="999">
 ja	-	-	-	0:31:39.551000	0:31:40.331000
 .	-	-	-	0:31:39.551000	0:31:40.331000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:39.551000" end="0:31:43.468000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:39.551000" end="0:31:43.468000" project="PP03" age_lower="18" age_upper="35">
 irgendwie	-	-	-	0:31:39.551000	0:31:40.331000
 <pause duration="1,1s"/>
 sogar	-	-	-	0:31:41.469000	0:31:43.468000
@@ -8012,7 +8012,7 @@ Dialekt	-	-	-	0:31:41.469000	0:31:43.468000
 ja	-	-	-	0:31:41.469000	0:31:43.468000
 .	-	-	-	0:31:41.469000	0:31:43.468000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:43.468000" end="0:31:48.832000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:43.468000" end="0:31:48.832000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:43.468000	0:31:45.340000
 ,	-	-	-	0:31:43.468000	0:31:45.340000
 <pause duration="0,8s"/>
@@ -8035,18 +8035,18 @@ dann	-	-	-	0:31:47.612000	0:31:48.832000
 zu	-	-	-	0:31:47.612000	0:31:48.832000
 Hause	-	-	-	0:31:47.612000	0:31:48.832000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:47.612000" end="0:31:48.832000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:47.612000" end="0:31:48.832000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:31:47.612000	0:31:48.832000
 auch	-	-	-	0:31:47.612000	0:31:48.832000
 zu	-	-	-	0:31:47.612000	0:31:48.832000
 Hause	-	-	-	0:31:47.612000	0:31:48.832000
 eben	-	-	-	0:31:47.612000	0:31:48.832000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:48.832000" end="0:31:49.142000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:48.832000" end="0:31:49.142000" age_lower="1" age_upper="999">
 dann	-	-	-	0:31:48.832000	0:31:49.142000
 /?	-	-	-	0:31:48.832000	0:31:49.142000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:48.832000" end="0:31:49.942000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:48.832000" end="0:31:49.942000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:31:48.832000	0:31:49.142000
 dann	-	-	-	0:31:48.832000	0:31:49.142000
 meine	-	-	-	0:31:49.142000	0:31:49.537000
@@ -8056,17 +8056,17 @@ Eltern	-	-	-	0:31:49.142000	0:31:49.537000
 hast	-	-	-	0:31:49.537000	0:31:49.942000
 du	-	-	-	0:31:49.537000	0:31:49.942000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:49.942000" end="0:31:50.285000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:49.942000" end="0:31:50.285000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:49.942000	0:31:50.285000
 .	-	-	-	0:31:49.942000	0:31:50.285000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:49.942000" end="0:31:50.285000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:49.942000" end="0:31:50.285000" project="PP03" age_lower="18" age_upper="35">
 das"	-	-	-	0:31:49.942000	0:31:50.285000
 ?	-	-	-	0:31:49.942000	0:31:50.285000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:50.285000" end="0:31:51.264000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:50.285000" end="0:31:51.264000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:50.285000" end="0:31:54.082000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:50.285000" end="0:31:54.082000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:31:50.285000	0:31:51.264000
 ,	-	-	-	0:31:50.285000	0:31:51.264000
 "wie	-	-	-	0:31:50.285000	0:31:51.264000
@@ -8087,7 +8087,7 @@ verändert	-	-	-	0:31:52.141000	0:31:54.082000
 ja	-	-	-	0:31:52.141000	0:31:54.082000
 .	-	-	-	0:31:52.141000	0:31:54.082000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:54.082000" end="0:31:58.377000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:54.082000" end="0:31:58.377000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:54.082000	0:31:54.550000
 .	-	-	-	0:31:54.082000	0:31:54.550000
 <pause duration="0,6s"/>
@@ -8103,7 +8103,7 @@ in	-	-	-	0:31:54.550000	0:31:58.377000
 Hüttschlag	-	-	-	0:31:54.550000	0:31:58.377000
 ?	-	-	-	0:31:54.550000	0:31:58.377000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:58.377000" end="0:32:02.607000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:58.377000" end="0:32:02.607000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:31:58.377000	0:32:02.607000
 auch	-	-	-	0:31:58.377000	0:32:02.607000
 eigentlich	-	-	-	0:31:58.377000	0:32:02.607000
@@ -8114,11 +8114,11 @@ auch	-	-	-	0:31:58.377000	0:32:02.607000
 Mundart	-	-	-	0:31:58.377000	0:32:02.607000
 .	-	-	-	0:31:58.377000	0:32:02.607000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:02.607000" end="0:32:03.147000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:02.607000" end="0:32:03.147000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:32:02.607000	0:32:03.147000
 .	-	-	-	0:32:02.607000	0:32:03.147000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:03.147000" end="0:32:13.081000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:03.147000" end="0:32:13.081000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 ja	-	-	-	0:32:05.291000	0:32:06.781000
 ,	-	-	-	0:32:05.291000	0:32:06.781000
@@ -8154,11 +8154,11 @@ aus	-	-	-	0:32:12.310000	0:32:13.081000
 der	-	-	-	0:32:12.310000	0:32:13.081000
 nächsten	-	-	-	0:32:12.310000	0:32:13.081000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:13.081000" end="0:32:13.664000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:13.081000" end="0:32:13.664000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:32:13.081000	0:32:13.664000
 .	-	-	-	0:32:13.081000	0:32:13.664000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:13.081000" end="0:32:22.839000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:13.081000" end="0:32:22.839000" project="PP03" age_lower="18" age_upper="35">
 Stadt	-	-	-	0:32:13.081000	0:32:13.664000
 .	-	-	-	0:32:13.081000	0:32:13.664000
 ja	-	-	-	0:32:13.663000	0:32:14.083000
@@ -8186,18 +8186,18 @@ eigentlich	-	-	-	0:32:17.097000	0:32:22.839000
 Mundart	-	-	-	0:32:17.097000	0:32:22.839000
 ,	-	-	-	0:32:17.097000	0:32:22.839000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:22.839000" end="0:32:23.221000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:22.839000" end="0:32:23.221000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:32:22.839000	0:32:23.221000
 .	-	-	-	0:32:22.839000	0:32:23.221000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:22.839000" end="0:32:24.100000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:22.839000" end="0:32:24.100000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:32:22.839000	0:32:23.221000
 Hüttschlagerisch	-	-	-	0:32:23.221000	0:32:24.100000
 ,	-	-	-	0:32:23.221000	0:32:24.100000
 ja	-	-	-	0:32:23.221000	0:32:24.100000
 .	-	-	-	0:32:23.221000	0:32:24.100000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:24.100000" end="0:32:26.986000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:24.100000" end="0:32:26.986000" age_lower="1" age_upper="999">
 und	-	-	-	0:32:24.100000	0:32:24.802000
 finden	-	-	-	0:32:24.100000	0:32:24.802000
 Sie	-	-	-	0:32:24.100000	0:32:24.802000
@@ -8211,7 +8211,7 @@ angemessen	-	-	-	0:32:24.802000	0:32:26.986000
 war	-	-	-	0:32:24.802000	0:32:26.986000
 ?	-	-	-	0:32:24.802000	0:32:26.986000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:26.986000" end="0:32:35.151000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:26.986000" end="0:32:35.151000" project="PP03" age_lower="18" age_upper="35">
 besser	-	-	-	0:32:26.986000	0:32:28.668000
 wäre	-	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:32:26.986000	0:32:28.668000
 es	-	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:32:26.986000	0:32:28.668000
@@ -8239,18 +8239,18 @@ mehr	-	-	-	0:32:32.747000	0:32:35.151000
 Deutsch	-	-	-	0:32:32.747000	0:32:35.151000
 ,	-	-	-	0:32:32.747000	0:32:35.151000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:35.151000" end="0:32:35.970000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:35.151000" end="0:32:35.970000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:32:35.151000	0:32:35.970000
 .	-	-	-	0:32:35.151000	0:32:35.970000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:35.151000" end="0:32:39.543000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:35.151000" end="0:32:39.543000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:32:35.151000	0:32:35.970000
 <pause duration="1,1s"/>
 <pause duration="1,4s"/>
 naja	-	-	-	0:32:39.089000	0:32:39.543000
 .	-	-	-	0:32:39.089000	0:32:39.543000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:39.543000" end="0:32:47.175000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:39.543000" end="0:32:47.175000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 hat	-	-	-	0:32:40.782000	0:32:45.001000
 sich	-	-	-	0:32:40.782000	0:32:45.001000
@@ -8272,7 +8272,7 @@ der	-	-	-	0:32:45.001000	0:32:46.141000
 Lehrzeit	-	-	-	0:32:46.141000	0:32:47.175000
 ?	-	-	-	0:32:46.141000	0:32:47.175000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:46.141000" end="0:32:51.536000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:46.141000" end="0:32:51.536000" project="PP03" age_lower="18" age_upper="35">
 durch	-	-	-	0:32:46.141000	0:32:47.175000
 das	-	-	-	0:32:46.141000	0:32:47.175000
 ,	-	-	-	0:32:46.141000	0:32:47.175000
@@ -8292,11 +8292,11 @@ extrem	-	-	-	0:32:49.834000	0:32:51.536000
 nein	-	-	-	0:32:49.834000	0:32:51.536000
 .	-	-	-	0:32:49.834000	0:32:51.536000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:51.536000" end="0:32:52.217000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:51.536000" end="0:32:52.217000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:32:51.536000	0:32:52.217000
 .	-	-	-	0:32:51.536000	0:32:52.217000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:52.217000" end="0:33:04.511000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:52.217000" end="0:33:04.511000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:32:52.217000	0:32:52.960000
 wenn	-	-	-	0:32:52.217000	0:32:52.960000
 ich	-	-	-	0:32:52.217000	0:32:52.960000
@@ -8345,11 +8345,11 @@ noch	-	-	-	0:33:02.942000	0:33:04.511000
 gleich	-	-	-	0:33:02.942000	0:33:04.511000
 ,	-	-	-	0:33:02.942000	0:33:04.511000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:04.511000" end="0:33:05.157000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:04.511000" end="0:33:05.157000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:04.511000	0:33:05.157000
 .	-	-	-	0:33:04.511000	0:33:05.157000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:04.511000" end="0:33:16.089000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:04.511000" end="0:33:16.089000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:33:04.511000	0:33:05.157000
 es	-	-	-	0:33:04.511000	0:33:05.157000
 ist	-	-	-	0:33:04.511000	0:33:05.157000
@@ -8393,11 +8393,11 @@ schwer	-	-	-	0:33:13.115000	0:33:16.089000
 los	-	-	-	0:33:13.115000	0:33:16.089000
 .	-	-	-	0:33:13.115000	0:33:16.089000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:16.089000" end="0:33:16.582000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:16.089000" end="0:33:16.582000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:16.089000	0:33:16.582000
 .	-	-	-	0:33:16.089000	0:33:16.582000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:16.089000" end="0:33:27.142000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:16.089000" end="0:33:27.142000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:33:16.089000	0:33:16.582000
 <pause duration="0,7s"/>
 der	-	-	-	0:33:16.582000	0:33:18.474000
@@ -8435,11 +8435,11 @@ in	-	-	-	0:33:26.041000	0:33:27.142000
 Innsbruck	-	-	-	0:33:26.041000	0:33:27.142000
 oder	-	-	-	0:33:26.041000	0:33:27.142000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:27.142000" end="0:33:27.788000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:27.142000" end="0:33:27.788000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:27.142000	0:33:27.788000
 .	-	-	-	0:33:27.142000	0:33:27.788000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:27.142000" end="0:33:33.977000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:27.142000" end="0:33:33.977000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:33:27.142000	0:33:27.788000
 ,	-	-	-	0:33:27.142000	0:33:27.788000
 also	-	-	-	0:33:27.142000	0:33:27.788000
@@ -8454,21 +8454,21 @@ teilweise	-	-	-	0:33:27.788000	0:33:33.977000
 anders	-	-	-	0:33:27.788000	0:33:33.977000
 ,	-	-	-	0:33:27.788000	0:33:33.977000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:33.977000" end="0:33:34.508000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:33.977000" end="0:33:34.508000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:33.977000	0:33:34.508000
 .	-	-	-	0:33:33.977000	0:33:34.508000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:33.977000" end="0:33:36.241000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:33.977000" end="0:33:36.241000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:33:33.977000	0:33:34.508000
 bisschen	-	-	-	0:33:34.508000	0:33:36.241000
 österreichischer	-	-	-	0:33:34.508000	0:33:36.241000
 ,	-	-	-	0:33:34.508000	0:33:36.241000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:36.241000" end="0:33:36.711000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:36.241000" end="0:33:36.711000" age_lower="1" age_upper="999">
 ja	-	-	-	0:33:36.241000	0:33:36.711000
 .	-	-	-	0:33:36.241000	0:33:36.711000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:36.241000" end="0:33:39.567000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:36.241000" end="0:33:39.567000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:33:36.241000	0:33:36.711000
 im	-	-	-	0:33:36.241000	0:33:36.711000
 Grunde	-	-	-	0:33:36.710000	0:33:36.987000
@@ -8487,7 +8487,7 @@ sind	-	-	-	0:33:38.229000	0:33:39.158000
 ,	-	-	-	0:33:38.229000	0:33:39.158000
 dann	-	-	-	0:33:39.158000	0:33:39.567000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:39.567000" end="0:33:41.053000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:39.567000" end="0:33:41.053000" age_lower="1" age_upper="999">
 kommt	-	-	-	0:33:39.567000	0:33:39.997000
 es	-	-	-	0:33:39.567000	0:33:39.997000
 wieder	-	-	-	0:33:39.997000	0:33:41.053000
@@ -8496,18 +8496,18 @@ durch	-	-	-	0:33:39.997000	0:33:41.053000
 mhm	-	-	-	0:33:39.997000	0:33:41.053000
 .	-	-	-	0:33:39.997000	0:33:41.053000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:39.997000" end="0:33:41.053000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:39.997000" end="0:33:41.053000" project="PP03" age_lower="18" age_upper="35">
 kommt	-	-	-	0:33:39.997000	0:33:41.053000
 es	-	-	-	0:33:39.997000	0:33:41.053000
 immer	-	-	-	0:33:39.997000	0:33:41.053000
 wieder	-	-	-	0:33:39.997000	0:33:41.053000
 durch	-	-	-	0:33:39.997000	0:33:41.053000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:41.053000" end="0:33:41.359000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:41.053000" end="0:33:41.359000" age_lower="1" age_upper="999">
 ja	-	-	-	0:33:41.053000	0:33:41.359000
 .	-	-	-	0:33:41.053000	0:33:41.359000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:41.053000" end="0:33:43.258000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:41.053000" end="0:33:43.258000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:41.053000	0:33:41.359000
 ,	-	-	-	0:33:41.053000	0:33:41.359000
 es	-	-	-	0:33:41.359000	0:33:43.258000
@@ -8519,7 +8519,7 @@ ja	-	-	-	0:33:41.359000	0:33:43.258000
 mhm	-	-	-	0:33:41.359000	0:33:43.258000
 .	-	-	-	0:33:41.359000	0:33:43.258000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:43.258000" end="0:33:47.562000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:43.258000" end="0:33:47.562000" age_lower="1" age_upper="999">
 <pause duration="1,4s"/>
 und	-	-	-	0:33:44.656000	0:33:46.340000
 dann	-	-	-	0:33:44.656000	0:33:46.340000
@@ -8531,11 +8531,11 @@ ins	-	-	-	0:33:44.656000	0:33:46.340000
 Berufsleben	-	-	-	0:33:46.340000	0:33:47.562000
 ,	-	-	-	0:33:46.340000	0:33:47.562000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:46.340000" end="0:33:47.562000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:46.340000" end="0:33:47.562000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:33:46.340000	0:33:47.562000
 .	-	-	-	0:33:46.340000	0:33:47.562000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:47.562000" end="0:33:50.888000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:47.562000" end="0:33:50.888000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 würden	-	-	-	0:33:47.562000	0:33:48.734000
 Sie	-	-	-	0:33:47.562000	0:33:48.734000
@@ -8551,7 +8551,7 @@ hat	-	-	-	0:33:48.737000	0:33:50.888000
 oder	-	-	-	0:33:48.737000	0:33:50.888000
 /?	-	-	-	0:33:48.737000	0:33:50.888000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:50.888000" end="0:33:54.930000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:50.888000" end="0:33:54.930000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:33:50.888000	0:33:52.888000
 eher	-	-	-	0:33:50.888000	0:33:52.888000
 dann	-	-	-	0:33:50.888000	0:33:52.888000
@@ -8567,11 +8567,11 @@ ins	-	-	-	0:33:52.888000	0:33:54.930000
 Österreichische	-	-	-	0:33:52.888000	0:33:54.930000
 .	-	-	-	0:33:52.888000	0:33:54.930000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:54.930000" end="0:33:55.292000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:54.930000" end="0:33:55.292000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:54.930000	0:33:55.292000
 .	-	-	-	0:33:54.930000	0:33:55.292000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:55.292000" end="0:34:03.563000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:55.292000" end="0:34:03.563000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:33:56.121000	0:33:58.385000
 wieder	-	-	-	0:33:56.121000	0:33:58.385000
 ein	-	-	DIM	0:33:56.121000	0:33:58.385000
@@ -8597,22 +8597,22 @@ und	-	-	-	0:33:58.385000	0:34:03.563000
 abstellen	-	-	-	0:33:58.385000	0:34:03.563000
 ,	-	-	-	0:33:58.385000	0:34:03.563000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:03.563000" end="0:34:03.898000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:03.563000" end="0:34:03.898000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:03.563000	0:34:03.898000
 .	-	-	-	0:34:03.563000	0:34:03.898000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:03.563000" end="0:34:04.865000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:03.563000" end="0:34:04.865000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:34:03.563000	0:34:03.898000
 ,	-	-	-	0:34:03.563000	0:34:03.898000
 aber	-	-	-	0:34:03.898000	0:34:04.865000
 ja	-	-	-	0:34:03.898000	0:34:04.865000
 .	-	-	-	0:34:03.898000	0:34:04.865000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:04.865000" end="0:34:05.390000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:04.865000" end="0:34:05.390000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:04.865000	0:34:05.390000
 .	-	-	-	0:34:04.865000	0:34:05.390000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:05.390000" end="0:34:08.141000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:05.390000" end="0:34:08.141000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:34:05.390000	0:34:08.141000
 ,	-	-	-	0:34:05.390000	0:34:08.141000
@@ -8626,13 +8626,13 @@ dann	-	-	-	0:34:05.390000	0:34:08.141000
 ja	-	-	-	0:34:05.390000	0:34:08.141000
 .	-	-	-	0:34:05.390000	0:34:08.141000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:08.141000" end="0:34:08.588000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:08.141000" end="0:34:08.588000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:08.141000	0:34:08.588000
 .	-	-	-	0:34:08.141000	0:34:08.588000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:08.588000" end="0:34:09.369000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:08.588000" end="0:34:09.369000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:09.369000" end="0:34:13.824000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:09.369000" end="0:34:13.824000" age_lower="1" age_upper="999">
 und	-	-	-	0:34:09.369000	0:34:13.824000
 sprechen	-	-	-	0:34:09.369000	0:34:13.824000
 Sie	-	-	-	0:34:09.369000	0:34:13.824000
@@ -8645,7 +8645,7 @@ als	-	-	-	0:34:09.369000	0:34:13.824000
 privat	-	-	-	0:34:09.369000	0:34:13.824000
 ?	-	-	-	0:34:09.369000	0:34:13.824000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:13.824000" end="0:34:26.574000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:13.824000" end="0:34:26.574000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	-	-	-	0:34:15.158000	0:34:15.969000
 schon	-	-	-	0:34:15.158000	0:34:15.969000
@@ -8680,11 +8680,11 @@ je	-	-	-	0:34:24.475000	0:34:26.574000
 nachdem	-	-	-	0:34:24.475000	0:34:26.574000
 ,	-	-	-	0:34:24.475000	0:34:26.574000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:26.574000" end="0:34:26.876000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:26.574000" end="0:34:26.876000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:26.574000	0:34:26.876000
 .	-	-	-	0:34:26.574000	0:34:26.876000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:26.574000" end="0:34:38.650000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:26.574000" end="0:34:38.650000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:34:26.574000	0:34:26.876000
 hat	-	-	-	0:34:26.574000	0:34:26.876000
 man	-	-	-	0:34:26.876000	0:34:29.967000
@@ -8723,18 +8723,18 @@ dem	-	-	-	0:34:34.504000	0:34:38.650000
 Tal	-	-	-	0:34:34.504000	0:34:38.650000
 ,	-	-	-	0:34:34.504000	0:34:38.650000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:38.650000" end="0:34:38.971000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:38.650000" end="0:34:38.971000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:38.650000	0:34:38.971000
 .	-	-	-	0:34:38.650000	0:34:38.971000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:38.650000" end="0:34:38.971000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:38.650000" end="0:34:38.971000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:34:38.650000	0:34:38.971000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:38.971000" end="0:34:39.777000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:38.971000" end="0:34:39.777000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:38.971000	0:34:39.777000
 .	-	-	-	0:34:38.971000	0:34:39.777000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:38.971000" end="0:34:45.969000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:38.971000" end="0:34:45.969000" project="PP03" age_lower="18" age_upper="35">
 unsere	-	-	-	0:34:38.971000	0:34:39.777000
 Freunde	-	-	-	0:34:38.971000	0:34:39.777000
 ,	-	-	-	0:34:38.971000	0:34:39.777000
@@ -8760,11 +8760,11 @@ kommt	-	-	-	0:34:44.572000	0:34:45.652000
 ,	-	-	-	0:34:44.572000	0:34:45.652000
 aber	-	-	-	0:34:45.652000	0:34:45.969000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:45.969000" end="0:34:46.520000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:45.969000" end="0:34:46.520000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:45.969000	0:34:46.520000
 .	-	-	-	0:34:45.969000	0:34:46.520000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:46.520000" end="0:34:49.918000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:46.520000" end="0:34:49.918000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 mit	-	-	-	0:34:47.485000	0:34:49.918000
 Kunden	-	-	-	0:34:47.485000	0:34:49.918000
@@ -8778,13 +8778,13 @@ schöner	-	-	-	0:34:47.485000	0:34:49.918000
 ja	-	-	-	0:34:47.485000	0:34:49.918000
 .	-	-	-	0:34:47.485000	0:34:49.918000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:49.918000" end="0:34:50.476000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:49.918000" end="0:34:50.476000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:49.918000	0:34:50.476000
 .	-	-	-	0:34:49.918000	0:34:50.476000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:50.476000" end="0:34:51.172000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:50.476000" end="0:34:51.172000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:51.172000" end="0:34:53.605000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:51.172000" end="0:34:53.605000" age_lower="1" age_upper="999">
 wie	-	-	-	0:34:51.172000	0:34:52.170000
 würden	-	-	-	0:34:51.172000	0:34:52.170000
 Sie	-	-	-	0:34:51.172000	0:34:52.170000
@@ -8798,36 +8798,36 @@ mir	-	-	-	0:34:52.170000	0:34:53.605000
 sprechen	-	-	-	0:34:52.170000	0:34:53.605000
 ?	-	-	-	0:34:52.170000	0:34:53.605000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:53.605000" end="0:34:54.126000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:53.605000" end="0:34:54.126000" project="PP03" age_lower="18" age_upper="35">
 schöner	-	-	-	0:34:53.605000	0:34:54.126000
 .	-	-	-	0:34:53.605000	0:34:54.126000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:54.126000" end="0:34:54.813000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:54.126000" end="0:34:54.813000" age_lower="1" age_upper="999">
 schöner	-	-	-	0:34:54.126000	0:34:54.813000
 .	-	-	-	0:34:54.126000	0:34:54.813000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:54.126000" end="0:34:54.813000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:54.126000" end="0:34:54.813000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:54.813000" end="0:34:56.351000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:54.813000" end="0:34:56.351000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:54.813000" end="0:34:56.351000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:54.813000" end="0:34:56.351000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:54.813000	0:34:56.351000
 .	-	-	-	0:34:54.813000	0:34:56.351000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:56.351000" end="0:34:56.802000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:56.351000" end="0:34:56.802000" age_lower="1" age_upper="999">
 also	-	-	-	0:34:56.351000	0:34:56.802000
 /.	-	-	-	0:34:56.351000	0:34:56.802000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:56.351000" end="0:34:57.335000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:56.351000" end="0:34:57.335000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:34:56.351000	0:34:56.802000
 schon	-	-	-	0:34:56.802000	0:34:57.335000
 fast	-	-	-	0:34:56.802000	0:34:57.335000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:57.335000" end="0:34:59.529000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:57.335000" end="0:34:59.529000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:57.335000	0:34:59.529000
 .	-	-	-	0:34:57.335000	0:34:59.529000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:57.335000" end="0:35:00.498000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:57.335000" end="0:35:00.498000" project="PP03" age_lower="18" age_upper="35">
 Österreichisch	-	-	-	0:34:57.335000	0:34:59.529000
 .	-	-	-	0:34:57.335000	0:34:59.529000
 also	-	-	-	0:34:59.529000	0:35:00.498000
@@ -8836,7 +8836,7 @@ schon	-	-	-	0:34:59.529000	0:35:00.498000
 ja	-	-	-	0:34:59.529000	0:35:00.498000
 .	-	-	-	0:34:59.529000	0:35:00.498000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:00.499000" end="0:35:02.450000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:00.499000" end="0:35:02.450000" age_lower="1" age_upper="999">
 und	-	-	-	0:35:00.499000	0:35:01.307000
 wie	-	-	-	0:35:00.499000	0:35:01.307000
 würden	-	-	-	0:35:00.499000	0:35:01.307000
@@ -8850,7 +8850,7 @@ Ihnen	-	-	-	0:35:01.307000	0:35:02.450000
 spreche	-	-	-	0:35:01.307000	0:35:02.450000
 ?	-	-	-	0:35:01.307000	0:35:02.450000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:02.451000" end="0:35:08.734000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:02.451000" end="0:35:08.734000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:35:02.451000	0:35:03.829000
 ähm	-	-	-	0:35:03.828000	0:35:06.750000
 eigentlich	-	-	-	0:35:03.828000	0:35:06.750000
@@ -8870,13 +8870,13 @@ schönes	-	-	-	0:35:06.751000	0:35:08.734000
 Österreichisch	-	-	-	0:35:06.751000	0:35:08.734000
 .	-	-	-	0:35:06.751000	0:35:08.734000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:08.735000" end="0:35:10.502000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:08.735000" end="0:35:10.502000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:08.735000	0:35:09.189000
 .	-	-	-	0:35:08.735000	0:35:09.189000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:09.189000" end="0:35:10.502000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:09.189000" end="0:35:10.502000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:10.503000" end="0:35:19.204000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:10.503000" end="0:35:19.204000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 verändert	-	-	-	0:35:11.685000	0:35:15.204000
 sich	-	-	-	0:35:11.685000	0:35:15.204000
@@ -8903,24 +8903,24 @@ anderen	-	-	-	0:35:17.204000	0:35:19.204000
 Sprachen	-	-	-	0:35:17.204000	0:35:19.204000
 ?	-	-	-	0:35:17.204000	0:35:19.204000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:19.204000" end="0:35:21.437000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:19.204000" end="0:35:21.437000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	-	-	-	0:35:19.204000	0:35:20.310000
 .	-	-	-	0:35:19.204000	0:35:20.310000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:21.437000" end="0:35:21.773000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:21.437000" end="0:35:21.773000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:21.437000	0:35:21.773000
 .	-	-	-	0:35:21.437000	0:35:21.773000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:21.773000" end="0:35:22.919000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:21.773000" end="0:35:22.919000" project="PP03" age_lower="18" age_upper="35">
 Österreichisch	-	-	-	0:35:21.773000	0:35:22.919000
 schon	-	-	-	0:35:21.773000	0:35:22.919000
 ,	-	-	-	0:35:21.773000	0:35:22.919000
 ja	-	-	-	0:35:21.773000	0:35:22.919000
 .	-	-	-	0:35:21.773000	0:35:22.919000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:22.919000" end="0:35:26.497000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:22.919000" end="0:35:26.497000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:22.919000	0:35:23.495000
 ,	-	-	-	0:35:22.919000	0:35:23.495000
 welche	-	-	-	0:35:23.495000	0:35:26.497000
@@ -8934,7 +8934,7 @@ einflussreich	-	-	-	0:35:23.495000	0:35:26.497000
 an	-	-	-	0:35:23.495000	0:35:26.497000
 ?	-	-	-	0:35:23.495000	0:35:26.497000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:26.497000" end="0:35:31.188000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:26.497000" end="0:35:31.188000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="seufzen"/>
 verschieden	-	-	-	0:35:26.497000	0:35:27.953000
 ,	-	-	-	0:35:26.497000	0:35:27.953000
@@ -8949,11 +8949,11 @@ Länder	-	-	-	0:35:27.953000	0:35:30.780000
 durch	-	-	-	0:35:30.780000	0:35:31.188000
 /.	-	-	-	0:35:30.780000	0:35:31.188000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:31.188000" end="0:35:31.762000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:31.188000" end="0:35:31.762000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:31.188000	0:35:31.762000
 .	-	-	-	0:35:31.188000	0:35:31.762000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:31.188000" end="0:35:37.362000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:31.188000" end="0:35:37.362000" project="PP03" age_lower="18" age_upper="35">
 puh	-	-	-	0:35:31.188000	0:35:31.762000
 .	-	-	-	0:35:31.188000	0:35:31.762000
 <pause duration="1,4s"/>
@@ -8971,7 +8971,7 @@ sich	-	-	-	0:35:33.839000	0:35:37.362000
 verändert	-	-	-	0:35:33.839000	0:35:37.362000
 .	-	-	-	0:35:33.839000	0:35:37.362000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:37.363000" end="0:35:44.831000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:37.363000" end="0:35:44.831000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 mhm	-	-	-	0:35:37.363000	0:35:38.775000
 .	-	-	-	0:35:37.363000	0:35:38.775000
@@ -8998,7 +8998,7 @@ das	-	-	-	0:35:41.673000	0:35:44.831000
 haben	-	-	-	0:35:41.673000	0:35:44.831000
 ?	-	-	-	0:35:41.673000	0:35:44.831000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:44.831000" end="0:35:58.378000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:44.831000" end="0:35:58.378000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ganz	-	-	-	0:35:46.341000	0:35:47.041000
 verschieden	-	-	-	0:35:46.341000	0:35:47.041000
@@ -9036,29 +9036,29 @@ so	-	-	-	0:35:56.569000	0:35:58.378000
 ein	-	-	-	0:35:56.569000	0:35:58.378000
 Tal	-	-	-	0:35:56.569000	0:35:58.378000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:58.379000" end="0:35:58.767000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:58.379000" end="0:35:58.767000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:58.379000	0:35:58.767000
 .	-	-	-	0:35:58.379000	0:35:58.767000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:58.379000" end="0:36:00.204000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:58.379000" end="0:36:00.204000" project="PP03" age_lower="18" age_upper="35">
 sind	-	-	-	0:35:58.379000	0:35:58.767000
 ,	-	-	-	0:35:58.379000	0:35:58.767000
 wo	-	-	-	0:35:58.767000	0:35:59.185000
 man	-	-	-	0:35:58.767000	0:35:59.185000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:00.204000" end="0:36:01.048000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:00.204000" end="0:36:01.048000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:00.204000" end="0:36:01.048000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:00.204000" end="0:36:01.048000" project="PP03" age_lower="18" age_upper="35">
 nirgends	-	-	-	0:36:00.204000	0:36:01.048000
 hin	-	-	-	0:36:00.204000	0:36:01.048000
 kann	-	-	-	0:36:00.204000	0:36:01.048000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:01.048000" end="0:36:01.597000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:01.048000" end="0:36:01.597000" age_lower="1" age_upper="999">
 ja	-	-	-	0:36:01.048000	0:36:01.597000
 .	-	-	-	0:36:01.048000	0:36:01.597000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:01.048000" end="0:36:02.767000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:01.048000" end="0:36:02.767000" project="PP03" age_lower="18" age_upper="35">
 sozusagen	-	-	-	0:36:01.048000	0:36:01.597000
 oder	-	-	-	0:36:01.597000	0:36:02.767000
 niemand	-	-	-	0:36:01.597000	0:36:02.767000
@@ -9067,11 +9067,11 @@ kann	-	-	-	0:36:01.597000	0:36:02.767000
 so	-	-	-	0:36:01.597000	0:36:02.767000
 ,	-	-	-	0:36:01.597000	0:36:02.767000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:02.767000" end="0:36:03.321000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:02.767000" end="0:36:03.321000" age_lower="1" age_upper="999">
 ja	-	-	-	0:36:02.767000	0:36:03.321000
 .	-	-	-	0:36:02.767000	0:36:03.321000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:02.767000" end="0:36:09.655000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:02.767000" end="0:36:09.655000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:36:02.767000	0:36:03.321000
 geht	-	-	-	0:36:02.767000	0:36:03.321000
 keine	-	-	-	0:36:02.767000	0:36:03.321000
@@ -9096,11 +9096,11 @@ eher	-	-	-	0:36:07.603000	0:36:09.655000
 weniger	-	-	-	0:36:07.603000	0:36:09.655000
 verändert	-	-	-	0:36:07.603000	0:36:09.655000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:09.655000" end="0:36:10.119000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:09.655000" end="0:36:10.119000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:09.655000	0:36:10.119000
 .	-	-	-	0:36:09.655000	0:36:10.119000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:09.655000" end="0:36:10.974000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:09.655000" end="0:36:10.974000" project="PP03" age_lower="18" age_upper="35">
 als	-	-	-	0:36:09.655000	0:36:10.119000
 als	-	-	-	0:36:10.119000	0:36:10.974000
 in	-	-	-	0:36:10.119000	0:36:10.974000
@@ -9108,12 +9108,12 @@ einer	-	-	-	0:36:10.119000	0:36:10.974000
 Stadt	-	-	-	0:36:10.119000	0:36:10.974000
 .	-	-	-	0:36:10.119000	0:36:10.974000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:10.973000" end="0:36:11.511000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:10.973000" end="0:36:11.511000" age_lower="1" age_upper="999">
 (soll	-	-	-	0:36:10.973000	0:36:11.511000
 ich)	-	-	-	0:36:10.973000	0:36:11.511000
 ?	-	-	-	0:36:10.973000	0:36:11.511000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:10.973000" end="0:36:12.163000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:10.973000" end="0:36:12.163000" project="PP03" age_lower="18" age_upper="35">
 passt	-	-	-	0:36:10.973000	0:36:11.511000
 schon	-	-	-	0:36:10.973000	0:36:11.511000
 .	-	-	-	0:36:10.973000	0:36:11.511000
@@ -9123,18 +9123,18 @@ schon	-	-	-	0:36:11.511000	0:36:12.163000
 danke	-	-	-	0:36:11.511000	0:36:12.163000
 .	-	-	-	0:36:11.511000	0:36:12.163000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:12.165000" end="0:36:13.696000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:12.165000" end="0:36:13.696000" age_lower="1" age_upper="999">
 okay	-	-	-	0:36:12.165000	0:36:12.615000
 .	-	-	-	0:36:12.165000	0:36:12.615000
 <pause duration="0,7s"/>
 mhm	-	-	-	0:36:12.615000	0:36:13.696000
 .	-	-	-	0:36:12.615000	0:36:13.696000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:13.696000" end="0:36:14.209000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:13.696000" end="0:36:14.209000" project="PP03" age_lower="18" age_upper="35">
 naja	-	-	-	0:36:13.696000	0:36:14.209000
 .	-	-	-	0:36:13.696000	0:36:14.209000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:14.209000" end="0:36:23.718000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:14.209000" end="0:36:23.718000" age_lower="1" age_upper="999">
 aber	-	-	-	0:36:14.209000	0:36:16.838000
 so	-	-	-	0:36:14.209000	0:36:16.838000
 auf	-	-	-	0:36:14.209000	0:36:16.838000
@@ -9171,15 +9171,15 @@ das	-	-	-	0:36:23.056000	0:36:23.718000
 hat	-	-	-	0:36:23.056000	0:36:23.718000
 bestimmt	-	-	-	0:36:23.056000	0:36:23.718000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:23.056000" end="0:36:23.718000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:23.056000" end="0:36:23.718000" project="PP03" age_lower="18" age_upper="35">
 (nein)	-	-	-	0:36:23.056000	0:36:23.718000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:23.719000" end="0:36:24.643000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:23.719000" end="0:36:24.643000" age_lower="1" age_upper="999">
 einen	-	-	-	0:36:23.719000	0:36:23.883000
 Einfluss"	-	-	-	0:36:23.883000	0:36:24.643000
 ?	-	-	-	0:36:23.883000	0:36:24.643000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:23.883000" end="0:36:25.890000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:23.883000" end="0:36:25.890000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:36:23.883000	0:36:24.643000
 könnte	-	-	-	0:36:23.883000	0:36:24.643000
 ich	-	-	-	0:36:24.643000	0:36:25.890000
@@ -9190,7 +9190,7 @@ sagen	-	-	-	0:36:24.643000	0:36:25.890000
 nein	-	-	-	0:36:24.643000	0:36:25.890000
 .	-	-	-	0:36:24.643000	0:36:25.890000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:25.891000" end="0:36:32.855000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:25.891000" end="0:36:32.855000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:25.891000	0:36:26.381000
 .	-	-	-	0:36:25.891000	0:36:26.381000
 wenn	-	-	-	0:36:26.381000	0:36:29.005000
@@ -9220,7 +9220,7 @@ Einfluss	-	-	-	0:36:30.321000	0:36:32.855000
 hat	-	-	-	0:36:30.321000	0:36:32.855000
 ?	-	-	-	0:36:30.321000	0:36:32.855000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:32.855000" end="0:36:39.597000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:32.855000" end="0:36:39.597000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:36:32.855000	0:36:34.063000
 Englische	-	-	-	0:36:32.855000	0:36:34.063000
 .	-	-	-	0:36:32.855000	0:36:34.063000
@@ -9231,7 +9231,7 @@ hm	-	-	-	0:36:35.617000	0:36:36.125000
 .	-	-	-	0:36:35.617000	0:36:36.125000
 <pause duration="3,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:39.597000" end="0:36:42.329000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:39.597000" end="0:36:42.329000" age_lower="1" age_upper="999">
 das	-	-	-	0:36:39.597000	0:36:41.291000
 würden	-	-	-	0:36:39.597000	0:36:41.291000
 Sie	-	-	-	0:36:39.597000	0:36:41.291000
@@ -9244,11 +9244,11 @@ feststellen	-	-	-	0:36:41.291000	0:36:42.329000
 jetzt	-	-	-	0:36:41.291000	0:36:42.329000
 ?	-	-	-	0:36:41.291000	0:36:42.329000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:41.291000" end="0:36:42.329000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:41.291000" end="0:36:42.329000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:36:41.291000	0:36:42.329000
 .	-	-	-	0:36:41.291000	0:36:42.329000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:42.329000" end="0:36:56.475000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:42.329000" end="0:36:56.475000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:42.329000	0:36:42.671000
 .	-	-	-	0:36:42.329000	0:36:42.671000
 <pause duration="2,5s"/>
@@ -9292,25 +9292,25 @@ historisch	-	-	-	0:36:55.185000	0:36:56.475000
 gesehen	-	-	-	0:36:55.185000	0:36:56.475000
 ?	-	-	-	0:36:55.185000	0:36:56.475000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:56.475000" end="0:36:59.817000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:56.475000" end="0:36:59.817000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 puh	-	-	-	0:36:58.289000	0:36:58.619000
 .	-	-	-	0:36:58.289000	0:36:58.619000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:59.817000" end="0:37:00.113000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:59.817000" end="0:37:00.113000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:00.115000" end="0:37:03.817000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:00.115000" end="0:37:03.817000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 keine	-	-	-	0:37:02.966000	0:37:03.817000
 Ahnung	-	-	-	0:37:02.966000	0:37:03.817000
 .	-	-	-	0:37:02.966000	0:37:03.817000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:03.817000" end="0:37:04.620000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:03.817000" end="0:37:04.620000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:03.817000	0:37:04.620000
 .	-	-	-	0:37:03.817000	0:37:04.620000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:04.620000" end="0:37:12.422000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:04.620000" end="0:37:12.422000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 hm	-	-	-	0:37:04.620000	0:37:05.846000
 .	-	-	-	0:37:04.620000	0:37:05.846000
@@ -9322,7 +9322,7 @@ puh	-	-	-	0:37:10.332000	0:37:12.422000
 schwierig	-	-	-	0:37:10.332000	0:37:12.422000
 .	-	-	-	0:37:10.332000	0:37:12.422000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:12.423000" end="0:37:16.617000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:12.423000" end="0:37:16.617000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:12.423000	0:37:12.977000
 .	-	-	-	0:37:12.423000	0:37:12.977000
 <pause duration="2,7s"/>
@@ -9332,22 +9332,22 @@ wir	-	-	-	0:37:15.683000	0:37:16.091000
 weiter	-	-	-	0:37:16.091000	0:37:16.617000
 .	-	-	-	0:37:16.091000	0:37:16.617000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:16.091000" end="0:37:16.617000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:16.091000" end="0:37:16.617000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:16.617000" end="0:37:17.602000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:16.617000" end="0:37:17.602000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:16.617000" end="0:37:17.602000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:16.617000" end="0:37:17.602000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:37:16.617000	0:37:17.602000
 .	-	-	-	0:37:16.617000	0:37:17.602000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:17.602000" end="0:37:19.602000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:17.602000" end="0:37:19.602000" age_lower="1" age_upper="999">
 haben	-	-	-	0:37:17.602000	0:37:19.602000
 Sie	-	-	-	0:37:17.602000	0:37:19.602000
 eine	-	-	-	0:37:17.602000	0:37:19.602000
 Lieblingszeitung	-	-	-	0:37:17.602000	0:37:19.602000
 ?	-	-	-	0:37:17.602000	0:37:19.602000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:19.603000" end="0:37:24.761000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:19.603000" end="0:37:24.761000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 Zeitung	-	-	-	0:37:19.603000	0:37:20.858000
 ,	-	-	-	0:37:19.603000	0:37:20.858000
@@ -9359,17 +9359,17 @@ das	-	-	-	0:37:20.859000	0:37:24.761000
 "Bezirksblatt"	-	-	-	0:37:20.859000	0:37:24.761000
 .	-	-	-	0:37:20.859000	0:37:24.761000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:24.761000" end="0:37:25.342000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:24.761000" end="0:37:25.342000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:24.761000	0:37:25.342000
 .	-	-	-	0:37:24.761000	0:37:25.342000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:24.761000" end="0:37:25.342000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:24.761000" end="0:37:25.342000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:25.343000" end="0:37:26.776000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:25.343000" end="0:37:26.776000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:25.343000" end="0:37:26.776000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:25.343000" end="0:37:26.776000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:26.776000" end="0:37:29.108000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:26.776000" end="0:37:29.108000" age_lower="1" age_upper="999">
 und	-	-	-	0:37:26.776000	0:37:29.108000
 eine	-	-	-	0:37:26.776000	0:37:29.108000
 Lieblingssendung	-	-	-	0:37:26.776000	0:37:29.108000
@@ -9377,7 +9377,7 @@ im	-	-	-	0:37:26.776000	0:37:29.108000
 Fernsehen	-	-	-	0:37:26.776000	0:37:29.108000
 ?	-	-	-	0:37:26.776000	0:37:29.108000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:29.108000" end="0:37:34.482000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:29.108000" end="0:37:34.482000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:37:29.108000	0:37:30.122000
 momentan	-	-	-	0:37:30.123000	0:37:34.482000
 <pause duration="0,7s"/>
@@ -9387,7 +9387,7 @@ TV"	-	-	IRR	0:37:30.123000	0:37:34.482000
 allgemein	-	-	-	0:37:30.123000	0:37:34.482000
 .	-	-	-	0:37:30.123000	0:37:34.482000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:34.483000" end="0:37:38.409000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:34.483000" end="0:37:38.409000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:34.483000	0:37:34.913000
 .	-	-	-	0:37:34.483000	0:37:34.913000
 <pause duration="1,0s"/>
@@ -9403,7 +9403,7 @@ gern	-	-	-	0:37:37.331000	0:37:38.409000
 an	-	-	-	0:37:37.331000	0:37:38.409000
 ?	-	-	-	0:37:37.331000	0:37:38.409000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:37.331000" end="0:37:41.459000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:37.331000" end="0:37:41.459000" project="PP03" age_lower="18" age_upper="35">
 verschieden	-	-	-	0:37:37.331000	0:37:38.409000
 ,	-	-	-	0:37:37.331000	0:37:38.409000
 also	-	-	-	0:37:37.331000	0:37:38.409000
@@ -9423,11 +9423,11 @@ oder	-	-	-	0:37:40.773000	0:37:41.459000
 auch	-	-	-	0:37:40.773000	0:37:41.459000
 so	-	-	-	0:37:40.773000	0:37:41.459000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:41.459000" end="0:37:42.713000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:41.459000" end="0:37:42.713000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:41.459000	0:37:42.713000
 .	-	-	-	0:37:41.459000	0:37:42.713000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:41.459000" end="0:37:43.423000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:41.459000" end="0:37:43.423000" project="PP03" age_lower="18" age_upper="35">
 Dokumentationen	-	-	-	0:37:41.459000	0:37:42.713000
 ,	-	-	-	0:37:41.459000	0:37:42.713000
 also	-	-	-	0:37:41.459000	0:37:42.713000
@@ -9437,7 +9437,7 @@ her	-	-	-	0:37:42.713000	0:37:43.423000
 ist	-	-	-	0:37:42.713000	0:37:43.423000
 /.	-	-	-	0:37:42.713000	0:37:43.423000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:43.423000" end="0:37:46.664000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:43.423000" end="0:37:46.664000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 wie	-	-	-	0:37:43.423000	0:37:46.664000
 kommen	-	-	-	0:37:43.423000	0:37:46.664000
@@ -9449,7 +9449,7 @@ neuesten	-	-	-	0:37:43.423000	0:37:46.664000
 Nachrichten	-	-	-	0:37:43.423000	0:37:46.664000
 ?	-	-	-	0:37:43.423000	0:37:46.664000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:46.664000" end="0:37:49.722000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:46.664000" end="0:37:49.722000" project="PP03" age_lower="18" age_upper="35">
 Nachrichten	-	-	-	0:37:46.664000	0:37:48.440000
 eigentlich	-	-	-	0:37:46.664000	0:37:48.440000
 durch	-	-	-	0:37:46.664000	0:37:48.440000
@@ -9459,15 +9459,15 @@ durchs	-	-	-	0:37:48.440000	0:37:49.722000
 Internet	-	-	-	0:37:48.440000	0:37:49.722000
 .	-	-	-	0:37:48.440000	0:37:49.722000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:49.723000" end="0:37:50.109000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:49.723000" end="0:37:50.109000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:49.723000	0:37:50.109000
 .	-	-	-	0:37:49.723000	0:37:50.109000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:50.109000" end="0:37:50.602000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:50.109000" end="0:37:50.602000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:37:50.109000	0:37:50.602000
 .	-	-	-	0:37:50.109000	0:37:50.602000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:50.602000" end="0:37:53.405000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:50.602000" end="0:37:53.405000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 über	-	-	-	0:37:50.602000	0:37:52.441000
 welche	-	-	-	0:37:50.602000	0:37:52.441000
@@ -9476,7 +9476,7 @@ zum	-	-	-	0:37:52.441000	0:37:53.405000
 Beispiel	-	-	-	0:37:52.441000	0:37:53.405000
 ?	-	-	-	0:37:52.441000	0:37:53.405000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:52.441000" end="0:37:56.294000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:52.441000" end="0:37:56.294000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:37:52.441000	0:37:53.405000
 speziell	-	-	-	0:37:53.405000	0:37:56.294000
 bei	-	-	-	0:37:53.405000	0:37:56.294000
@@ -9486,11 +9486,11 @@ für	-	-	-	0:37:53.405000	0:37:56.294000
 vierundzwanzig"	-	-	-	0:37:53.405000	0:37:56.294000
 zum	-	-	-	0:37:53.405000	0:37:56.294000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:56.295000" end="0:37:56.890000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:56.295000" end="0:37:56.890000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:56.295000	0:37:56.890000
 .	-	-	-	0:37:56.295000	0:37:56.890000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:56.295000" end="0:37:58.677000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:56.295000" end="0:37:58.677000" project="PP03" age_lower="18" age_upper="35">
 Beispiel	-	-	-	0:37:56.295000	0:37:56.890000
 ,	-	-	-	0:37:56.295000	0:37:56.890000
 das	-	-	-	0:37:56.891000	0:37:58.677000
@@ -9501,13 +9501,13 @@ regionalen	-	-	-	0:37:56.891000	0:37:58.677000
 Nachrichten	-	-	-	0:37:56.891000	0:37:58.677000
 .	-	-	-	0:37:56.891000	0:37:58.677000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:58.677000" end="0:37:59.687000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:58.677000" end="0:37:59.687000" age_lower="1" age_upper="999">
 okay	-	-	-	0:37:58.677000	0:37:59.687000
 ,	-	-	-	0:37:58.677000	0:37:59.687000
 ja	-	-	-	0:37:58.677000	0:37:59.687000
 .	-	-	-	0:37:58.677000	0:37:59.687000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:58.677000" end="0:38:03.312000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:58.677000" end="0:38:03.312000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:37:58.677000	0:37:59.687000
 ansonsten	-	-	-	0:37:58.677000	0:37:59.687000
 ähm	-	-	-	0:37:59.687000	0:38:01.777000
@@ -9527,40 +9527,40 @@ lese	-	-	-	0:38:01.777000	0:38:03.312000
 ich	-	-	-	0:38:01.777000	0:38:03.312000
 nicht	-	-	-	0:38:01.777000	0:38:03.312000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:03.312000" end="0:38:04.138000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:03.312000" end="0:38:04.138000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:03.312000	0:38:04.138000
 .	-	-	-	0:38:03.312000	0:38:04.138000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:03.312000" end="0:38:04.989000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:03.312000" end="0:38:04.989000" project="PP03" age_lower="18" age_upper="35">
 unbedingt	-	-	-	0:38:03.312000	0:38:04.138000
 .	-	-	-	0:38:03.312000	0:38:04.138000
 <pause duration="0,5s"/>
 ja	-	-	-	0:38:04.139000	0:38:04.989000
 .	-	-	-	0:38:04.139000	0:38:04.989000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:04.989000" end="0:38:06.066000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:04.989000" end="0:38:06.066000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:04.989000" end="0:38:06.066000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:04.989000" end="0:38:06.066000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:06.067000" end="0:38:07.681000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:06.067000" end="0:38:07.681000" age_lower="1" age_upper="999">
 und	-	-	-	0:38:06.067000	0:38:07.077000
 übers	-	-	-	0:38:06.067000	0:38:07.077000
 Radio	-	-	-	0:38:06.067000	0:38:07.077000
 oder	-	-	-	0:38:07.077000	0:38:07.681000
 /?	-	-	-	0:38:07.077000	0:38:07.681000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:07.077000" end="0:38:07.681000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:07.077000" end="0:38:07.681000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:07.077000	0:38:07.681000
 ,	-	-	-	0:38:07.077000	0:38:07.681000
 Radio	-	-	-	0:38:07.077000	0:38:07.681000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:07.681000" end="0:38:08.322000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:07.681000" end="0:38:08.322000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:07.681000	0:38:08.322000
 .	-	-	-	0:38:07.681000	0:38:08.322000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:07.681000" end="0:38:09.098000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:07.681000" end="0:38:09.098000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:38:07.681000	0:38:08.322000
 ,	-	-	-	0:38:07.681000	0:38:08.322000
 genau	-	-	-	0:38:07.681000	0:38:08.322000
@@ -9568,11 +9568,11 @@ genau	-	-	-	0:38:07.681000	0:38:08.322000
 "Ö	-	-	-	0:38:08.323000	0:38:09.098000
 drei"	-	-	-	0:38:08.323000	0:38:09.098000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:09.099000" end="0:38:09.815000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:09.099000" end="0:38:09.815000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:09.099000	0:38:09.815000
 .	-	-	-	0:38:09.099000	0:38:09.815000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:09.099000" end="0:38:14.204000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:09.099000" end="0:38:14.204000" project="PP03" age_lower="18" age_upper="35">
 läuft	-	-	-	0:38:09.099000	0:38:09.815000
 den	-	-	-	0:38:09.815000	0:38:10.537000
 ganzen	-	-	-	0:38:09.815000	0:38:10.537000
@@ -9592,25 +9592,25 @@ sozusagen	-	-	-	0:38:10.537000	0:38:14.204000
 ja	-	-	-	0:38:10.537000	0:38:14.204000
 .	-	-	-	0:38:10.537000	0:38:14.204000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:14.204000" end="0:38:15.184000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:14.204000" end="0:38:15.184000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 ja	-	-	-	0:38:14.204000	0:38:15.184000
 .	-	-	-	0:38:14.204000	0:38:15.184000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:15.184000" end="0:38:16.277000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:15.184000" end="0:38:16.277000" project="PP03" age_lower="18" age_upper="35">
 alles	-	-	-	0:38:15.184000	0:38:16.277000
 ein	-	-	DIM	0:38:15.184000	0:38:16.277000
 bisschen	-	-	DIM	0:38:15.184000	0:38:16.277000
 gemischt	-	-	-	0:38:15.184000	0:38:16.277000
 .	-	-	-	0:38:15.184000	0:38:16.277000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:16.277000" end="0:38:16.667000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:16.277000" end="0:38:16.667000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:16.277000	0:38:16.667000
 .	-	-	-	0:38:16.277000	0:38:16.667000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:16.667000" end="0:38:17.121000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:16.667000" end="0:38:17.121000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:17.121000" end="0:38:18.151000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:17.121000" end="0:38:18.151000" age_lower="1" age_upper="999">
 was	-	-	-	0:38:17.121000	0:38:18.151000
 haben	-	-	-	0:38:17.121000	0:38:18.151000
 Sie	-	-	-	0:38:17.121000	0:38:18.151000
@@ -9618,7 +9618,7 @@ für	-	-	-	0:38:17.121000	0:38:18.151000
 Hobbys	-	-	-	0:38:17.121000	0:38:18.151000
 ?	-	-	-	0:38:17.121000	0:38:18.151000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:18.151000" end="0:38:21.157000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:18.151000" end="0:38:21.157000" project="PP03" age_lower="18" age_upper="35">
 Hobbys	-	-	-	0:38:18.151000	0:38:20.393000
 ähm	-	-	-	0:38:18.151000	0:38:20.393000
 puh	-	-	-	0:38:18.151000	0:38:20.393000
@@ -9626,22 +9626,22 @@ puh	-	-	-	0:38:18.151000	0:38:20.393000
 Sport	-	-	-	0:38:20.393000	0:38:21.157000
 ,	-	-	-	0:38:20.393000	0:38:21.157000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:21.157000" end="0:38:21.993000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:21.157000" end="0:38:21.993000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:21.157000	0:38:21.993000
 .	-	-	-	0:38:21.157000	0:38:21.993000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:21.157000" end="0:38:23.052000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:21.157000" end="0:38:23.052000" project="PP03" age_lower="18" age_upper="35">
 Wandern	-	-	-	0:38:21.157000	0:38:21.993000
 ,	-	-	-	0:38:21.157000	0:38:21.993000
 Radfahren	-	-	-	0:38:21.993000	0:38:23.052000
 ,	-	-	-	0:38:21.993000	0:38:23.052000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:23.052000" end="0:38:23.866000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:23.052000" end="0:38:23.866000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 ja	-	-	-	0:38:23.052000	0:38:23.866000
 .	-	-	-	0:38:23.052000	0:38:23.866000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:23.867000" end="0:38:28.515000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:23.867000" end="0:38:28.515000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	-	-	-	0:38:24.863000	0:38:26.758000
 Schifahren	-	-	-	0:38:24.863000	0:38:26.758000
@@ -9650,18 +9650,18 @@ Winter	-	-	-	0:38:24.863000	0:38:26.758000
 ,	-	-	-	0:38:24.863000	0:38:26.758000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:28.515000" end="0:38:28.865000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:28.515000" end="0:38:28.865000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:38:28.515000	0:38:28.865000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:28.515000" end="0:38:28.865000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:28.515000" end="0:38:28.865000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:28.515000	0:38:28.865000
 .	-	-	-	0:38:28.515000	0:38:28.865000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:28.864000" end="0:38:31.205000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:28.864000" end="0:38:31.205000" age_lower="1" age_upper="999">
 sportlich	-	-	-	0:38:28.864000	0:38:29.575000
 .	-	-	-	0:38:28.864000	0:38:29.575000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:29.575000" end="0:38:32.110000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:29.575000" end="0:38:32.110000" project="PP03" age_lower="18" age_upper="35">
 naja	-	-	-	0:38:29.575000	0:38:31.205000
 ,	-	-	-	0:38:29.575000	0:38:31.205000
 verschieden	-	-	-	0:38:31.205000	0:38:32.110000
@@ -9669,28 +9669,28 @@ verschieden	-	-	-	0:38:31.205000	0:38:32.110000
 ja	-	-	-	0:38:31.205000	0:38:32.110000
 .	-	-	-	0:38:31.205000	0:38:32.110000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:32.111000" end="0:38:33.524000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:32.111000" end="0:38:33.524000" age_lower="1" age_upper="999">
 und	-	-	-	0:38:32.111000	0:38:32.605000
 sind	-	-	-	0:38:32.111000	0:38:32.605000
 die	-	-	-	0:38:32.111000	0:38:32.605000
 Aktivitäten	-	-	-	0:38:32.605000	0:38:33.524000
 /?	-	-	-	0:38:32.605000	0:38:33.524000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:32.605000" end="0:38:33.524000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:32.605000" end="0:38:33.524000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:38:32.605000	0:38:33.524000
 Lesen	-	-	-	0:38:32.605000	0:38:33.524000
 .	-	-	-	0:38:32.605000	0:38:33.524000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:33.524000" end="0:38:34.254000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:33.524000" end="0:38:34.254000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:33.524000	0:38:34.016000
 .	-	-	-	0:38:33.524000	0:38:34.016000
 sind	-	-	-	0:38:34.016000	0:38:34.254000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:34.016000" end="0:38:34.254000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:34.016000" end="0:38:34.254000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:34.016000	0:38:34.254000
 .	-	-	-	0:38:34.016000	0:38:34.254000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:34.255000" end="0:38:38.542000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:34.255000" end="0:38:38.542000" age_lower="1" age_upper="999">
 die	-	-	-	0:38:34.255000	0:38:36.289000
 Aktivitäten	-	-	-	0:38:34.255000	0:38:36.289000
 hauptsächlich	-	-	-	0:38:34.255000	0:38:36.289000
@@ -9706,11 +9706,11 @@ ORT	ORT	-	-	0:38:36.289000	0:38:38.040000
 ,	-	-	-	0:38:36.289000	0:38:38.040000
 oder	-	-	-	0:38:38.040000	0:38:38.542000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:38.040000" end="0:38:38.542000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:38.040000" end="0:38:38.542000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:38.040000	0:38:38.542000
 .	-	-	-	0:38:38.040000	0:38:38.542000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:38.543000" end="0:38:40.270000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:38.543000" end="0:38:40.270000" age_lower="1" age_upper="999">
 dann	-	-	-	0:38:38.543000	0:38:40.270000
 noch	-	-	-	0:38:38.543000	0:38:40.270000
 eher	-	-	-	0:38:38.543000	0:38:40.270000
@@ -9718,7 +9718,7 @@ weiter	-	-	-	0:38:38.543000	0:38:40.270000
 draußen	-	-	-	0:38:38.543000	0:38:40.270000
 ?	-	-	-	0:38:38.543000	0:38:40.270000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:40.271000" end="0:38:44.629000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:40.271000" end="0:38:44.629000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:38:40.271000	0:38:41.438000
 hauptsächlich	-	-	-	0:38:41.439000	0:38:44.629000
 ähm	-	-	-	0:38:41.439000	0:38:44.629000
@@ -9727,11 +9727,11 @@ Tal	-	-	-	0:38:41.439000	0:38:44.629000
 sozusagen	-	-	-	0:38:41.439000	0:38:44.629000
 ,	-	-	-	0:38:41.439000	0:38:44.629000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:44.629000" end="0:38:45.204000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:44.629000" end="0:38:45.204000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:44.629000	0:38:45.204000
 .	-	-	-	0:38:44.629000	0:38:45.204000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:44.629000" end="0:38:47.062000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:44.629000" end="0:38:47.062000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:38:44.629000	0:38:45.204000
 von	-	-	-	0:38:45.204000	0:38:47.062000
 ORT	ORT	-	-	0:38:45.204000	0:38:47.062000
@@ -9739,11 +9739,11 @@ ORT	ORT	-	-	0:38:45.204000	0:38:47.062000
 bis	-	-	-	0:38:45.204000	0:38:47.062000
 Hüttschlag	-	-	-	0:38:45.204000	0:38:47.062000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:47.063000" end="0:38:47.545000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:47.063000" end="0:38:47.545000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:47.063000	0:38:47.545000
 .	-	-	-	0:38:47.063000	0:38:47.545000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:47.063000" end="0:38:49.914000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:47.063000" end="0:38:49.914000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:38:47.063000	0:38:47.545000
 durch	-	-	-	0:38:47.545000	0:38:48.281000
 die	-	-	-	0:38:47.545000	0:38:48.281000
@@ -9755,7 +9755,7 @@ ja	-	-	-	0:38:48.281000	0:38:48.716000
 mhm	-	-	-	0:38:48.716000	0:38:49.914000
 .	-	-	-	0:38:48.716000	0:38:49.914000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:49.915000" end="0:38:54.239000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:49.915000" end="0:38:54.239000" age_lower="1" age_upper="999">
 und	-	-	-	0:38:49.915000	0:38:53.981000
 Sie	-	-	-	0:38:49.915000	0:38:53.981000
 haben	-	-	-	0:38:49.915000	0:38:53.981000
@@ -9771,11 +9771,11 @@ gesprochen	-	-	-	0:38:49.915000	0:38:53.981000
 ,	-	-	-	0:38:49.915000	0:38:53.981000
 treffen	-	-	-	0:38:53.981000	0:38:54.239000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:53.981000" end="0:38:54.239000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:53.981000" end="0:38:54.239000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:53.981000	0:38:54.239000
 .	-	-	-	0:38:53.981000	0:38:54.239000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:54.239000" end="0:38:56.601000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:54.239000" end="0:38:56.601000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:38:54.239000	0:38:55.735000
 sich	-	-	-	0:38:54.239000	0:38:55.735000
 regelmäßig	-	-	-	0:38:54.239000	0:38:55.735000
@@ -9785,11 +9785,11 @@ oder	-	-	-	0:38:55.735000	0:38:56.601000
 Bekannten	-	-	-	0:38:55.735000	0:38:56.601000
 ?	-	-	-	0:38:55.735000	0:38:56.601000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:55.735000" end="0:38:56.601000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:55.735000" end="0:38:56.601000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:38:55.735000	0:38:56.601000
 .	-	-	-	0:38:55.735000	0:38:56.601000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:56.601000" end="0:39:01.166000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:56.601000" end="0:39:01.166000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:56.601000	0:38:57.349000
 .	-	-	-	0:38:56.601000	0:38:57.349000
 und	-	-	-	0:38:57.349000	0:39:00.150000
@@ -9802,7 +9802,7 @@ aus	-	-	-	0:38:57.349000	0:39:00.150000
 Hüttschlag	-	-	-	0:39:00.151000	0:39:01.166000
 ?	-	-	-	0:39:00.151000	0:39:01.166000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:00.151000" end="0:39:03.784000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:00.151000" end="0:39:03.784000" project="PP03" age_lower="18" age_upper="35">
 hauptsächlich	-	-	-	0:39:00.151000	0:39:01.166000
 au/	-	-	-	0:39:01.167000	0:39:01.641000
 /.	-	-	-	0:39:01.167000	0:39:01.641000
@@ -9815,15 +9815,15 @@ und	-	-	-	0:39:01.641000	0:39:03.784000
 ORT	ORT	-	-	0:39:01.641000	0:39:03.784000
 .	-	-	-	0:39:01.641000	0:39:03.784000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:03.784000" end="0:39:04.125000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:03.784000" end="0:39:04.125000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:03.784000	0:39:04.125000
 .	-	-	-	0:39:03.784000	0:39:04.125000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:04.125000" end="0:39:04.525000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:04.125000" end="0:39:04.525000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:04.125000	0:39:04.525000
 .	-	-	-	0:39:04.125000	0:39:04.525000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:04.525000" end="0:39:07.870000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:04.525000" end="0:39:07.870000" age_lower="1" age_upper="999">
 aber	-	-	-	0:39:04.525000	0:39:07.870000
 von	-	-	-	0:39:04.525000	0:39:07.870000
 <pause duration="0,9s"/>
@@ -9832,18 +9832,18 @@ weiter	-	-	-	0:39:04.525000	0:39:07.870000
 weg	-	-	-	0:39:04.525000	0:39:07.870000
 ist	-	-	-	0:39:04.525000	0:39:07.870000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:07.871000" end="0:39:09.261000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:07.871000" end="0:39:09.261000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:39:07.871000	0:39:09.261000
 eigentlich	-	-	-	0:39:07.871000	0:39:09.261000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:09.261000" end="0:39:10.720000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:09.261000" end="0:39:10.720000" age_lower="1" age_upper="999">
 niemand	-	-	-	0:39:09.261000	0:39:10.720000
 dabei	-	-	-	0:39:09.261000	0:39:10.720000
 ?	-	-	-	0:39:09.261000	0:39:10.720000
 mhm	-	-	-	0:39:09.261000	0:39:10.720000
 .	-	-	-	0:39:09.261000	0:39:10.720000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:09.261000" end="0:39:12.934000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:09.261000" end="0:39:12.934000" project="PP03" age_lower="18" age_upper="35">
 niemand	-	-	-	0:39:09.261000	0:39:10.720000
 so	-	-	-	0:39:09.261000	0:39:10.720000
 richtig	-	-	-	0:39:09.261000	0:39:10.720000
@@ -9856,7 +9856,7 @@ nein	-	-	-	0:39:09.261000	0:39:10.720000
 nein	-	-	-	0:39:10.720000	0:39:12.934000
 .	-	-	-	0:39:10.720000	0:39:12.934000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:12.935000" end="0:39:15.579000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:12.935000" end="0:39:15.579000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:39:12.935000	0:39:13.969000
 .	-	-	-	0:39:12.935000	0:39:13.969000
@@ -9865,11 +9865,11 @@ Sie	-	-	-	0:39:13.969000	0:39:15.579000
 gelegentlich	-	-	-	0:39:13.969000	0:39:15.579000
 ?	-	-	-	0:39:13.969000	0:39:15.579000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:15.579000" end="0:39:15.949000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:15.579000" end="0:39:15.949000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:15.579000	0:39:15.949000
 .	-	-	-	0:39:15.579000	0:39:15.949000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:15.949000" end="0:39:18.317000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:15.949000" end="0:39:18.317000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 privat	-	-	-	0:39:15.949000	0:39:17.454000
 oder	-	-	-	0:39:15.949000	0:39:17.454000
@@ -9877,11 +9877,11 @@ auch	-	-	-	0:39:15.949000	0:39:17.454000
 beruflich	-	-	-	0:39:17.455000	0:39:18.317000
 ?	-	-	-	0:39:17.455000	0:39:18.317000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:17.455000" end="0:39:18.317000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:17.455000" end="0:39:18.317000" project="PP03" age_lower="18" age_upper="35">
 privat	-	-	-	0:39:17.455000	0:39:18.317000
 .	-	-	-	0:39:17.455000	0:39:18.317000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:18.317000" end="0:39:20.973000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:18.317000" end="0:39:20.973000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:18.317000	0:39:18.907000
 .	-	-	-	0:39:18.317000	0:39:18.907000
 wohin	-	-	-	0:39:18.907000	0:39:20.973000
@@ -9892,7 +9892,7 @@ zum	-	-	-	0:39:18.907000	0:39:20.973000
 Beispiel	-	-	-	0:39:18.907000	0:39:20.973000
 ?	-	-	-	0:39:18.907000	0:39:20.973000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:20.973000" end="0:39:25.977000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:20.973000" end="0:39:25.977000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:39:20.973000	0:39:22.875000
 <pause duration="0,6s"/>
 letztes	-	-	-	0:39:22.875000	0:39:24.607000
@@ -9908,23 +9908,23 @@ Sri	-	-	-	0:39:24.607000	0:39:25.977000
 Lanka	-	-	-	0:39:24.607000	0:39:25.977000
 ,	-	-	-	0:39:24.607000	0:39:25.977000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:25.977000" end="0:39:27.476000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:25.977000" end="0:39:27.476000" age_lower="1" age_upper="999">
 wow	-	-	-	0:39:25.977000	0:39:26.972000
 ,	-	-	-	0:39:25.977000	0:39:26.972000
 toll	-	-	-	0:39:25.977000	0:39:26.972000
 ,	-	-	-	0:39:25.977000	0:39:26.972000
 sehr	-	-	-	0:39:26.972000	0:39:27.476000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:26.972000" end="0:39:27.476000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:26.972000" end="0:39:27.476000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:39:26.972000	0:39:27.476000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:27.476000" end="0:39:28.481000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:27.476000" end="0:39:28.481000" age_lower="1" age_upper="999">
 schön	-	-	-	0:39:27.476000	0:39:27.893000
 ,	-	-	-	0:39:27.476000	0:39:27.893000
 mhm	-	-	-	0:39:27.893000	0:39:28.481000
 .	-	-	-	0:39:27.893000	0:39:28.481000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:28.481000" end="0:39:32.522000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:28.481000" end="0:39:32.522000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 Berlin	-	-	-	0:39:28.481000	0:39:30.784000
 ,	-	-	-	0:39:28.481000	0:39:30.784000
@@ -9938,22 +9938,22 @@ Jahr	-	-	-	0:39:30.784000	0:39:32.522000
 so	-	-	-	0:39:30.784000	0:39:32.522000
 .	-	-	-	0:39:30.784000	0:39:32.522000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:32.521000" end="0:39:33.459000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:32.521000" end="0:39:33.459000" age_lower="1" age_upper="999">
 also	-	-	-	0:39:32.521000	0:39:33.459000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:33.459000" end="0:39:34.372000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:33.459000" end="0:39:34.372000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:39:33.459000	0:39:34.372000
 das	-	-	-	0:39:33.459000	0:39:34.372000
 brauche	-	-	-	0:39:33.459000	0:39:34.372000
 ich	-	-	-	0:39:33.459000	0:39:34.372000
 dann	-	-	-	0:39:33.459000	0:39:34.372000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:34.372000" end="0:39:35.646000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:34.372000" end="0:39:35.646000" age_lower="1" age_upper="999">
 viel	-	-	-	0:39:34.372000	0:39:35.646000
 unterwegs	-	-	-	0:39:34.372000	0:39:35.646000
 .	-	-	-	0:39:34.372000	0:39:35.646000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:34.372000" end="0:39:35.646000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:34.372000" end="0:39:35.646000" project="PP03" age_lower="18" age_upper="35">
 oft	-	-	-	0:39:34.372000	0:39:35.646000
 ,	-	-	-	0:39:34.372000	0:39:35.646000
 von	-	-	-	0:39:34.372000	0:39:35.646000
@@ -9961,11 +9961,11 @@ dem	-	-	-	0:39:34.372000	0:39:35.646000
 Tal	-	-	-	0:39:34.372000	0:39:35.646000
 raus	-	-	-	0:39:34.372000	0:39:35.646000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:35.647000" end="0:39:36.504000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:35.647000" end="0:39:36.504000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:35.647000	0:39:36.504000
 .	-	-	-	0:39:35.647000	0:39:36.504000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:35.647000" end="0:39:37.889000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:35.647000" end="0:39:37.889000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:39:35.647000	0:39:36.504000
 weg	-	-	-	0:39:35.647000	0:39:36.504000
 ,	-	-	-	0:39:35.647000	0:39:36.504000
@@ -9976,7 +9976,7 @@ Anderes	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:39:36.504000	0:39:
 ja	-	-	-	0:39:36.504000	0:39:37.889000
 .	-	-	-	0:39:36.504000	0:39:37.889000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:37.889000" end="0:39:40.890000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:37.889000" end="0:39:40.890000" age_lower="1" age_upper="999">
 wohnen	-	-	-	0:39:37.889000	0:39:40.890000
 Sie	-	-	-	0:39:37.889000	0:39:40.890000
 gerne	-	-	-	0:39:37.889000	0:39:40.890000
@@ -9984,11 +9984,11 @@ in	-	-	-	0:39:37.889000	0:39:40.890000
 ORT	ORT	-	-	0:39:37.889000	0:39:40.890000
 ?	-	-	-	0:39:37.889000	0:39:40.890000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:40.891000" end="0:39:41.469000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:40.891000" end="0:39:41.469000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:40.891000	0:39:41.469000
 .	-	-	-	0:39:40.891000	0:39:41.469000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:41.469000" end="0:39:44.123000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:41.469000" end="0:39:44.123000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:41.469000	0:39:41.838000
 .	-	-	-	0:39:41.469000	0:39:41.838000
 warum	-	-	-	0:39:41.839000	0:39:43.385000
@@ -10001,7 +10001,7 @@ in	-	-	-	0:39:43.385000	0:39:44.123000
 ORT	ORT	-	-	0:39:43.385000	0:39:44.123000
 ?	-	-	-	0:39:43.385000	0:39:44.123000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:43.385000" end="0:39:53.091000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:43.385000" end="0:39:53.091000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:39:43.385000	0:39:44.123000
 das	-	-	-	0:39:43.385000	0:39:44.123000
 ist	-	-	-	0:39:43.385000	0:39:44.123000
@@ -10044,11 +10044,11 @@ mal	-	-	-	0:39:51.091000	0:39:53.091000
 tausend	-	-	-	0:39:51.091000	0:39:53.091000
 .	-	-	-	0:39:51.091000	0:39:53.091000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:53.091000" end="0:39:53.495000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:53.091000" end="0:39:53.495000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:53.091000	0:39:53.495000
 .	-	-	-	0:39:53.091000	0:39:53.495000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:53.091000" end="0:40:08.141000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:53.091000" end="0:40:08.141000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:39:53.091000	0:39:53.495000
 es	-	-	-	0:39:53.091000	0:39:53.495000
 ist	-	-	-	0:39:53.495000	0:39:54.521000
@@ -10102,11 +10102,11 @@ als	-	-	-	0:40:04.957000	0:40:08.141000
 Marketenderin	-	-	-	0:40:04.957000	0:40:08.141000
 ,	-	-	-	0:40:04.957000	0:40:08.141000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:08.141000" end="0:40:08.911000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:08.141000" end="0:40:08.911000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:08.141000	0:40:08.911000
 .	-	-	-	0:40:08.141000	0:40:08.911000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:08.141000" end="0:40:16.546000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:08.141000" end="0:40:16.546000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:40:08.141000	0:40:08.911000
 ,	-	-	-	0:40:08.141000	0:40:08.911000
 und	-	-	-	0:40:08.911000	0:40:11.591000
@@ -10139,22 +10139,22 @@ und	-	-	-	0:40:14.861000	0:40:16.546000
 so	-	-	-	0:40:14.861000	0:40:16.546000
 ,	-	-	-	0:40:14.861000	0:40:16.546000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:16.547000" end="0:40:17.131000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:16.547000" end="0:40:17.131000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:16.547000	0:40:17.131000
 .	-	-	-	0:40:16.547000	0:40:17.131000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:16.547000" end="0:40:17.131000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:16.547000" end="0:40:17.131000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:40:16.547000	0:40:17.131000
 es	-	-	-	0:40:16.547000	0:40:17.131000
 ist	-	-	-	0:40:16.547000	0:40:17.131000
 /.	-	-	-	0:40:16.547000	0:40:17.131000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:17.131000" end="0:40:17.959000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:17.131000" end="0:40:17.959000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:40:17.131000	0:40:17.959000
 .	-	-	-	0:40:17.131000	0:40:17.959000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:17.131000" end="0:40:20.465000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:17.131000" end="0:40:20.465000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 aber	-	-	-	0:40:17.131000	0:40:17.959000
 irgendwie	-	-	-	0:40:17.959000	0:40:18.991000
@@ -10170,23 +10170,23 @@ schön	-	-	-	0:40:18.991000	0:40:20.465000
 ja	-	-	-	0:40:18.991000	0:40:20.465000
 .	-	-	-	0:40:18.991000	0:40:20.465000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:20.465000" end="0:40:21.006000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:20.465000" end="0:40:21.006000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:20.465000	0:40:21.006000
 .	-	-	-	0:40:20.465000	0:40:21.006000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:21.007000" end="0:40:21.693000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:21.007000" end="0:40:21.693000" project="PP03" age_lower="18" age_upper="35">
 schon	-	-	-	0:40:21.007000	0:40:21.693000
 ,	-	-	-	0:40:21.007000	0:40:21.693000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:21.693000" end="0:40:22.159000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:21.693000" end="0:40:22.159000" age_lower="1" age_upper="999">
 könnten	-	-	-	0:40:21.693000	0:40:22.159000
 Sie	-	-	-	0:40:21.693000	0:40:22.159000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:21.693000" end="0:40:22.159000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:21.693000" end="0:40:22.159000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:21.693000	0:40:22.159000
 .	-	-	-	0:40:21.693000	0:40:22.159000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:22.159000" end="0:40:26.487000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:22.159000" end="0:40:26.487000" age_lower="1" age_upper="999">
 sich	-	-	-	0:40:22.159000	0:40:24.563000
 unter	-	-	-	0:40:22.159000	0:40:24.563000
 gewissen	-	-	-	0:40:22.159000	0:40:24.563000
@@ -10202,17 +10202,17 @@ jetzt	-	-	-	0:40:24.563000	0:40:26.487000
 also	-	-	-	0:40:24.563000	0:40:26.487000
 ?	-	-	-	0:40:24.563000	0:40:26.487000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:26.487000" end="0:40:27.514000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:26.487000" end="0:40:27.514000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:26.487000	0:40:27.514000
 ,	-	-	-	0:40:26.487000	0:40:27.514000
 schon	-	-	-	0:40:26.487000	0:40:27.514000
 .	-	-	-	0:40:26.487000	0:40:27.514000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:27.515000" end="0:40:28.026000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:27.515000" end="0:40:28.026000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:27.515000	0:40:28.026000
 .	-	-	-	0:40:27.515000	0:40:28.026000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:28.026000" end="0:40:30.065000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:28.026000" end="0:40:30.065000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:40:28.026000	0:40:29.707000
 in	-	-	-	0:40:28.026000	0:40:29.707000
 die	-	-	-	0:40:28.026000	0:40:29.707000
@@ -10222,11 +10222,11 @@ Stadt	-	-	-	0:40:28.026000	0:40:29.707000
 zum	-	-	-	0:40:29.707000	0:40:30.065000
 Beispiel	-	-	-	0:40:29.707000	0:40:30.065000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:30.065000" end="0:40:30.519000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:30.065000" end="0:40:30.519000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:30.065000	0:40:30.519000
 .	-	-	-	0:40:30.065000	0:40:30.519000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:30.065000" end="0:40:33.891000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:30.065000" end="0:40:33.891000" project="PP03" age_lower="18" age_upper="35">
 Salzburg	-	-	-	0:40:30.065000	0:40:30.519000
 oder	-	-	-	0:40:30.519000	0:40:32.513000
 auch	-	-	-	0:40:30.519000	0:40:32.513000
@@ -10245,11 +10245,11 @@ die	-	-	-	0:40:32.513000	0:40:33.891000
 Berge	-	-	-	0:40:32.513000	0:40:33.891000
 dazu	-	-	-	0:40:32.513000	0:40:33.891000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:33.891000" end="0:40:34.357000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:33.891000" end="0:40:34.357000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:33.891000	0:40:34.357000
 .	-	-	-	0:40:33.891000	0:40:34.357000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:33.891000" end="0:40:37.034000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:33.891000" end="0:40:37.034000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:40:33.891000	0:40:34.357000
 /.	-	-	-	0:40:33.891000	0:40:34.357000
 ja	-	-	-	0:40:34.357000	0:40:35.822000
@@ -10261,11 +10261,11 @@ sich	-	-	-	0:40:35.823000	0:40:37.034000
 irgendwas	-	-	-	0:40:35.823000	0:40:37.034000
 ergeben	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:40:35.823000	0:40:37.034000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:37.035000" end="0:40:37.591000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:37.035000" end="0:40:37.591000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:37.035000	0:40:37.591000
 .	-	-	-	0:40:37.035000	0:40:37.591000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:37.035000" end="0:40:40.936000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:37.035000" end="0:40:40.936000" project="PP03" age_lower="18" age_upper="35">
 würde	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:40:37.035000	0:40:37.591000
 ,	-	-	-	0:40:37.035000	0:40:37.591000
 ja	-	-	-	0:40:37.035000	0:40:37.591000
@@ -10284,11 +10284,11 @@ wieder	-	-	-	0:40:38.708000	0:40:40.936000
 zurück	-	-	-	0:40:38.708000	0:40:40.936000
 .	-	-	-	0:40:38.708000	0:40:40.936000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:40.936000" end="0:40:41.778000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:40.936000" end="0:40:41.778000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:40.936000	0:40:41.778000
 .	-	-	-	0:40:40.936000	0:40:41.778000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:40.936000" end="0:40:42.466000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:40.936000" end="0:40:42.466000" project="PP03" age_lower="18" age_upper="35">
 nur	-	-	-	0:40:40.936000	0:40:41.778000
 für	-	-	-	0:40:40.936000	0:40:41.778000
 eine	-	-	-	0:40:40.936000	0:40:41.778000
@@ -10296,44 +10296,44 @@ gewisse	-	-	-	0:40:41.779000	0:40:42.466000
 Zeit	-	-	-	0:40:41.779000	0:40:42.466000
 ,	-	-	-	0:40:41.779000	0:40:42.466000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:42.467000" end="0:40:42.815000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:42.467000" end="0:40:42.815000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:42.467000	0:40:42.815000
 .	-	-	-	0:40:42.467000	0:40:42.815000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:42.467000" end="0:40:43.045000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:42.467000" end="0:40:43.045000" project="PP03" age_lower="18" age_upper="35">
 glaube	-	-	-	0:40:42.467000	0:40:42.815000
 ich	-	-	-	0:40:42.467000	0:40:42.815000
 ,	-	-	-	0:40:42.467000	0:40:42.815000
 ja	-	-	-	0:40:42.815000	0:40:43.045000
 .	-	-	-	0:40:42.815000	0:40:43.045000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:43.045000" end="0:40:44.473000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:43.045000" end="0:40:44.473000" age_lower="1" age_upper="999">
 also	-	-	-	0:40:43.045000	0:40:44.473000
 nicht	-	-	-	0:40:43.045000	0:40:44.473000
 für	-	-	-	0:40:43.045000	0:40:44.473000
 immer	-	-	-	0:40:43.045000	0:40:44.473000
 ?	-	-	-	0:40:43.045000	0:40:44.473000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:44.473000" end="0:40:44.847000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:44.473000" end="0:40:44.847000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:40:44.473000	0:40:44.847000
 ,	-	-	-	0:40:44.473000	0:40:44.847000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:44.847000" end="0:40:45.391000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:44.847000" end="0:40:45.391000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:44.847000	0:40:45.391000
 .	-	-	-	0:40:44.847000	0:40:45.391000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:44.847000" end="0:40:45.669000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:44.847000" end="0:40:45.669000" project="PP03" age_lower="18" age_upper="35">
 eher	-	-	-	0:40:44.847000	0:40:45.391000
 nicht	-	-	-	0:40:44.847000	0:40:45.391000
 ,	-	-	-	0:40:44.847000	0:40:45.391000
 nein	-	-	-	0:40:45.391000	0:40:45.669000
 .	-	-	-	0:40:45.391000	0:40:45.669000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:45.669000" end="0:40:46.335000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:45.669000" end="0:40:46.335000" age_lower="1" age_upper="999">
 und	-	-	-	0:40:45.669000	0:40:46.335000
 /?	-	-	-	0:40:45.669000	0:40:46.335000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:45.669000" end="0:40:47.581000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:45.669000" end="0:40:47.581000" project="PP03" age_lower="18" age_upper="35">
 (zu	-	-	-	0:40:45.669000	0:40:46.335000
 dem)	-	-	-	0:40:45.669000	0:40:46.335000
 bin	-	-	-	0:40:46.335000	0:40:47.581000
@@ -10343,7 +10343,7 @@ zu	-	-	-	0:40:46.335000	0:40:47.581000
 gern	-	-	-	0:40:46.335000	0:40:47.581000
 hier	-	-	-	0:40:46.335000	0:40:47.581000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:47.581000" end="0:40:48.475000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:47.581000" end="0:40:48.475000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:47.581000	0:40:48.475000
 .	-	-	-	0:40:47.581000	0:40:48.475000
 und	-	-	-	0:40:47.581000	0:40:48.475000
@@ -10351,10 +10351,10 @@ wie	-	-	-	0:40:47.581000	0:40:48.475000
 schaut	-	-	-	0:40:47.581000	0:40:48.475000
 das	-	-	-	0:40:47.581000	0:40:48.475000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:47.581000" end="0:40:48.475000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:47.581000" end="0:40:48.475000" project="PP03" age_lower="18" age_upper="35">
 .	-	-	-	0:40:47.581000	0:40:48.475000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:48.475000" end="0:40:53.022000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:48.475000" end="0:40:53.022000" age_lower="1" age_upper="999">
 mit	-	-	-	0:40:48.475000	0:40:50.145000
 mit	-	-	-	0:40:48.475000	0:40:50.145000
 dem	-	-	-	0:40:48.475000	0:40:50.145000
@@ -10374,7 +10374,7 @@ Weile	-	-	-	0:40:51.771000	0:40:53.022000
 mal	-	-	-	0:40:51.771000	0:40:53.022000
 /?	-	-	-	0:40:51.771000	0:40:53.022000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:51.771000" end="0:40:55.846000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:51.771000" end="0:40:55.846000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:40:51.771000	0:40:53.022000
 nur	-	-	-	0:40:51.771000	0:40:53.022000
 für	-	-	-	0:40:51.771000	0:40:53.022000
@@ -10391,11 +10391,11 @@ oder	-	-	-	0:40:53.335000	0:40:55.846000
 so	-	-	-	0:40:53.335000	0:40:55.846000
 ,	-	-	-	0:40:53.335000	0:40:55.846000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:55.847000" end="0:40:56.555000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:55.847000" end="0:40:56.555000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:55.847000	0:40:56.555000
 .	-	-	-	0:40:55.847000	0:40:56.555000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:55.847000" end="0:40:57.623000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:55.847000" end="0:40:57.623000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:40:55.847000	0:40:56.555000
 länger	-	-	-	0:40:55.847000	0:40:56.555000
 glaube	-	-	-	0:40:56.555000	0:40:57.623000
@@ -10404,7 +10404,7 @@ eher	-	-	-	0:40:56.555000	0:40:57.623000
 nicht	-	-	-	0:40:56.555000	0:40:57.623000
 .	-	-	-	0:40:56.555000	0:40:57.623000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:57.623000" end="0:41:01.783000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:57.623000" end="0:41:01.783000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 Sie	-	-	-	0:40:57.623000	0:41:01.783000
 haben	-	-	-	0:40:57.623000	0:41:01.783000
@@ -10420,36 +10420,36 @@ Hüttschlag	-	-	-	0:40:57.623000	0:41:01.783000
 gesprochen	-	-	-	0:40:57.623000	0:41:01.783000
 ,	-	-	-	0:40:57.623000	0:41:01.783000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:01.783000" end="0:41:02.182000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:01.783000" end="0:41:02.182000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:41:01.783000	0:41:02.182000
 .	-	-	-	0:41:01.783000	0:41:02.182000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:02.183000" end="0:41:03.646000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:02.183000" end="0:41:03.646000" age_lower="1" age_upper="999">
 in	-	-	-	0:41:02.183000	0:41:03.646000
 SONSTIGE	SONSTIGE	-	-	0:41:02.183000	0:41:03.646000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:03.646000" end="0:41:04.182000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:03.646000" end="0:41:04.182000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:41:03.646000	0:41:04.182000
 .	-	-	-	0:41:03.646000	0:41:04.182000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:04.183000" end="0:41:05.722000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:04.183000" end="0:41:05.722000" age_lower="1" age_upper="999">
 in	-	-	-	0:41:04.183000	0:41:05.156000
 der	-	-	-	0:41:04.183000	0:41:05.156000
 SONSTIGE	SONSTIGE	-	-	0:41:04.183000	0:41:05.156000
 sind	-	-	-	0:41:05.156000	0:41:05.722000
 Sie	-	-	-	0:41:05.156000	0:41:05.722000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:05.156000" end="0:41:05.722000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:05.156000" end="0:41:05.722000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:41:05.156000	0:41:05.722000
 .	-	-	-	0:41:05.156000	0:41:05.722000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:05.723000" end="0:41:07.106000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:05.723000" end="0:41:07.106000" age_lower="1" age_upper="999">
 und	-	-	-	0:41:05.723000	0:41:07.106000
 <pause duration="0,6s"/>
 ähm	-	-	-	0:41:05.723000	0:41:07.106000
 /.	-	-	-	0:41:05.723000	0:41:07.106000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:07.107000" end="0:41:12.737000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:07.107000" end="0:41:12.737000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:41:07.107000	0:41:09.887000
 und	-	-	-	0:41:07.107000	0:41:09.887000
 ähm	-	-	-	0:41:07.107000	0:41:09.887000
@@ -10471,11 +10471,11 @@ mit	-	-	-	0:41:09.887000	0:41:12.737000
 so	-	-	-	0:41:09.887000	0:41:12.737000
 Peitschen	-	-	-	0:41:09.887000	0:41:12.737000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:12.737000" end="0:41:14.216000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:12.737000" end="0:41:14.216000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:12.737000	0:41:13.273000
 .	-	-	-	0:41:12.737000	0:41:13.273000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:13.273000" end="0:41:16.002000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:13.273000" end="0:41:16.002000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:41:14.216000	0:41:15.282000
 da	-	-	-	0:41:14.216000	0:41:15.282000
 bin	-	-	-	0:41:14.216000	0:41:15.282000
@@ -10487,28 +10487,28 @@ ich	-	-	-	0:41:15.283000	0:41:16.002000
 verkaufe	-	-	-	0:41:15.283000	0:41:16.002000
 da	-	-	-	0:41:15.283000	0:41:16.002000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:16.003000" end="0:41:16.653000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:16.003000" end="0:41:16.653000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:16.003000	0:41:16.653000
 .	-	-	-	0:41:16.003000	0:41:16.653000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:16.003000" end="0:41:16.653000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:16.003000" end="0:41:16.653000" project="PP03" age_lower="18" age_upper="35">
 Schnaps	-	-	-	0:41:16.003000	0:41:16.653000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:16.653000" end="0:41:17.919000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:16.653000" end="0:41:17.919000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:16.653000" end="0:41:17.919000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:16.653000" end="0:41:17.919000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:17.919000" end="0:41:18.849000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:17.919000" end="0:41:18.849000" age_lower="1" age_upper="999">
 und	-	-	-	0:41:17.919000	0:41:18.849000
 es	-	-	-	0:41:17.919000	0:41:18.849000
 ist	-	-	-	0:41:17.919000	0:41:18.849000
 /?	-	-	-	0:41:17.919000	0:41:18.849000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:17.919000" end="0:41:18.849000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:17.919000" end="0:41:18.849000" project="PP03" age_lower="18" age_upper="35">
 sozusagen	-	-	-	0:41:17.919000	0:41:18.849000
 .	-	-	-	0:41:17.919000	0:41:18.849000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:18.849000" end="0:41:21.709000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:18.849000" end="0:41:21.709000" age_lower="1" age_upper="999">
 das	-	-	-	0:41:18.849000	0:41:21.214000
 sind	-	-	-	0:41:18.849000	0:41:21.214000
 die	-	-	-	0:41:18.849000	0:41:21.214000
@@ -10520,17 +10520,17 @@ wo	-	-	-	0:41:21.215000	0:41:21.709000
 Sie	-	-	-	0:41:21.215000	0:41:21.709000
 /?	-	-	-	0:41:21.215000	0:41:21.709000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:21.215000" end="0:41:21.709000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:21.215000" end="0:41:21.709000" project="PP03" age_lower="18" age_upper="35">
 Vereine	-	-	-	0:41:21.215000	0:41:21.709000
 ,	-	-	-	0:41:21.215000	0:41:21.709000
 ja	-	-	-	0:41:21.215000	0:41:21.709000
 ,	-	-	-	0:41:21.215000	0:41:21.709000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:21.709000" end="0:41:22.159000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:21.709000" end="0:41:22.159000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:21.709000	0:41:22.159000
 .	-	-	-	0:41:21.709000	0:41:22.159000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:21.709000" end="0:41:25.676000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:21.709000" end="0:41:25.676000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:41:21.709000	0:41:22.159000
 .	-	-	-	0:41:21.709000	0:41:22.159000
 mhm	-	-	-	0:41:22.159000	0:41:22.667000
@@ -10552,16 +10552,16 @@ den	-	-	-	0:41:23.593000	0:41:25.676000
 SONSTIGE	SONSTIGE	-	-	0:41:23.593000	0:41:25.676000
 ,	-	-	-	0:41:23.593000	0:41:25.676000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:25.676000" end="0:41:26.373000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:25.676000" end="0:41:26.373000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:25.676000	0:41:26.373000
 .	-	-	-	0:41:25.676000	0:41:26.373000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:25.676000" end="0:41:26.756000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:25.676000" end="0:41:26.756000" project="PP03" age_lower="18" age_upper="35">
 (also)	-	-	-	0:41:25.676000	0:41:26.373000
 ja	-	-	-	0:41:26.373000	0:41:26.756000
 ,	-	-	-	0:41:26.373000	0:41:26.756000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:26.756000" end="0:41:27.965000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:26.756000" end="0:41:27.965000" age_lower="1" age_upper="999">
 allerhand	-	-	-	0:41:26.756000	0:41:27.965000
 was	-	-	-	0:41:26.756000	0:41:27.965000
 es	-	-	-	0:41:26.756000	0:41:27.965000
@@ -10569,16 +10569,16 @@ da	-	-	-	0:41:26.756000	0:41:27.965000
 gibt	-	-	-	0:41:26.756000	0:41:27.965000
 .	-	-	-	0:41:26.756000	0:41:27.965000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:26.756000" end="0:41:27.965000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:26.756000" end="0:41:27.965000" project="PP03" age_lower="18" age_upper="35">
 wir	-	-	-	0:41:26.756000	0:41:27.965000
 sind	-	-	-	0:41:26.756000	0:41:27.965000
 eigentlich	-	-	-	0:41:26.756000	0:41:27.965000
 alle	-	-	-	0:41:26.756000	0:41:27.965000
 /.	-	-	-	0:41:26.756000	0:41:27.965000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:27.965000" end="0:41:29.381000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:27.965000" end="0:41:29.381000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:27.965000" end="0:41:33.847000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:27.965000" end="0:41:33.847000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:27.965000	0:41:29.381000
 .	-	-	-	0:41:27.965000	0:41:29.381000
 das	-	-	-	0:41:29.381000	0:41:30.980000
@@ -10605,11 +10605,11 @@ in	-	-	-	0:41:32.769000	0:41:33.847000
 Vereinen	-	-	-	0:41:32.769000	0:41:33.847000
 /.	-	-	-	0:41:32.769000	0:41:33.847000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:33.847000" end="0:41:34.421000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:33.847000" end="0:41:34.421000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:33.847000	0:41:34.421000
 .	-	-	-	0:41:33.847000	0:41:34.421000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:33.847000" end="0:41:43.319000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:33.847000" end="0:41:43.319000" project="PP03" age_lower="18" age_upper="35">
 bei	-	-	-	0:41:33.847000	0:41:34.421000
 uns	-	-	-	0:41:33.847000	0:41:34.421000
 ist	-	-	-	0:41:33.847000	0:41:34.421000
@@ -10652,16 +10652,16 @@ eigentlich	-	-	-	0:41:40.973000	0:41:43.319000
 ja	-	-	-	0:41:40.973000	0:41:43.319000
 .	-	-	-	0:41:40.973000	0:41:43.319000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:43.316000" end="0:41:43.769000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:43.316000" end="0:41:43.769000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:43.316000	0:41:43.769000
 .	-	-	-	0:41:43.316000	0:41:43.769000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:43.769000" end="0:41:45.097000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:43.769000" end="0:41:45.097000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:41:43.769000	0:41:45.097000
 .	-	-	-	0:41:43.769000	0:41:45.097000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:45.097000" end="0:41:47.491000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:45.097000" end="0:41:47.491000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:41:45.097000	0:41:46.587000
 es	-	-	-	0:41:45.097000	0:41:46.587000
 viele	-	-	-	0:41:45.097000	0:41:46.587000
@@ -10672,7 +10672,7 @@ in	-	-	-	0:41:46.587000	0:41:47.491000
 Hüttschlag	-	-	-	0:41:46.587000	0:41:47.491000
 ?	-	-	-	0:41:46.587000	0:41:47.491000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:46.587000" end="0:41:47.491000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:46.587000" end="0:41:47.491000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:46.587000	0:41:47.491000
 ,	-	-	-	0:41:46.587000	0:41:47.491000
 schon	-	-	-	0:41:46.587000	0:41:47.491000
@@ -10680,15 +10680,15 @@ schon	-	-	-	0:41:46.587000	0:41:47.491000
 ja	-	-	-	0:41:46.587000	0:41:47.491000
 .	-	-	-	0:41:46.587000	0:41:47.491000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:47.491000" end="0:41:48.047000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:47.491000" end="0:41:48.047000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:47.491000	0:41:48.047000
 .	-	-	-	0:41:47.491000	0:41:48.047000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:47.491000" end="0:41:48.047000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:47.491000" end="0:41:48.047000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:47.491000	0:41:48.047000
 .	-	-	-	0:41:47.491000	0:41:48.047000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:48.047000" end="0:41:49.814000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:48.047000" end="0:41:49.814000" age_lower="1" age_upper="999">
 was	-	-	-	0:41:48.047000	0:41:49.049000
 gibt	-	-	-	0:41:48.047000	0:41:49.049000
 es	-	-	-	0:41:48.047000	0:41:49.049000
@@ -10697,7 +10697,7 @@ zum	-	-	-	0:41:48.047000	0:41:49.049000
 Beispiel	-	-	-	0:41:49.049000	0:41:49.814000
 ?	-	-	-	0:41:49.049000	0:41:49.814000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:49.049000" end="0:41:52.513000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:49.049000" end="0:41:52.513000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:41:49.049000	0:41:49.814000
 die	-	-	-	0:41:49.049000	0:41:49.814000
 Feuerwehr	-	-	-	0:41:49.049000	0:41:49.814000
@@ -10712,11 +10712,11 @@ ein	-	-	-	0:41:50.115000	0:41:52.513000
 Verein	-	-	-	0:41:50.115000	0:41:52.513000
 .	-	-	-	0:41:50.115000	0:41:52.513000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:52.513000" end="0:41:53.320000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:52.513000" end="0:41:53.320000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:52.513000	0:41:53.320000
 .	-	-	-	0:41:52.513000	0:41:53.320000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:52.513000" end="0:41:55.785000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:52.513000" end="0:41:55.785000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:41:52.513000	0:41:53.320000
 dann	-	-	-	0:41:52.513000	0:41:53.320000
 gibt	-	-	-	0:41:52.513000	0:41:53.320000
@@ -10727,11 +10727,11 @@ die	-	-	-	0:41:53.319000	0:41:55.785000
 Musikkapelle	-	-	-	0:41:53.319000	0:41:55.785000
 ,	-	-	-	0:41:53.319000	0:41:55.785000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:55.785000" end="0:41:56.241000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:55.785000" end="0:41:56.241000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:55.785000	0:41:56.241000
 .	-	-	-	0:41:55.785000	0:41:56.241000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:56.241000" end="0:42:00.389000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:41:56.241000" end="0:42:00.389000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:41:56.241000	0:41:57.760000
 ist	-	-	-	0:41:56.241000	0:41:57.760000
 auch	-	-	-	0:41:56.241000	0:41:57.760000
@@ -10749,18 +10749,18 @@ Woche	-	-	-	0:41:58.703000	0:42:00.389000
 zum	-	-	-	0:41:58.703000	0:42:00.389000
 Proben	-	-	-	0:41:58.703000	0:42:00.389000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:00.389000" end="0:42:00.731000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:00.389000" end="0:42:00.731000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:00.389000	0:42:00.731000
 .	-	-	-	0:42:00.389000	0:42:00.731000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:00.389000" end="0:42:00.942000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:00.389000" end="0:42:00.942000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:42:00.389000	0:42:00.731000
 müssen	-	-	-	0:42:00.389000	0:42:00.731000
 dann	-	-	-	0:42:00.731000	0:42:00.942000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:00.943000" end="0:42:01.587000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:00.943000" end="0:42:01.587000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:00.943000" end="0:42:08.094000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:00.943000" end="0:42:08.094000" project="PP03" age_lower="18" age_upper="35">
 immer	-	-	-	0:42:00.943000	0:42:01.587000
 alle	-	-	-	0:42:00.943000	0:42:01.587000
 paar	-	-	-	0:42:01.587000	0:42:04.298000
@@ -10790,11 +10790,11 @@ am	-	-	-	0:42:06.489000	0:42:08.094000
 meisten	-	-	-	0:42:06.489000	0:42:08.094000
 zu	-	-	-	0:42:06.489000	0:42:08.094000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:08.095000" end="0:42:08.431000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:08.095000" end="0:42:08.431000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:42:08.095000	0:42:08.431000
 .	-	-	-	0:42:08.095000	0:42:08.431000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:08.095000" end="0:42:12.999000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:08.095000" end="0:42:12.999000" project="PP03" age_lower="18" age_upper="35">
 tun	-	-	-	0:42:08.095000	0:42:08.431000
 bei	-	-	-	0:42:08.095000	0:42:08.431000
 so	-	-	-	0:42:08.431000	0:42:09.201000
@@ -10811,12 +10811,12 @@ Bergrettung	-	-	-	0:42:09.201000	0:42:12.170000
 oder	-	-	-	0:42:12.171000	0:42:12.999000
 die	-	-	-	0:42:12.171000	0:42:12.999000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:12.999000" end="0:42:14.394000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:12.999000" end="0:42:14.394000" age_lower="1" age_upper="999">
 oh	-	-	-	0:42:12.999000	0:42:14.394000
 ja	-	-	-	0:42:12.999000	0:42:14.394000
 .	-	-	-	0:42:12.999000	0:42:14.394000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:12.999000" end="0:42:16.153000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:12.999000" end="0:42:16.153000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:42:12.999000	0:42:14.394000
 /.	-	-	-	0:42:12.999000	0:42:14.394000
 wo	-	-	-	0:42:14.395000	0:42:15.437000
@@ -10829,9 +10829,9 @@ heißt	-	-	-	0:42:15.437000	0:42:16.153000
 das	-	-	-	0:42:15.437000	0:42:16.153000
 ?	-	-	-	0:42:15.437000	0:42:16.153000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:16.153000" end="0:42:16.828000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:16.153000" end="0:42:16.828000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:16.828000" end="0:42:23.023000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:16.828000" end="0:42:23.023000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:42:16.828000	0:42:18.428000
 <pause duration="2,7s"/>
 Mama	-	-	-	0:42:21.183000	0:42:23.023000
@@ -10842,11 +10842,11 @@ beim	-	-	-	0:42:21.183000	0:42:23.023000
 SONSTIGE	SONSTIGE	-	-	0:42:21.183000	0:42:23.023000
 ,	-	-	-	0:42:21.183000	0:42:23.023000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:23.023000" end="0:42:23.518000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:23.023000" end="0:42:23.518000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:42:23.023000	0:42:23.518000
 .	-	-	-	0:42:23.023000	0:42:23.518000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:23.519000" end="0:42:25.364000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:23.519000" end="0:42:25.364000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:42:23.519000	0:42:25.364000
 gibt	-	-	-	0:42:23.519000	0:42:25.364000
 auch	-	-	-	0:42:23.519000	0:42:25.364000
@@ -10857,45 +10857,45 @@ bei	-	-	-	0:42:23.519000	0:42:25.364000
 uns	-	-	-	0:42:23.519000	0:42:25.364000
 in	-	-	-	0:42:23.519000	0:42:25.364000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:25.364000" end="0:42:25.930000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:25.364000" end="0:42:25.930000" age_lower="1" age_upper="999">
 super	-	-	-	0:42:25.364000	0:42:25.930000
 .	-	-	-	0:42:25.364000	0:42:25.930000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:25.364000" end="0:42:26.257000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:25.364000" end="0:42:26.257000" project="PP03" age_lower="18" age_upper="35">
 Hüttschlag	-	-	-	0:42:25.364000	0:42:25.930000
 ,	-	-	-	0:42:25.364000	0:42:25.930000
 (also	-	-	-	0:42:25.931000	0:42:26.257000
 es)	-	-	-	0:42:25.931000	0:42:26.257000
 /.	-	-	-	0:42:25.931000	0:42:26.257000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:26.257000" end="0:42:27.576000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:26.257000" end="0:42:27.576000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 alles	-	-	-	0:42:26.257000	0:42:27.576000
 dabei	-	-	-	0:42:26.257000	0:42:27.576000
 .	-	-	-	0:42:26.257000	0:42:27.576000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:27.576000" end="0:42:28.560000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:27.576000" end="0:42:28.560000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:42:27.576000	0:42:28.560000
 schon	-	-	-	0:42:27.576000	0:42:28.560000
 ,	-	-	-	0:42:27.576000	0:42:28.560000
 ja	-	-	-	0:42:27.576000	0:42:28.560000
 .	-	-	-	0:42:27.576000	0:42:28.560000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:28.560000" end="0:42:30.009000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:28.560000" end="0:42:30.009000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:42:28.560000	0:42:29.250000
 ,	-	-	-	0:42:28.560000	0:42:29.250000
 super	-	-	-	0:42:29.251000	0:42:30.009000
 .	-	-	-	0:42:29.251000	0:42:30.009000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:29.251000" end="0:42:30.009000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:29.251000" end="0:42:30.009000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:42:29.251000	0:42:30.009000
 .	-	-	-	0:42:29.251000	0:42:30.009000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:30.009000" end="0:42:30.657000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:30.009000" end="0:42:30.657000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:30.009000	0:42:30.657000
 .	-	-	-	0:42:30.009000	0:42:30.657000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:30.009000" end="0:42:31.822000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:30.009000" end="0:42:31.822000" project="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:42:30.009000	0:42:30.657000
 ,	-	-	-	0:42:30.009000	0:42:30.657000
 die	-	-	-	0:42:30.009000	0:42:30.657000
@@ -10907,23 +10907,23 @@ mein	-	-	-	0:42:31.191000	0:42:31.822000
 Papa	-	-	-	0:42:31.191000	0:42:31.822000
 ,	-	-	-	0:42:31.191000	0:42:31.822000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:31.823000" end="0:42:32.586000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:31.823000" end="0:42:32.586000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:42:31.823000	0:42:32.586000
 .	-	-	-	0:42:31.823000	0:42:32.586000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:31.823000" end="0:42:32.586000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:31.823000" end="0:42:32.586000" project="PP03" age_lower="18" age_upper="35">
 bei	-	-	-	0:42:31.823000	0:42:32.586000
 die	-	-	-	0:42:31.823000	0:42:32.586000
 SONSTIGE	SONSTIGE	-	-	0:42:31.823000	0:42:32.586000
 .	-	-	-	0:42:31.823000	0:42:32.586000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:32.587000" end="0:42:33.517000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:32.587000" end="0:42:33.517000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:32.587000" end="0:42:33.994000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:32.587000" end="0:42:33.994000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:42:33.517000	0:42:33.994000
 .	-	-	-	0:42:33.517000	0:42:33.994000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:33.995000" end="0:42:37.793000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:33.995000" end="0:42:37.793000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:33.995000	0:42:34.678000
 ,	-	-	-	0:42:33.995000	0:42:34.678000
 also	-	-	-	0:42:34.679000	0:42:37.149000
@@ -10941,11 +10941,11 @@ aber	-	-	-	0:42:37.149000	0:42:37.793000
 gibt	-	-	-	0:42:37.149000	0:42:37.793000
 es	-	-	-	0:42:37.149000	0:42:37.793000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:37.149000" end="0:42:37.793000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:37.149000" end="0:42:37.793000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:42:37.149000	0:42:37.793000
 .	-	-	-	0:42:37.149000	0:42:37.793000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:37.793000" end="0:42:46.433000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:37.793000" end="0:42:46.433000" age_lower="1" age_upper="999">
 abschließend	-	-	-	0:42:37.793000	0:42:39.550000
 noch	-	-	-	0:42:37.793000	0:42:39.550000
 Themen	-	-	-	0:42:37.793000	0:42:39.550000
@@ -10971,7 +10971,7 @@ gekommen	-	-	-	0:42:44.207000	0:42:46.433000
 sind	-	-	-	0:42:44.207000	0:42:46.433000
 ?	-	-	-	0:42:44.207000	0:42:46.433000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:46.433000" end="0:42:50.569000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:46.433000" end="0:42:50.569000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 nein	-	-	-	0:42:46.433000	0:42:50.569000
 ,	-	-	-	0:42:46.433000	0:42:50.569000
@@ -10985,15 +10985,15 @@ ich	-	-	-	0:42:46.433000	0:42:50.569000
 so	-	-	-	0:42:46.433000	0:42:50.569000
 .	-	-	-	0:42:46.433000	0:42:50.569000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:50.569000" end="0:42:51.227000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:50.569000" end="0:42:51.227000" age_lower="1" age_upper="999">
 gut	-	-	-	0:42:50.569000	0:42:51.227000
 .	-	-	-	0:42:50.569000	0:42:51.227000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:50.569000" end="0:42:51.227000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:50.569000" end="0:42:51.227000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:42:50.569000	0:42:51.227000
 .	-	-	-	0:42:50.569000	0:42:51.227000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:51.227000" end="0:42:53.787000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:51.227000" end="0:42:53.787000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:51.227000	0:42:51.937000
 ,	-	-	-	0:42:51.227000	0:42:51.937000
 dann	-	-	-	0:42:51.937000	0:42:53.165000
@@ -11003,11 +11003,11 @@ für	-	-	-	0:42:51.937000	0:42:53.165000
 das	-	-	-	0:42:51.937000	0:42:53.165000
 interessante	-	-	-	0:42:53.165000	0:42:53.787000
 </u>
-<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:53.165000" end="0:42:53.787000" age_lower="18" age_upper="35">
+<u who="spk_115" sex="female" age="jung (18-35) -matura" name="Informant 0604" subproject="PP03" standard_competence="6" dialect_competence="6" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:42:53.165000" end="0:42:53.787000" project="PP03" age_lower="18" age_upper="35">
 gerne	-	-	-	0:42:53.165000	0:42:53.787000
 .	-	-	-	0:42:53.165000	0:42:53.787000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:53.787000" end="0:42:55.779000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:53.787000" end="0:42:55.779000" age_lower="1" age_upper="999">
 Interview	-	-	-	0:42:53.787000	0:42:54.301000
 .	-	-	-	0:42:53.787000	0:42:54.301000
 dann	-	-	-	0:42:54.301000	0:42:55.779000

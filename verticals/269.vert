@@ -1,10 +1,10 @@
 <doc id="transcript_269" name="4082_WIEW_jung_w_AI" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="269.xml" title="Transcript: Transcript_269">
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:00:00.106000" end="0:04:24.173000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00.106000" end="0:04:24.173000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:00:00.106000" end="0:04:24.173000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:00:00.106000" end="0:04:24.173000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:24.173000" end="0:04:26.860000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:24.173000" end="0:04:26.860000" age_lower="1" age_upper="999">
 und	-	-	-	0:04:24.173000	0:04:26.413000
 darf	-	-	-	0:04:24.173000	0:04:26.413000
 ich	-	-	-	0:04:24.173000	0:04:26.413000
@@ -19,25 +19,25 @@ würde	-	-	-	0:04:26.413000	0:04:26.860000
 mich	-	-	-	0:04:26.413000	0:04:26.860000
 jetzt	-	-	-	0:04:26.413000	0:04:26.860000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:26.860000" end="0:04:27.146000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:26.860000" end="0:04:27.146000" project="PP04" age_lower="20" age_upper="30">
 er	-	-	-	0:04:26.860000	0:04:27.146000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:26.860000" end="0:04:27.146000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:26.860000" end="0:04:27.146000" age_lower="1" age_upper="999">
 intressieren	-	-	-	0:04:26.860000	0:04:27.146000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:27.146000" end="0:04:27.633000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:27.146000" end="0:04:27.633000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:04:27.146000	0:04:27.633000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:27.146000" end="0:04:27.633000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:27.146000" end="0:04:27.633000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:27.633000" end="0:04:27.920000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:27.633000" end="0:04:27.920000" project="PP04" age_lower="20" age_upper="30">
 ist	-	-	-	0:04:27.633000	0:04:27.920000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:27.633000" end="0:04:27.920000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:27.633000" end="0:04:27.920000" age_lower="1" age_upper="999">
 xxx	-	-	-	0:04:27.633000	0:04:27.920000
 xxx	-	-	-	0:04:27.633000	0:04:27.920000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:27.920000" end="0:04:29.400000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:27.920000" end="0:04:29.400000" project="PP04" age_lower="20" age_upper="30">
 bei	-	-	-	0:04:27.920000	0:04:29.400000
 einem	-	-	-	0:04:27.920000	0:04:29.400000
 <<engl.	-	-	-	0:04:27.920000	0:04:29.400000
@@ -45,10 +45,10 @@ aussprache>	-	-	-	0:04:27.920000	0:04:29.400000
 startup>	-	-	-	0:04:27.920000	0:04:29.400000
 unternehmen	-	-	-	0:04:27.920000	0:04:29.400000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:29.400000" end="0:04:29.746000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:29.400000" end="0:04:29.746000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:29.400000	0:04:29.746000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:29.746000" end="0:04:32.320000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:29.746000" end="0:04:32.320000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:04:29.746000	0:04:30.840000
 das	-	-	-	0:04:29.746000	0:04:30.840000
 ist	-	-	-	0:04:29.746000	0:04:30.840000
@@ -59,9 +59,9 @@ das	-	-	-	0:04:30.840000	0:04:32.320000
 heißt	-	-	-	0:04:30.840000	0:04:32.320000
 SONSTIGE	SONSTIGE	-	-	0:04:30.840000	0:04:32.320000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:32.320000" end="0:04:33.180000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:32.320000" end="0:04:33.180000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:33.180000" end="0:04:41.726000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:33.180000" end="0:04:41.726000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:04:33.180000	0:04:34.520000
 das	-	-	-	0:04:33.180000	0:04:34.520000
 ist	-	-	-	0:04:33.180000	0:04:34.520000
@@ -85,20 +85,20 @@ skigebieten	-	-	-	0:04:38.880000	0:04:40.566000
 verschiedenen	-	-	-	0:04:40.566000	0:04:41.726000
 Möglichkeiten	-	-	-	0:04:40.566000	0:04:41.726000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:41.726000" end="0:04:42.006000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:41.726000" end="0:04:42.006000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:41.726000	0:04:42.006000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:41.726000" end="0:04:42.980000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:41.726000" end="0:04:42.980000" project="PP04" age_lower="20" age_upper="30">
 an	-	-	-	0:04:41.726000	0:04:42.006000
 skikursen	-	-	-	0:04:42.006000	0:04:42.980000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:42.980000" end="0:04:44.086000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:42.980000" end="0:04:44.086000" age_lower="1" age_upper="999">
 das	-	-	-	0:04:42.980000	0:04:44.086000
 ist	-	-	-	0:04:42.980000	0:04:44.086000
 ja	-	-	-	0:04:42.980000	0:04:44.086000
 cool	-	-	-	0:04:42.980000	0:04:44.086000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:42.980000" end="0:04:58.020000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:42.980000" end="0:04:58.020000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:04:42.980000	0:04:44.086000
 skiverleih	-	-	-	0:04:42.980000	0:04:44.086000
 genau	-	-	-	0:04:44.086000	0:04:44.780000
@@ -136,32 +136,32 @@ bis	-	-	-	0:04:56.853000	0:04:58.020000
 also	-	-	-	0:04:56.853000	0:04:58.020000
 r	-	-	-	0:04:56.853000	0:04:58.020000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:58.020000" end="0:04:58.520000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:58.020000" end="0:04:58.520000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:58.020000" end="0:04:59.393000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:58.020000" end="0:04:59.393000" project="PP04" age_lower="20" age_upper="30">
 eigentlich	-	-	-	0:04:58.020000	0:04:58.520000
 ganz	-	-	-	0:04:58.520000	0:04:59.393000
 Europa	-	-	-	0:04:58.520000	0:04:59.393000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:59.393000" end="0:04:59.740000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:59.393000" end="0:04:59.740000" age_lower="1" age_upper="999">
 also	-	-	-	0:04:59.393000	0:04:59.740000
 hat	-	-	-	0:04:59.393000	0:04:59.740000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:59.393000" end="0:04:59.740000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:59.393000" end="0:04:59.740000" project="PP04" age_lower="20" age_upper="30">
 kann	-	-	-	0:04:59.393000	0:04:59.740000
 man	-	-	-	0:04:59.393000	0:04:59.740000
 sagen	-	-	-	0:04:59.393000	0:04:59.740000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:59.740000" end="0:05:00.540000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:59.740000" end="0:05:00.540000" age_lower="1" age_upper="999">
 er	-	-	-	0:04:59.740000	0:05:00.540000
 dann	-	-	-	0:04:59.740000	0:05:00.540000
 sein	-	-	-	0:04:59.740000	0:05:00.540000
 Hobby	-	-	-	0:04:59.740000	0:05:00.540000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:59.740000" end="0:05:00.540000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:04:59.740000" end="0:05:00.540000" project="PP04" age_lower="20" age_upper="30">
 Spanien	-	-	-	0:04:59.740000	0:05:00.540000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:00.540000" end="0:05:02.526000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:00.540000" end="0:05:02.526000" age_lower="1" age_upper="999">
 eigentlich	-	-	-	0:05:00.540000	0:05:01.706000
 dann	-	-	-	0:05:00.540000	0:05:01.706000
 doch	-	-	-	0:05:00.540000	0:05:01.706000
@@ -169,38 +169,38 @@ auch	-	-	-	0:05:00.540000	0:05:01.706000
 noch	-	-	-	0:05:01.706000	0:05:02.526000
 weiterhin	-	-	-	0:05:01.706000	0:05:02.526000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:01.706000" end="0:05:02.526000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:01.706000" end="0:05:02.526000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:05:01.706000	0:05:02.526000
 genau	-	-	-	0:05:01.706000	0:05:02.526000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:02.526000" end="0:05:03.713000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:02.526000" end="0:05:03.713000" age_lower="1" age_upper="999">
 zum	-	-	-	0:05:02.526000	0:05:03.280000
 Beruf	-	-	-	0:05:02.526000	0:05:03.280000
 gemacht	-	-	-	0:05:02.526000	0:05:03.280000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:03.280000" end="0:05:03.713000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:03.280000" end="0:05:03.713000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:05:03.280000	0:05:03.713000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:03.713000" end="0:05:04.746000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:03.713000" end="0:05:04.746000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:03.713000	0:05:04.746000
 das	-	-	-	0:05:03.713000	0:05:04.746000
 ist	-	-	-	0:05:03.713000	0:05:04.746000
 ja	-	-	-	0:05:03.713000	0:05:04.746000
 spannend	-	-	-	0:05:03.713000	0:05:04.746000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:03.713000" end="0:05:04.746000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:03.713000" end="0:05:04.746000" project="PP04" age_lower="20" age_upper="30">
 das	-	-	-	0:05:03.713000	0:05:04.746000
 stimmt	-	-	-	0:05:03.713000	0:05:04.746000
 ja	-	-	-	0:05:03.713000	0:05:04.746000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:04.746000" end="0:05:05.260000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:04.746000" end="0:05:05.260000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:05.260000" end="0:05:05.866000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:05.260000" end="0:05:05.866000" project="PP04" age_lower="20" age_upper="30">
 wirklich	-	-	-	0:05:05.260000	0:05:05.866000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:05.866000" end="0:05:06.400000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:05.866000" end="0:05:06.400000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:05.866000" end="0:05:11.240000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:05.866000" end="0:05:11.240000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:05:05.866000	0:05:06.400000
 weil	-	-	-	0:05:05.866000	0:05:06.400000
 vor	-	-	-	0:05:05.866000	0:05:06.400000
@@ -226,15 +226,15 @@ jetzt	-	-	-	0:05:08.540000	0:05:10.906000
 aus	-	-	-	0:05:08.540000	0:05:10.906000
 also	-	-	-	0:05:10.906000	0:05:11.240000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:11.240000" end="0:05:11.950000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:11.240000" end="0:05:11.950000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:11.240000" end="0:05:13.550000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:11.240000" end="0:05:13.550000" project="PP04" age_lower="20" age_upper="30">
 da	-	-	-	0:05:11.960000	0:05:13.550000
 ist	-	-	-	0:05:11.960000	0:05:13.550000
 er	-	-	-	0:05:11.960000	0:05:13.550000
 experte	-	-	-	0:05:11.960000	0:05:13.550000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:13.553000" end="0:05:18.066000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:13.553000" end="0:05:18.066000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:05:13.553000	0:05:14.840000
 schön	-	-	-	0:05:13.553000	0:05:14.840000
 und	-	-	-	0:05:14.840000	0:05:18.066000
@@ -247,7 +247,7 @@ ihrem	-	-	-	0:05:14.840000	0:05:18.066000
 Haushalt	-	-	-	0:05:14.840000	0:05:18.066000
 zusammen	-	-	-	0:05:14.840000	0:05:18.066000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:18.066000" end="0:05:33.300000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:18.066000" end="0:05:33.300000" project="PP04" age_lower="20" age_upper="30">
 mit	-	-	-	0:05:18.066000	0:05:19.580000
 meiner	-	-	-	0:05:18.066000	0:05:19.580000
 Mama	-	-	-	0:05:18.066000	0:05:19.580000
@@ -293,9 +293,9 @@ also	-	-	-	0:05:31.506000	0:05:33.300000
 vom	-	-	-	0:05:31.506000	0:05:33.300000
 stadtzentrum	-	-	-	0:05:31.506000	0:05:33.300000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:33.300000" end="0:05:33.653000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:33.300000" end="0:05:33.653000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:33.300000" end="0:05:41.733000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:33.300000" end="0:05:41.733000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:05:33.300000	0:05:33.653000
 von	-	-	-	0:05:33.300000	0:05:33.653000
 der	-	-	-	0:05:33.653000	0:05:34.153000
@@ -320,18 +320,18 @@ fünfzehn	-	-	-	0:05:37.686000	0:05:41.733000
 Minuten	-	-	-	0:05:37.686000	0:05:41.733000
 dort	-	-	-	0:05:37.686000	0:05:41.733000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:41.740000" end="0:05:42.380000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:41.740000" end="0:05:42.380000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:42.380000" end="0:05:42.946000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:42.380000" end="0:05:42.946000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:05:42.380000	0:05:42.946000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:42.946000" end="0:05:43.920000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:42.946000" end="0:05:43.920000" age_lower="1" age_upper="999">
 und	-	-	-	0:05:42.946000	0:05:43.920000
 jetzt	-	-	-	0:05:42.946000	0:05:43.920000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:42.946000" end="0:05:43.920000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:42.946000" end="0:05:43.920000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:43.920000" end="0:05:50.166000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:43.920000" end="0:05:50.166000" age_lower="1" age_upper="999">
 haben	-	-	-	0:05:43.920000	0:05:46.646000
 Sie	-	-	-	0:05:43.920000	0:05:46.646000
 schon	-	-	-	0:05:43.920000	0:05:46.646000
@@ -355,11 +355,11 @@ sind	-	-	-	0:05:48.586000	0:05:50.166000
 sind	-	-	-	0:05:48.586000	0:05:50.166000
 Studentin	-	-	-	0:05:48.586000	0:05:50.166000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:50.166000" end="0:05:50.546000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:50.166000" end="0:05:50.546000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:50.546000" end="0:05:50.980000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:50.546000" end="0:05:50.980000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:50.546000" end="0:05:59.546000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:50.546000" end="0:05:59.546000" project="PP04" age_lower="20" age_upper="30">
 studiere	-	-	-	0:05:50.546000	0:05:50.980000
 ich	-	-	-	0:05:51.493000	0:05:54.780000
 bin	-	-	-	0:05:51.493000	0:05:54.780000
@@ -381,11 +381,11 @@ in	-	-	-	0:05:57.546000	0:05:59.546000
 <<kichernd>	-	-	-	0:05:57.546000	0:05:59.546000
 sicht>	-	-	-	0:05:57.546000	0:05:59.546000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:59.546000" end="0:06:00.180000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:59.546000" end="0:06:00.180000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:59.546000" end="0:06:00.180000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:05:59.546000" end="0:06:00.180000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:00.180000" end="0:06:04.846000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:00.180000" end="0:06:04.846000" age_lower="1" age_upper="999">
 und	-	-	-	0:06:00.180000	0:06:04.846000
 danach	-	-	-	0:06:00.180000	0:06:04.846000
 ist	-	-	-	0:06:00.180000	0:06:04.846000
@@ -400,13 +400,13 @@ orientiert	-	-	-	0:06:00.180000	0:06:04.846000
 bei	-	-	-	0:06:00.180000	0:06:04.846000
 SONSTIGE	SONSTIGE	-	-	0:06:00.180000	0:06:04.846000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:04.846000" end="0:06:05.786000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:04.846000" end="0:06:05.786000" project="PP04" age_lower="20" age_upper="30">
 stimmt	-	-	-	0:06:04.846000	0:06:05.786000
 ja	-	-	-	0:06:04.846000	0:06:05.786000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:05.786000" end="0:06:06.273000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:05.786000" end="0:06:06.273000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:06.273000" end="0:06:14.986000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:06.273000" end="0:06:14.986000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:06:06.273000	0:06:08.686000
 theoretisch	-	-	-	0:06:06.273000	0:06:08.686000
 könnten	-	-	-	0:06:06.273000	0:06:08.686000
@@ -426,14 +426,14 @@ also	-	-	-	0:06:13.906000	0:06:14.986000
 ohne	-	-	-	0:06:13.906000	0:06:14.986000
 weitere	-	-	-	0:06:13.906000	0:06:14.986000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:14.986000" end="0:06:16.546000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:14.986000" end="0:06:16.546000" age_lower="1" age_upper="999">
 direkt	-	-	-	0:06:14.986000	0:06:16.100000
 in	-	-	-	0:06:14.986000	0:06:16.100000
 die	-	-	-	0:06:14.986000	0:06:16.100000
 praxis	-	-	-	0:06:14.986000	0:06:16.100000
 gehen	-	-	-	0:06:16.100000	0:06:16.546000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:16.100000" end="0:06:18.066000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:16.100000" end="0:06:18.066000" project="PP04" age_lower="20" age_upper="30">
 direx	-	-	-	0:06:16.100000	0:06:16.546000
 in	-	-	-	0:06:16.100000	0:06:16.546000
 genau	-	-	-	0:06:16.546000	0:06:17.020000
@@ -442,14 +442,14 @@ in	-	-	-	0:06:17.020000	0:06:18.066000
 die	-	-	-	0:06:17.020000	0:06:18.066000
 praxis	-	-	-	0:06:17.020000	0:06:18.066000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:18.066000" end="0:06:18.800000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:18.066000" end="0:06:18.800000" age_lower="1" age_upper="999">
 und	-	-	-	0:06:18.066000	0:06:18.800000
 was	-	-	-	0:06:18.066000	0:06:18.800000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:18.066000" end="0:06:18.800000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:18.066000" end="0:06:18.800000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:06:18.066000	0:06:18.800000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:18.800000" end="0:06:25.780000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:18.800000" end="0:06:25.780000" age_lower="1" age_upper="999">
 sind	-	-	-	0:06:18.800000	0:06:20.473000
 da	-	-	-	0:06:18.800000	0:06:20.473000
 so	-	-	-	0:06:18.800000	0:06:20.473000
@@ -472,7 +472,7 @@ weiter	-	-	-	0:06:20.475000	0:06:24.960000
 agieren	-	-	-	0:06:24.960000	0:06:25.780000
 werden	-	-	-	0:06:24.960000	0:06:25.780000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:24.960000" end="0:06:28.700000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:24.960000" end="0:06:28.700000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:06:24.960000	0:06:25.780000
 das	-	-	-	0:06:24.960000	0:06:25.780000
 ist	-	-	-	0:06:25.780000	0:06:26.400000
@@ -486,25 +486,25 @@ auch	-	-	-	0:06:26.400000	0:06:28.700000
 schon	-	-	-	0:06:26.400000	0:06:28.700000
 ZAHL	ZAHL	-	-	0:06:26.400000	0:06:28.700000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:28.700000" end="0:06:29.646000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:28.700000" end="0:06:29.646000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:28.700000" end="0:06:29.646000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:28.700000" end="0:06:29.646000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:06:28.700000	0:06:29.646000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:29.646000" end="0:06:30.886000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:29.646000" end="0:06:30.886000" age_lower="1" age_upper="999">
 ich	-	-	-	0:06:29.646000	0:06:30.080000
 auch	-	-	-	0:06:29.646000	0:06:30.080000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:30.080000" end="0:06:30.886000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:30.080000" end="0:06:30.886000" project="PP04" age_lower="20" age_upper="30">
 ah	-	-	-	0:06:30.080000	0:06:30.886000
 so	-	-	-	0:06:30.080000	0:06:30.886000
 <<kichernd>	-	-	-	0:06:30.080000	0:06:30.886000
 okay	-	-	-	0:06:30.080000	0:06:30.886000
 ,>	-	-	-	0:06:30.080000	0:06:30.886000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:30.886000" end="0:06:31.746000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:30.886000" end="0:06:31.746000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:30.886000" end="0:06:32.890000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:30.886000" end="0:06:32.890000" project="PP04" age_lower="20" age_upper="30">
 eh	-	-	-	0:06:31.746000	0:06:31.900000
 und	-	-	-	0:06:31.900000	0:06:32.890000
 und	-	-	-	0:06:31.900000	0:06:32.890000
@@ -513,9 +513,9 @@ denke	-	-	-	0:06:31.900000	0:06:32.890000
 ich	-	-	-	0:06:31.900000	0:06:32.890000
 mir	-	-	-	0:06:31.900000	0:06:32.890000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:32.890000" end="0:06:33.255000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:32.890000" end="0:06:33.255000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:32.890000" end="0:06:37.886000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:32.890000" end="0:06:37.886000" project="PP04" age_lower="20" age_upper="30">
 halt	-	-	-	0:06:32.890000	0:06:33.255000
 ich	-	-	-	0:06:33.255000	0:06:34.273000
 habe	-	-	-	0:06:33.255000	0:06:34.273000
@@ -531,10 +531,10 @@ eine	-	-	-	0:06:34.273000	0:06:37.886000
 Familie	-	-	-	0:06:34.273000	0:06:37.886000
 Gründen	-	-	-	0:06:34.273000	0:06:37.886000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:37.886000" end="0:06:38.286000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:37.886000" end="0:06:38.286000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:37.886000	0:06:38.286000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:38.286000" end="0:06:48.126000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:38.286000" end="0:06:48.126000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:06:38.286000	0:06:41.073000
 entweder	-	-	-	0:06:38.286000	0:06:41.073000
 dass	-	-	-	0:06:38.286000	0:06:41.073000
@@ -562,9 +562,9 @@ ein	-	-	-	0:06:46.953000	0:06:48.126000
 Platz	-	-	-	0:06:46.953000	0:06:48.126000
 finde	-	-	-	0:06:46.953000	0:06:48.126000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:48.126000" end="0:06:48.546000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:48.126000" end="0:06:48.546000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:48.546000" end="0:06:55.200000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:48.546000" end="0:06:55.200000" project="PP04" age_lower="20" age_upper="30">
 weil	-	-	-	0:06:48.546000	0:06:50.493000
 das	-	-	-	0:06:48.546000	0:06:50.493000
 halt	-	-	-	0:06:48.546000	0:06:50.493000
@@ -587,10 +587,10 @@ hat	-	-	-	0:06:52.140000	0:06:54.560000
 dass	-	-	-	0:06:54.560000	0:06:55.200000
 man	-	-	-	0:06:54.560000	0:06:55.200000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:55.200000" end="0:06:55.753000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:55.200000" end="0:06:55.753000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:55.200000	0:06:55.753000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:55.753000" end="0:07:01.833000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:06:55.753000" end="0:07:01.833000" project="PP04" age_lower="20" age_upper="30">
 da	-	-	-	0:06:55.753000	0:06:57.713000
 weil	-	-	-	0:06:55.753000	0:06:57.713000
 sonst	-	-	-	0:06:55.753000	0:06:57.713000
@@ -610,9 +610,9 @@ was	-	-	-	0:07:01.280000	0:07:01.833000
 man	-	-	-	0:07:01.280000	0:07:01.833000
 auch	-	-	-	0:07:01.280000	0:07:01.833000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:01.833000" end="0:07:02.526000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:01.833000" end="0:07:02.526000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:01.833000" end="0:07:03.553000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:01.833000" end="0:07:03.553000" project="PP04" age_lower="20" age_upper="30">
 gearbeitet	-	-	-	0:07:01.833000	0:07:02.526000
 hat	-	-	-	0:07:02.526000	0:07:02.913000
 aber	-	-	-	0:07:02.913000	0:07:03.553000
@@ -621,18 +621,18 @@ wenn	-	-	-	0:07:02.913000	0:07:03.553000
 man	-	-	-	0:07:02.913000	0:07:03.553000
 >	-	-	-	0:07:02.913000	0:07:03.553000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:03.553000" end="0:07:04.253000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:03.553000" end="0:07:04.253000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:03.553000" end="0:07:04.253000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:03.553000" end="0:07:04.253000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:04.253000" end="0:07:04.466000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:04.253000" end="0:07:04.466000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:04.253000	0:07:04.466000
 aber	-	-	-	0:07:04.253000	0:07:04.466000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:04.253000" end="0:07:04.466000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:04.253000" end="0:07:04.466000" project="PP04" age_lower="20" age_upper="30">
 das	-	-	-	0:07:04.253000	0:07:04.466000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:04.466000" end="0:07:11.546000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:04.466000" end="0:07:11.546000" age_lower="1" age_upper="999">
 was	-	-	-	0:07:04.466000	0:07:05.933000
 sind	-	-	-	0:07:04.466000	0:07:05.933000
 denn	-	-	-	0:07:04.466000	0:07:05.933000
@@ -654,14 +654,14 @@ auch	-	-	-	0:07:08.233000	0:07:10.233000
 vertretungsarbeit	-	-	-	0:07:08.233000	0:07:10.233000
 leisten	-	-	-	0:07:10.233000	0:07:11.546000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:10.233000" end="0:07:11.546000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:10.233000" end="0:07:11.546000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:07:10.233000	0:07:11.546000
 genau	-	-	-	0:07:10.233000	0:07:11.546000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:11.546000" end="0:07:12.060000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:11.546000" end="0:07:12.060000" age_lower="1" age_upper="999">
 oder	-	-	-	0:07:11.546000	0:07:12.060000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:12.060000" end="0:07:13.686000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:12.060000" end="0:07:13.686000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:07:12.060000	0:07:13.686000
 so	-	-	-	0:07:12.060000	0:07:13.686000
 möchte	-	-	-	0:07:12.060000	0:07:13.686000
@@ -669,16 +669,16 @@ ich	-	-	-	0:07:12.060000	0:07:13.686000
 eh	-	-	-	0:07:12.060000	0:07:13.686000
 auch	-	-	-	0:07:12.060000	0:07:13.686000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:13.686000" end="0:07:14.733000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:13.686000" end="0:07:14.733000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:13.686000" end="0:07:14.733000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:13.686000" end="0:07:14.733000" project="PP04" age_lower="20" age_upper="30">
 äh	-	-	-	0:07:13.686000	0:07:14.733000
 beginnen	-	-	-	0:07:13.686000	0:07:14.733000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:14.733000" end="0:07:15.286000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:14.733000" end="0:07:15.286000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:14.733000	0:07:15.286000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:14.733000" end="0:07:18.993000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:14.733000" end="0:07:18.993000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:07:14.733000	0:07:15.286000
 glab	-	-	-	0:07:14.733000	0:07:15.286000
 das	-	-	-	0:07:14.733000	0:07:15.286000
@@ -698,18 +698,18 @@ eine	-	-	-	0:07:16.826000	0:07:18.993000
 gewisse	-	-	-	0:07:16.826000	0:07:18.993000
 Erfahrung	-	-	-	0:07:16.826000	0:07:18.993000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:18.993000" end="0:07:19.626000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:18.993000" end="0:07:19.626000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:18.993000	0:07:19.626000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:18.993000" end="0:07:19.920000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:18.993000" end="0:07:19.920000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:07:18.993000	0:07:19.626000
 Jahre	-	-	-	0:07:18.993000	0:07:19.626000
 die	-	-	-	0:07:18.993000	0:07:19.626000
 man	-	-	-	0:07:19.626000	0:07:19.920000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:19.920000" end="0:07:20.313000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:19.920000" end="0:07:20.313000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:19.920000" end="0:07:31.126000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:19.920000" end="0:07:31.126000" project="PP04" age_lower="20" age_upper="30">
 die	-	-	-	0:07:20.313000	0:07:22.813000
 man	-	-	-	0:07:20.313000	0:07:22.813000
 davor	-	-	-	0:07:20.313000	0:07:22.813000
@@ -742,42 +742,42 @@ nicht	-	-	-	0:07:29.346000	0:07:31.126000
 so	-	-	-	0:07:29.346000	0:07:31.126000
 informiert	-	-	-	0:07:29.346000	0:07:31.126000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:31.126000" end="0:07:31.673000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:31.126000" end="0:07:31.673000" age_lower="1" age_upper="999">
 privat	-	-	-	0:07:31.126000	0:07:31.673000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:31.126000" end="0:07:31.673000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:31.126000" end="0:07:31.673000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:31.673000" end="0:07:32.806000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:31.673000" end="0:07:32.806000" age_lower="1" age_upper="999">
 wahrscheinlich	-	-	-	0:07:31.673000	0:07:32.146000
 würde	-	-	-	0:07:32.146000	0:07:32.806000
 es	-	-	-	0:07:32.146000	0:07:32.806000
 gehen	-	-	-	0:07:32.146000	0:07:32.806000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:32.146000" end="0:07:32.806000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:32.146000" end="0:07:32.806000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:07:32.146000	0:07:32.806000
 wahrscheinlich	-	-	-	0:07:32.146000	0:07:32.806000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:32.806000" end="0:07:33.720000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:32.806000" end="0:07:33.720000" age_lower="1" age_upper="999">
 aber	-	-	-	0:07:32.806000	0:07:33.720000
 mit	-	-	-	0:07:32.806000	0:07:33.720000
 kassastelle	-	-	-	0:07:32.806000	0:07:33.720000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:32.806000" end="0:07:33.720000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:32.806000" end="0:07:33.720000" project="PP04" age_lower="20" age_upper="30">
 privat	-	-	-	0:07:32.806000	0:07:33.720000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:33.720000" end="0:07:34.253000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:33.720000" end="0:07:34.253000" age_lower="1" age_upper="999">
 würde	-	-	-	0:07:33.720000	0:07:34.253000
 es	-	-	-	0:07:33.720000	0:07:34.253000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:33.720000" end="0:07:34.253000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:33.720000" end="0:07:34.253000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:07:33.720000	0:07:34.253000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:34.253000" end="0:07:35.406000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:34.253000" end="0:07:35.406000" age_lower="1" age_upper="999">
 wahrscheinlich	-	-	-	0:07:34.253000	0:07:35.406000
 schwierig	-	-	-	0:07:34.253000	0:07:35.406000
 werden	-	-	-	0:07:34.253000	0:07:35.406000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:34.253000" end="0:07:36.126000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:34.253000" end="0:07:36.126000" project="PP04" age_lower="20" age_upper="30">
 mit	-	-	-	0:07:34.253000	0:07:35.406000
 K	-	-	-	0:07:34.253000	0:07:35.406000
 Kassa	-	-	-	0:07:34.253000	0:07:35.406000
@@ -786,7 +786,7 @@ nicht	-	-	-	0:07:34.253000	0:07:35.406000
 ja	-	-	-	0:07:35.406000	0:07:36.126000
 ja	-	-	-	0:07:35.406000	0:07:36.126000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:36.126000" end="0:07:42.506000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:36.126000" end="0:07:42.506000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:36.126000	0:07:36.440000
 ja	-	-	-	0:07:36.440000	0:07:39.753000
 aber	-	-	-	0:07:36.440000	0:07:39.753000
@@ -808,10 +808,10 @@ dass	-	-	-	0:07:41.753000	0:07:42.506000
 man	-	-	-	0:07:41.753000	0:07:42.506000
 facharzt	-	-	-	0:07:41.753000	0:07:42.506000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:41.753000" end="0:07:42.506000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:41.753000" end="0:07:42.506000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:07:41.753000	0:07:42.506000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:42.506000" end="0:07:44.313000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:42.506000" end="0:07:44.313000" age_lower="1" age_upper="999">
 ist	-	-	-	0:07:42.506000	0:07:42.973000
 und	-	-	-	0:07:42.973000	0:07:43.620000
 nicht	-	-	-	0:07:42.973000	0:07:43.620000
@@ -820,22 +820,22 @@ wie	-	-	-	0:07:43.620000	0:07:44.313000
 bei	-	-	-	0:07:43.620000	0:07:44.313000
 der	-	-	-	0:07:43.620000	0:07:44.313000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:43.620000" end="0:07:44.313000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:43.620000" end="0:07:44.313000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:07:43.620000	0:07:44.313000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:44.313000" end="0:07:47.346000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:44.313000" end="0:07:47.346000" age_lower="1" age_upper="999">
 humanmedizin	-	-	-	0:07:44.313000	0:07:45.332000
 dann	-	-	-	0:07:45.332000	0:07:46.820000
 erst	-	-	-	0:07:45.332000	0:07:46.820000
 wirklich	-	-	-	0:07:45.332000	0:07:46.820000
 loslegt	-	-	-	0:07:45.332000	0:07:46.820000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:46.820000" end="0:07:47.346000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:46.820000" end="0:07:47.346000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:07:46.820000	0:07:47.346000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:47.346000" end="0:07:47.733000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:47.346000" end="0:07:47.733000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:47.346000" end="0:07:54.693000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:47.346000" end="0:07:54.693000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:07:47.346000	0:07:47.733000
 war	-	-	-	0:07:47.733000	0:07:49.926000
 auch	-	-	-	0:07:47.733000	0:07:49.926000
@@ -859,9 +859,9 @@ mich	-	-	-	0:07:53.293000	0:07:54.693000
 auch	-	-	-	0:07:53.293000	0:07:54.693000
 interessiert	-	-	-	0:07:53.293000	0:07:54.693000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:54.693000" end="0:07:55.020000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:54.693000" end="0:07:55.020000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:54.693000" end="0:08:01.396000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:07:54.693000" end="0:08:01.396000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:07:55.020000	0:07:57.286000
 bin	-	-	-	0:07:55.020000	0:07:57.286000
 wirklich	-	-	-	0:07:55.020000	0:07:57.286000
@@ -878,11 +878,11 @@ ein	-	-	-	0:07:59.286000	0:08:01.396000
 Handwerk	-	-	-	0:07:59.286000	0:08:01.396000
 eigentlich	-	-	-	0:07:59.286000	0:08:01.396000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:01.396000" end="0:08:02.173000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:01.396000" end="0:08:02.173000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:01.396000	0:08:02.173000
 stimmt	-	-	-	0:08:01.396000	0:08:02.173000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:01.396000" end="0:08:08.326000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:01.396000" end="0:08:08.326000" project="PP04" age_lower="20" age_upper="30">
 es	-	-	-	0:08:01.396000	0:08:02.173000
 man	-	-	-	0:08:02.173000	0:08:04.286000
 hat	-	-	-	0:08:02.173000	0:08:04.286000
@@ -897,33 +897,33 @@ sklinisches	-	-	-	0:08:06.280000	0:08:07.180000
 sehr	-	-	-	0:08:07.180000	0:08:08.326000
 spannend	-	-	-	0:08:07.180000	0:08:08.326000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:08.326000" end="0:08:10.140000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:08.326000" end="0:08:10.140000" age_lower="1" age_upper="999">
 man	-	-	-	0:08:08.326000	0:08:09.666000
 kann	-	-	-	0:08:08.326000	0:08:09.666000
 sich	-	-	-	0:08:08.326000	0:08:09.666000
 immer	-	-	-	0:08:08.326000	0:08:09.666000
 weiterentwickeln	-	-	-	0:08:08.326000	0:08:09.666000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:09.666000" end="0:08:10.140000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:09.666000" end="0:08:10.140000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:08:09.666000	0:08:10.140000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:10.140000" end="0:08:10.726000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:10.140000" end="0:08:10.726000" age_lower="1" age_upper="999">
 es	-	-	-	0:08:10.140000	0:08:10.726000
 es	-	-	-	0:08:10.140000	0:08:10.726000
 hört	-	-	-	0:08:10.140000	0:08:10.726000
 ja	-	-	-	0:08:10.140000	0:08:10.726000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:10.140000" end="0:08:10.726000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:10.140000" end="0:08:10.726000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:08:10.140000	0:08:10.726000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:10.726000" end="0:08:11.253000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:10.726000" end="0:08:11.253000" age_lower="1" age_upper="999">
 nie	-	-	-	0:08:10.726000	0:08:11.253000
 auf	-	-	-	0:08:10.726000	0:08:11.253000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:11.253000" end="0:08:11.906000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:11.253000" end="0:08:11.906000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:08:11.253000	0:08:11.906000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:11.906000" end="0:08:20.533000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:11.906000" end="0:08:20.533000" age_lower="1" age_upper="999">
 gut	-	-	-	0:08:11.906000	0:08:12.733000
 dann	-	-	-	0:08:12.733000	0:08:16.986000
 würde	-	-	-	0:08:12.733000	0:08:16.986000
@@ -943,24 +943,24 @@ gerne	-	-	-	0:08:17.820000	0:08:20.533000
 in	-	-	-	0:08:17.820000	0:08:20.533000
 ORT	ORT	-	-	0:08:17.820000	0:08:20.533000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:20.533000" end="0:08:22.500000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:20.533000" end="0:08:22.500000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:08:20.533000	0:08:21.653000
 ja	-	-	-	0:08:21.653000	0:08:22.246000
 wirklich	-	-	-	0:08:22.246000	0:08:22.500000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:22.500000" end="0:08:22.826000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:22.500000" end="0:08:22.826000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:22.500000" end="0:08:23.286000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:22.500000" end="0:08:23.286000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:08:22.826000	0:08:23.286000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:23.286000" end="0:08:24.726000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:23.286000" end="0:08:24.726000" age_lower="1" age_upper="999">
 was	-	-	-	0:08:23.286000	0:08:24.726000
 gefällt	-	-	-	0:08:23.286000	0:08:24.726000
 Ihnen	-	-	-	0:08:23.286000	0:08:24.726000
 an	-	-	-	0:08:23.286000	0:08:24.726000
 ORT	ORT	-	-	0:08:23.286000	0:08:24.726000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:24.726000" end="0:08:30.473000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:24.726000" end="0:08:30.473000" project="PP04" age_lower="20" age_upper="30">
 einerseits	-	-	-	0:08:24.726000	0:08:27.066000
 ich	-	-	-	0:08:27.066000	0:08:28.620000
 bin	-	-	-	0:08:27.066000	0:08:28.620000
@@ -976,9 +976,9 @@ in	-	-	-	0:08:28.620000	0:08:30.473000
 der	-	-	-	0:08:28.620000	0:08:30.473000
 Nähe	-	-	-	0:08:28.620000	0:08:30.473000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:30.473000" end="0:08:30.713000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:30.473000" end="0:08:30.713000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:30.713000" end="0:08:35.826000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:30.713000" end="0:08:35.826000" project="PP04" age_lower="20" age_upper="30">
 wir	-	-	-	0:08:30.713000	0:08:34.053000
 sind	-	-	-	0:08:30.713000	0:08:34.053000
 früher	-	-	-	0:08:30.713000	0:08:34.053000
@@ -998,9 +998,9 @@ anders	-	-	-	0:08:34.053000	0:08:35.826000
 als	-	-	-	0:08:34.053000	0:08:35.826000
 jetzt	-	-	-	0:08:34.053000	0:08:35.826000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:35.826000" end="0:08:36.313000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:35.826000" end="0:08:36.313000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:36.313000" end="0:08:42.993000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:36.313000" end="0:08:42.993000" project="PP04" age_lower="20" age_upper="30">
 äh	-	-	-	0:08:36.313000	0:08:40.799000
 hat	-	-	-	0:08:36.313000	0:08:40.799000
 es	-	-	-	0:08:36.313000	0:08:40.799000
@@ -1033,24 +1033,24 @@ die	-	-	-	0:08:42.380000	0:08:42.993000
 Omi	-	-	-	0:08:42.380000	0:08:42.993000
 hat	-	-	-	0:08:42.380000	0:08:42.993000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:42.993000" end="0:08:43.712000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:42.993000" end="0:08:43.712000" age_lower="1" age_upper="999">
 wirklich	-	-	-	0:08:42.993000	0:08:43.712000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:42.993000" end="0:08:44.340000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:42.993000" end="0:08:44.340000" project="PP04" age_lower="20" age_upper="30">
 uns	-	-	-	0:08:42.993000	0:08:43.712000
 raufgezogen	-	-	-	0:08:42.993000	0:08:43.712000
 oder	-	-	-	0:08:44	0:08:44.340000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:44.340000" end="0:08:44.626000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:44.340000" end="0:08:44.626000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:44.340000" end="0:08:45.086000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:44.340000" end="0:08:45.086000" project="PP04" age_lower="20" age_upper="30">
 die	-	-	-	0:08:44.340000	0:08:44.626000
 Mama	-	-	-	0:08:44.340000	0:08:44.626000
 oder	-	-	-	0:08:44.626000	0:08:45.086000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:45.086000" end="0:08:45.586000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:45.086000" end="0:08:45.586000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:45.086000" end="0:09:00.826000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:08:45.086000" end="0:09:00.826000" project="PP04" age_lower="20" age_upper="30">
 Papa	-	-	-	0:08:45.086000	0:08:45.586000
 und	-	-	-	0:08:45.586000	0:08:48.853000
 also	-	-	-	0:08:45.586000	0:08:48.853000
@@ -1087,9 +1087,9 @@ grün	-	-	-	0:08:56.980000	0:09:00.826000
 um	-	-	-	0:08:56.980000	0:09:00.826000
 sich	-	-	-	0:08:56.980000	0:09:00.826000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:00.846000" end="0:09:01.440000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:00.846000" end="0:09:01.440000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:00.846000" end="0:09:04.846000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:00.846000" end="0:09:04.846000" project="PP04" age_lower="20" age_upper="30">
 es	-	-	-	0:09:00.846000	0:09:01.440000
 ist	-	-	-	0:09:00.846000	0:09:01.440000
 jetzt	-	-	-	0:09:00.846000	0:09:01.440000
@@ -1101,10 +1101,10 @@ der	-	-	-	0:09:01.440000	0:09:04.566000
 Stadt	-	-	-	0:09:01.440000	0:09:04.566000
 drinnen	-	-	-	0:09:01.440000	0:09:04.566000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:04.846000" end="0:09:05.300000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:04.846000" end="0:09:05.300000" age_lower="1" age_upper="999">
 genau	-	-	-	0:09:04.846000	0:09:05.300000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:04.846000" end="0:09:08.906000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:04.846000" end="0:09:08.906000" project="PP04" age_lower="20" age_upper="30">
 auch	-	-	-	0:09:04.846000	0:09:05.300000
 im	-	-	-	0:09:04.846000	0:09:05.300000
 im	-	-	-	0:09:05.300000	0:09:06.400000
@@ -1121,9 +1121,9 @@ zeitlang	-	-	-	0:09:06.400000	0:09:08.906000
 gewohnt	-	-	-	0:09:06.400000	0:09:08.906000
 haben	-	-	-	0:09:06.400000	0:09:08.906000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:08.906000" end="0:09:09.206000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:08.906000" end="0:09:09.206000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:09.206000" end="0:09:15.606000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:09.206000" end="0:09:15.606000" project="PP04" age_lower="20" age_upper="30">
 wo	-	-	-	0:09:09.206000	0:09:12.320000
 eigentlich	-	-	-	0:09:09.206000	0:09:12.320000
 nur	-	-	-	0:09:09.206000	0:09:12.320000
@@ -1135,13 +1135,13 @@ viele	-	-	-	0:09:13.573000	0:09:15.606000
 Autos	-	-	-	0:09:13.573000	0:09:15.606000
 und	-	-	-	0:09:13.573000	0:09:15.606000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:15.606000" end="0:09:16.853000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:15.606000" end="0:09:16.853000" age_lower="1" age_upper="999">
 ist	-	-	-	0:09:15.606000	0:09:16.853000
 nicht	-	-	-	0:09:15.606000	0:09:16.853000
 so	-	-	-	0:09:15.606000	0:09:16.853000
 grün	-	-	-	0:09:15.606000	0:09:16.853000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:16.853000" end="0:09:18.380000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:16.853000" end="0:09:18.380000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:09:16.853000	0:09:17.733000
 gar	-	-	-	0:09:16.853000	0:09:17.733000
 nicht	-	-	-	0:09:16.853000	0:09:17.733000
@@ -1150,9 +1150,9 @@ meine	-	-	-	0:09:17.733000	0:09:18.380000
 natürlich	-	-	-	0:09:17.733000	0:09:18.380000
 gibt	-	-	-	0:09:17.733000	0:09:18.380000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:18.380000" end="0:09:18.675000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:18.380000" end="0:09:18.675000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:18.380000" end="0:09:30.640000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:18.380000" end="0:09:30.640000" project="PP04" age_lower="20" age_upper="30">
 es	-	-	-	0:09:18.380000	0:09:18.675000
 auch	-	-	-	0:09:18.380000	0:09:18.675000
 gerade	-	-	-	0:09:18.675000	0:09:19.993000
@@ -1189,13 +1189,13 @@ so	-	-	-	0:09:28.206000	0:09:30.640000
 möglich	-	-	-	0:09:28.206000	0:09:30.640000
 ;>	-	-	-	0:09:28.206000	0:09:30.640000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:30.640000" end="0:09:31.440000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:30.640000" end="0:09:31.440000" age_lower="1" age_upper="999">
 okay	-	-	-	0:09:30.640000	0:09:31.440000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:30.640000" end="0:09:31.440000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:30.640000" end="0:09:31.440000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:09:30.640000	0:09:31.440000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:31.440000" end="0:09:43.806000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:31.440000" end="0:09:43.806000" age_lower="1" age_upper="999">
 und	-	-	-	0:09:32.006000	0:09:36.780000
 Sie	-	-	-	0:09:32.006000	0:09:36.780000
 haben	-	-	-	0:09:32.006000	0:09:36.780000
@@ -1228,7 +1228,7 @@ in	-	-	-	0:09:41.693000	0:09:43.806000
 Ihrer	-	-	-	0:09:41.693000	0:09:43.806000
 Freizeit	-	-	-	0:09:41.693000	0:09:43.806000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:43.806000" end="0:09:49.506000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:43.806000" end="0:09:49.506000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:09:43.806000	0:09:44.820000
 also	-	-	-	0:09:44.820000	0:09:47.813000
 eben	-	-	-	0:09:44.820000	0:09:47.813000
@@ -1242,9 +1242,9 @@ irrsinnig	-	-	-	0:09:47.813000	0:09:49.506000
 gern	-	-	-	0:09:47.813000	0:09:49.506000
 snowboarden	-	-	-	0:09:47.813000	0:09:49.506000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:49.506000" end="0:09:50.146000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:49.506000" end="0:09:50.146000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:49.506000" end="0:09:56.300000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:49.506000" end="0:09:56.300000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:09:49.506000	0:09:50.146000
 generell	-	-	-	0:09:49.506000	0:09:50.146000
 draussen	-	-	-	0:09:50.146000	0:09:51.853000
@@ -1256,9 +1256,9 @@ im	-	-	-	0:09:54.073000	0:09:56.300000
 Sommer	-	-	-	0:09:54.073000	0:09:56.300000
 wandern	-	-	-	0:09:54.073000	0:09:56.300000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:56.300000" end="0:09:56.706000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:56.300000" end="0:09:56.706000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:56.706000" end="0:10:00.380000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:56.706000" end="0:10:00.380000" project="PP04" age_lower="20" age_upper="30">
 eben	-	-	-	0:09:56.706000	0:09:58.053000
 schwimmen	-	-	-	0:09:56.706000	0:09:58.053000
 gehen	-	-	-	0:09:56.706000	0:09:58.053000
@@ -1269,9 +1269,9 @@ irrsinnig	-	-	-	0:09:58.053000	0:10:00.380000
 gern	-	-	-	0:09:58.053000	0:10:00.380000
 radfahren	-	-	-	0:09:58.053000	0:10:00.380000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:00.380000" end="0:10:00.780000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:00.380000" end="0:10:00.780000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:00.780000" end="0:10:05.140000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:00.780000" end="0:10:05.140000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:10:00.780000	0:10:03.826000
 habe	-	-	-	0:10:00.780000	0:10:03.826000
 vor	-	-	-	0:10:00.780000	0:10:03.826000
@@ -1283,10 +1283,10 @@ gemacht	-	-	-	0:10:00.780000	0:10:03.826000
 nach	-	-	-	0:10:03.826000	0:10:04.686000
 Griechenland	-	-	-	0:10:03.826000	0:10:04.686000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:05.140000" end="0:10:05.486000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:05.140000" end="0:10:05.486000" age_lower="1" age_upper="999">
 boah	-	-	-	0:10:05.140000	0:10:05.486000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:05.486000" end="0:10:07.526000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:05.486000" end="0:10:07.526000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:10:05.486000	0:10:07.526000
 bin	-	-	-	0:10:05.486000	0:10:07.526000
 von	-	-	-	0:10:05.486000	0:10:07.526000
@@ -1295,7 +1295,7 @@ nach	-	-	-	0:10:05.486000	0:10:07.526000
 Griechenland	-	-	-	0:10:05.486000	0:10:07.526000
 geradelt	-	-	-	0:10:05.486000	0:10:07.526000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:07.533000" end="0:10:09.620000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:07.533000" end="0:10:09.620000" age_lower="1" age_upper="999">
 einem	-	-	-	0:10:07.533000	0:10:08.593000
 rennrad	-	-	-	0:10:07.533000	0:10:08.593000
 oder	-	-	-	0:10:08.593000	0:10:09.246000
@@ -1303,27 +1303,27 @@ mit	-	-	-	0:10:08.593000	0:10:09.246000
 einem	-	-	-	0:10:08.593000	0:10:09.246000
 mountainbike	-	-	-	0:10:09.246000	0:10:09.620000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:09.246000" end="0:10:09.620000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:09.246000" end="0:10:09.620000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:09.620000" end="0:10:10.226000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:09.620000" end="0:10:10.226000" age_lower="1" age_upper="999">
 oder	-	-	-	0:10:09.620000	0:10:10.226000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:10.226000" end="0:10:11.406000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:10.226000" end="0:10:11.406000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:10:10.226000	0:10:10.713000
 eine	-	-	-	0:10:10.713000	0:10:11.406000
 Kreuzung	-	-	-	0:10:10.713000	0:10:11.406000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:11.406000" end="0:10:12.240000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:11.406000" end="0:10:12.240000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:11.406000	0:10:12.240000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:11.406000" end="0:10:12.240000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:11.406000" end="0:10:12.240000" project="PP04" age_lower="20" age_upper="30">
 aus	-	-	-	0:10:11.406000	0:10:12.240000
 den	-	-	-	0:10:11.406000	0:10:12.240000
 beiden	-	-	-	0:10:11.406000	0:10:12.240000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:12.240000" end="0:10:12.720000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:12.240000" end="0:10:12.720000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:12.240000" end="0:10:13.880000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:12.240000" end="0:10:13.880000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:10:12.240000	0:10:12.720000
 das	-	-	-	0:10:12.240000	0:10:12.720000
 <<engl.	-	-	-	0:10:12.720000	0:10:13.880000
@@ -1332,9 +1332,9 @@ cyclocross>	-	-	-	0:10:12.720000	0:10:13.880000
 heißt	-	-	-	0:10:12.720000	0:10:13.880000
 das	-	-	-	0:10:12.720000	0:10:13.880000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:13.880000" end="0:10:14.320000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:13.880000" end="0:10:14.320000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:13.880000" end="0:10:26.593000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:13.880000" end="0:10:26.593000" project="PP04" age_lower="20" age_upper="30">
 d	-	-	-	0:10:13.880000	0:10:14.320000
 ist	-	-	-	0:10:13.880000	0:10:14.320000
 eben	-	-	-	0:10:13.880000	0:10:14.320000
@@ -1374,9 +1374,9 @@ in	-	-	-	0:10:23.146000	0:10:26.593000
 willhaben	-	-	-	0:10:23.146000	0:10:26.593000
 entdeckt	-	-	-	0:10:23.146000	0:10:26.593000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:26.593000" end="0:10:27.106000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:26.593000" end="0:10:27.106000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:27.106000" end="0:10:33.380000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:27.106000" end="0:10:33.380000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:10:27.106000	0:10:28.480000
 ja	-	-	-	0:10:27.106000	0:10:28.480000
 gepäcksträger	-	-	-	0:10:28.480000	0:10:30.120000
@@ -1388,10 +1388,10 @@ reisetaschen	-	-	-	0:10:31.340000	0:10:32.566000
 Zelt	-	-	-	0:10:32.566000	0:10:33.380000
 und	-	-	-	0:10:32.566000	0:10:33.380000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:33.380000" end="0:10:35.200000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:33.380000" end="0:10:35.200000" age_lower="1" age_upper="999">
 Wahnsinn	-	-	-	0:10:33.380000	0:10:35.200000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:33.380000" end="0:10:42.453000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:33.380000" end="0:10:42.453000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:10:33.380000	0:10:35.200000
 einen	-	-	-	0:10:33.380000	0:10:35.200000
 schlafsack	-	-	-	0:10:33.380000	0:10:35.200000
@@ -1419,9 +1419,9 @@ dat	-	-	-	0:10:39.833000	0:10:42.453000
 com>	-	-	-	0:10:39.833000	0:10:42.453000
 geschaut	-	-	-	0:10:39.833000	0:10:42.453000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:42.453000" end="0:10:43" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:42.453000" end="0:10:43" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:42.453000" end="0:10:54.160000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:42.453000" end="0:10:54.160000" project="PP04" age_lower="20" age_upper="30">
 gerade	-	-	-	0:10:43	0:10:47.180000
 dort	-	-	-	0:10:43	0:10:47.180000
 in	-	-	-	0:10:43	0:10:47.180000
@@ -1460,14 +1460,14 @@ wir	-	-	-	0:10:52.086000	0:10:54.160000
 im	-	-	-	0:10:52.086000	0:10:54.160000
 Zelt	-	-	-	0:10:52.086000	0:10:54.160000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:54.160000" end="0:10:55.153000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:54.160000" end="0:10:55.153000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:54.160000	0:10:55.153000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:54.160000" end="0:10:55.473000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:54.160000" end="0:10:55.473000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:10:54.160000	0:10:55.153000
 von	-	-	-	0:10:55.153000	0:10:55.473000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:55.473000" end="0:10:56.526000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:55.473000" end="0:10:56.526000" age_lower="1" age_upper="999">
 und	-	-	-	0:10:55.473000	0:10:56.526000
 da	-	-	-	0:10:55.473000	0:10:56.526000
 sind	-	-	-	0:10:55.473000	0:10:56.526000
@@ -1475,12 +1475,12 @@ da	-	-	-	0:10:55.473000	0:10:56.526000
 sind	-	-	-	0:10:55.473000	0:10:56.526000
 sie	-	-	-	0:10:55.473000	0:10:56.526000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:55.473000" end="0:10:56.526000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:55.473000" end="0:10:56.526000" project="PP04" age_lower="20" age_upper="30">
 fast	-	-	-	0:10:55.473000	0:10:56.526000
 ein	-	-	-	0:10:55.473000	0:10:56.526000
 Monat	-	-	-	0:10:55.473000	0:10:56.526000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:56.526000" end="0:11:00.686000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:56.526000" end="0:11:00.686000" age_lower="1" age_upper="999">
 nach	-	-	-	0:10:56.526000	0:10:59.220000
 Griechenland	-	-	-	0:10:56.526000	0:10:59.220000
 und	-	-	-	0:10:56.526000	0:10:59.220000
@@ -1491,7 +1491,7 @@ oder	-	-	-	0:10:59.220000	0:11:00.686000
 dann	-	-	-	0:10:59.220000	0:11:00.686000
 geflogen	-	-	-	0:10:59.220000	0:11:00.686000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:59.220000" end="0:11:01.620000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:59.220000" end="0:11:01.620000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:10:59.220000	0:11:00.686000
 von	-	-	-	0:10:59.220000	0:11:00.686000
 Griechenland	-	-	-	0:10:59.220000	0:11:00.686000
@@ -1500,10 +1500,10 @@ wir	-	-	-	0:11:00.686000	0:11:01.620000
 dann	-	-	-	0:11:00.686000	0:11:01.620000
 geflogen	-	-	-	0:11:00.686000	0:11:01.620000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:01.620000" end="0:11:02.033000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:01.620000" end="0:11:02.033000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:01.620000	0:11:02.033000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:01.620000" end="0:11:08.960000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:01.620000" end="0:11:08.960000" project="PP04" age_lower="20" age_upper="30">
 wir	-	-	-	0:11:02.033000	0:11:03.733000
 sind	-	-	-	0:11:02.033000	0:11:03.733000
 dann	-	-	-	0:11:02.033000	0:11:03.733000
@@ -1527,7 +1527,7 @@ sehr	-	-	-	0:11:06.366000	0:11:08.726000
 aufregender	-	-	-	0:11:06.366000	0:11:08.726000
 Sommer	-	-	-	0:11:06.366000	0:11:08.726000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:08.960000" end="0:11:11.380000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:08.960000" end="0:11:11.380000" age_lower="1" age_upper="999">
 und	-	-	-	0:11:08.960000	0:11:10.780000
 das	-	-	-	0:11:08.960000	0:11:10.780000
 Rad	-	-	-	0:11:08.960000	0:11:10.780000
@@ -1538,12 +1538,12 @@ mitgenommen	-	-	-	0:11:08.960000	0:11:10.780000
 im	-	-	-	0:11:08.960000	0:11:10.780000
 Flugzeug	-	-	-	0:11:08.960000	0:11:10.780000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:10.780000" end="0:11:11.766000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:10.780000" end="0:11:11.766000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:11:11.380000	0:11:11.766000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:11.766000" end="0:11:12.266000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:11.766000" end="0:11:12.266000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:11.766000" end="0:11:14.206000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:11.766000" end="0:11:14.206000" project="PP04" age_lower="20" age_upper="30">
 wir	-	-	-	0:11:11.766000	0:11:12.266000
 mussten	-	-	-	0:11:11.766000	0:11:12.266000
 halt	-	-	-	0:11:12.266000	0:11:14.206000
@@ -1556,10 +1556,10 @@ einer	-	-	-	0:11:12.266000	0:11:14.206000
 Box	-	-	-	0:11:12.266000	0:11:14.206000
 verpacken	-	-	-	0:11:12.266000	0:11:14.206000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:14.206000" end="0:11:14.640000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:14.206000" end="0:11:14.640000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:14.206000	0:11:14.640000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:14.640000" end="0:11:17.033000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:14.640000" end="0:11:17.033000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:11:14.640000	0:11:17.033000
 das	-	-	-	0:11:14.640000	0:11:17.033000
 war	-	-	-	0:11:14.640000	0:11:17.033000
@@ -1572,18 +1572,18 @@ aussprache>	-	-	-	0:11:14.640000	0:11:17.033000
 challenge	-	-	-	0:11:14.640000	0:11:17.033000
 ,>	-	-	-	0:11:14.640000	0:11:17.033000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:17.033000" end="0:11:18.200000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:17.033000" end="0:11:18.200000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:17.033000" end="0:11:18.593000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:17.033000" end="0:11:18.593000" project="PP04" age_lower="20" age_upper="30">
 da	-	-	-	0:11:17.033000	0:11:18.200000
 das	-	-	-	0:11:17.033000	0:11:18.200000
 Rad	-	-	-	0:11:17.033000	0:11:18.200000
 also	-	-	-	0:11:18.200000	0:11:18.593000
 die	-	-	-	0:11:18.200000	0:11:18.593000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:18.593000" end="0:11:19.253000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:18.593000" end="0:11:19.253000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:18.593000" end="0:11:21.540000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:18.593000" end="0:11:21.540000" project="PP04" age_lower="20" age_upper="30">
 wie	-	-	-	0:11:18.593000	0:11:19.253000
 sagt	-	-	-	0:11:18.593000	0:11:19.253000
 man	-	-	-	0:11:19.253000	0:11:19.613000
@@ -1594,17 +1594,17 @@ also	-	-	-	0:11:20.633000	0:11:21.540000
 die	-	-	-	0:11:20.633000	0:11:21.540000
 spule	-	-	-	0:11:20.633000	0:11:21.540000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:21.540000" end="0:11:21.846000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:21.540000" end="0:11:21.846000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:21.540000	0:11:21.846000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:21.846000" end="0:11:23.500000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:21.846000" end="0:11:23.500000" project="PP04" age_lower="20" age_upper="30">
 äh	-	-	-	0:11:21.846000	0:11:23.500000
 abzumontieren	-	-	-	0:11:21.846000	0:11:23.500000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:23.500000" end="0:11:24" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:23.500000" end="0:11:24" age_lower="1" age_upper="999">
 boah	-	-	-	0:11:23.500000	0:11:24
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:23.500000" end="0:11:31.440000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:23.500000" end="0:11:31.440000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:11:23.500000	0:11:24
 dass	-	-	-	0:11:23.500000	0:11:24
 es	-	-	-	0:11:23.500000	0:11:24
@@ -1628,24 +1628,24 @@ eine	-	-	-	0:11:28.913000	0:11:31.440000
 coole	-	-	-	0:11:28.913000	0:11:31.440000
 Sache	-	-	-	0:11:28.913000	0:11:31.440000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:31.440000" end="0:11:32.593000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:31.440000" end="0:11:32.593000" age_lower="1" age_upper="999">
 eine	-	-	-	0:11:31.440000	0:11:32.593000
 super	-	-	-	0:11:31.440000	0:11:32.593000
 Erfahrung	-	-	-	0:11:31.440000	0:11:32.593000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:31.440000" end="0:11:32.593000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:31.440000" end="0:11:32.593000" project="PP04" age_lower="20" age_upper="30">
 cooles	-	-	-	0:11:31.440000	0:11:32.593000
 Erlebnis	-	-	-	0:11:31.440000	0:11:32.593000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:32.593000" end="0:11:33.260000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:32.593000" end="0:11:33.260000" age_lower="1" age_upper="999">
 das	-	-	-	0:11:32.593000	0:11:32.913000
 klingt	-	-	-	0:11:32.593000	0:11:32.913000
 echt	-	-	-	0:11:32.913000	0:11:33.260000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:32.913000" end="0:11:33.260000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:32.913000" end="0:11:33.260000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:11:32.913000	0:11:33.260000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:33.260000" end="0:11:47.233000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:33.260000" end="0:11:47.233000" age_lower="1" age_upper="999">
 echt	-	-	-	0:11:33.260000	0:11:34.033000
 toll	-	-	-	0:11:33.260000	0:11:34.033000
 und	-	-	-	0:11:34.033000	0:11:36.746000
@@ -1679,7 +1679,7 @@ machen	-	-	-	0:11:45.480000	0:11:47.233000
 Sie	-	-	-	0:11:45.480000	0:11:47.233000
 hier	-	-	-	0:11:45.480000	0:11:47.233000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:47.233000" end="0:11:49.573000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:47.233000" end="0:11:49.573000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:11:47.233000	0:11:49.573000
 war	-	-	-	0:11:47.233000	0:11:49.573000
 eine	-	-	-	0:11:47.233000	0:11:49.573000
@@ -1688,9 +1688,9 @@ jetzt	-	-	-	0:11:47.233000	0:11:49.573000
 im	-	-	-	0:11:47.233000	0:11:49.573000
 fitnessstudio	-	-	-	0:11:47.233000	0:11:49.573000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:49.573000" end="0:11:49.920000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:49.573000" end="0:11:49.920000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:49.920000" end="0:11:56.060000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:49.920000" end="0:11:56.060000" project="PP04" age_lower="20" age_upper="30">
 die	-	-	-	0:11:49.920000	0:11:50.933000
 ORT	ORT	-	-	0:11:49.920000	0:11:50.933000
 swar	-	-	-	0:11:50.933000	0:11:53.820000
@@ -1705,21 +1705,21 @@ eine	-	-	-	0:11:53.820000	0:11:56.060000
 Sauna	-	-	-	0:11:53.820000	0:11:56.060000
 gegeben	-	-	-	0:11:53.820000	0:11:56.060000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:56.060000" end="0:11:56.793000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:56.060000" end="0:11:56.793000" age_lower="1" age_upper="999">
 ah	-	-	-	0:11:56.060000	0:11:56.793000
 schön	-	-	-	0:11:56.060000	0:11:56.793000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:56.060000" end="0:11:57.986000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:56.060000" end="0:11:57.986000" project="PP04" age_lower="20" age_upper="30">
 es	-	-	-	0:11:56.060000	0:11:56.793000
 war	-	-	-	0:11:56.060000	0:11:56.793000
 nicht	-	-	-	0:11:56.060000	0:11:56.793000
 allzu	-	-	-	0:11:56.060000	0:11:56.793000
 teuer	-	-	-	0:11:56.793000	0:11:57.986000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:57.986000" end="0:11:58.353000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:57.986000" end="0:11:58.353000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:57.986000	0:11:58.353000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:58.353000" end="0:12:05.046000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:58.353000" end="0:12:05.046000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:11:58.353000	0:12:00.546000
 wir	-	-	-	0:11:58.353000	0:12:00.546000
 haben	-	-	-	0:11:58.353000	0:12:00.546000
@@ -1744,9 +1744,9 @@ auch	-	-	-	0:12:03.800000	0:12:05.046000
 gern	-	-	-	0:12:03.800000	0:12:05.046000
 laufen	-	-	-	0:12:03.800000	0:12:05.046000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:05.046000" end="0:12:05.700000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:05.046000" end="0:12:05.700000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:05.700000" end="0:12:20.093000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:05.700000" end="0:12:20.093000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:12:05.700000	0:12:08
 wenn	-	-	-	0:12:05.700000	0:12:08
 ich	-	-	-	0:12:05.700000	0:12:08
@@ -1787,9 +1787,9 @@ eigentlich	-	-	-	0:12:18.093000	0:12:20.093000
 super	-	-	-	0:12:18.093000	0:12:20.093000
 laufstrecken	-	-	-	0:12:18.093000	0:12:20.093000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:20.093000" end="0:12:20.753000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:20.093000" end="0:12:20.753000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:20.093000" end="0:12:25.073000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:20.093000" end="0:12:25.073000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:12:20.093000	0:12:20.753000
 auch	-	-	-	0:12:20.093000	0:12:20.753000
 mich	-	-	-	0:12:20.093000	0:12:20.753000
@@ -1806,10 +1806,10 @@ Locations	-	-	-	0:12:22.360000	0:12:24.206000
 ,>	-	-	-	0:12:22.360000	0:12:24.206000
 Fitnesscenter	-	-	-	0:12:24.206000	0:12:25.073000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:25.073000" end="0:12:25.406000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:25.073000" end="0:12:25.406000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:25.073000	0:12:25.406000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:25.073000" end="0:12:28.266000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:25.073000" end="0:12:28.266000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:12:25.073000	0:12:25.406000
 eine	-	-	-	0:12:25.073000	0:12:25.406000
 zeitlang	-	-	-	0:12:25.073000	0:12:25.406000
@@ -1823,9 +1823,9 @@ ge	-	-	-	0:12:25.406000	0:12:28.266000
 trainiert	-	-	-	0:12:25.406000	0:12:28.266000
 haben	-	-	-	0:12:25.406000	0:12:28.266000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:28.266000" end="0:12:28.613000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:28.266000" end="0:12:28.613000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:28.613000" end="0:12:32.826000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:28.613000" end="0:12:32.826000" project="PP04" age_lower="20" age_upper="30">
 sind	-	-	-	0:12:28.613000	0:12:30.713000
 wir	-	-	-	0:12:28.613000	0:12:30.713000
 vom	-	-	-	0:12:28.613000	0:12:30.713000
@@ -1842,10 +1842,10 @@ diese	-	-	-	0:12:30.713000	0:12:32.826000
 ORT	ORT	-	-	0:12:30.713000	0:12:32.826000
 auch	-	-	-	0:12:30.713000	0:12:32.826000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:32.826000" end="0:12:33.220000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:32.826000" end="0:12:33.220000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:32.826000	0:12:33.220000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:32.826000" end="0:12:37.105000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:32.826000" end="0:12:37.105000" project="PP04" age_lower="20" age_upper="30">
 anderen	-	-	-	0:12:32.826000	0:12:33.220000
 und	-	-	-	0:12:33.220000	0:12:34.946000
 haben	-	-	-	0:12:33.220000	0:12:34.946000
@@ -1860,14 +1860,14 @@ zurückgeradelt	-	-	-	0:12:34.946000	0:12:36.260000
 also	-	-	-	0:12:36.260000	0:12:37.105000
 es	-	-	-	0:12:36.260000	0:12:37.105000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:37.105000" end="0:12:37.815000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:37.105000" end="0:12:37.815000" age_lower="1" age_upper="999">
 okay	-	-	-	0:12:37.105000	0:12:37.815000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:37.105000" end="0:12:38.150000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:37.105000" end="0:12:38.150000" project="PP04" age_lower="20" age_upper="30">
 auch	-	-	-	0:12:37.105000	0:12:37.815000
 ja	-	-	-	0:12:37.815000	0:12:38.150000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:38.146000" end="0:12:41.393000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:38.146000" end="0:12:41.393000" age_lower="1" age_upper="999">
 und	-	-	-	0:12:38.146000	0:12:40.213000
 was	-	-	-	0:12:38.146000	0:12:40.213000
 gefällt	-	-	-	0:12:38.146000	0:12:40.213000
@@ -1876,9 +1876,9 @@ am	-	-	-	0:12:38.146000	0:12:40.213000
 radfahren	-	-	-	0:12:38.146000	0:12:40.213000
 besonders	-	-	-	0:12:40.213000	0:12:41.393000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:40.213000" end="0:12:41.393000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:40.213000" end="0:12:41.393000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:41.393000" end="0:12:43.480000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:41.393000" end="0:12:43.480000" age_lower="1" age_upper="999">
 was	-	-	-	0:12:41.393000	0:12:43.480000
 würden	-	-	-	0:12:41.393000	0:12:43.480000
 Sie	-	-	-	0:12:41.393000	0:12:43.480000
@@ -1889,7 +1889,7 @@ da	-	-	-	0:12:41.393000	0:12:43.480000
 besonders	-	-	-	0:12:41.393000	0:12:43.480000
 gefällt	-	-	-	0:12:41.393000	0:12:43.480000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:43.480000" end="0:12:47.720000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:43.480000" end="0:12:47.720000" project="PP04" age_lower="20" age_upper="30">
 dass	-	-	-	0:12:43.480000	0:12:47.720000
 man	-	-	-	0:12:43.480000	0:12:47.720000
 es	-	-	-	0:12:43.480000	0:12:47.720000
@@ -1901,9 +1901,9 @@ Gefühl	-	-	-	0:12:43.480000	0:12:47.720000
 von	-	-	-	0:12:43.480000	0:12:47.720000
 Freiheit	-	-	-	0:12:43.480000	0:12:47.720000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:47.720000" end="0:12:48.173000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:47.720000" end="0:12:48.173000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:48.173000" end="0:13:03.766000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:48.173000" end="0:13:03.766000" project="PP04" age_lower="20" age_upper="30">
 wenn	-	-	-	0:12:48.173000	0:12:50.700000
 man	-	-	-	0:12:48.173000	0:12:50.700000
 einfach	-	-	-	0:12:48.173000	0:12:50.700000
@@ -1944,9 +1944,9 @@ Uhr	-	-	-	0:13:01.953000	0:13:03.766000
 zu	-	-	-	0:13:01.953000	0:13:03.766000
 schauen	-	-	-	0:13:01.953000	0:13:03.766000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:03.766000" end="0:13:04.406000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:03.766000" end="0:13:04.406000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:03.766000" end="0:13:08.520000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:03.766000" end="0:13:08.520000" project="PP04" age_lower="20" age_upper="30">
 ohne	-	-	-	0:13:03.766000	0:13:04.406000
 äh	-	-	-	0:13:04.406000	0:13:07.926000
 sich	-	-	-	0:13:04.406000	0:13:07.926000
@@ -1956,9 +1956,9 @@ machen	-	-	-	0:13:04.406000	0:13:07.926000
 was	-	-	-	0:13:04.406000	0:13:07.926000
 ja	-	-	-	0:13:04.406000	0:13:07.926000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:08.520000" end="0:13:09.006000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:08.520000" end="0:13:09.006000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:08.520000" end="0:13:12.226000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:08.520000" end="0:13:12.226000" project="PP04" age_lower="20" age_upper="30">
 was	-	-	-	0:13:08.520000	0:13:09.006000
 man	-	-	-	0:13:08.520000	0:13:09.006000
 noch	-	-	-	0:13:08.520000	0:13:09.006000
@@ -1976,9 +1976,9 @@ ich	-	-	-	0:13:10.013000	0:13:12.226000
 abschalt	-	-	-	0:13:10.013000	0:13:12.226000
 ,>	-	-	-	0:13:10.013000	0:13:12.226000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:12.226000" end="0:13:13.020000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:12.226000" end="0:13:13.020000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:12.226000" end="0:13:19.413000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:12.226000" end="0:13:19.413000" project="PP04" age_lower="20" age_upper="30">
 manchmal	-	-	-	0:13:13.020000	0:13:14.040000
 gelingt	-	-	-	0:13:13.020000	0:13:14.040000
 ist	-	-	-	0:13:13.020000	0:13:14.040000
@@ -1997,14 +1997,14 @@ Sport	-	-	-	0:13:14.040000	0:13:17.880000
 mal	-	-	-	0:13:17.880000	0:13:19.413000
 wegzukommen	-	-	-	0:13:17.880000	0:13:19.413000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:19.413000" end="0:13:20.053000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:19.413000" end="0:13:20.053000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:19.413000" end="0:13:20.566000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:19.413000" end="0:13:20.566000" project="PP04" age_lower="20" age_upper="30">
 von	-	-	-	0:13:19.413000	0:13:20.053000
 vom	-	-	-	0:13:19.413000	0:13:20.053000
 Alltag	-	-	-	0:13:20.053000	0:13:20.566000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:20.566000" end="0:13:32.866000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:20.566000" end="0:13:32.866000" age_lower="1" age_upper="999">
 und	-	-	-	0:13:20.566000	0:13:23.926000
 Sie	-	-	-	0:13:20.566000	0:13:23.926000
 haben	-	-	-	0:13:20.566000	0:13:23.926000
@@ -2039,12 +2039,12 @@ schaut	-	-	-	0:13:31.133000	0:13:32.613000
 ihr	-	-	-	0:13:31.133000	0:13:32.613000
 sozialleben	-	-	-	0:13:31.133000	0:13:32.613000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:32.613000" end="0:13:32.866000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:32.613000" end="0:13:32.866000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:32.869000" end="0:13:33.580000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:32.869000" end="0:13:33.580000" age_lower="1" age_upper="999">
 aus	-	-	-	0:13:32.869000	0:13:33.580000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:33.580000" end="0:13:40.714000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:33.580000" end="0:13:40.714000" project="PP04" age_lower="20" age_upper="30">
 ist	-	-	-	0:13:33.580000	0:13:35.180000
 eigentlich	-	-	-	0:13:33.580000	0:13:35.180000
 ganz	-	-	-	0:13:33.580000	0:13:35.180000
@@ -2065,9 +2065,9 @@ ich	-	-	-	0:13:35.180000	0:13:40.714000
 gegangen	-	-	-	0:13:35.180000	0:13:40.714000
 bin	-	-	-	0:13:35.180000	0:13:40.714000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:40.714000" end="0:13:40.950000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:40.714000" end="0:13:40.950000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:40.714000" end="0:13:46.535000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:40.714000" end="0:13:46.535000" project="PP04" age_lower="20" age_upper="30">
 die	-	-	-	0:13:40.714000	0:13:40.950000
 sind	-	-	-	0:13:40.950000	0:13:42.465000
 nicht	-	-	-	0:13:40.950000	0:13:42.465000
@@ -2090,40 +2090,40 @@ zu	-	-	-	0:13:42.465000	0:13:46.535000
 Besuch	-	-	-	0:13:42.465000	0:13:46.535000
 sind	-	-	-	0:13:42.465000	0:13:46.535000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:46.535000" end="0:13:48.760000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:46.535000" end="0:13:48.760000" age_lower="1" age_upper="999">
 aus	-	-	-	0:13:46.820000	0:13:47.795000
 ORT	ORT	-	-	0:13:46.820000	0:13:47.795000
 aus	-	-	-	0:13:46.820000	0:13:47.795000
 dieser	-	-	-	0:13:47.795000	0:13:48.760000
 Tourismusschule	-	-	-	0:13:47.795000	0:13:48.760000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:47.795000" end="0:13:50.430000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:47.795000" end="0:13:50.430000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:13:47.795000	0:13:48.760000
 der	-	-	-	0:13:48.760000	0:13:50.430000
 Tourismusschule	-	-	-	0:13:48.760000	0:13:50.430000
 in	-	-	-	0:13:48.760000	0:13:50.430000
 ORT	ORT	-	-	0:13:48.760000	0:13:50.430000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:50.430000" end="0:13:50.920000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:50.430000" end="0:13:50.920000" age_lower="1" age_upper="999">
 ah	-	-	-	0:13:50.430000	0:13:50.920000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:50.430000" end="0:13:50.920000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:50.430000" end="0:13:50.920000" project="PP04" age_lower="20" age_upper="30">
 das	-	-	-	0:13:50.430000	0:13:50.920000
 ORT	ORT	-	-	0:13:50.430000	0:13:50.920000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:50.920000" end="0:13:51.280000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:50.920000" end="0:13:51.280000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:50.920000" end="0:13:51.280000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:50.920000" end="0:13:51.280000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:51.280000" end="0:13:51.440000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:51.280000" end="0:13:51.440000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:51.280000" end="0:13:51.560000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:51.280000" end="0:13:51.560000" project="PP04" age_lower="20" age_upper="30">
 das	-	-	-	0:13:51.280000	0:13:51.440000
 ist	-	-	-	0:13:51.440000	0:13:51.560000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:51.560000" end="0:13:51.855000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:51.560000" end="0:13:51.855000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:51.560000" end="0:13:58.755000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:51.560000" end="0:13:58.755000" project="PP04" age_lower="20" age_upper="30">
 so	-	-	-	0:13:51.560000	0:13:51.855000
 wie	-	-	-	0:13:51.560000	0:13:51.855000
 das	-	-	-	0:13:51.560000	0:13:51.855000
@@ -2151,9 +2151,9 @@ von	-	-	-	0:13:56.525000	0:13:58.755000
 ORT	ORT	-	-	0:13:56.525000	0:13:58.755000
 ORT	ORT	-	-	0:13:56.525000	0:13:58.755000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:58.755000" end="0:13:59.080000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:58.755000" end="0:13:59.080000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:59.080000" end="0:14:00.860000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:59.080000" end="0:14:00.860000" project="PP04" age_lower="20" age_upper="30">
 dort	-	-	-	0:13:59.080000	0:14:00.860000
 war	-	-	-	0:13:59.080000	0:14:00.860000
 ich	-	-	-	0:13:59.080000	0:14:00.860000
@@ -2163,23 +2163,23 @@ diesen	-	-	-	0:13:59.080000	0:14:00.860000
 fünf	-	-	-	0:13:59.080000	0:14:00.860000
 Jahren	-	-	-	0:13:59.080000	0:14:00.860000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:00.860000" end="0:14:01.400000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:00.860000" end="0:14:01.400000" age_lower="1" age_upper="999">
 nach	-	-	-	0:14:00.860000	0:14:01.400000
 den	-	-	-	0:14:00.860000	0:14:01.400000
 fünf	-	-	-	0:14:00.860000	0:14:01.400000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:00.860000" end="0:14:01.400000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:00.860000" end="0:14:01.400000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:01.400000" end="0:14:01.715000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:01.400000" end="0:14:01.715000" age_lower="1" age_upper="999">
 Jahren	-	-	-	0:14:01.400000	0:14:01.715000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:01.400000" end="0:14:01.715000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:01.400000" end="0:14:01.715000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:14:01.400000	0:14:01.715000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:01.715000" end="0:14:02.375000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:01.715000" end="0:14:02.375000" age_lower="1" age_upper="999">
 okay	-	-	-	0:14:01.715000	0:14:02.020000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:02.375000" end="0:14:18.970000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:02.375000" end="0:14:18.970000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:14:02.375000	0:14:05.925000
 dort	-	-	-	0:14:02.375000	0:14:05.925000
 habe	-	-	-	0:14:02.375000	0:14:05.925000
@@ -2227,9 +2227,9 @@ dreht	-	-	-	0:14:14.705000	0:14:18.970000
 so	-	-	-	0:14:14.705000	0:14:18.970000
 beständig	-	-	-	0:14:14.705000	0:14:18.970000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:18.970000" end="0:14:19.440000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:18.970000" end="0:14:19.440000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:18.970000" end="0:14:37.780000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:18.970000" end="0:14:37.780000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:14:19.440000	0:14:22.295000
 wir	-	-	-	0:14:19.440000	0:14:22.295000
 haben	-	-	-	0:14:19.440000	0:14:22.295000
@@ -2291,9 +2291,9 @@ jeden	-	-	-	0:14:36.630000	0:14:37.780000
 Fall	-	-	-	0:14:36.630000	0:14:37.780000
 dassma	-	-	-	0:14:36.630000	0:14:37.780000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:37.780000" end="0:14:38.115000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:37.780000" end="0:14:38.115000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:37.780000" end="0:14:43.390000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:37.780000" end="0:14:43.390000" project="PP04" age_lower="20" age_upper="30">
 zumindest	-	-	-	0:14:38.115000	0:14:42.214000
 zwei	-	-	-	0:14:38.115000	0:14:42.214000
 abende	-	-	-	0:14:38.115000	0:14:42.214000
@@ -2307,9 +2307,9 @@ alte	-	-	-	0:14:42.215000	0:14:43.390000
 Zeiten	-	-	-	0:14:42.215000	0:14:43.390000
 >	-	-	-	0:14:42.215000	0:14:43.390000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:43.390000" end="0:14:44.160000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:43.390000" end="0:14:44.160000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:44.160000" end="0:14:54.575000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:44.160000" end="0:14:54.575000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:14:44.160000	0:14:44.970000
 und	-	-	-	0:14:44.970000	0:14:52.066000
 sonst	-	-	-	0:14:44.970000	0:14:52.066000
@@ -2333,21 +2333,21 @@ einen	-	-	-	0:14:53.740000	0:14:54.575000
 zweiten	-	-	-	0:14:53.740000	0:14:54.575000
 Bruder	-	-	-	0:14:53.740000	0:14:54.575000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:54.575000" end="0:14:54.735000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:54.575000" end="0:14:54.735000" age_lower="1" age_upper="999">
 ah	-	-	-	0:14:54.575000	0:14:54.735000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:54.575000" end="0:14:54.735000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:54.575000" end="0:14:54.735000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:54.735000" end="0:14:55.110000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:54.735000" end="0:14:55.110000" age_lower="1" age_upper="999">
 okay	-	-	-	0:14:54.735000	0:14:55.110000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:54.735000" end="0:14:55.110000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:54.735000" end="0:14:55.110000" project="PP04" age_lower="20" age_upper="30">
 ein	-	-	-	0:14:54.735000	0:14:55.110000
 Jüngeren	-	-	-	0:14:54.735000	0:14:55.110000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:55.110000" end="0:14:55.680000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:55.110000" end="0:14:55.680000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:55.110000" end="0:15:11.485000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:55.110000" end="0:15:11.485000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:14:55.680000	0:14:57.155000
 eine	-	-	-	0:14:55.680000	0:14:57.155000
 Halbschwester	-	-	-	0:14:55.680000	0:14:57.155000
@@ -2382,25 +2382,25 @@ ich	-	-	-	0:15:09.965000	0:15:11.485000
 noch	-	-	-	0:15:09.965000	0:15:11.485000
 Zeit	-	-	-	0:15:09.965000	0:15:11.485000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:11.485000" end="0:15:11.835000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:11.485000" end="0:15:11.835000" age_lower="1" age_upper="999">
 und	-	-	-	0:15:11.485000	0:15:11.835000
 Ihrem	-	-	-	0:15:11.485000	0:15:11.835000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:11.485000" end="0:15:11.835000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:11.485000" end="0:15:11.835000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:11.835000" end="0:15:12.195000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:11.835000" end="0:15:12.195000" age_lower="1" age_upper="999">
 Freund	-	-	-	0:15:11.835000	0:15:12.195000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:12.195000" end="0:15:13.020000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:12.195000" end="0:15:13.020000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:15:12.195000	0:15:13.020000
 meinem	-	-	-	0:15:12.195000	0:15:13.020000
 Freund	-	-	-	0:15:12.195000	0:15:13.020000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:13.020000" end="0:15:13.446000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:13.020000" end="0:15:13.446000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:13.020000" end="0:15:14.033000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:13.020000" end="0:15:14.033000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:14.035000" end="0:15:19.085000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:14.035000" end="0:15:19.085000" age_lower="1" age_upper="999">
 und	-	-	-	0:15:14.035000	0:15:18.270000
 wo	-	-	-	0:15:14.035000	0:15:18.270000
 treffen	-	-	-	0:15:14.035000	0:15:18.270000
@@ -2415,20 +2415,20 @@ Ihren	-	-	-	0:15:14.035000	0:15:18.270000
 familienmitgliedern	-	-	-	0:15:18.270000	0:15:19.085000
 typischerweise	-	-	-	0:15:18.270000	0:15:19.085000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:18.270000" end="0:15:19.085000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:18.270000" end="0:15:19.085000" project="PP04" age_lower="20" age_upper="30">
 meistens	-	-	-	0:15:18.270000	0:15:19.085000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:19.085000" end="0:15:19.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:19.085000" end="0:15:19.385000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:19.385000" end="0:15:21.045000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:19.385000" end="0:15:21.045000" project="PP04" age_lower="20" age_upper="30">
 meistens	-	-	-	0:15:19.385000	0:15:21.045000
 zu	-	-	-	0:15:19.385000	0:15:21.045000
 Hause	-	-	-	0:15:19.385000	0:15:21.045000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:21.045000" end="0:15:21.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:21.045000" end="0:15:21.385000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:21.045000	0:15:21.385000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:21.045000" end="0:15:25.165000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:21.045000" end="0:15:25.165000" project="PP04" age_lower="20" age_upper="30">
 wenn	-	-	-	0:15:21.045000	0:15:21.385000
 wir	-	-	-	0:15:21.385000	0:15:25.165000
 weggehen	-	-	-	0:15:21.385000	0:15:25.165000
@@ -2441,9 +2441,9 @@ mal	-	-	-	0:15:21.385000	0:15:25.165000
 essen	-	-	-	0:15:21.385000	0:15:25.165000
 gehen	-	-	-	0:15:21.385000	0:15:25.165000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:25.165000" end="0:15:25.410000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:25.165000" end="0:15:25.410000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:25.410000" end="0:15:37.040000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:25.410000" end="0:15:37.040000" project="PP04" age_lower="20" age_upper="30">
 oder	-	-	-	0:15:25.410000	0:15:30.275000
 im	-	-	-	0:15:25.410000	0:15:30.275000
 im	-	-	-	0:15:25.410000	0:15:30.275000
@@ -2473,9 +2473,9 @@ es	-	-	-	0:15:32.460000	0:15:37.040000
 Strand	-	-	-	0:15:32.460000	0:15:37.040000
 so	-	-	-	0:15:32.460000	0:15:37.040000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:37.040000" end="0:15:37.330000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:37.040000" end="0:15:37.330000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:37.040000" end="0:15:41.675000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:37.040000" end="0:15:41.675000" project="PP04" age_lower="20" age_upper="30">
 die	-	-	-	0:15:37.040000	0:15:37.330000
 Sankt	-	-	-	0:15:37.330000	0:15:38.110000
 ORT	ORT	-	-	0:15:38.110000	0:15:39.425000
@@ -2486,7 +2486,7 @@ ORT	ORT	-	-	0:15:39.425000	0:15:40.305000
 solche	-	-	-	0:15:40.305000	0:15:41.675000
 Dinge	-	-	-	0:15:40.305000	0:15:41.675000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:41.675000" end="0:15:49.045000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:41.675000" end="0:15:49.045000" age_lower="1" age_upper="999">
 und	-	-	-	0:15:42.130000	0:15:46.045000
 kommen	-	-	-	0:15:42.130000	0:15:46.045000
 Ihre	-	-	-	0:15:42.130000	0:15:46.045000
@@ -2503,7 +2503,7 @@ auch	-	-	-	0:15:46.045000	0:15:49.045000
 kunterbunt	-	-	-	0:15:46.045000	0:15:49.045000
 gemischt	-	-	-	0:15:46.045000	0:15:49.045000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:49.045000" end="0:16:02.040000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:49.045000" end="0:16:02.040000" project="PP04" age_lower="20" age_upper="30">
 viele	-	-	-	0:15:49.045000	0:15:51.520000
 kommen	-	-	-	0:15:49.045000	0:15:51.520000
 aus	-	-	-	0:15:49.045000	0:15:51.520000
@@ -2531,9 +2531,9 @@ ganz	-	-	-	0:15:57.320000	0:16:02.040000
 woanders	-	-	-	0:15:57.320000	0:16:02.040000
 haben	-	-	-	0:15:57.320000	0:16:02.040000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:02.040000" end="0:16:02.410000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:02.040000" end="0:16:02.410000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:02.040000" end="0:16:08.675000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:02.040000" end="0:16:08.675000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:16:02.040000	0:16:02.410000
 eine	-	-	-	0:16:02.410000	0:16:04.105000
 die	-	-	-	0:16:02.410000	0:16:04.105000
@@ -2553,9 +2553,9 @@ eine	-	-	-	0:16:06.430000	0:16:08.675000
 kunterbunte	-	-	-	0:16:06.430000	0:16:08.675000
 Mischung	-	-	-	0:16:06.430000	0:16:08.675000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:08.675000" end="0:16:08.950000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:08.675000" end="0:16:08.950000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:08.675000" end="0:16:18.295000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:08.675000" end="0:16:18.295000" project="PP04" age_lower="20" age_upper="30">
 ein	-	-	-	0:16:08.675000	0:16:08.950000
 paar	-	-	-	0:16:08.950000	0:16:10.790000
 die	-	-	-	0:16:08.950000	0:16:10.790000
@@ -2577,12 +2577,12 @@ so	-	-	-	0:16:16.095000	0:16:18.295000
 die	-	-	-	0:16:16.095000	0:16:18.295000
 hauptgegenden	-	-	-	0:16:16.095000	0:16:18.295000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:18.295000" end="0:16:18.815000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:18.295000" end="0:16:18.815000" age_lower="1" age_upper="999">
 okay	-	-	-	0:16:18.295000	0:16:18.815000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:18.295000" end="0:16:18.815000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:18.295000" end="0:16:18.815000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:18.815000" end="0:16:21.830000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:18.815000" end="0:16:21.830000" age_lower="1" age_upper="999">
 und	-	-	-	0:16:19.135000	0:16:21.195000
 wenn	-	-	-	0:16:19.135000	0:16:21.195000
 wir	-	-	-	0:16:19.135000	0:16:21.195000
@@ -2594,10 +2594,10 @@ Gegend	-	-	-	0:16:19.135000	0:16:21.195000
 auf	-	-	-	0:16:21.195000	0:16:21.445000
 ORT	ORT	-	-	0:16:21.445000	0:16:21.830000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:21.445000" end="0:16:21.830000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:21.445000" end="0:16:21.830000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:16:21.445000	0:16:21.830000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:21.830000" end="0:16:27.515000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:21.830000" end="0:16:27.515000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:16:21.830000	0:16:22.980000
 zu	-	-	-	0:16:21.830000	0:16:22.980000
 sprechen	-	-	-	0:16:21.830000	0:16:22.980000
@@ -2617,7 +2617,7 @@ das	-	-	-	0:16:25.699000	0:16:27.515000
 Sie	-	-	-	0:16:25.699000	0:16:27.515000
 ärgert	-	-	-	0:16:25.699000	0:16:27.515000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:27.515000" end="0:16:34.065000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:27.515000" end="0:16:34.065000" project="PP04" age_lower="20" age_upper="30">
 dass	-	-	-	0:16:28.830000	0:16:33.875000
 jetzt	-	-	-	0:16:28.830000	0:16:33.875000
 dreißigerzone	-	-	-	0:16:28.830000	0:16:33.875000
@@ -2628,33 +2628,33 @@ ganzen	-	-	-	0:16:28.830000	0:16:33.875000
 Bezirk	-	-	-	0:16:28.830000	0:16:33.875000
 ,>	-	-	-	0:16:28.830000	0:16:33.875000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:34.065000" end="0:16:34.780000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:34.065000" end="0:16:34.780000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:16:34.065000	0:16:34.780000
 im	-	-	-	0:16:34.065000	0:16:34.780000
 ganzen	-	-	-	0:16:34.065000	0:16:34.780000
 Bezirk	-	-	-	0:16:34.065000	0:16:34.780000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:34.065000" end="0:16:34.780000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:34.065000" end="0:16:34.780000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:34.780000" end="0:16:35.180000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:34.780000" end="0:16:35.180000" age_lower="1" age_upper="999">
 ;>	-	-	-	0:16:34.780000	0:16:35.180000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:34.780000" end="0:16:35.360000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:34.780000" end="0:16:35.360000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:16:34.780000	0:16:35.180000
 man	-	-	-	0:16:35.180000	0:16:35.360000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:35.360000" end="0:16:35.870000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:35.360000" end="0:16:35.870000" age_lower="1" age_upper="999">
 okay	-	-	-	0:16:35.360000	0:16:35.870000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:35.360000" end="0:16:36.245000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:35.360000" end="0:16:36.245000" project="PP04" age_lower="20" age_upper="30">
 darf	-	-	-	0:16:35.360000	0:16:35.870000
 nur	-	-	-	0:16:35.360000	0:16:35.870000
 noch	-	-	-	0:16:35.360000	0:16:35.870000
 dreißig	-	-	-	0:16:35.870000	0:16:36.245000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:36.245000" end="0:16:36.610000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:36.245000" end="0:16:36.610000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:36.245000" end="0:16:39.090000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:36.245000" end="0:16:39.090000" project="PP04" age_lower="20" age_upper="30">
 es	-	-	-	0:16:36.610000	0:16:37.965000
 ist	-	-	-	0:16:36.610000	0:16:37.965000
 eine	-	-	-	0:16:36.610000	0:16:37.965000
@@ -2664,9 +2664,9 @@ außer	-	-	-	0:16:37.965000	0:16:39.090000
 die	-	-	-	0:16:37.965000	0:16:39.090000
 strassenbahngleise	-	-	-	0:16:37.965000	0:16:39.090000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:39.090000" end="0:16:39.490000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:39.090000" end="0:16:39.490000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:39.090000" end="0:16:41.545000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:39.090000" end="0:16:41.545000" project="PP04" age_lower="20" age_upper="30">
 verlaufen	-	-	-	0:16:39.490000	0:16:40.350000
 dort	-	-	-	0:16:39.490000	0:16:40.350000
 dann	-	-	-	0:16:40.350000	0:16:41.545000
@@ -2675,9 +2675,9 @@ man	-	-	-	0:16:40.350000	0:16:41.545000
 fünfzig	-	-	-	0:16:40.350000	0:16:41.545000
 fahren	-	-	-	0:16:40.350000	0:16:41.545000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:41.545000" end="0:16:41.865000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:41.545000" end="0:16:41.865000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:41.865000" end="0:16:44.590000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:41.865000" end="0:16:44.590000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:16:41.865000	0:16:44.350000
 ich	-	-	-	0:16:41.865000	0:16:44.350000
 meine	-	-	-	0:16:41.865000	0:16:44.350000
@@ -2688,13 +2688,13 @@ nur	-	-	-	0:16:41.865000	0:16:44.350000
 was	-	-	-	0:16:41.865000	0:16:44.350000
 ja	-	-	-	0:16:41.865000	0:16:44.350000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:44.590000" end="0:16:44.860000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:44.590000" end="0:16:44.860000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:44.590000" end="0:16:44.860000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:44.590000" end="0:16:44.860000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:44.860000" end="0:16:45.340000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:44.860000" end="0:16:45.340000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:45.340000" end="0:16:56.605000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:45.340000" end="0:16:56.605000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:16:45.340000	0:16:46.170000
 sonst	-	-	-	0:16:45.340000	0:16:46.170000
 überlege	-	-	-	0:16:46.170000	0:16:47.260000
@@ -2726,25 +2726,25 @@ weiß	-	-	-	0:16:51.540000	0:16:56.605000
 an	-	-	-	0:16:51.540000	0:16:56.605000
 ORT	ORT	-	-	0:16:51.540000	0:16:56.605000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:56.605000" end="0:16:56.835000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:56.605000" end="0:16:56.835000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:56.605000" end="0:16:56.835000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:56.605000" end="0:16:56.835000" project="PP04" age_lower="20" age_upper="30">
 ORT	ORT	-	-	0:16:56.605000	0:16:56.835000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:56.835000" end="0:16:57.550000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:56.835000" end="0:16:57.550000" age_lower="1" age_upper="999">
 was	-	-	-	0:16:57.035000	0:16:57.230000
 stört	-	-	-	0:16:57.230000	0:16:57.550000
 Sie	-	-	-	0:16:57.230000	0:16:57.550000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:57.230000" end="0:16:57.550000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:57.230000" end="0:16:57.550000" project="PP04" age_lower="20" age_upper="30">
 weil	-	-	-	0:16:57.230000	0:16:57.550000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:57.550000" end="0:16:58.895000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:57.550000" end="0:16:58.895000" age_lower="1" age_upper="999">
 da	-	-	-	0:16:57.550000	0:16:58.895000
 an	-	-	-	0:16:57.550000	0:16:58.895000
 ORT	ORT	-	-	0:16:57.550000	0:16:58.895000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:58.895000" end="0:17:02.445000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:58.895000" end="0:17:02.445000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:16:58.895000	0:17:00.535000
 ja	-	-	-	0:16:58.895000	0:17:00.535000
 dass	-	-	-	0:16:58.895000	0:17:00.535000
@@ -2756,9 +2756,9 @@ auf	-	-	-	0:17:00.535000	0:17:02.445000
 den	-	-	-	0:17:00.535000	0:17:02.445000
 Straßen	-	-	-	0:17:00.535000	0:17:02.445000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:02.445000" end="0:17:02.930000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:02.445000" end="0:17:02.930000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:02.445000" end="0:17:12.483000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:02.445000" end="0:17:12.483000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:17:02.445000	0:17:02.930000
 auch	-	-	-	0:17:02.930000	0:17:04.127000
 ein	-	-	-	0:17:02.930000	0:17:04.127000
@@ -2789,19 +2789,19 @@ queren	-	-	-	0:17:07.210000	0:17:12.260000
 muss	-	-	-	0:17:07.210000	0:17:12.260000
 oder	-	-	-	0:17:12.260000	0:17:12.483000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:12.490000" end="0:17:13.105000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:12.490000" end="0:17:13.105000" age_lower="1" age_upper="999">
 wirklich	-	-	-	0:17:12.490000	0:17:13.105000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:12.490000" end="0:17:13.319000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:12.490000" end="0:17:13.319000" project="PP04" age_lower="20" age_upper="30">
 v	-	-	-	0:17:12.490000	0:17:13.105000
 vor	-	-	-	0:17:12.490000	0:17:13.105000
 allem	-	-	-	0:17:12.490000	0:17:13.105000
 wenn	-	-	-	0:17:13.105000	0:17:13.319000
 rindenmulch	-	-	-	0:17:13.105000	0:17:13.319000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:13.319000" end="0:17:13.733000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:13.319000" end="0:17:13.733000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:13.319000" end="0:17:23.785000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:13.319000" end="0:17:23.785000" project="PP04" age_lower="20" age_upper="30">
 liegt	-	-	-	0:17:13.733000	0:17:14.280000
 und	-	-	-	0:17:14.280000	0:17:16.319000
 man	-	-	-	0:17:14.280000	0:17:16.319000
@@ -2836,9 +2836,9 @@ dann	-	-	-	0:17:18.260000	0:17:23.785000
 ausgelegt	-	-	-	0:17:18.260000	0:17:23.785000
 werden	-	-	-	0:17:18.260000	0:17:23.785000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:23.785000" end="0:17:24.310000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:23.785000" end="0:17:24.310000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:23.785000" end="0:17:34.810000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:23.785000" end="0:17:34.810000" project="PP04" age_lower="20" age_upper="30">
 was	-	-	-	0:17:23.785000	0:17:24.310000
 ich	-	-	-	0:17:23.785000	0:17:24.310000
 halt	-	-	-	0:17:24.310000	0:17:25.066000
@@ -2878,9 +2878,9 @@ jetzt	-	-	-	0:17:33.015000	0:17:34.810000
 da	-	-	-	0:17:33.015000	0:17:34.810000
 nicht	-	-	-	0:17:33.015000	0:17:34.810000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:34.810000" end="0:17:35.409000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:34.810000" end="0:17:35.409000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:34.810000" end="0:17:38.605000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:34.810000" end="0:17:38.605000" project="PP04" age_lower="20" age_upper="30">
 sehr	-	-	-	0:17:34.810000	0:17:35.409000
 tierlieb	-	-	-	0:17:34.810000	0:17:35.409000
 sind	-	-	-	0:17:35.410000	0:17:35.800000
@@ -2895,28 +2895,28 @@ ist	-	-	-	0:17:35.800000	0:17:38.605000
 auch	-	-	-	0:17:35.800000	0:17:38.605000
 nicht	-	-	-	0:17:35.800000	0:17:38.605000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:38.605000" end="0:17:38.879000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:38.605000" end="0:17:38.879000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:38.605000" end="0:17:40.015000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:38.605000" end="0:17:40.015000" project="PP04" age_lower="20" age_upper="30">
 gerade	-	-	-	0:17:38.880000	0:17:39.660000
 fein	-	-	-	0:17:38.880000	0:17:39.660000
 aber	-	-	-	0:17:39.660000	0:17:40.015000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:40.015000" end="0:17:40.340000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:40.015000" end="0:17:40.340000" age_lower="1" age_upper="999">
 nein	-	-	-	0:17:40.015000	0:17:40.340000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:40.340000" end="0:17:41.205000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:40.340000" end="0:17:41.205000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:17:40.340000	0:17:41.205000
 kommt	-	-	-	0:17:40.340000	0:17:41.205000
 vor	-	-	-	0:17:40.340000	0:17:41.205000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:41.205000" end="0:17:41.485000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:41.205000" end="0:17:41.485000" age_lower="1" age_upper="999">
 ja	-	-	-	0:17:41.205000	0:17:41.485000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:41.205000" end="0:17:41.754000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:41.205000" end="0:17:41.754000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:17:41.205000	0:17:41.485000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:41.754000" end="0:17:47.945000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:41.754000" end="0:17:47.945000" age_lower="1" age_upper="999">
 und	-	-	-	0:17:41.754000	0:17:43.995000
 was	-	-	-	0:17:41.754000	0:17:43.995000
 würden	-	-	-	0:17:41.754000	0:17:43.995000
@@ -2934,9 +2934,9 @@ von	-	-	-	0:17:46.075000	0:17:47.945000
 ORT	ORT	-	-	0:17:46.075000	0:17:47.945000
 wären	-	-	-	0:17:46.075000	0:17:47.945000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:47.945000" end="0:17:48.629000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:47.945000" end="0:17:48.629000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:48.629000" end="0:17:53.870000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:48.629000" end="0:17:53.870000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:17:48.629000	0:17:51.929000
 es	-	-	-	0:17:48.629000	0:17:51.929000
 da	-	-	-	0:17:48.629000	0:17:51.929000
@@ -2952,7 +2952,7 @@ Sie	-	-	-	0:17:51.929000	0:17:53.105000
 anpacken	-	-	-	0:17:51.929000	0:17:53.105000
 würden	-	-	-	0:17:53.105000	0:17:53.870000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:53.105000" end="0:18:04.090000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:53.105000" end="0:18:04.090000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:17:53.870000	0:17:54.930000
 also	-	-	-	0:17:54.930000	0:18:01.305000
 einerseits	-	-	-	0:17:54.930000	0:18:01.305000
@@ -2977,9 +2977,9 @@ Dreck	-	-	-	0:18:01.305000	0:18:04.090000
 liegen	-	-	-	0:18:01.305000	0:18:04.090000
 lässt	-	-	-	0:18:01.305000	0:18:04.090000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:04.090000" end="0:18:04.610000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:04.090000" end="0:18:04.610000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:04.090000" end="0:18:18.490000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:04.090000" end="0:18:18.490000" project="PP04" age_lower="20" age_upper="30">
 weil	-	-	-	0:18:04.090000	0:18:04.610000
 ich	-	-	-	0:18:04.090000	0:18:04.610000
 finde	-	-	-	0:18:04.090000	0:18:04.610000
@@ -3026,17 +3026,17 @@ auf	-	-	-	0:18:17	0:18:18.490000
 den	-	-	-	0:18:17	0:18:18.490000
 Bezirk	-	-	-	0:18:17	0:18:18.490000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:18.490000" end="0:18:18.915000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:18.490000" end="0:18:18.915000" age_lower="1" age_upper="999">
 n	-	-	-	0:18:18.490000	0:18:18.915000
 ja	-	-	-	0:18:18.490000	0:18:18.915000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:18.490000" end="0:18:19.085000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:18.490000" end="0:18:19.085000" project="PP04" age_lower="20" age_upper="30">
 ukommen	-	-	-	0:18:18.925000	0:18:19.085000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:19.085000" end="0:18:19.345000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:19.085000" end="0:18:19.345000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:19.085000	0:18:19.345000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:19.085000" end="0:18:27.100000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:19.085000" end="0:18:27.100000" project="PP04" age_lower="20" age_upper="30">
 ist	-	-	-	0:18:19.345000	0:18:21.470000
 we	-	-	-	0:18:19.345000	0:18:21.470000
 man	-	-	-	0:18:19.345000	0:18:21.470000
@@ -3052,31 +3052,31 @@ mäcci	-	-	-	0:18:21.475000	0:18:25.820000
 irgenweche	-	-	-	0:18:21.475000	0:18:25.820000
 äh	-	-	-	0:18:21.475000	0:18:25.820000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:27.100000" end="0:18:28.035000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:27.100000" end="0:18:28.035000" age_lower="1" age_upper="999">
 einfach	-	-	-	0:18:27.100000	0:18:28.035000
 wo	-	-	-	0:18:27.100000	0:18:28.035000
 die	-	-	-	0:18:27.100000	0:18:28.035000
 Leute	-	-	-	0:18:27.100000	0:18:28.035000
 nicht	-	-	-	0:18:27.100000	0:18:28.035000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:27.100000" end="0:18:28.035000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:27.100000" end="0:18:28.035000" project="PP04" age_lower="20" age_upper="30">
 alle	-	-	-	0:18:27.100000	0:18:28.035000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:28.035000" end="0:18:28.445000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:28.035000" end="0:18:28.445000" age_lower="1" age_upper="999">
 darauf	-	-	-	0:18:28.035000	0:18:28.445000
 achten	-	-	-	0:18:28.035000	0:18:28.445000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:28.035000" end="0:18:28.445000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:28.035000" end="0:18:28.445000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:18:28.035000	0:18:28.445000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:28.445000" end="0:18:28.740000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:28.445000" end="0:18:28.740000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:28.740000" end="0:18:29.045000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:28.740000" end="0:18:29.045000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:18:28.740000	0:18:29.045000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:29.045000" end="0:18:29.680000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:29.045000" end="0:18:29.680000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:29.045000" end="0:18:44.970000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:29.045000" end="0:18:44.970000" project="PP04" age_lower="20" age_upper="30">
 alles	-	-	-	0:18:29.045000	0:18:29.680000
 mögliche	-	-	-	0:18:29.680000	0:18:31.880000
 gefindet	-	-	-	0:18:29.680000	0:18:31.880000
@@ -3124,20 +3124,20 @@ pro	-	-	-	0:18:39.085000	0:18:44.970000
 gackerl	-	-	-	0:18:39.085000	0:18:44.970000
 ,>	-	-	-	0:18:39.085000	0:18:44.970000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:44.970000" end="0:18:45.250000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:44.970000" end="0:18:45.250000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:44.970000" end="0:18:45.250000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:44.970000" end="0:18:45.250000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:45.250000" end="0:18:45.425000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:45.250000" end="0:18:45.425000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:45.250000" end="0:18:45.425000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:45.250000" end="0:18:45.425000" project="PP04" age_lower="20" age_upper="30">
 weil	-	-	-	0:18:45.250000	0:18:45.425000
 es	-	-	-	0:18:45.250000	0:18:45.425000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:45.425000" end="0:18:45.794000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:45.425000" end="0:18:45.794000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:45.425000	0:18:45.794000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:45.425000" end="0:18:50.175000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:45.425000" end="0:18:50.175000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:18:45.425000	0:18:45.794000
 die	-	-	-	0:18:45.425000	0:18:45.794000
 Sackerl	-	-	-	0:18:45.425000	0:18:45.794000
@@ -3153,9 +3153,9 @@ ein	-	-	-	0:18:47.585000	0:18:50.175000
 bisschen	-	-	-	0:18:47.585000	0:18:50.175000
 besser	-	-	-	0:18:47.585000	0:18:50.175000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:50.175000" end="0:18:50.585000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:50.175000" end="0:18:50.585000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:50.175000" end="0:19:02.310000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:50.175000" end="0:19:02.310000" project="PP04" age_lower="20" age_upper="30">
 kontrolliert	-	-	-	0:18:50.175000	0:18:50.585000
 und	-	-	-	0:18:51.110000	0:18:54.905000
 abgesehen	-	-	-	0:18:51.110000	0:18:54.905000
@@ -3175,9 +3175,9 @@ ich	-	-	-	0:18:59.190000	0:19:02.310000
 total	-	-	-	0:18:59.190000	0:19:02.310000
 zufrieden	-	-	-	0:18:59.190000	0:19:02.310000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:02.310000" end="0:19:02.740000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:02.310000" end="0:19:02.740000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:02.740000" end="0:19:17.700000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:02.740000" end="0:19:17.700000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:19:02.740000	0:19:06.870000
 ich	-	-	-	0:19:02.740000	0:19:06.870000
 finde	-	-	-	0:19:02.740000	0:19:06.870000
@@ -3216,9 +3216,9 @@ glaube	-	-	-	0:19:16.305000	0:19:17.700000
 schon	-	-	-	0:19:16.305000	0:19:17.700000
 dass	-	-	-	0:19:16.305000	0:19:17.700000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:17.700000" end="0:19:18.055000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:17.700000" end="0:19:18.055000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:17.700000" end="0:19:23.865000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:17.700000" end="0:19:23.865000" project="PP04" age_lower="20" age_upper="30">
 dass	-	-	-	0:19:18.055000	0:19:19.700000
 man	-	-	-	0:19:18.055000	0:19:19.700000
 viel	-	-	-	0:19:18.055000	0:19:19.700000
@@ -3234,9 +3234,9 @@ dann	-	-	-	0:19:19.705000	0:19:23.865000
 auch	-	-	-	0:19:19.705000	0:19:23.865000
 leistet	-	-	-	0:19:19.705000	0:19:23.865000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:23.865000" end="0:19:24.305000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:23.865000" end="0:19:24.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:24.045000" end="0:19:27.070000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:24.045000" end="0:19:27.070000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:19:24.045000	0:19:24.305000
 ja	-	-	-	0:19:24.305000	0:19:26.240000
 was	-	-	-	0:19:24.305000	0:19:26.240000
@@ -3246,7 +3246,7 @@ würde	-	-	-	0:19:26.245000	0:19:27.070000
 ich	-	-	-	0:19:26.245000	0:19:27.070000
 noch	-	-	-	0:19:26.245000	0:19:27.070000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:27.070000" end="0:19:29.070000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:27.070000" end="0:19:29.070000" age_lower="1" age_upper="999">
 das	-	-	-	0:19:27.070000	0:19:29.070000
 sind	-	-	-	0:19:27.070000	0:19:29.070000
 schon	-	-	-	0:19:27.070000	0:19:29.070000
@@ -3254,7 +3254,7 @@ viele	-	-	-	0:19:27.070000	0:19:29.070000
 gute	-	-	-	0:19:27.070000	0:19:29.070000
 Ideen	-	-	-	0:19:27.070000	0:19:29.070000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:27.070000" end="0:19:29.070000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:27.070000" end="0:19:29.070000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:19:27.070000	0:19:29.070000
 sonst	-	-	-	0:19:27.070000	0:19:29.070000
 bin	-	-	-	0:19:27.070000	0:19:29.070000
@@ -3262,15 +3262,15 @@ ich	-	-	-	0:19:27.070000	0:19:29.070000
 wirklich	-	-	-	0:19:27.070000	0:19:29.070000
 sehr	-	-	-	0:19:27.070000	0:19:29.070000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:29.070000" end="0:19:29.420000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:29.070000" end="0:19:29.420000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:29.070000" end="0:19:31.820000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:29.070000" end="0:19:31.820000" project="PP04" age_lower="20" age_upper="30">
 sehr	-	-	-	0:19:29.070000	0:19:29.420000
 zufrieden	-	-	-	0:19:29.420000	0:19:29.885000
 wid	-	-	-	0:19:30.295000	0:19:31.820000
 ja	-	-	-	0:19:30.295000	0:19:31.820000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:31.820000" end="0:19:35.350000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:31.820000" end="0:19:35.350000" age_lower="1" age_upper="999">
 ja	-	-	-	0:19:31.820000	0:19:34.960000
 dann	-	-	-	0:19:31.820000	0:19:34.960000
 würde	-	-	-	0:19:31.820000	0:19:34.960000
@@ -3281,9 +3281,9 @@ Thema	-	-	-	0:19:31.820000	0:19:34.960000
 Sprache	-	-	-	0:19:31.820000	0:19:34.960000
 hüpfen	-	-	-	0:19:31.820000	0:19:34.960000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:34.960000" end="0:19:35.350000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:34.960000" end="0:19:35.350000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:35.350000" end="0:19:40.835000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:35.350000" end="0:19:40.835000" age_lower="1" age_upper="999">
 oder	-	-	-	0:19:35.350000	0:19:36.130000
 üwergehen	-	-	-	0:19:35.350000	0:19:36.130000
 und	-	-	-	0:19:36.130000	0:19:40.835000
@@ -3299,7 +3299,7 @@ dem	-	-	-	0:19:36.130000	0:19:40.835000
 Begriff	-	-	-	0:19:36.130000	0:19:40.835000
 Dialekt	-	-	-	0:19:36.130000	0:19:40.835000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:40.835000" end="0:19:44.325000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:40.835000" end="0:19:44.325000" project="PP04" age_lower="20" age_upper="30">
 hm	-	-	-	0:19:40.835000	0:19:41.730000
 ich	-	-	-	0:19:41.730000	0:19:44.100000
 finde	-	-	-	0:19:41.730000	0:19:44.100000
@@ -3308,13 +3308,13 @@ was	-	-	-	0:19:41.730000	0:19:44.100000
 total	-	-	-	0:19:41.730000	0:19:44.100000
 schönes	-	-	-	0:19:41.730000	0:19:44.100000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:44.325000" end="0:19:44.525000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:44.325000" end="0:19:44.525000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:44.325000" end="0:19:44.525000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:44.325000" end="0:19:44.525000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:44.525000" end="0:19:44.805000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:44.525000" end="0:19:44.805000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:44.805000" end="0:19:51.110000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:44.805000" end="0:19:51.110000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:19:44.805000	0:19:47.215000
 ich	-	-	-	0:19:44.805000	0:19:47.215000
 habe	-	-	-	0:19:44.805000	0:19:47.215000
@@ -3334,11 +3334,11 @@ ich	-	-	-	0:19:47.215000	0:19:51.110000
 ihr	-	-	-	0:19:47.215000	0:19:51.110000
 zuhöre	-	-	-	0:19:47.215000	0:19:51.110000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:51.110000" end="0:19:51.585000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:51.110000" end="0:19:51.585000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:19:51.110000	0:19:51.585000
 ,>	-	-	-	0:19:51.110000	0:19:51.585000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:51.110000" end="0:20:13.505000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:51.110000" end="0:20:13.505000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:19:51.110000	0:19:51.585000
 äh	-	-	-	0:19:51.585000	0:19:53.320000
 äh	-	-	-	0:19:51.585000	0:19:53.320000
@@ -3387,9 +3387,9 @@ bisschen	-	-	-	0:20:11.485000	0:20:13.505000
 eine	-	-	-	0:20:11.485000	0:20:13.505000
 zugehörichkeit	-	-	-	0:20:11.485000	0:20:13.505000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:13.505000" end="0:20:14.710000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:13.505000" end="0:20:14.710000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:13.505000" end="0:20:18.680000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:13.505000" end="0:20:18.680000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:20:14.710000	0:20:15.945000
 also	-	-	-	0:20:15.945000	0:20:16.265000
 es	-	-	-	0:20:15.945000	0:20:16.265000
@@ -3402,34 +3402,34 @@ so	-	-	-	0:20:17.695000	0:20:18.680000
 wie	-	-	-	0:20:17.695000	0:20:18.680000
 ich	-	-	-	0:20:17.695000	0:20:18.680000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:18.680000" end="0:20:19.445000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:18.680000" end="0:20:19.445000" age_lower="1" age_upper="999">
 wie	-	-	-	0:20:18.680000	0:20:19.140000
 sie	-	-	-	0:20:18.680000	0:20:19.140000
 es	-	-	-	0:20:18.680000	0:20:19.140000
 Empfinden	-	-	-	0:20:19.140000	0:20:19.445000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:19.140000" end="0:20:19.445000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:19.140000" end="0:20:19.445000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:20:19.140000	0:20:19.445000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:19.445000" end="0:20:20.160000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:19.445000" end="0:20:20.160000" age_lower="1" age_upper="999">
 genau	-	-	-	0:20:19.715000	0:20:20.160000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:19.715000" end="0:20:20.665000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:19.715000" end="0:20:20.665000" project="PP04" age_lower="20" age_upper="30">
 wie	-	-	-	0:20:19.715000	0:20:20.160000
 ich	-	-	-	0:20:19.715000	0:20:20.160000
 es	-	-	-	0:20:19.715000	0:20:20.160000
 empfinde	-	-	-	0:20:19.715000	0:20:20.160000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:20.665000" end="0:20:20.860000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:20.665000" end="0:20:20.860000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:20.665000	0:20:20.860000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:20.860000" end="0:20:22.535000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:20.860000" end="0:20:22.535000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:20:20.860000	0:20:22.535000
 positiv	-	-	-	0:20:20.860000	0:20:22.535000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:22.535000" end="0:20:23.020000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:22.535000" end="0:20:23.020000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:22.535000" end="0:20:24.915000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:22.535000" end="0:20:24.915000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:20:23.020000	0:20:24.440000
 schön	-	-	-	0:20:23.020000	0:20:24.440000
 dass	-	-	-	0:20:23.020000	0:20:24.440000
@@ -3438,10 +3438,10 @@ das	-	-	-	0:20:23.020000	0:20:24.440000
 gibt	-	-	-	0:20:23.020000	0:20:24.440000
 weil	-	-	-	0:20:24.440000	0:20:24.915000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:24.915000" end="0:20:26.515000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:24.915000" end="0:20:26.515000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:24.915000	0:20:26.515000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:26.515000" end="0:20:32.695000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:26.515000" end="0:20:32.695000" project="PP04" age_lower="20" age_upper="30">
 jeder	-	-	-	0:20:26.515000	0:20:29.810000
 eben	-	-	-	0:20:26.515000	0:20:29.810000
 auch	-	-	-	0:20:26.515000	0:20:29.810000
@@ -3457,9 +3457,9 @@ irgendwie	-	-	-	0:20:29.810000	0:20:32.695000
 sich	-	-	-	0:20:29.810000	0:20:32.695000
 widerspiegelt	-	-	-	0:20:29.810000	0:20:32.695000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:32.693000" end="0:20:33.353000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:32.693000" end="0:20:33.353000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:32.693000" end="0:20:37.635000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:32.693000" end="0:20:37.635000" project="PP04" age_lower="20" age_upper="30">
 in	-	-	-	0:20:32.693000	0:20:33.353000
 in	-	-	-	0:20:33.353000	0:20:36.266000
 seiner	-	-	-	0:20:33.353000	0:20:36.266000
@@ -3472,7 +3472,7 @@ der	-	-	-	0:20:36.266000	0:20:37.185000
 Wortwahl	-	-	-	0:20:36.266000	0:20:37.185000
 und	-	-	-	0:20:37.185000	0:20:37.635000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:37.635000" end="0:20:42.195000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:37.635000" end="0:20:42.195000" age_lower="1" age_upper="999">
 und	-	-	-	0:20:37.635000	0:20:42.195000
 wie	-	-	-	0:20:37.635000	0:20:42.195000
 würden	-	-	-	0:20:37.635000	0:20:42.195000
@@ -3484,7 +3484,7 @@ von	-	-	-	0:20:37.635000	0:20:42.195000
 Dialekt	-	-	-	0:20:37.635000	0:20:42.195000
 bezeichnen	-	-	-	0:20:37.635000	0:20:42.195000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:42.195000" end="0:20:49.795000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:42.195000" end="0:20:49.795000" project="PP04" age_lower="20" age_upper="30">
 gestochene	-	-	-	0:20:45.475000	0:20:47.820000
 schp	-	-	-	0:20:45.475000	0:20:47.820000
 sch	-	-	-	0:20:45.475000	0:20:47.820000
@@ -3494,42 +3494,42 @@ der	-	-	-	0:20:47.820000	0:20:49.355000
 Schrift	-	-	-	0:20:47.820000	0:20:49.355000
 sprechen	-	-	-	0:20:47.820000	0:20:49.355000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:49.795000" end="0:20:50.195000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:49.795000" end="0:20:50.195000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:20:49.795000	0:20:50.195000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:49.795000" end="0:20:50.195000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:49.795000" end="0:20:50.195000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:50.195000" end="0:20:50.605000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:50.195000" end="0:20:50.605000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:50.195000	0:20:50.605000
 ;>	-	-	-	0:20:50.195000	0:20:50.605000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:50.195000" end="0:20:50.980000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:50.195000" end="0:20:50.980000" project="PP04" age_lower="20" age_upper="30">
 so	-	-	-	0:20:50.195000	0:20:50.605000
 wie	-	-	-	0:20:50.195000	0:20:50.605000
 <<kichernd>	-	-	-	0:20:50.195000	0:20:50.605000
 ich	-	-	-	0:20:50.195000	0:20:50.605000
 ,>	-	-	-	0:20:50.605000	0:20:50.745000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:50.980000" end="0:20:51.835000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:50.980000" end="0:20:51.835000" age_lower="1" age_upper="999">
 also	-	-	-	0:20:50.980000	0:20:51.835000
 Schriftsprache	-	-	-	0:20:50.980000	0:20:51.835000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:50.980000" end="0:20:51.835000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:50.980000" end="0:20:51.835000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:51.835000" end="0:20:52.570000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:51.835000" end="0:20:52.570000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:52.330000" end="0:20:53.140000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:52.330000" end="0:20:53.140000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:20:52.330000	0:20:52.570000
 <<kichernd>	-	-	-	0:20:52.570000	0:20:53.140000
 Schriftsprache	-	-	-	0:20:52.570000	0:20:53.140000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:53.140000" end="0:20:53.375000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:53.140000" end="0:20:53.375000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:53.140000	0:20:53.375000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:53.140000" end="0:20:53.645000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:53.140000" end="0:20:53.645000" project="PP04" age_lower="20" age_upper="30">
 ;>	-	-	-	0:20:53.375000	0:20:53.645000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:53.645000" end="0:20:58.335000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:53.645000" end="0:20:58.335000" age_lower="1" age_upper="999">
 und	-	-	-	0:20:53.645000	0:20:55.405000
 können	-	-	-	0:20:53.645000	0:20:55.405000
 Sie	-	-	-	0:20:53.645000	0:20:55.405000
@@ -3541,7 +3541,7 @@ sprechen	-	-	-	0:20:55.405000	0:20:58.335000
 und	-	-	-	0:20:55.405000	0:20:58.335000
 Dialekt	-	-	-	0:20:55.405000	0:20:58.335000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:58.335000" end="0:21:02.665000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:58.335000" end="0:21:02.665000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:20:58.335000	0:20:59.260000
 also	-	-	-	0:20:59.260000	0:21:02.665000
 ich	-	-	-	0:20:59.260000	0:21:02.665000
@@ -3556,27 +3556,27 @@ Freund	-	-	-	0:20:59.260000	0:21:02.665000
 zu	-	-	-	0:20:59.260000	0:21:02.665000
 Scherzen	-	-	-	0:20:59.260000	0:21:02.665000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:02.665000" end="0:21:03.775000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:02.665000" end="0:21:03.775000" age_lower="1" age_upper="999">
 Dialekt	-	-	-	0:21:02.665000	0:21:03.380000
 meinen	-	-	-	0:21:02.665000	0:21:03.380000
 Sie	-	-	-	0:21:03.380000	0:21:03.775000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:03.380000" end="0:21:03.775000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:03.380000" end="0:21:03.775000" project="PP04" age_lower="20" age_upper="30">
 Dialekt	-	-	-	0:21:03.380000	0:21:03.775000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:03.775000" end="0:21:03.970000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:03.775000" end="0:21:03.970000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:03.775000	0:21:03.970000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:03.775000" end="0:21:03.970000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:03.775000" end="0:21:03.970000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:03.970000" end="0:21:04.235000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:03.970000" end="0:21:04.235000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:03.970000" end="0:21:04.235000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:03.970000" end="0:21:04.235000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:21:03.970000	0:21:04.235000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:04.240000" end="0:21:04.470000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:04.240000" end="0:21:04.470000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:04.240000" end="0:21:06.260000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:04.240000" end="0:21:06.260000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:21:04.240000	0:21:04.470000
 er	-	-	-	0:21:04.470000	0:21:05.005000
 sagt	-	-	-	0:21:04.470000	0:21:05.005000
@@ -3589,9 +3589,9 @@ das	-	-	-	0:21:05.005000	0:21:06.260000
 nicht	-	-	-	0:21:05.005000	0:21:06.260000
 ;>	-	-	-	0:21:05.005000	0:21:06.260000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:06.260000" end="0:21:06.895000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:06.260000" end="0:21:06.895000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:06.260000" end="0:21:08.820000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:06.260000" end="0:21:08.820000" project="PP04" age_lower="20" age_upper="30">
 das	-	-	-	0:21:06.260000	0:21:06.895000
 das	-	-	-	0:21:06.260000	0:21:06.895000
 hört	-	-	-	0:21:06.895000	0:21:08.410000
@@ -3604,9 +3604,9 @@ also	-	-	-	0:21:08.410000	0:21:08.820000
 ich	-	-	-	0:21:08.410000	0:21:08.820000
 glaube	-	-	-	0:21:08.410000	0:21:08.820000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:08.820000" end="0:21:09.195000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:08.820000" end="0:21:09.195000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:08.820000" end="0:21:26.090000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:08.820000" end="0:21:26.090000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:21:09.195000	0:21:10.130000
 kann	-	-	-	0:21:09.195000	0:21:10.130000
 das	-	-	-	0:21:09.195000	0:21:10.130000
@@ -3650,17 +3650,17 @@ halt	-	-	-	0:21:22.135000	0:21:26.090000
 Deutsch	-	-	-	0:21:22.135000	0:21:26.090000
 spricht	-	-	-	0:21:22.135000	0:21:26.090000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:26.090000" end="0:21:26.545000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:26.090000" end="0:21:26.545000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:26.090000	0:21:26.545000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:26.090000" end="0:21:26.715000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:26.090000" end="0:21:26.715000" project="PP04" age_lower="20" age_upper="30">
 mit	-	-	-	0:21:26.090000	0:21:26.545000
 den	-	-	-	0:21:26.090000	0:21:26.545000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:26.715000" end="0:21:26.955000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:26.715000" end="0:21:26.955000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:26.715000	0:21:26.955000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:26.715000" end="0:21:36.406000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:26.715000" end="0:21:36.406000" project="PP04" age_lower="20" age_upper="30">
 mit	-	-	-	0:21:26.715000	0:21:26.955000
 dem	-	-	-	0:21:26.955000	0:21:28.455000
 wie	-	-	-	0:21:26.955000	0:21:28.455000
@@ -3689,7 +3689,7 @@ super	-	-	-	0:21:34.460000	0:21:36.406000
 rüberbringen	-	-	-	0:21:34.460000	0:21:36.406000
 ;>	-	-	-	0:21:34.460000	0:21:36.406000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:36.406000" end="0:21:38.805000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:36.406000" end="0:21:38.805000" age_lower="1" age_upper="999">
 okay	-	-	-	0:21:36.406000	0:21:36.853000
 also	-	-	-	0:21:36.855000	0:21:38.555000
 aber	-	-	-	0:21:36.855000	0:21:38.555000
@@ -3699,23 +3699,23 @@ können	-	-	-	0:21:36.855000	0:21:38.555000
 eher	-	-	-	0:21:36.855000	0:21:38.555000
 nicht	-	-	-	0:21:38.555000	0:21:38.805000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:38.555000" end="0:21:38.805000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:38.555000" end="0:21:38.805000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:21:38.555000	0:21:38.805000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:38.805000" end="0:21:39.270000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:38.805000" end="0:21:39.270000" age_lower="1" age_upper="999">
 Dialekt	-	-	-	0:21:38.805000	0:21:39.270000
 sprechen	-	-	-	0:21:38.805000	0:21:39.270000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:38.805000" end="0:21:39.270000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:38.805000" end="0:21:39.270000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:21:38.805000	0:21:39.270000
 nicht	-	-	-	0:21:38.805000	0:21:39.270000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:39.270000" end="0:21:39.545000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:39.270000" end="0:21:39.545000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:39.270000" end="0:21:39.545000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:39.270000" end="0:21:39.545000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:21:39.270000	0:21:39.545000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:39.545000" end="0:21:46.760000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:39.545000" end="0:21:46.760000" age_lower="1" age_upper="999">
 und	-	-	-	0:21:39.960000	0:21:45.265000
 weches	-	-	-	0:21:39.960000	0:21:45.265000
 Ansehen	-	-	-	0:21:39.960000	0:21:45.265000
@@ -3731,15 +3731,15 @@ speziell	-	-	-	0:21:45.265000	0:21:46.760000
 in	-	-	-	0:21:45.265000	0:21:46.760000
 ORT	ORT	-	-	0:21:45.265000	0:21:46.760000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:46.760000" end="0:21:48.630000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:46.760000" end="0:21:48.630000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:48.630000" end="0:21:50.390000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:48.630000" end="0:21:50.390000" age_lower="1" age_upper="999">
 wie	-	-	-	0:21:48.630000	0:21:50.390000
 wird	-	-	-	0:21:48.630000	0:21:50.390000
 Dialekt	-	-	-	0:21:48.630000	0:21:50.390000
 wahrgenommen	-	-	-	0:21:48.630000	0:21:50.390000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:50.390000" end="0:21:56.764000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:50.390000" end="0:21:56.764000" project="PP04" age_lower="20" age_upper="30">
 in	-	-	-	0:21:50.390000	0:21:55.620000
 ORT	ORT	-	-	0:21:50.390000	0:21:55.620000
 glaube	-	-	-	0:21:50.390000	0:21:55.620000
@@ -3758,9 +3758,9 @@ mein	-	-	-	0:21:55.620000	0:21:56.764000
 Opa	-	-	-	0:21:55.620000	0:21:56.764000
 ,>	-	-	-	0:21:55.620000	0:21:56.764000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:56.764000" end="0:21:57.290000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:56.764000" end="0:21:57.290000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:57.290000" end="0:22:02.685000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:57.290000" end="0:22:02.685000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:21:57.290000	0:21:57.770000
 glaube	-	-	-	0:21:57.290000	0:21:57.770000
 also	-	-	-	0:21:57.770000	0:21:59.425000
@@ -3779,9 +3779,9 @@ kein	-	-	-	0:22:00.880000	0:22:02.685000
 schönes	-	-	-	0:22:00.880000	0:22:02.685000
 Deutsch	-	-	-	0:22:00.880000	0:22:02.685000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:02.685000" end="0:22:03.055000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:02.685000" end="0:22:03.055000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:02.685000" end="0:22:20.340000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:02.685000" end="0:22:20.340000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:22:02.685000	0:22:03.055000
 er	-	-	-	0:22:03.055000	0:22:06.190000
 glaube	-	-	-	0:22:03.055000	0:22:06.190000
@@ -3820,30 +3820,30 @@ bei	-	-	-	0:22:19.357000	0:22:20.005000
 mir	-	-	-	0:22:19.357000	0:22:20.005000
 also	-	-	-	0:22:20.005000	0:22:20.340000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:20.340000" end="0:22:20.745000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:20.340000" end="0:22:20.745000" age_lower="1" age_upper="999">
 okay	-	-	-	0:22:20.340000	0:22:20.745000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:20.340000" end="0:22:21.535000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:20.340000" end="0:22:21.535000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:22:20.745000	0:22:21.535000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:21.535000" end="0:22:21.690000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:21.535000" end="0:22:21.690000" age_lower="1" age_upper="999">
 also	-	-	-	0:22:21.535000	0:22:21.690000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:21.535000" end="0:22:21.690000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:21.535000" end="0:22:21.690000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:21.690000" end="0:22:23.270000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:21.690000" end="0:22:23.270000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:22:21.690000	0:22:22.395000
 negativ	-	-	-	0:22:21.690000	0:22:22.395000
 wahrgenommen	-	-	-	0:22:22.395000	0:22:23.270000
 wird	-	-	-	0:22:22.395000	0:22:23.270000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:22.395000" end="0:22:23.270000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:22.395000" end="0:22:23.270000" project="PP04" age_lower="20" age_upper="30">
 nicht	-	-	-	0:22:22.395000	0:22:23.270000
 negativ	-	-	-	0:22:22.395000	0:22:23.270000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:23.270000" end="0:22:23.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:23.270000" end="0:22:23.385000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:23.270000" end="0:22:28.565000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:23.270000" end="0:22:28.565000" project="PP04" age_lower="20" age_upper="30">
 bei	-	-	-	0:22:23.270000	0:22:23.385000
 älteren	-	-	-	0:22:23.385000	0:22:27.085000
 kann	-	-	-	0:22:23.385000	0:22:27.085000
@@ -3864,14 +3864,14 @@ ist	-	-	-	0:22:27.085000	0:22:27.930000
 ein	-	-	-	0:22:27.085000	0:22:27.930000
 Bauer	-	-	-	0:22:27.085000	0:22:27.930000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:28.565000" end="0:22:28.995000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:28.565000" end="0:22:28.995000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:28.565000" end="0:22:28.995000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:28.565000" end="0:22:28.995000" project="PP04" age_lower="20" age_upper="30">
 ist	-	-	-	0:22:28.565000	0:22:28.995000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:28.995000" end="0:22:29.335000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:28.995000" end="0:22:29.335000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:29.335000" end="0:22:31.685000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:29.335000" end="0:22:31.685000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:22:29.335000	0:22:30.305000
 einer	-	-	-	0:22:29.335000	0:22:30.305000
 vom	-	-	-	0:22:29.335000	0:22:30.305000
@@ -3882,17 +3882,17 @@ ja	-	-	-	0:22:30.305000	0:22:31.685000
 eh	-	-	-	0:22:30.305000	0:22:31.685000
 ja	-	-	-	0:22:30.305000	0:22:31.685000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:31.685000" end="0:22:32.525000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:31.685000" end="0:22:32.525000" age_lower="1" age_upper="999">
 okay	-	-	-	0:22:31.685000	0:22:32.275000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:32.275000" end="0:22:34.080000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:32.275000" end="0:22:34.080000" project="PP04" age_lower="20" age_upper="30">
 so	-	-	-	0:22:32.275000	0:22:32.525000
 irgenwie	-	-	-	0:22:32.525000	0:22:34.080000
 ein	-	-	-	0:22:32.525000	0:22:34.080000
 bisschen	-	-	-	0:22:32.525000	0:22:34.080000
 abwertend	-	-	-	0:22:32.525000	0:22:34.080000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:34.080000" end="0:22:36.835000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:34.080000" end="0:22:36.835000" age_lower="1" age_upper="999">
 haben	-	-	-	0:22:34.450000	0:22:36.540000
 Sie	-	-	-	0:22:34.450000	0:22:36.540000
 persönlich	-	-	-	0:22:34.450000	0:22:36.540000
@@ -3900,71 +3900,71 @@ schon	-	-	-	0:22:34.450000	0:22:36.540000
 die	-	-	-	0:22:34.450000	0:22:36.540000
 erf	-	-	-	0:22:36.540000	0:22:36.835000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:36.540000" end="0:22:37.435000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:36.540000" end="0:22:37.435000" project="PP04" age_lower="20" age_upper="30">
 ist	-	-	-	0:22:36.540000	0:22:36.835000
 es	-	-	-	0:22:36.540000	0:22:36.835000
 kalt	-	-	-	0:22:36.835000	0:22:37.195000
 ich	-	-	-	0:22:37.195000	0:22:37.435000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:37.445000" end="0:22:37.740000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:37.445000" end="0:22:37.740000" age_lower="1" age_upper="999">
 nein	-	-	-	0:22:37.445000	0:22:37.740000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:37.445000" end="0:22:37.740000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:37.445000" end="0:22:37.740000" project="PP04" age_lower="20" age_upper="30">
 zumachen	-	-	-	0:22:37.445000	0:22:37.740000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:37.740000" end="0:22:37.940000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:37.740000" end="0:22:37.940000" age_lower="1" age_upper="999">
 für	-	-	-	0:22:37.740000	0:22:37.940000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:37.740000" end="0:22:37.940000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:37.740000" end="0:22:37.940000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:37.940000" end="0:22:38.280000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:37.940000" end="0:22:38.280000" age_lower="1" age_upper="999">
 mich	-	-	-	0:22:37.940000	0:22:38.280000
 passt	-	-	-	0:22:37.940000	0:22:38.280000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:37.940000" end="0:22:38.280000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:37.940000" end="0:22:38.280000" project="PP04" age_lower="20" age_upper="30">
 okay	-	-	-	0:22:37.940000	0:22:38.280000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:38.280000" end="0:22:38.725000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:38.280000" end="0:22:38.725000" age_lower="1" age_upper="999">
 es	-	-	-	0:22:38.280000	0:22:38.525000
 gut	-	-	-	0:22:38.525000	0:22:38.725000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:38.525000" end="0:22:38.725000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:38.525000" end="0:22:38.725000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:22:38.525000	0:22:38.725000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:38.725000" end="0:22:39.435000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:38.725000" end="0:22:39.435000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:22:38.725000	0:22:39.435000
 es	-	-	-	0:22:38.725000	0:22:39.435000
 für	-	-	-	0:22:38.725000	0:22:39.435000
 Sie	-	-	-	0:22:38.725000	0:22:39.435000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:38.725000" end="0:22:39.435000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:38.725000" end="0:22:39.435000" project="PP04" age_lower="20" age_upper="30">
 wollte	-	-	-	0:22:38.725000	0:22:39.435000
 nur	-	-	-	0:22:38.725000	0:22:39.435000
 Fragen	-	-	-	0:22:38.725000	0:22:39.435000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:39.435000" end="0:22:39.710000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:39.435000" end="0:22:39.710000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:39.435000" end="0:22:40.145000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:39.435000" end="0:22:40.145000" project="PP04" age_lower="20" age_upper="30">
 na	-	-	-	0:22:39.435000	0:22:39.710000
 ja	-	-	-	0:22:39.435000	0:22:39.710000
 für	-	-	-	0:22:39.710000	0:22:40.145000
 mich	-	-	-	0:22:39.710000	0:22:40.145000
 passt	-	-	-	0:22:39.710000	0:22:40.145000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:40.145000" end="0:22:40.415000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:40.145000" end="0:22:40.415000" age_lower="1" age_upper="999">
 ja	-	-	-	0:22:40.145000	0:22:40.415000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:40.145000" end="0:22:40.415000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:40.145000" end="0:22:40.415000" project="PP04" age_lower="20" age_upper="30">
 es	-	-	-	0:22:40.145000	0:22:40.415000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:40.415000" end="0:22:40.665000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:40.415000" end="0:22:40.665000" age_lower="1" age_upper="999">
 für	-	-	-	0:22:40.415000	0:22:40.665000
 mich	-	-	-	0:22:40.415000	0:22:40.665000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:40.415000" end="0:22:40.665000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:40.415000" end="0:22:40.665000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:22:40.415000	0:22:40.665000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:40.665000" end="0:22:48.820000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:40.665000" end="0:22:48.820000" age_lower="1" age_upper="999">
 passt	-	-	-	0:22:40.665000	0:22:40.935000
 es	-	-	-	0:22:40.665000	0:22:40.935000
 haben	-	-	-	0:22:41.265000	0:22:43.930000
@@ -3990,9 +3990,9 @@ schon	-	-	-	0:22:47.375000	0:22:48.375000
 einmal	-	-	-	0:22:48.375000	0:22:48.820000
 jemand	-	-	-	0:22:48.375000	0:22:48.820000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:48.375000" end="0:22:48.820000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:48.375000" end="0:22:48.820000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:48.820000" end="0:22:50.845000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:48.820000" end="0:22:50.845000" age_lower="1" age_upper="999">
 gesagt	-	-	-	0:22:48.820000	0:22:49.355000
 ah	-	-	-	0:22:49.355000	0:22:50.845000
 sie	-	-	-	0:22:49.355000	0:22:50.845000
@@ -4000,7 +4000,7 @@ kommen	-	-	-	0:22:49.355000	0:22:50.845000
 aus	-	-	-	0:22:49.355000	0:22:50.845000
 ORT	ORT	-	-	0:22:49.355000	0:22:50.845000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:50.845000" end="0:22:54.680000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:50.845000" end="0:22:54.680000" project="PP04" age_lower="20" age_upper="30">
 in	-	-	-	0:22:50.845000	0:22:52.325000
 ORT	ORT	-	-	0:22:50.845000	0:22:52.325000
 schon	-	-	-	0:22:50.845000	0:22:52.325000
@@ -4014,9 +4014,9 @@ es	-	-	-	0:22:54.225000	0:22:54.680000
 ist	-	-	-	0:22:54.225000	0:22:54.680000
 urcool	-	-	-	0:22:54.225000	0:22:54.680000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:54.680000" end="0:22:55.085000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:54.680000" end="0:22:55.085000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:54.680000" end="0:22:58.015000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:54.680000" end="0:22:58.015000" project="PP04" age_lower="20" age_upper="30">
 ursuper	-	-	-	0:22:55.085000	0:22:55.910000
 mah	-	-	-	0:22:55.910000	0:22:57.500000
 das	-	-	-	0:22:55.910000	0:22:57.500000
@@ -4027,15 +4027,15 @@ urku	-	-	-	0:22:55.910000	0:22:57.500000
 also	-	-	-	0:22:57.500000	0:22:58.015000
 urfein	-	-	-	0:22:57.500000	0:22:58.015000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:58.015000" end="0:22:58.380000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:58.015000" end="0:22:58.380000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:58.015000" end="0:22:58.705000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:58.015000" end="0:22:58.705000" project="PP04" age_lower="20" age_upper="30">
 oder	-	-	-	0:22:58.380000	0:22:58.705000
 weiss	-	-	-	0:22:58.380000	0:22:58.705000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:58.705000" end="0:22:59" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:58.705000" end="0:22:59" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:58.705000" end="0:23:16.290000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:58.705000" end="0:23:16.290000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:22:58.705000	0:22:59
 nicht	-	-	-	0:22:58.705000	0:22:59
 aber	-	-	-	0:22:59	0:23:02.899000
@@ -4076,9 +4076,9 @@ Schrift	-	-	-	0:23:10.575000	0:23:16.290000
 sch	-	-	-	0:23:10.575000	0:23:16.290000
 spreche	-	-	-	0:23:10.575000	0:23:16.290000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:16.290000" end="0:23:17.035000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:16.290000" end="0:23:17.035000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:17.035000" end="0:23:19.865000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:17.035000" end="0:23:19.865000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:23:17.035000	0:23:18.825000
 aber	-	-	-	0:23:17.035000	0:23:18.825000
 sonst	-	-	-	0:23:17.035000	0:23:18.825000
@@ -4086,7 +4086,7 @@ ja	-	-	-	0:23:18.825000	0:23:19.295000
 aber	-	-	-	0:23:19.295000	0:23:19.865000
 ich	-	-	-	0:23:19.295000	0:23:19.865000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:19.865000" end="0:23:22.860000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:19.865000" end="0:23:22.860000" age_lower="1" age_upper="999">
 also	-	-	-	0:23:19.865000	0:23:22.535000
 eher	-	-	-	0:23:19.865000	0:23:22.535000
 dass	-	-	-	0:23:19.865000	0:23:22.535000
@@ -4096,23 +4096,23 @@ zugeordnet	-	-	-	0:23:19.865000	0:23:22.535000
 werden	-	-	-	0:23:19.865000	0:23:22.535000
 als	-	-	-	0:23:22.535000	0:23:22.860000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:22.535000" end="0:23:22.860000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:22.535000" end="0:23:22.860000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:23:22.535000	0:23:22.860000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:22.860000" end="0:23:24.015000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:22.860000" end="0:23:24.015000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:23:22.860000	0:23:23.145000
 haben	-	-	-	0:23:23.145000	0:23:23.910000
 Sie	-	-	-	0:23:23.145000	0:23:23.910000
 den	-	-	-	0:23:23.145000	0:23:23.910000
 Eindruck	-	-	-	0:23:23.145000	0:23:23.910000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:23.910000" end="0:23:24.715000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:23.910000" end="0:23:24.715000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:23:23.910000	0:23:24.015000
 und	-	-	-	0:23:24.335000	0:23:24.715000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:24.715000" end="0:23:25.025000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:24.715000" end="0:23:25.025000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:24.715000" end="0:23:42.535000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:24.715000" end="0:23:42.535000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:23:24.715000	0:23:25.025000
 merke	-	-	-	0:23:25.025000	0:23:29.920000
 auch	-	-	-	0:23:25.025000	0:23:29.920000
@@ -4164,15 +4164,15 @@ auch	-	-	-	0:23:41.145000	0:23:41.955000
 gschert	-	-	-	0:23:41.145000	0:23:41.955000
 also	-	-	-	0:23:41.955000	0:23:42.535000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:42.535000" end="0:23:42.890000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:42.535000" end="0:23:42.890000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:42.535000	0:23:42.890000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:42.535000" end="0:23:42.890000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:42.535000" end="0:23:42.890000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:42.890000" end="0:23:43.215000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:42.890000" end="0:23:43.215000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:42.890000	0:23:43.215000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:42.890000" end="0:23:50.650000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:42.890000" end="0:23:50.650000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:23:42.890000	0:23:43.215000
 weiss	-	-	-	0:23:42.890000	0:23:43.215000
 nicht	-	-	-	0:23:43.215000	0:23:43.810000
@@ -4195,9 +4195,9 @@ sind	-	-	-	0:23:43.810000	0:23:50.120000
 dass	-	-	-	0:23:50.120000	0:23:50.650000
 sie	-	-	-	0:23:50.120000	0:23:50.650000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:50.650000" end="0:23:51.075000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:50.650000" end="0:23:51.075000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:50.650000" end="0:23:58.375000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:50.650000" end="0:23:58.375000" project="PP04" age_lower="20" age_upper="30">
 eine	-	-	-	0:23:51.075000	0:23:54.910000
 auch	-	-	-	0:23:51.075000	0:23:54.910000
 mit	-	-	-	0:23:51.075000	0:23:54.910000
@@ -4218,9 +4218,9 @@ Dialekt	-	-	-	0:23:54.910000	0:23:58.375000
 gesprochen	-	-	-	0:23:54.910000	0:23:58.375000
 haben	-	-	-	0:23:54.910000	0:23:58.375000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:58.375000" end="0:23:58.725000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:58.375000" end="0:23:58.725000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:58.375000" end="0:24:03.255000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:58.375000" end="0:24:03.255000" project="PP04" age_lower="20" age_upper="30">
 war	-	-	-	0:23:58.375000	0:23:58.725000
 ich	-	-	-	0:23:58.375000	0:23:58.725000
 so	-	-	-	0:23:58.375000	0:23:58.725000
@@ -4235,9 +4235,9 @@ auch	-	-	-	0:24:01.105000	0:24:02.855000
 glaube	-	-	-	0:24:01.105000	0:24:02.855000
 also	-	-	-	0:24:02.855000	0:24:03.255000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:03.255000" end="0:24:03.625000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:03.255000" end="0:24:03.625000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:03.255000" end="0:24:04.135000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:03.255000" end="0:24:04.135000" project="PP04" age_lower="20" age_upper="30">
 äh	-	-	-	0:24:03.255000	0:24:03.625000
 so	-	-	-	0:24:03.255000	0:24:03.625000
 habe	-	-	-	0:24:03.255000	0:24:03.625000
@@ -4246,14 +4246,14 @@ es	-	-	-	0:24:03.625000	0:24:04.135000
 halt	-	-	-	0:24:03.625000	0:24:04.135000
 im	-	-	-	0:24:03.625000	0:24:04.135000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:04.145000" end="0:24:04.450000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:04.145000" end="0:24:04.450000" age_lower="1" age_upper="999">
 durch	-	-	-	0:24:04.145000	0:24:04.450000
 die	-	-	-	0:24:04.145000	0:24:04.450000
 Sprache	-	-	-	0:24:04.145000	0:24:04.450000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:04.145000" end="0:24:04.450000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:04.145000" end="0:24:04.450000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:04.450000" end="0:24:06.200000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:04.450000" end="0:24:06.200000" age_lower="1" age_upper="999">
 haben	-	-	-	0:24:04.450000	0:24:05.825000
 Sie	-	-	-	0:24:04.450000	0:24:05.825000
 das	-	-	-	0:24:04.450000	0:24:05.825000
@@ -4261,23 +4261,23 @@ so	-	-	-	0:24:04.450000	0:24:05.825000
 empfunden	-	-	-	0:24:04.450000	0:24:05.825000
 dass	-	-	-	0:24:05.825000	0:24:06.200000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:05.825000" end="0:24:06.200000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:05.825000" end="0:24:06.200000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:24:05.825000	0:24:06.200000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:06.200000" end="0:24:06.700000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:06.200000" end="0:24:06.700000" age_lower="1" age_upper="999">
 dass	-	-	-	0:24:06.200000	0:24:06.700000
 dass	-	-	-	0:24:06.200000	0:24:06.700000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:06.200000" end="0:24:06.700000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:06.200000" end="0:24:06.700000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:24:06.200000	0:24:06.700000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:06.705000" end="0:24:08.005000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:06.705000" end="0:24:08.005000" age_lower="1" age_upper="999">
 sie	-	-	-	0:24:06.705000	0:24:08.005000
 da	-	-	-	0:24:06.705000	0:24:08.005000
 rausgestochen	-	-	-	0:24:06.705000	0:24:08.005000
 sind	-	-	-	0:24:06.705000	0:24:08.005000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:06.705000" end="0:24:08.810000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:06.705000" end="0:24:08.810000" project="PP04" age_lower="20" age_upper="30">
 dass	-	-	-	0:24:06.705000	0:24:08.005000
 ich	-	-	-	0:24:06.705000	0:24:08.005000
 so	-	-	-	0:24:06.705000	0:24:08.005000
@@ -4287,9 +4287,9 @@ anders	-	-	-	0:24:06.705000	0:24:08.005000
 dann	-	-	-	0:24:08.005000	0:24:08.810000
 auch	-	-	-	0:24:08.005000	0:24:08.810000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:08.810000" end="0:24:09.235000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:08.810000" end="0:24:09.235000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:09.235000" end="0:24:19.320000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:09.235000" end="0:24:19.320000" project="PP04" age_lower="20" age_upper="30">
 anders	-	-	-	0:24:09.235000	0:24:11.680000
 bin	-	-	-	0:24:09.235000	0:24:11.680000
 jetzt	-	-	-	0:24:09.235000	0:24:11.680000
@@ -4327,9 +4327,9 @@ mir	-	-	-	0:24:17.635000	0:24:19.320000
 das	-	-	-	0:24:17.635000	0:24:19.320000
 ja	-	-	-	0:24:17.635000	0:24:19.320000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:19.320000" end="0:24:20.440000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:19.320000" end="0:24:20.440000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:19.320000" end="0:24:21.735000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:19.320000" end="0:24:21.735000" project="PP04" age_lower="20" age_upper="30">
 dass	-	-	-	0:24:19.320000	0:24:20.440000
 sie	-	-	-	0:24:19.320000	0:24:20.440000
 das	-	-	-	0:24:19.320000	0:24:20.440000
@@ -4338,11 +4338,11 @@ es	-	-	-	0:24:20.440000	0:24:21.735000
 empfunden	-	-	-	0:24:20.440000	0:24:21.735000
 haben	-	-	-	0:24:20.440000	0:24:21.735000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:21.735000" end="0:24:22.080000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:21.735000" end="0:24:22.080000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:22.080000" end="0:24:22.350000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:22.080000" end="0:24:22.350000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:22.350000" end="0:24:29.170000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:22.350000" end="0:24:29.170000" age_lower="1" age_upper="999">
 und	-	-	-	0:24:22.350000	0:24:26.730000
 können	-	-	-	0:24:22.350000	0:24:26.730000
 Sie	-	-	-	0:24:22.350000	0:24:26.730000
@@ -4357,7 +4357,7 @@ Beispiel	-	-	-	0:24:26.735000	0:24:29.170000
 innerhalb	-	-	-	0:24:26.735000	0:24:29.170000
 Österreichs	-	-	-	0:24:26.735000	0:24:29.170000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:29.170000" end="0:24:40.100000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:29.170000" end="0:24:40.100000" project="PP04" age_lower="20" age_upper="30">
 schon	-	-	-	0:24:30.465000	0:24:32.690000
 wobei	-	-	-	0:24:32.690000	0:24:37.775000
 ich	-	-	-	0:24:32.690000	0:24:37.775000
@@ -4375,9 +4375,9 @@ die	-	-	-	0:24:37.775000	0:24:40.100000
 richtig	-	-	-	0:24:37.775000	0:24:40.100000
 tippe	-	-	-	0:24:37.775000	0:24:40.100000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:40.100000" end="0:24:40.735000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:40.100000" end="0:24:40.735000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:40.735000" end="0:24:48.355000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:40.735000" end="0:24:48.355000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:24:40.735000	0:24:42.515000
 ich	-	-	-	0:24:40.735000	0:24:42.515000
 bin	-	-	-	0:24:40.735000	0:24:42.515000
@@ -4406,23 +4406,23 @@ bin	-	-	-	0:24:47.480000	0:24:48.355000
 ein	-	-	-	0:24:47.480000	0:24:48.355000
 Steirer	-	-	-	0:24:47.480000	0:24:48.355000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:48.355000" end="0:24:49.180000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:48.355000" end="0:24:49.180000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:48.355000" end="0:24:49.180000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:48.355000" end="0:24:49.180000" project="PP04" age_lower="20" age_upper="30">
 <<lachend>	-	-	-	0:24:48.355000	0:24:49.180000
 äh	-	-	-	0:24:48.355000	0:24:49.180000
 so	-	-	-	0:24:48.355000	0:24:49.180000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:49.180000" end="0:24:49.695000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:49.180000" end="0:24:49.695000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:49.180000" end="0:24:49.695000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:49.180000" end="0:24:49.695000" project="PP04" age_lower="20" age_upper="30">
 so	-	-	-	0:24:49.180000	0:24:49.695000
 halt	-	-	-	0:24:49.180000	0:24:49.695000
 ,>	-	-	-	0:24:49.180000	0:24:49.695000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:49.700000" end="0:24:50.045000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:49.700000" end="0:24:50.045000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:49.700000" end="0:24:53.260000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:49.700000" end="0:24:53.260000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:24:49.700000	0:24:50.045000
 da	-	-	-	0:24:49.700000	0:24:50.045000
 bin	-	-	-	0:24:50.045000	0:24:51.140000
@@ -4437,9 +4437,9 @@ sogar	-	-	-	0:24:51.140000	0:24:53.260000
 sich	-	-	-	0:24:51.140000	0:24:53.260000
 ein	-	-	-	0:24:51.140000	0:24:53.260000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:53.260000" end="0:24:53.669000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:53.260000" end="0:24:53.669000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:53.260000" end="0:24:55.170000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:53.260000" end="0:24:55.170000" project="PP04" age_lower="20" age_upper="30">
 bisschen	-	-	-	0:24:53.260000	0:24:53.669000
 so	-	-	-	0:24:53.670000	0:24:54.980000
 ein	-	-	-	0:24:53.670000	0:24:54.980000
@@ -4448,9 +4448,9 @@ beleidigt	-	-	-	0:24:53.670000	0:24:54.980000
 sind	-	-	-	0:24:53.670000	0:24:54.980000
 mah	-	-	-	0:24:54.985000	0:24:55.170000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:55.170000" end="0:24:55.630000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:55.170000" end="0:24:55.630000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:55.170000" end="0:24:56.690000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:55.170000" end="0:24:56.690000" project="PP04" age_lower="20" age_upper="30">
 was	-	-	-	0:24:55.170000	0:24:55.630000
 glaubt	-	-	-	0:24:55.170000	0:24:55.630000
 <<kichernd>	-	-	-	0:24:55.630000	0:24:55.870000
@@ -4461,21 +4461,21 @@ doch	-	-	-	0:24:55.870000	0:24:56.690000
 ha	-	-	-	0:24:55.870000	0:24:56.690000
 >	-	-	-	0:24:55.870000	0:24:56.690000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:56.690000" end="0:24:57.565000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:56.690000" end="0:24:57.565000" age_lower="1" age_upper="999">
 okay	-	-	-	0:24:56.690000	0:24:57.275000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:57.275000" end="0:24:58.565000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:57.275000" end="0:24:58.565000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:24:57.275000	0:24:57.565000
 rede	-	-	-	0:24:57.275000	0:24:57.565000
 steirisch	-	-	-	0:24:57.275000	0:24:57.565000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:58.565000" end="0:24:59.210000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:58.565000" end="0:24:59.210000" age_lower="1" age_upper="999">
 und	-	-	-	0:24:58.565000	0:24:59.210000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:58.565000" end="0:24:59.210000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:58.565000" end="0:24:59.210000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:24:58.565000	0:24:59.210000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:59.210000" end="0:25:03.315000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:59.210000" end="0:25:03.315000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:24:59.210000	0:25:03.315000
 es	-	-	-	0:24:59.210000	0:25:03.315000
 eine	-	-	-	0:24:59.210000	0:25:03.315000
@@ -4490,7 +4490,7 @@ besonders	-	-	-	0:24:59.210000	0:25:03.315000
 gut	-	-	-	0:24:59.210000	0:25:03.315000
 gefällt	-	-	-	0:24:59.210000	0:25:03.315000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:03.315000" end="0:25:08.830000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:03.315000" end="0:25:08.830000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:25:05.245000	0:25:06.515000
 also	-	-	-	0:25:06.515000	0:25:08.830000
 das	-	-	-	0:25:06.515000	0:25:08.830000
@@ -4500,9 +4500,9 @@ mir	-	-	-	0:25:06.515000	0:25:08.830000
 sehr	-	-	-	0:25:06.515000	0:25:08.830000
 gut	-	-	-	0:25:06.515000	0:25:08.830000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:08.830000" end="0:25:09.295000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:08.830000" end="0:25:09.295000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:09.295000" end="0:25:13.410000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:09.295000" end="0:25:13.410000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:25:09.295000	0:25:11.750000
 das	-	-	-	0:25:09.295000	0:25:11.750000
 oberösterreichische	-	-	-	0:25:09.295000	0:25:11.750000
@@ -4519,9 +4519,9 @@ gut	-	-	-	0:25:11.750000	0:25:13.410000
 <<kichernd>	-	-	-	0:25:11.750000	0:25:13.410000
 auseinanderhal	-	-	-	0:25:11.750000	0:25:13.410000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:13.410000" end="0:25:13.860000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:13.410000" end="0:25:13.860000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:13.410000" end="0:25:22.015000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:13.410000" end="0:25:22.015000" project="PP04" age_lower="20" age_upper="30">
 >	-	-	-	0:25:13.410000	0:25:13.860000
 aber	-	-	-	0:25:13.860000	0:25:16.840000
 was	-	-	-	0:25:13.860000	0:25:16.840000
@@ -4547,7 +4547,7 @@ gern	-	-	-	0:25:20.515000	0:25:22.015000
 wie	-	-	-	0:25:20.515000	0:25:22.015000
 ja	-	-	-	0:25:20.515000	0:25:22.015000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:22.015000" end="0:25:23.830000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:22.015000" end="0:25:23.830000" age_lower="1" age_upper="999">
 das	-	-	-	0:25:22.015000	0:25:23.515000
 habe	-	-	-	0:25:22.015000	0:25:23.515000
 ich	-	-	-	0:25:22.015000	0:25:23.515000
@@ -4558,17 +4558,17 @@ auch	-	-	-	0:25:23.515000	0:25:23.830000
 in	-	-	-	0:25:23.515000	0:25:23.830000
 den	-	-	-	0:25:23.515000	0:25:23.830000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:23.515000" end="0:25:23.830000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:23.515000" end="0:25:23.830000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:25:23.515000	0:25:23.830000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:23.830000" end="0:25:25.020000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:23.830000" end="0:25:25.020000" age_lower="1" age_upper="999">
 Interviews	-	-	-	0:25:23.830000	0:25:24.535000
 dass	-	-	-	0:25:24.700000	0:25:25.020000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:24.700000" end="0:25:25.020000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:24.700000" end="0:25:25.020000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:25:24.700000	0:25:25.020000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:25.020000" end="0:25:26.585000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:25.020000" end="0:25:26.585000" age_lower="1" age_upper="999">
 dass	-	-	-	0:25:25.020000	0:25:26.585000
 die	-	-	-	0:25:25.020000	0:25:26.585000
 nicht	-	-	-	0:25:25.020000	0:25:26.585000
@@ -4576,10 +4576,10 @@ so	-	-	-	0:25:25.020000	0:25:26.585000
 beliebt	-	-	-	0:25:25.020000	0:25:26.585000
 sind	-	-	-	0:25:25.020000	0:25:26.585000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:26.585000" end="0:25:26.920000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:26.585000" end="0:25:26.920000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:25:26.585000	0:25:26.920000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:26.920000" end="0:25:30.710000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:26.920000" end="0:25:30.710000" age_lower="1" age_upper="999">
 die	-	-	-	0:25:26.920000	0:25:29.710000
 Dialekte	-	-	-	0:25:26.920000	0:25:29.710000
 von	-	-	-	0:25:26.920000	0:25:29.710000
@@ -4588,7 +4588,7 @@ und	-	-	-	0:25:26.920000	0:25:29.710000
 vom	-	-	-	0:25:26.920000	0:25:29.710000
 Burgenland	-	-	-	0:25:26.920000	0:25:29.710000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:29.710000" end="0:25:44.086000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:29.710000" end="0:25:44.086000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:25:29.710000	0:25:30.710000
 ich	-	-	-	0:25:29.710000	0:25:30.710000
 weiß	-	-	-	0:25:30.710000	0:25:31.326000
@@ -4643,29 +4643,29 @@ die	-	-	-	0:25:41.220000	0:25:44.086000
 Steirer	-	-	-	0:25:41.220000	0:25:44.086000
 halt	-	-	-	0:25:41.220000	0:25:44.086000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:44.085000" end="0:25:44.750000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:44.085000" end="0:25:44.750000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:44.750000" end="0:25:45.685000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:44.750000" end="0:25:45.685000" project="PP04" age_lower="20" age_upper="30">
 oder	-	-	-	0:25:44.750000	0:25:45.685000
 <<lachend>	-	-	-	0:25:44.750000	0:25:45.685000
 südtiroler	-	-	-	0:25:44.750000	0:25:45.685000
 ,>	-	-	-	0:25:44.750000	0:25:45.685000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:45.690000" end="0:25:46.360000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:45.690000" end="0:25:46.360000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:45.690000" end="0:25:47.460000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:45.690000" end="0:25:47.460000" project="PP04" age_lower="20" age_upper="30">
 so	-	-	-	0:25:46.360000	0:25:47
 <<lachend>	-	-	-	0:25:46.360000	0:25:47
 herzig	-	-	-	0:25:46.360000	0:25:47
 ;>	-	-	-	0:25:46.360000	0:25:47
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:47.460000" end="0:25:48.350000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:47.460000" end="0:25:48.350000" age_lower="1" age_upper="999">
 okay	-	-	-	0:25:47.460000	0:25:48.350000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:47.460000" end="0:25:48.350000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:47.460000" end="0:25:48.350000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:25:47.460000	0:25:48.350000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:48.350000" end="0:25:59.740000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:48.350000" end="0:25:59.740000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:25:48.560000	0:25:52.466000
 wir	-	-	-	0:25:48.560000	0:25:52.466000
 jetzt	-	-	-	0:25:48.560000	0:25:52.466000
@@ -4694,24 +4694,24 @@ in	-	-	-	0:25:58.325000	0:25:59.740000
 wecher	-	-	-	0:25:58.325000	0:25:59.740000
 Sprechweise	-	-	-	0:25:58.325000	0:25:59.740000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:59.740000" end="0:26:01.510000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:59.740000" end="0:26:01.510000" project="PP04" age_lower="20" age_upper="30">
 auch	-	-	-	0:25:59.740000	0:26:01.510000
 Hochdeutsch	-	-	-	0:25:59.740000	0:26:01.510000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:01.510000" end="0:26:01.870000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:01.510000" end="0:26:01.870000" age_lower="1" age_upper="999">
 auch	-	-	-	0:26:01.510000	0:26:01.870000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:01.510000" end="0:26:01.870000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:01.510000" end="0:26:01.870000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:26:01.510000	0:26:01.870000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:01.870000" end="0:26:02.560000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:01.870000" end="0:26:02.560000" age_lower="1" age_upper="999">
 Hochdeutsch	-	-	-	0:26:01.870000	0:26:02.145000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:02.145000" end="0:26:02.955000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:02.145000" end="0:26:02.955000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:26:02.145000	0:26:02.560000
 ja	-	-	-	0:26:02.560000	0:26:02.955000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:02.955000" end="0:26:04.915000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:02.955000" end="0:26:04.915000" age_lower="1" age_upper="999">
 und	-	-	-	0:26:02.955000	0:26:04.915000
 mit	-	-	-	0:26:02.955000	0:26:04.915000
 Ihnen	-	-	-	0:26:02.955000	0:26:04.915000
@@ -4719,20 +4719,20 @@ und	-	-	-	0:26:02.955000	0:26:04.915000
 Ihren	-	-	-	0:26:02.955000	0:26:04.915000
 Geschwistern	-	-	-	0:26:02.955000	0:26:04.915000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:04.915000" end="0:26:05.454000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:04.915000" end="0:26:05.454000" project="PP04" age_lower="20" age_upper="30">
 auch	-	-	-	0:26:04.915000	0:26:05.454000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:05.455000" end="0:26:06.050000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:05.455000" end="0:26:06.050000" age_lower="1" age_upper="999">
 auch	-	-	-	0:26:05.455000	0:26:05.800000
 immer	-	-	-	0:26:05.800000	0:26:06.050000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:05.800000" end="0:26:06.050000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:05.800000" end="0:26:06.050000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:26:05.800000	0:26:06.050000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:06.050000" end="0:26:06.725000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:06.050000" end="0:26:06.725000" age_lower="1" age_upper="999">
 Hochdeutsch	-	-	-	0:26:06.050000	0:26:06.400000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:06.400000" end="0:26:15.555000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:06.400000" end="0:26:15.555000" project="PP04" age_lower="20" age_upper="30">
 immer	-	-	-	0:26:06.400000	0:26:06.725000
 Hochdeutsch	-	-	-	0:26:06.725000	0:26:07.350000
 deswegen	-	-	-	0:26:07.350000	0:26:09.380000
@@ -4761,15 +4761,15 @@ Sprache	-	-	-	0:26:12.740000	0:26:15.150000
 bedacht	-	-	-	0:26:12.740000	0:26:15.150000
 und	-	-	-	0:26:15.150000	0:26:15.555000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:15.555000" end="0:26:16.230000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:15.555000" end="0:26:16.230000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:15.555000	0:26:16.230000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:16.230000" end="0:26:16.495000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:16.230000" end="0:26:16.495000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:26:16.230000	0:26:16.495000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:16.495000" end="0:26:16.725000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:16.495000" end="0:26:16.725000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:16.495000" end="0:26:27.705000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:16.495000" end="0:26:27.705000" project="PP04" age_lower="20" age_upper="30">
 deswegen	-	-	-	0:26:16.495000	0:26:16.725000
 manchmal	-	-	-	0:26:16.725000	0:26:18.540000
 drücke	-	-	-	0:26:16.725000	0:26:18.540000
@@ -4809,15 +4809,15 @@ weil	-	-	-	0:26:26.135000	0:26:27.705000
 das	-	-	-	0:26:26.135000	0:26:27.705000
 so	-	-	-	0:26:26.135000	0:26:27.705000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:27.705000" end="0:26:28.120000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:27.705000" end="0:26:28.120000" age_lower="1" age_upper="999">
 weil	-	-	-	0:26:27.705000	0:26:28.120000
 in	-	-	-	0:26:27.705000	0:26:28.120000
 ihrer	-	-	-	0:26:27.705000	0:26:28.120000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:27.705000" end="0:26:28.120000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:27.705000" end="0:26:28.120000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:26:27.705000	0:26:28.120000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:28.120000" end="0:26:29.965000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:28.120000" end="0:26:29.965000" age_lower="1" age_upper="999">
 Familie	-	-	-	0:26:28.120000	0:26:29.315000
 da	-	-	-	0:26:28.120000	0:26:29.315000
 Wert	-	-	-	0:26:28.120000	0:26:29.315000
@@ -4825,16 +4825,16 @@ darauf	-	-	-	0:26:28.120000	0:26:29.315000
 gelegt	-	-	-	0:26:29.315000	0:26:29.965000
 wurde	-	-	-	0:26:29.315000	0:26:29.965000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:29.315000" end="0:26:30.605000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:29.315000" end="0:26:30.605000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:26:29.315000	0:26:29.965000
 oder	-	-	-	0:26:29.315000	0:26:29.965000
 genau	-	-	-	0:26:29.965000	0:26:30.345000
 weil	-	-	-	0:26:30.345000	0:26:30.605000
 ich	-	-	-	0:26:30.345000	0:26:30.605000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:30.605000" end="0:26:30.890000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:30.605000" end="0:26:30.890000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:30.605000" end="0:26:38.215000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:30.605000" end="0:26:38.215000" project="PP04" age_lower="20" age_upper="30">
 es	-	-	-	0:26:30.605000	0:26:30.890000
 auch	-	-	-	0:26:30.605000	0:26:30.890000
 immer	-	-	-	0:26:30.890000	0:26:32.065000
@@ -4854,12 +4854,12 @@ auch	-	-	-	0:26:32.065000	0:26:38.215000
 übernommen	-	-	-	0:26:32.065000	0:26:38.215000
 habe	-	-	-	0:26:32.065000	0:26:38.215000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:38.215000" end="0:26:39.100000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:38.215000" end="0:26:39.100000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:38.625000" end="0:26:39.100000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:38.625000" end="0:26:39.100000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:26:38.625000	0:26:39.100000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:39.100000" end="0:26:44.565000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:39.100000" end="0:26:44.565000" age_lower="1" age_upper="999">
 haben	-	-	-	0:26:39.100000	0:26:44.565000
 Sie	-	-	-	0:26:39.100000	0:26:44.565000
 den	-	-	-	0:26:39.100000	0:26:44.565000
@@ -4875,7 +4875,7 @@ an	-	-	-	0:26:39.100000	0:26:44.565000
 ihrer	-	-	-	0:26:39.100000	0:26:44.565000
 Sprechweise	-	-	-	0:26:39.100000	0:26:44.565000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:44.565000" end="0:27:03.105000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:44.565000" end="0:27:03.105000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:26:44.565000	0:26:47.420000
 ich	-	-	-	0:26:44.565000	0:26:47.420000
 glaube	-	-	-	0:26:44.565000	0:26:47.420000
@@ -4921,9 +4921,9 @@ oder	-	-	-	0:27:01.005000	0:27:03.105000
 Erwachsener	-	-	-	0:27:01.005000	0:27:03.105000
 werden	-	-	-	0:27:01.005000	0:27:03.105000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:03.105000" end="0:27:03.393000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:03.105000" end="0:27:03.393000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:03.105000" end="0:27:07.405000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:03.105000" end="0:27:07.405000" project="PP04" age_lower="20" age_upper="30">
 sein	-	-	-	0:27:03.440000	0:27:04.333000
 oder	-	-	-	0:27:03.440000	0:27:04.333000
 ja	-	-	-	0:27:04.330000	0:27:05.570000
@@ -4935,12 +4935,12 @@ auch	-	-	-	0:27:05.570000	0:27:07.405000
 irgendwie	-	-	-	0:27:05.570000	0:27:07.405000
 an	-	-	-	0:27:05.570000	0:27:07.405000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:07.405000" end="0:27:07.775000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:07.405000" end="0:27:07.775000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:07.775000" end="0:27:08.245000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:07.775000" end="0:27:08.245000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:27:07.775000	0:27:08.245000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:08.245000" end="0:27:14.885000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:08.245000" end="0:27:14.885000" age_lower="1" age_upper="999">
 und	-	-	-	0:27:08.245000	0:27:11.705000
 wie	-	-	-	0:27:08.245000	0:27:11.705000
 wurde	-	-	-	0:27:08.245000	0:27:11.705000
@@ -4959,7 +4959,7 @@ vonseiten	-	-	-	0:27:13.775000	0:27:14.885000
 der	-	-	-	0:27:13.775000	0:27:14.885000
 Lehrer	-	-	-	0:27:13.775000	0:27:14.885000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:14.885000" end="0:27:22.100000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:14.885000" end="0:27:22.100000" project="PP04" age_lower="20" age_upper="30">
 eigentlich	-	-	-	0:27:14.885000	0:27:17.960000
 eher	-	-	-	0:27:14.885000	0:27:17.960000
 Hochdeutsch	-	-	-	0:27:14.885000	0:27:17.960000
@@ -4974,9 +4974,9 @@ im	-	-	-	0:27:20.740000	0:27:22.100000
 ORT	ORT	-	-	0:27:20.740000	0:27:22.100000
 ORT	ORT	-	-	0:27:20.740000	0:27:22.100000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:22.100000" end="0:27:22.515000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:22.100000" end="0:27:22.515000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:22.100000" end="0:27:30.680000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:22.100000" end="0:27:30.680000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:27:22.100000	0:27:22.515000
 ich	-	-	-	0:27:22.100000	0:27:22.515000
 finde	-	-	-	0:27:22.100000	0:27:22.515000
@@ -4997,9 +4997,9 @@ ORT	ORT	-	-	0:27:25.665000	0:27:29.785000
 Dialekt	-	-	-	0:27:25.665000	0:27:29.785000
 draufham	-	-	-	0:27:25.665000	0:27:29.785000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:30.680000" end="0:27:31.035000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:30.680000" end="0:27:31.035000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:30.680000" end="0:27:44.535000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:30.680000" end="0:27:44.535000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:27:30.680000	0:27:31.035000
 ja	-	-	-	0:27:31.035000	0:27:31.970000
 ein	-	-	-	0:27:31.970000	0:27:35.930000
@@ -5044,9 +5044,9 @@ von	-	-	-	0:27:39.515000	0:27:44.535000
 den	-	-	-	0:27:39.515000	0:27:44.535000
 Professoren	-	-	-	0:27:39.515000	0:27:44.535000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:44.535000" end="0:27:44.845000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:44.535000" end="0:27:44.845000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:44.535000" end="0:27:48.925000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:44.535000" end="0:27:48.925000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:27:44.535000	0:27:44.845000
 wir	-	-	-	0:27:44.845000	0:27:47
 natürlich	-	-	-	0:27:44.845000	0:27:47
@@ -5064,28 +5064,28 @@ ein	-	-	-	0:27:47	0:27:48.925000
 bisschen	-	-	-	0:27:47	0:27:48.925000
 ein	-	-	-	0:27:47	0:27:48.925000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:48.925000" end="0:27:50.950000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:48.925000" end="0:27:50.950000" age_lower="1" age_upper="999">
 distanzverhältnis	-	-	-	0:27:48.925000	0:27:50.295000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:50.295000" end="0:27:50.950000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:50.295000" end="0:27:50.950000" project="PP04" age_lower="20" age_upper="30">
 Distanz	-	-	-	0:27:50.295000	0:27:50.950000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:50.950000" end="0:27:51.235000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:50.950000" end="0:27:51.235000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:50.950000" end="0:27:51.235000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:50.950000" end="0:27:51.235000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:51.235000" end="0:27:51.915000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:51.235000" end="0:27:51.915000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:51.575000" end="0:27:51.915000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:51.575000" end="0:27:51.915000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:27:51.575000	0:27:51.915000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:51.915000" end="0:27:52.945000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:51.915000" end="0:27:52.945000" age_lower="1" age_upper="999">
 okay	-	-	-	0:27:52.080000	0:27:52.945000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:52.080000" end="0:27:52.945000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:52.080000" end="0:27:52.945000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:27:52.080000	0:27:52.945000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:52.945000" end="0:27:56.740000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:52.945000" end="0:27:56.740000" age_lower="1" age_upper="999">
 und	-	-	-	0:27:53.065000	0:27:56.740000
 wie	-	-	-	0:27:53.065000	0:27:56.740000
 denken	-	-	-	0:27:53.065000	0:27:56.740000
@@ -5096,7 +5096,7 @@ und	-	-	-	0:27:53.065000	0:27:56.740000
 Lehrerinnen	-	-	-	0:27:53.065000	0:27:56.740000
 sprechen	-	-	-	0:27:53.065000	0:27:56.740000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:56.740000" end="0:28:15.125000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:56.740000" end="0:28:15.125000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:27:56.740000	0:27:59.195000
 also	-	-	-	0:27:59.195000	0:28:03.360000
 ich	-	-	-	0:27:59.195000	0:28:03.360000
@@ -5126,14 +5126,14 @@ der	-	-	-	0:28:12.490000	0:28:15.125000
 Schrift	-	-	-	0:28:12.490000	0:28:15.125000
 spricht	-	-	-	0:28:12.490000	0:28:15.125000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:15.125000" end="0:28:15.325000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:15.125000" end="0:28:15.325000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:15.125000" end="0:28:15.325000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:15.125000" end="0:28:15.325000" project="PP04" age_lower="20" age_upper="30">
 t	-	-	-	0:28:15.125000	0:28:15.325000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:15.325000" end="0:28:15.525000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:15.325000" end="0:28:15.525000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:15.525000" end="0:28:19.165000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:15.525000" end="0:28:19.165000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:28:15.525000	0:28:19.165000
 ich	-	-	-	0:28:15.525000	0:28:19.165000
 glaube	-	-	-	0:28:15.525000	0:28:19.165000
@@ -5144,21 +5144,21 @@ nicht	-	-	-	0:28:15.525000	0:28:19.165000
 ehrlich	-	-	-	0:28:15.525000	0:28:19.165000
 irgenwie	-	-	-	0:28:15.525000	0:28:19.165000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:19.165000" end="0:28:19.640000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:19.165000" end="0:28:19.640000" age_lower="1" age_upper="999">
 also	-	-	-	0:28:19.165000	0:28:19.640000
 authentisch	-	-	-	0:28:19.165000	0:28:19.640000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:19.165000" end="0:28:19.640000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:19.165000" end="0:28:19.640000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:19.640000" end="0:28:20.965000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:19.640000" end="0:28:20.965000" age_lower="1" age_upper="999">
 sozusagen	-	-	-	0:28:19.640000	0:28:20.370000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:20.370000" end="0:28:20.965000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:20.370000" end="0:28:20.965000" project="PP04" age_lower="20" age_upper="30">
 genau	-	-	-	0:28:20.370000	0:28:20.965000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:20.965000" end="0:28:21.955000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:20.965000" end="0:28:21.955000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:21.715000" end="0:28:29.865000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:21.715000" end="0:28:29.865000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:28:21.715000	0:28:21.955000
 es	-	-	-	0:28:21.955000	0:28:22.915000
 ist	-	-	-	0:28:21.955000	0:28:22.915000
@@ -5187,9 +5187,9 @@ die	-	-	-	0:28:25.610000	0:28:29.865000
 Schweiz	-	-	-	0:28:25.610000	0:28:29.865000
 gegangen	-	-	-	0:28:25.610000	0:28:29.865000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:29.865000" end="0:28:30.120000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:29.865000" end="0:28:30.120000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:29.865000" end="0:28:35.495000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:29.865000" end="0:28:35.495000" project="PP04" age_lower="20" age_upper="30">
 meine	-	-	-	0:28:29.865000	0:28:30.120000
 cousins	-	-	-	0:28:30.120000	0:28:32.179000
 eben	-	-	-	0:28:30.120000	0:28:32.179000
@@ -5204,18 +5204,18 @@ können	-	-	-	0:28:32.180000	0:28:34.995000
 wenn	-	-	-	0:28:34.995000	0:28:35.495000
 sie	-	-	-	0:28:34.995000	0:28:35.495000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:35.500000" end="0:28:36.395000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:35.500000" end="0:28:36.395000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:35.500000" end="0:28:38.615000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:35.500000" end="0:28:38.615000" project="PP04" age_lower="20" age_upper="30">
 so	-	-	-	0:28:35.500000	0:28:36.395000
 absolut	-	-	-	0:28:36.395000	0:28:38.395000
 anders	-	-	-	0:28:36.395000	0:28:38.395000
 sprechen	-	-	-	0:28:36.395000	0:28:38.395000
 also	-	-	-	0:28:38.395000	0:28:38.615000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:38.615000" end="0:28:39.135000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:38.615000" end="0:28:39.135000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:38.615000" end="0:28:56.850000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:38.615000" end="0:28:56.850000" project="PP04" age_lower="20" age_upper="30">
 das	-	-	-	0:28:38.615000	0:28:39.135000
 d	-	-	-	0:28:38.615000	0:28:39.135000
 hat	-	-	-	0:28:38.615000	0:28:39.135000
@@ -5280,21 +5280,21 @@ wie	-	-	-	0:28:55.345000	0:28:56.850000
 zwei	-	-	-	0:28:55.345000	0:28:56.850000
 Sprachen	-	-	-	0:28:55.345000	0:28:56.850000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:56.850000" end="0:28:57.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:56.850000" end="0:28:57.385000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:56.850000" end="0:28:57.385000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:56.850000" end="0:28:57.385000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:57.385000" end="0:28:58.115000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:57.385000" end="0:28:58.115000" age_lower="1" age_upper="999">
 stimmt	-	-	-	0:28:57.385000	0:28:57.810000
 ja	-	-	-	0:28:57.810000	0:28:58.115000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:57.810000" end="0:28:58.115000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:57.810000" end="0:28:58.115000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:28:57.810000	0:28:58.115000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:58.115000" end="0:28:59.570000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:58.115000" end="0:28:59.570000" age_lower="1" age_upper="999">
 absolut	-	-	-	0:28:58.115000	0:28:59.570000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:58.115000" end="0:29:05.715000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:58.115000" end="0:29:05.715000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:28:58.115000	0:28:59.570000
 ich	-	-	-	0:28:59.570000	0:29:05.715000
 denke	-	-	-	0:28:59.570000	0:29:05.715000
@@ -5309,7 +5309,7 @@ seinem	-	-	-	0:28:59.570000	0:29:05.715000
 Dialekt	-	-	-	0:28:59.570000	0:29:05.715000
 unterrichtet	-	-	-	0:28:59.570000	0:29:05.715000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:05.715000" end="0:29:11.620000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:05.715000" end="0:29:11.620000" age_lower="1" age_upper="999">
 und	-	-	-	0:29:06.420000	0:29:09.300000
 mit	-	-	-	0:29:06.420000	0:29:09.300000
 Eintritt	-	-	-	0:29:06.420000	0:29:09.300000
@@ -5327,19 +5327,19 @@ etwas	-	-	-	0:29:09.300000	0:29:11.620000
 verändert	-	-	-	0:29:09.300000	0:29:11.620000
 hat	-	-	-	0:29:09.300000	0:29:11.620000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:11.620000" end="0:29:12.765000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:11.620000" end="0:29:12.765000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:12.765000" end="0:29:13.325000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:12.765000" end="0:29:13.325000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:12.765000" end="0:29:15.879000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:12.765000" end="0:29:15.879000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:29:13.325000	0:29:14.965000
 ich	-	-	-	0:29:14.965000	0:29:15.879000
 glaube	-	-	-	0:29:14.965000	0:29:15.879000
 nicht	-	-	-	0:29:14.965000	0:29:15.879000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:15.880000" end="0:29:16.460000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:15.880000" end="0:29:16.460000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:15.880000" end="0:29:17.835000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:15.880000" end="0:29:17.835000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:29:15.880000	0:29:16.460000
 habe	-	-	-	0:29:16.460000	0:29:17.835000
 ich	-	-	-	0:29:16.460000	0:29:17.835000
@@ -5347,7 +5347,7 @@ nicht	-	-	-	0:29:16.460000	0:29:17.835000
 den	-	-	-	0:29:16.460000	0:29:17.835000
 Eindruck	-	-	-	0:29:16.460000	0:29:17.835000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:17.835000" end="0:29:28.246000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:17.835000" end="0:29:28.246000" age_lower="1" age_upper="999">
 und	-	-	-	0:29:17.835000	0:29:22.345000
 auch	-	-	-	0:29:17.835000	0:29:22.345000
 mit	-	-	-	0:29:17.835000	0:29:22.345000
@@ -5371,7 +5371,7 @@ gleiche	-	-	-	0:29:25.173000	0:29:28.246000
 Sprechweise	-	-	-	0:29:25.173000	0:29:28.246000
 haben	-	-	-	0:29:25.173000	0:29:28.246000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:28.246000" end="0:29:32.410000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:28.246000" end="0:29:32.410000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:29:28.246000	0:29:29.400000
 glaube	-	-	-	0:29:29.400000	0:29:31.790000
 schon	-	-	-	0:29:29.400000	0:29:31.790000
@@ -5384,9 +5384,9 @@ mich	-	-	-	0:29:29.400000	0:29:31.790000
 anpasse	-	-	-	0:29:29.400000	0:29:31.790000
 also	-	-	-	0:29:31.790000	0:29:32.410000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:32.410000" end="0:29:32.685000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:32.410000" end="0:29:32.685000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:32.410000" end="0:29:42.685000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:32.410000" end="0:29:42.685000" project="PP04" age_lower="20" age_upper="30">
 von	-	-	-	0:29:32.685000	0:29:34.900000
 meinem	-	-	-	0:29:32.685000	0:29:34.900000
 Freund	-	-	-	0:29:32.685000	0:29:34.900000
@@ -5411,10 +5411,10 @@ diesen	-	-	-	0:29:37.180000	0:29:42.685000
 Slang	-	-	-	0:29:37.180000	0:29:42.685000
 draufhaben	-	-	-	0:29:37.180000	0:29:42.685000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:42.685000" end="0:29:43.045000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:42.685000" end="0:29:43.045000" age_lower="1" age_upper="999">
 ja	-	-	-	0:29:42.685000	0:29:43.045000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:43.045000" end="0:29:51.870000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:43.045000" end="0:29:51.870000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:29:43.045000	0:29:45.960000
 ich	-	-	-	0:29:43.045000	0:29:45.960000
 merke	-	-	-	0:29:43.045000	0:29:45.960000
@@ -5437,9 +5437,9 @@ bisschen	-	-	-	0:29:45.960000	0:29:50.680000
 bisschen	-	-	-	0:29:50.680000	0:29:51.265000
 bisschen	-	-	-	0:29:51.265000	0:29:51.575000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:51.870000" end="0:29:52.475000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:51.870000" end="0:29:52.475000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:51.870000" end="0:29:54.935000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:51.870000" end="0:29:54.935000" project="PP04" age_lower="20" age_upper="30">
 <<lachend>	-	-	-	0:29:51.870000	0:29:52.475000
 so	-	-	-	0:29:51.870000	0:29:52.475000
 halt	-	-	-	0:29:51.870000	0:29:52.475000
@@ -5453,13 +5453,13 @@ verändern	-	-	-	0:29:52.475000	0:29:54.265000
 und	-	-	-	0:29:54.265000	0:29:54.935000
 anzupassen	-	-	-	0:29:54.265000	0:29:54.935000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:54.935000" end="0:29:55.175000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:54.935000" end="0:29:55.175000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:54.935000" end="0:29:55.175000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:54.935000" end="0:29:55.175000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:55.175000" end="0:29:55.905000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:55.175000" end="0:29:55.905000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:55.175000" end="0:29:58.165000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:55.175000" end="0:29:58.165000" project="PP04" age_lower="20" age_upper="30">
 auch	-	-	-	0:29:55.175000	0:29:55.905000
 wenn	-	-	-	0:29:55.175000	0:29:55.905000
 es	-	-	-	0:29:55.905000	0:29:57.740000
@@ -5470,18 +5470,18 @@ wahrscheinlich	-	-	-	0:29:55.905000	0:29:57.740000
 aber	-	-	-	0:29:57.740000	0:29:58.165000
 >	-	-	-	0:29:57.740000	0:29:58.165000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:58.165000" end="0:29:58.710000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:58.165000" end="0:29:58.710000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:58.165000" end="0:30:00.680000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:58.165000" end="0:30:00.680000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:29:58.710000	0:30:00.680000
 es	-	-	-	0:29:58.710000	0:30:00.680000
 ist	-	-	-	0:29:58.710000	0:30:00.680000
 irgenwie	-	-	-	0:29:58.710000	0:30:00.680000
 automatisch	-	-	-	0:29:58.710000	0:30:00.680000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:00.680000" end="0:30:01.135000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:00.680000" end="0:30:01.135000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:01.135000" end="0:30:09.510000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:01.135000" end="0:30:09.510000" project="PP04" age_lower="20" age_upper="30">
 vielleicht	-	-	-	0:30:01.135000	0:30:03.935000
 auch	-	-	-	0:30:01.135000	0:30:03.935000
 weil	-	-	-	0:30:01.135000	0:30:03.935000
@@ -5503,9 +5503,9 @@ durch	-	-	-	0:30:03.940000	0:30:09.510000
 mein	-	-	-	0:30:03.940000	0:30:09.510000
 Hochdeutsch	-	-	-	0:30:03.940000	0:30:09.510000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:09.510000" end="0:30:10.025000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:09.510000" end="0:30:10.025000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:10.025000" end="0:30:15.565000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:10.025000" end="0:30:15.565000" project="PP04" age_lower="20" age_upper="30">
 durch	-	-	-	0:30:10.025000	0:30:12.855000
 dieses	-	-	-	0:30:10.025000	0:30:12.855000
 ja	-	-	-	0:30:10.025000	0:30:12.855000
@@ -5523,9 +5523,9 @@ ORT	ORT	-	-	0:30:13.680000	0:30:15.280000
 Prinzessin	-	-	-	0:30:13.680000	0:30:15.280000
 die	-	-	-	0:30:15.280000	0:30:15.565000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:15.565000" end="0:30:16.250000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:15.565000" end="0:30:16.250000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:16.250000" end="0:30:20.200000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:16.250000" end="0:30:20.200000" project="PP04" age_lower="20" age_upper="30">
 was	-	-	-	0:30:16.250000	0:30:19.010000
 hat	-	-	-	0:30:16.250000	0:30:19.010000
 sie	-	-	-	0:30:16.250000	0:30:19.010000
@@ -5538,7 +5538,7 @@ sagen	-	-	-	0:30:16.250000	0:30:19.010000
 obwohl	-	-	-	0:30:19.010000	0:30:20.200000
 ja	-	-	-	0:30:19.010000	0:30:20.200000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:20.200000" end="0:30:31.175000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:20.200000" end="0:30:31.175000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:30:20.200000	0:30:23.385000
 intressant	-	-	-	0:30:20.200000	0:30:23.385000
 der	-	-	-	0:30:20.200000	0:30:23.385000
@@ -5563,7 +5563,7 @@ aufgrund	-	-	-	0:30:23.390000	0:30:31.175000
 der	-	-	-	0:30:23.390000	0:30:31.175000
 Sprache	-	-	-	0:30:23.390000	0:30:31.175000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:31.175000" end="0:30:32.520000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:31.175000" end="0:30:32.520000" project="PP04" age_lower="20" age_upper="30">
 ein	-	-	-	0:30:31.175000	0:30:32.520000
 ja	-	-	-	0:30:31.175000	0:30:32.520000
 ich	-	-	-	0:30:31.175000	0:30:32.520000
@@ -5571,9 +5571,9 @@ kann	-	-	-	0:30:31.175000	0:30:32.520000
 mir	-	-	-	0:30:31.175000	0:30:32.520000
 schon	-	-	-	0:30:31.175000	0:30:32.520000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:32.520000" end="0:30:32.990000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:32.520000" end="0:30:32.990000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:32.520000" end="0:30:44.715000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:32.520000" end="0:30:44.715000" project="PP04" age_lower="20" age_upper="30">
 vorstellen	-	-	-	0:30:32.520000	0:30:32.990000
 dass	-	-	-	0:30:32.520000	0:30:32.990000
 das	-	-	-	0:30:32.990000	0:30:35.590000
@@ -5607,9 +5607,9 @@ bisschen	-	-	-	0:30:43.015000	0:30:44.715000
 blöd	-	-	-	0:30:43.015000	0:30:44.715000
 gesagt	-	-	-	0:30:43.015000	0:30:44.715000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:44.715000" end="0:30:45.130000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:44.715000" end="0:30:45.130000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:44.715000" end="0:30:50.855000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:44.715000" end="0:30:50.855000" project="PP04" age_lower="20" age_upper="30">
 in	-	-	-	0:30:45.130000	0:30:46.945000
 eim	-	-	-	0:30:45.130000	0:30:46.945000
 Kreis	-	-	-	0:30:45.130000	0:30:46.945000
@@ -5630,9 +5630,9 @@ jetzt	-	-	-	0:30:48.195000	0:30:50.730000
 Vorarlbergerisch	-	-	-	0:30:48.195000	0:30:50.730000
 da	-	-	-	0:30:50.730000	0:30:50.855000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:50.855000" end="0:30:51.260000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:50.855000" end="0:30:51.260000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:50.855000" end="0:30:55.280000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:50.855000" end="0:30:55.280000" project="PP04" age_lower="20" age_upper="30">
 ist	-	-	-	0:30:50.855000	0:30:51.260000
 der	-	-	-	0:30:51.260000	0:30:53.570000
 ist	-	-	-	0:30:51.260000	0:30:53.570000
@@ -5644,11 +5644,11 @@ vom	-	-	-	0:30:54.045000	0:30:55.280000
 sprachlichen	-	-	-	0:30:54.045000	0:30:55.280000
 her	-	-	-	0:30:54.045000	0:30:55.280000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:55.280000" end="0:30:55.920000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:55.280000" end="0:30:55.920000" age_lower="1" age_upper="999">
 ja	-	-	-	0:30:55.280000	0:30:55.920000
 ja	-	-	-	0:30:55.280000	0:30:55.920000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:55.920000" end="0:31:08.850000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:55.920000" end="0:31:08.850000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:30:55.920000	0:30:58.525000
 umgekehrt	-	-	-	0:30:55.920000	0:30:58.525000
 wenn	-	-	-	0:30:55.920000	0:30:58.525000
@@ -5687,33 +5687,33 @@ oder	-	-	-	0:31:08.050000	0:31:08.850000
 was	-	-	-	0:31:08.050000	0:31:08.850000
 was	-	-	-	0:31:08.050000	0:31:08.850000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:08.850000" end="0:31:09.170000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:08.850000" end="0:31:09.170000" age_lower="1" age_upper="999">
 einfach	-	-	-	0:31:08.850000	0:31:09.170000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:08.850000" end="0:31:09.170000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:08.850000" end="0:31:09.170000" project="PP04" age_lower="20" age_upper="30">
 w	-	-	-	0:31:08.850000	0:31:09.170000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:09.170000" end="0:31:10.220000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:09.170000" end="0:31:10.220000" age_lower="1" age_upper="999">
 Fremder	-	-	-	0:31:09.170000	0:31:09.660000
 auch	-	-	-	0:31:09.660000	0:31:10.220000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:09.660000" end="0:31:10.220000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:09.660000" end="0:31:10.220000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:31:09.660000	0:31:10.220000
 gen	-	-	-	0:31:09.660000	0:31:10.220000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:10.220000" end="0:31:10.760000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:10.220000" end="0:31:10.760000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:10.220000" end="0:31:11.005000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:10.220000" end="0:31:11.005000" project="PP04" age_lower="20" age_upper="30">
 stimmt	-	-	-	0:31:10.220000	0:31:10.760000
 ja	-	-	-	0:31:10.220000	0:31:10.760000
 Fremder	-	-	-	0:31:10.900000	0:31:11.005000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:11.005000" end="0:31:11.460000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:11.005000" end="0:31:11.460000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:11.005000" end="0:31:11.865000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:11.005000" end="0:31:11.865000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:31:11.460000	0:31:11.865000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:11.865000" end="0:31:17.615000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:11.865000" end="0:31:17.615000" age_lower="1" age_upper="999">
 und	-	-	-	0:31:11.865000	0:31:15.180000
 sprechen	-	-	-	0:31:11.865000	0:31:15.180000
 Sie	-	-	-	0:31:11.865000	0:31:15.180000
@@ -5732,19 +5732,19 @@ ist	-	-	-	0:31:17.070000	0:31:17.390000
 das	-	-	-	0:31:17.390000	0:31:17.615000
 da	-	-	-	0:31:17.390000	0:31:17.615000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:17.390000" end="0:31:17.615000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:17.390000" end="0:31:17.615000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:17.615000" end="0:31:18.470000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:17.615000" end="0:31:18.470000" age_lower="1" age_upper="999">
 eigentlich	-	-	-	0:31:17.615000	0:31:18.470000
 immer	-	-	-	0:31:17.615000	0:31:18.470000
 Deutsch	-	-	-	0:31:17.615000	0:31:18.470000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:18.470000" end="0:31:19.680000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:18.470000" end="0:31:19.680000" project="PP04" age_lower="20" age_upper="30">
 Englisch	-	-	-	0:31:18.470000	0:31:19.680000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:19.680000" end="0:31:20.200000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:19.680000" end="0:31:20.200000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:19.680000" end="0:31:27.905000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:19.680000" end="0:31:27.905000" project="PP04" age_lower="20" age_upper="30">
 ist	-	-	-	0:31:19.680000	0:31:20.200000
 ja	-	-	-	0:31:20.200000	0:31:21.025000
 und	-	-	-	0:31:21.025000	0:31:26.050000
@@ -5757,9 +5757,9 @@ lerne	-	-	-	0:31:26.050000	0:31:27.905000
 jetzt	-	-	-	0:31:26.050000	0:31:27.905000
 Ungarisch	-	-	-	0:31:26.050000	0:31:27.905000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:27.905000" end="0:31:28.480000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:27.905000" end="0:31:28.480000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:27.905000" end="0:31:30.480000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:27.905000" end="0:31:30.480000" project="PP04" age_lower="20" age_upper="30">
 weil	-	-	-	0:31:27.905000	0:31:28.480000
 die	-	-	-	0:31:28.480000	0:31:30.480000
 Muttersprache	-	-	-	0:31:28.480000	0:31:30.480000
@@ -5769,11 +5769,11 @@ Freund	-	-	-	0:31:28.480000	0:31:30.480000
 Ungarisch	-	-	-	0:31:28.480000	0:31:30.480000
 ist	-	-	-	0:31:28.480000	0:31:30.480000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:30.480000" end="0:31:31.695000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:30.480000" end="0:31:31.695000" age_lower="1" age_upper="999">
 ah	-	-	-	0:31:30.480000	0:31:31.375000
 okay	-	-	-	0:31:30.480000	0:31:31.375000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:31.375000" end="0:31:44.650000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:31.375000" end="0:31:44.650000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:31:31.375000	0:31:31.695000
 das	-	-	-	0:31:31.695000	0:31:35.080000
 ist	-	-	-	0:31:31.695000	0:31:35.080000
@@ -5820,20 +5820,20 @@ jetzt	-	-	-	0:31:42.215000	0:31:44.650000
 schwierig	-	-	-	0:31:42.215000	0:31:44.650000
 da	-	-	-	0:31:42.215000	0:31:44.650000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:44.650000" end="0:31:45.065000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:44.650000" end="0:31:45.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:44.650000" end="0:31:45.960000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:44.650000" end="0:31:45.960000" project="PP04" age_lower="20" age_upper="30">
 bisschen	-	-	-	0:31:44.650000	0:31:45.065000
 dranzubleiben	-	-	-	0:31:45.065000	0:31:45.960000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:45.960000" end="0:31:46.495000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:45.960000" end="0:31:46.495000" age_lower="1" age_upper="999">
 aber	-	-	-	0:31:45.960000	0:31:46.495000
 Ungarisch	-	-	-	0:31:45.960000	0:31:46.495000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:45.960000" end="0:31:46.495000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:45.960000" end="0:31:46.495000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:31:45.960000	0:31:46.495000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:46.500000" end="0:31:48.200000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:46.500000" end="0:31:48.200000" age_lower="1" age_upper="999">
 ist	-	-	-	0:31:46.500000	0:31:47.795000
 auch	-	-	-	0:31:46.500000	0:31:47.795000
 eine	-	-	-	0:31:46.500000	0:31:47.795000
@@ -5841,7 +5841,7 @@ sehr	-	-	-	0:31:46.500000	0:31:47.795000
 schwierige	-	-	-	0:31:46.500000	0:31:47.795000
 Sprache	-	-	-	0:31:46.500000	0:31:47.795000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:47.795000" end="0:31:51.785000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:47.795000" end="0:31:51.785000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:31:47.795000	0:31:48.200000
 es	-	-	-	0:31:47.795000	0:31:48.200000
 ist	-	-	-	0:31:48.200000	0:31:48.925000
@@ -5860,9 +5860,9 @@ bisschen	-	-	-	0:31:49.165000	0:31:51.785000
 drinnen	-	-	-	0:31:49.165000	0:31:51.785000
 ist	-	-	-	0:31:49.165000	0:31:51.785000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:51.785000" end="0:31:52.185000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:51.785000" end="0:31:52.185000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:52.185000" end="0:31:58.140000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:52.185000" end="0:31:58.140000" project="PP04" age_lower="20" age_upper="30">
 dann	-	-	-	0:31:52.185000	0:31:54.555000
 man	-	-	-	0:31:52.185000	0:31:54.555000
 muss	-	-	-	0:31:52.185000	0:31:54.555000
@@ -5885,23 +5885,23 @@ man	-	-	-	0:31:55.775000	0:31:58.030000
 da	-	-	-	0:31:55.775000	0:31:58.030000
 drüwerkommt	-	-	-	0:31:55.775000	0:31:58.030000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:58.140000" end="0:31:58.650000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:58.140000" end="0:31:58.650000" age_lower="1" age_upper="999">
 genau	-	-	-	0:31:58.140000	0:31:58.650000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:58.140000" end="0:31:59.065000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:58.140000" end="0:31:59.065000" project="PP04" age_lower="20" age_upper="30">
 n	-	-	-	0:31:58.140000	0:31:58.650000
 dann	-	-	-	0:31:58.140000	0:31:58.650000
 geht	-	-	-	0:31:58.140000	0:31:58.650000
 es	-	-	-	0:31:58.650000	0:31:59.065000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:59.065000" end="0:31:59.745000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:59.065000" end="0:31:59.745000" age_lower="1" age_upper="999">
 genau	-	-	-	0:31:59.065000	0:31:59.515000
 genau	-	-	-	0:31:59.515000	0:31:59.745000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:59.515000" end="0:31:59.745000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:31:59.515000" end="0:31:59.745000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:31:59.515000	0:31:59.745000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:59.745000" end="0:32:07.550000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:59.745000" end="0:32:07.550000" age_lower="1" age_upper="999">
 und	-	-	-	0:31:59.985000	0:32:02.993000
 eine	-	-	-	0:31:59.985000	0:32:02.993000
 Frage	-	-	-	0:31:59.985000	0:32:02.993000
@@ -5922,37 +5922,37 @@ Sie	-	-	-	0:32:05.500000	0:32:07.550000
 sich	-	-	-	0:32:05.500000	0:32:07.550000
 auch	-	-	-	0:32:05.500000	0:32:07.550000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:05.500000" end="0:32:07.550000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:05.500000" end="0:32:07.550000" project="PP04" age_lower="20" age_upper="30">
 so	-	-	-	0:32:05.500000	0:32:07.550000
 wie	-	-	-	0:32:05.500000	0:32:07.550000
 mein	-	-	-	0:32:05.500000	0:32:07.550000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:07.550000" end="0:32:08.080000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:07.550000" end="0:32:08.080000" age_lower="1" age_upper="999">
 bemühen	-	-	-	0:32:07.550000	0:32:07.920000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:07.920000" end="0:32:08.425000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:07.920000" end="0:32:08.425000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:32:07.920000	0:32:08.080000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:08.425000" end="0:32:09.105000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:08.425000" end="0:32:09.105000" age_lower="1" age_upper="999">
 Hochdeutsch	-	-	-	0:32:08.425000	0:32:08.845000
 zu	-	-	-	0:32:08.845000	0:32:09.105000
 sprechen	-	-	-	0:32:08.845000	0:32:09.105000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:08.845000" end="0:32:09.105000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:08.845000" end="0:32:09.105000" project="PP04" age_lower="20" age_upper="30">
 au	-	-	-	0:32:08.845000	0:32:09.105000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:09.105000" end="0:32:09.475000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:09.105000" end="0:32:09.475000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:09.105000" end="0:32:10.750000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:09.105000" end="0:32:10.750000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:32:09.105000	0:32:09.475000
 und	-	-	-	0:32:09.475000	0:32:10.360000
 auch	-	-	-	0:32:09.475000	0:32:10.360000
 schön	-	-	-	0:32:09.475000	0:32:10.360000
 also	-	-	-	0:32:10.360000	0:32:10.750000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:10.750000" end="0:32:11.095000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:10.750000" end="0:32:11.095000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:10.750000" end="0:32:21.295000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:10.750000" end="0:32:21.295000" project="PP04" age_lower="20" age_upper="30">
 jetzt	-	-	-	0:32:11.095000	0:32:11.930000
 irgenwie	-	-	-	0:32:11.095000	0:32:11.930000
 ah	-	-	-	0:32:11.930000	0:32:14.100000
@@ -5990,29 +5990,29 @@ dass	-	-	-	0:32:20.865000	0:32:21.295000
 <<lachend>	-	-	-	0:32:20.865000	0:32:21.295000
 ich>	-	-	-	0:32:20.865000	0:32:21.295000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:21.300000" end="0:32:21.925000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:21.300000" end="0:32:21.925000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:21.300000" end="0:32:23.190000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:21.300000" end="0:32:23.190000" project="PP04" age_lower="20" age_upper="30">
 dann	-	-	-	0:32:21.925000	0:32:23.190000
 alles	-	-	-	0:32:21.925000	0:32:23.190000
 verstehen	-	-	-	0:32:21.925000	0:32:23.190000
 kann	-	-	-	0:32:21.925000	0:32:23.190000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:23.190000" end="0:32:23.555000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:23.190000" end="0:32:23.555000" age_lower="1" age_upper="999">
 dass	-	-	-	0:32:23.190000	0:32:23.555000
 sie	-	-	-	0:32:23.190000	0:32:23.555000
 dann	-	-	-	0:32:23.190000	0:32:23.555000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:23.190000" end="0:32:23.555000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:23.190000" end="0:32:23.555000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:32:23.190000	0:32:23.555000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:23.555000" end="0:32:25.370000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:23.555000" end="0:32:25.370000" age_lower="1" age_upper="999">
 wirklich	-	-	-	0:32:23.555000	0:32:24.485000
 zweisprachig	-	-	-	0:32:23.555000	0:32:24.485000
 aufwachsen	-	-	-	0:32:24.490000	0:32:25.370000
 können	-	-	-	0:32:24.490000	0:32:25.370000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:24.490000" end="0:32:32.475000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:24.490000" end="0:32:32.475000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:32:24.490000	0:32:25.370000
 möchte	-	-	-	0:32:24.490000	0:32:25.370000
 ich	-	-	-	0:32:24.490000	0:32:25.370000
@@ -6038,38 +6038,38 @@ lernen	-	-	-	0:32:30.925000	0:32:32.475000
 einer	-	-	-	0:32:30.925000	0:32:32.475000
 weiteren	-	-	-	0:32:30.925000	0:32:32.475000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:32.480000" end="0:32:33.470000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:32.480000" end="0:32:33.470000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:32:32.480000	0:32:33.470000
 bestimmt	-	-	-	0:32:32.480000	0:32:33.470000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:32.480000" end="0:32:33.470000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:32.480000" end="0:32:33.470000" project="PP04" age_lower="20" age_upper="30">
 sch	-	-	-	0:32:32.480000	0:32:33.470000
 Fremdsprache	-	-	-	0:32:32.480000	0:32:33.470000
 dann	-	-	-	0:32:32.480000	0:32:33.470000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:33.470000" end="0:32:33.895000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:33.470000" end="0:32:33.895000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:32:33.470000	0:32:33.610000
 bestimmt	-	-	-	0:32:33.610000	0:32:33.895000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:33.610000" end="0:32:33.895000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:33.610000" end="0:32:33.895000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:32:33.610000	0:32:33.895000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:33.895000" end="0:32:34.980000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:33.895000" end="0:32:34.980000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:34.705000" end="0:32:36.760000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:34.705000" end="0:32:36.760000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:32:34.705000	0:32:34.980000
 ich	-	-	-	0:32:34.980000	0:32:36.760000
 mache	-	-	-	0:32:34.980000	0:32:36.760000
 schnell	-	-	-	0:32:34.980000	0:32:36.760000
 zu	-	-	-	0:32:34.980000	0:32:36.760000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:36.760000" end="0:32:37.420000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:36.760000" end="0:32:37.420000" age_lower="1" age_upper="999">
 kein	-	-	-	0:32:36.760000	0:32:37.420000
 Problem	-	-	-	0:32:36.760000	0:32:37.420000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:37.420000" end="0:32:37.775000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:37.420000" end="0:32:37.775000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:37.775000" end="0:32:54.005000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:37.775000" end="0:32:54.005000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:32:37.775000	0:32:42.675000
 wir	-	-	-	0:32:37.775000	0:32:42.675000
 jetzt	-	-	-	0:32:37.775000	0:32:42.675000
@@ -6109,7 +6109,7 @@ Deutsch	-	-	-	0:32:50.175000	0:32:54.005000
 in	-	-	-	0:32:50.175000	0:32:54.005000
 ORT	ORT	-	-	0:32:50.175000	0:32:54.005000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:54.005000" end="0:33:01.855000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:54.005000" end="0:33:01.855000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:32:54.005000	0:33:01.855000
 habe	-	-	-	0:32:54.005000	0:33:01.855000
 jetzt	-	-	-	0:32:54.005000	0:33:01.855000
@@ -6124,32 +6124,32 @@ sie	-	-	-	0:32:54.005000	0:33:01.855000
 <<kichernd>	-	-	-	0:32:54.005000	0:33:01.855000
 sprechen	-	-	-	0:32:54.005000	0:33:01.855000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:01.855000" end="0:33:02.160000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:01.855000" end="0:33:02.160000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:01.855000" end="0:33:02.380000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:01.855000" end="0:33:02.380000" project="PP04" age_lower="20" age_upper="30">
 wie	-	-	-	0:33:01.855000	0:33:02.160000
 sie	-	-	-	0:33:02.160000	0:33:02.380000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:02.380000" end="0:33:02.930000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:02.380000" end="0:33:02.930000" age_lower="1" age_upper="999">
 würden	-	-	-	0:33:02.380000	0:33:02.930000
 Sie	-	-	-	0:33:02.380000	0:33:02.930000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:02.380000" end="0:33:02.930000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:02.380000" end="0:33:02.930000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:33:02.380000	0:33:02.930000
 war	-	-	-	0:33:02.380000	0:33:02.930000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:02.930000" end="0:33:03.250000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:02.930000" end="0:33:03.250000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:02.930000" end="0:33:03.250000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:02.930000" end="0:33:03.250000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:33:02.930000	0:33:03.250000
 weiß	-	-	-	0:33:02.930000	0:33:03.250000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:03.250000" end="0:33:04.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:03.250000" end="0:33:04.385000" age_lower="1" age_upper="999">
 würden	-	-	-	0:33:03.250000	0:33:04.385000
 Sie	-	-	-	0:33:03.250000	0:33:04.385000
 denken	-	-	-	0:33:03.250000	0:33:04.385000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:03.250000" end="0:33:04.775000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:03.250000" end="0:33:04.775000" project="PP04" age_lower="20" age_upper="30">
 nur	-	-	-	0:33:03.250000	0:33:04.385000
 wie	-	-	-	0:33:03.250000	0:33:04.385000
 ich	-	-	-	0:33:03.250000	0:33:04.385000
@@ -6160,7 +6160,7 @@ in	-	-	-	0:33:03.250000	0:33:04.385000
 ORT	ORT	-	-	0:33:03.250000	0:33:04.385000
 war	-	-	-	0:33:04.385000	0:33:04.775000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:04.775000" end="0:33:07.720000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:04.775000" end="0:33:07.720000" age_lower="1" age_upper="999">
 würde	-	-	-	0:33:04.775000	0:33:07.720000
 würden	-	-	-	0:33:04.775000	0:33:07.720000
 Sie	-	-	-	0:33:04.775000	0:33:07.720000
@@ -6175,7 +6175,7 @@ zwischen	-	-	-	0:33:04.775000	0:33:07.720000
 den	-	-	-	0:33:04.775000	0:33:07.720000
 Städten	-	-	-	0:33:04.775000	0:33:07.720000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:07.720000" end="0:33:13.360000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:07.720000" end="0:33:13.360000" project="PP04" age_lower="20" age_upper="30">
 n	-	-	-	0:33:07.720000	0:33:12.150000
 ich	-	-	-	0:33:07.720000	0:33:12.150000
 glaube	-	-	-	0:33:07.720000	0:33:12.150000
@@ -6183,9 +6183,9 @@ vielleicht	-	-	-	0:33:07.720000	0:33:12.150000
 schon	-	-	-	0:33:07.720000	0:33:12.150000
 minimal	-	-	-	0:33:12.150000	0:33:13.360000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:13.360000" end="0:33:13.915000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:13.360000" end="0:33:13.915000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:13.915000" end="0:33:19.930000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:13.915000" end="0:33:19.930000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:33:13.915000	0:33:18.090000
 vielleicht	-	-	-	0:33:13.915000	0:33:18.090000
 ja	-	-	-	0:33:13.915000	0:33:18.090000
@@ -6195,13 +6195,13 @@ ein	-	-	-	0:33:18.090000	0:33:19.930000
 bisschen	-	-	-	0:33:18.090000	0:33:19.930000
 ;>	-	-	-	0:33:18.090000	0:33:19.930000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:19.930000" end="0:33:20.435000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:19.930000" end="0:33:20.435000" age_lower="1" age_upper="999">
 okay	-	-	-	0:33:19.930000	0:33:20.435000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:20.435000" end="0:33:20.960000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:20.435000" end="0:33:20.960000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:33:20.435000	0:33:20.960000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:20.960000" end="0:33:28.425000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:20.960000" end="0:33:28.425000" age_lower="1" age_upper="999">
 fallen	-	-	-	0:33:20.960000	0:33:23.930000
 Ihnen	-	-	-	0:33:20.960000	0:33:23.930000
 Redewendungen	-	-	-	0:33:20.960000	0:33:23.930000
@@ -6219,34 +6219,34 @@ ORT	ORT	-	-	0:33:25.635000	0:33:28.425000
 bezeichnen	-	-	-	0:33:25.635000	0:33:28.425000
 würden	-	-	-	0:33:25.635000	0:33:28.425000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:28.425000" end="0:33:34.620000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:28.425000" end="0:33:34.620000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:33:28.425000	0:33:34.620000
 also	-	-	-	0:33:28.425000	0:33:34.620000
 Wörter	-	-	-	0:33:28.425000	0:33:34.620000
 schon	-	-	-	0:33:28.425000	0:33:34.620000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:34.620000" end="0:33:35.185000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:34.620000" end="0:33:35.185000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:35.185000" end="0:33:36.440000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:35.185000" end="0:33:36.440000" project="PP04" age_lower="20" age_upper="30">
 ah	-	-	-	0:33:35.185000	0:33:36.440000
 Redewendungen	-	-	-	0:33:35.185000	0:33:36.440000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:36.440000" end="0:33:38.350000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:36.440000" end="0:33:38.350000" age_lower="1" age_upper="999">
 welche	-	-	-	0:33:36.440000	0:33:38.350000
 Wörter	-	-	-	0:33:36.440000	0:33:38.350000
 zum	-	-	-	0:33:36.440000	0:33:38.350000
 Beispiel	-	-	-	0:33:36.440000	0:33:38.350000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:38.350000" end="0:33:40.940000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:38.350000" end="0:33:40.940000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:33:38.350000	0:33:40.610000
 so	-	-	-	0:33:38.350000	0:33:40.610000
 wie	-	-	-	0:33:38.350000	0:33:40.610000
 urleiwand	-	-	-	0:33:38.350000	0:33:40.610000
 oder	-	-	-	0:33:40.610000	0:33:40.940000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:40.940000" end="0:33:41.255000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:40.940000" end="0:33:41.255000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:40.940000" end="0:33:58.320000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:40.940000" end="0:33:58.320000" project="PP04" age_lower="20" age_upper="30">
 es	-	-	-	0:33:43.765000	0:33:46.400000
 gibt	-	-	-	0:33:43.765000	0:33:46.400000
 ganz	-	-	-	0:33:43.765000	0:33:46.400000
@@ -6279,9 +6279,9 @@ ganzen	-	-	-	0:33:55.525000	0:33:58.075000
 Begriffe	-	-	-	0:33:55.525000	0:33:58.075000
 wenn	-	-	-	0:33:58.075000	0:33:58.320000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:58.320000" end="0:33:58.710000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:58.320000" end="0:33:58.710000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:58.320000" end="0:34:09.569000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:58.320000" end="0:34:09.569000" project="PP04" age_lower="20" age_upper="30">
 er	-	-	-	0:33:58.320000	0:33:58.710000
 das	-	-	-	0:33:58.320000	0:33:58.710000
 ä	-	-	-	0:33:58.715000	0:34:02.430000
@@ -6309,13 +6309,13 @@ auch	-	-	-	0:34:08.094000	0:34:09.569000
 für	-	-	-	0:34:08.094000	0:34:09.569000
 Zigarette	-	-	-	0:34:08.094000	0:34:09.569000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:09.570000" end="0:34:09.764000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:09.570000" end="0:34:09.764000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:09.570000" end="0:34:09.764000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:09.570000" end="0:34:09.764000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:09.764000" end="0:34:09.915000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:09.764000" end="0:34:09.915000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:09.764000" end="0:34:16.360000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:09.764000" end="0:34:16.360000" project="PP04" age_lower="20" age_upper="30">
 er	-	-	-	0:34:09.915000	0:34:13.040000
 ein	-	-	-	0:34:09.915000	0:34:13.040000
 hüsen	-	-	-	0:34:09.915000	0:34:13.040000
@@ -6332,9 +6332,9 @@ für	-	-	-	0:34:15.205000	0:34:16.360000
 Bier	-	-	-	0:34:15.205000	0:34:16.360000
 ,>	-	-	-	0:34:15.205000	0:34:16.360000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:16.360000" end="0:34:16.824000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:16.360000" end="0:34:16.824000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:16.824000" end="0:34:22.574000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:16.824000" end="0:34:22.574000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:34:16.824000	0:34:17.340000
 und	-	-	-	0:34:17.340000	0:34:18.340000
 sonst	-	-	-	0:34:17.340000	0:34:18.340000
@@ -6351,9 +6351,9 @@ so	-	-	-	0:34:20.554000	0:34:22.574000
 dieses	-	-	-	0:34:20.554000	0:34:22.574000
 ORT	ORT	-	-	0:34:20.554000	0:34:22.574000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:22.574000" end="0:34:23.165000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:22.574000" end="0:34:23.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:22.574000" end="0:34:28.668000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:22.574000" end="0:34:28.668000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:34:22.574000	0:34:23.165000
 Redewendungen	-	-	-	0:34:23.165000	0:34:26.985000
 weiß	-	-	-	0:34:23.165000	0:34:26.985000
@@ -6370,17 +6370,17 @@ sch	-	-	-	0:34:26.985000	0:34:28.668000
 immer	-	-	-	0:34:26.985000	0:34:28.668000
 schlecht	-	-	-	0:34:26.985000	0:34:28.668000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:28.668000" end="0:34:29.060000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:28.668000" end="0:34:29.060000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:28.668000" end="0:34:30.239000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:28.668000" end="0:34:30.239000" project="PP04" age_lower="20" age_upper="30">
 so	-	-	-	0:34:28.668000	0:34:29.060000
 im	-	-	-	0:34:29.060000	0:34:30.239000
 <<lachend>	-	-	-	0:34:29.060000	0:34:30.239000
 äh	-	-	-	0:34:29.060000	0:34:30.239000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:30.239000" end="0:34:30.650000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:30.239000" end="0:34:30.650000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:30.239000" end="0:34:33.089000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:30.239000" end="0:34:33.089000" project="PP04" age_lower="20" age_upper="30">
 so>	-	-	-	0:34:30.650000	0:34:32.469000
 auf	-	-	-	0:34:30.650000	0:34:32.469000
 Druck	-	-	-	0:34:30.650000	0:34:32.469000
@@ -6388,45 +6388,45 @@ schnell	-	-	-	0:34:30.650000	0:34:32.469000
 also	-	-	-	0:34:32.469000	0:34:33.089000
 irgenwie	-	-	-	0:34:32.469000	0:34:33.089000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:33.090000" end="0:34:33.590000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:33.090000" end="0:34:33.590000" age_lower="1" age_upper="999">
 nein	-	-	-	0:34:33.090000	0:34:33.590000
 um	-	-	-	0:34:33.090000	0:34:33.590000
 Gottes	-	-	-	0:34:33.090000	0:34:33.590000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:33.090000" end="0:34:33.590000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:33.090000" end="0:34:33.590000" project="PP04" age_lower="20" age_upper="30">
 ein	-	-	-	0:34:33.090000	0:34:33.590000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:33.590000" end="0:34:33.984000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:33.590000" end="0:34:33.984000" age_lower="1" age_upper="999">
 Willen	-	-	-	0:34:33.590000	0:34:33.864000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:33.864000" end="0:34:33.984000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:33.864000" end="0:34:33.984000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:34:33.864000	0:34:33.984000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:33.985000" end="0:34:34.224000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:33.985000" end="0:34:34.224000" age_lower="1" age_upper="999">
 kein	-	-	-	0:34:33.985000	0:34:34.224000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:33.985000" end="0:34:34.224000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:33.985000" end="0:34:34.224000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:34:33.985000	0:34:34.224000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:34.224000" end="0:34:34.510000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:34.224000" end="0:34:34.510000" age_lower="1" age_upper="999">
 Druck	-	-	-	0:34:34.224000	0:34:34.510000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:34.224000" end="0:34:34.510000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:34.224000" end="0:34:34.510000" project="PP04" age_lower="20" age_upper="30">
 kein	-	-	-	0:34:34.224000	0:34:34.510000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:34.510000" end="0:34:34.899000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:34.510000" end="0:34:34.899000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:34.510000" end="0:34:34.899000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:34.510000" end="0:34:34.899000" project="PP04" age_lower="20" age_upper="30">
 Druck	-	-	-	0:34:34.510000	0:34:34.899000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:34.900000" end="0:34:35.054000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:34.900000" end="0:34:35.054000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:34.900000" end="0:34:35.054000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:34.900000" end="0:34:35.054000" project="PP04" age_lower="20" age_upper="30">
 eh	-	-	-	0:34:34.900000	0:34:35.054000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:35.053000" end="0:34:35.540000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:35.053000" end="0:34:35.540000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:35.053000" end="0:34:38.045000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:35.053000" end="0:34:38.045000" project="PP04" age_lower="20" age_upper="30">
 kein	-	-	-	0:34:35.053000	0:34:35.540000
 Druck	-	-	-	0:34:35.053000	0:34:35.540000
 halt	-	-	-	0:34:35.540000	0:34:38.045000
@@ -6435,16 +6435,16 @@ aus	-	-	-	0:34:35.540000	0:34:38.045000
 ein	-	-	-	0:34:35.540000	0:34:38.045000
 Stegreif	-	-	-	0:34:35.540000	0:34:38.045000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:38.045000" end="0:34:38.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:38.045000" end="0:34:38.385000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:38.045000" end="0:34:39.560000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:38.045000" end="0:34:39.560000" project="PP04" age_lower="20" age_upper="30">
 dass	-	-	-	0:34:38.045000	0:34:38.385000
 mir	-	-	-	0:34:38.385000	0:34:39.560000
 jetzt	-	-	-	0:34:38.385000	0:34:39.560000
 was	-	-	-	0:34:38.385000	0:34:39.560000
 einfällt	-	-	-	0:34:38.385000	0:34:39.560000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:39.560000" end="0:34:44.870000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:39.560000" end="0:34:44.870000" age_lower="1" age_upper="999">
 und	-	-	-	0:34:39.560000	0:34:41.580000
 ausspracheeigenheiten	-	-	-	0:34:39.560000	0:34:41.580000
 oder	-	-	-	0:34:41.580000	0:34:44.870000
@@ -6457,7 +6457,7 @@ zur	-	-	-	0:34:41.580000	0:34:44.870000
 Aussprache	-	-	-	0:34:41.580000	0:34:44.870000
 einfallen	-	-	-	0:34:41.580000	0:34:44.870000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:44.870000" end="0:34:53.518000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:44.870000" end="0:34:53.518000" project="PP04" age_lower="20" age_upper="30">
 hm	-	-	-	0:34:44.870000	0:34:48.810000
 nein	-	-	-	0:34:48.810000	0:34:50.380000
 ich	-	-	-	0:34:50.380000	0:34:51.455000
@@ -6472,9 +6472,9 @@ gedanken	-	-	-	0:34:51.455000	0:34:53.518000
 darüber	-	-	-	0:34:51.455000	0:34:53.518000
 gemacht	-	-	-	0:34:51.455000	0:34:53.518000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:53.518000" end="0:34:54.165000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:53.518000" end="0:34:54.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:53.518000" end="0:34:59.635000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:53.518000" end="0:34:59.635000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:34:53.518000	0:34:54.165000
 könnte	-	-	-	0:34:54.165000	0:34:54.975000
 ich	-	-	-	0:34:54.165000	0:34:54.975000
@@ -6486,12 +6486,12 @@ jetzt	-	-	-	0:34:54.975000	0:34:59.635000
 nicht	-	-	-	0:34:54.975000	0:34:59.635000
 irgenwie	-	-	-	0:34:54.975000	0:34:59.635000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:59.635000" end="0:34:59.775000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:59.635000" end="0:34:59.775000" age_lower="1" age_upper="999">
 okay	-	-	-	0:34:59.635000	0:34:59.775000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:59.635000" end="0:34:59.775000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:59.635000" end="0:34:59.775000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:59.775000" end="0:35:10.835000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:59.775000" end="0:35:10.835000" age_lower="1" age_upper="999">
 glauben	-	-	-	0:34:59.995000	0:35:09.244000
 Sie	-	-	-	0:34:59.995000	0:35:09.244000
 dass	-	-	-	0:34:59.995000	0:35:09.244000
@@ -6514,7 +6514,7 @@ oder	-	-	-	0:35:09.245000	0:35:10.835000
 ausüben	-	-	-	0:35:09.245000	0:35:10.835000
 könnte	-	-	-	0:35:09.245000	0:35:10.835000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:10.835000" end="0:35:13.620000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:10.835000" end="0:35:13.620000" project="PP04" age_lower="20" age_upper="30">
 jetzt	-	-	-	0:35:10.835000	0:35:13.209000
 in	-	-	-	0:35:10.835000	0:35:13.209000
 Bezug	-	-	-	0:35:10.835000	0:35:13.209000
@@ -6522,11 +6522,11 @@ auf	-	-	-	0:35:10.835000	0:35:13.209000
 Hochdeutsch	-	-	-	0:35:10.835000	0:35:13.209000
 auf	-	-	-	0:35:13.210000	0:35:13.620000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:13.620000" end="0:35:13.809000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:13.620000" end="0:35:13.809000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:13.620000" end="0:35:13.809000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:13.620000" end="0:35:13.809000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:13.810000" end="0:35:23.700000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:13.810000" end="0:35:23.700000" age_lower="1" age_upper="999">
 einfach	-	-	-	0:35:14.100000	0:35:21.400000
 aus	-	-	-	0:35:14.100000	0:35:21.400000
 au	-	-	-	0:35:14.100000	0:35:21.400000
@@ -6552,19 +6552,19 @@ oder	-	-	-	0:35:23.010000	0:35:23.394000
 die	-	-	-	0:35:23.010000	0:35:23.394000
 Verbreitung	-	-	-	0:35:23.010000	0:35:23.394000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:23.395000" end="0:35:23.700000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:23.395000" end="0:35:23.700000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:35:23.395000	0:35:23.700000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:23.700000" end="0:35:24.555000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:23.700000" end="0:35:24.555000" age_lower="1" age_upper="999">
 von	-	-	-	0:35:23.700000	0:35:24.219000
 Hochdeutsch	-	-	-	0:35:23.700000	0:35:24.219000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:24.220000" end="0:35:24.555000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:24.220000" end="0:35:24.555000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:35:24.220000	0:35:24.555000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:24.555000" end="0:35:24.745000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:24.555000" end="0:35:24.745000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:24.745000" end="0:35:40.705000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:24.745000" end="0:35:40.705000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:35:24.745000	0:35:27.684000
 an	-	-	-	0:35:27.685000	0:35:30.990000
 und	-	-	-	0:35:27.685000	0:35:30.990000
@@ -6610,9 +6610,9 @@ wir	-	-	-	0:35:37.305000	0:35:40.705000
 auch	-	-	-	0:35:37.305000	0:35:40.705000
 schreiben	-	-	-	0:35:37.305000	0:35:40.705000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:40.705000" end="0:35:41.060000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:40.705000" end="0:35:41.060000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:41.060000" end="0:35:46.415000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:41.060000" end="0:35:46.415000" project="PP04" age_lower="20" age_upper="30">
 in	-	-	-	0:35:41.060000	0:35:42.929000
 der	-	-	-	0:35:41.060000	0:35:42.929000
 die	-	-	-	0:35:41.060000	0:35:42.929000
@@ -6632,13 +6632,13 @@ in	-	-	-	0:35:45.655000	0:35:46.415000
 ORT	ORT	-	-	0:35:45.655000	0:35:46.415000
 ,>	-	-	-	0:35:45.655000	0:35:46.415000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:46.415000" end="0:35:47.145000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:46.415000" end="0:35:47.145000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:46.415000" end="0:35:47.145000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:46.415000" end="0:35:47.145000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:47.145000" end="0:35:47.295000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:47.145000" end="0:35:47.295000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:47.145000" end="0:35:58.230000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:47.145000" end="0:35:58.230000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:35:47.145000	0:35:47.295000
 und	-	-	-	0:35:47.295000	0:35:49.999000
 also	-	-	-	0:35:47.295000	0:35:49.999000
@@ -6658,14 +6658,14 @@ die	-	-	-	0:35:51.020000	0:35:58.230000
 hochdeutsche	-	-	-	0:35:51.020000	0:35:58.230000
 Sprache	-	-	-	0:35:51.020000	0:35:58.230000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:58.240000" end="0:35:58.945000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:58.240000" end="0:35:58.945000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:58.240000" end="0:36:00.620000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:58.240000" end="0:36:00.620000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:35:58.240000	0:35:58.945000
 jetzt	-	-	-	0:35:58.945000	0:36:00.620000
 ja	-	-	-	0:35:58.945000	0:36:00.620000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:00.620000" end="0:36:08.500000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:00.620000" end="0:36:08.500000" age_lower="1" age_upper="999">
 glauben	-	-	-	0:36:00.620000	0:36:03.555000
 Sie	-	-	-	0:36:00.620000	0:36:03.555000
 dass	-	-	-	0:36:00.620000	0:36:03.555000
@@ -6688,13 +6688,13 @@ kein	-	-	-	0:36:05.820000	0:36:07.949000
 Einfluss	-	-	-	0:36:05.820000	0:36:07.949000
 stattfindet	-	-	-	0:36:07.949000	0:36:08.500000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:07.949000" end="0:36:08.500000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:07.949000" end="0:36:08.500000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:08.500000" end="0:36:10.600000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:08.500000" end="0:36:10.600000" age_lower="1" age_upper="999">
 kein	-	-	-	0:36:08.660000	0:36:10.600000
 gegenseitiger	-	-	-	0:36:08.660000	0:36:10.600000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:10.600000" end="0:36:20.175000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:10.600000" end="0:36:20.175000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:36:10.600000	0:36:15.375000
 weiß	-	-	-	0:36:10.600000	0:36:15.375000
 nicht	-	-	-	0:36:10.600000	0:36:15.375000
@@ -6713,13 +6713,13 @@ sonst	-	-	-	0:36:17.780000	0:36:20.175000
 hast	-	-	-	0:36:17.780000	0:36:20.175000
 du	-	-	-	0:36:17.780000	0:36:20.175000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:20.175000" end="0:36:20.780000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:20.175000" end="0:36:20.780000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:20.780000" end="0:36:21.069000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:20.780000" end="0:36:21.069000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:21.070000" end="0:36:21.589000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:21.070000" end="0:36:21.589000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:21.070000" end="0:36:23.125000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:21.070000" end="0:36:23.125000" project="PP04" age_lower="20" age_upper="30">
 <<kichernd>	-	-	-	0:36:21.070000	0:36:21.589000
 sonst	-	-	-	0:36:21.070000	0:36:21.589000
 schaut	-	-	-	0:36:21.070000	0:36:21.589000
@@ -6734,11 +6734,11 @@ vom	-	-	-	0:36:21.590000	0:36:23.125000
 da	-	-	-	0:36:21.590000	0:36:23.125000
 ,>	-	-	-	0:36:21.590000	0:36:23.125000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:23.125000" end="0:36:24.090000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:23.125000" end="0:36:24.090000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:23.555000" end="0:36:24.090000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:23.555000" end="0:36:24.090000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:24.090000" end="0:36:26.550000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:24.090000" end="0:36:26.550000" age_lower="1" age_upper="999">
 ach	-	-	-	0:36:24.090000	0:36:26.550000
 so	-	-	-	0:36:24.090000	0:36:26.550000
 das	-	-	-	0:36:24.090000	0:36:26.550000
@@ -6746,7 +6746,7 @@ war	-	-	-	0:36:24.090000	0:36:26.550000
 mein	-	-	-	0:36:24.090000	0:36:26.550000
 schuh	-	-	-	0:36:24.090000	0:36:26.550000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:26.550000" end="0:36:27.875000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:26.550000" end="0:36:27.875000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:36:26.550000	0:36:27.875000
 jetzt	-	-	-	0:36:26.550000	0:36:27.875000
 hat	-	-	-	0:36:26.550000	0:36:27.875000
@@ -6754,15 +6754,15 @@ er	-	-	-	0:36:26.550000	0:36:27.875000
 deinen	-	-	-	0:36:26.550000	0:36:27.875000
 geholt	-	-	-	0:36:26.550000	0:36:27.875000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:27.875000" end="0:36:28.010000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:27.875000" end="0:36:28.010000" age_lower="1" age_upper="999">
 ah	-	-	-	0:36:27.875000	0:36:28.010000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:27.875000" end="0:36:28.010000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:27.875000" end="0:36:28.010000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:28.010000" end="0:36:29.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:28.010000" end="0:36:29.385000" age_lower="1" age_upper="999">
 so	-	-	-	0:36:28.010000	0:36:28.765000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:28.765000" end="0:36:32.135000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:28.765000" end="0:36:32.135000" project="PP04" age_lower="20" age_upper="30">
 das	-	-	-	0:36:29.385000	0:36:31.109000
 ist	-	-	-	0:36:29.385000	0:36:31.109000
 der	-	-	-	0:36:29.385000	0:36:31.109000
@@ -6776,31 +6776,31 @@ er	-	-	-	0:36:31.110000	0:36:32.135000
 gerade	-	-	-	0:36:31.110000	0:36:32.135000
 zerlegt	-	-	-	0:36:31.110000	0:36:32.135000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:32.135000" end="0:36:32.890000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:32.135000" end="0:36:32.890000" age_lower="1" age_upper="999">
 oje	-	-	-	0:36:32.135000	0:36:32.890000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:32.890000" end="0:36:33.335000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:32.890000" end="0:36:33.335000" project="PP04" age_lower="20" age_upper="30">
 na	-	-	-	0:36:32.890000	0:36:33.335000
 ja	-	-	-	0:36:32.890000	0:36:33.335000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:33.335000" end="0:36:33.835000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:33.335000" end="0:36:33.835000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:33.335000" end="0:36:34.205000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:33.335000" end="0:36:34.205000" project="PP04" age_lower="20" age_upper="30">
 kein	-	-	-	0:36:33.335000	0:36:33.835000
 mir	-	-	-	0:36:33.335000	0:36:33.835000
 nix	-	-	-	0:36:33.335000	0:36:33.835000
 machen	-	-	-	0:36:33.835000	0:36:34.205000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:34.205000" end="0:36:35.190000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:34.205000" end="0:36:35.190000" age_lower="1" age_upper="999">
 meine	-	-	-	0:36:34.205000	0:36:35.190000
 er	-	-	-	0:36:34.205000	0:36:35.190000
 ist	-	-	-	0:36:34.205000	0:36:35.190000
 so	-	-	-	0:36:34.205000	0:36:35.190000
 süss	-	-	-	0:36:34.205000	0:36:35.190000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:35.190000" end="0:36:35.775000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:35.190000" end="0:36:35.775000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:35.775000" end="0:36:37.855000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:35.775000" end="0:36:37.855000" age_lower="1" age_upper="999">
 ah	-	-	-	0:36:35.775000	0:36:37.855000
 jetzt	-	-	-	0:36:35.775000	0:36:37.855000
 gehe	-	-	-	0:36:35.775000	0:36:37.855000
@@ -6809,14 +6809,14 @@ souckerl	-	-	-	0:36:35.775000	0:36:37.855000
 wieder	-	-	-	0:36:35.775000	0:36:37.855000
 los	-	-	-	0:36:35.775000	0:36:37.855000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:37.855000" end="0:36:38.515000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:37.855000" end="0:36:38.515000" project="PP04" age_lower="20" age_upper="30">
 ah	-	-	-	0:36:37.855000	0:36:38.209000
 ja	-	-	-	0:36:37.855000	0:36:38.209000
 warte	-	-	-	0:36:38.210000	0:36:38.515000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:38.515000" end="0:36:39" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:38.515000" end="0:36:39" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:38.515000" end="0:36:45.845000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:38.515000" end="0:36:45.845000" project="PP04" age_lower="20" age_upper="30">
 NAME	NAME	-	-	0:36:38.515000	0:36:39
 schaue	-	-	-	0:36:39	0:36:39.485000
 nachher	-	-	-	0:36:39.485000	0:36:43.335000
@@ -6828,9 +6828,9 @@ mit	-	-	-	0:36:39.485000	0:36:43.335000
 dir	-	-	-	0:36:39.485000	0:36:43.335000
 ja	-	-	-	0:36:43.335000	0:36:44.605000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:45.845000" end="0:36:47.540000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:45.845000" end="0:36:47.540000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:47.540000" end="0:36:50.890000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:47.540000" end="0:36:50.890000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:36:47.540000	0:36:50.309000
 weiss	-	-	-	0:36:47.540000	0:36:50.309000
 nicht	-	-	-	0:36:47.540000	0:36:50.309000
@@ -6838,10 +6838,10 @@ also	-	-	-	0:36:50.310000	0:36:50.890000
 geht	-	-	-	0:36:50.310000	0:36:50.890000
 schon	-	-	-	0:36:50.310000	0:36:50.890000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:50.890000" end="0:36:51.300000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:50.890000" end="0:36:51.300000" age_lower="1" age_upper="999">
 ja	-	-	-	0:36:50.890000	0:36:51.300000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:50.890000" end="0:36:59.560000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:50.890000" end="0:36:59.560000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:36:50.890000	0:36:51.300000
 ich	-	-	-	0:36:51.300000	0:36:53.380000
 weiß	-	-	-	0:36:51.300000	0:36:53.380000
@@ -6869,12 +6869,12 @@ gegenseitig	-	-	-	0:36:56.215000	0:36:59.560000
 beeinflussen	-	-	-	0:36:56.215000	0:36:59.560000
 kann	-	-	-	0:36:56.215000	0:36:59.560000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:59.560000" end="0:37:00.510000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:59.560000" end="0:37:00.510000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:00.510000" end="0:37:01.160000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:00.510000" end="0:37:01.160000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:37:00.510000	0:37:01.160000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:01.160000" end="0:37:03.195000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:01.160000" end="0:37:03.195000" age_lower="1" age_upper="999">
 also	-	-	-	0:37:01.160000	0:37:02.550000
 haben	-	-	-	0:37:01.160000	0:37:02.550000
 sie	-	-	-	0:37:01.160000	0:37:02.550000
@@ -6883,34 +6883,34 @@ jetzt-da	-	-	-	0:37:01.160000	0:37:02.550000
 kein	-	-	-	0:37:01.160000	0:37:02.550000
 bestimmtes	-	-	-	0:37:02.550000	0:37:03.195000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:02.550000" end="0:37:03.195000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:02.550000" end="0:37:03.195000" project="PP04" age_lower="20" age_upper="30">
 keine	-	-	-	0:37:02.550000	0:37:03.195000
 ag	-	-	-	0:37:02.550000	0:37:03.195000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:03.195000" end="0:37:03.474000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:03.195000" end="0:37:03.474000" age_lower="1" age_upper="999">
 Bild	-	-	-	0:37:03.195000	0:37:03.474000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:03.195000" end="0:37:03.474000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:03.195000" end="0:37:03.474000" project="PP04" age_lower="20" age_upper="30">
 kein	-	-	-	0:37:03.195000	0:37:03.474000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:03.475000" end="0:37:03.665000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:03.475000" end="0:37:03.665000" age_lower="1" age_upper="999">
 oder	-	-	-	0:37:03.475000	0:37:03.665000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:03.475000" end="0:37:03.665000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:03.475000" end="0:37:03.665000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:03.665000" end="0:37:04.684000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:03.665000" end="0:37:04.684000" age_lower="1" age_upper="999">
 keine	-	-	-	0:37:03.665000	0:37:04.684000
 Meinung	-	-	-	0:37:03.665000	0:37:04.684000
 dazu	-	-	-	0:37:03.665000	0:37:04.684000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:03.665000" end="0:37:05.150000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:03.665000" end="0:37:05.150000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:37:03.665000	0:37:04.684000
 gar	-	-	-	0:37:03.665000	0:37:04.684000
 nicht	-	-	-	0:37:03.665000	0:37:04.684000
 leider	-	-	-	0:37:04.685000	0:37:05.150000
 ja	-	-	-	0:37:04.685000	0:37:05.150000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:05.150000" end="0:37:11.380000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:05.150000" end="0:37:11.380000" age_lower="1" age_upper="999">
 und	-	-	-	0:37:05.445000	0:37:10.535000
 vielleicht	-	-	-	0:37:05.445000	0:37:10.535000
 jetzt	-	-	-	0:37:05.445000	0:37:10.535000
@@ -6928,9 +6928,9 @@ also	-	-	-	0:37:10.535000	0:37:10.950000
 die	-	-	-	0:37:10.950000	0:37:11.380000
 umliegenden	-	-	-	0:37:10.950000	0:37:11.380000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:10.950000" end="0:37:11.380000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:10.950000" end="0:37:11.380000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:11.380000" end="0:37:18.400000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:11.380000" end="0:37:18.400000" age_lower="1" age_upper="999">
 gemeinden	-	-	-	0:37:11.380000	0:37:12.925000
 um	-	-	-	0:37:11.380000	0:37:12.925000
 ORT	ORT	-	-	0:37:11.380000	0:37:12.925000
@@ -6950,7 +6950,7 @@ die	-	-	-	0:37:16.440000	0:37:18.400000
 andere	-	-	-	0:37:16.440000	0:37:18.400000
 Richtung	-	-	-	0:37:16.440000	0:37:18.400000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:18.400000" end="0:37:27.815000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:18.400000" end="0:37:27.815000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:37:18.400000	0:37:23.975000
 kann	-	-	-	0:37:18.400000	0:37:23.975000
 mir	-	-	-	0:37:18.400000	0:37:23.975000
@@ -6981,9 +6981,9 @@ vor	-	-	-	0:37:23.975000	0:37:27.815000
 kurzen	-	-	-	0:37:23.975000	0:37:27.815000
 war	-	-	-	0:37:23.975000	0:37:27.815000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:27.815000" end="0:37:28.240000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:27.815000" end="0:37:28.240000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:28.240000" end="0:37:41.854000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:28.240000" end="0:37:41.854000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:37:28.240000	0:37:29.750000
 ich	-	-	-	0:37:28.240000	0:37:29.750000
 Hochdeutsch	-	-	-	0:37:28.240000	0:37:29.750000
@@ -7024,9 +7024,9 @@ gesprochen	-	-	-	0:37:36.265000	0:37:41.690000
 hat	-	-	-	0:37:36.265000	0:37:41.690000
 die	-	-	-	0:37:41.690000	0:37:41.854000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:41.854000" end="0:37:42.230000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:41.854000" end="0:37:42.230000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:41.854000" end="0:37:58.849000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:41.854000" end="0:37:58.849000" project="PP04" age_lower="20" age_upper="30">
 die	-	-	-	0:37:42.230000	0:37:46.440000
 es	-	-	-	0:37:42.230000	0:37:46.440000
 schwierig	-	-	-	0:37:42.230000	0:37:46.440000
@@ -7077,9 +7077,9 @@ den	-	-	-	0:37:55.565000	0:37:58.849000
 Eindruck	-	-	-	0:37:55.565000	0:37:58.849000
 dass	-	-	-	0:37:55.565000	0:37:58.849000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:58.850000" end="0:37:59.215000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:58.850000" end="0:37:59.215000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:58.850000" end="0:38:04.144000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:58.850000" end="0:38:04.144000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:37:59.215000	0:37:59.935000
 und	-	-	-	0:37:59.935000	0:38:02.105000
 dass	-	-	-	0:37:59.935000	0:38:02.105000
@@ -7093,9 +7093,9 @@ die	-	-	-	0:38:02.105000	0:38:04.144000
 hundezone	-	-	-	0:38:02.105000	0:38:04.144000
 zurückzukommen	-	-	-	0:38:02.105000	0:38:04.144000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:04.145000" end="0:38:04.485000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:04.145000" end="0:38:04.485000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:04.485000" end="0:38:30.139000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:04.485000" end="0:38:30.139000" project="PP04" age_lower="20" age_upper="30">
 hatte	-	-	-	0:38:04.485000	0:38:12.675000
 ich	-	-	-	0:38:04.485000	0:38:12.675000
 den	-	-	-	0:38:04.485000	0:38:12.675000
@@ -7158,34 +7158,34 @@ ist	-	-	-	0:38:29.105000	0:38:30.139000
 vielleicht	-	-	-	0:38:29.105000	0:38:30.139000
 das	-	-	-	0:38:29.105000	0:38:30.139000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:30.140000" end="0:38:30.655000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:30.140000" end="0:38:30.655000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:30.140000" end="0:38:31.130000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:30.140000" end="0:38:31.130000" project="PP04" age_lower="20" age_upper="30">
 das	-	-	-	0:38:30.140000	0:38:30.655000
 richtige	-	-	-	0:38:30.140000	0:38:30.655000
 Wort	-	-	-	0:38:30.655000	0:38:31.130000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:31.130000" end="0:38:31.270000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:31.130000" end="0:38:31.270000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:31.130000" end="0:38:31.270000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:31.130000" end="0:38:31.270000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:31.270000" end="0:38:31.460000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:31.270000" end="0:38:31.460000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:31.460000" end="0:38:33.329000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:31.460000" end="0:38:33.329000" project="PP04" age_lower="20" age_upper="30">
 als	-	-	-	0:38:31.460000	0:38:33.329000
 vom	-	-	-	0:38:31.460000	0:38:33.329000
 sprachlichen	-	-	-	0:38:31.460000	0:38:33.329000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:33.330000" end="0:38:34.205000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:33.330000" end="0:38:34.205000" age_lower="1" age_upper="999">
 also	-	-	-	0:38:33.330000	0:38:34.205000
 glauben	-	-	-	0:38:33.330000	0:38:34.205000
 Sie	-	-	-	0:38:33.330000	0:38:34.205000
 dass	-	-	-	0:38:33.330000	0:38:34.205000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:33.330000" end="0:38:34.205000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:33.330000" end="0:38:34.205000" project="PP04" age_lower="20" age_upper="30">
 her	-	-	-	0:38:33.330000	0:38:34.205000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:34.205000" end="0:38:54.015000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:34.205000" end="0:38:54.015000" age_lower="1" age_upper="999">
 der	-	-	-	0:38:34.205000	0:38:40.940000
 Einfluss	-	-	-	0:38:34.205000	0:38:40.940000
 stärker	-	-	-	0:38:34.205000	0:38:40.940000
@@ -7229,7 +7229,7 @@ in	-	-	-	0:38:48.690000	0:38:54.015000
 ORT	ORT	-	-	0:38:48.690000	0:38:54.015000
 beeinflusst	-	-	-	0:38:48.690000	0:38:54.015000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:54.015000" end="0:39:10.195000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:54.015000" end="0:39:10.195000" project="PP04" age_lower="20" age_upper="30">
 eher	-	-	-	0:38:54.015000	0:38:58.800000
 eher	-	-	-	0:38:54.015000	0:38:58.800000
 das	-	-	-	0:38:54.015000	0:38:58.800000
@@ -7263,21 +7263,21 @@ Sie	-	-	-	0:39:05.860000	0:39:10.195000
 dem	-	-	-	0:39:05.860000	0:39:10.195000
 Hochdeutsch	-	-	-	0:39:05.860000	0:39:10.195000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:10.195000" end="0:39:11.940000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:10.195000" end="0:39:11.940000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:10.195000" end="0:39:13.785000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:10.195000" end="0:39:13.785000" project="PP04" age_lower="20" age_upper="30">
 es	-	-	-	0:39:10.195000	0:39:11.940000
 <<kichernd>	-	-	-	0:39:11.940000	0:39:13.190000
 müssen	-	-	-	0:39:11.940000	0:39:13.190000
 ich	-	-	-	0:39:13.190000	0:39:13.785000
 nach	-	-	-	0:39:13.190000	0:39:13.785000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:13.785000" end="0:39:14.070000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:13.785000" end="0:39:14.070000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:14.070000" end="0:39:14.375000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:14.070000" end="0:39:14.375000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:39:14.070000	0:39:14.375000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:14.375000" end="0:39:23.770000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:14.375000" end="0:39:23.770000" age_lower="1" age_upper="999">
 und	-	-	-	0:39:14.375000	0:39:20.365000
 glauben	-	-	-	0:39:14.375000	0:39:20.365000
 Sie	-	-	-	0:39:14.375000	0:39:20.365000
@@ -7302,16 +7302,16 @@ ORT	ORT	-	-	0:39:21.785000	0:39:22.355000
 die	-	-	-	0:39:22.355000	0:39:23.460000
 umliegenden	-	-	-	0:39:22.355000	0:39:23.460000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:23.460000" end="0:39:23.770000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:23.460000" end="0:39:23.770000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:23.770000" end="0:39:25.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:23.770000" end="0:39:25.385000" age_lower="1" age_upper="999">
 gemeinden	-	-	-	0:39:23.770000	0:39:24.664000
 haben	-	-	-	0:39:24.665000	0:39:24.960000
 die	-	-	-	0:39:24.665000	0:39:24.960000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:24.960000" end="0:39:25.385000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:24.960000" end="0:39:25.385000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:25.385000" end="0:39:28.960000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:25.385000" end="0:39:28.960000" age_lower="1" age_upper="999">
 Ihrer	-	-	-	0:39:25.385000	0:39:27.495000
 Meinung	-	-	-	0:39:25.385000	0:39:27.495000
 noch	-	-	-	0:39:25.385000	0:39:27.495000
@@ -7325,14 +7325,14 @@ oder	-	-	-	0:39:27.495000	0:39:28.214000
 eher	-	-	-	0:39:27.495000	0:39:28.214000
 weniger	-	-	-	0:39:28.215000	0:39:28.960000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:28.215000" end="0:39:29.955000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:28.215000" end="0:39:29.955000" project="PP04" age_lower="20" age_upper="30">
 glaube	-	-	-	0:39:28.215000	0:39:28.960000
 ich	-	-	-	0:39:28.215000	0:39:28.960000
 weniger	-	-	-	0:39:28.960000	0:39:29.955000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:29.955000" end="0:39:30.365000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:29.955000" end="0:39:30.365000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:30.365000" end="0:39:32.765000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:30.365000" end="0:39:32.765000" project="PP04" age_lower="20" age_upper="30">
 glaube	-	-	-	0:39:30.365000	0:39:32.765000
 eher	-	-	-	0:39:30.365000	0:39:32.765000
 wenn	-	-	-	0:39:30.365000	0:39:32.765000
@@ -7340,15 +7340,15 @@ die	-	-	-	0:39:30.365000	0:39:32.765000
 andere	-	-	-	0:39:30.365000	0:39:32.765000
 Richtung	-	-	-	0:39:30.365000	0:39:32.765000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:32.765000" end="0:39:33.414000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:32.765000" end="0:39:33.414000" age_lower="1" age_upper="999">
 okay	-	-	-	0:39:32.765000	0:39:33.414000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:32.765000" end="0:39:33.414000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:32.765000" end="0:39:33.414000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:39:32.765000	0:39:33.414000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:33.415000" end="0:39:33.930000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:33.415000" end="0:39:33.930000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:33.415000" end="0:39:36.445000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:33.415000" end="0:39:36.445000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:39:33.930000	0:39:34.770000
 ja	-	-	-	0:39:33.930000	0:39:34.770000
 es	-	-	-	0:39:34.770000	0:39:36.445000
@@ -7359,11 +7359,11 @@ mein	-	-	-	0:39:34.770000	0:39:36.445000
 Eindruck	-	-	-	0:39:34.770000	0:39:36.445000
 ;>	-	-	-	0:39:34.770000	0:39:36.445000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:36.445000" end="0:39:36.795000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:36.445000" end="0:39:36.795000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:36.445000" end="0:39:36.795000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:36.445000" end="0:39:36.795000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:36.795000" end="0:39:40.765000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:36.795000" end="0:39:40.765000" age_lower="1" age_upper="999">
 wie	-	-	-	0:39:36.795000	0:39:39.110000
 würden	-	-	-	0:39:36.795000	0:39:39.110000
 Sie	-	-	-	0:39:36.795000	0:39:39.110000
@@ -7376,7 +7376,7 @@ ORT	ORT	-	-	0:39:39.110000	0:39:40.765000
 gesprochen	-	-	-	0:39:39.110000	0:39:40.765000
 wird	-	-	-	0:39:39.110000	0:39:40.765000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:40.765000" end="0:39:48.640000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:40.765000" end="0:39:48.640000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:39:42.940000	0:39:44.145000
 da	-	-	-	0:39:44.145000	0:39:47.085000
 gibts	-	-	-	0:39:44.145000	0:39:47.085000
@@ -7388,9 +7388,9 @@ gibt	-	-	-	0:39:47.085000	0:39:48.640000
 ganz	-	-	-	0:39:47.085000	0:39:48.640000
 viel	-	-	-	0:39:47.085000	0:39:48.640000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:48.640000" end="0:39:49.055000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:48.640000" end="0:39:49.055000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:48.640000" end="0:40:02.140000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:48.640000" end="0:40:02.140000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:39:48.640000	0:39:49.055000
 es	-	-	-	0:39:48.640000	0:39:49.055000
 ist	-	-	-	0:39:48.640000	0:39:49.055000
@@ -7421,9 +7421,9 @@ großer	-	-	-	0:39:59.795000	0:40:02.140000
 großer	-	-	-	0:39:59.795000	0:40:02.140000
 Anteil	-	-	-	0:39:59.795000	0:40:02.140000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:02.140000" end="0:40:02.600000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:02.140000" end="0:40:02.600000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:02.600000" end="0:40:15.815000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:02.600000" end="0:40:15.815000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:40:02.600000	0:40:08.375000
 aber	-	-	-	0:40:02.600000	0:40:08.375000
 auch	-	-	-	0:40:02.600000	0:40:08.375000
@@ -7454,19 +7454,19 @@ deutsch	-	-	-	0:40:14.150000	0:40:15.445000
 also	-	-	-	0:40:15.445000	0:40:15.815000
 es	-	-	-	0:40:15.445000	0:40:15.815000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:15.815000" end="0:40:17.235000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:15.815000" end="0:40:17.235000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:40:15.815000	0:40:16.394000
 unterschiedlich	-	-	-	0:40:16.395000	0:40:17.235000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:16.395000" end="0:40:17.235000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:16.395000" end="0:40:17.235000" project="PP04" age_lower="20" age_upper="30">
 da	-	-	-	0:40:16.395000	0:40:17.235000
 gibt	-	-	-	0:40:16.395000	0:40:17.235000
 es	-	-	-	0:40:16.395000	0:40:17.235000
 ganz	-	-	-	0:40:16.395000	0:40:17.235000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:17.235000" end="0:40:17.770000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:17.235000" end="0:40:17.770000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:17.235000" end="0:40:22.805000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:17.235000" end="0:40:22.805000" project="PP04" age_lower="20" age_upper="30">
 ganz	-	-	-	0:40:17.235000	0:40:17.770000
 viele	-	-	-	0:40:17.235000	0:40:17.770000
 Richtungen	-	-	-	0:40:17.770000	0:40:18.285000
@@ -7480,12 +7480,12 @@ ist	-	-	-	0:40:18.285000	0:40:22.805000
 das	-	-	-	0:40:18.285000	0:40:22.805000
 ORT	ORT	-	-	0:40:18.285000	0:40:22.805000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:22.805000" end="0:40:23.435000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:22.805000" end="0:40:23.435000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:23.435000" end="0:40:23.690000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:23.435000" end="0:40:23.690000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:40:23.435000	0:40:23.690000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:23.690000" end="0:40:28.320000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:23.690000" end="0:40:28.320000" age_lower="1" age_upper="999">
 und	-	-	-	0:40:23.690000	0:40:28.320000
 w	-	-	-	0:40:23.690000	0:40:28.320000
 was	-	-	-	0:40:23.690000	0:40:28.320000
@@ -7496,7 +7496,7 @@ an	-	-	-	0:40:23.690000	0:40:28.320000
 diesem	-	-	-	0:40:23.690000	0:40:28.320000
 ORT	ORT	-	-	0:40:23.690000	0:40:28.320000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:28.320000" end="0:40:30.030000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:28.320000" end="0:40:30.030000" project="PP04" age_lower="20" age_upper="30">
 so	-	-	-	0:40:28.320000	0:40:30.030000
 ein	-	-	-	0:40:28.320000	0:40:30.030000
 bisschen	-	-	-	0:40:28.320000	0:40:30.030000
@@ -7504,17 +7504,17 @@ bisschen	-	-	-	0:40:28.320000	0:40:30.030000
 proletisch	-	-	-	0:40:28.320000	0:40:30.030000
 ;>	-	-	-	0:40:28.320000	0:40:30.030000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:30.030000" end="0:40:30.825000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:30.030000" end="0:40:30.825000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:30.030000" end="0:40:31.714000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:30.030000" end="0:40:31.714000" project="PP04" age_lower="20" age_upper="30">
 <<lachend>	-	-	-	0:40:30.825000	0:40:31.714000
 also	-	-	-	0:40:30.825000	0:40:31.714000
 in	-	-	-	0:40:30.825000	0:40:31.714000
 meinen>	-	-	-	0:40:30.825000	0:40:31.714000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:31.715000" end="0:40:32.055000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:31.715000" end="0:40:32.055000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:31.715000" end="0:40:37.275000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:31.715000" end="0:40:37.275000" project="PP04" age_lower="20" age_upper="30">
 Augen	-	-	-	0:40:31.715000	0:40:32.055000
 ist	-	-	-	0:40:32.280000	0:40:37.275000
 ein	-	-	-	0:40:32.280000	0:40:37.275000
@@ -7522,9 +7522,9 @@ bisschen	-	-	-	0:40:32.280000	0:40:37.275000
 schmutzig	-	-	-	0:40:32.280000	0:40:37.275000
 irgenwie	-	-	-	0:40:32.280000	0:40:37.275000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:37.275000" end="0:40:37.670000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:37.275000" end="0:40:37.670000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:37.670000" end="0:40:42.055000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:37.670000" end="0:40:42.055000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:40:37.670000	0:40:41.440000
 finde	-	-	-	0:40:37.670000	0:40:41.440000
 es	-	-	-	0:40:37.670000	0:40:41.440000
@@ -7534,14 +7534,14 @@ halt	-	-	-	0:40:37.670000	0:40:41.440000
 ein	-	-	-	0:40:37.670000	0:40:41.440000
 irgenwie	-	-	-	0:40:41.440000	0:40:42.055000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:42.055000" end="0:40:42.544000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:42.055000" end="0:40:42.544000" age_lower="1" age_upper="999">
 also	-	-	-	0:40:42.055000	0:40:42.544000
 es	-	-	-	0:40:42.055000	0:40:42.544000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:42.055000" end="0:40:42.544000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:42.055000" end="0:40:42.544000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:40:42.055000	0:40:42.544000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:42.545000" end="0:40:45.270000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:42.545000" end="0:40:45.270000" age_lower="1" age_upper="999">
 gefällt	-	-	-	0:40:42.545000	0:40:43.870000
 Ihnen	-	-	-	0:40:42.545000	0:40:43.870000
 nicht	-	-	-	0:40:42.545000	0:40:43.870000
@@ -7552,16 +7552,16 @@ ich	-	-	-	0:40:44.390000	0:40:45.270000
 das	-	-	-	0:40:44.390000	0:40:45.270000
 raus	-	-	-	0:40:44.390000	0:40:45.270000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:44.390000" end="0:40:45.814000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:44.390000" end="0:40:45.814000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:40:44.390000	0:40:45.270000
 finde	-	-	-	0:40:44.390000	0:40:45.270000
 es	-	-	-	0:40:44.390000	0:40:45.270000
 lustig	-	-	-	0:40:44.390000	0:40:45.270000
 irgenwie	-	-	-	0:40:45.270000	0:40:45.814000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:45.815000" end="0:40:46.235000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:45.815000" end="0:40:46.235000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:45.815000" end="0:40:50.480000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:45.815000" end="0:40:50.480000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:40:46.235000	0:40:50.190000
 finde	-	-	-	0:40:46.235000	0:40:50.190000
 teilweise	-	-	-	0:40:46.235000	0:40:50.190000
@@ -7572,9 +7572,9 @@ ganz	-	-	-	0:40:46.235000	0:40:50.190000
 ganz	-	-	-	0:40:46.235000	0:40:50.190000
 amüsant	-	-	-	0:40:46.235000	0:40:50.190000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:50.480000" end="0:40:50.720000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:50.480000" end="0:40:50.720000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:50.480000" end="0:40:56.165000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:50.480000" end="0:40:56.165000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:40:50.720000	0:40:51.990000
 finde	-	-	-	0:40:50.720000	0:40:51.990000
 es	-	-	-	0:40:50.720000	0:40:51.990000
@@ -7593,12 +7593,12 @@ sis	-	-	-	0:40:55.235000	0:40:56.165000
 nicht	-	-	-	0:40:55.235000	0:40:56.165000
 sauber	-	-	-	0:40:55.235000	0:40:56.165000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:56.165000" end="0:40:56.955000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:56.165000" end="0:40:56.955000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:56.165000" end="0:40:56.955000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:56.165000" end="0:40:56.955000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:40:56.165000	0:40:56.955000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:56.955000" end="0:41:01.685000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:56.955000" end="0:41:01.685000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:40:56.955000	0:41:00.019000
 haben	-	-	-	0:40:56.955000	0:41:00.019000
 jetzt	-	-	-	0:40:56.955000	0:41:00.019000
@@ -7610,10 +7610,10 @@ angesprochen	-	-	-	0:40:56.955000	0:41:00.019000
 die	-	-	-	0:41:00.020000	0:41:01.685000
 Migration	-	-	-	0:41:00.020000	0:41:01.685000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:01.685000" end="0:41:02.160000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:01.685000" end="0:41:02.160000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:41:01.685000	0:41:02.160000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:02.160000" end="0:41:17.510000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:02.160000" end="0:41:17.510000" age_lower="1" age_upper="999">
 und	-	-	-	0:41:02.160000	0:41:06.935000
 ich	-	-	-	0:41:02.160000	0:41:06.935000
 würde	-	-	-	0:41:02.160000	0:41:06.935000
@@ -7650,7 +7650,7 @@ anderen	-	-	-	0:41:06.935000	0:41:17.510000
 Sprachen	-	-	-	0:41:06.935000	0:41:17.510000
 verändert	-	-	-	0:41:06.935000	0:41:17.510000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:17.510000" end="0:41:25.805000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:17.510000" end="0:41:25.805000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:41:17.510000	0:41:20.080000
 glaube	-	-	-	0:41:17.510000	0:41:20.080000
 schon	-	-	-	0:41:17.510000	0:41:20.080000
@@ -7668,9 +7668,9 @@ die	-	-	-	0:41:20.080000	0:41:25.805000
 Artikel	-	-	-	0:41:20.080000	0:41:25.805000
 weglassen	-	-	-	0:41:20.080000	0:41:25.805000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:25.805000" end="0:41:26.200000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:25.805000" end="0:41:26.200000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:25.805000" end="0:41:37.820000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:25.805000" end="0:41:37.820000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:41:25.805000	0:41:26.200000
 ich	-	-	-	0:41:25.805000	0:41:26.200000
 weiß	-	-	-	0:41:26.200000	0:41:34.293000
@@ -7711,9 +7711,9 @@ Jugendsprache	-	-	-	0:41:34.293000	0:41:37.820000
 übergegangen	-	-	-	0:41:34.293000	0:41:37.820000
 ist	-	-	-	0:41:34.293000	0:41:37.820000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:37.820000" end="0:41:38.199000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:37.820000" end="0:41:38.199000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:38.200000" end="0:41:45.020000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:38.200000" end="0:41:45.020000" project="PP04" age_lower="20" age_upper="30">
 also	-	-	-	0:41:38.200000	0:41:41.115000
 da	-	-	-	0:41:38.200000	0:41:41.115000
 glaube	-	-	-	0:41:38.200000	0:41:41.115000
@@ -7736,9 +7736,9 @@ weiss	-	-	-	0:41:44.230000	0:41:45.020000
 ich	-	-	-	0:41:44.230000	0:41:45.020000
 nicht	-	-	-	0:41:44.230000	0:41:45.020000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:45.020000" end="0:41:45.420000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:45.020000" end="0:41:45.420000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:45.420000" end="0:41:53.905000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:45.420000" end="0:41:53.905000" project="PP04" age_lower="20" age_upper="30">
 ansonsten	-	-	-	0:41:45.420000	0:41:53.905000
 glaube	-	-	-	0:41:45.420000	0:41:53.905000
 ich	-	-	-	0:41:45.420000	0:41:53.905000
@@ -7755,9 +7755,9 @@ bisschen	-	-	-	0:41:45.420000	0:41:53.905000
 gespalten	-	-	-	0:41:45.420000	0:41:53.905000
 hat	-	-	-	0:41:45.420000	0:41:53.905000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:53.905000" end="0:41:54.595000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:53.905000" end="0:41:54.595000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:54.595000" end="0:42:13.734000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:54.595000" end="0:42:13.734000" project="PP04" age_lower="20" age_upper="30">
 aber	-	-	-	0:41:54.595000	0:42:01.175000
 vom	-	-	-	0:41:54.595000	0:42:01.175000
 sprachlichen	-	-	-	0:41:54.595000	0:42:01.175000
@@ -7801,9 +7801,9 @@ erklären	-	-	-	0:42:06.110000	0:42:13.310000
 möchte	-	-	-	0:42:06.110000	0:42:13.310000
 bemüht	-	-	-	0:42:13.310000	0:42:13.734000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:13.735000" end="0:42:14.070000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:13.735000" end="0:42:14.070000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:13.735000" end="0:42:19.270000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:13.735000" end="0:42:19.270000" project="PP04" age_lower="20" age_upper="30">
 er	-	-	-	0:42:13.735000	0:42:14.070000
 sich	-	-	-	0:42:13.735000	0:42:14.070000
 extra	-	-	-	0:42:14.070000	0:42:16.270000
@@ -7820,9 +7820,9 @@ eine	-	-	-	0:42:16.270000	0:42:19.270000
 gewisse	-	-	-	0:42:16.270000	0:42:19.270000
 beeinflussung	-	-	-	0:42:16.270000	0:42:19.270000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:19.270000" end="0:42:19.635000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:19.270000" end="0:42:19.635000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:19.270000" end="0:42:24.930000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:19.270000" end="0:42:24.930000" project="PP04" age_lower="20" age_upper="30">
 jetzt	-	-	-	0:42:19.270000	0:42:19.635000
 ja	-	-	-	0:42:19.635000	0:42:20.640000
 ist	-	-	-	0:42:20.640000	0:42:21.714000
@@ -7836,12 +7836,12 @@ um	-	-	-	0:42:21.715000	0:42:24.930000
 zu	-	-	-	0:42:21.715000	0:42:24.930000
 unterstützen	-	-	-	0:42:21.715000	0:42:24.930000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:24.930000" end="0:42:25.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:24.930000" end="0:42:25.385000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:24.930000" end="0:42:25.515000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:24.930000" end="0:42:25.515000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:42:24.930000	0:42:25.385000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:25.515000" end="0:42:32.610000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:25.515000" end="0:42:32.610000" age_lower="1" age_upper="999">
 und	-	-	-	0:42:25.515000	0:42:30.610000
 welche	-	-	-	0:42:25.515000	0:42:30.610000
 Sprachen	-	-	-	0:42:25.515000	0:42:30.610000
@@ -7855,7 +7855,7 @@ an	-	-	-	0:42:25.515000	0:42:30.610000
 welche	-	-	-	0:42:30.610000	0:42:32.610000
 Fremdsprachen	-	-	-	0:42:30.610000	0:42:32.610000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:32.610000" end="0:42:37.544000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:32.610000" end="0:42:37.544000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:42:32.610000	0:42:34.200000
 habe	-	-	-	0:42:32.610000	0:42:34.200000
 also	-	-	-	0:42:34.200000	0:42:36.306000
@@ -7868,15 +7868,15 @@ weil	-	-	-	0:42:37.150000	0:42:37.544000
 in	-	-	-	0:42:37.150000	0:42:37.544000
 öster	-	-	-	0:42:37.150000	0:42:37.544000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:37.545000" end="0:42:37.714000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:37.545000" end="0:42:37.714000" age_lower="1" age_upper="999">
 in	-	-	-	0:42:37.545000	0:42:37.714000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:37.545000" end="0:42:37.714000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:37.545000" end="0:42:37.714000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:37.715000" end="0:42:38.500000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:37.715000" end="0:42:38.500000" age_lower="1" age_upper="999">
 Österreich	-	-	-	0:42:37.715000	0:42:38.074000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:38.075000" end="0:42:40.500000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:38.075000" end="0:42:40.500000" project="PP04" age_lower="20" age_upper="30">
 in	-	-	-	0:42:38.075000	0:42:38.500000
 Österreich	-	-	-	0:42:38.075000	0:42:38.500000
 glaube	-	-	-	0:42:38.500000	0:42:40.500000
@@ -7886,9 +7886,9 @@ russisch	-	-	-	0:42:38.500000	0:42:40.500000
 immer	-	-	-	0:42:38.500000	0:42:40.500000
 wichtiger	-	-	-	0:42:38.500000	0:42:40.500000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:40.500000" end="0:42:40.960000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:40.500000" end="0:42:40.960000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:40.960000" end="0:42:50.460000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:40.960000" end="0:42:50.460000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:42:40.960000	0:42:44.515000
 Chinesisch	-	-	-	0:42:40.960000	0:42:44.515000
 aber	-	-	-	0:42:44.515000	0:42:47.089000
@@ -7907,13 +7907,13 @@ jahrzehnt	-	-	-	0:42:47.090000	0:42:49.705000
 oder	-	-	-	0:42:49.705000	0:42:50.460000
 so	-	-	-	0:42:49.705000	0:42:50.460000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:50.460000" end="0:42:50.855000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:50.460000" end="0:42:50.855000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:50.460000" end="0:42:50.855000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:50.460000" end="0:42:50.855000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:50.855000" end="0:42:51.150000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:50.855000" end="0:42:51.150000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:51.150000" end="0:42:55.640000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:51.150000" end="0:42:55.640000" project="PP04" age_lower="20" age_upper="30">
 dass	-	-	-	0:42:51.150000	0:42:54.260000
 China	-	-	-	0:42:51.150000	0:42:54.260000
 viel	-	-	-	0:42:51.150000	0:42:54.260000
@@ -7928,13 +7928,13 @@ viel	-	-	-	0:42:54.260000	0:42:55.640000
 wichtiger	-	-	-	0:42:54.260000	0:42:55.640000
 wird	-	-	-	0:42:54.260000	0:42:55.640000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:55.650000" end="0:42:56.485000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:55.650000" end="0:42:56.485000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:55.650000" end="0:42:59.155000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:55.650000" end="0:42:59.155000" project="PP04" age_lower="20" age_upper="30">
 und	-	-	-	0:42:55.650000	0:42:56.485000
 sonst	-	-	-	0:42:56.485000	0:42:59.155000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:59.155000" end="0:43:01.585000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:59.155000" end="0:43:01.585000" age_lower="1" age_upper="999">
 und	-	-	-	0:42:59.155000	0:43:00.030000
 in	-	-	-	0:42:59.155000	0:43:00.030000
 ORT	ORT	-	-	0:42:59.155000	0:43:00.030000
@@ -7944,7 +7944,7 @@ ORT	ORT	-	-	0:43:00.030000	0:43:01.585000
 genannt	-	-	-	0:43:00.030000	0:43:01.585000
 haben	-	-	-	0:43:00.030000	0:43:01.585000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:01.585000" end="0:43:31.595000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:01.585000" end="0:43:31.595000" project="PP04" age_lower="20" age_upper="30">
 in	-	-	-	0:43:01.585000	0:43:05.800000
 ORT	ORT	-	-	0:43:01.585000	0:43:05.800000
 glaube	-	-	-	0:43:01.585000	0:43:05.800000
@@ -7986,7 +7986,7 @@ weiss	-	-	-	0:43:29.670000	0:43:31.595000
 nicht	-	-	-	0:43:29.670000	0:43:31.595000
 sonst	-	-	-	0:43:29.670000	0:43:31.595000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:31.595000" end="0:43:40.385000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:31.595000" end="0:43:40.385000" age_lower="1" age_upper="999">
 von	-	-	-	0:43:31.595000	0:43:35.065000
 den	-	-	-	0:43:31.595000	0:43:35.065000
 nachbarländern	-	-	-	0:43:31.595000	0:43:35.065000
@@ -8002,7 +8002,7 @@ sehr	-	-	-	0:43:35.065000	0:43:40.385000
 einflussreich	-	-	-	0:43:35.065000	0:43:40.385000
 ist	-	-	-	0:43:35.065000	0:43:40.385000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:40.385000" end="0:43:54.895000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:40.385000" end="0:43:54.895000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:43:40.385000	0:43:45.999000
 überlege	-	-	-	0:43:40.385000	0:43:45.999000
 ich	-	-	-	0:43:46	0:43:50.106000
@@ -8029,20 +8029,20 @@ die	-	-	-	0:43:52.515000	0:43:54.895000
 nach	-	-	-	0:43:52.515000	0:43:54.895000
 Ungarn	-	-	-	0:43:52.515000	0:43:54.895000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:54.895000" end="0:43:55.285000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:54.895000" end="0:43:55.285000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:54.895000" end="0:43:55.366000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:54.895000" end="0:43:55.366000" project="PP04" age_lower="20" age_upper="30">
 gehen	-	-	-	0:43:54.895000	0:43:55.285000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:55.366000" end="0:43:55.713000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:55.366000" end="0:43:55.713000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:55.366000" end="0:43:55.713000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:55.366000" end="0:43:55.713000" project="PP04" age_lower="20" age_upper="30">
 um	-	-	-	0:43:55.366000	0:43:55.713000
 dort	-	-	-	0:43:55.366000	0:43:55.713000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:55.713000" end="0:43:56.055000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:55.713000" end="0:43:56.055000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:55.713000" end="0:44:07.505000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:55.713000" end="0:44:07.505000" project="PP04" age_lower="20" age_upper="30">
 äh	-	-	-	0:43:56.055000	0:43:58.055000
 sich	-	-	-	0:43:56.055000	0:43:58.055000
 ein	-	-	-	0:43:56.055000	0:43:58.055000
@@ -8064,20 +8064,20 @@ Holländer	-	-	-	0:44:05.805000	0:44:07.505000
 auch	-	-	-	0:44:05.805000	0:44:07.505000
 oft	-	-	-	0:44:05.805000	0:44:07.505000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:07.505000" end="0:44:07.820000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:07.505000" end="0:44:07.820000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:07.505000" end="0:44:13.260000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:07.505000" end="0:44:13.260000" project="PP04" age_lower="20" age_upper="30">
 kommen	-	-	-	0:44:07.820000	0:44:08.710000
 oder	-	-	-	0:44:08.710000	0:44:12.035000
 ja	-	-	-	0:44:08.710000	0:44:12.035000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:13.260000" end="0:44:13.685000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:13.260000" end="0:44:13.685000" age_lower="1" age_upper="999">
 und	-	-	-	0:44:13.260000	0:44:13.685000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:13.260000" end="0:44:13.685000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:13.260000" end="0:44:13.685000" project="PP04" age_lower="20" age_upper="30">
 bin	-	-	-	0:44:13.260000	0:44:13.685000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:13.685000" end="0:44:24.015000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:13.685000" end="0:44:24.015000" age_lower="1" age_upper="999">
 welche	-	-	-	0:44:13.685000	0:44:17.059000
 sprachformen	-	-	-	0:44:13.685000	0:44:17.059000
 über	-	-	-	0:44:13.685000	0:44:17.059000
@@ -8103,7 +8103,7 @@ Sprachen	-	-	-	0:44:21.345000	0:44:23.404000
 denken	-	-	-	0:44:23.405000	0:44:24.015000
 Sie	-	-	-	0:44:23.405000	0:44:24.015000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:24.015000" end="0:44:27.950000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:24.015000" end="0:44:27.950000" project="PP04" age_lower="20" age_upper="30">
 noch	-	-	-	0:44:24.015000	0:44:27.350000
 mal	-	-	-	0:44:24.015000	0:44:27.350000
 bitte	-	-	-	0:44:24.015000	0:44:27.350000
@@ -8111,10 +8111,10 @@ Entschuldigung	-	-	-	0:44:27.350000	0:44:27.950000
 ich	-	-	-	0:44:27.350000	0:44:27.950000
 B	-	-	-	0:44:27.350000	0:44:27.950000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:27.950000" end="0:44:28.195000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:27.950000" end="0:44:28.195000" age_lower="1" age_upper="999">
 als	-	-	-	0:44:27.950000	0:44:28.195000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:27.950000" end="0:44:30.675000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:27.950000" end="0:44:30.675000" project="PP04" age_lower="20" age_upper="30">
 bin	-	-	-	0:44:27.950000	0:44:28.195000
 schon	-	-	-	0:44:27.950000	0:44:28.195000
 ein	-	-	-	0:44:28.195000	0:44:29.504000
@@ -8129,45 +8129,45 @@ ganzen	-	-	-	0:44:29.505000	0:44:30.675000
 Tag	-	-	-	0:44:29.505000	0:44:30.675000
 schon	-	-	-	0:44:29.505000	0:44:30.675000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:30.675000" end="0:44:31.740000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:30.675000" end="0:44:31.740000" age_lower="1" age_upper="999">
 meine	-	-	-	0:44:30.675000	0:44:31.150000
 wir	-	-	-	0:44:31.150000	0:44:31.740000
 sind	-	-	-	0:44:31.150000	0:44:31.740000
 wir	-	-	-	0:44:31.150000	0:44:31.740000
 sind	-	-	-	0:44:31.150000	0:44:31.740000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:31.150000" end="0:44:31.740000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:31.150000" end="0:44:31.740000" project="PP04" age_lower="20" age_upper="30">
 n	-	-	-	0:44:31.150000	0:44:31.740000
 ja	-	-	-	0:44:31.150000	0:44:31.740000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:31.740000" end="0:44:32.670000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:31.740000" end="0:44:32.670000" age_lower="1" age_upper="999">
 gleich	-	-	-	0:44:31.740000	0:44:32.134000
 <<kichernd>	-	-	-	0:44:32.135000	0:44:32.670000
 fertig	-	-	-	0:44:32.135000	0:44:32.670000
 ;>	-	-	-	0:44:32.135000	0:44:32.670000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:32.135000" end="0:44:33.065000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:32.135000" end="0:44:33.065000" project="PP04" age_lower="20" age_upper="30">
 nein	-	-	-	0:44:32.135000	0:44:32.670000
 nein	-	-	-	0:44:32.135000	0:44:32.670000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:33.065000" end="0:44:35.950000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:33.065000" end="0:44:35.950000" age_lower="1" age_upper="999">
 also	-	-	-	0:44:33.065000	0:44:35.500000
 von	-	-	-	0:44:33.065000	0:44:35.500000
 Hochdeutsch	-	-	-	0:44:33.065000	0:44:35.500000
 und	-	-	-	0:44:35.500000	0:44:35.950000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:35.500000" end="0:44:35.950000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:35.500000" end="0:44:35.950000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:35.950000" end="0:44:36.354000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:35.950000" end="0:44:36.354000" age_lower="1" age_upper="999">
 Dialekt	-	-	-	0:44:35.950000	0:44:36.354000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:35.950000" end="0:44:36.354000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:35.950000" end="0:44:36.354000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:36.355000" end="0:44:36.535000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:36.355000" end="0:44:36.535000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:36.535000" end="0:44:37.120000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:36.535000" end="0:44:37.120000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:37.120000" end="0:44:43.405000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:37.120000" end="0:44:43.405000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:44:37.120000	0:44:43.009000
 denken	-	-	-	0:44:37.120000	0:44:43.009000
 dass	-	-	-	0:44:37.120000	0:44:43.009000
@@ -8188,10 +8188,10 @@ haben	-	-	-	0:44:37.120000	0:44:43.009000
 ja	-	-	-	0:44:37.120000	0:44:43.009000
 gesagt	-	-	-	0:44:37.120000	0:44:43.009000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:43.010000" end="0:44:43.405000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:43.010000" end="0:44:43.405000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:44:43.010000	0:44:43.405000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:43.405000" end="0:44:48.554000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:43.405000" end="0:44:48.554000" age_lower="1" age_upper="999">
 denken	-	-	-	0:44:43.405000	0:44:47.110000
 Sie	-	-	-	0:44:43.405000	0:44:47.110000
 dass	-	-	-	0:44:43.405000	0:44:47.110000
@@ -8206,9 +8206,9 @@ Sprache	-	-	-	0:44:47.110000	0:44:48.554000
 im	-	-	-	0:44:47.110000	0:44:48.554000
 Hochdeutschen	-	-	-	0:44:47.110000	0:44:48.554000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:48.555000" end="0:44:48.925000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:48.555000" end="0:44:48.925000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:48.925000" end="0:44:54.935000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:48.925000" end="0:44:54.935000" age_lower="1" age_upper="999">
 oder	-	-	-	0:44:48.925000	0:44:50.310000
 Dialekt	-	-	-	0:44:48.925000	0:44:50.310000
 also	-	-	-	0:44:50.310000	0:44:54.935000
@@ -8224,7 +8224,7 @@ durch	-	-	-	0:44:50.310000	0:44:54.935000
 die	-	-	-	0:44:50.310000	0:44:54.935000
 Fremdsprachen	-	-	-	0:44:50.310000	0:44:54.935000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:54.935000" end="0:44:58.865000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:54.935000" end="0:44:58.865000" project="PP04" age_lower="20" age_upper="30">
 aso	-	-	-	0:44:54.935000	0:44:56.865000
 wahrscheinlich	-	-	-	0:44:54.935000	0:44:56.865000
 der	-	-	-	0:44:54.935000	0:44:56.865000
@@ -8236,10 +8236,10 @@ Hochdeutsch	-	-	-	0:44:56.865000	0:44:58.865000
 gesprochen	-	-	-	0:44:56.865000	0:44:58.865000
 wird	-	-	-	0:44:56.865000	0:44:58.865000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:58.865000" end="0:44:59.885000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:58.865000" end="0:44:59.885000" age_lower="1" age_upper="999">
 okay	-	-	-	0:44:59.355000	0:44:59.885000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:59.885000" end="0:45:05.355000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:59.885000" end="0:45:05.355000" project="PP04" age_lower="20" age_upper="30">
 damit	-	-	-	0:44:59.885000	0:45:02.415000
 man	-	-	-	0:44:59.885000	0:45:02.415000
 eben	-	-	-	0:44:59.885000	0:45:02.415000
@@ -8254,12 +8254,12 @@ sich	-	-	-	0:45:04.070000	0:45:05.355000
 besser	-	-	-	0:45:04.070000	0:45:05.355000
 versteht	-	-	-	0:45:04.070000	0:45:05.355000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:05.355000" end="0:45:05.925000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:05.355000" end="0:45:05.925000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:05.925000" end="0:45:06.790000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:05.925000" end="0:45:06.790000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:45:05.925000	0:45:06.790000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:06.790000" end="0:45:16.890000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:06.790000" end="0:45:16.890000" age_lower="1" age_upper="999">
 und	-	-	-	0:45:06.790000	0:45:11.260000
 wenn	-	-	-	0:45:06.790000	0:45:11.260000
 wir	-	-	-	0:45:06.790000	0:45:11.260000
@@ -8285,7 +8285,7 @@ einflussreich	-	-	-	0:45:13.470000	0:45:16.890000
 Ansehen	-	-	-	0:45:13.470000	0:45:16.890000
 würden	-	-	-	0:45:13.470000	0:45:16.890000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:16.890000" end="0:45:23.674000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:16.890000" end="0:45:23.674000" project="PP04" age_lower="20" age_upper="30">
 äh	-	-	-	0:45:16.890000	0:45:23.110000
 momentan	-	-	-	0:45:16.890000	0:45:23.110000
 jetzt	-	-	-	0:45:16.890000	0:45:23.110000
@@ -8293,42 +8293,42 @@ jetzt	-	-	-	0:45:16.890000	0:45:23.110000
 nicht	-	-	-	0:45:16.890000	0:45:23.110000
 ;>	-	-	-	0:45:16.890000	0:45:23.110000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:23.675000" end="0:45:24.125000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:23.675000" end="0:45:24.125000" age_lower="1" age_upper="999">
 okay	-	-	-	0:45:23.675000	0:45:24.125000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:23.675000" end="0:45:25.130000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:23.675000" end="0:45:25.130000" project="PP04" age_lower="20" age_upper="30">
 eine	-	-	-	0:45:24.125000	0:45:25.024000
 tut	-	-	-	0:45:24.125000	0:45:25.024000
 mir	-	-	-	0:45:24.125000	0:45:25.024000
 Leid	-	-	-	0:45:24.125000	0:45:25.024000
 ich	-	-	-	0:45:25.025000	0:45:25.130000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:25.130000" end="0:45:25.960000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:25.130000" end="0:45:25.960000" age_lower="1" age_upper="999">
 kein	-	-	-	0:45:25.130000	0:45:25.960000
 Problem	-	-	-	0:45:25.130000	0:45:25.960000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:25.130000" end="0:45:26.250000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:25.130000" end="0:45:26.250000" project="PP04" age_lower="20" age_upper="30">
 bin	-	-	-	0:45:25.130000	0:45:25.960000
 ein	-	-	-	0:45:25.130000	0:45:25.960000
 bisschen	-	-	-	0:45:25.130000	0:45:25.960000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:26.250000" end="0:45:26.539000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:26.250000" end="0:45:26.539000" age_lower="1" age_upper="999">
 kein	-	-	-	0:45:26.250000	0:45:26.539000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:26.250000" end="0:45:26.539000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:26.250000" end="0:45:26.539000" project="PP04" age_lower="20" age_upper="30">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:26.540000" end="0:45:26.785000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:26.540000" end="0:45:26.785000" age_lower="1" age_upper="999">
 Problem	-	-	-	0:45:26.540000	0:45:26.785000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:26.540000" end="0:45:26.785000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:26.540000" end="0:45:26.785000" project="PP04" age_lower="20" age_upper="30">
 schon	-	-	-	0:45:26.540000	0:45:26.785000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:26.785000" end="0:45:27.005000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:26.785000" end="0:45:27.005000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:27.005000" end="0:45:27.420000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:27.005000" end="0:45:27.420000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:45:27.005000	0:45:27.420000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:27.420000" end="0:45:29.020000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:27.420000" end="0:45:29.020000" age_lower="1" age_upper="999">
 dann	-	-	-	0:45:27.420000	0:45:28.540000
 würde	-	-	-	0:45:27.420000	0:45:28.540000
 ich	-	-	-	0:45:27.420000	0:45:28.540000
@@ -8337,10 +8337,10 @@ allerletzte	-	-	-	0:45:27.420000	0:45:28.540000
 Frage	-	-	-	0:45:28.540000	0:45:29.020000
 stellen	-	-	-	0:45:28.540000	0:45:29.020000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:28.540000" end="0:45:29.020000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:28.540000" end="0:45:29.020000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:45:28.540000	0:45:29.020000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:29.020000" end="0:45:31.405000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:29.020000" end="0:45:31.405000" age_lower="1" age_upper="999">
 und	-	-	-	0:45:29.405000	0:45:31.405000
 zwar	-	-	-	0:45:29.405000	0:45:31.405000
 nämlich	-	-	-	0:45:29.405000	0:45:31.405000
@@ -8351,12 +8351,12 @@ in	-	-	-	0:45:29.405000	0:45:31.405000
 die	-	-	-	0:45:29.405000	0:45:31.405000
 Zukunft	-	-	-	0:45:29.405000	0:45:31.405000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:31.405000" end="0:45:32.090000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:31.405000" end="0:45:32.090000" project="PP04" age_lower="20" age_upper="30">
 <<kichernd>	-	-	-	0:45:31.405000	0:45:32.090000
 okay	-	-	-	0:45:31.405000	0:45:32.090000
 >	-	-	-	0:45:31.405000	0:45:32.090000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:32.090000" end="0:45:38.205000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:32.090000" end="0:45:38.205000" age_lower="1" age_upper="999">
 wie	-	-	-	0:45:32.090000	0:45:35.170000
 sehen	-	-	-	0:45:32.090000	0:45:35.170000
 sie	-	-	-	0:45:32.090000	0:45:35.170000
@@ -8376,15 +8376,15 @@ wie	-	-	-	0:45:37.575000	0:45:38.205000
 schätzen	-	-	-	0:45:37.575000	0:45:38.205000
 Sie	-	-	-	0:45:37.575000	0:45:38.205000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:37.575000" end="0:45:38.205000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:37.575000" end="0:45:38.205000" project="PP04" age_lower="20" age_upper="30">
 ja	-	-	-	0:45:37.575000	0:45:38.205000
 ich	-	-	-	0:45:37.575000	0:45:38.205000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:38.205000" end="0:45:38.660000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:38.205000" end="0:45:38.660000" age_lower="1" age_upper="999">
 das	-	-	-	0:45:38.205000	0:45:38.660000
 ein	-	-	-	0:45:38.205000	0:45:38.660000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:38.660000" end="0:45:47.590000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:38.660000" end="0:45:47.590000" project="PP04" age_lower="20" age_upper="30">
 ich	-	-	-	0:45:38.660000	0:45:40.575000
 glaube	-	-	-	0:45:38.660000	0:45:40.575000
 schon	-	-	-	0:45:38.660000	0:45:40.575000
@@ -8405,17 +8405,17 @@ verändern	-	-	-	0:45:43.995000	0:45:45.865000
 aber	-	-	-	0:45:45.865000	0:45:47.590000
 inwieweit	-	-	-	0:45:45.865000	0:45:47.590000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:47.590000" end="0:45:49.885000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:47.590000" end="0:45:49.885000" age_lower="1" age_upper="999">
 bleibt	-	-	-	0:45:47.590000	0:45:48.915000
 noch	-	-	-	0:45:47.590000	0:45:48.915000
 abzuwarten	-	-	-	0:45:48.915000	0:45:49.885000
 </u>
-<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:48.915000" end="0:45:50.979000" age_lower="20" age_upper="30">
+<u who="spk_710" sex="female" age="jung (20-30) weiblich" name="Informant 4082" subproject="PP04" standard_competence="7" dialect_competence="1" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:48.915000" end="0:45:50.979000" project="PP04" age_lower="20" age_upper="30">
 bleibt	-	-	-	0:45:48.915000	0:45:49.885000
 noch	-	-	-	0:45:48.915000	0:45:49.885000
 offen	-	-	-	0:45:48.915000	0:45:49.885000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:50.980000" end="0:45:53.110000" age_lower="1" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:50.980000" end="0:45:53.110000" age_lower="1" age_upper="999">
 dann	-	-	-	0:45:50.980000	0:45:53.110000
 sage	-	-	-	0:45:50.980000	0:45:53.110000
 ich	-	-	-	0:45:50.980000	0:45:53.110000

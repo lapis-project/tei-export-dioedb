@@ -1,6 +1,6 @@
 <doc id="transcript_322" name="0350_PASS_jungI_m_LESN_wsMRZPS" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="322.xml" title="Transcript: Transcript_322">
-<u who="spk_453" sex="male" age="jung (18-35) -matura" name="Informant 0350" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:06.206000" end="0:01:01.240000" age_lower="18" age_upper="35">
+<u who="spk_453" sex="male" age="jung (18-35) -matura" name="Informant 0350" subproject="PP03" standard_competence="5" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:06.206000" end="0:01:01.240000" project="PP03" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:06.206000	0:00:08.206000
 und	-	-	-	0:00:06.206000	0:00:08.206000
 Sonne	-	-	-	0:00:06.206000	0:00:08.206000
@@ -133,10 +133,10 @@ Stärkere	-	-	-	0:00:57.073000	0:01:01.240000
 war	-	-	-	0:00:57.073000	0:01:01.240000
 .	-	-	-	0:00:57.073000	0:01:01.240000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:01.240000" end="0:01:03.240000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:01.240000" end="0:01:03.240000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:01:01.240000	0:01:03.240000
 </u>
-<u who="spk_453" sex="male" age="jung (18-35) -matura" name="Informant 0350" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:01.240000" end="0:01:03.240000" age_lower="18" age_upper="35">
+<u who="spk_453" sex="male" age="jung (18-35) -matura" name="Informant 0350" subproject="PP03" standard_competence="5" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:01.240000" end="0:01:03.240000" project="PP03" age_lower="18" age_upper="35">
 XXX	-	-	-	0:01:01.240000	0:01:03.240000
 </u>
 </file>

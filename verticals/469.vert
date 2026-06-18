@@ -1,12 +1,12 @@
 <doc id="transcript_469" name="0280_TUXT_alt_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="469.xml" title="Transcript: Transcript_469">
-<u who="spk_319" sex="male" age="Alt (65+)" name="Informant 0280" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:19.226000" end="0:00:21.226000" age_lower="65" age_upper="999">
+<u who="spk_319" sex="male" age="Alt (65+)" name="Informant 0280" subproject="PP03" standard_competence="6" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:19.226000" end="0:00:21.226000" project="PP03" age_lower="65" age_upper="999">
 Nordwind	-	-	-	0:00:19.226000	0:00:21.226000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:00:19.226000" end="0:00:21.226000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:19.226000" end="0:00:21.226000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:19.226000	0:00:21.226000
 </u>
-<u who="spk_319" sex="male" age="Alt (65+)" name="Informant 0280" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:19.226000" end="0:01:07.766000" age_lower="65" age_upper="999">
+<u who="spk_319" sex="male" age="Alt (65+)" name="Informant 0280" subproject="PP03" standard_competence="6" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:19.226000" end="0:01:07.766000" project="PP03" age_lower="65" age_upper="999">
 und	-	-	-	0:00:19.226000	0:00:21.226000
 Sonne	-	-	-	0:00:19.226000	0:00:21.226000
 einst	-	-	aeDiph ae-Diph eiReal LautNach LautVor MG mhd. /ei/ Nas Ons Ons- P sPal sPal- sPal-t	0:00:21.226000	0:00:24.346000

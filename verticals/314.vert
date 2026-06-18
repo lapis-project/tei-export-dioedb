@@ -1,12 +1,12 @@
 <doc id="transcript_314" name="0514_GAWE_jungI_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="314.xml" title="Transcript: Transcript_314">
-<u who="spk_118" sex="female" age="jung (18-35) -matura" name="Informant 0514" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:16.933000" end="0:00:18.933000" age_lower="18" age_upper="35">
+<u who="spk_118" sex="female" age="jung (18-35) -matura" name="Informant 0514" subproject="PP03" standard_competence="5" dialect_competence="3" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:16.933000" end="0:00:18.933000" project="PP03" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:16.933000	0:00:18.933000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:16.933000" end="0:00:18.933000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:16.933000" end="0:00:18.933000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:16.933000	0:00:18.933000
 </u>
-<u who="spk_118" sex="female" age="jung (18-35) -matura" name="Informant 0514" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:16.933000" end="0:01:00.353000" age_lower="18" age_upper="35">
+<u who="spk_118" sex="female" age="jung (18-35) -matura" name="Informant 0514" subproject="PP03" standard_competence="5" dialect_competence="3" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:16.933000" end="0:01:00.353000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:00:16.933000	0:00:18.933000
 Sonne	-	-	-	0:00:16.933000	0:00:18.933000
 .	-	-	-	0:00:16.933000	0:00:18.933000
@@ -135,10 +135,10 @@ Stärkere	-	-	-	0:00:57.013000	0:01:00.353000
 war	-	-	-	0:00:57.013000	0:01:00.353000
 .	-	-	-	0:00:57.013000	0:01:00.353000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:00.353000" end="0:01:02.353000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:00.353000" end="0:01:02.353000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:01:00.353000	0:01:02.353000
 </u>
-<u who="spk_118" sex="female" age="jung (18-35) -matura" name="Informant 0514" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:00.353000" end="0:01:02.353000" age_lower="18" age_upper="35">
+<u who="spk_118" sex="female" age="jung (18-35) -matura" name="Informant 0514" subproject="PP03" standard_competence="5" dialect_competence="3" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:00.353000" end="0:01:02.353000" project="PP03" age_lower="18" age_upper="35">
 XXX	-	-	-	0:01:00.353000	0:01:02.353000
 </u>
 </file>

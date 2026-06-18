@@ -1,22 +1,22 @@
 <doc id="transcript_728" name="0508_RAGG_ungeeignet_f_INT" erhebung="Interview_PP0308" erhebungsart="Interview">
 <file id="728.xml" title="Transcript: Transcript_728">
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:00.017000" end="0:00:02.189000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:00.017000" end="0:00:02.189000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:00.017000" end="0:00:03.002000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00.017000" end="0:00:03.002000" age_lower="1" age_upper="999">
 <pause duration="2,2s"/>
 geht	-	-	-	0:00:02.189000	0:00:03.002000
 das	-	-	-	0:00:02.189000	0:00:03.002000
 so	-	-	-	0:00:02.189000	0:00:03.002000
 ?	-	-	-	0:00:02.189000	0:00:03.002000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:03.002000" end="0:00:03.837000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:03.002000" end="0:00:03.837000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:03.002000	0:00:03.837000
 ,	-	-	-	0:00:03.002000	0:00:03.837000
 ja	-	-	-	0:00:03.002000	0:00:03.837000
 .	-	-	-	0:00:03.002000	0:00:03.837000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:03.002000" end="0:00:04.723000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:03.002000" end="0:00:04.723000" age_lower="1" age_upper="999">
 von	-	-	-	0:00:03.002000	0:00:03.837000
 dem	-	-	-	0:00:03.002000	0:00:03.837000
 /.	-	-	-	0:00:03.002000	0:00:03.837000
@@ -26,7 +26,7 @@ die	-	-	-	0:00:03.837000	0:00:04.723000
 Dose	-	-	-	0:00:03.837000	0:00:04.723000
 ?	-	-	-	0:00:03.837000	0:00:04.723000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:00:04.723000	0:00:07.093000
 ,	-	-	-	0:00:04.723000	0:00:07.093000
 das	-	-	-	0:00:04.723000	0:00:07.093000
@@ -37,62 +37,62 @@ nur	-	-	-	0:00:04.723000	0:00:07.093000
 ,	-	-	-	0:00:04.723000	0:00:07.093000
 dass	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
 weil	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" project="PP03" age_lower="18" age_upper="35">
 er	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
 sonst	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
 (können	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" project="PP03" age_lower="18" age_upper="35">
 nicht	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
 wir	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
 es)	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:04.723000" end="0:00:07.093000" project="PP03" age_lower="18" age_upper="35">
 .	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:04.723000" end="0:00:07.093000" age_lower="1" age_upper="999">
 /.	-	-	-	0:00:04.723000	0:00:07.093000
 okay	-	-	-	0:00:04.723000	0:00:07.093000
 .	-	-	-	0:00:04.723000	0:00:07.093000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:07.093000" end="0:00:08.416000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:07.093000" end="0:00:08.416000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:07.093000" end="0:00:08.416000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:07.093000" end="0:00:08.416000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:08.416000" end="0:00:10.719000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:08.416000" end="0:00:10.719000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:00:09.492000	0:00:10.719000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:09.492000" end="0:00:10.719000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:09.492000" end="0:00:10.719000" age_lower="1" age_upper="999">
 ja	-	-	-	0:00:09.492000	0:00:10.719000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:09.492000" end="0:00:10.719000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:09.492000" end="0:00:10.719000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:00:09.492000	0:00:10.719000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:09.492000" end="0:00:10.719000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:09.492000" end="0:00:10.719000" age_lower="1" age_upper="999">
 ,	-	-	-	0:00:09.492000	0:00:10.719000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:09.492000" end="0:00:10.719000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:09.492000" end="0:00:10.719000" project="PP03" age_lower="18" age_upper="35">
 .	-	-	-	0:00:09.492000	0:00:10.719000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:09.492000" end="0:00:10.719000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:09.492000" end="0:00:10.719000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:00:09.492000	0:00:10.719000
 Sie	-	-	-	0:00:09.492000	0:00:10.719000
 es	-	-	-	0:00:09.492000	0:00:10.719000
@@ -100,18 +100,18 @@ so	-	-	-	0:00:09.492000	0:00:10.719000
 liegen	-	-	-	0:00:09.492000	0:00:10.719000
 .	-	-	-	0:00:09.492000	0:00:10.719000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:10.719000" end="0:00:12.868000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:10.719000" end="0:00:12.868000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:10.719000" end="0:00:12.868000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:10.719000" end="0:00:12.868000" age_lower="1" age_upper="999">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:12.868000" end="0:00:13.446000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:12.868000" end="0:00:13.446000" project="PP03" age_lower="18" age_upper="35">
 oh	-	-	-	0:00:12.868000	0:00:13.446000
 ,	-	-	-	0:00:12.868000	0:00:13.446000
 Entschuldigung	-	-	-	0:00:12.868000	0:00:13.446000
 .	-	-	-	0:00:12.868000	0:00:13.446000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:13.446000" end="0:00:15.489000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:13.446000" end="0:00:15.489000" age_lower="1" age_upper="999">
 ah	-	-	-	0:00:13.446000	0:00:15.489000
 ,	-	-	-	0:00:13.446000	0:00:15.489000
 nichts	-	-	-	0:00:13.446000	0:00:15.489000
@@ -120,11 +120,11 @@ nichts	-	-	-	0:00:13.446000	0:00:15.489000
 passiert	-	-	-	0:00:13.446000	0:00:15.489000
 .	-	-	-	0:00:13.446000	0:00:15.489000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:15.489000" end="0:00:16.366000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:15.489000" end="0:00:16.366000" project="PP03" age_lower="18" age_upper="35">
 gut	-	-	-	0:00:15.489000	0:00:16.366000
 .	-	-	-	0:00:15.489000	0:00:16.366000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:15.489000" end="0:00:22.403000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:15.489000" end="0:00:22.403000" age_lower="1" age_upper="999">
 geht	-	-	-	0:00:15.489000	0:00:16.366000
 schon	-	-	-	0:00:15.489000	0:00:16.366000
 .	-	-	-	0:00:15.489000	0:00:16.366000
@@ -142,13 +142,13 @@ Ihr	-	-	-	0:00:19.842000	0:00:22.403000
 Geburtsdatum	-	-	-	0:00:19.842000	0:00:22.403000
 ?	-	-	-	0:00:19.842000	0:00:22.403000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:22.403000" end="0:00:24.822000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:22.403000" end="0:00:24.822000" project="PP03" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:00:22.403000	0:00:24.822000
 erster	-	-	-	0:00:22.403000	0:00:24.822000
 ZAHL	ZAHL	-	-	0:00:22.403000	0:00:24.822000
 .	-	-	-	0:00:22.403000	0:00:24.822000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:24.822000" end="0:00:27.189000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:24.822000" end="0:00:27.189000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:24.822000	0:00:25.441000
 .	-	-	-	0:00:24.822000	0:00:25.441000
 und	-	-	-	0:00:25.441000	0:00:27.189000
@@ -158,12 +158,12 @@ Sie	-	-	-	0:00:25.441000	0:00:27.189000
 geboren	-	-	-	0:00:25.441000	0:00:27.189000
 ?	-	-	-	0:00:25.441000	0:00:27.189000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:27.189000" end="0:00:28.168000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:27.189000" end="0:00:28.168000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:00:27.189000	0:00:28.168000
 ORT	ORT	-	-	0:00:27.189000	0:00:28.168000
 .	-	-	-	0:00:27.189000	0:00:28.168000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:28.168000" end="0:00:31.397000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:28.168000" end="0:00:31.397000" age_lower="1" age_upper="999">
 und	-	-	-	0:00:28.168000	0:00:31.397000
 wo	-	-	-	0:00:28.168000	0:00:31.397000
 sind	-	-	-	0:00:28.168000	0:00:31.397000
@@ -171,7 +171,7 @@ Sie	-	-	-	0:00:28.168000	0:00:31.397000
 aufgewachsen	-	-	-	0:00:28.168000	0:00:31.397000
 ?	-	-	-	0:00:28.168000	0:00:31.397000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:31.397000" end="0:00:33.896000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:31.397000" end="0:00:33.896000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:31.397000	0:00:33.258000
 ,	-	-	-	0:00:31.397000	0:00:33.258000
 ((0,5s))	-	-	-	0:00:31.397000	0:00:33.258000
@@ -183,19 +183,19 @@ ZAHL	ZAHL	-	-	0:00:33.258000	0:00:33.896000
 Jahre	-	-	-	0:00:33.258000	0:00:33.896000
 ,	-	-	-	0:00:33.258000	0:00:33.896000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:33.258000" end="0:00:33.896000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:33.258000" end="0:00:33.896000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:33.258000	0:00:33.896000
 .	-	-	-	0:00:33.258000	0:00:33.896000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:33.896000" end="0:00:34.720000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:33.896000" end="0:00:34.720000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:00:33.896000	0:00:34.720000
 dann	-	-	-	0:00:33.896000	0:00:34.720000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:34.720000" end="0:00:35.165000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:34.720000" end="0:00:35.165000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:34.720000	0:00:35.165000
 .	-	-	-	0:00:34.720000	0:00:35.165000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:35.165000" end="0:00:36.743000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:35.165000" end="0:00:36.743000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:00:35.165000	0:00:36.743000
 restliche	-	-	-	0:00:35.165000	0:00:36.743000
 Zeit	-	-	-	0:00:35.165000	0:00:36.743000
@@ -203,7 +203,7 @@ in	-	-	-	0:00:35.165000	0:00:36.743000
 ORT	ORT	-	-	0:00:35.165000	0:00:36.743000
 .	-	-	-	0:00:35.165000	0:00:36.743000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:36.743000" end="0:00:40.902000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:36.743000" end="0:00:40.902000" age_lower="1" age_upper="999">
 okay	-	-	-	0:00:36.743000	0:00:38.307000
 ,	-	-	-	0:00:36.743000	0:00:38.307000
 mhm	-	-	-	0:00:36.743000	0:00:38.307000
@@ -217,13 +217,13 @@ in	-	-	-	0:00:38.307000	0:00:40.902000
 ORT	ORT	-	-	0:00:38.307000	0:00:40.902000
 ?	-	-	-	0:00:38.307000	0:00:40.902000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:40.902000" end="0:00:42.398000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:40.902000" end="0:00:42.398000" project="PP03" age_lower="18" age_upper="35">
 Zweitau/	-	-	-	0:00:40.902000	0:00:42.398000
 ,	-	-	-	0:00:40.902000	0:00:42.398000
 seit	-	-	-	0:00:40.902000	0:00:42.398000
 ZAHL	ZAHL	-	-	0:00:40.902000	0:00:42.398000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:42.398000" end="0:00:45.332000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:42.398000" end="0:00:45.332000" age_lower="1" age_upper="999">
 okay	-	-	-	0:00:42.398000	0:00:43.729000
 ,	-	-	-	0:00:42.398000	0:00:43.729000
 mhm	-	-	-	0:00:42.398000	0:00:43.729000
@@ -232,10 +232,10 @@ mhm	-	-	-	0:00:42.398000	0:00:43.729000
 ähm	-	-	-	0:00:43.729000	0:00:45.332000
 ,	-	-	-	0:00:43.729000	0:00:45.332000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:45.332000" end="0:00:46.524000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:45.332000" end="0:00:46.524000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:45.332000" end="0:00:49.310000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:45.332000" end="0:00:49.310000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 aus	-	-	-	0:00:46.524000	0:00:49.310000
 welchem	-	-	-	0:00:46.524000	0:00:49.310000
@@ -248,13 +248,13 @@ ihre	-	-	-	0:00:46.524000	0:00:49.310000
 Eltern	-	-	-	0:00:46.524000	0:00:49.310000
 ?	-	-	-	0:00:46.524000	0:00:49.310000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:49.310000" end="0:00:50.014000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:49.310000" end="0:00:50.014000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:49.310000" end="0:00:50.014000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:49.310000" end="0:00:50.014000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:50.014000" end="0:00:52.583000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:50.014000" end="0:00:52.583000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:50.014000	0:00:51.847000
 ,	-	-	-	0:00:50.014000	0:00:51.847000
 der	-	-	-	0:00:50.014000	0:00:51.847000
@@ -264,18 +264,18 @@ ORT	ORT	-	-	0:00:50.014000	0:00:51.847000
 *und*	-	-	-	0:00:51.847000	0:00:52.583000
 Mama	-	-	-	0:00:51.847000	0:00:52.583000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:51.847000" end="0:00:52.583000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:51.847000" end="0:00:52.583000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:51.847000	0:00:52.583000
 .	-	-	-	0:00:51.847000	0:00:52.583000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:52.583000" end="0:00:54.456000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:52.583000" end="0:00:54.456000" project="PP03" age_lower="18" age_upper="35">
 aus	-	-	-	0:00:52.583000	0:00:53.507000
 ORT	ORT	-	-	0:00:52.583000	0:00:53.507000
 in	-	-	-	0:00:53.507000	0:00:54.456000
 Tirol	-	-	-	0:00:53.507000	0:00:54.456000
 .	-	-	-	0:00:53.507000	0:00:54.456000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:53.507000" end="0:00:55.567000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:53.507000" end="0:00:55.567000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:53.507000	0:00:54.456000
 .	-	-	-	0:00:53.507000	0:00:54.456000
 in	-	-	-	0:00:54.456000	0:00:55.567000
@@ -284,11 +284,11 @@ Tirol	-	-	-	0:00:54.456000	0:00:55.567000
 genau	-	-	-	0:00:54.456000	0:00:55.567000
 .	-	-	-	0:00:54.456000	0:00:55.567000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:55.567000" end="0:00:58.232000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:55.567000" end="0:00:58.232000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:55.567000	0:00:58.232000
 .	-	-	-	0:00:55.567000	0:00:58.232000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:55.567000" end="0:01:05.077000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:55.567000" end="0:01:05.077000" age_lower="1" age_upper="999">
 das	-	-	-	0:00:55.567000	0:00:58.232000
 ist	-	-	-	0:00:55.567000	0:00:58.232000
 eh	-	-	-	0:00:55.567000	0:00:58.232000
@@ -323,7 +323,7 @@ noch	-	-	-	0:01:03.566000	0:01:05.077000
 berufstätig	-	-	-	0:01:03.566000	0:01:05.077000
 ,	-	-	-	0:01:03.566000	0:01:05.077000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:05.077000" end="0:01:06.445000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:05.077000" end="0:01:06.445000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:01:05.077000	0:01:06.445000
 sind	-	-	-	0:01:05.077000	0:01:06.445000
 beide	-	-	-	0:01:05.077000	0:01:06.445000
@@ -331,13 +331,13 @@ noch	-	-	-	0:01:05.077000	0:01:06.445000
 berufstätig	-	-	-	0:01:05.077000	0:01:06.445000
 .	-	-	-	0:01:05.077000	0:01:06.445000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:05.077000" end="0:01:06.445000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:05.077000" end="0:01:06.445000" age_lower="1" age_upper="999">
 ja	-	-	-	0:01:05.077000	0:01:06.445000
 ,	-	-	-	0:01:05.077000	0:01:06.445000
 mhm	-	-	-	0:01:05.077000	0:01:06.445000
 .	-	-	-	0:01:05.077000	0:01:06.445000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:06.445000" end="0:01:08.125000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:06.445000" end="0:01:08.125000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:01:06.445000	0:01:08.125000
 Papa	-	-	-	0:01:06.445000	0:01:08.125000
 ist	-	-	-	0:01:06.445000	0:01:08.125000
@@ -345,11 +345,11 @@ im	-	-	-	0:01:06.445000	0:01:08.125000
 Winter	-	-	-	0:01:06.445000	0:01:08.125000
 SONSTIGE	SONSTIGE	-	-	0:01:06.445000	0:01:08.125000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:08.125000" end="0:01:08.528000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:08.125000" end="0:01:08.528000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:08.125000	0:01:08.528000
 .	-	-	-	0:01:08.125000	0:01:08.528000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:08.528000" end="0:01:11.038000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:08.528000" end="0:01:11.038000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:01:08.528000	0:01:11.038000
 im	-	-	-	0:01:08.528000	0:01:11.038000
 Sommer	-	-	-	0:01:08.528000	0:01:11.038000
@@ -357,11 +357,11 @@ geringfügig	-	-	-	0:01:08.528000	0:01:11.038000
 SONSTIGE	SONSTIGE	-	-	0:01:08.528000	0:01:11.038000
 .	-	-	-	0:01:08.528000	0:01:11.038000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:11.038000" end="0:01:11.373000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:11.038000" end="0:01:11.373000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:11.038000	0:01:11.373000
 .	-	-	-	0:01:11.038000	0:01:11.373000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:11.373000" end="0:01:14.844000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:11.373000" end="0:01:14.844000" project="PP03" age_lower="18" age_upper="35">
 *und*	-	-	-	0:01:11.373000	0:01:14.844000
 Mama	-	-	-	0:01:11.373000	0:01:14.844000
 ist	-	-	-	0:01:11.373000	0:01:14.844000
@@ -372,17 +372,17 @@ Assistentin	-	-	-	0:01:11.373000	0:01:14.844000
 tätig	-	-	-	0:01:11.373000	0:01:14.844000
 .	-	-	-	0:01:11.373000	0:01:14.844000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:14.844000" end="0:01:17.130000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:14.844000" end="0:01:17.130000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:14.844000	0:01:15.810000
 .	-	-	-	0:01:14.844000	0:01:15.810000
 <pause duration="0,9s"/>
 ähm	-	-	-	0:01:15.810000	0:01:17.130000
 ,	-	-	-	0:01:15.810000	0:01:17.130000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:17.130000" end="0:01:18.301000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:17.130000" end="0:01:18.301000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:17.130000" end="0:01:20.087000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:17.130000" end="0:01:20.087000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 sind	-	-	-	0:01:18.301000	0:01:19.308000
 Sie	-	-	-	0:01:18.301000	0:01:19.308000
@@ -393,19 +393,19 @@ Sie	-	-	-	0:01:19.308000	0:01:20.087000
 in	-	-	-	0:01:19.308000	0:01:20.087000
 einer	-	-	-	0:01:19.308000	0:01:20.087000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:20.087000" end="0:01:21.056000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:20.087000" end="0:01:21.056000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:01:20.087000	0:01:21.056000
 einer	-	-	-	0:01:20.087000	0:01:21.056000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:20.087000" end="0:01:21.056000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:20.087000" end="0:01:21.056000" age_lower="1" age_upper="999">
 Partnerschaft	-	-	-	0:01:20.087000	0:01:21.056000
 ?	-	-	-	0:01:20.087000	0:01:21.056000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:21.056000" end="0:01:21.958000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:21.056000" end="0:01:21.958000" project="PP03" age_lower="18" age_upper="35">
 Partnerschaft	-	-	-	0:01:21.056000	0:01:21.958000
 .	-	-	-	0:01:21.056000	0:01:21.958000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:21.056000" end="0:01:25.882000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:21.056000" end="0:01:25.882000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:21.056000	0:01:21.958000
 .	-	-	-	0:01:21.056000	0:01:21.958000
 okay	-	-	-	0:01:21.958000	0:01:22.607000
@@ -421,11 +421,11 @@ Partner	-	-	-	0:01:22.607000	0:01:25.882000
 geboren	-	-	-	0:01:22.607000	0:01:25.882000
 ?	-	-	-	0:01:22.607000	0:01:25.882000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:25.882000" end="0:01:27.265000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:25.882000" end="0:01:27.265000" project="PP03" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:01:25.882000	0:01:27.265000
 .	-	-	-	0:01:25.882000	0:01:27.265000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:27.265000" end="0:01:30.440000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:27.265000" end="0:01:30.440000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:27.265000	0:01:27.874000
 .	-	-	-	0:01:27.265000	0:01:27.874000
 <pause duration="0,7s"/>
@@ -437,12 +437,12 @@ stammt	-	-	-	0:01:27.874000	0:01:30.440000
 der	-	-	-	0:01:27.874000	0:01:30.440000
 ?	-	-	-	0:01:27.874000	0:01:30.440000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:30.440000" end="0:01:31.533000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:30.440000" end="0:01:31.533000" project="PP03" age_lower="18" age_upper="35">
 aus	-	-	-	0:01:30.440000	0:01:31.533000
 ORT	ORT	-	-	0:01:30.440000	0:01:31.533000
 .	-	-	-	0:01:30.440000	0:01:31.533000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:31.533000" end="0:01:34.413000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:31.533000" end="0:01:34.413000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:01:31.533000	0:01:32.759000
 ,	-	-	-	0:01:31.533000	0:01:32.759000
 mhm	-	-	-	0:01:31.533000	0:01:32.759000
@@ -454,7 +454,7 @@ dort	-	-	-	0:01:32.759000	0:01:34.413000
 aufgewachsen	-	-	-	0:01:32.759000	0:01:34.413000
 ?	-	-	-	0:01:32.759000	0:01:34.413000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:34.413000" end="0:01:35.788000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:34.413000" end="0:01:35.788000" project="PP03" age_lower="18" age_upper="35">
 er	-	-	-	0:01:34.413000	0:01:34.949000
 ist	-	-	-	0:01:34.413000	0:01:34.949000
 dort	-	-	-	0:01:34.413000	0:01:34.949000
@@ -463,7 +463,7 @@ aufgewachsen	-	-	-	0:01:34.949000	0:01:35.788000
 ja	-	-	-	0:01:34.949000	0:01:35.788000
 .	-	-	-	0:01:34.949000	0:01:35.788000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:34.949000" end="0:01:39.334000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:34.949000" end="0:01:39.334000" age_lower="1" age_upper="999">
 ja	-	-	-	0:01:34.949000	0:01:35.788000
 ,	-	-	-	0:01:34.949000	0:01:35.788000
 mhm	-	-	-	0:01:35.788000	0:01:36.454000
@@ -474,33 +474,33 @@ er	-	-	-	0:01:36.454000	0:01:39.334000
 berufstätig	-	-	-	0:01:36.454000	0:01:39.334000
 ?	-	-	-	0:01:36.454000	0:01:39.334000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:39.334000" end="0:01:39.968000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:39.334000" end="0:01:39.968000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:39.334000	0:01:39.968000
 ,	-	-	-	0:01:39.334000	0:01:39.968000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:39.968000" end="0:01:40.495000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:39.968000" end="0:01:40.495000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:39.968000	0:01:40.495000
 .	-	-	-	0:01:39.968000	0:01:40.495000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:40.495000" end="0:01:41.759000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:40.495000" end="0:01:41.759000" project="PP03" age_lower="18" age_upper="35">
 er	-	-	-	0:01:40.495000	0:01:41.759000
 arbeitet	-	-	-	0:01:40.495000	0:01:41.759000
 im	-	-	-	0:01:40.495000	0:01:41.759000
 ORT	ORT	-	-	0:01:40.495000	0:01:41.759000
 .	-	-	-	0:01:40.495000	0:01:41.759000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:41.759000" end="0:01:42.580000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:41.759000" end="0:01:42.580000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:41.759000	0:01:42.580000
 .	-	-	-	0:01:41.759000	0:01:42.580000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:42.580000" end="0:01:43.450000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:42.580000" end="0:01:43.450000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:01:42.580000	0:01:43.450000
 in	-	-	-	0:01:42.580000	0:01:43.450000
 der	-	-	-	0:01:42.580000	0:01:43.450000
 ORT	ORT	-	-	0:01:42.580000	0:01:43.450000
 .	-	-	-	0:01:42.580000	0:01:43.450000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:43.450000" end="0:01:45.450000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:43.450000" end="0:01:45.450000" age_lower="1" age_upper="999">
 ah	-	-	-	0:01:43.450000	0:01:45.450000
 ,	-	-	-	0:01:43.450000	0:01:45.450000
 okay	-	-	-	0:01:43.450000	0:01:45.450000
@@ -512,7 +512,7 @@ er	-	-	-	0:01:43.450000	0:01:45.450000
 da	-	-	-	0:01:43.450000	0:01:45.450000
 ?	-	-	-	0:01:43.450000	0:01:45.450000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:45.450000" end="0:01:48.928000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:45.450000" end="0:01:48.928000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:01:45.450000	0:01:46.673000
 ,	-	-	-	0:01:45.450000	0:01:46.673000
@@ -523,11 +523,11 @@ hat	-	-	-	0:01:46.673000	0:01:48.928000
 SONSTIGE	SONSTIGE	-	-	0:01:46.673000	0:01:48.928000
 studiert	-	-	-	0:01:46.673000	0:01:48.928000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:48.928000" end="0:01:49.262000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:48.928000" end="0:01:49.262000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:48.928000	0:01:49.262000
 .	-	-	-	0:01:48.928000	0:01:49.262000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:49.262000" end="0:01:51.922000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:49.262000" end="0:01:51.922000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:01:49.262000	0:01:51.922000
 ist	-	-	-	0:01:49.262000	0:01:51.922000
 dort	-	-	-	0:01:49.262000	0:01:51.922000
@@ -537,7 +537,7 @@ Entwicklung	-	-	-	0:01:49.262000	0:01:51.922000
 tätig	-	-	-	0:01:49.262000	0:01:51.922000
 .	-	-	-	0:01:49.262000	0:01:51.922000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:51.922000" end="0:01:54.589000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:51.922000" end="0:01:54.589000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:51.922000	0:01:53.062000
 ,	-	-	-	0:01:51.922000	0:01:53.062000
 mhm	-	-	-	0:01:51.922000	0:01:53.062000
@@ -546,10 +546,10 @@ mhm	-	-	-	0:01:51.922000	0:01:53.062000
 ähm	-	-	-	0:01:53.062000	0:01:54.589000
 ,	-	-	-	0:01:53.062000	0:01:54.589000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:54.589000" end="0:01:56.928000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:54.589000" end="0:01:56.928000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:54.589000" end="0:01:59.854000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:54.589000" end="0:01:59.854000" age_lower="1" age_upper="999">
 <pause duration="2,3s"/>
 genau	-	-	-	0:01:56.928000	0:01:59.854000
 ,	-	-	-	0:01:56.928000	0:01:59.854000
@@ -561,15 +561,15 @@ kleine	-	-	-	0:01:56.928000	0:01:59.854000
 Tochter	-	-	-	0:01:56.928000	0:01:59.854000
 .	-	-	-	0:01:56.928000	0:01:59.854000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:59.854000" end="0:02:00.237000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:59.854000" end="0:02:00.237000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:59.854000	0:02:00.237000
 .	-	-	-	0:01:59.854000	0:02:00.237000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:59.854000" end="0:02:00.237000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:59.854000" end="0:02:00.237000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:00.237000" end="0:02:02.129000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:00.237000" end="0:02:02.129000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:00.237000" end="0:02:02.129000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:00.237000" end="0:02:02.129000" age_lower="1" age_upper="999">
 genau	-	-	-	0:02:00.237000	0:02:02.129000
 ,	-	-	-	0:02:00.237000	0:02:02.129000
 wie	-	-	-	0:02:00.237000	0:02:02.129000
@@ -579,12 +579,12 @@ ist	-	-	-	0:02:00.237000	0:02:02.129000
 die	-	-	-	0:02:00.237000	0:02:02.129000
 ?	-	-	-	0:02:00.237000	0:02:02.129000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:02.129000" end="0:02:02.871000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:02.129000" end="0:02:02.871000" project="PP03" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:02:02.129000	0:02:02.871000
 ZAHL	ZAHL	-	-	0:02:02.129000	0:02:02.871000
 .	-	-	-	0:02:02.129000	0:02:02.871000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:02.871000" end="0:02:07.273000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:02.871000" end="0:02:07.273000" age_lower="1" age_upper="999">
 ZAHL	ZAHL	-	-	0:02:02.871000	0:02:04.214000
 ZAHL	ZAHL	-	-	0:02:02.871000	0:02:04.214000
 ,	-	-	-	0:02:02.871000	0:02:04.214000
@@ -606,23 +606,23 @@ NAME	NAME	-	-	0:02:05.611000	0:02:07.273000
 oder	-	-	-	0:02:05.611000	0:02:07.273000
 ?	-	-	-	0:02:05.611000	0:02:07.273000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:07.273000" end="0:02:08.804000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:07.273000" end="0:02:08.804000" project="PP03" age_lower="18" age_upper="35">
 NAME	NAME	-	-	0:02:07.273000	0:02:08.804000
 ,	-	-	-	0:02:07.273000	0:02:08.804000
 ja	-	-	-	0:02:07.273000	0:02:08.804000
 genau	-	-	-	0:02:07.273000	0:02:08.804000
 .	-	-	-	0:02:07.273000	0:02:08.804000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:07.273000" end="0:02:08.804000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:07.273000" end="0:02:08.804000" age_lower="1" age_upper="999">
 NAME	NAME	-	-	0:02:07.273000	0:02:08.804000
 ,	-	-	-	0:02:07.273000	0:02:08.804000
 genau	-	-	-	0:02:07.273000	0:02:08.804000
 .	-	-	-	0:02:07.273000	0:02:08.804000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:08.804000" end="0:02:10.639000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:08.804000" end="0:02:10.639000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:08.804000" end="0:02:20.716000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:08.804000" end="0:02:20.716000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 okay	-	-	-	0:02:10.639000	0:02:11.651000
 ,	-	-	-	0:02:10.639000	0:02:11.651000
@@ -654,7 +654,7 @@ höchster	-	-	-	0:02:17.397000	0:02:20.716000
 Ausbildungsgrad	-	-	-	0:02:17.397000	0:02:20.716000
 ?	-	-	-	0:02:17.397000	0:02:20.716000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:20.716000" end="0:02:22.716000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:20.716000" end="0:02:22.716000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:02:20.716000	0:02:22.716000
 ,	-	-	-	0:02:20.716000	0:02:22.716000
@@ -663,11 +663,11 @@ habe	-	-	-	0:02:20.716000	0:02:22.716000
 Matura	-	-	-	0:02:20.716000	0:02:22.716000
 .	-	-	-	0:02:20.716000	0:02:22.716000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:22.716000" end="0:02:23.262000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:22.716000" end="0:02:23.262000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:22.716000	0:02:23.262000
 .	-	-	-	0:02:22.716000	0:02:23.262000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:23.262000" end="0:02:25.262000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:23.262000" end="0:02:25.262000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ist	-	-	-	0:02:23.262000	0:02:25.262000
 der	-	-	-	0:02:23.262000	0:02:25.262000
@@ -675,7 +675,7 @@ höchste	-	-	-	0:02:23.262000	0:02:25.262000
 Ausbildungsgrad	-	-	-	0:02:23.262000	0:02:25.262000
 .	-	-	-	0:02:23.262000	0:02:25.262000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:23.262000" end="0:02:30.096000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:23.262000" end="0:02:30.096000" age_lower="1" age_upper="999">
 äh/	-	-	-	0:02:23.262000	0:02:25.262000
 ,	-	-	-	0:02:23.262000	0:02:25.262000
 genau	-	-	-	0:02:23.262000	0:02:25.262000
@@ -697,15 +697,15 @@ Sie	-	-	-	0:02:27.404000	0:02:30.096000
 in	-	-	-	0:02:27.404000	0:02:30.096000
 Karenz	-	-	-	0:02:27.404000	0:02:30.096000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:30.096000" end="0:02:30.556000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:30.096000" end="0:02:30.556000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:02:30.096000	0:02:30.556000
 bin	-	-	-	0:02:30.096000	0:02:30.556000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:30.096000" end="0:02:30.556000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:30.096000" end="0:02:30.556000" age_lower="1" age_upper="999">
 oder	-	-	-	0:02:30.096000	0:02:30.556000
 ?	-	-	-	0:02:30.096000	0:02:30.556000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:30.556000" end="0:02:34.156000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:30.556000" end="0:02:34.156000" project="PP03" age_lower="18" age_upper="35">
 seit	-	-	-	0:02:30.556000	0:02:31.663000
 Herbst	-	-	-	0:02:30.556000	0:02:31.663000
 in	-	-	-	0:02:30.556000	0:02:31.663000
@@ -718,16 +718,16 @@ SONSTIGE	SONSTIGE	-	-	0:02:31.663000	0:02:34.156000
 tätig	-	-	-	0:02:31.663000	0:02:34.156000
 .	-	-	-	0:02:31.663000	0:02:34.156000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:34.156000" end="0:02:35.737000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:34.156000" end="0:02:35.737000" age_lower="1" age_upper="999">
 als	-	-	-	0:02:34.156000	0:02:35.737000
 SONSTIGE	SONSTIGE	-	-	0:02:34.156000	0:02:35.737000
 ,	-	-	-	0:02:34.156000	0:02:35.737000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:35.737000" end="0:02:36.122000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:35.737000" end="0:02:36.122000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:35.737000	0:02:36.122000
 .	-	-	-	0:02:35.737000	0:02:36.122000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:35.737000" end="0:02:39.322000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:35.737000" end="0:02:39.322000" age_lower="1" age_upper="999">
 genau	-	-	-	0:02:35.737000	0:02:36.122000
 .	-	-	-	0:02:35.737000	0:02:36.122000
 was	-	-	-	0:02:36.122000	0:02:37.062000
@@ -747,16 +747,16 @@ so	-	-	-	0:02:38.434000	0:02:39.322000
 von	-	-	-	0:02:38.434000	0:02:39.322000
 Ihren	-	-	-	0:02:38.434000	0:02:39.322000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:39.322000" end="0:02:40.555000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:39.322000" end="0:02:40.555000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:02:39.322000	0:02:40.555000
 ich	-	-	-	0:02:39.322000	0:02:40.555000
 bin	-	-	-	0:02:39.322000	0:02:40.555000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:39.322000" end="0:02:40.555000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:39.322000" end="0:02:40.555000" age_lower="1" age_upper="999">
 Tätigkeiten	-	-	-	0:02:39.322000	0:02:40.555000
 ?	-	-	-	0:02:39.322000	0:02:40.555000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:40.555000" end="0:02:48.403000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:40.555000" end="0:02:48.403000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:02:40.555000	0:02:43.909000
 einer	-	-	-	0:02:40.555000	0:02:43.909000
 Kindergartengruppe	-	-	-	0:02:40.555000	0:02:43.909000
@@ -778,11 +778,11 @@ wie	-	-	-	0:02:45.730000	0:02:48.403000
 normal	-	-	-	0:02:45.730000	0:02:48.403000
 ,	-	-	-	0:02:45.730000	0:02:48.403000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:48.403000" end="0:02:49.023000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:48.403000" end="0:02:49.023000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:48.403000	0:02:49.023000
 .	-	-	-	0:02:48.403000	0:02:49.023000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:49.023000" end="0:02:52.628000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:49.023000" end="0:02:52.628000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:02:49.023000	0:02:51.442000
 wir	-	-	-	0:02:49.023000	0:02:51.442000
 Integrationskinder	-	-	-	0:02:49.023000	0:02:51.442000
@@ -791,19 +791,19 @@ gehabt	-	-	-	0:02:51.442000	0:02:52.628000
 haben	-	-	-	0:02:51.442000	0:02:52.628000
 .	-	-	-	0:02:51.442000	0:02:52.628000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:51.442000" end="0:02:52.628000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:51.442000" end="0:02:52.628000" age_lower="1" age_upper="999">
 ja	-	-	-	0:02:51.442000	0:02:52.628000
 .	-	-	-	0:02:51.442000	0:02:52.628000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:52.628000" end="0:02:53.440000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:52.628000" end="0:02:53.440000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:02:52.628000	0:02:53.440000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:52.628000" end="0:02:53.440000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:52.628000" end="0:02:53.440000" age_lower="1" age_upper="999">
 wie	-	-	-	0:02:52.628000	0:02:53.440000
 viele	-	-	-	0:02:52.628000	0:02:53.440000
 ?	-	-	-	0:02:52.628000	0:02:53.440000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:53.440000" end="0:03:00.005000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:53.440000" end="0:03:00.005000" project="PP03" age_lower="18" age_upper="35">
 letzten	-	-	-	0:02:53.440000	0:02:57.064000
 drei	-	-	-	0:02:53.440000	0:02:57.064000
 Jahre	-	-	-	0:02:53.440000	0:02:57.064000
@@ -826,21 +826,21 @@ Kind	-	-	-	0:02:59.590000	0:03:00.005000
 gewesen	-	-	-	0:02:59.590000	0:03:00.005000
 ,	-	-	-	0:02:59.590000	0:03:00.005000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:59.590000" end="0:03:00.005000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:59.590000" end="0:03:00.005000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:59.590000	0:03:00.005000
 .	-	-	-	0:02:59.590000	0:03:00.005000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:00.005000" end="0:03:01.546000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:00.005000" end="0:03:01.546000" project="PP03" age_lower="18" age_upper="35">
 im	-	-	-	0:03:00.005000	0:03:00.812000
 Rollstuhl	-	-	-	0:03:00.005000	0:03:00.812000
 .	-	-	-	0:03:00.005000	0:03:00.812000
 und	-	-	-	0:03:00.812000	0:03:01.546000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:00.812000" end="0:03:01.546000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:00.812000" end="0:03:01.546000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:00.812000	0:03:01.546000
 .	-	-	-	0:03:00.812000	0:03:01.546000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:01.546000" end="0:03:06.392000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:01.546000" end="0:03:06.392000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:03:01.546000	0:03:03.535000
 anderen	-	-	-	0:03:01.546000	0:03:03.535000
 drei	-	-	-	0:03:01.546000	0:03:03.535000
@@ -855,31 +855,31 @@ oder	-	-	-	0:03:06.026000	0:03:06.392000
 so	-	-	-	0:03:06.026000	0:03:06.392000
 ,	-	-	-	0:03:06.026000	0:03:06.392000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:06.026000" end="0:03:06.392000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:06.026000" end="0:03:06.392000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:06.026000	0:03:06.392000
 .	-	-	-	0:03:06.026000	0:03:06.392000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:06.392000" end="0:03:07.966000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:06.392000" end="0:03:07.966000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:03:06.392000	0:03:07.966000
 nicht	-	-	-	0:03:06.392000	0:03:07.966000
 nach	-	-	-	0:03:06.392000	0:03:07.966000
 außen	-	-	-	0:03:06.392000	0:03:07.966000
 sichtbar	-	-	-	0:03:06.392000	0:03:07.966000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:07.966000" end="0:03:09.076000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:07.966000" end="0:03:09.076000" age_lower="1" age_upper="999">
 okay	-	-	-	0:03:07.966000	0:03:09.076000
 ,	-	-	-	0:03:07.966000	0:03:09.076000
 ja	-	-	-	0:03:07.966000	0:03:09.076000
 .	-	-	-	0:03:07.966000	0:03:09.076000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:09.076000" end="0:03:10.429000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:09.076000" end="0:03:10.429000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:03:09.076000	0:03:10
 einer	-	-	-	0:03:09.076000	0:03:10
 Behinderung	-	-	-	0:03:09.076000	0:03:10
 gewesen	-	-	-	0:03:10	0:03:10.429000
 .	-	-	-	0:03:10	0:03:10.429000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:10" end="0:03:16.110000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:10" end="0:03:16.110000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:10	0:03:10.429000
 .	-	-	-	0:03:10	0:03:10.429000
 ja	-	-	-	0:03:10.429000	0:03:11.465000
@@ -908,18 +908,18 @@ diese	-	-	-	0:03:12.398000	0:03:16.110000
 Kinder	-	-	-	0:03:12.398000	0:03:16.110000
 dann	-	-	-	0:03:12.398000	0:03:16.110000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:16.110000" end="0:03:16.896000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:16.110000" end="0:03:16.896000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:03:16.110000	0:03:16.896000
 bin	-	-	-	0:03:16.110000	0:03:16.896000
 vor	-	-	-	0:03:16.110000	0:03:16.896000
 allem	-	-	-	0:03:16.110000	0:03:16.896000
 für	-	-	-	0:03:16.110000	0:03:16.896000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:16.110000" end="0:03:16.896000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:16.110000" end="0:03:16.896000" age_lower="1" age_upper="999">
 zuständig	-	-	-	0:03:16.110000	0:03:16.896000
 ?	-	-	-	0:03:16.110000	0:03:16.896000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:16.896000" end="0:03:20.156000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:16.896000" end="0:03:20.156000" project="PP03" age_lower="18" age_upper="35">
 diese	-	-	-	0:03:16.896000	0:03:18.478000
 Kinder	-	-	-	0:03:16.896000	0:03:18.478000
 zuständig	-	-	-	0:03:16.896000	0:03:18.478000
@@ -935,24 +935,24 @@ anderen	-	-	-	0:03:19.502000	0:03:20.156000
 also	-	-	-	0:03:19.502000	0:03:20.156000
 das	-	-	-	0:03:19.502000	0:03:20.156000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:19.502000" end="0:03:20.156000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:19.502000" end="0:03:20.156000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:19.502000	0:03:20.156000
 .	-	-	-	0:03:19.502000	0:03:20.156000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:20.156000" end="0:03:21.409000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:20.156000" end="0:03:21.409000" project="PP03" age_lower="18" age_upper="35">
 wird	-	-	-	0:03:20.156000	0:03:21.008000
 integrativ	-	-	-	0:03:20.156000	0:03:21.008000
 einfach	-	-	-	0:03:21.008000	0:03:21.409000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:21.008000" end="0:03:21.409000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:21.008000" end="0:03:21.409000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:21.008000	0:03:21.409000
 .	-	-	-	0:03:21.008000	0:03:21.409000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:21.409000" end="0:03:21.999000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:21.409000" end="0:03:21.999000" project="PP03" age_lower="18" age_upper="35">
 betreut	-	-	-	0:03:21.409000	0:03:21.999000
 .	-	-	-	0:03:21.409000	0:03:21.999000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:21.999000" end="0:03:26.273000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:21.999000" end="0:03:26.273000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:21.999000	0:03:22.975000
 ,	-	-	-	0:03:21.999000	0:03:22.975000
 mhm	-	-	-	0:03:21.999000	0:03:22.975000
@@ -967,12 +967,12 @@ der	-	-	-	0:03:24.680000	0:03:26.273000
 Kindergarten	-	-	-	0:03:24.680000	0:03:26.273000
 ?	-	-	-	0:03:24.680000	0:03:26.273000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:26.273000" end="0:03:27.182000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:26.273000" end="0:03:27.182000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:03:26.273000	0:03:27.182000
 ORT	ORT	-	-	0:03:26.273000	0:03:27.182000
 .	-	-	-	0:03:26.273000	0:03:27.182000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:27.182000" end="0:03:34.837000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:27.182000" end="0:03:34.837000" age_lower="1" age_upper="999">
 ah	-	-	-	0:03:27.182000	0:03:28.513000
 ,	-	-	-	0:03:27.182000	0:03:28.513000
 okay	-	-	-	0:03:27.182000	0:03:28.513000
@@ -993,7 +993,7 @@ Berufe	-	-	-	0:03:30.513000	0:03:34.837000
 ausgeübt	-	-	-	0:03:30.513000	0:03:34.837000
 ?	-	-	-	0:03:30.513000	0:03:34.837000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:34.837000" end="0:03:38.771000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:34.837000" end="0:03:38.771000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:03:34.837000	0:03:38.199000
 ,	-	-	-	0:03:34.837000	0:03:38.199000
 ich	-	-	-	0:03:34.837000	0:03:38.199000
@@ -1008,17 +1008,17 @@ tätig	-	-	-	0:03:34.837000	0:03:38.199000
 gewesen	-	-	-	0:03:38.199000	0:03:38.771000
 .	-	-	-	0:03:38.199000	0:03:38.771000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:38.199000" end="0:03:38.771000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:38.199000" end="0:03:38.771000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:38.199000	0:03:38.771000
 .	-	-	-	0:03:38.199000	0:03:38.771000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:38.771000" end="0:03:39.591000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:38.771000" end="0:03:39.591000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:38.771000" end="0:03:39.591000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:38.771000" end="0:03:39.591000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:39.591000" end="0:03:43.198000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:39.591000" end="0:03:43.198000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:03:39.591000	0:03:43.198000
 ich	-	-	-	0:03:39.591000	0:03:43.198000
 habe	-	-	-	0:03:39.591000	0:03:43.198000
@@ -1028,7 +1028,7 @@ Tourimusbüro	-	-	-	0:03:39.591000	0:03:43.198000
 gemacht	-	-	-	0:03:39.591000	0:03:43.198000
 .	-	-	-	0:03:39.591000	0:03:43.198000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:43.198000" end="0:03:47.563000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:43.198000" end="0:03:47.563000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:43.198000	0:03:44.397000
 ,	-	-	-	0:03:43.198000	0:03:44.397000
 okay	-	-	-	0:03:43.198000	0:03:44.397000
@@ -1042,12 +1042,12 @@ als	-	-	-	0:03:44.397000	0:03:47.563000
 SONSTIGE	SONSTIGE	-	-	0:03:44.397000	0:03:47.563000
 ?	-	-	-	0:03:44.397000	0:03:47.563000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:47.563000" end="0:03:49.418000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:47.563000" end="0:03:49.418000" project="PP03" age_lower="18" age_upper="35">
 seit	-	-	-	0:03:47.563000	0:03:49.418000
 ZAHL	ZAHL	-	-	0:03:47.563000	0:03:49.418000
 .	-	-	-	0:03:47.563000	0:03:49.418000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:49.418000" end="0:03:55.796000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:49.418000" end="0:03:55.796000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:49.418000	0:03:50.572000
 ,	-	-	-	0:03:49.418000	0:03:50.572000
 okay	-	-	-	0:03:49.418000	0:03:50.572000
@@ -1069,16 +1069,16 @@ auch	-	-	-	0:03:54.786000	0:03:55.796000
 in	-	-	-	0:03:54.786000	0:03:55.796000
 anderen	-	-	-	0:03:54.786000	0:03:55.796000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:55.796000" end="0:03:56.195000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:55.796000" end="0:03:56.195000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:03:55.796000	0:03:56.195000
 ,	-	-	-	0:03:55.796000	0:03:56.195000
 ich	-	-	-	0:03:55.796000	0:03:56.195000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:55.796000" end="0:03:56.195000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:55.796000" end="0:03:56.195000" age_lower="1" age_upper="999">
 Orten	-	-	-	0:03:55.796000	0:03:56.195000
 ?	-	-	-	0:03:55.796000	0:03:56.195000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:56.195000" end="0:03:58.582000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:56.195000" end="0:03:58.582000" project="PP03" age_lower="18" age_upper="35">
 bin	-	-	-	0:03:56.195000	0:03:57.516000
 davor	-	-	-	0:03:56.195000	0:03:57.516000
 in	-	-	-	0:03:56.195000	0:03:57.516000
@@ -1090,11 +1090,11 @@ Jahre	-	-	-	0:03:57.516000	0:03:58.183000
 ,	-	-	-	0:03:57.516000	0:03:58.183000
 und	-	-	-	0:03:58.183000	0:03:58.582000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:58.183000" end="0:03:58.582000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:58.183000" end="0:03:58.582000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:58.183000	0:03:58.582000
 .	-	-	-	0:03:58.183000	0:03:58.582000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:58.582000" end="0:04:00.222000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:58.582000" end="0:04:00.222000" project="PP03" age_lower="18" age_upper="35">
 danach	-	-	-	0:03:58.582000	0:04:00.222000
 jetzt	-	-	-	0:03:58.582000	0:04:00.222000
 ZAHL	ZAHL	-	-	0:03:58.582000	0:04:00.222000
@@ -1103,7 +1103,7 @@ in	-	-	-	0:03:58.582000	0:04:00.222000
 ORT	ORT	-	-	0:03:58.582000	0:04:00.222000
 .	-	-	-	0:03:58.582000	0:04:00.222000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:00.222000" end="0:04:13.800000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:00.222000" end="0:04:13.800000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:00.222000	0:04:01.279000
 ,	-	-	-	0:04:00.222000	0:04:01.279000
 mhm	-	-	-	0:04:00.222000	0:04:01.279000
@@ -1146,7 +1146,7 @@ immer	-	-	-	0:04:10.915000	0:04:13.800000
 gleich	-	-	-	0:04:10.915000	0:04:13.800000
 ?	-	-	-	0:04:10.915000	0:04:13.800000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:13.800000" end="0:04:20.820000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:13.800000" end="0:04:20.820000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:04:13.800000	0:04:16.088000
 ,	-	-	-	0:04:13.800000	0:04:16.088000
 ich	-	-	-	0:04:13.800000	0:04:16.088000
@@ -1170,11 +1170,11 @@ Tirol	-	-	-	0:04:16.088000	0:04:20.297000
 ,	-	-	-	0:04:16.088000	0:04:20.297000
 reden	-	-	-	0:04:20.297000	0:04:20.820000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:20.297000" end="0:04:20.820000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:20.297000" end="0:04:20.820000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:20.297000	0:04:20.820000
 .	-	-	-	0:04:20.297000	0:04:20.820000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:20.820000" end="0:04:22.647000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:20.820000" end="0:04:22.647000" project="PP03" age_lower="18" age_upper="35">
 wir	-	-	-	0:04:20.820000	0:04:22.647000
 Tirolerisch	-	-	-	0:04:20.820000	0:04:22.647000
 und	-	-	-	0:04:20.820000	0:04:22.647000
@@ -1184,11 +1184,11 @@ der	-	-	-	0:04:20.820000	0:04:22.647000
 NAME	NAME	-	-	0:04:20.820000	0:04:22.647000
 .	-	-	-	0:04:20.820000	0:04:22.647000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:22.647000" end="0:04:23.332000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:22.647000" end="0:04:23.332000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:22.647000	0:04:23.332000
 .	-	-	-	0:04:22.647000	0:04:23.332000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:23.332000" end="0:04:25.489000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:23.332000" end="0:04:25.489000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:04:23.332000	0:04:25.489000
 die	-	-	-	0:04:23.332000	0:04:25.489000
 wird	-	-	-	0:04:23.332000	0:04:25.489000
@@ -1198,11 +1198,11 @@ Tirolerisch	-	-	-	0:04:23.332000	0:04:25.489000
 erzogen	-	-	-	0:04:23.332000	0:04:25.489000
 .	-	-	-	0:04:23.332000	0:04:25.489000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:25.489000" end="0:04:26.424000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:25.489000" end="0:04:26.424000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:25.489000	0:04:26.424000
 .	-	-	-	0:04:25.489000	0:04:26.424000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:26.424000" end="0:04:31.686000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:26.424000" end="0:04:31.686000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:04:26.424000	0:04:29.237000
 ,	-	-	-	0:04:26.424000	0:04:29.237000
 mit	-	-	-	0:04:26.424000	0:04:29.237000
@@ -1230,11 +1230,11 @@ Walserisch	-	-	-	0:04:29.237000	0:04:31.286000
 .	-	-	-	0:04:29.237000	0:04:31.286000
 und	-	-	-	0:04:31.286000	0:04:31.686000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:31.286000" end="0:04:31.686000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:31.286000" end="0:04:31.686000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:31.286000	0:04:31.686000
 .	-	-	-	0:04:31.286000	0:04:31.686000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:31.686000" end="0:04:37.318000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:31.686000" end="0:04:37.318000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:04:31.686000	0:04:35.818000
 es	-	-	-	0:04:31.686000	0:04:35.818000
 aber	-	-	-	0:04:31.686000	0:04:35.818000
@@ -1255,11 +1255,11 @@ an	-	-	-	0:04:35.818000	0:04:36.892000
 .	-	-	-	0:04:35.818000	0:04:36.892000
 durch	-	-	-	0:04:36.892000	0:04:37.318000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:36.892000" end="0:04:37.318000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:36.892000" end="0:04:37.318000" age_lower="1" age_upper="999">
 aha	-	-	-	0:04:36.892000	0:04:37.318000
 .	-	-	-	0:04:36.892000	0:04:37.318000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:37.318000" end="0:04:40.330000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:37.318000" end="0:04:40.330000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:04:37.318000	0:04:38.971000
 ,	-	-	-	0:04:37.318000	0:04:38.971000
 dass	-	-	-	0:04:37.318000	0:04:38.971000
@@ -1276,10 +1276,10 @@ ich	-	-	-	0:04:38.971000	0:04:39.400000
 ,	-	-	-	0:04:38.971000	0:04:39.400000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:39.400000" end="0:04:40.330000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:39.400000" end="0:04:40.330000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:40.330000" end="0:04:43.357000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:40.330000" end="0:04:43.357000" project="PP03" age_lower="18" age_upper="35">
 habe	-	-	-	0:04:40.330000	0:04:43.357000
 ich	-	-	-	0:04:40.330000	0:04:43.357000
 lange	-	-	-	0:04:40.330000	0:04:43.357000
@@ -1289,19 +1289,19 @@ Dialekt	-	-	-	0:04:40.330000	0:04:43.357000
 auch	-	-	-	0:04:40.330000	0:04:43.357000
 geredet	-	-	-	0:04:40.330000	0:04:43.357000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:43.357000" end="0:04:43.846000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:43.357000" end="0:04:43.846000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:43.357000	0:04:43.846000
 ,	-	-	-	0:04:43.357000	0:04:43.846000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:43.846000" end="0:04:44.382000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:43.846000" end="0:04:44.382000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:04:43.846000	0:04:44.382000
 ich	-	-	-	0:04:43.846000	0:04:44.382000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:43.846000" end="0:04:44.382000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:43.846000" end="0:04:44.382000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:43.846000	0:04:44.382000
 .	-	-	-	0:04:43.846000	0:04:44.382000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:44.382000" end="0:04:53.711000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:44.382000" end="0:04:53.711000" project="PP03" age_lower="18" age_upper="35">
 passe	-	-	-	0:04:44.382000	0:04:46.482000
 mich	-	-	-	0:04:44.382000	0:04:46.482000
 bissle	-	-	-	0:04:44.382000	0:04:46.482000
@@ -1338,7 +1338,7 @@ lustig	-	-	-	0:04:50.653000	0:04:52.170000
 und	-	-	-	0:04:52.170000	0:04:53.711000
 um	-	-	-	0:04:52.170000	0:04:53.711000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:52.170000" end="0:04:53.711000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:52.170000" end="0:04:53.711000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:52.170000	0:04:53.711000
 ,	-	-	-	0:04:52.170000	0:04:53.711000
 ja	-	-	-	0:04:52.170000	0:04:53.711000
@@ -1346,7 +1346,7 @@ ja	-	-	-	0:04:52.170000	0:04:53.711000
 ja	-	-	-	0:04:52.170000	0:04:53.711000
 .	-	-	-	0:04:52.170000	0:04:53.711000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:53.711000" end="0:04:57.118000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:53.711000" end="0:04:57.118000" project="PP03" age_lower="18" age_upper="35">
 ständig	-	-	-	0:04:53.711000	0:04:55.933000
 Dialektfragen	-	-	-	0:04:53.711000	0:04:55.933000
 zu	-	-	-	0:04:53.711000	0:04:55.933000
@@ -1357,29 +1357,29 @@ ich	-	-	-	0:04:55.933000	0:04:57.118000
 mich	-	-	-	0:04:55.933000	0:04:57.118000
 da	-	-	-	0:04:55.933000	0:04:57.118000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:55.933000" end="0:04:57.118000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:55.933000" end="0:04:57.118000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:55.933000	0:04:57.118000
 ,	-	-	-	0:04:55.933000	0:04:57.118000
 ja	-	-	-	0:04:55.933000	0:04:57.118000
 .	-	-	-	0:04:55.933000	0:04:57.118000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:57.118000" end="0:04:57.808000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:57.118000" end="0:04:57.808000" project="PP03" age_lower="18" age_upper="35">
 angepasst	-	-	-	0:04:57.118000	0:04:57.808000
 .	-	-	-	0:04:57.118000	0:04:57.808000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:57.118000" end="0:04:59.111000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:57.118000" end="0:04:59.111000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:57.808000	0:04:59.111000
 ,	-	-	-	0:04:57.808000	0:04:59.111000
 mhm	-	-	-	0:04:57.808000	0:04:59.111000
 .	-	-	-	0:04:57.808000	0:04:59.111000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:59.111000" end="0:04:59.736000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:59.111000" end="0:04:59.736000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:59.111000" end="0:04:59.736000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:59.111000" end="0:04:59.736000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:59.736000" end="0:05:08.171000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:59.736000" end="0:05:08.171000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:04:59.736000	0:05:00.382000
 ist	-	-	-	0:04:59.736000	0:05:00.382000
 auch	-	-	-	0:04:59.736000	0:05:00.382000
@@ -1413,11 +1413,11 @@ so	-	-	-	0:05:06.514000	0:05:08.171000
 ist	-	-	-	0:05:06.514000	0:05:08.171000
 .	-	-	-	0:05:06.514000	0:05:08.171000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:08.171000" end="0:05:08.690000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:08.171000" end="0:05:08.690000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:08.171000	0:05:08.690000
 .	-	-	-	0:05:08.171000	0:05:08.690000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:08.690000" end="0:05:11.764000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:08.690000" end="0:05:11.764000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 es	-	-	-	0:05:08.690000	0:05:09.878000
 ist	-	-	-	0:05:08.690000	0:05:09.878000
@@ -1434,7 +1434,7 @@ sich	-	-	-	0:05:10.855000	0:05:11.764000
 anpasst	-	-	-	0:05:10.855000	0:05:11.764000
 .	-	-	-	0:05:10.855000	0:05:11.764000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:11.764000" end="0:05:21.731000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:11.764000" end="0:05:21.731000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:11.764000	0:05:14.014000
 ,	-	-	-	0:05:11.764000	0:05:14.014000
 ja	-	-	-	0:05:11.764000	0:05:14.014000
@@ -1465,7 +1465,7 @@ sprechen	-	-	-	0:05:15.456000	0:05:21.731000
 miteinander	-	-	-	0:05:15.456000	0:05:21.731000
 ?	-	-	-	0:05:15.456000	0:05:21.731000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:21.731000" end="0:05:23.806000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:21.731000" end="0:05:23.806000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:05:21.731000	0:05:23.806000
 grundsätzlich	-	-	-	0:05:21.731000	0:05:23.806000
 ist	-	-	-	0:05:21.731000	0:05:23.806000
@@ -1473,13 +1473,13 @@ es	-	-	-	0:05:21.731000	0:05:23.806000
 Walserisch	-	-	-	0:05:21.731000	0:05:23.806000
 ,	-	-	-	0:05:21.731000	0:05:23.806000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:23.806000" end="0:05:24.810000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:23.806000" end="0:05:24.810000" age_lower="1" age_upper="999">
 Walserisch	-	-	-	0:05:23.806000	0:05:24.810000
 ,	-	-	-	0:05:23.806000	0:05:24.810000
 mhm	-	-	-	0:05:23.806000	0:05:24.810000
 .	-	-	-	0:05:23.806000	0:05:24.810000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:24.810000" end="0:05:28.077000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:24.810000" end="0:05:28.077000" project="PP03" age_lower="18" age_upper="35">
 wobei	-	-	-	0:05:24.810000	0:05:28.077000
 es	-	-	-	0:05:24.810000	0:05:28.077000
 sich	-	-	-	0:05:24.810000	0:05:28.077000
@@ -1492,17 +1492,17 @@ einzelnen	-	-	-	0:05:24.810000	0:05:28.077000
 Dialekten	-	-	-	0:05:24.810000	0:05:28.077000
 .	-	-	-	0:05:24.810000	0:05:28.077000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:28.077000" end="0:05:30.867000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:28.077000" end="0:05:30.867000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:28.077000	0:05:29.034000
 .	-	-	-	0:05:28.077000	0:05:29.034000
 <pause duration="0,8s"/>
 okay	-	-	-	0:05:29.034000	0:05:30.867000
 .	-	-	-	0:05:29.034000	0:05:30.867000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:30.867000" end="0:05:32.601000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:30.867000" end="0:05:32.601000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:30.867000" end="0:05:34.696000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:30.867000" end="0:05:34.696000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 können	-	-	-	0:05:32.601000	0:05:34.696000
 Sie	-	-	-	0:05:32.601000	0:05:34.696000
@@ -1510,11 +1510,11 @@ selber	-	-	-	0:05:32.601000	0:05:34.696000
 auch	-	-	-	0:05:32.601000	0:05:34.696000
 Walserisch	-	-	-	0:05:32.601000	0:05:34.696000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:34.696000" end="0:05:35.239000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:34.696000" end="0:05:35.239000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:34.696000	0:05:35.239000
 .	-	-	-	0:05:34.696000	0:05:35.239000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:34.696000" end="0:05:48.217000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:34.696000" end="0:05:48.217000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:05:34.696000	0:05:35.239000
 ?	-	-	-	0:05:34.696000	0:05:35.239000
 ja	-	-	-	0:05:35.239000	0:05:36.368000
@@ -1554,13 +1554,13 @@ Sie	-	-	-	0:05:43.867000	0:05:46.581000
 Walserisch	-	-	-	0:05:46.581000	0:05:48.217000
 ?	-	-	-	0:05:46.581000	0:05:48.217000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:48.217000" end="0:05:49.770000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:48.217000" end="0:05:49.770000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:48.217000" end="0:05:49.770000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:48.217000" end="0:05:49.770000" age_lower="1" age_upper="999">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:49.770000" end="0:05:56.029000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:49.770000" end="0:05:56.029000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:05:49.770000	0:05:51.497000
 ,	-	-	-	0:05:49.770000	0:05:51.497000
 es	-	-	-	0:05:49.770000	0:05:51.497000
@@ -1584,7 +1584,7 @@ es	-	-	-	0:05:54.491000	0:05:56.029000
 vollständig	-	-	-	0:05:54.491000	0:05:56.029000
 .	-	-	-	0:05:54.491000	0:05:56.029000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:54.491000" end="0:05:58.463000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:54.491000" end="0:05:58.463000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:54.491000	0:05:56.029000
 .	-	-	-	0:05:54.491000	0:05:56.029000
 mhm	-	-	-	0:05:56.029000	0:05:57.291000
@@ -1598,22 +1598,22 @@ ein	-	-	-	0:05:57.291000	0:05:58.463000
 Kreuzerl	-	-	-	0:05:57.291000	0:05:58.463000
 ,	-	-	-	0:05:57.291000	0:05:58.463000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:58.463000" end="0:05:59.721000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:58.463000" end="0:05:59.721000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:05:58.463000	0:05:59.721000
 so	-	-	-	0:05:58.463000	0:05:59.721000
 ,	-	-	-	0:05:58.463000	0:05:59.721000
 ja	-	-	-	0:05:58.463000	0:05:59.721000
 .	-	-	-	0:05:58.463000	0:05:59.721000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:58.463000" end="0:05:59.721000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:58.463000" end="0:05:59.721000" age_lower="1" age_upper="999">
 wo	-	-	-	0:05:58.463000	0:05:59.721000
 Sie	-	-	-	0:05:58.463000	0:05:59.721000
 /.	-	-	-	0:05:58.463000	0:05:59.721000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:59.721000" end="0:06:01.417000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:59.721000" end="0:06:01.417000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:59.721000" end="0:06:11.488000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:59.721000" end="0:06:11.488000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 mhm	-	-	-	0:06:01.417000	0:06:02.962000
 ,	-	-	-	0:06:01.417000	0:06:02.962000
@@ -1646,7 +1646,7 @@ ist	-	-	-	0:06:11.051000	0:06:11.488000
 das	-	-	-	0:06:11.051000	0:06:11.488000
 /?	-	-	-	0:06:11.051000	0:06:11.488000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:11.488000" end="0:06:13.236000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:11.488000" end="0:06:13.236000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:06:11.488000	0:06:13.236000
 für	-	-	-	0:06:11.488000	0:06:13.236000
 mich	-	-	-	0:06:11.488000	0:06:13.236000
@@ -1654,7 +1654,7 @@ auch	-	-	-	0:06:11.488000	0:06:13.236000
 vollständig	-	-	-	0:06:11.488000	0:06:13.236000
 .	-	-	-	0:06:11.488000	0:06:13.236000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:11.488000" end="0:06:13.236000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:11.488000" end="0:06:13.236000" age_lower="1" age_upper="999">
 äh	-	-	-	0:06:11.488000	0:06:13.236000
 ,	-	-	-	0:06:11.488000	0:06:13.236000
 a/	-	-	-	0:06:11.488000	0:06:13.236000
@@ -1662,16 +1662,16 @@ ist	-	-	-	0:06:11.488000	0:06:13.236000
 vollständig	-	-	-	0:06:11.488000	0:06:13.236000
 .	-	-	-	0:06:11.488000	0:06:13.236000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:13.236000" end="0:06:13.718000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:13.236000" end="0:06:13.718000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:06:13.236000	0:06:13.718000
 gesagt	-	-	-	0:06:13.236000	0:06:13.718000
 ,	-	-	-	0:06:13.236000	0:06:13.718000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:13.236000" end="0:06:13.718000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:13.236000" end="0:06:13.718000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:13.236000	0:06:13.718000
 .	-	-	-	0:06:13.236000	0:06:13.718000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:13.718000" end="0:06:16.923000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:13.718000" end="0:06:16.923000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:06:13.718000	0:06:15.217000
 gibt	-	-	-	0:06:13.718000	0:06:15.217000
 ein	-	-	-	0:06:13.718000	0:06:15.217000
@@ -1689,18 +1689,18 @@ mehr	-	-	-	0:06:15.217000	0:06:16.923000
 verwendet	-	-	-	0:06:15.217000	0:06:16.923000
 .	-	-	-	0:06:15.217000	0:06:16.923000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:16.923000" end="0:06:17.412000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:16.923000" end="0:06:17.412000" age_lower="1" age_upper="999">
 okay	-	-	-	0:06:16.923000	0:06:17.412000
 .	-	-	-	0:06:16.923000	0:06:17.412000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:17.412000" end="0:06:18.163000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:17.412000" end="0:06:18.163000" project="PP03" age_lower="18" age_upper="35">
 (die	-	-	-	0:06:17.412000	0:06:18.163000
 ,	-	-	-	0:06:17.412000	0:06:18.163000
 was	-	-	-	0:06:17.412000	0:06:18.163000
 noch	-	-	-	0:06:17.412000	0:06:18.163000
 /.)	-	-	-	0:06:17.412000	0:06:18.163000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:17.412000" end="0:06:20.990000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:17.412000" end="0:06:20.990000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:17.412000	0:06:18.163000
 .	-	-	-	0:06:17.412000	0:06:18.163000
 genau	-	-	-	0:06:18.163000	0:06:19.081000
@@ -1714,13 +1714,13 @@ später	-	-	-	0:06:19.081000	0:06:20.990000
 dann	-	-	-	0:06:19.081000	0:06:20.990000
 .	-	-	-	0:06:19.081000	0:06:20.990000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:20.990000" end="0:06:21.850000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:20.990000" end="0:06:21.850000" project="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:06:20.990000	0:06:21.850000
 ,	-	-	-	0:06:20.990000	0:06:21.850000
 okay	-	-	-	0:06:20.990000	0:06:21.850000
 .	-	-	-	0:06:20.990000	0:06:21.850000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:20.990000" end="0:06:25.837000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:20.990000" end="0:06:25.837000" age_lower="1" age_upper="999">
 passt	-	-	-	0:06:21.850000	0:06:22.473000
 .	-	-	-	0:06:21.850000	0:06:22.473000
 <pause duration="0,5s"/>
@@ -1733,10 +1733,10 @@ gut	-	-	-	0:06:23.520000	0:06:25.837000
 ähm	-	-	-	0:06:23.520000	0:06:25.837000
 ,	-	-	-	0:06:23.520000	0:06:25.837000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:25.837000" end="0:06:27.351000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:25.837000" end="0:06:27.351000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:25.837000" end="0:06:29.792000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:25.837000" end="0:06:29.792000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 gut	-	-	-	0:06:27.351000	0:06:28.234000
 ,	-	-	-	0:06:27.351000	0:06:28.234000
@@ -1751,11 +1751,11 @@ können	-	-	-	0:06:28.234000	0:06:29.792000
 es	-	-	-	0:06:28.234000	0:06:29.792000
 eigentlich	-	-	-	0:06:28.234000	0:06:29.792000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:29.792000" end="0:06:30.528000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:29.792000" end="0:06:30.528000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:29.792000	0:06:30.528000
 .	-	-	-	0:06:29.792000	0:06:30.528000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:29.792000" end="0:06:33.054000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:29.792000" end="0:06:33.054000" age_lower="1" age_upper="999">
 vollständig	-	-	-	0:06:29.792000	0:06:30.528000
 ,	-	-	-	0:06:29.792000	0:06:30.528000
 so	-	-	-	0:06:30.528000	0:06:31.232000
@@ -1771,11 +1771,11 @@ alten	-	-	-	0:06:31.232000	0:06:33.054000
 Leute	-	-	-	0:06:31.232000	0:06:33.054000
 .	-	-	-	0:06:31.232000	0:06:33.054000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:33.054000" end="0:06:33.370000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:33.054000" end="0:06:33.370000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:33.054000	0:06:33.370000
 .	-	-	-	0:06:33.054000	0:06:33.370000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:33.370000" end="0:06:43.883000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:33.370000" end="0:06:43.883000" age_lower="1" age_upper="999">
 äh/	-	-	-	0:06:33.370000	0:06:34.677000
 okay	-	-	-	0:06:33.370000	0:06:34.677000
 .	-	-	-	0:06:33.370000	0:06:34.677000
@@ -1817,7 +1817,7 @@ oder	-	-	-	0:06:41.400000	0:06:43.883000
 ähm	-	-	-	0:06:41.400000	0:06:43.883000
 /?	-	-	-	0:06:41.400000	0:06:43.883000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:43.883000" end="0:06:45.605000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:43.883000" end="0:06:45.605000" project="PP03" age_lower="18" age_upper="35">
 vereinzelt	-	-	-	0:06:43.883000	0:06:45.605000
 verwendet	-	-	-	0:06:43.883000	0:06:45.605000
 man	-	-	-	0:06:43.883000	0:06:45.605000
@@ -1825,19 +1825,19 @@ es	-	-	-	0:06:43.883000	0:06:45.605000
 noch	-	-	-	0:06:43.883000	0:06:45.605000
 ,	-	-	-	0:06:43.883000	0:06:45.605000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:43.883000" end="0:06:45.605000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:43.883000" end="0:06:45.605000" age_lower="1" age_upper="999">
 m/	-	-	-	0:06:43.883000	0:06:45.605000
 ver/	-	-	-	0:06:43.883000	0:06:45.605000
 mhm	-	-	-	0:06:43.883000	0:06:45.605000
 .	-	-	-	0:06:43.883000	0:06:45.605000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:45.605000" end="0:06:46.369000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:45.605000" end="0:06:46.369000" project="PP03" age_lower="18" age_upper="35">
 mittlerweile	-	-	-	0:06:45.605000	0:06:46.369000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:45.605000" end="0:06:46.369000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:45.605000" end="0:06:46.369000" age_lower="1" age_upper="999">
 aber	-	-	-	0:06:45.605000	0:06:46.369000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:46.369000" end="0:06:48.942000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:46.369000" end="0:06:48.942000" project="PP03" age_lower="18" age_upper="35">
 kenne	-	-	-	0:06:46.369000	0:06:47.438000
 ich	-	-	-	0:06:46.369000	0:06:47.438000
 auch	-	-	-	0:06:46.369000	0:06:47.438000
@@ -1853,11 +1853,11 @@ wieder	-	-	-	0:06:47.438000	0:06:48.942000
 interessiert	-	-	-	0:06:47.438000	0:06:48.942000
 .	-	-	-	0:06:47.438000	0:06:48.942000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:48.942000" end="0:06:49.408000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:48.942000" end="0:06:49.408000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:48.942000	0:06:49.408000
 .	-	-	-	0:06:48.942000	0:06:49.408000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:49.408000" end="0:06:54.229000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:49.408000" end="0:06:54.229000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:06:49.408000	0:06:51.022000
 sind	-	-	-	0:06:49.408000	0:06:51.022000
 so	-	-	-	0:06:49.408000	0:06:51.022000
@@ -1873,13 +1873,13 @@ verwendet	-	-	-	0:06:51.022000	0:06:53.508000
 .	-	-	-	0:06:51.022000	0:06:53.508000
 also	-	-	-	0:06:53.508000	0:06:54.229000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:53.508000" end="0:06:54.771000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:53.508000" end="0:06:54.771000" age_lower="1" age_upper="999">
 okay	-	-	-	0:06:53.508000	0:06:54.229000
 .	-	-	-	0:06:53.508000	0:06:54.229000
 ja	-	-	-	0:06:54.229000	0:06:54.771000
 .	-	-	-	0:06:54.229000	0:06:54.771000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:54.771000" end="0:06:59.072000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:54.771000" end="0:06:59.072000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:06:54.771000	0:06:59.072000
 gibt	-	-	-	0:06:54.771000	0:06:59.072000
 zum	-	-	-	0:06:54.771000	0:06:59.072000
@@ -1895,11 +1895,11 @@ statt	-	-	-	0:06:54.771000	0:06:59.072000
 "Sie"	-	-	-	0:06:54.771000	0:06:59.072000
 .	-	-	-	0:06:54.771000	0:06:59.072000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:59.072000" end="0:06:59.780000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:59.072000" end="0:06:59.780000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:59.072000	0:06:59.780000
 .	-	-	-	0:06:59.072000	0:06:59.780000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:59.780000" end="0:07:03.513000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:59.780000" end="0:07:03.513000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:06:59.780000	0:07:01.703000
 ist	-	-	-	0:06:59.780000	0:07:01.703000
 so	-	-	-	0:06:59.780000	0:07:01.703000
@@ -1918,13 +1918,13 @@ mehr	-	-	-	0:07:01.703000	0:07:03.513000
 verwendet	-	-	-	0:07:01.703000	0:07:03.513000
 .	-	-	-	0:07:01.703000	0:07:03.513000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:03.513000" end="0:07:04.506000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:03.513000" end="0:07:04.506000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:03.513000	0:07:04.506000
 ,	-	-	-	0:07:03.513000	0:07:04.506000
 ja	-	-	-	0:07:03.513000	0:07:04.506000
 .	-	-	-	0:07:03.513000	0:07:04.506000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:04.506000" end="0:07:06.735000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:04.506000" end="0:07:06.735000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:07:04.506000	0:07:06.735000
 den	-	-	-	0:07:04.506000	0:07:06.735000
 habe	-	-	-	0:07:04.506000	0:07:06.735000
@@ -1935,7 +1935,7 @@ dort	-	-	-	0:07:04.506000	0:07:06.735000
 kennengelernt	-	-	-	0:07:04.506000	0:07:06.735000
 .	-	-	-	0:07:04.506000	0:07:06.735000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:06.735000" end="0:07:08.687000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:06.735000" end="0:07:08.687000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:06.735000	0:07:08.260000
 ,	-	-	-	0:07:06.735000	0:07:08.260000
 interessant	-	-	-	0:07:06.735000	0:07:08.260000
@@ -1943,18 +1943,18 @@ interessant	-	-	-	0:07:06.735000	0:07:08.260000
 gut	-	-	-	0:07:08.260000	0:07:08.687000
 ,	-	-	-	0:07:08.260000	0:07:08.687000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:08.687000" end="0:07:09.174000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:08.687000" end="0:07:09.174000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:08.687000	0:07:09.174000
 .	-	-	-	0:07:08.687000	0:07:09.174000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:08.687000" end="0:07:09.174000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:08.687000" end="0:07:09.174000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:08.687000	0:07:09.174000
 .	-	-	-	0:07:08.687000	0:07:09.174000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:09.174000" end="0:07:10.340000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:09.174000" end="0:07:10.340000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:09.174000" end="0:07:12.848000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:09.174000" end="0:07:12.848000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 sprechen	-	-	-	0:07:10.340000	0:07:12.848000
 Sie	-	-	-	0:07:10.340000	0:07:12.848000
@@ -1962,13 +1962,13 @@ gerne	-	-	-	0:07:10.340000	0:07:12.848000
 Walserisch	-	-	-	0:07:10.340000	0:07:12.848000
 ?	-	-	-	0:07:10.340000	0:07:12.848000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:12.848000" end="0:07:13.275000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:12.848000" end="0:07:13.275000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:12.848000	0:07:13.275000
 ,	-	-	-	0:07:12.848000	0:07:13.275000
 schon	-	-	-	0:07:12.848000	0:07:13.275000
 .	-	-	-	0:07:12.848000	0:07:13.275000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:13.275000" end="0:07:16.152000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:13.275000" end="0:07:16.152000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:13.275000	0:07:14.244000
 ,	-	-	-	0:07:13.275000	0:07:14.244000
 okay	-	-	-	0:07:13.275000	0:07:14.244000
@@ -1978,13 +1978,13 @@ okay	-	-	-	0:07:13.275000	0:07:14.244000
 warum	-	-	-	0:07:14.244000	0:07:16.152000
 ?	-	-	-	0:07:14.244000	0:07:16.152000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:16.152000" end="0:07:17.331000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:16.152000" end="0:07:17.331000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:16.152000" end="0:07:17.331000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:16.152000" end="0:07:17.331000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:17.331000" end="0:07:30.544000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:17.331000" end="0:07:30.544000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:07:17.331000	0:07:18.899000
 ich	-	-	-	0:07:17.331000	0:07:18.899000
 es	-	-	-	0:07:17.331000	0:07:18.899000
@@ -2057,11 +2057,11 @@ sie	-	-	-	0:07:28.282000	0:07:30.544000
 her	-	-	-	0:07:28.282000	0:07:30.544000
 .	-	-	-	0:07:28.282000	0:07:30.544000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:30.544000" end="0:07:31.032000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:30.544000" end="0:07:31.032000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:30.544000	0:07:31.032000
 .	-	-	-	0:07:30.544000	0:07:31.032000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:31.032000" end="0:07:37.925000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:31.032000" end="0:07:37.925000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:07:31.032000	0:07:31.829000
 da	-	-	-	0:07:31.032000	0:07:31.829000
 ,	-	-	-	0:07:31.032000	0:07:31.829000
@@ -2091,11 +2091,11 @@ Fontanella	-	-	-	0:07:36.096000	0:07:37.340000
 und	-	-	-	0:07:37.340000	0:07:37.925000
 ich	-	-	-	0:07:37.340000	0:07:37.925000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:37.340000" end="0:07:37.925000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:37.340000" end="0:07:37.925000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:37.340000	0:07:37.925000
 .	-	-	-	0:07:37.340000	0:07:37.925000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:37.925000" end="0:07:40.086000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:37.925000" end="0:07:40.086000" project="PP03" age_lower="18" age_upper="35">
 finde	-	-	-	0:07:37.925000	0:07:38.853000
 ,	-	-	-	0:07:37.925000	0:07:38.853000
 das	-	-	-	0:07:37.925000	0:07:38.853000
@@ -2111,7 +2111,7 @@ schon	-	-	-	0:07:38.853000	0:07:40.086000
 speziell	-	-	-	0:07:38.853000	0:07:40.086000
 .	-	-	-	0:07:38.853000	0:07:40.086000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:40.086000" end="0:07:52.280000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:40.086000" end="0:07:52.280000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:40.086000	0:07:42.233000
 ,	-	-	-	0:07:40.086000	0:07:42.233000
 ja	-	-	-	0:07:40.086000	0:07:42.233000
@@ -2150,13 +2150,13 @@ Sie	-	-	-	0:07:50.509000	0:07:52.280000
 Walserisch	-	-	-	0:07:50.509000	0:07:52.280000
 ?	-	-	-	0:07:50.509000	0:07:52.280000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:52.280000" end="0:07:53.430000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:52.280000" end="0:07:53.430000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:52.280000" end="0:07:53.430000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:52.280000" end="0:07:53.430000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:53.430000" end="0:07:57.350000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:53.430000" end="0:07:57.350000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:07:53.430000	0:07:56.545000
 immer	-	-	-	0:07:53.430000	0:07:56.545000
 ,	-	-	-	0:07:53.430000	0:07:56.545000
@@ -2170,30 +2170,30 @@ habe	-	-	-	0:07:53.430000	0:07:56.545000
 .	-	-	-	0:07:53.430000	0:07:56.545000
 also	-	-	-	0:07:56.545000	0:07:57.350000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:56.545000" end="0:07:57.350000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:56.545000" end="0:07:57.350000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:56.545000	0:07:57.350000
 .	-	-	-	0:07:56.545000	0:07:57.350000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:57.350000" end="0:07:58.860000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:57.350000" end="0:07:58.860000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:07:57.350000	0:07:58.860000
 das	-	-	-	0:07:57.350000	0:07:58.860000
 Gegenüber	-	-	-	0:07:57.350000	0:07:58.860000
 Walser	-	-	-	0:07:57.350000	0:07:58.860000
 ist	-	-	-	0:07:57.350000	0:07:58.860000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:58.860000" end="0:07:59.531000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:58.860000" end="0:07:59.531000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:58.860000	0:07:59.531000
 .	-	-	-	0:07:58.860000	0:07:59.531000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:59.531000" end="0:08:00.210000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:59.531000" end="0:08:00.210000" project="PP03" age_lower="18" age_upper="35">
 immer	-	-	-	0:07:59.531000	0:08:00.210000
 .	-	-	-	0:07:59.531000	0:08:00.210000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:00.210000" end="0:08:00.954000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:00.210000" end="0:08:00.954000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:00.210000	0:08:00.954000
 .	-	-	-	0:08:00.210000	0:08:00.954000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:00.954000" end="0:08:07.812000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:00.954000" end="0:08:07.812000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 sonst	-	-	-	0:08:00.954000	0:08:02.963000
 <pause duration="0,5s"/>
@@ -2219,11 +2219,11 @@ meine	-	-	-	0:08:06.211000	0:08:07.812000
 Muttersprache	-	-	-	0:08:06.211000	0:08:07.812000
 .	-	-	-	0:08:06.211000	0:08:07.812000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:07.812000" end="0:08:08.571000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:07.812000" end="0:08:08.571000" age_lower="1" age_upper="999">
 okay	-	-	-	0:08:07.812000	0:08:08.571000
 .	-	-	-	0:08:07.812000	0:08:08.571000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:08.571000" end="0:08:12.274000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:08.571000" end="0:08:12.274000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:08:08.571000	0:08:10.203000
 so	-	-	-	0:08:08.571000	0:08:10.203000
 die	-	-	-	0:08:08.571000	0:08:10.203000
@@ -2239,13 +2239,13 @@ Tochter	-	-	-	0:08:10.203000	0:08:12.274000
 so	-	-	-	0:08:10.203000	0:08:12.274000
 .	-	-	-	0:08:10.203000	0:08:12.274000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:12.274000" end="0:08:13.204000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:12.274000" end="0:08:13.204000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:12.274000	0:08:12.916000
 ,	-	-	-	0:08:12.274000	0:08:12.916000
 ja	-	-	-	0:08:12.916000	0:08:13.204000
 .	-	-	-	0:08:12.916000	0:08:13.204000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:12.916000" end="0:08:14.769000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:12.916000" end="0:08:14.769000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:08:12.916000	0:08:13.204000
 sobald	-	-	-	0:08:13.204000	0:08:14.769000
 ,	-	-	-	0:08:13.204000	0:08:14.769000
@@ -2254,11 +2254,11 @@ mit	-	-	-	0:08:13.204000	0:08:14.769000
 dem	-	-	-	0:08:13.204000	0:08:14.769000
 Partner	-	-	-	0:08:13.204000	0:08:14.769000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:14.769000" end="0:08:15.461000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:14.769000" end="0:08:15.461000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:14.769000	0:08:15.461000
 .	-	-	-	0:08:14.769000	0:08:15.461000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:14.769000" end="0:08:16.073000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:14.769000" end="0:08:16.073000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:08:14.769000	0:08:15.461000
 mit	-	-	-	0:08:14.769000	0:08:15.461000
 dem	-	-	-	0:08:14.769000	0:08:15.461000
@@ -2266,11 +2266,11 @@ Papa	-	-	-	0:08:14.769000	0:08:15.461000
 natürlich	-	-	-	0:08:15.461000	0:08:16.073000
 ,	-	-	-	0:08:15.461000	0:08:16.073000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:16.073000" end="0:08:16.560000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:16.073000" end="0:08:16.560000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:16.073000	0:08:16.560000
 .	-	-	-	0:08:16.073000	0:08:16.560000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:16.560000" end="0:08:17.915000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:16.560000" end="0:08:17.915000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:08:16.560000	0:08:17.915000
 es	-	-	-	0:08:16.560000	0:08:17.915000
 eigentlich	-	-	-	0:08:16.560000	0:08:17.915000
@@ -2279,7 +2279,7 @@ das	-	-	-	0:08:16.560000	0:08:17.915000
 Walserisch	-	-	-	0:08:16.560000	0:08:17.915000
 .	-	-	-	0:08:16.560000	0:08:17.915000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:17.915000" end="0:08:21.212000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:17.915000" end="0:08:21.212000" age_lower="1" age_upper="999">
 okay	-	-	-	0:08:17.915000	0:08:20.134000
 ,	-	-	-	0:08:17.915000	0:08:20.134000
 <pause duration="0,7s"/>
@@ -2287,10 +2287,10 @@ mhm	-	-	-	0:08:17.915000	0:08:20.134000
 .	-	-	-	0:08:17.915000	0:08:20.134000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:20.134000" end="0:08:21.212000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:20.134000" end="0:08:21.212000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:21.212000" end="0:08:29.044000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:21.212000" end="0:08:29.044000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:08:21.212000	0:08:23.977000
 Sie	-	-	-	0:08:21.212000	0:08:23.977000
 sich	-	-	-	0:08:21.212000	0:08:23.977000
@@ -2313,23 +2313,23 @@ Sie	-	-	-	0:08:25.513000	0:08:27.860000
 Walserisch	-	-	-	0:08:25.513000	0:08:27.860000
 ?	-	-	-	0:08:25.513000	0:08:27.860000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:27.860000" end="0:08:29.044000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:27.860000" end="0:08:29.044000" project="PP03" age_lower="18" age_upper="35">
 (oh	-	-	-	0:08:27.860000	0:08:29.044000
 weh)	-	-	-	0:08:27.860000	0:08:29.044000
 .	-	-	-	0:08:27.860000	0:08:29.044000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:29.044000" end="0:08:29.491000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:29.044000" end="0:08:29.491000" age_lower="1" age_upper="999">
 so	-	-	-	0:08:29.044000	0:08:29.491000
 /.	-	-	-	0:08:29.044000	0:08:29.491000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:29.491000" end="0:08:30.488000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:29.491000" end="0:08:30.488000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:08:29.491000	0:08:30.488000
 ,	-	-	-	0:08:29.491000	0:08:30.488000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:30.488000" end="0:08:31.788000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:30.488000" end="0:08:31.788000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:30.488000" end="0:08:35.490000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:30.488000" end="0:08:35.490000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 im	-	-	-	0:08:31.788000	0:08:32.961000
 Moment	-	-	-	0:08:31.788000	0:08:32.961000
@@ -2349,11 +2349,11 @@ der	-	-	-	0:08:32.961000	0:08:35.490000
 NAME	NAME	-	-	0:08:32.961000	0:08:35.490000
 .	-	-	-	0:08:32.961000	0:08:35.490000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:35.490000" end="0:08:35.873000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:35.490000" end="0:08:35.873000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:35.490000	0:08:35.873000
 .	-	-	-	0:08:35.490000	0:08:35.873000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:35.873000" end="0:08:37.873000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:35.873000" end="0:08:37.873000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:08:35.873000	0:08:37.873000
 ,	-	-	-	0:08:35.873000	0:08:37.873000
@@ -2362,11 +2362,11 @@ Abend	-	-	-	0:08:35.873000	0:08:37.873000
 immer	-	-	-	0:08:35.873000	0:08:37.873000
 ,	-	-	-	0:08:35.873000	0:08:37.873000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:37.873000" end="0:08:38.499000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:37.873000" end="0:08:38.499000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:37.873000	0:08:38.499000
 .	-	-	-	0:08:37.873000	0:08:38.499000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:38.499000" end="0:08:45.049000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:38.499000" end="0:08:45.049000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:08:38.499000	0:08:39.874000
 der	-	-	-	0:08:38.499000	0:08:39.874000
 NAME	NAME	-	-	0:08:38.499000	0:08:39.874000
@@ -2393,13 +2393,13 @@ so	-	-	-	0:08:41.703000	0:08:45.049000
 ,	-	-	-	0:08:41.703000	0:08:45.049000
 oder	-	-	-	0:08:41.703000	0:08:45.049000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:45.049000" end="0:08:47.060000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:45.049000" end="0:08:47.060000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:45.049000	0:08:47.060000
 ,	-	-	-	0:08:45.049000	0:08:47.060000
 mhm	-	-	-	0:08:45.049000	0:08:47.060000
 .	-	-	-	0:08:45.049000	0:08:47.060000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:45.049000" end="0:08:47.060000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:45.049000" end="0:08:47.060000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:08:45.049000	0:08:47.060000
 ich	-	-	-	0:08:45.049000	0:08:47.060000
 Freunde	-	-	-	0:08:45.049000	0:08:47.060000
@@ -2409,11 +2409,11 @@ dann	-	-	-	0:08:45.049000	0:08:47.060000
 auch	-	-	-	0:08:45.049000	0:08:47.060000
 .	-	-	-	0:08:45.049000	0:08:47.060000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:47.060000" end="0:08:48.216000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:47.060000" end="0:08:48.216000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:47.060000	0:08:48.216000
 .	-	-	-	0:08:47.060000	0:08:48.216000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:47.060000" end="0:08:49.596000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:47.060000" end="0:08:49.596000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:08:47.060000	0:08:48.216000
 das	-	-	-	0:08:47.060000	0:08:48.216000
 ist	-	-	-	0:08:47.060000	0:08:48.216000
@@ -2424,7 +2424,7 @@ nicht	-	-	-	0:08:48.216000	0:08:49.596000
 regelmäßig	-	-	-	0:08:48.216000	0:08:49.596000
 .	-	-	-	0:08:48.216000	0:08:49.596000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:49.596000" end="0:08:50.763000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:49.596000" end="0:08:50.763000" age_lower="1" age_upper="999">
 okay	-	-	-	0:08:49.596000	0:08:50.479000
 ,	-	-	-	0:08:49.596000	0:08:50.479000
 okay	-	-	-	0:08:49.596000	0:08:50.479000
@@ -2432,14 +2432,14 @@ okay	-	-	-	0:08:49.596000	0:08:50.479000
 ja	-	-	-	0:08:50.479000	0:08:50.763000
 .	-	-	-	0:08:50.479000	0:08:50.763000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:50.479000" end="0:08:51.806000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:50.479000" end="0:08:51.806000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:08:50.479000	0:08:50.763000
 hauptsächlich	-	-	-	0:08:50.763000	0:08:51.806000
 am	-	-	-	0:08:50.763000	0:08:51.806000
 Abend	-	-	-	0:08:50.763000	0:08:51.806000
 .	-	-	-	0:08:50.763000	0:08:51.806000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:51.806000" end="0:09:07.939000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:51.806000" end="0:09:07.939000" age_lower="1" age_upper="999">
 hauptsächlich	-	-	-	0:08:51.806000	0:08:53.457000
 am	-	-	-	0:08:51.806000	0:08:53.457000
 Abend	-	-	-	0:08:51.806000	0:08:53.457000
@@ -2482,15 +2482,15 @@ immer	-	-	-	0:09:03.713000	0:09:04.955000
 .	-	-	-	0:09:03.713000	0:09:04.955000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:07.314000" end="0:09:08.637000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:07.314000" end="0:09:08.637000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 schwierig	-	-	-	0:09:07.939000	0:09:08.637000
 .	-	-	-	0:09:07.939000	0:09:08.637000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:08.637000" end="0:09:11.298000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:08.637000" end="0:09:11.298000" age_lower="1" age_upper="999">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:08.637000" end="0:09:13.318000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:08.637000" end="0:09:13.318000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 es	-	-	-	0:09:11.298000	0:09:13.318000
 ist	-	-	-	0:09:11.298000	0:09:13.318000
@@ -2503,13 +2503,13 @@ der	-	-	-	0:09:11.298000	0:09:13.318000
 Häjfte	-	-	-	0:09:11.298000	0:09:13.318000
 .	-	-	-	0:09:11.298000	0:09:13.318000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:13.318000" end="0:09:15.318000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:13.318000" end="0:09:15.318000" age_lower="1" age_upper="999">
 okay	-	-	-	0:09:13.318000	0:09:15.318000
 ,	-	-	-	0:09:13.318000	0:09:15.318000
 ja	-	-	-	0:09:13.318000	0:09:15.318000
 .	-	-	-	0:09:13.318000	0:09:15.318000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:13.318000" end="0:09:15.318000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:13.318000" end="0:09:15.318000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:09:13.318000	0:09:15.318000
 täte	-	-	-	0:09:13.318000	0:09:15.318000
 es	-	-	-	0:09:13.318000	0:09:15.318000
@@ -2517,25 +2517,25 @@ da	-	-	-	0:09:13.318000	0:09:15.318000
 sagen	-	-	-	0:09:13.318000	0:09:15.318000
 .	-	-	-	0:09:13.318000	0:09:15.318000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:15.318000" end="0:09:17.686000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:15.318000" end="0:09:17.686000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:15.318000	0:09:16.299000
 .	-	-	-	0:09:15.318000	0:09:16.299000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:16.299000" end="0:09:17.686000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:16.299000" end="0:09:17.686000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:17.686000" end="0:09:20.359000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:17.686000" end="0:09:20.359000" age_lower="1" age_upper="999">
 gut	-	-	-	0:09:17.686000	0:09:19.049000
 ,	-	-	-	0:09:17.686000	0:09:19.049000
 ähm	-	-	-	0:09:17.686000	0:09:19.049000
 .	-	-	-	0:09:17.686000	0:09:19.049000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:19.049000" end="0:09:20.359000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:19.049000" end="0:09:20.359000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:20.359000" end="0:09:29.267000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:20.359000" end="0:09:29.267000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:09:20.359000	0:09:24.826000
 es	-	-	-	0:09:20.359000	0:09:24.826000
 Situationen	-	-	-	0:09:20.359000	0:09:24.826000
@@ -2567,13 +2567,13 @@ echt	-	-	-	0:09:27.249000	0:09:29.267000
 gut	-	-	-	0:09:27.249000	0:09:29.267000
 .	-	-	-	0:09:27.249000	0:09:29.267000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:29.267000" end="0:09:31.960000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:29.267000" end="0:09:31.960000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:29.267000" end="0:09:31.960000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:29.267000" end="0:09:31.960000" age_lower="1" age_upper="999">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:31.960000" end="0:09:34.372000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:31.960000" end="0:09:34.372000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:09:31.960000	0:09:34.372000
 finde	-	-	-	0:09:31.960000	0:09:34.372000
 ,	-	-	-	0:09:31.960000	0:09:34.372000
@@ -2585,11 +2585,11 @@ jeder	-	-	-	0:09:31.960000	0:09:34.372000
 Situation	-	-	-	0:09:31.960000	0:09:34.372000
 ,	-	-	-	0:09:31.960000	0:09:34.372000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:34.372000" end="0:09:34.817000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:34.372000" end="0:09:34.817000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:34.372000	0:09:34.817000
 .	-	-	-	0:09:34.372000	0:09:34.817000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:34.817000" end="0:09:43.396000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:34.817000" end="0:09:43.396000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 die	-	-	-	0:09:34.817000	0:09:37.227000
 mit	-	-	-	0:09:34.817000	0:09:37.227000
@@ -2629,21 +2629,21 @@ irgendeine	-	-	-	0:09:41.787000	0:09:43.396000
 Fremdsprache	-	-	-	0:09:41.787000	0:09:43.396000
 ,	-	-	-	0:09:41.787000	0:09:43.396000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:43.396000" end="0:09:44.105000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:43.396000" end="0:09:44.105000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:43.396000	0:09:44.105000
 .	-	-	-	0:09:43.396000	0:09:44.105000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:43.396000" end="0:09:44.105000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:43.396000" end="0:09:44.105000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:09:43.396000	0:09:44.105000
 ich	-	-	-	0:09:43.396000	0:09:44.105000
 lerne	-	-	-	0:09:43.396000	0:09:44.105000
 ,	-	-	-	0:09:43.396000	0:09:44.105000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:44.105000" end="0:09:44.587000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:44.105000" end="0:09:44.587000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:44.105000	0:09:44.587000
 .	-	-	-	0:09:44.105000	0:09:44.587000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:44.587000" end="0:09:45.979000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:44.587000" end="0:09:45.979000" project="PP03" age_lower="18" age_upper="35">
 sondern	-	-	-	0:09:44.587000	0:09:45.979000
 die	-	-	-	0:09:44.587000	0:09:45.979000
 gehört	-	-	-	0:09:44.587000	0:09:45.979000
@@ -2651,7 +2651,7 @@ einfach	-	-	-	0:09:44.587000	0:09:45.979000
 dazu	-	-	-	0:09:44.587000	0:09:45.979000
 .	-	-	-	0:09:44.587000	0:09:45.979000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:45.979000" end="0:09:49.769000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:45.979000" end="0:09:49.769000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:45.979000	0:09:46.891000
 ,	-	-	-	0:09:45.979000	0:09:46.891000
 ja	-	-	-	0:09:45.979000	0:09:46.891000
@@ -2666,7 +2666,7 @@ okay	-	-	-	0:09:46.891000	0:09:49.769000
 mhm	-	-	-	0:09:46.891000	0:09:49.769000
 .	-	-	-	0:09:46.891000	0:09:49.769000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:46.891000" end="0:09:49.769000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:46.891000" end="0:09:49.769000" project="PP03" age_lower="18" age_upper="35">
 habe	-	-	-	0:09:46.891000	0:09:49.769000
 ich	-	-	-	0:09:46.891000	0:09:49.769000
 mir	-	-	-	0:09:46.891000	0:09:49.769000
@@ -2682,7 +2682,7 @@ finde	-	-	-	0:09:46.891000	0:09:49.769000
 nicht	-	-	-	0:09:46.891000	0:09:49.769000
 .	-	-	-	0:09:46.891000	0:09:49.769000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:49.769000" end="0:10:00.938000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:49.769000" end="0:10:00.938000" age_lower="1" age_upper="999">
 gut	-	-	-	0:09:49.769000	0:09:50.482000
 .	-	-	-	0:09:49.769000	0:09:50.482000
 <pause duration="0,8s"/>
@@ -2705,15 +2705,15 @@ vorkommt	-	-	-	0:09:55.302000	0:09:57.775000
 ?	-	-	-	0:09:55.302000	0:09:57.775000
 <pause duration="3,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:57.775000" end="0:10:01.668000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:57.775000" end="0:10:01.668000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 hm	-	-	-	0:10:00.938000	0:10:01.668000
 .	-	-	-	0:10:00.938000	0:10:01.668000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:01.668000" end="0:10:04.341000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:01.668000" end="0:10:04.341000" age_lower="1" age_upper="999">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:01.668000" end="0:10:07.882000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:01.668000" end="0:10:07.882000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 ja	-	-	-	0:10:04.341000	0:10:05.360000
 ,	-	-	-	0:10:04.341000	0:10:05.360000
@@ -2733,11 +2733,11 @@ mich	-	-	-	0:10:05.360000	0:10:07.882000
 Verstehen	-	-	-	0:10:05.360000	0:10:07.882000
 ,	-	-	-	0:10:05.360000	0:10:07.882000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:07.882000" end="0:10:08.393000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:07.882000" end="0:10:08.393000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:07.882000	0:10:08.393000
 .	-	-	-	0:10:07.882000	0:10:08.393000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:08.393000" end="0:10:11.464000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:08.393000" end="0:10:11.464000" project="PP03" age_lower="18" age_upper="35">
 finde	-	-	-	0:10:08.393000	0:10:10.053000
 ich	-	-	-	0:10:08.393000	0:10:10.053000
 ,	-	-	-	0:10:08.393000	0:10:10.053000
@@ -2753,11 +2753,11 @@ Waslerisch	-	-	-	0:10:10.053000	0:10:11.464000
 schwätzt	-	-	-	0:10:10.053000	0:10:11.464000
 .	-	-	-	0:10:10.053000	0:10:11.464000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:11.464000" end="0:10:11.933000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:11.464000" end="0:10:11.933000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:11.464000	0:10:11.933000
 .	-	-	-	0:10:11.464000	0:10:11.933000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:11.933000" end="0:10:17.079000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:11.933000" end="0:10:17.079000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:10:11.933000	0:10:13.884000
 gibt	-	-	-	0:10:11.933000	0:10:13.884000
 nämlich	-	-	-	0:10:11.933000	0:10:13.884000
@@ -2785,13 +2785,13 @@ es	-	-	-	0:10:14.934000	0:10:17.079000
 so	-	-	-	0:10:14.934000	0:10:17.079000
 .	-	-	-	0:10:14.934000	0:10:17.079000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:17.079000" end="0:10:18.247000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:17.079000" end="0:10:18.247000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:17.079000	0:10:17.790000
 ,	-	-	-	0:10:17.079000	0:10:17.790000
 ja	-	-	-	0:10:17.790000	0:10:18.247000
 .	-	-	-	0:10:17.790000	0:10:18.247000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:17.790000" end="0:10:19.498000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:17.790000" end="0:10:19.498000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:10:17.790000	0:10:18.247000
 das	-	-	-	0:10:18.247000	0:10:19.498000
 finde	-	-	-	0:10:18.247000	0:10:19.498000
@@ -2801,11 +2801,11 @@ eher	-	-	-	0:10:18.247000	0:10:19.498000
 schwierig	-	-	-	0:10:18.247000	0:10:19.498000
 .	-	-	-	0:10:18.247000	0:10:19.498000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:19.498000" end="0:10:20.010000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:19.498000" end="0:10:20.010000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:19.498000	0:10:20.010000
 .	-	-	-	0:10:19.498000	0:10:20.010000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:19.498000" end="0:10:21.722000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:19.498000" end="0:10:21.722000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:10:19.498000	0:10:20.010000
 finde	-	-	-	0:10:19.498000	0:10:20.010000
 ,	-	-	-	0:10:19.498000	0:10:20.010000
@@ -2819,11 +2819,11 @@ bisschen	-	-	-	0:10:20.010000	0:10:21.722000
 anpassen	-	-	-	0:10:20.010000	0:10:21.722000
 ,	-	-	-	0:10:20.010000	0:10:21.722000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:21.722000" end="0:10:22.183000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:21.722000" end="0:10:22.183000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:21.722000	0:10:22.183000
 .	-	-	-	0:10:21.722000	0:10:22.183000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:21.722000" end="0:10:23.350000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:21.722000" end="0:10:23.350000" project="PP03" age_lower="18" age_upper="35">
 damit	-	-	-	0:10:21.722000	0:10:22.183000
 der	-	-	-	0:10:21.722000	0:10:22.183000
 auch	-	-	-	0:10:22.183000	0:10:23.350000
@@ -2834,21 +2834,21 @@ hat	-	-	-	0:10:22.183000	0:10:23.350000
 zum	-	-	-	0:10:22.183000	0:10:23.350000
 sich	-	-	-	0:10:22.183000	0:10:23.350000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:23.350000" end="0:10:23.872000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:23.350000" end="0:10:23.872000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:23.350000	0:10:23.872000
 .	-	-	-	0:10:23.350000	0:10:23.872000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:23.872000" end="0:10:24.953000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:23.872000" end="0:10:24.953000" project="PP03" age_lower="18" age_upper="35">
 Unterhalten	-	-	-	0:10:23.872000	0:10:24.953000
 .	-	-	-	0:10:23.872000	0:10:24.953000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:24.953000" end="0:10:25.804000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:24.953000" end="0:10:25.804000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:24.953000	0:10:25.804000
 ,	-	-	-	0:10:24.953000	0:10:25.804000
 ja	-	-	-	0:10:24.953000	0:10:25.804000
 .	-	-	-	0:10:24.953000	0:10:25.804000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:24.953000" end="0:10:26.943000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:24.953000" end="0:10:26.943000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:10:24.953000	0:10:25.804000
 täte	-	-	-	0:10:24.953000	0:10:25.804000
 ich	-	-	-	0:10:24.953000	0:10:25.804000
@@ -2858,7 +2858,7 @@ unpassend	-	-	-	0:10:25.804000	0:10:26.943000
 finden	-	-	-	0:10:25.804000	0:10:26.943000
 .	-	-	-	0:10:25.804000	0:10:26.943000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:26.943000" end="0:10:30.650000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:26.943000" end="0:10:30.650000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:26.943000	0:10:28.641000
 ,	-	-	-	0:10:26.943000	0:10:28.641000
 okay	-	-	-	0:10:26.943000	0:10:28.641000
@@ -2867,10 +2867,10 @@ mhm	-	-	-	0:10:26.943000	0:10:28.641000
 .	-	-	-	0:10:26.943000	0:10:28.641000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:28.641000" end="0:10:30.650000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:28.641000" end="0:10:30.650000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:30.650000" end="0:10:41.456000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:30.650000" end="0:10:41.456000" age_lower="1" age_upper="999">
 gut	-	-	-	0:10:30.650000	0:10:32.061000
 ,	-	-	-	0:10:30.650000	0:10:32.061000
 ähm	-	-	-	0:10:30.650000	0:10:32.061000
@@ -2893,7 +2893,7 @@ sprechen	-	-	-	0:10:35.504000	0:10:37.813000
 ?	-	-	-	0:10:35.504000	0:10:37.813000
 <pause duration="3,6s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:37.813000" end="0:10:48.281000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:37.813000" end="0:10:48.281000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 ähm	-	-	-	0:10:41.456000	0:10:42.680000
 ,	-	-	-	0:10:41.456000	0:10:42.680000
@@ -2918,11 +2918,11 @@ nicht	-	-	-	0:10:46.354000	0:10:48.281000
 Walserisch	-	-	-	0:10:46.354000	0:10:48.281000
 .	-	-	-	0:10:46.354000	0:10:48.281000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:48.281000" end="0:10:48.766000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:48.281000" end="0:10:48.766000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:48.281000	0:10:48.766000
 .	-	-	-	0:10:48.281000	0:10:48.766000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:48.766000" end="0:10:51.234000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:48.766000" end="0:10:51.234000" project="PP03" age_lower="18" age_upper="35">
 für	-	-	-	0:10:48.766000	0:10:51.234000
 die	-	-	-	0:10:48.766000	0:10:51.234000
 ist	-	-	-	0:10:48.766000	0:10:51.234000
@@ -2936,11 +2936,11 @@ andere	-	-	-	0:10:48.766000	0:10:51.234000
 auch	-	-	-	0:10:48.766000	0:10:51.234000
 .	-	-	-	0:10:48.766000	0:10:51.234000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:51.234000" end="0:10:51.821000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:51.234000" end="0:10:51.821000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:51.234000	0:10:51.821000
 .	-	-	-	0:10:51.234000	0:10:51.821000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:51.821000" end="0:11:00.182000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:51.821000" end="0:11:00.182000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:10:51.821000	0:10:54.545000
 ,	-	-	-	0:10:51.821000	0:10:54.545000
 wenn	-	-	-	0:10:51.821000	0:10:54.545000
@@ -2969,22 +2969,22 @@ mit	-	-	-	0:10:57.682000	0:11:00.182000
 Schweizern	-	-	-	0:10:57.682000	0:11:00.182000
 .	-	-	-	0:10:57.682000	0:11:00.182000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:00.182000" end="0:11:01.509000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:00.182000" end="0:11:01.509000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:00.182000	0:11:01.509000
 ,	-	-	-	0:11:00.182000	0:11:01.509000
 ja	-	-	-	0:11:00.182000	0:11:01.509000
 .	-	-	-	0:11:00.182000	0:11:01.509000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:01.509000" end="0:11:03.172000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:01.509000" end="0:11:03.172000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	-	-	-	0:11:01.509000	0:11:03.172000
 .	-	-	-	0:11:01.509000	0:11:03.172000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:03.172000" end="0:11:03.896000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:03.172000" end="0:11:03.896000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:03.172000	0:11:03.896000
 .	-	-	-	0:11:03.172000	0:11:03.896000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:03.896000" end="0:11:07.043000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:03.896000" end="0:11:07.043000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:11:03.896000	0:11:04.554000
 <pause duration="0,5s"/>
 ich	-	-	-	0:11:04.554000	0:11:07.043000
@@ -2993,17 +2993,17 @@ eher	-	-	-	0:11:04.554000	0:11:07.043000
 interessant	-	-	-	0:11:04.554000	0:11:07.043000
 und	-	-	-	0:11:04.554000	0:11:07.043000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:07.043000" end="0:11:07.630000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:07.043000" end="0:11:07.630000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:07.043000	0:11:07.630000
 .	-	-	-	0:11:07.043000	0:11:07.630000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:07.630000" end="0:11:08.858000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:07.630000" end="0:11:08.858000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:11:07.630000	0:11:08.858000
 lässig	-	-	-	0:11:07.630000	0:11:08.858000
 .	-	-	-	0:11:07.630000	0:11:08.858000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:08.858000" end="0:11:11.116000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:08.858000" end="0:11:11.116000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:08.858000	0:11:11.116000
 ,	-	-	-	0:11:08.858000	0:11:11.116000
 okay	-	-	-	0:11:08.858000	0:11:11.116000
@@ -3011,20 +3011,20 @@ okay	-	-	-	0:11:08.858000	0:11:11.116000
 mhm	-	-	-	0:11:08.858000	0:11:11.116000
 .	-	-	-	0:11:08.858000	0:11:11.116000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:08.858000" end="0:11:12.734000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:08.858000" end="0:11:12.734000" project="PP03" age_lower="18" age_upper="35">
 (?	-	-	-	0:11:08.858000	0:11:11.116000
 schon)	-	-	-	0:11:08.858000	0:11:11.116000
 <pause duration="1,1s"/>
 ähm	-	-	-	0:11:11.116000	0:11:12.734000
 ,	-	-	-	0:11:11.116000	0:11:12.734000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:12.734000" end="0:11:14.224000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:12.734000" end="0:11:14.224000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:12.734000" end="0:11:14.224000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:12.734000" end="0:11:14.224000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:14.224000" end="0:11:23.431000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:14.224000" end="0:11:23.431000" age_lower="1" age_upper="999">
 welche	-	-	-	0:11:14.224000	0:11:18.211000
 Personen	-	-	-	0:11:14.224000	0:11:18.211000
 und	-	-	-	0:11:14.224000	0:11:18.211000
@@ -3045,15 +3045,15 @@ Walserisch	-	-	-	0:11:18.211000	0:11:20.734000
 ?	-	-	-	0:11:18.211000	0:11:20.734000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:20.734000" end="0:11:23.431000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:20.734000" end="0:11:23.431000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:23.431000" end="0:11:24.025000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:23.431000" end="0:11:24.025000" age_lower="1" age_upper="999">
 sind	-	-	-	0:11:23.431000	0:11:24.025000
 das	-	-	-	0:11:23.431000	0:11:24.025000
 /?	-	-	-	0:11:23.431000	0:11:24.025000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:23.431000" end="0:11:26.462000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:23.431000" end="0:11:26.462000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:11:23.431000	0:11:24.025000
 Freunde	-	-	-	0:11:24.025000	0:11:26.462000
 ,	-	-	-	0:11:24.025000	0:11:26.462000
@@ -3065,15 +3065,15 @@ eigentlich	-	-	-	0:11:24.025000	0:11:26.462000
 alle	-	-	-	0:11:24.025000	0:11:26.462000
 .	-	-	-	0:11:24.025000	0:11:26.462000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:26.462000" end="0:11:26.865000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:26.462000" end="0:11:26.865000" age_lower="1" age_upper="999">
 alle	-	-	-	0:11:26.462000	0:11:26.865000
 .	-	-	-	0:11:26.462000	0:11:26.865000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:26.865000" end="0:11:27.157000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:26.865000" end="0:11:27.157000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:26.865000	0:11:27.157000
 .	-	-	-	0:11:26.865000	0:11:27.157000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:27.157000" end="0:11:33.372000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:27.157000" end="0:11:33.372000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:27.157000	0:11:28.142000
 ,	-	-	-	0:11:27.157000	0:11:28.142000
 okay	-	-	-	0:11:27.157000	0:11:28.142000
@@ -3098,36 +3098,36 @@ tun	-	-	-	0:11:29.710000	0:11:32.488000
 oder	-	-	-	0:11:32.488000	0:11:33.372000
 /?	-	-	-	0:11:32.488000	0:11:33.372000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:32.488000" end="0:11:33.372000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:32.488000" end="0:11:33.372000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:11:32.488000	0:11:33.372000
 Raggal	-	-	-	0:11:32.488000	0:11:33.372000
 ?	-	-	-	0:11:32.488000	0:11:33.372000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:33.372000" end="0:11:36.227000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:33.372000" end="0:11:36.227000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:33.372000	0:11:33.834000
 .	-	-	-	0:11:33.372000	0:11:33.834000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:33.834000" end="0:11:36.859000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:33.834000" end="0:11:36.859000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 nein	-	-	-	0:11:36.227000	0:11:36.859000
 ,	-	-	-	0:11:36.227000	0:11:36.859000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:36.859000" end="0:11:38.032000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:36.859000" end="0:11:38.032000" age_lower="1" age_upper="999">
 eigentlich	-	-	-	0:11:36.859000	0:11:38.032000
 nicht	-	-	-	0:11:36.859000	0:11:38.032000
 so	-	-	-	0:11:36.859000	0:11:38.032000
 ,	-	-	-	0:11:36.859000	0:11:38.032000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:36.859000" end="0:11:38.032000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:36.859000" end="0:11:38.032000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:36.859000	0:11:38.032000
 /.	-	-	-	0:11:36.859000	0:11:38.032000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:38.032000" end="0:11:38.481000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:38.032000" end="0:11:38.481000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:38.032000	0:11:38.481000
 .	-	-	-	0:11:38.032000	0:11:38.481000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:38.032000" end="0:11:39.754000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:38.032000" end="0:11:39.754000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:11:38.032000	0:11:38.481000
 ,	-	-	-	0:11:38.032000	0:11:38.481000
 also	-	-	-	0:11:38.481000	0:11:39.754000
@@ -3136,11 +3136,11 @@ Mama	-	-	-	0:11:38.481000	0:11:39.754000
 jetzt	-	-	-	0:11:38.481000	0:11:39.754000
 .	-	-	-	0:11:38.481000	0:11:39.754000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:39.754000" end="0:11:40.203000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:39.754000" end="0:11:40.203000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:39.754000	0:11:40.203000
 .	-	-	-	0:11:39.754000	0:11:40.203000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:40.203000" end="0:11:43.140000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:40.203000" end="0:11:43.140000" project="PP03" age_lower="18" age_upper="35">
 von	-	-	-	0:11:40.203000	0:11:41.943000
 mir	-	-	-	0:11:40.203000	0:11:41.943000
 eine	-	-	-	0:11:40.203000	0:11:41.943000
@@ -3155,17 +3155,17 @@ von	-	-	-	0:11:41.943000	0:11:43.140000
 Kärnten	-	-	-	0:11:41.943000	0:11:43.140000
 .	-	-	-	0:11:41.943000	0:11:43.140000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:43.140000" end="0:11:43.676000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:43.140000" end="0:11:43.676000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:43.140000	0:11:43.676000
 .	-	-	-	0:11:43.140000	0:11:43.676000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:43.676000" end="0:11:45.090000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:43.676000" end="0:11:45.090000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 aber	-	-	-	0:11:43.676000	0:11:45.090000
 sonst	-	-	-	0:11:43.676000	0:11:45.090000
 /.	-	-	-	0:11:43.676000	0:11:45.090000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:45.090000" end="0:11:46.917000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:45.090000" end="0:11:46.917000" age_lower="1" age_upper="999">
 eigentlich	-	-	-	0:11:45.090000	0:11:45.780000
 ,	-	-	-	0:11:45.090000	0:11:45.780000
 eigentlich	-	-	-	0:11:45.780000	0:11:46.917000
@@ -3174,17 +3174,17 @@ alle	-	-	-	0:11:45.780000	0:11:46.917000
 okay	-	-	-	0:11:45.780000	0:11:46.917000
 ,	-	-	-	0:11:45.780000	0:11:46.917000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:45.780000" end="0:11:46.917000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:45.780000" end="0:11:46.917000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:45.780000	0:11:46.917000
 .	-	-	-	0:11:45.780000	0:11:46.917000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:46.917000" end="0:11:47.608000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:46.917000" end="0:11:47.608000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:46.917000	0:11:47.608000
 ,	-	-	-	0:11:46.917000	0:11:47.608000
 ja	-	-	-	0:11:46.917000	0:11:47.608000
 .	-	-	-	0:11:46.917000	0:11:47.608000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:47.608000" end="0:11:49.122000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:47.608000" end="0:11:49.122000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:11:47.608000	0:11:49.122000
 auch	-	-	-	0:11:47.608000	0:11:49.122000
 interessant	-	-	-	0:11:47.608000	0:11:49.122000
@@ -3192,7 +3192,7 @@ interessant	-	-	-	0:11:47.608000	0:11:49.122000
 mhm	-	-	-	0:11:47.608000	0:11:49.122000
 .	-	-	-	0:11:47.608000	0:11:49.122000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:49.122000" end="0:11:58.414000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:49.122000" end="0:11:58.414000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:11:49.122000	0:11:50.363000
 .	-	-	-	0:11:49.122000	0:11:50.363000
@@ -3211,7 +3211,7 @@ Raggal	-	-	-	0:11:51.881000	0:11:56.534000
 ?	-	-	-	0:11:51.881000	0:11:56.534000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:56.534000" end="0:12:01.384000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:56.534000" end="0:12:01.384000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 bissle	-	-	-	0:11:58.414000	0:11:59.169000
 gemischt	-	-	-	0:11:58.414000	0:11:59.169000
@@ -3230,11 +3230,11 @@ halten	-	-	-	0:11:59.169000	0:12:01.384000
 wird	-	-	-	0:11:59.169000	0:12:01.384000
 .	-	-	-	0:11:59.169000	0:12:01.384000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:01.384000" end="0:12:02.091000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:01.384000" end="0:12:02.091000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:01.384000	0:12:02.091000
 .	-	-	-	0:12:01.384000	0:12:02.091000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:01.384000" end="0:12:05.368000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:01.384000" end="0:12:05.368000" project="PP03" age_lower="18" age_upper="35">
 durch	-	-	-	0:12:01.384000	0:12:02.091000
 das	-	-	-	0:12:01.384000	0:12:02.091000
 ,	-	-	-	0:12:01.384000	0:12:02.091000
@@ -3249,11 +3249,11 @@ zu	-	-	-	0:12:03.507000	0:12:05.368000
 Ludesch	-	-	-	0:12:03.507000	0:12:05.368000
 sind	-	-	-	0:12:03.507000	0:12:05.368000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:05.368000" end="0:12:05.933000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:05.368000" end="0:12:05.933000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:05.368000	0:12:05.933000
 .	-	-	-	0:12:05.368000	0:12:05.933000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:05.933000" end="0:12:12.446000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:05.933000" end="0:12:12.446000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:12:05.933000	0:12:08.733000
 immer	-	-	-	0:12:05.933000	0:12:08.733000
 mehr	-	-	-	0:12:05.933000	0:12:08.733000
@@ -3276,11 +3276,11 @@ Dialekte	-	-	-	0:12:09.939000	0:12:12.446000
 ins	-	-	-	0:12:09.939000	0:12:12.446000
 Walsertal	-	-	-	0:12:09.939000	0:12:12.446000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:12.446000" end="0:12:13.108000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:12.446000" end="0:12:13.108000" age_lower="1" age_upper="999">
 okay	-	-	-	0:12:12.446000	0:12:13.108000
 .	-	-	-	0:12:12.446000	0:12:13.108000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:12.446000" end="0:12:19.569000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:12.446000" end="0:12:19.569000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:12:12.446000	0:12:13.108000
 Raggal	-	-	-	0:12:13.108000	0:12:16.684000
 ist	-	-	-	0:12:13.108000	0:12:16.684000
@@ -3310,11 +3310,11 @@ sich	-	-	-	0:12:17.236000	0:12:19.569000
 (hält)	-	-	-	0:12:17.236000	0:12:19.569000
 .	-	-	-	0:12:17.236000	0:12:19.569000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:19.569000" end="0:12:20.097000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:19.569000" end="0:12:20.097000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:19.569000	0:12:20.097000
 .	-	-	-	0:12:19.569000	0:12:20.097000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:20.097000" end="0:12:24.799000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:20.097000" end="0:12:24.799000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:12:20.097000	0:12:21.131000
 Fontanella	-	-	-	0:12:20.097000	0:12:21.131000
 täte	-	-	-	0:12:20.097000	0:12:21.131000
@@ -3342,14 +3342,14 @@ im	-	-	-	0:12:22.988000	0:12:24.799000
 Tal	-	-	-	0:12:22.988000	0:12:24.799000
 .	-	-	-	0:12:22.988000	0:12:24.799000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:24.799000" end="0:12:26.967000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:24.799000" end="0:12:26.967000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:24.799000	0:12:26.157000
 ,	-	-	-	0:12:24.799000	0:12:26.157000
 okay	-	-	-	0:12:24.799000	0:12:26.157000
 .	-	-	-	0:12:24.799000	0:12:26.157000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:26.157000" end="0:12:29.028000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:26.157000" end="0:12:29.028000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ich	-	-	-	0:12:26.967000	0:12:29.028000
 bin	-	-	-	0:12:26.967000	0:12:29.028000
@@ -3365,7 +3365,7 @@ noch	-	-	-	0:12:26.967000	0:12:29.028000
 (hält)	-	-	-	0:12:26.967000	0:12:29.028000
 .	-	-	-	0:12:26.967000	0:12:29.028000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:29.028000" end="0:12:33.668000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:29.028000" end="0:12:33.668000" age_lower="1" age_upper="999">
 okay	-	-	-	0:12:29.028000	0:12:30.610000
 ,	-	-	-	0:12:29.028000	0:12:30.610000
 mhm	-	-	-	0:12:29.028000	0:12:30.610000
@@ -3377,10 +3377,10 @@ ja	-	-	-	0:12:29.028000	0:12:30.610000
 ,	-	-	-	0:12:30.610000	0:12:32.150000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:32.150000" end="0:12:33.668000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:32.150000" end="0:12:33.668000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:33.668000" end="0:12:39.747000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:33.668000" end="0:12:39.747000" age_lower="1" age_upper="999">
 würden	-	-	-	0:12:33.668000	0:12:35.406000
 Sie	-	-	-	0:12:33.668000	0:12:35.406000
 sagen	-	-	-	0:12:33.668000	0:12:35.406000
@@ -3411,11 +3411,11 @@ gemeint	-	-	-	0:12:39.088000	0:12:39.747000
 haben	-	-	-	0:12:39.088000	0:12:39.747000
 /.	-	-	-	0:12:39.088000	0:12:39.747000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:39.088000" end="0:12:39.747000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:39.088000" end="0:12:39.747000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:12:39.088000	0:12:39.747000
 .	-	-	-	0:12:39.088000	0:12:39.747000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:39.747000" end="0:12:41.930000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:39.747000" end="0:12:41.930000" age_lower="1" age_upper="999">
 nein	-	-	-	0:12:39.747000	0:12:41.930000
 ,	-	-	-	0:12:39.747000	0:12:41.930000
 ist	-	-	-	0:12:39.747000	0:12:41.930000
@@ -3426,7 +3426,7 @@ anderen	-	-	-	0:12:39.747000	0:12:41.930000
 Orten	-	-	-	0:12:39.747000	0:12:41.930000
 /?	-	-	-	0:12:39.747000	0:12:41.930000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:41.930000" end="0:12:45.139000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:41.930000" end="0:12:45.139000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:12:41.930000	0:12:45.139000
 man	-	-	-	0:12:41.930000	0:12:45.139000
 merkt	-	-	-	0:12:41.930000	0:12:45.139000
@@ -3444,11 +3444,11 @@ ist	-	-	-	0:12:41.930000	0:12:45.139000
 es	-	-	-	0:12:41.930000	0:12:45.139000
 ,	-	-	-	0:12:41.930000	0:12:45.139000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:45.139000" end="0:12:45.631000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:45.139000" end="0:12:45.631000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:45.139000	0:12:45.631000
 .	-	-	-	0:12:45.139000	0:12:45.631000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:45.631000" end="0:12:48.777000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:45.631000" end="0:12:48.777000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:12:45.631000	0:12:48.777000
 durch	-	-	-	0:12:45.631000	0:12:48.777000
 dass	-	-	-	0:12:45.631000	0:12:48.777000
@@ -3460,11 +3460,11 @@ oder	-	-	-	0:12:45.631000	0:12:48.777000
 in	-	-	-	0:12:45.631000	0:12:48.777000
 ,	-	-	-	0:12:45.631000	0:12:48.777000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:48.777000" end="0:12:49.122000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:48.777000" end="0:12:49.122000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:48.777000	0:12:49.122000
 .	-	-	-	0:12:48.777000	0:12:49.122000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:48.777000" end="0:12:54.565000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:48.777000" end="0:12:54.565000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:12:48.777000	0:12:49.122000
 Bludenz	-	-	-	0:12:49.122000	0:12:50.640000
 oder	-	-	-	0:12:49.122000	0:12:50.640000
@@ -3488,11 +3488,11 @@ dem	-	-	-	0:12:53.170000	0:12:54.565000
 an	-	-	-	0:12:53.170000	0:12:54.565000
 ,	-	-	-	0:12:53.170000	0:12:54.565000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:54.565000" end="0:12:55.053000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:54.565000" end="0:12:55.053000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:54.565000	0:12:55.053000
 .	-	-	-	0:12:54.565000	0:12:55.053000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:55.053000" end="0:13:01.878000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:55.053000" end="0:13:01.878000" project="PP03" age_lower="18" age_upper="35">
 können	-	-	-	0:12:55.053000	0:12:57.431000
 das	-	-	-	0:12:55.053000	0:12:57.431000
 richtige	-	-	-	0:12:55.053000	0:12:57.431000
@@ -3520,11 +3520,11 @@ Familien	-	-	-	0:13:00.820000	0:13:01.878000
 sind	-	-	-	0:13:00.820000	0:13:01.878000
 ,	-	-	-	0:13:00.820000	0:13:01.878000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:01.878000" end="0:13:02.350000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:01.878000" end="0:13:02.350000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:01.878000	0:13:02.350000
 .	-	-	-	0:13:01.878000	0:13:02.350000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:02.350000" end="0:13:06.355000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:02.350000" end="0:13:06.355000" project="PP03" age_lower="18" age_upper="35">
 sondern	-	-	-	0:13:02.350000	0:13:04.398000
 es	-	-	-	0:13:02.350000	0:13:04.398000
 kommen	-	-	-	0:13:02.350000	0:13:04.398000
@@ -3540,11 +3540,11 @@ Dialekte	-	-	-	0:13:04.398000	0:13:06.355000
 dazu	-	-	-	0:13:04.398000	0:13:06.355000
 .	-	-	-	0:13:04.398000	0:13:06.355000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:06.355000" end="0:13:07.029000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:06.355000" end="0:13:07.029000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:06.355000	0:13:07.029000
 .	-	-	-	0:13:06.355000	0:13:07.029000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:07.029000" end="0:13:15.297000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:07.029000" end="0:13:15.297000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 es	-	-	-	0:13:07.029000	0:13:09.107000
 ist	-	-	-	0:13:07.029000	0:13:09.107000
@@ -3579,11 +3579,11 @@ Ludesch	-	-	-	0:13:11.100000	0:13:15.297000
 grenzen	-	-	-	0:13:11.100000	0:13:15.297000
 ,	-	-	-	0:13:11.100000	0:13:15.297000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:15.297000" end="0:13:15.680000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:15.297000" end="0:13:15.680000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:15.297000	0:13:15.680000
 .	-	-	-	0:13:15.297000	0:13:15.680000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:15.680000" end="0:13:20.483000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:15.680000" end="0:13:20.483000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:13:15.680000	0:13:17.890000
 (Thüringerberg)	-	-	-	0:13:15.680000	0:13:17.890000
 oder	-	-	-	0:13:15.680000	0:13:17.890000
@@ -3603,7 +3603,7 @@ es	-	-	-	0:13:17.890000	0:13:20.483000
 überall	-	-	-	0:13:17.890000	0:13:20.483000
 .	-	-	-	0:13:17.890000	0:13:20.483000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:20.483000" end="0:13:21.915000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:20.483000" end="0:13:21.915000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:20.483000	0:13:21.915000
 ,	-	-	-	0:13:20.483000	0:13:21.915000
 ja	-	-	-	0:13:20.483000	0:13:21.915000
@@ -3611,7 +3611,7 @@ ja	-	-	-	0:13:20.483000	0:13:21.915000
 mhm	-	-	-	0:13:20.483000	0:13:21.915000
 .	-	-	-	0:13:20.483000	0:13:21.915000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:21.915000" end="0:13:23.359000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:21.915000" end="0:13:23.359000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 es	-	-	-	0:13:21.915000	0:13:22.779000
 ist	-	-	-	0:13:21.915000	0:13:22.779000
@@ -3619,7 +3619,7 @@ ist	-	-	-	0:13:21.915000	0:13:22.779000
 ja	-	-	-	0:13:22.779000	0:13:23.359000
 ,	-	-	-	0:13:22.779000	0:13:23.359000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:23.359000" end="0:13:25.703000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:23.359000" end="0:13:25.703000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:23.359000	0:13:25.703000
 ,	-	-	-	0:13:23.359000	0:13:25.703000
 ja	-	-	-	0:13:23.359000	0:13:25.703000
@@ -3627,7 +3627,7 @@ ja	-	-	-	0:13:23.359000	0:13:25.703000
 ja	-	-	-	0:13:23.359000	0:13:25.703000
 .	-	-	-	0:13:23.359000	0:13:25.703000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:23.359000" end="0:13:25.703000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:23.359000" end="0:13:25.703000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:13:23.359000	0:13:25.703000
 schade	-	-	-	0:13:23.359000	0:13:25.703000
 ,	-	-	-	0:13:23.359000	0:13:25.703000
@@ -3635,7 +3635,7 @@ aber	-	-	-	0:13:23.359000	0:13:25.703000
 verständlich	-	-	-	0:13:23.359000	0:13:25.703000
 .	-	-	-	0:13:23.359000	0:13:25.703000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:25.703000" end="0:13:35.382000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:25.703000" end="0:13:35.382000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:25.703000	0:13:27.460000
 ,	-	-	-	0:13:25.703000	0:13:27.460000
 <pause duration="0,7s"/>
@@ -3674,24 +3674,24 @@ es	-	-	-	0:13:34.082000	0:13:34.980000
 dort	-	-	-	0:13:34.980000	0:13:35.382000
 /?	-	-	-	0:13:34.980000	0:13:35.382000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:34.980000" end="0:13:35.970000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:34.980000" end="0:13:35.970000" project="PP03" age_lower="18" age_upper="35">
 ob	-	-	-	0:13:34.980000	0:13:35.382000
 sich	-	-	-	0:13:34.980000	0:13:35.382000
 die	-	-	-	0:13:35.382000	0:13:35.970000
 Dialekte	-	-	-	0:13:35.382000	0:13:35.970000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:35.970000" end="0:13:36.748000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:35.970000" end="0:13:36.748000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:35.970000	0:13:36.748000
 ,	-	-	-	0:13:35.970000	0:13:36.748000
 ob	-	-	-	0:13:35.970000	0:13:36.748000
 sich	-	-	-	0:13:35.970000	0:13:36.748000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:35.970000" end="0:13:36.748000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:35.970000" end="0:13:36.748000" project="PP03" age_lower="18" age_upper="35">
 halten	-	-	-	0:13:35.970000	0:13:36.748000
 werden	-	-	-	0:13:35.970000	0:13:36.748000
 ?	-	-	-	0:13:35.970000	0:13:36.748000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:36.748000" end="0:13:39.996000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:36.748000" end="0:13:39.996000" age_lower="1" age_upper="999">
 die	-	-	-	0:13:36.748000	0:13:38.748000
 ,	-	-	-	0:13:36.748000	0:13:38.748000
 weiß	-	-	-	0:13:36.748000	0:13:38.748000
@@ -3710,7 +3710,7 @@ verändern	-	-	-	0:13:38.748000	0:13:39.996000
 oder	-	-	-	0:13:38.748000	0:13:39.996000
 /?	-	-	-	0:13:38.748000	0:13:39.996000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:38.748000" end="0:13:42.686000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:38.748000" end="0:13:42.686000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:13:38.748000	0:13:39.996000
 denke	-	-	-	0:13:38.748000	0:13:39.996000
 ,	-	-	-	0:13:38.748000	0:13:39.996000
@@ -3722,28 +3722,28 @@ in	-	-	-	0:13:39.996000	0:13:42.686000
 Richtung	-	-	-	0:13:39.996000	0:13:42.686000
 Einheitsdialekt	-	-	-	0:13:39.996000	0:13:42.686000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:42.686000" end="0:13:43.372000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:42.686000" end="0:13:43.372000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:42.686000	0:13:43.372000
 .	-	-	-	0:13:42.686000	0:13:43.372000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:43.372000" end="0:13:44.121000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:43.372000" end="0:13:44.121000" project="PP03" age_lower="18" age_upper="35">
 wandern	-	-	-	0:13:43.372000	0:13:44.121000
 wird	-	-	-	0:13:43.372000	0:13:44.121000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:44.121000" end="0:13:44.757000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:44.121000" end="0:13:44.757000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:44.121000	0:13:44.757000
 .	-	-	-	0:13:44.121000	0:13:44.757000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:44.121000" end="0:13:45.135000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:44.121000" end="0:13:45.135000" project="PP03" age_lower="18" age_upper="35">
 vermutlich	-	-	-	0:13:44.121000	0:13:44.757000
 .	-	-	-	0:13:44.121000	0:13:44.757000
 also	-	-	-	0:13:44.757000	0:13:45.135000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:45.135000" end="0:13:46.036000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:45.135000" end="0:13:46.036000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:45.135000	0:13:46.036000
 .	-	-	-	0:13:45.135000	0:13:46.036000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:45.135000" end="0:13:50.872000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:45.135000" end="0:13:50.872000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 schon	-	-	-	0:13:45.135000	0:13:46.036000
 mit	-	-	-	0:13:45.135000	0:13:46.036000
@@ -3761,11 +3761,11 @@ Bludenz	-	-	-	0:13:49.486000	0:13:50.872000
 ein	-	-	-	0:13:49.486000	0:13:50.872000
 Dialekt	-	-	-	0:13:49.486000	0:13:50.872000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:50.872000" end="0:13:51.415000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:50.872000" end="0:13:51.415000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:50.872000	0:13:51.415000
 .	-	-	-	0:13:50.872000	0:13:51.415000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:50.872000" end="0:13:54.160000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:50.872000" end="0:13:54.160000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:13:50.872000	0:13:51.415000
 Raum	-	-	-	0:13:50.872000	0:13:51.415000
 Feldkirch	-	-	-	0:13:51.415000	0:13:52.366000
@@ -3782,7 +3782,7 @@ Richtung	-	-	-	0:13:52.366000	0:13:54.160000
 vielleicht	-	-	-	0:13:52.366000	0:13:54.160000
 .	-	-	-	0:13:52.366000	0:13:54.160000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:54.160000" end="0:13:55.945000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:54.160000" end="0:13:55.945000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:54.160000	0:13:55.329000
 ,	-	-	-	0:13:54.160000	0:13:55.329000
 ja	-	-	-	0:13:54.160000	0:13:55.329000
@@ -3790,7 +3790,7 @@ ja	-	-	-	0:13:54.160000	0:13:55.329000
 mhm	-	-	-	0:13:55.329000	0:13:55.945000
 .	-	-	-	0:13:55.329000	0:13:55.945000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:55.329000" end="0:14:00.736000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:55.329000" end="0:14:00.736000" project="PP03" age_lower="18" age_upper="35">
 durch	-	-	-	0:13:55.329000	0:13:55.945000
 das	-	-	-	0:13:55.329000	0:13:55.945000
 ,	-	-	-	0:13:55.329000	0:13:55.945000
@@ -3807,18 +3807,18 @@ Besuchen	-	-	-	0:13:58.136000	0:14:00.736000
 und	-	-	-	0:13:58.136000	0:14:00.736000
 ,	-	-	-	0:13:58.136000	0:14:00.736000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:00.736000" end="0:14:01.151000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:00.736000" end="0:14:01.151000" age_lower="1" age_upper="999">
 ja	-	-	-	0:14:00.736000	0:14:01.151000
 .	-	-	-	0:14:00.736000	0:14:01.151000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:01.151000" end="0:14:02.910000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:01.151000" end="0:14:02.910000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 mischt	-	-	-	0:14:01.151000	0:14:02.910000
 sich	-	-	-	0:14:01.151000	0:14:02.910000
 das	-	-	-	0:14:01.151000	0:14:02.910000
 .	-	-	-	0:14:01.151000	0:14:02.910000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:02.910000" end="0:14:04.112000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:02.910000" end="0:14:04.112000" age_lower="1" age_upper="999">
 ja	-	-	-	0:14:02.910000	0:14:04.112000
 ,	-	-	-	0:14:02.910000	0:14:04.112000
 ja	-	-	-	0:14:02.910000	0:14:04.112000
@@ -3826,11 +3826,11 @@ ja	-	-	-	0:14:02.910000	0:14:04.112000
 ja	-	-	-	0:14:02.910000	0:14:04.112000
 .	-	-	-	0:14:02.910000	0:14:04.112000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:02.910000" end="0:14:04.112000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:02.910000" end="0:14:04.112000" project="PP03" age_lower="18" age_upper="35">
 (also	-	-	-	0:14:02.910000	0:14:04.112000
 /.)	-	-	-	0:14:02.910000	0:14:04.112000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:04.112000" end="0:14:12.413000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:04.112000" end="0:14:12.413000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 genau	-	-	-	0:14:04.112000	0:14:05.349000
 .	-	-	-	0:14:04.112000	0:14:05.349000
@@ -3845,10 +3845,10 @@ gut	-	-	-	0:14:08.160000	0:14:09.883000
 .	-	-	-	0:14:09.883000	0:14:11.211000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:11.211000" end="0:14:12.413000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:11.211000" end="0:14:12.413000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:12.413000" end="0:14:23.709000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:12.413000" end="0:14:23.709000" age_lower="1" age_upper="999">
 jetzt	-	-	-	0:14:12.413000	0:14:13.491000
 ,	-	-	-	0:14:12.413000	0:14:13.491000
 also/	-	-	-	0:14:12.413000	0:14:13.491000
@@ -3884,7 +3884,7 @@ die	-	-	-	0:14:20.911000	0:14:23.709000
 sprechen	-	-	-	0:14:20.911000	0:14:23.709000
 ?	-	-	-	0:14:20.911000	0:14:23.709000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:23.709000" end="0:14:26.009000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:23.709000" end="0:14:26.009000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 also	-	-	-	0:14:23.709000	0:14:26.009000
 wir	-	-	-	0:14:23.709000	0:14:26.009000
@@ -3894,9 +3894,9 @@ Hochdeutsch	-	-	-	0:14:23.709000	0:14:26.009000
 nennen	-	-	-	0:14:23.709000	0:14:26.009000
 ,	-	-	-	0:14:23.709000	0:14:26.009000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:26.009000" end="0:14:28.345000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:26.009000" end="0:14:28.345000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:26.009000" end="0:14:28.345000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:26.009000" end="0:14:28.345000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:14:26.009000	0:14:28.345000
 es	-	-	-	0:14:26.009000	0:14:28.345000
 ist	-	-	-	0:14:26.009000	0:14:28.345000
@@ -3906,7 +3906,7 @@ Hochdeutsch	-	-	-	0:14:26.009000	0:14:28.345000
 wahrscheinlich	-	-	-	0:14:26.009000	0:14:28.345000
 .	-	-	-	0:14:26.009000	0:14:28.345000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:28.345000" end="0:14:32.370000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:28.345000" end="0:14:32.370000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 aber	-	-	-	0:14:28.345000	0:14:30.591000
 Sie	-	-	-	0:14:28.345000	0:14:30.591000
@@ -3921,7 +3921,7 @@ erste	-	-	-	0:14:30.591000	0:14:32.370000
 Hochdeutsch	-	-	-	0:14:30.591000	0:14:32.370000
 ,	-	-	-	0:14:30.591000	0:14:32.370000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:30.591000" end="0:14:32.370000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:30.591000" end="0:14:32.370000" project="PP03" age_lower="18" age_upper="35">
 für	-	-	-	0:14:30.591000	0:14:32.370000
 uns	-	-	-	0:14:30.591000	0:14:32.370000
 ist	-	-	-	0:14:30.591000	0:14:32.370000
@@ -3929,17 +3929,17 @@ es	-	-	-	0:14:30.591000	0:14:32.370000
 Hochdeutsch	-	-	-	0:14:30.591000	0:14:32.370000
 .	-	-	-	0:14:30.591000	0:14:32.370000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:32.370000" end="0:14:36.776000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:32.370000" end="0:14:36.776000" age_lower="1" age_upper="999">
 okay	-	-	-	0:14:32.370000	0:14:33.531000
 ,	-	-	-	0:14:32.370000	0:14:33.531000
 mhm	-	-	-	0:14:32.370000	0:14:33.531000
 .	-	-	-	0:14:32.370000	0:14:33.531000
 <pause duration="3,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:33.531000" end="0:14:36.776000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:33.531000" end="0:14:36.776000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:36.776000" end="0:14:41.971000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:36.776000" end="0:14:41.971000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:14:36.776000	0:14:37.290000
 ,	-	-	-	0:14:36.776000	0:14:37.290000
 fallen	-	-	-	0:14:37.290000	0:14:40.053000
@@ -3955,7 +3955,7 @@ Hochdeutsch	-	-	-	0:14:40.053000	0:14:41.971000
 spricht	-	-	-	0:14:40.053000	0:14:41.971000
 ?	-	-	-	0:14:40.053000	0:14:41.971000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:41.971000" end="0:14:45.859000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:41.971000" end="0:14:45.859000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	-	-	-	0:14:41.971000	0:14:43.591000
 ,	-	-	-	0:14:41.971000	0:14:43.591000
@@ -3966,11 +3966,11 @@ Deutschland	-	-	-	0:14:43.591000	0:14:45.859000
 ,	-	-	-	0:14:43.591000	0:14:45.859000
 also	-	-	-	0:14:43.591000	0:14:45.859000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:45.859000" end="0:14:46.363000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:45.859000" end="0:14:46.363000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:45.859000	0:14:46.363000
 .	-	-	-	0:14:45.859000	0:14:46.363000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:46.363000" end="0:14:48.040000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:46.363000" end="0:14:48.040000" project="PP03" age_lower="18" age_upper="35">
 vor	-	-	-	0:14:46.363000	0:14:48.040000
 allem	-	-	-	0:14:46.363000	0:14:48.040000
 dann	-	-	-	0:14:46.363000	0:14:48.040000
@@ -3981,11 +3981,11 @@ sich	-	-	-	0:14:46.363000	0:14:48.040000
 bemühen	-	-	-	0:14:46.363000	0:14:48.040000
 .	-	-	-	0:14:46.363000	0:14:48.040000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:48.040000" end="0:14:48.552000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:48.040000" end="0:14:48.552000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:48.040000	0:14:48.552000
 .	-	-	-	0:14:48.040000	0:14:48.552000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:48.552000" end="0:14:50.779000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:48.552000" end="0:14:50.779000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:14:48.552000	0:14:50.779000
 da	-	-	-	0:14:48.552000	0:14:50.779000
 gibt	-	-	-	0:14:48.552000	0:14:50.779000
@@ -3996,12 +3996,12 @@ einzelne	-	-	-	0:14:48.552000	0:14:50.779000
 Dialekte	-	-	-	0:14:48.552000	0:14:50.779000
 .	-	-	-	0:14:48.552000	0:14:50.779000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:50.779000" end="0:14:52.515000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:50.779000" end="0:14:52.515000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:50.779000	0:14:51.520000
 .	-	-	-	0:14:50.779000	0:14:51.520000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:51.520000" end="0:15:00.295000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:51.520000" end="0:15:00.295000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 sonst	-	-	-	0:14:52.515000	0:14:55.765000
 ,	-	-	-	0:14:52.515000	0:14:55.765000
@@ -4032,11 +4032,11 @@ machen	-	-	-	0:14:57.730000	0:15:00.295000
 muss	-	-	-	0:14:57.730000	0:15:00.295000
 .	-	-	-	0:14:57.730000	0:15:00.295000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:00.295000" end="0:15:00.741000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:00.295000" end="0:15:00.741000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:00.295000	0:15:00.741000
 .	-	-	-	0:15:00.295000	0:15:00.741000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:00.741000" end="0:15:03.462000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:00.741000" end="0:15:03.462000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:15:00.741000	0:15:02.389000
 gibt	-	-	-	0:15:00.741000	0:15:02.389000
 es	-	-	-	0:15:00.741000	0:15:02.389000
@@ -4050,7 +4050,7 @@ Hochdeutsch	-	-	-	0:15:02.389000	0:15:03.462000
 reden	-	-	-	0:15:02.389000	0:15:03.462000
 .	-	-	-	0:15:02.389000	0:15:03.462000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:03.462000" end="0:15:06.036000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:03.462000" end="0:15:06.036000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:03.462000	0:15:05.487000
 ,	-	-	-	0:15:03.462000	0:15:05.487000
 w/	-	-	-	0:15:03.462000	0:15:05.487000
@@ -4059,16 +4059,16 @@ zum	-	-	-	0:15:03.462000	0:15:05.487000
 Beispiel	-	-	-	0:15:03.462000	0:15:05.487000
 ?	-	-	-	0:15:03.462000	0:15:05.487000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:06.036000" end="0:15:06.966000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:06.036000" end="0:15:06.966000" project="PP03" age_lower="18" age_upper="35">
 Politiker	-	-	-	0:15:06.036000	0:15:06.966000
 .	-	-	-	0:15:06.036000	0:15:06.966000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:06.966000" end="0:15:08.980000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:06.966000" end="0:15:08.980000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:06.966000	0:15:07.447000
 .	-	-	-	0:15:06.966000	0:15:07.447000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:07.447000" end="0:15:11.845000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:07.447000" end="0:15:11.845000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ähm	-	-	-	0:15:08.980000	0:15:11.845000
 ,	-	-	-	0:15:08.980000	0:15:11.845000
@@ -4079,32 +4079,32 @@ immer	-	-	-	0:15:08.980000	0:15:11.845000
 wieder	-	-	-	0:15:08.980000	0:15:11.845000
 ,	-	-	-	0:15:08.980000	0:15:11.845000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:11.845000" end="0:15:12.416000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:11.845000" end="0:15:12.416000" age_lower="1" age_upper="999">
 aha	-	-	-	0:15:11.845000	0:15:12.416000
 .	-	-	-	0:15:11.845000	0:15:12.416000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:12.416000" end="0:15:13.869000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:12.416000" end="0:15:13.869000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:15:12.416000	0:15:13.869000
 wir	-	-	-	0:15:12.416000	0:15:13.869000
 so	-	-	-	0:15:12.416000	0:15:13.869000
 Bildung/	-	-	-	0:15:12.416000	0:15:13.869000
 ,	-	-	-	0:15:12.416000	0:15:13.869000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:13.869000" end="0:15:14.520000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:13.869000" end="0:15:14.520000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:13.869000	0:15:14.520000
 .	-	-	-	0:15:13.869000	0:15:14.520000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:14.520000" end="0:15:16.134000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:14.520000" end="0:15:16.134000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:15:14.520000	0:15:16.134000
 Bildungseinheiten	-	-	-	0:15:14.520000	0:15:16.134000
 machen	-	-	-	0:15:14.520000	0:15:16.134000
 .	-	-	-	0:15:14.520000	0:15:16.134000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:16.134000" end="0:15:16.640000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:16.134000" end="0:15:16.640000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:16.134000	0:15:16.640000
 .	-	-	-	0:15:16.134000	0:15:16.640000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:16.640000" end="0:15:18.132000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:16.640000" end="0:15:18.132000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 in	-	-	-	0:15:16.640000	0:15:18.132000
 der	-	-	-	0:15:16.640000	0:15:18.132000
@@ -4112,19 +4112,19 @@ Schule	-	-	-	0:15:16.640000	0:15:18.132000
 Lehrer	-	-	-	0:15:16.640000	0:15:18.132000
 .	-	-	-	0:15:16.640000	0:15:18.132000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:18.132000" end="0:15:19.499000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:18.132000" end="0:15:19.499000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:18.132000	0:15:19.499000
 ,	-	-	-	0:15:18.132000	0:15:19.499000
 <pause duration="0,6s"/>
 mhm	-	-	-	0:15:18.132000	0:15:19.499000
 .	-	-	-	0:15:18.132000	0:15:19.499000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:19.499000" end="0:15:21.025000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:19.499000" end="0:15:21.025000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 so	-	-	-	0:15:19.499000	0:15:21.025000
 .	-	-	-	0:15:19.499000	0:15:21.025000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:21.025000" end="0:15:32.975000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:21.025000" end="0:15:32.975000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:21.025000	0:15:22.367000
 ,	-	-	-	0:15:21.025000	0:15:22.367000
 <pause duration="0,4s"/>
@@ -4154,11 +4154,11 @@ ist	-	-	-	0:15:26.688000	0:15:32.204000
 das	-	-	-	0:15:32.204000	0:15:32.975000
 /.	-	-	-	0:15:32.204000	0:15:32.975000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:32.204000" end="0:15:32.975000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:32.204000" end="0:15:32.975000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:32.204000	0:15:32.975000
 .	-	-	-	0:15:32.204000	0:15:32.975000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:32.975000" end="0:15:34.522000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:32.975000" end="0:15:34.522000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:32.975000	0:15:34.522000
 ,	-	-	-	0:15:32.975000	0:15:34.522000
 mhm	-	-	-	0:15:32.975000	0:15:34.522000
@@ -4166,7 +4166,7 @@ mhm	-	-	-	0:15:32.975000	0:15:34.522000
 warum	-	-	-	0:15:32.975000	0:15:34.522000
 ?	-	-	-	0:15:32.975000	0:15:34.522000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:34.522000" end="0:15:40.310000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:34.522000" end="0:15:40.310000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:15:34.522000	0:15:39.026000
 so	-	-	-	0:15:34.522000	0:15:39.026000
 alle	-	-	-	0:15:34.522000	0:15:39.026000
@@ -4188,27 +4188,27 @@ also	-	-	-	0:15:34.522000	0:15:39.026000
 verfolgen	-	-	-	0:15:39.026000	0:15:40.310000
 und	-	-	-	0:15:39.026000	0:15:40.310000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:40.310000" end="0:15:40.871000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:40.310000" end="0:15:40.871000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:40.310000	0:15:40.871000
 .	-	-	-	0:15:40.310000	0:15:40.871000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:40.310000" end="0:15:40.871000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:40.310000" end="0:15:40.871000" project="PP03" age_lower="18" age_upper="35">
 verstehen	-	-	-	0:15:40.310000	0:15:40.871000
 .	-	-	-	0:15:40.310000	0:15:40.871000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:40.871000" end="0:15:42.305000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:40.871000" end="0:15:42.305000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:40.871000	0:15:41.474000
 .	-	-	-	0:15:40.871000	0:15:41.474000
 okay	-	-	-	0:15:41.474000	0:15:42.305000
 .	-	-	-	0:15:41.474000	0:15:42.305000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:41.474000" end="0:15:42.305000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:41.474000" end="0:15:42.305000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:15:41.474000	0:15:42.305000
 wenn	-	-	-	0:15:41.474000	0:15:42.305000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:42.305000" end="0:15:44.091000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:42.305000" end="0:15:44.091000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:42.305000" end="0:15:44.091000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:42.305000" end="0:15:44.091000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:15:42.305000	0:15:44.091000
 ein	-	-	-	0:15:42.305000	0:15:44.091000
 Walser	-	-	-	0:15:42.305000	0:15:44.091000
@@ -4221,7 +4221,7 @@ schon	-	-	-	0:15:42.305000	0:15:44.091000
 schwierig	-	-	-	0:15:42.305000	0:15:44.091000
 .	-	-	-	0:15:42.305000	0:15:44.091000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:44.091000" end="0:16:01.323000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:44.091000" end="0:16:01.323000" age_lower="1" age_upper="999">
 ich	-	-	-	0:15:44.091000	0:15:45.355000
 glaube	-	-	-	0:15:44.091000	0:15:45.355000
 auch	-	-	-	0:15:44.091000	0:15:45.355000
@@ -4254,7 +4254,7 @@ Hochdeutsch	-	-	-	0:15:51.175000	0:15:55.627000
 ?	-	-	-	0:15:51.175000	0:15:55.627000
 <pause duration="2,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:59.104000" end="0:16:02.442000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:59.104000" end="0:16:02.442000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 also	-	-	-	0:16:01.323000	0:16:02.442000
 ich	-	-	-	0:16:01.323000	0:16:02.442000
@@ -4264,14 +4264,14 @@ sagen	-	-	-	0:16:01.323000	0:16:02.442000
 da	-	-	-	0:16:01.323000	0:16:02.442000
 .	-	-	-	0:16:01.323000	0:16:02.442000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:02.442000" end="0:16:04.227000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:02.442000" end="0:16:04.227000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 okay	-	-	-	0:16:02.442000	0:16:03.576000
 ,	-	-	-	0:16:02.442000	0:16:03.576000
 mhm	-	-	-	0:16:03.576000	0:16:04.227000
 .	-	-	-	0:16:03.576000	0:16:04.227000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:03.576000" end="0:16:05.399000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:03.576000" end="0:16:05.399000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:16:03.576000	0:16:04.227000
 beherrsche	-	-	-	0:16:03.576000	0:16:04.227000
 es	-	-	-	0:16:04.227000	0:16:05.399000
@@ -4280,13 +4280,13 @@ aber	-	-	-	0:16:04.227000	0:16:05.399000
 nicht	-	-	-	0:16:04.227000	0:16:05.399000
 perfekt	-	-	-	0:16:04.227000	0:16:05.399000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:05.399000" end="0:16:06.301000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:05.399000" end="0:16:06.301000" age_lower="1" age_upper="999">
 okay	-	-	-	0:16:05.399000	0:16:06.301000
 ,	-	-	-	0:16:05.399000	0:16:06.301000
 ja	-	-	-	0:16:05.399000	0:16:06.301000
 .	-	-	-	0:16:05.399000	0:16:06.301000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:05.399000" end="0:16:10.638000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:05.399000" end="0:16:10.638000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:16:05.399000	0:16:06.301000
 es	-	-	-	0:16:05.399000	0:16:06.301000
 kommt	-	-	-	0:16:05.399000	0:16:06.301000
@@ -4311,7 +4311,7 @@ Maß	-	-	-	0:16:08.733000	0:16:10.638000
 ist	-	-	-	0:16:08.733000	0:16:10.638000
 .	-	-	-	0:16:08.733000	0:16:10.638000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:10.638000" end="0:16:21.167000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:10.638000" end="0:16:21.167000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:10.638000	0:16:11.595000
 ,	-	-	-	0:16:10.638000	0:16:11.595000
 ja	-	-	-	0:16:10.638000	0:16:11.595000
@@ -4341,7 +4341,7 @@ Fernsehsprechern	-	-	-	0:16:16.557000	0:16:21.167000
 sehen	-	-	-	0:16:16.557000	0:16:21.167000
 ?	-	-	-	0:16:16.557000	0:16:21.167000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:21.167000" end="0:16:24.182000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:21.167000" end="0:16:24.182000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ganz	-	-	-	0:16:21.167000	0:16:24.182000
 oft	-	-	-	0:16:21.167000	0:16:24.182000
@@ -4352,11 +4352,11 @@ die	-	-	-	0:16:21.167000	0:16:24.182000
 Wortwahl	-	-	-	0:16:21.167000	0:16:24.182000
 .	-	-	-	0:16:21.167000	0:16:24.182000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:24.182000" end="0:16:24.687000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:24.182000" end="0:16:24.687000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:24.182000	0:16:24.687000
 .	-	-	-	0:16:24.182000	0:16:24.687000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:24.687000" end="0:16:29.683000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:24.687000" end="0:16:29.683000" project="PP03" age_lower="18" age_upper="35">
 mir	-	-	-	0:16:24.687000	0:16:26.687000
 fehlen	-	-	-	0:16:24.687000	0:16:26.687000
 ganz	-	-	-	0:16:24.687000	0:16:26.687000
@@ -4374,11 +4374,11 @@ jetzt	-	-	-	0:16:26.687000	0:16:29.683000
 einmal	-	-	-	0:16:26.687000	0:16:29.683000
 ,	-	-	-	0:16:26.687000	0:16:29.683000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:29.683000" end="0:16:30.281000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:29.683000" end="0:16:30.281000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:29.683000	0:16:30.281000
 .	-	-	-	0:16:29.683000	0:16:30.281000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:30.281000" end="0:16:37.380000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:30.281000" end="0:16:37.380000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:16:30.281000	0:16:33.137000
 ich	-	-	-	0:16:30.281000	0:16:33.137000
 jetzt	-	-	-	0:16:30.281000	0:16:33.137000
@@ -4398,11 +4398,11 @@ Aussprache	-	-	-	0:16:34.979000	0:16:37.380000
 auch	-	-	-	0:16:34.979000	0:16:37.380000
 .	-	-	-	0:16:34.979000	0:16:37.380000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:37.380000" end="0:16:38.370000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:37.380000" end="0:16:38.370000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:37.380000	0:16:38.370000
 .	-	-	-	0:16:37.380000	0:16:38.370000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:37.380000" end="0:16:41.593000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:37.380000" end="0:16:41.593000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:16:37.380000	0:16:38.370000
 man	-	-	-	0:16:37.380000	0:16:38.370000
 hört	-	-	-	0:16:37.380000	0:16:38.370000
@@ -4417,18 +4417,18 @@ Walser	-	-	-	0:16:38.370000	0:16:41.593000
 bin	-	-	-	0:16:38.370000	0:16:41.593000
 ,	-	-	-	0:16:38.370000	0:16:41.593000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:41.593000" end="0:16:41.938000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:41.593000" end="0:16:41.938000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:41.593000	0:16:41.938000
 .	-	-	-	0:16:41.593000	0:16:41.938000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:41.593000" end="0:16:42.681000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:41.593000" end="0:16:42.681000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:16:41.593000	0:16:41.938000
 ich	-	-	-	0:16:41.593000	0:16:41.938000
 Hochdeutsch	-	-	-	0:16:41.938000	0:16:42.681000
 rede	-	-	-	0:16:41.938000	0:16:42.681000
 .	-	-	-	0:16:41.938000	0:16:42.681000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:42.681000" end="0:16:48.424000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:42.681000" end="0:16:48.424000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:42.681000	0:16:43.845000
 ,	-	-	-	0:16:42.681000	0:16:43.845000
 ja	-	-	-	0:16:42.681000	0:16:43.845000
@@ -4444,10 +4444,10 @@ mhm	-	-	-	0:16:43.845000	0:16:45.084000
 ,	-	-	-	0:16:45.084000	0:16:47.239000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:47.239000" end="0:16:48.424000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:47.239000" end="0:16:48.424000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:48.424000" end="0:16:59.273000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:48.424000" end="0:16:59.273000" age_lower="1" age_upper="999">
 würden	-	-	-	0:16:48.424000	0:16:50.617000
 Sie	-	-	-	0:16:48.424000	0:16:50.617000
 sagen	-	-	-	0:16:48.424000	0:16:50.617000
@@ -4480,10 +4480,10 @@ haben	-	-	-	0:16:54.064000	0:16:57.379000
 ,	-	-	-	0:16:57.379000	0:16:58.235000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:58.235000" end="0:16:59.273000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:58.235000" end="0:16:59.273000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:59.273000" end="0:17:06.057000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:59.273000" end="0:17:06.057000" age_lower="1" age_upper="999">
 fallen	-	-	-	0:16:59.273000	0:17:01.450000
 Ihnen	-	-	-	0:16:59.273000	0:17:01.450000
 da	-	-	-	0:16:59.273000	0:17:01.450000
@@ -4506,7 +4506,7 @@ den	-	-	-	0:17:01.450000	0:17:06.057000
 Nachrichtensprechern	-	-	-	0:17:01.450000	0:17:06.057000
 ?	-	-	-	0:17:01.450000	0:17:06.057000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:06.057000" end="0:17:10.846000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:06.057000" end="0:17:10.846000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	-	-	-	0:17:06.057000	0:17:07.439000
 ,	-	-	-	0:17:06.057000	0:17:07.439000
@@ -4526,13 +4526,13 @@ sie	-	-	-	0:17:07.439000	0:17:10.846000
 sind	-	-	-	0:17:07.439000	0:17:10.846000
 .	-	-	-	0:17:07.439000	0:17:10.846000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:10.846000" end="0:17:12.050000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:10.846000" end="0:17:12.050000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:10.846000	0:17:11.300000
 .	-	-	-	0:17:10.846000	0:17:11.300000
 mhm	-	-	-	0:17:11.300000	0:17:12.050000
 .	-	-	-	0:17:11.300000	0:17:12.050000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:11.300000" end="0:17:14.473000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:11.300000" end="0:17:14.473000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:17:11.300000	0:17:12.050000
 finde	-	-	-	0:17:11.300000	0:17:12.050000
 jetzt	-	-	-	0:17:11.300000	0:17:12.050000
@@ -4548,20 +4548,20 @@ ein	-	-	-	0:17:13.333000	0:17:14.473000
 Kärtner	-	-	-	0:17:13.333000	0:17:14.473000
 ist	-	-	-	0:17:13.333000	0:17:14.473000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:14.473000" end="0:17:15.075000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:14.473000" end="0:17:15.075000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:14.473000	0:17:15.075000
 .	-	-	-	0:17:14.473000	0:17:15.075000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:14.473000" end="0:17:15.075000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:14.473000" end="0:17:15.075000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:17:14.473000	0:17:15.075000
 nicht	-	-	-	0:17:14.473000	0:17:15.075000
 .	-	-	-	0:17:14.473000	0:17:15.075000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:15.075000" end="0:17:16.194000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:15.075000" end="0:17:16.194000" age_lower="1" age_upper="999">
 okay	-	-	-	0:17:15.075000	0:17:16.194000
 .	-	-	-	0:17:15.075000	0:17:16.194000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:15.075000" end="0:17:23.589000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:15.075000" end="0:17:23.589000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:17:15.075000	0:17:16.194000
 hört	-	-	-	0:17:15.075000	0:17:16.194000
 man	-	-	-	0:17:15.075000	0:17:16.194000
@@ -4606,11 +4606,11 @@ ja	-	-	-	0:17:22.435000	0:17:23.589000
 natürlich	-	-	-	0:17:22.435000	0:17:23.589000
 auch	-	-	-	0:17:22.435000	0:17:23.589000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:23.589000" end="0:17:24.143000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:23.589000" end="0:17:24.143000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:23.589000	0:17:24.143000
 .	-	-	-	0:17:23.589000	0:17:24.143000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:23.589000" end="0:17:25.969000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:23.589000" end="0:17:25.969000" project="PP03" age_lower="18" age_upper="35">
 Orte	-	-	-	0:17:23.589000	0:17:24.143000
 ,	-	-	-	0:17:23.589000	0:17:24.143000
 wo	-	-	-	0:17:24.143000	0:17:25.969000
@@ -4622,18 +4622,18 @@ Hocheutsch	-	-	-	0:17:24.143000	0:17:25.969000
 spricht	-	-	-	0:17:24.143000	0:17:25.969000
 .	-	-	-	0:17:24.143000	0:17:25.969000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:25.969000" end="0:17:28.310000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:25.969000" end="0:17:28.310000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:25.969000	0:17:26.521000
 .	-	-	-	0:17:25.969000	0:17:26.521000
 <pause duration="0,9s"/>
 okay	-	-	-	0:17:26.521000	0:17:28.310000
 .	-	-	-	0:17:26.521000	0:17:28.310000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:26.521000" end="0:17:28.310000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:26.521000" end="0:17:28.310000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 oder	-	-	-	0:17:26.521000	0:17:28.310000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:28.310000" end="0:17:36.867000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:28.310000" end="0:17:36.867000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 wie	-	-	-	0:17:28.310000	0:17:31.220000
 wü/	-	-	-	0:17:28.310000	0:17:31.220000
@@ -4657,7 +4657,7 @@ reiner	-	-	-	0:17:34.115000	0:17:36.867000
 Sprachform	-	-	-	0:17:34.115000	0:17:36.867000
 ?	-	-	-	0:17:34.115000	0:17:36.867000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:36.867000" end="0:17:40.010000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:36.867000" end="0:17:40.010000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 (mei)	-	-	-	0:17:36.867000	0:17:40.010000
 ,	-	-	-	0:17:36.867000	0:17:40.010000
@@ -4672,19 +4672,19 @@ das	-	-	-	0:17:36.867000	0:17:40.010000
 der	-	-	-	0:17:36.867000	0:17:40.010000
 Überbegriff	-	-	-	0:17:36.867000	0:17:40.010000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:40.010000" end="0:17:40.781000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:40.010000" end="0:17:40.781000" age_lower="1" age_upper="999">
 Deutsch	-	-	-	0:17:40.010000	0:17:40.781000
 ,	-	-	-	0:17:40.010000	0:17:40.781000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:40.010000" end="0:17:40.781000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:40.010000" end="0:17:40.781000" project="PP03" age_lower="18" age_upper="35">
 Hochdeutsch	-	-	-	0:17:40.010000	0:17:40.781000
 .	-	-	-	0:17:40.010000	0:17:40.781000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:40.781000" end="0:17:41.318000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:40.781000" end="0:17:41.318000" age_lower="1" age_upper="999">
 okay	-	-	-	0:17:40.781000	0:17:41.318000
 .	-	-	-	0:17:40.781000	0:17:41.318000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:41.318000" end="0:17:46.116000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:41.318000" end="0:17:46.116000" project="PP03" age_lower="18" age_upper="35">
 merken	-	-	-	0:17:41.318000	0:17:44.237000
 tut	-	-	-	0:17:41.318000	0:17:44.237000
 man	-	-	-	0:17:41.318000	0:17:44.237000
@@ -4704,22 +4704,22 @@ schöneres	-	-	-	0:17:44.237000	0:17:46.116000
 Hochdeutsch	-	-	-	0:17:44.237000	0:17:46.116000
 als	-	-	-	0:17:44.237000	0:17:46.116000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:46.116000" end="0:17:46.489000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:46.116000" end="0:17:46.489000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:46.116000	0:17:46.489000
 .	-	-	-	0:17:46.116000	0:17:46.489000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:46.116000" end="0:17:47.703000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:46.116000" end="0:17:47.703000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:17:46.116000	0:17:46.489000
 der	-	-	-	0:17:46.489000	0:17:47.703000
 normale	-	-	-	0:17:46.489000	0:17:47.703000
 Bürger	-	-	-	0:17:46.489000	0:17:47.703000
 ,	-	-	-	0:17:46.489000	0:17:47.703000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:47.703000" end="0:17:48.373000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:47.703000" end="0:17:48.373000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:47.703000	0:17:48.373000
 .	-	-	-	0:17:47.703000	0:17:48.373000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:48.373000" end="0:17:49.566000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:48.373000" end="0:17:49.566000" project="PP03" age_lower="18" age_upper="35">
 habe	-	-	-	0:17:48.373000	0:17:49.566000
 ich	-	-	-	0:17:48.373000	0:17:49.566000
 so	-	-	-	0:17:48.373000	0:17:49.566000
@@ -4727,11 +4727,11 @@ das	-	-	-	0:17:48.373000	0:17:49.566000
 Gefühl	-	-	-	0:17:48.373000	0:17:49.566000
 .	-	-	-	0:17:48.373000	0:17:49.566000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:49.566000" end="0:17:50.185000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:49.566000" end="0:17:50.185000" age_lower="1" age_upper="999">
 okay	-	-	-	0:17:49.566000	0:17:50.185000
 .	-	-	-	0:17:49.566000	0:17:50.185000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:50.185000" end="0:17:52.703000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:50.185000" end="0:17:52.703000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:17:50.185000	0:17:52.703000
 die	-	-	-	0:17:50.185000	0:17:52.703000
 die	-	-	-	0:17:50.185000	0:17:52.703000
@@ -4741,25 +4741,25 @@ andere	-	-	-	0:17:50.185000	0:17:52.703000
 ist	-	-	-	0:17:50.185000	0:17:52.703000
 wahrscheinlich	-	-	-	0:17:50.185000	0:17:52.703000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:52.703000" end="0:17:53.182000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:52.703000" end="0:17:53.182000" age_lower="1" age_upper="999">
 okay	-	-	-	0:17:52.703000	0:17:53.182000
 .	-	-	-	0:17:52.703000	0:17:53.182000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:53.182000" end="0:17:53.883000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:53.182000" end="0:17:53.883000" project="PP03" age_lower="18" age_upper="35">
 von	-	-	-	0:17:53.182000	0:17:53.883000
 der	-	-	-	0:17:53.182000	0:17:53.883000
 Sprache	-	-	-	0:17:53.182000	0:17:53.883000
 .	-	-	-	0:17:53.182000	0:17:53.883000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:53.883000" end="0:17:56.003000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:53.883000" end="0:17:56.003000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:53.883000	0:17:54.412000
 .	-	-	-	0:17:53.883000	0:17:54.412000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:54.412000" end="0:17:56.003000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:54.412000" end="0:17:56.003000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:56.003000" end="0:18:00.592000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:56.003000" end="0:18:00.592000" age_lower="1" age_upper="999">
 ist	-	-	-	0:17:56.003000	0:17:57.501000
 die	-	-	-	0:17:56.003000	0:17:57.501000
 Frage	-	-	-	0:17:56.003000	0:17:57.501000
@@ -4772,7 +4772,7 @@ nennen	-	-	-	0:17:56.003000	0:17:57.501000
 .	-	-	-	0:17:56.003000	0:17:57.501000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:59.501000" end="0:18:01.932000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:59.501000" end="0:18:01.932000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 also	-	-	-	0:18:00.592000	0:18:01.932000
 von	-	-	-	0:18:00.592000	0:18:01.932000
@@ -4782,7 +4782,7 @@ auch	-	-	-	0:18:00.592000	0:18:01.932000
 Hochdeutsch	-	-	-	0:18:00.592000	0:18:01.932000
 .	-	-	-	0:18:00.592000	0:18:01.932000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:01.932000" end="0:18:03.544000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:01.932000" end="0:18:03.544000" age_lower="1" age_upper="999">
 nennen	-	-	-	0:18:01.932000	0:18:03.544000
 wir	-	-	-	0:18:01.932000	0:18:03.544000
 es	-	-	-	0:18:01.932000	0:18:03.544000
@@ -4792,15 +4792,15 @@ okay	-	-	-	0:18:01.932000	0:18:03.544000
 mhm	-	-	-	0:18:01.932000	0:18:03.544000
 .	-	-	-	0:18:01.932000	0:18:03.544000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:01.932000" end="0:18:03.544000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:01.932000" end="0:18:03.544000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:03.544000" end="0:18:05.300000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:03.544000" end="0:18:05.300000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:03.544000" end="0:18:05.300000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:03.544000" end="0:18:05.300000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:05.300000" end="0:18:21.047000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:05.300000" end="0:18:21.047000" age_lower="1" age_upper="999">
 gut	-	-	-	0:18:05.300000	0:18:06.935000
 ,	-	-	-	0:18:05.300000	0:18:06.935000
 ähm	-	-	-	0:18:05.300000	0:18:06.935000
@@ -4845,25 +4845,25 @@ das	-	-	-	0:18:17.056000	0:18:19.684000
 beherrschen	-	-	-	0:18:17.056000	0:18:19.684000
 ?	-	-	-	0:18:17.056000	0:18:19.684000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:19.684000" end="0:18:21.804000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:19.684000" end="0:18:21.804000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:18:21.047000	0:18:21.804000
 gut	-	-	-	0:18:21.047000	0:18:21.804000
 wie	-	-	-	0:18:21.047000	0:18:21.804000
 gar	-	-	-	0:18:21.047000	0:18:21.804000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:21.804000" end="0:18:22.918000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:21.804000" end="0:18:22.918000" age_lower="1" age_upper="999">
 okay	-	-	-	0:18:21.804000	0:18:22.918000
 .	-	-	-	0:18:21.804000	0:18:22.918000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:21.804000" end="0:18:22.918000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:21.804000" end="0:18:22.918000" project="PP03" age_lower="18" age_upper="35">
 nicht	-	-	-	0:18:21.804000	0:18:22.918000
 .	-	-	-	0:18:21.804000	0:18:22.918000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:22.918000" end="0:18:23.857000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:22.918000" end="0:18:23.857000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:22.918000" end="0:18:23.857000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:22.918000" end="0:18:23.857000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:23.857000" end="0:18:42.267000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:23.857000" end="0:18:42.267000" age_lower="1" age_upper="999">
 gut	-	-	-	0:18:23.857000	0:18:25.310000
 ,	-	-	-	0:18:23.857000	0:18:25.310000
 ähm	-	-	-	0:18:23.857000	0:18:25.310000
@@ -4920,7 +4920,7 @@ also	-	-	-	0:18:40.609000	0:18:42.267000
 mhm	-	-	-	0:18:40.609000	0:18:42.267000
 .	-	-	-	0:18:40.609000	0:18:42.267000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:40.609000" end="0:18:42.267000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:40.609000" end="0:18:42.267000" project="PP03" age_lower="18" age_upper="35">
 ob	-	-	-	0:18:40.609000	0:18:42.267000
 es	-	-	-	0:18:40.609000	0:18:42.267000
 eine	-	-	-	0:18:40.609000	0:18:42.267000
@@ -4929,13 +4929,13 @@ Form	-	-	-	0:18:40.609000	0:18:42.267000
 gibt	-	-	-	0:18:40.609000	0:18:42.267000
 ?	-	-	-	0:18:40.609000	0:18:42.267000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:42.267000" end="0:18:43.213000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:42.267000" end="0:18:43.213000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 oder	-	-	-	0:18:42.267000	0:18:43.213000
 wa/	-	-	-	0:18:42.267000	0:18:43.213000
 /?	-	-	-	0:18:42.267000	0:18:43.213000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:42.267000" end="0:18:44.464000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:42.267000" end="0:18:44.464000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ich	-	-	-	0:18:42.267000	0:18:43.213000
 weiß	-	-	-	0:18:42.267000	0:18:43.213000
@@ -4947,7 +4947,7 @@ jemand	-	-	-	0:18:43.213000	0:18:44.464000
 spricht	-	-	-	0:18:43.213000	0:18:44.464000
 .	-	-	-	0:18:43.213000	0:18:44.464000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:44.464000" end="0:18:51.656000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:44.464000" end="0:18:51.656000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 ja	-	-	-	0:18:44.464000	0:18:48.198000
 ,	-	-	-	0:18:44.464000	0:18:48.198000
@@ -4975,7 +4975,7 @@ vorstellen	-	-	-	0:18:50.698000	0:18:51.656000
 können	-	-	-	0:18:50.698000	0:18:51.656000
 .	-	-	-	0:18:50.698000	0:18:51.656000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:50.698000" end="0:18:55.328000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:50.698000" end="0:18:55.328000" project="PP03" age_lower="18" age_upper="35">
 halt	-	-	-	0:18:50.698000	0:18:51.656000
 wenn	-	-	-	0:18:50.698000	0:18:51.656000
 ich	-	-	-	0:18:50.698000	0:18:51.656000
@@ -4997,12 +4997,12 @@ Hochdeutsch	-	-	-	0:18:52.829000	0:18:55.328000
 vorlese	-	-	-	0:18:52.829000	0:18:55.328000
 ,	-	-	-	0:18:52.829000	0:18:55.328000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:55.328000" end="0:18:58.162000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:55.328000" end="0:18:58.162000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:55.328000	0:18:55.911000
 .	-	-	-	0:18:55.328000	0:18:55.911000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:55.911000" end="0:19:01.044000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:55.911000" end="0:19:01.044000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ja	-	-	-	0:18:58.162000	0:19:01.044000
 ,	-	-	-	0:18:58.162000	0:19:01.044000
@@ -5015,11 +5015,11 @@ Hochdeutsche	-	-	-	0:18:58.162000	0:19:01.044000
 ,	-	-	-	0:18:58.162000	0:19:01.044000
 aber	-	-	-	0:18:58.162000	0:19:01.044000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:01.044000" end="0:19:01.688000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:01.044000" end="0:19:01.688000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:01.044000	0:19:01.688000
 .	-	-	-	0:19:01.044000	0:19:01.688000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:01.688000" end="0:19:04.332000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:01.688000" end="0:19:04.332000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 es	-	-	-	0:19:01.688000	0:19:04.332000
 schwingt	-	-	-	0:19:01.688000	0:19:04.332000
@@ -5029,13 +5029,13 @@ Dialekt	-	-	-	0:19:01.688000	0:19:04.332000
 mit	-	-	-	0:19:01.688000	0:19:04.332000
 .	-	-	-	0:19:01.688000	0:19:04.332000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:04.332000" end="0:19:05.578000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:04.332000" end="0:19:05.578000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:04.332000	0:19:04.896000
 ,	-	-	-	0:19:04.332000	0:19:04.896000
 ja	-	-	-	0:19:04.896000	0:19:05.578000
 .	-	-	-	0:19:04.896000	0:19:05.578000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:04.896000" end="0:19:06.584000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:04.896000" end="0:19:06.584000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:19:04.896000	0:19:05.578000
 weiß	-	-	-	0:19:04.896000	0:19:05.578000
 es	-	-	-	0:19:04.896000	0:19:05.578000
@@ -5047,7 +5047,7 @@ das	-	-	-	0:19:05.578000	0:19:06.584000
 gibt	-	-	-	0:19:05.578000	0:19:06.584000
 .	-	-	-	0:19:05.578000	0:19:06.584000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:06.584000" end="0:19:10.654000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:06.584000" end="0:19:10.654000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:06.584000	0:19:07.095000
 .	-	-	-	0:19:06.584000	0:19:07.095000
 <pause duration="0,7s"/>
@@ -5059,7 +5059,7 @@ eher	-	-	-	0:19:08.233000	0:19:10.654000
 nicht	-	-	-	0:19:08.233000	0:19:10.654000
 .	-	-	-	0:19:08.233000	0:19:10.654000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:08.233000" end="0:19:13.057000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:08.233000" end="0:19:13.057000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ich	-	-	-	0:19:08.233000	0:19:10.654000
 glaube	-	-	-	0:19:08.233000	0:19:10.654000
@@ -5075,7 +5075,7 @@ natürlich	-	-	-	0:19:10.654000	0:19:13.057000
 hineinfließt	-	-	-	0:19:10.654000	0:19:13.057000
 .	-	-	-	0:19:10.654000	0:19:13.057000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:13.057000" end="0:19:30.017000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:13.057000" end="0:19:30.017000" age_lower="1" age_upper="999">
 okay	-	-	-	0:19:13.057000	0:19:14.175000
 ,	-	-	-	0:19:13.057000	0:19:14.175000
 mhm	-	-	-	0:19:13.057000	0:19:14.175000
@@ -5123,10 +5123,10 @@ gut	-	-	-	0:19:25.668000	0:19:27.355000
 ,	-	-	-	0:19:25.668000	0:19:27.355000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:27.355000" end="0:19:30.017000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:27.355000" end="0:19:30.017000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:30.017000" end="0:19:42.099000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:30.017000" end="0:19:42.099000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:19:30.017000	0:19:30.724000
 ,	-	-	-	0:19:30.017000	0:19:30.724000
 wie	-	-	-	0:19:30.724000	0:19:34.145000
@@ -5163,17 +5163,17 @@ nennen	-	-	-	0:19:40.740000	0:19:42.099000
 könnte	-	-	-	0:19:40.740000	0:19:42.099000
 ?	-	-	-	0:19:40.740000	0:19:42.099000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:40.740000" end="0:19:43.216000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:40.740000" end="0:19:43.216000" project="PP03" age_lower="18" age_upper="35">
 normales	-	-	-	0:19:40.740000	0:19:42.099000
 Deutsch	-	-	-	0:19:42.099000	0:19:43.216000
 wahrscheinlich	-	-	-	0:19:42.099000	0:19:43.216000
 .	-	-	-	0:19:42.099000	0:19:43.216000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:43.216000" end="0:19:43.780000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:43.216000" end="0:19:43.780000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:43.216000	0:19:43.780000
 .	-	-	-	0:19:43.216000	0:19:43.780000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:43.780000" end="0:19:46.733000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:43.780000" end="0:19:46.733000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 also	-	-	-	0:19:43.780000	0:19:46.733000
 wenn	-	-	-	0:19:43.780000	0:19:46.733000
@@ -5182,11 +5182,11 @@ mich	-	-	-	0:19:43.780000	0:19:46.733000
 jetzt	-	-	-	0:19:43.780000	0:19:46.733000
 bemühe	-	-	-	0:19:43.780000	0:19:46.733000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:46.733000" end="0:19:47.275000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:46.733000" end="0:19:47.275000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:46.733000	0:19:47.275000
 .	-	-	-	0:19:46.733000	0:19:47.275000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:46.733000" end="0:19:48.805000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:46.733000" end="0:19:48.805000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:19:46.733000	0:19:47.275000
 <pause duration="0,6s"/>
 nach	-	-	-	0:19:47.275000	0:19:48.805000
@@ -5194,7 +5194,7 @@ der	-	-	-	0:19:47.275000	0:19:48.805000
 Schrift	-	-	-	0:19:47.275000	0:19:48.805000
 /.	-	-	-	0:19:47.275000	0:19:48.805000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:48.805000" end="0:19:55.971000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:48.805000" end="0:19:55.971000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:48.805000	0:19:50.503000
 ,	-	-	-	0:19:48.805000	0:19:50.503000
 okay	-	-	-	0:19:48.805000	0:19:50.503000
@@ -5203,10 +5203,10 @@ mhm	-	-	-	0:19:50.503000	0:19:51.214000
 .	-	-	-	0:19:50.503000	0:19:51.214000
 <pause duration="4,8s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:51.214000" end="0:19:55.971000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:51.214000" end="0:19:55.971000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:55.971000" end="0:20:05.289000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:55.971000" end="0:20:05.289000" age_lower="1" age_upper="999">
 so	-	-	-	0:19:55.971000	0:19:59.411000
 ,	-	-	-	0:19:55.971000	0:19:59.411000
 und	-	-	-	0:19:55.971000	0:19:59.411000
@@ -5230,10 +5230,10 @@ hin	-	-	-	0:19:59.411000	0:20:02.530000
 .	-	-	-	0:19:59.411000	0:20:02.530000
 <pause duration="2,8s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:02.530000" end="0:20:05.289000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:02.530000" end="0:20:05.289000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:05.289000" end="0:20:13.586000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:05.289000" end="0:20:13.586000" age_lower="1" age_upper="999">
 und	-	-	-	0:20:05.289000	0:20:09.803000
 hier	-	-	-	0:20:05.289000	0:20:09.803000
 kommt	-	-	-	0:20:05.289000	0:20:09.803000
@@ -5251,10 +5251,10 @@ okay	-	-	-	0:20:09.803000	0:20:10.407000
 ?	-	-	-	0:20:09.803000	0:20:10.407000
 <pause duration="3,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:10.407000" end="0:20:13.586000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:10.407000" end="0:20:13.586000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:13.586000" end="0:20:26.889000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:13.586000" end="0:20:26.889000" age_lower="1" age_upper="999">
 und	-	-	-	0:20:13.586000	0:20:15.510000
 ,	-	-	-	0:20:13.586000	0:20:15.510000
 ähm	-	-	-	0:20:13.586000	0:20:15.510000
@@ -5302,7 +5302,7 @@ einordnen	-	-	-	0:20:23.388000	0:20:26.889000
 würden	-	-	-	0:20:23.388000	0:20:26.889000
 ?	-	-	-	0:20:23.388000	0:20:26.889000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:26.889000" end="0:20:29.659000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:26.889000" end="0:20:29.659000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 also	-	-	-	0:20:26.889000	0:20:29.659000
 das	-	-	-	0:20:26.889000	0:20:29.659000
@@ -5312,7 +5312,7 @@ Schrift	-	-	-	0:20:26.889000	0:20:29.659000
 reden	-	-	-	0:20:26.889000	0:20:29.659000
 ?	-	-	-	0:20:26.889000	0:20:29.659000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:29.659000" end="0:20:32.115000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:29.659000" end="0:20:32.115000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:29.659000	0:20:30.553000
 ,	-	-	-	0:20:29.659000	0:20:30.553000
 also	-	-	-	0:20:29.659000	0:20:30.553000
@@ -5320,7 +5320,7 @@ w/	-	-	-	0:20:29.659000	0:20:30.553000
 sozusagen	-	-	-	0:20:30.553000	0:20:32.115000
 /.	-	-	-	0:20:30.553000	0:20:32.115000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:30.553000" end="0:20:32.115000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:30.553000" end="0:20:32.115000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:20:30.553000	0:20:32.115000
 eher	-	-	-	0:20:30.553000	0:20:32.115000
 da	-	-	-	0:20:30.553000	0:20:32.115000
@@ -5328,11 +5328,11 @@ da	-	-	-	0:20:30.553000	0:20:32.115000
 weil	-	-	-	0:20:30.553000	0:20:32.115000
 ,	-	-	-	0:20:30.553000	0:20:32.115000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:32.115000" end="0:20:32.899000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:32.115000" end="0:20:32.899000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:32.115000	0:20:32.899000
 .	-	-	-	0:20:32.115000	0:20:32.899000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:32.899000" end="0:20:35.590000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:32.899000" end="0:20:35.590000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 weil	-	-	-	0:20:32.899000	0:20:35.590000
 das	-	-	-	0:20:32.899000	0:20:35.590000
@@ -5343,7 +5343,7 @@ Wörter	-	-	-	0:20:32.899000	0:20:35.590000
 hat	-	-	-	0:20:32.899000	0:20:35.590000
 .	-	-	-	0:20:32.899000	0:20:35.590000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:35.590000" end="0:20:56.207000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:35.590000" end="0:20:56.207000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:35.590000	0:20:37.215000
 ,	-	-	-	0:20:35.590000	0:20:37.215000
 mhm	-	-	-	0:20:35.590000	0:20:37.215000
@@ -5398,17 +5398,17 @@ normale	-	-	-	0:20:54.284000	0:20:56.207000
 Deutsch	-	-	-	0:20:54.284000	0:20:56.207000
 ?	-	-	-	0:20:54.284000	0:20:56.207000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:54.284000" end="0:20:56.207000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:54.284000" end="0:20:56.207000" project="PP03" age_lower="18" age_upper="35">
 mittlerweile	-	-	-	0:20:54.284000	0:20:56.207000
 ganz	-	-	-	0:20:54.284000	0:20:56.207000
 wenig	-	-	-	0:20:54.284000	0:20:56.207000
 ,	-	-	-	0:20:54.284000	0:20:56.207000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:56.207000" end="0:20:56.826000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:56.207000" end="0:20:56.826000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:56.207000	0:20:56.826000
 .	-	-	-	0:20:56.207000	0:20:56.826000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:56.826000" end="0:21:00.277000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:56.826000" end="0:21:00.277000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:20:56.826000	0:21:00.277000
 ich	-	-	-	0:20:56.826000	0:21:00.277000
 einfach	-	-	-	0:20:56.826000	0:21:00.277000
@@ -5421,11 +5421,11 @@ erfüllen	-	-	-	0:20:56.826000	0:21:00.277000
 muss	-	-	-	0:20:56.826000	0:21:00.277000
 .	-	-	-	0:20:56.826000	0:21:00.277000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:00.277000" end="0:21:00.760000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:00.277000" end="0:21:00.760000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:00.277000	0:21:00.760000
 .	-	-	-	0:21:00.277000	0:21:00.760000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:00.760000" end="0:21:03.511000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:00.760000" end="0:21:03.511000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 wenn	-	-	-	0:21:00.760000	0:21:03.511000
 ich	-	-	-	0:21:00.760000	0:21:03.511000
@@ -5437,14 +5437,14 @@ vorlese	-	-	-	0:21:00.760000	0:21:03.511000
 vielleicht	-	-	-	0:21:00.760000	0:21:03.511000
 .	-	-	-	0:21:00.760000	0:21:03.511000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:03.511000" end="0:21:05.258000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:03.511000" end="0:21:05.258000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:03.511000	0:21:04.181000
 .	-	-	-	0:21:03.511000	0:21:04.181000
 <pause duration="0,6s"/>
 okay	-	-	-	0:21:04.181000	0:21:05.258000
 .	-	-	-	0:21:04.181000	0:21:05.258000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:05.258000" end="0:21:07.969000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:05.258000" end="0:21:07.969000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 sonst	-	-	-	0:21:05.258000	0:21:07.969000
 eigentlich	-	-	-	0:21:05.258000	0:21:07.969000
@@ -5454,7 +5454,7 @@ im	-	-	-	0:21:05.258000	0:21:07.969000
 Moment	-	-	-	0:21:05.258000	0:21:07.969000
 .	-	-	-	0:21:05.258000	0:21:07.969000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:07.969000" end="0:21:14.651000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:07.969000" end="0:21:14.651000" age_lower="1" age_upper="999">
 okay	-	-	-	0:21:07.969000	0:21:08.844000
 ,	-	-	-	0:21:07.969000	0:21:08.844000
 ja	-	-	-	0:21:07.969000	0:21:08.844000
@@ -5475,7 +5475,7 @@ und	-	-	-	0:21:08.844000	0:21:14.651000
 immer	-	-	-	0:21:08.844000	0:21:14.651000
 /.	-	-	-	0:21:08.844000	0:21:14.651000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:14.651000" end="0:21:17.066000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:14.651000" end="0:21:17.066000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 dann	-	-	-	0:21:14.651000	0:21:17.066000
 *is*	-	-	-	0:21:14.651000	0:21:17.066000
@@ -5483,7 +5483,7 @@ eher	-	-	-	0:21:14.651000	0:21:17.066000
 nie	-	-	-	0:21:14.651000	0:21:17.066000
 .	-	-	-	0:21:14.651000	0:21:17.066000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:17.066000" end="0:21:22.416000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:17.066000" end="0:21:22.416000" age_lower="1" age_upper="999">
 okay	-	-	-	0:21:17.066000	0:21:18.307000
 .	-	-	-	0:21:17.066000	0:21:18.307000
 okay	-	-	-	0:21:18.307000	0:21:19.465000
@@ -5493,18 +5493,18 @@ mhm	-	-	-	0:21:19.465000	0:21:20.633000
 .	-	-	-	0:21:19.465000	0:21:20.633000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:20.633000" end="0:21:22.416000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:20.633000" end="0:21:22.416000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:22.416000" end="0:21:24.513000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:22.416000" end="0:21:24.513000" age_lower="1" age_upper="999">
 gut	-	-	-	0:21:22.416000	0:21:23.101000
 .	-	-	-	0:21:22.416000	0:21:23.101000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:23.101000" end="0:21:24.513000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:23.101000" end="0:21:24.513000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:24.513000" end="0:21:29.380000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:24.513000" end="0:21:29.380000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:21:24.513000	0:21:26.083000
 ,	-	-	-	0:21:24.513000	0:21:26.083000
 ja	-	-	-	0:21:24.513000	0:21:26.083000
@@ -5531,11 +5531,11 @@ gemeint	-	-	-	0:21:28.154000	0:21:29.380000
 haben	-	-	-	0:21:28.154000	0:21:29.380000
 ,	-	-	-	0:21:28.154000	0:21:29.380000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:28.154000" end="0:21:29.380000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:28.154000" end="0:21:29.380000" project="PP03" age_lower="18" age_upper="35">
 entschuldigung	-	-	-	0:21:28.154000	0:21:29.380000
 .	-	-	-	0:21:28.154000	0:21:29.380000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:29.380000" end="0:21:35.989000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:29.380000" end="0:21:35.989000" age_lower="1" age_upper="999">
 sozusagen	-	-	-	0:21:29.380000	0:21:32.531000
 im	-	-	-	0:21:29.380000	0:21:32.531000
 Kindergarten	-	-	-	0:21:29.380000	0:21:32.531000
@@ -5567,11 +5567,11 @@ einmal	-	-	-	0:21:33.506000	0:21:35.989000
 zurück	-	-	-	0:21:33.506000	0:21:35.989000
 .	-	-	-	0:21:33.506000	0:21:35.989000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:33.506000" end="0:21:35.989000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:33.506000" end="0:21:35.989000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:33.506000	0:21:35.989000
 .	-	-	-	0:21:33.506000	0:21:35.989000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:35.989000" end="0:21:44.053000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:35.989000" end="0:21:44.053000" age_lower="1" age_upper="999">
 was	-	-	-	0:21:35.989000	0:21:36.876000
 würden	-	-	-	0:21:35.989000	0:21:36.876000
 Sie	-	-	-	0:21:35.989000	0:21:36.876000
@@ -5599,7 +5599,7 @@ am	-	-	-	0:21:42.556000	0:21:44.053000
 ehesten	-	-	-	0:21:42.556000	0:21:44.053000
 ?	-	-	-	0:21:42.556000	0:21:44.053000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:42.556000" end="0:21:45.866000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:42.556000" end="0:21:45.866000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:21:42.556000	0:21:44.053000
 ,	-	-	-	0:21:42.556000	0:21:44.053000
@@ -5611,11 +5611,11 @@ Bildungsarbeiten	-	-	-	0:21:44.053000	0:21:45.866000
 ,	-	-	-	0:21:44.053000	0:21:45.866000
 wenn	-	-	-	0:21:44.053000	0:21:45.866000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:45.866000" end="0:21:46.409000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:45.866000" end="0:21:46.409000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:45.866000	0:21:46.409000
 .	-	-	-	0:21:45.866000	0:21:46.409000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:45.866000" end="0:21:51.830000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:45.866000" end="0:21:51.830000" project="PP03" age_lower="18" age_upper="35">
 Bilderbücher	-	-	-	0:21:45.866000	0:21:46.409000
 vorgelesen	-	-	-	0:21:46.409000	0:21:47.572000
 werden	-	-	-	0:21:46.409000	0:21:47.572000
@@ -5634,11 +5634,11 @@ erteilt	-	-	-	0:21:47.572000	0:21:51.830000
 werden	-	-	-	0:21:47.572000	0:21:51.830000
 .	-	-	-	0:21:47.572000	0:21:51.830000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:51.830000" end="0:21:52.446000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:51.830000" end="0:21:52.446000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:51.830000	0:21:52.446000
 .	-	-	-	0:21:51.830000	0:21:52.446000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:52.446000" end="0:21:56.590000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:52.446000" end="0:21:56.590000" project="PP03" age_lower="18" age_upper="35">
 damit	-	-	-	0:21:52.446000	0:21:53.812000
 *Kinder*	-	-	-	0:21:52.446000	0:21:53.812000
 auch	-	-	-	0:21:52.446000	0:21:53.812000
@@ -5655,11 +5655,11 @@ Deutsche	-	-	-	0:21:53.812000	0:21:56.590000
 lernen	-	-	-	0:21:53.812000	0:21:56.590000
 .	-	-	-	0:21:53.812000	0:21:56.590000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:56.590000" end="0:21:57.127000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:56.590000" end="0:21:57.127000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:56.590000	0:21:57.127000
 .	-	-	-	0:21:56.590000	0:21:57.127000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:57.127000" end="0:22:00.311000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:57.127000" end="0:22:00.311000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:21:57.127000	0:21:58.790000
 oft	-	-	-	0:21:57.127000	0:21:58.790000
 sind	-	-	-	0:21:57.127000	0:21:58.790000
@@ -5673,7 +5673,7 @@ Sprache	-	-	-	0:21:58.790000	0:22:00.311000
 ändert	-	-	-	0:21:58.790000	0:22:00.311000
 .	-	-	-	0:21:58.790000	0:22:00.311000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:00.311000" end="0:22:02.689000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:00.311000" end="0:22:02.689000" age_lower="1" age_upper="999">
 ah	-	-	-	0:22:00.311000	0:22:00.938000
 ja	-	-	-	0:22:00.311000	0:22:00.938000
 ,	-	-	-	0:22:00.311000	0:22:00.938000
@@ -5683,14 +5683,14 @@ okay	-	-	-	0:22:00.938000	0:22:02.689000
 mhm	-	-	-	0:22:00.938000	0:22:02.689000
 .	-	-	-	0:22:00.938000	0:22:02.689000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:02.689000" end="0:22:04.382000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:02.689000" end="0:22:04.382000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 dann	-	-	-	0:22:02.689000	0:22:04.382000
 eigentlich	-	-	-	0:22:02.689000	0:22:04.382000
 hauptsächlich	-	-	-	0:22:02.689000	0:22:04.382000
 .	-	-	-	0:22:02.689000	0:22:04.382000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:04.382000" end="0:22:07.491000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:04.382000" end="0:22:07.491000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:04.382000	0:22:04.959000
 ,	-	-	-	0:22:04.382000	0:22:04.959000
 also	-	-	-	0:22:04.959000	0:22:06.256000
@@ -5700,11 +5700,11 @@ im	-	-	-	0:22:04.959000	0:22:06.256000
 Kindergartenkontext	-	-	-	0:22:06.256000	0:22:07.491000
 ,	-	-	-	0:22:06.256000	0:22:07.491000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:06.256000" end="0:22:07.491000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:06.256000" end="0:22:07.491000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:06.256000	0:22:07.491000
 .	-	-	-	0:22:06.256000	0:22:07.491000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:07.491000" end="0:22:25.685000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:07.491000" end="0:22:25.685000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:07.491000	0:22:08.828000
 ,	-	-	-	0:22:07.491000	0:22:08.828000
 gut	-	-	-	0:22:07.491000	0:22:08.828000
@@ -5764,15 +5764,15 @@ auch	-	-	-	0:22:22.917000	0:22:25.685000
 verlangt	-	-	-	0:22:22.917000	0:22:25.685000
 ?	-	-	-	0:22:22.917000	0:22:25.685000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:25.685000" end="0:22:27.056000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:25.685000" end="0:22:27.056000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:22:25.685000	0:22:27.056000
 ,	-	-	-	0:22:25.685000	0:22:27.056000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:25.685000" end="0:22:27.056000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:25.685000" end="0:22:27.056000" age_lower="1" age_upper="999">
 oder	-	-	-	0:22:25.685000	0:22:27.056000
 ?	-	-	-	0:22:25.685000	0:22:27.056000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:27.056000" end="0:22:31.139000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:27.056000" end="0:22:31.139000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:22:27.056000	0:22:28.790000
 ist	-	-	-	0:22:27.056000	0:22:28.790000
 nicht	-	-	-	0:22:27.056000	0:22:28.790000
@@ -5793,11 +5793,11 @@ nur	-	-	-	0:22:29.850000	0:22:31.139000
 so	-	-	-	0:22:29.850000	0:22:31.139000
 ,	-	-	-	0:22:29.850000	0:22:31.139000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:31.139000" end="0:22:31.566000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:31.139000" end="0:22:31.566000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:31.139000	0:22:31.566000
 .	-	-	-	0:22:31.139000	0:22:31.566000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:31.139000" end="0:22:36.609000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:31.139000" end="0:22:36.609000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:22:31.139000	0:22:31.566000
 es	-	-	-	0:22:31.139000	0:22:31.566000
 wird	-	-	-	0:22:31.566000	0:22:34.012000
@@ -5818,11 +5818,11 @@ verwenden	-	-	-	0:22:34.012000	0:22:36.609000
 soll	-	-	-	0:22:34.012000	0:22:36.609000
 ,	-	-	-	0:22:34.012000	0:22:36.609000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:36.609000" end="0:22:37.155000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:36.609000" end="0:22:37.155000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:36.609000	0:22:37.155000
 .	-	-	-	0:22:36.609000	0:22:37.155000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:37.155000" end="0:22:38.877000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:37.155000" end="0:22:38.877000" project="PP03" age_lower="18" age_upper="35">
 einfach	-	-	-	0:22:37.155000	0:22:38.877000
 dass	-	-	-	0:22:37.155000	0:22:38.877000
 die	-	-	-	0:22:37.155000	0:22:38.877000
@@ -5831,11 +5831,11 @@ das	-	-	-	0:22:37.155000	0:22:38.877000
 auch	-	-	-	0:22:37.155000	0:22:38.877000
 lernen	-	-	-	0:22:37.155000	0:22:38.877000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:38.877000" end="0:22:39.440000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:38.877000" end="0:22:39.440000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:38.877000	0:22:39.440000
 .	-	-	-	0:22:38.877000	0:22:39.440000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:38.877000" end="0:22:40.235000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:38.877000" end="0:22:40.235000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:22:38.877000	0:22:39.440000
 in	-	-	-	0:22:38.877000	0:22:39.440000
 Bezug	-	-	-	0:22:38.877000	0:22:39.440000
@@ -5843,23 +5843,23 @@ auf	-	-	-	0:22:39.440000	0:22:40.235000
 die	-	-	-	0:22:39.440000	0:22:40.235000
 Schule	-	-	-	0:22:39.440000	0:22:40.235000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:40.235000" end="0:22:40.701000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:40.235000" end="0:22:40.701000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:40.235000	0:22:40.701000
 .	-	-	-	0:22:40.235000	0:22:40.701000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:40.235000" end="0:22:41.526000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:40.235000" end="0:22:41.526000" project="PP03" age_lower="18" age_upper="35">
 später	-	-	-	0:22:40.235000	0:22:40.701000
 einfach	-	-	-	0:22:40.701000	0:22:41.526000
 auch	-	-	-	0:22:40.701000	0:22:41.526000
 können	-	-	-	0:22:40.701000	0:22:41.526000
 .	-	-	-	0:22:40.701000	0:22:41.526000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:41.526000" end="0:22:43.624000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:41.526000" end="0:22:43.624000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:41.526000	0:22:42.314000
 .	-	-	-	0:22:41.526000	0:22:42.314000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:42.314000" end="0:22:45.151000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:42.314000" end="0:22:45.151000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 aber	-	-	-	0:22:43.624000	0:22:45.151000
 verpflichtend	-	-	-	0:22:43.624000	0:22:45.151000
@@ -5869,17 +5869,17 @@ es	-	-	-	0:22:43.624000	0:22:45.151000
 in	-	-	-	0:22:43.624000	0:22:45.151000
 dem	-	-	-	0:22:43.624000	0:22:45.151000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:45.151000" end="0:22:45.952000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:45.151000" end="0:22:45.952000" age_lower="1" age_upper="999">
 ja	-	-	-	0:22:45.151000	0:22:45.952000
 .	-	-	-	0:22:45.151000	0:22:45.952000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:45.151000" end="0:22:45.952000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:45.151000" end="0:22:45.952000" project="PP03" age_lower="18" age_upper="35">
 Sinn	-	-	-	0:22:45.151000	0:22:45.952000
 nicht	-	-	-	0:22:45.151000	0:22:45.952000
 machen	-	-	-	0:22:45.151000	0:22:45.952000
 .	-	-	-	0:22:45.151000	0:22:45.952000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:45.952000" end="0:22:48.039000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:45.952000" end="0:22:48.039000" age_lower="1" age_upper="999">
 ja	-	-	-	0:22:45.952000	0:22:46.693000
 ,	-	-	-	0:22:45.952000	0:22:46.693000
 ja	-	-	-	0:22:45.952000	0:22:46.693000
@@ -5891,28 +5891,28 @@ heißt	-	-	-	0:22:46.693000	0:22:48.039000
 ähm	-	-	-	0:22:46.693000	0:22:48.039000
 /.	-	-	-	0:22:46.693000	0:22:48.039000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:48.039000" end="0:22:49.508000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:48.039000" end="0:22:49.508000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 entschuldigung	-	-	-	0:22:48.039000	0:22:49.508000
 .	-	-	-	0:22:48.039000	0:22:49.508000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:49.508000" end="0:22:50.680000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:49.508000" end="0:22:50.680000" age_lower="1" age_upper="999">
 zum	-	-	-	0:22:49.508000	0:22:50.680000
 Wohl	-	-	-	0:22:49.508000	0:22:50.680000
 .	-	-	-	0:22:49.508000	0:22:50.680000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:49.508000" end="0:22:50.680000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:49.508000" end="0:22:50.680000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="schnäuzen"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:50.680000" end="0:22:52.404000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:50.680000" end="0:22:52.404000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:50.680000" end="0:22:52.772000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:50.680000" end="0:22:52.772000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ja	-	-	-	0:22:52.404000	0:22:52.772000
 .	-	-	-	0:22:52.404000	0:22:52.772000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:52.772000" end="0:23:01.698000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:52.772000" end="0:23:01.698000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 aber	-	-	-	0:22:52.772000	0:22:55.425000
 das	-	-	-	0:22:52.772000	0:22:55.425000
@@ -5948,7 +5948,7 @@ zum	-	-	-	0:23:00.357000	0:23:01.698000
 Beispiel	-	-	-	0:23:00.357000	0:23:01.698000
 ?	-	-	-	0:23:00.357000	0:23:01.698000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:00.357000" end="0:23:03.450000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:00.357000" end="0:23:03.450000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:23:00.357000	0:23:01.698000
 ,	-	-	-	0:23:00.357000	0:23:01.698000
 also	-	-	-	0:23:00.357000	0:23:01.698000
@@ -5960,11 +5960,11 @@ komplette	-	-	-	0:23:01.698000	0:23:03.450000
 Alltag	-	-	-	0:23:01.698000	0:23:03.450000
 ,	-	-	-	0:23:01.698000	0:23:03.450000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:03.450000" end="0:23:03.932000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:03.450000" end="0:23:03.932000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:03.450000	0:23:03.932000
 .	-	-	-	0:23:03.450000	0:23:03.932000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:03.932000" end="0:23:10.707000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:03.932000" end="0:23:10.707000" project="PP03" age_lower="18" age_upper="35">
 sondern	-	-	-	0:23:03.932000	0:23:04.730000
 <pause duration="0,9s"/>
 im	-	-	-	0:23:04.730000	0:23:08.037000
@@ -5985,11 +5985,11 @@ wird	-	-	-	0:23:08.037000	0:23:10.707000
 in	-	-	-	0:23:08.037000	0:23:10.707000
 dem	-	-	-	0:23:08.037000	0:23:10.707000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:10.707000" end="0:23:11.250000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:10.707000" end="0:23:11.250000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:10.707000	0:23:11.250000
 .	-	-	-	0:23:10.707000	0:23:11.250000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:10.707000" end="0:23:13.584000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:10.707000" end="0:23:13.584000" project="PP03" age_lower="18" age_upper="35">
 Sinn	-	-	-	0:23:10.707000	0:23:11.250000
 .	-	-	-	0:23:10.707000	0:23:11.250000
 also	-	-	-	0:23:11.250000	0:23:13.584000
@@ -5999,13 +5999,13 @@ im	-	-	-	0:23:11.250000	0:23:13.584000
 Kreis	-	-	-	0:23:11.250000	0:23:13.584000
 ,	-	-	-	0:23:11.250000	0:23:13.584000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:13.584000" end="0:23:15.219000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:13.584000" end="0:23:15.219000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:13.584000	0:23:15.219000
 ,	-	-	-	0:23:13.584000	0:23:15.219000
 ja	-	-	-	0:23:13.584000	0:23:15.219000
 .	-	-	-	0:23:13.584000	0:23:15.219000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:13.584000" end="0:23:20.037000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:13.584000" end="0:23:20.037000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:23:13.584000	0:23:15.219000
 man	-	-	-	0:23:13.584000	0:23:15.219000
 im	-	-	-	0:23:13.584000	0:23:15.219000
@@ -6033,11 +6033,11 @@ Hochdeutsch	-	-	-	0:23:17.732000	0:23:20.037000
 gibt	-	-	-	0:23:17.732000	0:23:20.037000
 .	-	-	-	0:23:17.732000	0:23:20.037000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:20.037000" end="0:23:20.366000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:20.037000" end="0:23:20.366000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:20.037000	0:23:20.366000
 .	-	-	-	0:23:20.037000	0:23:20.366000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:20.366000" end="0:23:27.756000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:20.366000" end="0:23:27.756000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:23:20.366000	0:23:21.966000
 .	-	-	-	0:23:20.366000	0:23:21.966000
@@ -6053,11 +6053,11 @@ so	-	-	-	0:23:26.651000	0:23:27.186000
 .	-	-	-	0:23:26.651000	0:23:27.186000
 dort	-	-	-	0:23:27.186000	0:23:27.756000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:27.756000" end="0:23:28.208000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:27.756000" end="0:23:28.208000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:27.756000	0:23:28.208000
 .	-	-	-	0:23:27.756000	0:23:28.208000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:27.756000" end="0:23:30.656000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:27.756000" end="0:23:30.656000" project="PP03" age_lower="18" age_upper="35">
 legt	-	-	-	0:23:27.756000	0:23:28.208000
 man	-	-	-	0:23:27.756000	0:23:28.208000
 es	-	-	-	0:23:27.756000	0:23:28.208000
@@ -6071,10 +6071,10 @@ Meinung	-	-	-	0:23:28.208000	0:23:30.656000
 bin	-	-	-	0:23:28.208000	0:23:30.656000
 ,	-	-	-	0:23:28.208000	0:23:30.656000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:30.656000" end="0:23:31.961000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:30.656000" end="0:23:31.961000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:30.656000" end="0:23:45.467000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:30.656000" end="0:23:45.467000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 dass	-	-	-	0:23:31.961000	0:23:34.729000
 Anweisungen	-	-	-	0:23:31.961000	0:23:34.729000
@@ -6122,7 +6122,7 @@ Dialekt	-	-	-	0:23:43.755000	0:23:45.467000
 vermitteln	-	-	-	0:23:43.755000	0:23:45.467000
 .	-	-	-	0:23:43.755000	0:23:45.467000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:45.467000" end="0:23:47.735000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:45.467000" end="0:23:47.735000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:45.467000	0:23:45.909000
 ,	-	-	-	0:23:45.467000	0:23:45.909000
 ja	-	-	-	0:23:45.909000	0:23:47.735000
@@ -6130,7 +6130,7 @@ ja	-	-	-	0:23:45.909000	0:23:47.735000
 mhm	-	-	-	0:23:45.909000	0:23:47.735000
 .	-	-	-	0:23:45.909000	0:23:47.735000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:45.909000" end="0:23:50.387000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:45.909000" end="0:23:50.387000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:23:45.909000	0:23:47.735000
 ist	-	-	-	0:23:45.909000	0:23:47.735000
 für	-	-	-	0:23:45.909000	0:23:47.735000
@@ -6150,11 +6150,11 @@ Dialekt	-	-	-	0:23:48.793000	0:23:50.387000
 ist	-	-	-	0:23:48.793000	0:23:50.387000
 Gefühlssprache	-	-	-	0:23:48.793000	0:23:50.387000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:50.387000" end="0:23:50.868000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:50.387000" end="0:23:50.868000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:50.387000	0:23:50.868000
 .	-	-	-	0:23:50.387000	0:23:50.868000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:50.868000" end="0:23:57.452000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:50.868000" end="0:23:57.452000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:23:50.868000	0:23:51.712000
 dann	-	-	-	0:23:50.868000	0:23:51.712000
 <pause duration="1,2s"/>
@@ -6173,13 +6173,13 @@ ist	-	-	-	0:23:53.465000	0:23:57.452000
 schwierig	-	-	-	0:23:53.465000	0:23:57.452000
 .	-	-	-	0:23:53.465000	0:23:57.452000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:57.452000" end="0:23:58.335000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:57.452000" end="0:23:58.335000" age_lower="1" age_upper="999">
 okay	-	-	-	0:23:57.452000	0:23:58.335000
 ,	-	-	-	0:23:57.452000	0:23:58.335000
 ja	-	-	-	0:23:57.452000	0:23:58.335000
 .	-	-	-	0:23:57.452000	0:23:58.335000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:58.335000" end="0:23:59.959000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:58.335000" end="0:23:59.959000" project="PP03" age_lower="18" age_upper="35">
 *und*	-	-	-	0:23:58.335000	0:23:59.959000
 Kinder	-	-	-	0:23:58.335000	0:23:59.959000
 kriegen	-	-	-	0:23:58.335000	0:23:59.959000
@@ -6189,11 +6189,11 @@ trotzdem	-	-	-	0:23:58.335000	0:23:59.959000
 mit	-	-	-	0:23:58.335000	0:23:59.959000
 ,	-	-	-	0:23:58.335000	0:23:59.959000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:59.959000" end="0:24:00.316000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:59.959000" end="0:24:00.316000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:59.959000	0:24:00.316000
 .	-	-	-	0:23:59.959000	0:24:00.316000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:59.959000" end="0:24:03.306000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:59.959000" end="0:24:03.306000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:23:59.959000	0:24:00.316000
 ein	-	-	-	0:23:59.959000	0:24:00.316000
 Bilderbuch	-	-	-	0:24:00.316000	0:24:02.326000
@@ -6210,7 +6210,7 @@ ja	-	-	-	0:24:02.326000	0:24:03.306000
 nicht	-	-	-	0:24:02.326000	0:24:03.306000
 .	-	-	-	0:24:02.326000	0:24:03.306000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:03.306000" end="0:24:07.071000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:03.306000" end="0:24:07.071000" age_lower="1" age_upper="999">
 ja	-	-	-	0:24:03.306000	0:24:05.609000
 ,	-	-	-	0:24:03.306000	0:24:05.609000
 ja	-	-	-	0:24:03.306000	0:24:05.609000
@@ -6223,20 +6223,20 @@ mhm	-	-	-	0:24:03.306000	0:24:05.609000
 .	-	-	-	0:24:03.306000	0:24:05.609000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:05.609000" end="0:24:07.071000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:05.609000" end="0:24:07.071000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:07.071000" end="0:24:09.452000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:07.071000" end="0:24:09.452000" age_lower="1" age_upper="999">
 gut	-	-	-	0:24:07.071000	0:24:08.370000
 ,	-	-	-	0:24:07.071000	0:24:08.370000
 ähm	-	-	-	0:24:07.071000	0:24:08.370000
 .	-	-	-	0:24:07.071000	0:24:08.370000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:08.370000" end="0:24:09.452000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:08.370000" end="0:24:09.452000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:09.452000" end="0:24:13.417000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:09.452000" end="0:24:13.417000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:24:09.452000	0:24:11.970000
 Sie	-	-	-	0:24:09.452000	0:24:11.970000
 sich	-	-	-	0:24:09.452000	0:24:11.970000
@@ -6255,11 +6255,11 @@ wo	-	-	-	0:24:11.970000	0:24:13.417000
 das	-	-	-	0:24:11.970000	0:24:13.417000
 quasi	-	-	-	0:24:11.970000	0:24:13.417000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:13.417000" end="0:24:13.673000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:13.417000" end="0:24:13.673000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:13.417000	0:24:13.673000
 .	-	-	-	0:24:13.417000	0:24:13.673000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:13.673000" end="0:24:28.744000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:13.673000" end="0:24:28.744000" age_lower="1" age_upper="999">
 eher	-	-	-	0:24:13.673000	0:24:15.387000
 gefordert	-	-	-	0:24:13.673000	0:24:15.387000
 ist	-	-	-	0:24:13.673000	0:24:15.387000
@@ -6314,7 +6314,7 @@ auf	-	-	-	0:24:26.987000	0:24:28.744000
 Sie	-	-	-	0:24:26.987000	0:24:28.744000
 ?	-	-	-	0:24:26.987000	0:24:28.744000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:28.744000" end="0:24:37.871000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:28.744000" end="0:24:37.871000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	-	-	-	0:24:28.744000	0:24:30.979000
 ,	-	-	-	0:24:28.744000	0:24:30.979000
@@ -6339,11 +6339,11 @@ es	-	-	-	0:24:36.269000	0:24:37.871000
 gekünstelt	-	-	-	0:24:36.269000	0:24:37.871000
 .	-	-	-	0:24:36.269000	0:24:37.871000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:37.871000" end="0:24:38.592000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:37.871000" end="0:24:38.592000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:37.871000	0:24:38.592000
 .	-	-	-	0:24:37.871000	0:24:38.592000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:38.592000" end="0:24:40.489000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:38.592000" end="0:24:40.489000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:24:38.592000	0:24:40.489000
 dann	-	-	-	0:24:38.592000	0:24:40.489000
 wirkt	-	-	-	0:24:38.592000	0:24:40.489000
@@ -6352,11 +6352,11 @@ oft	-	-	-	0:24:38.592000	0:24:40.489000
 unecht	-	-	-	0:24:38.592000	0:24:40.489000
 .	-	-	-	0:24:38.592000	0:24:40.489000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:40.489000" end="0:24:41.126000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:40.489000" end="0:24:41.126000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:40.489000	0:24:41.126000
 .	-	-	-	0:24:40.489000	0:24:41.126000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:41.126000" end="0:24:44.951000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:41.126000" end="0:24:44.951000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ich	-	-	-	0:24:41.126000	0:24:43.465000
 habe	-	-	-	0:24:41.126000	0:24:43.465000
@@ -6374,11 +6374,11 @@ machen	-	-	-	0:24:43.465000	0:24:44.951000
 und	-	-	-	0:24:43.465000	0:24:44.951000
 bei	-	-	-	0:24:43.465000	0:24:44.951000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:44.951000" end="0:24:45.630000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:44.951000" end="0:24:45.630000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:44.951000	0:24:45.630000
 .	-	-	-	0:24:44.951000	0:24:45.630000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:44.951000" end="0:24:48.020000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:44.951000" end="0:24:48.020000" project="PP03" age_lower="18" age_upper="35">
 mir	-	-	-	0:24:44.951000	0:24:45.630000
 Praktikum	-	-	-	0:24:44.951000	0:24:45.630000
 gemacht	-	-	-	0:24:45.630000	0:24:48.020000
@@ -6393,11 +6393,11 @@ gehalten	-	-	-	0:24:45.630000	0:24:48.020000
 haben	-	-	-	0:24:45.630000	0:24:48.020000
 .	-	-	-	0:24:45.630000	0:24:48.020000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:48.020000" end="0:24:48.528000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:48.020000" end="0:24:48.528000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:48.020000	0:24:48.528000
 .	-	-	-	0:24:48.020000	0:24:48.528000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:48.528000" end="0:24:51.030000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:48.528000" end="0:24:51.030000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:24:48.528000	0:24:51.030000
 ist	-	-	-	0:24:48.528000	0:24:51.030000
 es	-	-	-	0:24:48.528000	0:24:51.030000
@@ -6409,10 +6409,10 @@ oft	-	-	-	0:24:48.528000	0:24:51.030000
 so	-	-	-	0:24:48.528000	0:24:51.030000
 ,	-	-	-	0:24:48.528000	0:24:51.030000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:51.030000" end="0:24:52.214000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:51.030000" end="0:24:52.214000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:51.030000" end="0:24:53.810000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:51.030000" end="0:24:53.810000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 die	-	-	-	0:24:52.214000	0:24:53.810000
 haben	-	-	-	0:24:52.214000	0:24:53.810000
@@ -6422,11 +6422,11 @@ gefühlt	-	-	-	0:24:52.214000	0:24:53.810000
 in	-	-	-	0:24:52.214000	0:24:53.810000
 ihrer	-	-	-	0:24:52.214000	0:24:53.810000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:53.810000" end="0:24:54.375000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:53.810000" end="0:24:54.375000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:53.810000	0:24:54.375000
 .	-	-	-	0:24:53.810000	0:24:54.375000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:53.810000" end="0:24:56.804000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:53.810000" end="0:24:56.804000" project="PP03" age_lower="18" age_upper="35">
 Haut	-	-	-	0:24:53.810000	0:24:54.375000
 ,	-	-	-	0:24:53.810000	0:24:54.375000
 die	-	-	-	0:24:53.810000	0:24:54.375000
@@ -6439,11 +6439,11 @@ jetzt	-	-	-	0:24:54.375000	0:24:56.804000
 machen	-	-	-	0:24:54.375000	0:24:56.804000
 .	-	-	-	0:24:54.375000	0:24:56.804000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:56.804000" end="0:24:57.381000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:56.804000" end="0:24:57.381000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:56.804000	0:24:57.381000
 .	-	-	-	0:24:56.804000	0:24:57.381000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:57.381000" end="0:25:00.814000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:57.381000" end="0:25:00.814000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:24:57.381000	0:24:59.573000
 ist	-	-	-	0:24:57.381000	0:24:59.573000
 in	-	-	-	0:24:57.381000	0:24:59.573000
@@ -6458,7 +6458,7 @@ gern	-	-	-	0:24:59.573000	0:25:00.814000
 spricht	-	-	-	0:24:59.573000	0:25:00.814000
 .	-	-	-	0:24:59.573000	0:25:00.814000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:00.814000" end="0:25:02.418000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:00.814000" end="0:25:02.418000" age_lower="1" age_upper="999">
 okay	-	-	-	0:25:00.814000	0:25:02.418000
 ,	-	-	-	0:25:00.814000	0:25:02.418000
 ja	-	-	-	0:25:00.814000	0:25:02.418000
@@ -6466,7 +6466,7 @@ ja	-	-	-	0:25:00.814000	0:25:02.418000
 ja	-	-	-	0:25:00.814000	0:25:02.418000
 .	-	-	-	0:25:00.814000	0:25:02.418000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:02.418000" end="0:25:04.819000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:02.418000" end="0:25:04.819000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:25:02.418000	0:25:04.819000
 ist	-	-	-	0:25:02.418000	0:25:04.819000
 so	-	-	-	0:25:02.418000	0:25:04.819000
@@ -6474,11 +6474,11 @@ typische	-	-	-	0:25:02.418000	0:25:04.819000
 Piefkedeutsch	-	-	-	0:25:02.418000	0:25:04.819000
 ,	-	-	-	0:25:02.418000	0:25:04.819000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:04.819000" end="0:25:05.307000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:04.819000" end="0:25:05.307000" age_lower="1" age_upper="999">
 okay	-	-	-	0:25:04.819000	0:25:05.307000
 .	-	-	-	0:25:04.819000	0:25:05.307000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:04.819000" end="0:25:07.484000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:04.819000" end="0:25:07.484000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:25:04.819000	0:25:05.307000
 /.	-	-	-	0:25:04.819000	0:25:05.307000
 oder	-	-	-	0:25:05.307000	0:25:05.888000
@@ -6492,11 +6492,11 @@ einen	-	-	-	0:25:05.888000	0:25:07.484000
 negativen	-	-	-	0:25:05.888000	0:25:07.484000
 Beigeschmack	-	-	-	0:25:05.888000	0:25:07.484000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:07.484000" end="0:25:08.331000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:07.484000" end="0:25:08.331000" age_lower="1" age_upper="999">
 ja	-	-	-	0:25:07.484000	0:25:08.331000
 .	-	-	-	0:25:07.484000	0:25:08.331000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:07.484000" end="0:25:15.289000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:07.484000" end="0:25:15.289000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:25:07.484000	0:25:08.331000
 .	-	-	-	0:25:07.484000	0:25:08.331000
 <pause duration="0,7s"/>
@@ -6536,13 +6536,13 @@ wohl	-	-	-	0:25:13.835000	0:25:15.289000
 authentisch	-	-	-	0:25:13.835000	0:25:15.289000
 .	-	-	-	0:25:13.835000	0:25:15.289000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:15.289000" end="0:25:16.156000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:15.289000" end="0:25:16.156000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:15.289000	0:25:16.156000
 ,	-	-	-	0:25:15.289000	0:25:16.156000
 mhm	-	-	-	0:25:15.289000	0:25:16.156000
 .	-	-	-	0:25:15.289000	0:25:16.156000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:16.156000" end="0:25:17.816000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:16.156000" end="0:25:17.816000" project="PP03" age_lower="18" age_upper="35">
 hängt	-	-	-	0:25:16.156000	0:25:17.816000
 (ja/)	-	-	-	0:25:16.156000	0:25:17.816000
 ,	-	-	-	0:25:16.156000	0:25:17.816000
@@ -6552,7 +6552,7 @@ bisschen	-	-	-	0:25:16.156000	0:25:17.816000
 situationsabhängig	-	-	-	0:25:16.156000	0:25:17.816000
 .	-	-	-	0:25:16.156000	0:25:17.816000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:17.816000" end="0:25:21.691000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:17.816000" end="0:25:21.691000" age_lower="1" age_upper="999">
 okay	-	-	-	0:25:17.816000	0:25:18.819000
 ,	-	-	-	0:25:17.816000	0:25:18.819000
 mhm	-	-	-	0:25:17.816000	0:25:18.819000
@@ -6562,10 +6562,10 @@ mhm	-	-	-	0:25:17.816000	0:25:18.819000
 ,	-	-	-	0:25:18.819000	0:25:20.210000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:20.210000" end="0:25:21.691000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:20.210000" end="0:25:21.691000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:21.691000" end="0:25:39.558000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:21.691000" end="0:25:39.558000" age_lower="1" age_upper="999">
 wie	-	-	-	0:25:21.691000	0:25:25.295000
 wirken	-	-	-	0:25:21.691000	0:25:25.295000
 da	-	-	-	0:25:21.691000	0:25:25.295000
@@ -6621,7 +6621,7 @@ Sie	-	-	-	0:25:37.134000	0:25:38.455000
 ?	-	-	-	0:25:37.134000	0:25:38.455000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:38.455000" end="0:25:41.247000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:38.455000" end="0:25:41.247000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 (ist	-	-	-	0:25:39.558000	0:25:41.247000
 auch)	-	-	-	0:25:39.558000	0:25:41.247000
@@ -6633,11 +6633,11 @@ auf	-	-	-	0:25:39.558000	0:25:41.247000
 die	-	-	-	0:25:39.558000	0:25:41.247000
 Situation	-	-	-	0:25:39.558000	0:25:41.247000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:41.247000" end="0:25:41.733000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:41.247000" end="0:25:41.733000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:41.247000	0:25:41.733000
 .	-	-	-	0:25:41.247000	0:25:41.733000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:41.247000" end="0:25:46.379000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:41.247000" end="0:25:46.379000" project="PP03" age_lower="18" age_upper="35">
 darauf	-	-	-	0:25:41.247000	0:25:41.733000
 an	-	-	-	0:25:41.247000	0:25:41.733000
 ,	-	-	-	0:25:41.247000	0:25:41.733000
@@ -6663,23 +6663,23 @@ du	-	-	-	0:25:45.523000	0:25:46.379000
 kannst	-	-	-	0:25:45.523000	0:25:46.379000
 ,	-	-	-	0:25:45.523000	0:25:46.379000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:46.379000" end="0:25:47.791000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:46.379000" end="0:25:47.791000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:46.379000	0:25:47.791000
 .	-	-	-	0:25:46.379000	0:25:47.791000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:46.379000" end="0:25:47.791000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:46.379000" end="0:25:47.791000" project="PP03" age_lower="18" age_upper="35">
 (du)	-	-	-	0:25:46.379000	0:25:47.791000
 mit	-	-	-	0:25:46.379000	0:25:47.791000
 deinem	-	-	-	0:25:46.379000	0:25:47.791000
 Dialekt	-	-	-	0:25:46.379000	0:25:47.791000
 ?	-	-	-	0:25:46.379000	0:25:47.791000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:47.791000" end="0:25:50.175000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:47.791000" end="0:25:50.175000" age_lower="1" age_upper="999">
 okay	-	-	-	0:25:47.791000	0:25:48.644000
 .	-	-	-	0:25:47.791000	0:25:48.644000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:48.644000" end="0:25:51.351000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:48.644000" end="0:25:51.351000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 das	-	-	-	0:25:50.175000	0:25:51.351000
 ist/	-	-	-	0:25:50.175000	0:25:51.351000
@@ -6687,11 +6687,11 @@ ist/	-	-	-	0:25:50.175000	0:25:51.351000
 schwierig	-	-	-	0:25:50.175000	0:25:51.351000
 .	-	-	-	0:25:50.175000	0:25:51.351000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:51.351000" end="0:25:51.735000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:51.351000" end="0:25:51.735000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:51.351000	0:25:51.735000
 .	-	-	-	0:25:51.351000	0:25:51.735000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:51.735000" end="0:25:54.314000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:51.735000" end="0:25:54.314000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 vieles	-	-	-	0:25:51.735000	0:25:54.314000
 kann	-	-	-	0:25:51.735000	0:25:54.314000
@@ -6702,11 +6702,11 @@ Dialekt	-	-	-	0:25:51.735000	0:25:54.314000
 wiedergeben	-	-	-	0:25:51.735000	0:25:54.314000
 .	-	-	-	0:25:51.735000	0:25:54.314000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:54.314000" end="0:25:54.800000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:54.314000" end="0:25:54.800000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:54.314000	0:25:54.800000
 .	-	-	-	0:25:54.314000	0:25:54.800000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:54.800000" end="0:25:57.243000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:54.800000" end="0:25:57.243000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:25:54.800000	0:25:57.243000
 wie	-	-	-	0:25:54.800000	0:25:57.243000
 gesagt	-	-	-	0:25:54.800000	0:25:57.243000
@@ -6720,12 +6720,12 @@ Tun	-	-	-	0:25:54.800000	0:25:57.243000
 hat	-	-	-	0:25:54.800000	0:25:57.243000
 .	-	-	-	0:25:54.800000	0:25:57.243000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:57.243000" end="0:25:59.482000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:57.243000" end="0:25:59.482000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:57.243000	0:25:58.089000
 .	-	-	-	0:25:57.243000	0:25:58.089000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:58.089000" end="0:26:01.287000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:58.089000" end="0:26:01.287000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ich	-	-	-	0:25:59.482000	0:26:01.287000
 habe	-	-	-	0:25:59.482000	0:26:01.287000
@@ -6738,7 +6738,7 @@ so	-	-	-	0:25:59.482000	0:26:01.287000
 viele	-	-	-	0:25:59.482000	0:26:01.287000
 Gedanken	-	-	-	0:25:59.482000	0:26:01.287000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:01.287000" end="0:26:02.714000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:01.287000" end="0:26:02.714000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:01.287000	0:26:02.714000
 ,	-	-	-	0:26:01.287000	0:26:02.714000
 ja	-	-	-	0:26:01.287000	0:26:02.714000
@@ -6748,12 +6748,12 @@ ja	-	-	-	0:26:01.287000	0:26:02.714000
 eh	-	-	-	0:26:01.287000	0:26:02.714000
 .	-	-	-	0:26:01.287000	0:26:02.714000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:01.287000" end="0:26:02.714000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:01.287000" end="0:26:02.714000" project="PP03" age_lower="18" age_upper="35">
 darüber	-	-	-	0:26:01.287000	0:26:02.714000
 gemacht	-	-	-	0:26:01.287000	0:26:02.714000
 .	-	-	-	0:26:01.287000	0:26:02.714000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:02.714000" end="0:26:05.199000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:02.714000" end="0:26:05.199000" age_lower="1" age_upper="999">
 eh	-	-	-	0:26:02.714000	0:26:05.199000
 ,	-	-	-	0:26:02.714000	0:26:05.199000
 nein	-	-	-	0:26:02.714000	0:26:05.199000
@@ -6769,7 +6769,7 @@ es	-	-	-	0:26:02.714000	0:26:05.199000
 is/	-	-	-	0:26:02.714000	0:26:05.199000
 /.	-	-	-	0:26:02.714000	0:26:05.199000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:02.714000" end="0:26:05.199000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:02.714000" end="0:26:05.199000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:26:02.714000	0:26:05.199000
 ist	-	-	-	0:26:02.714000	0:26:05.199000
 oft	-	-	-	0:26:02.714000	0:26:05.199000
@@ -6783,7 +6783,7 @@ es	-	-	-	0:26:02.714000	0:26:05.199000
 ist	-	-	-	0:26:02.714000	0:26:05.199000
 .	-	-	-	0:26:02.714000	0:26:05.199000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:05.199000" end="0:26:09.782000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:05.199000" end="0:26:09.782000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:05.199000	0:26:07.199000
 ,	-	-	-	0:26:05.199000	0:26:07.199000
 ja	-	-	-	0:26:05.199000	0:26:07.199000
@@ -6798,10 +6798,10 @@ gut	-	-	-	0:26:05.199000	0:26:07.199000
 .((1,0s))	-	-	-	0:26:07.199000	0:26:08.664000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:08.664000" end="0:26:09.782000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:08.664000" end="0:26:09.782000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:09.782000" end="0:26:19.321000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:09.782000" end="0:26:19.321000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:26:09.782000	0:26:12.300000
 es	-	-	-	0:26:09.782000	0:26:12.300000
 jetzt	-	-	-	0:26:09.782000	0:26:12.300000
@@ -6829,12 +6829,12 @@ würden	-	-	-	0:26:12.300000	0:26:17.377000
 also	-	-	-	0:26:18.070000	0:26:19.321000
 /.	-	-	-	0:26:18.070000	0:26:19.321000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:18.070000" end="0:26:19.321000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:18.070000" end="0:26:19.321000" project="PP03" age_lower="18" age_upper="35">
 im	-	-	-	0:26:18.070000	0:26:19.321000
 Alltag	-	-	-	0:26:18.070000	0:26:19.321000
 .	-	-	-	0:26:18.070000	0:26:19.321000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:19.321000" end="0:26:21.948000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:19.321000" end="0:26:21.948000" age_lower="1" age_upper="999">
 im	-	-	-	0:26:19.321000	0:26:20.584000
 Alltag	-	-	-	0:26:19.321000	0:26:20.584000
 ,	-	-	-	0:26:19.321000	0:26:20.584000
@@ -6846,7 +6846,7 @@ eigentlich	-	-	-	0:26:21.331000	0:26:21.948000
 nicht	-	-	-	0:26:21.331000	0:26:21.948000
 .	-	-	-	0:26:21.331000	0:26:21.948000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:21.331000" end="0:26:22.705000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:21.331000" end="0:26:22.705000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:26:21.331000	0:26:21.948000
 finde	-	-	-	0:26:21.331000	0:26:21.948000
 ,	-	-	-	0:26:21.331000	0:26:21.948000
@@ -6857,14 +6857,14 @@ zu	-	-	-	0:26:21.948000	0:26:22.705000
 uns	-	-	-	0:26:21.948000	0:26:22.705000
 .	-	-	-	0:26:21.948000	0:26:22.705000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:22.705000" end="0:26:23.416000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:22.705000" end="0:26:23.416000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:22.705000	0:26:23.416000
 .	-	-	-	0:26:22.705000	0:26:23.416000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:23.416000" end="0:26:24.365000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:23.416000" end="0:26:24.365000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="husten"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:24.365000" end="0:26:33.364000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:24.365000" end="0:26:33.364000" age_lower="1" age_upper="999">
 wie	-	-	-	0:26:24.365000	0:26:27.347000
 würden	-	-	-	0:26:24.365000	0:26:27.347000
 dann	-	-	-	0:26:24.365000	0:26:27.347000
@@ -6889,7 +6889,7 @@ sprechen	-	-	-	0:26:27.347000	0:26:31.517000
 ?	-	-	-	0:26:27.347000	0:26:31.517000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:31.517000" end="0:26:39.419000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:31.517000" end="0:26:39.419000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 also	-	-	-	0:26:33.364000	0:26:36.198000
 es	-	-	-	0:26:33.364000	0:26:36.198000
@@ -6917,16 +6917,16 @@ so	-	-	-	0:26:36.198000	0:26:37.614000
 aufgesetzt	-	-	-	0:26:37.614000	0:26:39.419000
 ,	-	-	-	0:26:37.614000	0:26:39.419000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:39.419000" end="0:26:40.488000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:39.419000" end="0:26:40.488000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:26:39.419000	0:26:40.488000
 .	-	-	-	0:26:39.419000	0:26:40.488000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:39.419000" end="0:26:40.488000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:39.419000" end="0:26:40.488000" project="PP03" age_lower="18" age_upper="35">
 nicht	-	-	-	0:26:39.419000	0:26:40.488000
 ehrlich	-	-	-	0:26:39.419000	0:26:40.488000
 .	-	-	-	0:26:39.419000	0:26:40.488000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:40.488000" end="0:26:42.478000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:40.488000" end="0:26:42.478000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:40.488000	0:26:41.508000
 ,	-	-	-	0:26:40.488000	0:26:41.508000
 ja	-	-	-	0:26:40.488000	0:26:41.508000
@@ -6935,7 +6935,7 @@ ja	-	-	-	0:26:40.488000	0:26:41.508000
 okay	-	-	-	0:26:41.508000	0:26:42.478000
 .	-	-	-	0:26:41.508000	0:26:42.478000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:42.478000" end="0:26:50.539000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:42.478000" end="0:26:50.539000" project="PP03" age_lower="18" age_upper="35">
 durch	-	-	-	0:26:42.478000	0:26:45.274000
 das	-	-	-	0:26:42.478000	0:26:45.274000
 ,	-	-	-	0:26:42.478000	0:26:45.274000
@@ -6974,15 +6974,15 @@ nicht	-	-	-	0:26:49.233000	0:26:50.539000
 meine	-	-	-	0:26:49.233000	0:26:50.539000
 Mutterspreche	-	-	-	0:26:49.233000	0:26:50.539000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:50.539000" end="0:26:50.926000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:50.539000" end="0:26:50.926000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:50.539000	0:26:50.926000
 ,	-	-	-	0:26:50.539000	0:26:50.926000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:50.539000" end="0:26:50.926000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:50.539000" end="0:26:50.926000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:26:50.539000	0:26:50.926000
 .	-	-	-	0:26:50.539000	0:26:50.926000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:50.926000" end="0:26:53.805000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:50.926000" end="0:26:53.805000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:50.926000	0:26:52.559000
 ,	-	-	-	0:26:50.926000	0:26:52.559000
 ja	-	-	-	0:26:50.926000	0:26:52.559000
@@ -6993,32 +6993,32 @@ also	-	-	-	0:26:52.559000	0:26:53.805000
 is/	-	-	-	0:26:52.559000	0:26:53.805000
 /.	-	-	-	0:26:52.559000	0:26:53.805000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:53.805000" end="0:26:54.629000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:53.805000" end="0:26:54.629000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:26:53.805000	0:26:54.629000
 ist	-	-	-	0:26:53.805000	0:26:54.629000
 aufgesetzt	-	-	-	0:26:53.805000	0:26:54.629000
 ,	-	-	-	0:26:53.805000	0:26:54.629000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:54.629000" end="0:26:55.274000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:54.629000" end="0:26:55.274000" age_lower="1" age_upper="999">
 es	-	-	-	0:26:54.629000	0:26:55.274000
 is/	-	-	-	0:26:54.629000	0:26:55.274000
 /.	-	-	-	0:26:54.629000	0:26:55.274000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:54.629000" end="0:26:55.274000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:54.629000" end="0:26:55.274000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:26:54.629000	0:26:55.274000
 passt	-	-	-	0:26:54.629000	0:26:55.274000
 nicht	-	-	-	0:26:54.629000	0:26:55.274000
 .	-	-	-	0:26:54.629000	0:26:55.274000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:55.274000" end="0:27:00.006000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:55.274000" end="0:27:00.006000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:55.274000	0:26:56.651000
 .	-	-	-	0:26:55.274000	0:26:56.651000
 <pause duration="3,4s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:56.651000" end="0:27:00.006000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:56.651000" end="0:27:00.006000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:00.006000" end="0:27:08.276000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:00.006000" end="0:27:08.276000" age_lower="1" age_upper="999">
 haben	-	-	-	0:27:00.006000	0:27:01.277000
 Sie	-	-	-	0:27:00.006000	0:27:01.277000
 den	-	-	-	0:27:00.006000	0:27:01.277000
@@ -7042,7 +7042,7 @@ sprechen	-	-	-	0:27:03.853000	0:27:05.935000
 ?	-	-	-	0:27:03.853000	0:27:05.935000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:05.935000" end="0:27:11.916000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:05.935000" end="0:27:11.916000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 also	-	-	-	0:27:08.276000	0:27:10.015000
 man	-	-	-	0:27:08.276000	0:27:10.015000
@@ -7058,11 +7058,11 @@ Deutschland	-	-	-	0:27:10.015000	0:27:11.916000
 bin	-	-	-	0:27:10.015000	0:27:11.916000
 oder	-	-	-	0:27:10.015000	0:27:11.916000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:11.916000" end="0:27:12.213000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:11.916000" end="0:27:12.213000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:11.916000	0:27:12.213000
 .	-	-	-	0:27:11.916000	0:27:12.213000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:11.916000" end="0:27:13.245000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:11.916000" end="0:27:13.245000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:27:11.916000	0:27:12.213000
 oder	-	-	-	0:27:12.213000	0:27:13.245000
 nicht	-	-	-	0:27:12.213000	0:27:13.245000
@@ -7070,11 +7070,11 @@ aus	-	-	-	0:27:12.213000	0:27:13.245000
 Wien	-	-	-	0:27:12.213000	0:27:13.245000
 oder	-	-	-	0:27:12.213000	0:27:13.245000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:13.245000" end="0:27:13.958000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:13.245000" end="0:27:13.958000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:13.245000	0:27:13.958000
 .	-	-	-	0:27:13.245000	0:27:13.958000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:13.245000" end="0:27:16.449000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:13.245000" end="0:27:16.449000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:27:13.245000	0:27:13.958000
 ,	-	-	-	0:27:13.245000	0:27:13.958000
 aber	-	-	-	0:27:13.245000	0:27:13.958000
@@ -7087,18 +7087,18 @@ sicher	-	-	-	0:27:13.958000	0:27:16.449000
 nicht	-	-	-	0:27:13.958000	0:27:16.449000
 ,	-	-	-	0:27:13.958000	0:27:16.449000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:16.449000" end="0:27:17.479000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:16.449000" end="0:27:17.479000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:16.449000	0:27:17.479000
 ,	-	-	-	0:27:16.449000	0:27:17.479000
 mhm	-	-	-	0:27:16.449000	0:27:17.479000
 .	-	-	-	0:27:16.449000	0:27:17.479000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:16.449000" end="0:27:18.077000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:16.449000" end="0:27:18.077000" project="PP03" age_lower="18" age_upper="35">
 nicht	-	-	-	0:27:16.449000	0:27:17.479000
 sagen	-	-	-	0:27:17.479000	0:27:18.077000
 .	-	-	-	0:27:17.479000	0:27:18.077000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:18.077000" end="0:27:22.358000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:18.077000" end="0:27:22.358000" age_lower="1" age_upper="999">
 okay	-	-	-	0:27:18.077000	0:27:18.746000
 .	-	-	-	0:27:18.077000	0:27:18.746000
 <pause duration="0,5s"/>
@@ -7120,16 +7120,16 @@ hört	-	-	-	0:27:21.183000	0:27:22.358000
 okay	-	-	-	0:27:21.183000	0:27:22.358000
 .	-	-	-	0:27:21.183000	0:27:22.358000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:21.183000" end="0:27:22.358000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:21.183000" end="0:27:22.358000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:27:21.183000	0:27:22.358000
 schon	-	-	-	0:27:21.183000	0:27:22.358000
 .	-	-	-	0:27:21.183000	0:27:22.358000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:22.358000" end="0:27:22.777000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:22.358000" end="0:27:22.777000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:22.358000	0:27:22.777000
 .	-	-	-	0:27:22.358000	0:27:22.777000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:22.358000" end="0:27:26.251000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:22.358000" end="0:27:26.251000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:27:22.358000	0:27:22.777000
 denke	-	-	-	0:27:22.358000	0:27:22.777000
 auch	-	-	-	0:27:22.358000	0:27:22.777000
@@ -7157,15 +7157,15 @@ so	-	-	-	0:27:24.513000	0:27:26.251000
 in	-	-	-	0:27:24.513000	0:27:26.251000
 die	-	-	-	0:27:24.513000	0:27:26.251000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:26.251000" end="0:27:26.747000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:26.251000" end="0:27:26.747000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:26.251000	0:27:26.747000
 ,	-	-	-	0:27:26.251000	0:27:26.747000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:26.251000" end="0:27:26.747000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:26.251000" end="0:27:26.747000" project="PP03" age_lower="18" age_upper="35">
 Richtung	-	-	-	0:27:26.251000	0:27:26.747000
 .	-	-	-	0:27:26.251000	0:27:26.747000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:26.747000" end="0:27:41.636000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:26.747000" end="0:27:41.636000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:26.747000	0:27:28.173000
 ,	-	-	-	0:27:26.747000	0:27:28.173000
 okay	-	-	-	0:27:26.747000	0:27:28.173000
@@ -7219,7 +7219,7 @@ ja	-	-	-	0:27:39.285000	0:27:41.636000
 mhm	-	-	-	0:27:39.285000	0:27:41.636000
 .	-	-	-	0:27:39.285000	0:27:41.636000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:39.285000" end="0:27:41.636000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:39.285000" end="0:27:41.636000" project="PP03" age_lower="18" age_upper="35">
 aus	-	-	-	0:27:39.285000	0:27:41.636000
 Vorarlberg	-	-	-	0:27:39.285000	0:27:41.636000
 ?	-	-	-	0:27:39.285000	0:27:41.636000
@@ -7234,7 +7234,7 @@ das	-	-	-	0:27:39.285000	0:27:41.636000
 schon	-	-	-	0:27:39.285000	0:27:41.636000
 .	-	-	-	0:27:39.285000	0:27:41.636000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:41.636000" end="0:27:46.939000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:41.636000" end="0:27:46.939000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:41.636000	0:27:42.198000
 .	-	-	-	0:27:41.636000	0:27:42.198000
 <pause duration="0,6s"/>
@@ -7253,17 +7253,17 @@ darauf	-	-	-	0:27:45.088000	0:27:46.041000
 angesprochen	-	-	-	0:27:46.041000	0:27:46.939000
 ,	-	-	-	0:27:46.041000	0:27:46.939000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:46.041000" end="0:27:46.939000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:46.041000" end="0:27:46.939000" project="PP03" age_lower="18" age_upper="35">
 an	-	-	-	0:27:46.041000	0:27:46.939000
 der	-	-	-	0:27:46.041000	0:27:46.939000
 B/	-	-	-	0:27:46.041000	0:27:46.939000
 /.	-	-	-	0:27:46.041000	0:27:46.939000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:46.939000" end="0:27:47.338000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:46.939000" end="0:27:47.338000" age_lower="1" age_upper="999">
 oder	-	-	-	0:27:46.939000	0:27:47.338000
 ?	-	-	-	0:27:46.939000	0:27:47.338000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:47.338000" end="0:27:48.295000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:47.338000" end="0:27:48.295000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:27:47.338000	0:27:48.295000
 so	-	-	-	0:27:47.338000	0:27:48.295000
 ,	-	-	-	0:27:47.338000	0:27:48.295000
@@ -7273,21 +7273,21 @@ das	-	-	-	0:27:47.338000	0:27:48.295000
 nicht	-	-	-	0:27:47.338000	0:27:48.295000
 .	-	-	-	0:27:47.338000	0:27:48.295000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:48.295000" end="0:27:49.593000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:48.295000" end="0:27:49.593000" age_lower="1" age_upper="999">
 das	-	-	-	0:27:48.295000	0:27:48.689000
 nicht	-	-	-	0:27:48.295000	0:27:48.689000
 ,	-	-	-	0:27:48.295000	0:27:48.689000
 okay	-	-	-	0:27:48.689000	0:27:49.593000
 .	-	-	-	0:27:48.689000	0:27:49.593000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:48.689000" end="0:27:49.593000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:48.689000" end="0:27:49.593000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:27:48.689000	0:27:49.593000
 ,	-	-	-	0:27:48.689000	0:27:49.593000
 das	-	-	-	0:27:48.689000	0:27:49.593000
 nicht	-	-	-	0:27:48.689000	0:27:49.593000
 .	-	-	-	0:27:48.689000	0:27:49.593000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:49.593000" end="0:27:51.765000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:49.593000" end="0:27:51.765000" age_lower="1" age_upper="999">
 oder	-	-	-	0:27:49.593000	0:27:51.141000
 sonst	-	-	-	0:27:49.593000	0:27:51.141000
 irgendwie	-	-	-	0:27:49.593000	0:27:51.141000
@@ -7299,7 +7299,7 @@ es	-	-	-	0:27:51.141000	0:27:51.765000
 sonst	-	-	-	0:27:51.141000	0:27:51.765000
 /?	-	-	-	0:27:51.141000	0:27:51.765000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:51.141000" end="0:27:53.316000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:51.141000" end="0:27:53.316000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:27:51.141000	0:27:51.765000
 ich	-	-	-	0:27:51.141000	0:27:51.765000
 denke	-	-	-	0:27:51.141000	0:27:51.765000
@@ -7313,13 +7313,13 @@ der	-	-	-	0:27:51.765000	0:27:53.316000
 Betonung	-	-	-	0:27:51.765000	0:27:53.316000
 ,	-	-	-	0:27:51.765000	0:27:53.316000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:53.316000" end="0:27:54.466000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:53.316000" end="0:27:54.466000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:53.316000	0:27:53.873000
 .	-	-	-	0:27:53.316000	0:27:53.873000
 okay	-	-	-	0:27:53.873000	0:27:54.466000
 .	-	-	-	0:27:53.873000	0:27:54.466000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:53.873000" end="0:27:55.523000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:53.873000" end="0:27:55.523000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:27:53.873000	0:27:54.466000
 wir	-	-	-	0:27:53.873000	0:27:54.466000
 die	-	-	-	0:27:54.466000	0:27:55.523000
@@ -7328,11 +7328,11 @@ betonen	-	-	-	0:27:54.466000	0:27:55.523000
 ,	-	-	-	0:27:54.466000	0:27:55.523000
 das	-	-	-	0:27:54.466000	0:27:55.523000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:55.523000" end="0:27:55.903000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:55.523000" end="0:27:55.903000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:55.523000	0:27:55.903000
 .	-	-	-	0:27:55.523000	0:27:55.903000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:55.523000" end="0:27:58.065000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:55.523000" end="0:27:58.065000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:27:55.523000	0:27:55.903000
 ganz	-	-	-	0:27:55.523000	0:27:55.903000
 was	-	-	-	0:27:55.903000	0:27:58.065000
@@ -7345,11 +7345,11 @@ oder	-	-	-	0:27:55.903000	0:27:58.065000
 so	-	-	-	0:27:55.903000	0:27:58.065000
 .	-	-	-	0:27:55.903000	0:27:58.065000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:58.065000" end="0:27:58.545000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:58.065000" end="0:27:58.545000" age_lower="1" age_upper="999">
 ja	-	-	-	0:27:58.065000	0:27:58.545000
 .	-	-	-	0:27:58.065000	0:27:58.545000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:58.545000" end="0:28:00.702000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:58.545000" end="0:28:00.702000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 vielleicht	-	-	-	0:27:58.545000	0:28:00.702000
 auch	-	-	-	0:27:58.545000	0:28:00.702000
@@ -7358,20 +7358,20 @@ der	-	-	-	0:27:58.545000	0:28:00.702000
 Sprachmelodie	-	-	-	0:27:58.545000	0:28:00.702000
 .	-	-	-	0:27:58.545000	0:28:00.702000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:00.702000" end="0:28:01.526000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:00.702000" end="0:28:01.526000" age_lower="1" age_upper="999">
 ja	-	-	-	0:28:00.702000	0:28:01.526000
 ,	-	-	-	0:28:00.702000	0:28:01.526000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:00.702000" end="0:28:01.526000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:00.702000" end="0:28:01.526000" project="PP03" age_lower="18" age_upper="35">
 keine	-	-	-	0:28:00.702000	0:28:01.526000
 Ahnung	-	-	-	0:28:00.702000	0:28:01.526000
 .	-	-	-	0:28:00.702000	0:28:01.526000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:01.526000" end="0:28:02.012000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:01.526000" end="0:28:02.012000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:01.526000	0:28:02.012000
 .	-	-	-	0:28:01.526000	0:28:02.012000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:02.012000" end="0:28:09.906000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:02.012000" end="0:28:09.906000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:28:02.012000	0:28:02.628000
 habe	-	-	-	0:28:02.012000	0:28:02.628000
 das	-	-	-	0:28:02.012000	0:28:02.628000
@@ -7414,20 +7414,20 @@ eher	-	-	-	0:28:08.686000	0:28:09.906000
 hoch	-	-	-	0:28:08.686000	0:28:09.906000
 ,	-	-	-	0:28:08.686000	0:28:09.906000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:09.906000" end="0:28:10.589000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:09.906000" end="0:28:10.589000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:09.906000	0:28:10.589000
 .	-	-	-	0:28:09.906000	0:28:10.589000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:10.589000" end="0:28:11.567000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:10.589000" end="0:28:11.567000" project="PP03" age_lower="18" age_upper="35">
 hochtönig	-	-	-	0:28:10.589000	0:28:11.567000
 ,	-	-	-	0:28:10.589000	0:28:11.567000
 also	-	-	-	0:28:10.589000	0:28:11.567000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:11.567000" end="0:28:12.190000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:11.567000" end="0:28:12.190000" age_lower="1" age_upper="999">
 ja	-	-	-	0:28:11.567000	0:28:12.190000
 .	-	-	-	0:28:11.567000	0:28:12.190000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:12.190000" end="0:28:15.154000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:12.190000" end="0:28:15.154000" project="PP03" age_lower="18" age_upper="35">
 für	-	-	-	0:28:12.190000	0:28:12.741000
 mich	-	-	-	0:28:12.190000	0:28:12.741000
 jetzt	-	-	-	0:28:12.190000	0:28:12.741000
@@ -7441,11 +7441,11 @@ ein	-	-	-	0:28:12.741000	0:28:15.154000
 tiefer	-	-	-	0:28:12.741000	0:28:15.154000
 .	-	-	-	0:28:12.741000	0:28:15.154000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:15.154000" end="0:28:16.192000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:15.154000" end="0:28:16.192000" age_lower="1" age_upper="999">
 ja	-	-	-	0:28:15.154000	0:28:16.192000
 ,	-	-	-	0:28:15.154000	0:28:16.192000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:15.154000" end="0:28:16.192000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:15.154000" end="0:28:16.192000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:28:15.154000	0:28:16.192000
 weiß	-	-	-	0:28:15.154000	0:28:16.192000
 es	-	-	-	0:28:15.154000	0:28:16.192000
@@ -7453,7 +7453,7 @@ auch	-	-	-	0:28:15.154000	0:28:16.192000
 nicht	-	-	-	0:28:15.154000	0:28:16.192000
 .	-	-	-	0:28:15.154000	0:28:16.192000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:16.192000" end="0:28:18.217000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:16.192000" end="0:28:18.217000" age_lower="1" age_upper="999">
 ja	-	-	-	0:28:16.192000	0:28:17.784000
 ,	-	-	-	0:28:16.192000	0:28:17.784000
 kanns	-	-	-	0:28:16.192000	0:28:17.784000
@@ -7467,7 +7467,7 @@ ja	-	-	-	0:28:16.192000	0:28:17.784000
 mhm	-	-	-	0:28:17.784000	0:28:18.217000
 .	-	-	-	0:28:17.784000	0:28:18.217000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:17.784000" end="0:28:19.038000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:17.784000" end="0:28:19.038000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:28:17.784000	0:28:18.217000
 ich	-	-	-	0:28:17.784000	0:28:18.217000
 mir	-	-	-	0:28:17.784000	0:28:18.217000
@@ -7476,7 +7476,7 @@ so	-	-	-	0:28:18.217000	0:28:19.038000
 vorstelle	-	-	-	0:28:18.217000	0:28:19.038000
 .	-	-	-	0:28:18.217000	0:28:19.038000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:19.038000" end="0:28:32.109000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:19.038000" end="0:28:32.109000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:19.038000	0:28:20.153000
 ,	-	-	-	0:28:19.038000	0:28:20.153000
 okay	-	-	-	0:28:19.038000	0:28:20.153000
@@ -7522,11 +7522,11 @@ bis	-	-	-	0:28:29.576000	0:28:32.109000
 starker	-	-	-	0:28:29.576000	0:28:32.109000
 /?	-	-	-	0:28:29.576000	0:28:32.109000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:32.109000" end="0:28:32.754000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:32.109000" end="0:28:32.754000" project="PP03" age_lower="18" age_upper="35">
 mittig	-	-	-	0:28:32.109000	0:28:32.754000
 .	-	-	-	0:28:32.109000	0:28:32.754000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:32.754000" end="0:28:41.053000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:32.754000" end="0:28:41.053000" age_lower="1" age_upper="999">
 mittig	-	-	-	0:28:32.754000	0:28:35.212000
 ,	-	-	-	0:28:32.754000	0:28:35.212000
 okay	-	-	-	0:28:32.754000	0:28:35.212000
@@ -7552,11 +7552,11 @@ auch	-	-	-	0:28:39.898000	0:28:40.659000
 wenn	-	-	-	0:28:39.898000	0:28:40.659000
 Sie	-	-	-	0:28:40.659000	0:28:41.053000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:40.659000" end="0:28:41.053000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:40.659000" end="0:28:41.053000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:40.659000	0:28:41.053000
 .	-	-	-	0:28:40.659000	0:28:41.053000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:41.053000" end="0:28:43.833000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:41.053000" end="0:28:43.833000" age_lower="1" age_upper="999">
 Hochdeutsch	-	-	-	0:28:41.053000	0:28:42.369000
 /?	-	-	-	0:28:41.053000	0:28:42.369000
 ja	-	-	-	0:28:41.053000	0:28:42.369000
@@ -7571,11 +7571,11 @@ Sie	-	-	-	0:28:42.369000	0:28:43.391000
 kein	-	-	-	0:28:42.369000	0:28:43.391000
 Problem	-	-	-	0:28:43.391000	0:28:43.833000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:43.391000" end="0:28:43.833000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:43.391000" end="0:28:43.833000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:28:43.391000	0:28:43.833000
 .	-	-	-	0:28:43.391000	0:28:43.833000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:43.833000" end="0:28:45.527000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:43.833000" end="0:28:45.527000" age_lower="1" age_upper="999">
 damit	-	-	-	0:28:43.833000	0:28:44.929000
 ,	-	-	-	0:28:43.833000	0:28:44.929000
 stört	-	-	-	0:28:43.833000	0:28:44.929000
@@ -7586,21 +7586,21 @@ nicht	-	-	-	0:28:43.833000	0:28:44.929000
 okay	-	-	-	0:28:44.929000	0:28:45.527000
 .	-	-	-	0:28:44.929000	0:28:45.527000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:44.929000" end="0:28:45.527000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:44.929000" end="0:28:45.527000" project="PP03" age_lower="18" age_upper="35">
 mm	-	-	-	0:28:44.929000	0:28:45.527000
 .	-	-	-	0:28:44.929000	0:28:45.527000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:45.527000" end="0:28:48.269000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:45.527000" end="0:28:48.269000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:45.527000	0:28:46.888000
 ,	-	-	-	0:28:45.527000	0:28:46.888000
 gut	-	-	-	0:28:45.527000	0:28:46.888000
 .	-	-	-	0:28:45.527000	0:28:46.888000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:46.888000" end="0:28:48.269000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:46.888000" end="0:28:48.269000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:48.269000" end="0:28:58.889000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:48.269000" end="0:28:58.889000" age_lower="1" age_upper="999">
 würden	-	-	-	0:28:48.269000	0:28:49.799000
 Sie	-	-	-	0:28:48.269000	0:28:49.799000
 sagen	-	-	-	0:28:48.269000	0:28:49.799000
@@ -7620,7 +7620,7 @@ verändert	-	-	-	0:28:53.981000	0:28:55.388000
 ?	-	-	-	0:28:53.981000	0:28:55.388000
 <pause duration="3,5s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:55.388000" end="0:29:02.973000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:55.388000" end="0:29:02.973000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,5s"/>
 ich	-	-	-	0:28:58.889000	0:29:00.669000
 denke	-	-	-	0:28:58.889000	0:29:00.669000
@@ -7638,7 +7638,7 @@ aber	-	-	-	0:29:01.321000	0:29:02.973000
 <pause duration="0,4s"/>
 inwieweit	-	-	-	0:29:01.321000	0:29:02.973000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:02.973000" end="0:29:04.990000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:02.973000" end="0:29:04.990000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:02.973000	0:29:04.990000
 ,	-	-	-	0:29:02.973000	0:29:04.990000
 f/	-	-	-	0:29:02.973000	0:29:04.990000
@@ -7646,7 +7646,7 @@ f/	-	-	-	0:29:02.973000	0:29:04.990000
 mhm	-	-	-	0:29:02.973000	0:29:04.990000
 .	-	-	-	0:29:02.973000	0:29:04.990000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:02.973000" end="0:29:04.990000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:02.973000" end="0:29:04.990000" project="PP03" age_lower="18" age_upper="35">
 kann	-	-	-	0:29:02.973000	0:29:04.990000
 ich	-	-	-	0:29:02.973000	0:29:04.990000
 jetzt	-	-	-	0:29:02.973000	0:29:04.990000
@@ -7654,7 +7654,7 @@ nicht	-	-	-	0:29:02.973000	0:29:04.990000
 sagen	-	-	-	0:29:02.973000	0:29:04.990000
 .	-	-	-	0:29:02.973000	0:29:04.990000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:04.990000" end="0:29:06.681000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:04.990000" end="0:29:06.681000" age_lower="1" age_upper="999">
 fallt	-	-	-	0:29:04.990000	0:29:06.681000
 Ihnen	-	-	-	0:29:04.990000	0:29:06.681000
 da	-	-	-	0:29:04.990000	0:29:06.681000
@@ -7663,14 +7663,14 @@ ein	-	-	-	0:29:04.990000	0:29:06.681000
 ,	-	-	-	0:29:04.990000	0:29:06.681000
 ein	-	-	-	0:29:04.990000	0:29:06.681000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:04.990000" end="0:29:06.681000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:04.990000" end="0:29:06.681000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:29:04.990000	0:29:06.681000
 welche	-	-	-	0:29:04.990000	0:29:06.681000
 Richtung	-	-	-	0:29:04.990000	0:29:06.681000
 das	-	-	-	0:29:04.990000	0:29:06.681000
 /.	-	-	-	0:29:04.990000	0:29:06.681000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:06.681000" end="0:29:14.897000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:06.681000" end="0:29:14.897000" age_lower="1" age_upper="999">
 Beispiel	-	-	-	0:29:06.681000	0:29:08.465000
 vielleicht	-	-	-	0:29:06.681000	0:29:08.465000
 oder	-	-	-	0:29:06.681000	0:29:08.465000
@@ -7689,7 +7689,7 @@ oder	-	-	-	0:29:08.465000	0:29:10.931000
 /?	-	-	-	0:29:08.465000	0:29:10.931000
 <pause duration="4,0s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:10.931000" end="0:29:18.845000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:10.931000" end="0:29:18.845000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 also	-	-	-	0:29:14.897000	0:29:17.103000
 es	-	-	-	0:29:14.897000	0:29:17.103000
@@ -7711,22 +7711,22 @@ geschrieben	-	-	-	0:29:17.103000	0:29:18.845000
 wird	-	-	-	0:29:17.103000	0:29:18.845000
 .	-	-	-	0:29:17.103000	0:29:18.845000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:18.845000" end="0:29:19.535000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:18.845000" end="0:29:19.535000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:18.845000	0:29:19.535000
 .	-	-	-	0:29:18.845000	0:29:19.535000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:18.845000" end="0:29:20.260000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:18.845000" end="0:29:20.260000" project="PP03" age_lower="18" age_upper="35">
 im	-	-	-	0:29:18.845000	0:29:19.535000
 Dialekt	-	-	-	0:29:18.845000	0:29:19.535000
 wird	-	-	-	0:29:18.845000	0:29:19.535000
 nicht	-	-	-	0:29:19.535000	0:29:20.260000
 geschrieben	-	-	-	0:29:19.535000	0:29:20.260000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:20.260000" end="0:29:20.921000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:20.260000" end="0:29:20.921000" age_lower="1" age_upper="999">
 ja	-	-	-	0:29:20.260000	0:29:20.921000
 .	-	-	-	0:29:20.260000	0:29:20.921000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:20.260000" end="0:29:22.921000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:20.260000" end="0:29:22.921000" project="PP03" age_lower="18" age_upper="35">
 beziehungsweise	-	-	-	0:29:20.260000	0:29:20.921000
 ,	-	-	-	0:29:20.260000	0:29:20.921000
 wenn	-	-	-	0:29:20.921000	0:29:22.921000
@@ -7741,24 +7741,24 @@ jeder	-	-	-	0:29:20.921000	0:29:22.921000
 anders	-	-	-	0:29:20.921000	0:29:22.921000
 .	-	-	-	0:29:20.921000	0:29:22.921000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:22.921000" end="0:29:23.726000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:22.921000" end="0:29:23.726000" age_lower="1" age_upper="999">
 ja	-	-	-	0:29:22.921000	0:29:23.726000
 ,	-	-	-	0:29:22.921000	0:29:23.726000
 ja	-	-	-	0:29:22.921000	0:29:23.726000
 .	-	-	-	0:29:22.921000	0:29:23.726000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:23.726000" end="0:29:24.046000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:23.726000" end="0:29:24.046000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:29:23.726000	0:29:24.046000
 ?	-	-	-	0:29:23.726000	0:29:24.046000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:24.046000" end="0:29:24.971000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:24.046000" end="0:29:24.971000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:24.046000	0:29:24.971000
 ,	-	-	-	0:29:24.046000	0:29:24.971000
 dass	-	-	-	0:29:24.046000	0:29:24.971000
 stimmt	-	-	-	0:29:24.046000	0:29:24.971000
 .	-	-	-	0:29:24.046000	0:29:24.971000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:24.046000" end="0:29:26.599000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:24.046000" end="0:29:26.599000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:29:24.046000	0:29:24.971000
 wie	-	-	-	0:29:24.046000	0:29:24.971000
 das	-	-	-	0:29:24.046000	0:29:24.971000
@@ -7772,13 +7772,13 @@ das	-	-	-	0:29:24.971000	0:29:26.599000
 auch	-	-	-	0:29:24.971000	0:29:26.599000
 .	-	-	-	0:29:24.971000	0:29:26.599000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:26.599000" end="0:29:27.280000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:26.599000" end="0:29:27.280000" age_lower="1" age_upper="999">
 ja	-	-	-	0:29:26.599000	0:29:27.280000
 ,	-	-	-	0:29:26.599000	0:29:27.280000
 ja	-	-	-	0:29:26.599000	0:29:27.280000
 .	-	-	-	0:29:26.599000	0:29:27.280000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:27.280000" end="0:29:29.127000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:27.280000" end="0:29:29.127000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:29:27.280000	0:29:29.127000
 es	-	-	-	0:29:27.280000	0:29:29.127000
 wird	-	-	-	0:29:27.280000	0:29:29.127000
@@ -7789,11 +7789,11 @@ sich	-	-	-	0:29:27.280000	0:29:29.127000
 sicher	-	-	-	0:29:27.280000	0:29:29.127000
 weniger	-	-	-	0:29:27.280000	0:29:29.127000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:29.127000" end="0:29:29.788000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:29.127000" end="0:29:29.788000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:29.127000	0:29:29.788000
 .	-	-	-	0:29:29.127000	0:29:29.788000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:29.127000" end="0:29:32.297000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:29.127000" end="0:29:32.297000" project="PP03" age_lower="18" age_upper="35">
 verändern	-	-	-	0:29:29.127000	0:29:29.788000
 wie	-	-	-	0:29:29.127000	0:29:29.788000
 das	-	-	-	0:29:29.788000	0:29:32.297000
@@ -7809,7 +7809,7 @@ jetzt	-	-	-	0:29:29.788000	0:29:32.297000
 nicht	-	-	-	0:29:29.788000	0:29:32.297000
 .	-	-	-	0:29:29.788000	0:29:32.297000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:32.297000" end="0:29:56.284000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:32.297000" end="0:29:56.284000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:32.297000	0:29:33.982000
 ,	-	-	-	0:29:32.297000	0:29:33.982000
 gut	-	-	-	0:29:32.297000	0:29:33.982000
@@ -7887,7 +7887,7 @@ egal	-	-	-	0:29:53.250000	0:29:54.284000
 oder	-	-	-	0:29:54.284000	0:29:56.284000
 ?	-	-	-	0:29:54.284000	0:29:56.284000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:54.284000" end="0:29:56.284000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:54.284000" end="0:29:56.284000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:29:54.284000	0:29:56.284000
 ist	-	-	-	0:29:54.284000	0:29:56.284000
 eigentlich	-	-	-	0:29:54.284000	0:29:56.284000
@@ -7900,7 +7900,7 @@ der	-	-	-	0:29:54.284000	0:29:56.284000
 Zeit	-	-	-	0:29:54.284000	0:29:56.284000
 .	-	-	-	0:29:54.284000	0:29:56.284000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:56.284000" end="0:30:05.028000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:56.284000" end="0:30:05.028000" age_lower="1" age_upper="999">
 okay	-	-	-	0:29:56.284000	0:29:57.978000
 ,	-	-	-	0:29:56.284000	0:29:57.978000
 okay	-	-	-	0:29:56.284000	0:29:57.978000
@@ -7920,7 +7920,7 @@ Hochdeutsch	-	-	-	0:29:59.978000	0:30:03.811000
 ?	-	-	-	0:29:59.978000	0:30:03.811000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:03.811000" end="0:30:14.463000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:03.811000" end="0:30:14.463000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ich	-	-	-	0:30:05.028000	0:30:06.099000
 finde	-	-	-	0:30:05.028000	0:30:06.099000
@@ -7958,22 +7958,22 @@ nicht	-	-	-	0:30:12.097000	0:30:14.463000
 treffen	-	-	-	0:30:12.097000	0:30:14.463000
 .	-	-	-	0:30:12.097000	0:30:14.463000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:14.463000" end="0:30:15.022000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:14.463000" end="0:30:15.022000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:14.463000	0:30:15.022000
 .	-	-	-	0:30:14.463000	0:30:15.022000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:15.022000" end="0:30:16.089000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:15.022000" end="0:30:16.089000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:30:15.022000	0:30:16.089000
 sich	-	-	-	0:30:15.022000	0:30:16.089000
 nicht	-	-	-	0:30:15.022000	0:30:16.089000
 finden	-	-	-	0:30:15.022000	0:30:16.089000
 .	-	-	-	0:30:15.022000	0:30:16.089000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:16.089000" end="0:30:16.683000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:16.089000" end="0:30:16.683000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:16.089000	0:30:16.683000
 .	-	-	-	0:30:16.089000	0:30:16.683000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:16.683000" end="0:30:17.699000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:16.683000" end="0:30:17.699000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:30:16.683000	0:30:17.699000
 finde	-	-	-	0:30:16.683000	0:30:17.699000
 es	-	-	-	0:30:16.683000	0:30:17.699000
@@ -7981,7 +7981,7 @@ schon	-	-	-	0:30:16.683000	0:30:17.699000
 wichtig	-	-	-	0:30:16.683000	0:30:17.699000
 .	-	-	-	0:30:16.683000	0:30:17.699000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:17.699000" end="0:30:25.458000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:17.699000" end="0:30:25.458000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:17.699000	0:30:19.632000
 ,	-	-	-	0:30:17.699000	0:30:19.632000
 okay	-	-	-	0:30:17.699000	0:30:19.632000
@@ -7996,10 +7996,10 @@ gut	-	-	-	0:30:19.632000	0:30:21.450000
 .	-	-	-	0:30:21.450000	0:30:23.860000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:23.860000" end="0:30:25.458000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:23.860000" end="0:30:25.458000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:25.458000" end="0:30:44.104000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:25.458000" end="0:30:44.104000" age_lower="1" age_upper="999">
 bitte	-	-	-	0:30:25.458000	0:30:26.671000
 überlegen	-	-	-	0:30:25.458000	0:30:26.671000
 Sie	-	-	-	0:30:25.458000	0:30:26.671000
@@ -8059,7 +8059,7 @@ so	-	-	-	0:30:39.178000	0:30:42.259000
 vielleicht	-	-	-	0:30:42.259000	0:30:44.104000
 /.	-	-	-	0:30:42.259000	0:30:44.104000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:42.259000" end="0:30:44.104000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:42.259000" end="0:30:44.104000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:42.259000	0:30:44.104000
 ,	-	-	-	0:30:42.259000	0:30:44.104000
 halt	-	-	-	0:30:42.259000	0:30:44.104000
@@ -8067,17 +8067,17 @@ mit	-	-	-	0:30:42.259000	0:30:44.104000
 andere	-	-	-	0:30:42.259000	0:30:44.104000
 Dialekte	-	-	-	0:30:42.259000	0:30:44.104000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:44.104000" end="0:30:45.411000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:44.104000" end="0:30:45.411000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:44.104000	0:30:45.411000
 .	-	-	-	0:30:44.104000	0:30:45.411000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:44.104000" end="0:30:45.411000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:44.104000" end="0:30:45.411000" project="PP03" age_lower="18" age_upper="35">
 vermischt	-	-	-	0:30:44.104000	0:30:45.411000
 sich	-	-	-	0:30:44.104000	0:30:45.411000
 es	-	-	-	0:30:44.104000	0:30:45.411000
 .	-	-	-	0:30:44.104000	0:30:45.411000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:45.411000" end="0:30:48.785000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:45.411000" end="0:30:48.785000" age_lower="1" age_upper="999">
 wie	-	-	-	0:30:45.411000	0:30:47.100000
 schaut	-	-	-	0:30:45.411000	0:30:47.100000
 das	-	-	-	0:30:45.411000	0:30:47.100000
@@ -8091,7 +8091,7 @@ Leute	-	-	-	0:30:47.769000	0:30:48.785000
 da	-	-	-	0:30:47.769000	0:30:48.785000
 ?	-	-	-	0:30:47.769000	0:30:48.785000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:47.769000" end="0:30:52.224000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:47.769000" end="0:30:52.224000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:30:47.769000	0:30:48.785000
 was	-	-	-	0:30:47.769000	0:30:48.785000
 ich	-	-	-	0:30:47.769000	0:30:48.785000
@@ -8115,11 +8115,11 @@ ORT	ORT	-	-	0:30:50.224000	0:30:52.224000
 ist	-	-	-	0:30:50.224000	0:30:52.224000
 ,	-	-	-	0:30:50.224000	0:30:52.224000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:52.224000" end="0:30:52.828000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:52.224000" end="0:30:52.828000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:52.224000	0:30:52.828000
 .	-	-	-	0:30:52.224000	0:30:52.828000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:52.224000" end="0:31:03.271000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:52.224000" end="0:31:03.271000" project="PP03" age_lower="18" age_upper="35">
 sind	-	-	-	0:30:52.224000	0:30:52.828000
 ganz	-	-	-	0:30:52.224000	0:30:52.828000
 viele	-	-	-	0:30:52.828000	0:30:54.312000
@@ -8154,11 +8154,11 @@ sagen	-	-	-	0:31:01.271000	0:31:03.271000
 _ohi_	-	-	-	0:31:01.271000	0:31:03.271000
 .	-	-	-	0:31:01.271000	0:31:03.271000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:03.271000" end="0:31:03.794000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:03.271000" end="0:31:03.794000" age_lower="1" age_upper="999">
 ja	-	-	-	0:31:03.271000	0:31:03.794000
 .	-	-	-	0:31:03.271000	0:31:03.794000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:03.271000" end="0:31:05.456000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:03.271000" end="0:31:05.456000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:31:03.271000	0:31:03.794000
 macht	-	-	-	0:31:03.794000	0:31:05.456000
 einen	-	-	-	0:31:03.794000	0:31:05.456000
@@ -8167,10 +8167,10 @@ in	-	-	-	0:31:03.794000	0:31:05.456000
 der	-	-	-	0:31:03.794000	0:31:05.456000
 Aussprache	-	-	-	0:31:03.794000	0:31:05.456000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:05.456000" end="0:31:05.804000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:05.456000" end="0:31:05.804000" age_lower="1" age_upper="999">
 (ja)	-	-	-	0:31:05.456000	0:31:05.804000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:05.456000" end="0:31:07.712000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:05.456000" end="0:31:07.712000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:31:05.456000	0:31:05.804000
 ich	-	-	-	0:31:05.804000	0:31:07.712000
 passe	-	-	-	0:31:05.804000	0:31:07.712000
@@ -8180,11 +8180,11 @@ ihm	-	-	-	0:31:05.804000	0:31:07.712000
 an	-	-	-	0:31:05.804000	0:31:07.712000
 ,	-	-	-	0:31:05.804000	0:31:07.712000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:07.712000" end="0:31:08.378000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:07.712000" end="0:31:08.378000" age_lower="1" age_upper="999">
 okay	-	-	-	0:31:07.712000	0:31:08.378000
 .	-	-	-	0:31:07.712000	0:31:08.378000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:07.712000" end="0:31:10.570000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:07.712000" end="0:31:10.570000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:31:07.712000	0:31:08.378000
 er	-	-	-	0:31:07.712000	0:31:08.378000
 mich	-	-	-	0:31:07.712000	0:31:08.378000
@@ -8197,11 +8197,11 @@ oder	-	-	-	0:31:08.378000	0:31:10.570000
 so	-	-	-	0:31:08.378000	0:31:10.570000
 .	-	-	-	0:31:08.378000	0:31:10.570000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:10.570000" end="0:31:11.065000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:10.570000" end="0:31:11.065000" age_lower="1" age_upper="999">
 okay	-	-	-	0:31:10.570000	0:31:11.065000
 .	-	-	-	0:31:10.570000	0:31:11.065000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:10.570000" end="0:31:11.809000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:10.570000" end="0:31:11.809000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:31:10.570000	0:31:11.065000
 so	-	-	-	0:31:10.570000	0:31:11.065000
 quasi	-	-	-	0:31:10.570000	0:31:11.065000
@@ -8210,11 +8210,11 @@ quasi	-	-	-	0:31:10.570000	0:31:11.065000
 korrekt	-	-	-	0:31:11.065000	0:31:11.809000
 !"	-	-	-	0:31:11.065000	0:31:11.809000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:11.809000" end="0:31:12.721000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:11.809000" end="0:31:12.721000" age_lower="1" age_upper="999">
 okay	-	-	-	0:31:11.809000	0:31:12.721000
 .	-	-	-	0:31:11.809000	0:31:12.721000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:12.721000" end="0:31:16.401000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:12.721000" end="0:31:16.401000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:31:12.721000	0:31:14.001000
 fällt	-	-	-	0:31:12.721000	0:31:14.001000
 mir	-	-	-	0:31:12.721000	0:31:14.001000
@@ -8228,11 +8228,11 @@ so	-	-	-	0:31:14.001000	0:31:16.401000
 so	-	-	-	0:31:14.001000	0:31:16.401000
 vermischt	-	-	-	0:31:14.001000	0:31:16.401000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:16.401000" end="0:31:16.805000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:16.401000" end="0:31:16.805000" age_lower="1" age_upper="999">
 ja	-	-	-	0:31:16.401000	0:31:16.805000
 .	-	-	-	0:31:16.401000	0:31:16.805000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:16.401000" end="0:31:18.218000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:16.401000" end="0:31:18.218000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:31:16.401000	0:31:16.805000
 man	-	-	-	0:31:16.401000	0:31:16.805000
 passt	-	-	-	0:31:16.805000	0:31:18.218000
@@ -8241,17 +8241,17 @@ automatisch	-	-	-	0:31:16.805000	0:31:18.218000
 am	-	-	-	0:31:16.805000	0:31:18.218000
 ,	-	-	-	0:31:16.805000	0:31:18.218000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:18.218000" end="0:31:18.602000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:18.218000" end="0:31:18.602000" age_lower="1" age_upper="999">
 ja	-	-	-	0:31:18.218000	0:31:18.602000
 .	-	-	-	0:31:18.218000	0:31:18.602000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:18.602000" end="0:31:19.555000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:18.602000" end="0:31:19.555000" project="PP03" age_lower="18" age_upper="35">
 am	-	-	-	0:31:18.602000	0:31:19.555000
 Gegenüber	-	-	-	0:31:18.602000	0:31:19.555000
 an	-	-	-	0:31:18.602000	0:31:19.555000
 .	-	-	-	0:31:18.602000	0:31:19.555000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:19.555000" end="0:31:36.183000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:19.555000" end="0:31:36.183000" age_lower="1" age_upper="999">
 ja	-	-	-	0:31:19.555000	0:31:20.868000
 ,	-	-	-	0:31:19.555000	0:31:20.868000
 ja	-	-	-	0:31:19.555000	0:31:20.868000
@@ -8323,7 +8323,7 @@ und	-	-	-	0:31:34.373000	0:31:36.183000
 so	-	-	-	0:31:34.373000	0:31:36.183000
 ,	-	-	-	0:31:34.373000	0:31:36.183000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:34.373000" end="0:31:37.098000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:34.373000" end="0:31:37.098000" project="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:31:34.373000	0:31:36.183000
 ja	-	-	-	0:31:34.373000	0:31:36.183000
 ,	-	-	-	0:31:34.373000	0:31:36.183000
@@ -8333,7 +8333,7 @@ mehr	-	-	-	0:31:36.183000	0:31:37.098000
 oder	-	-	-	0:31:36.183000	0:31:37.098000
 weniger	-	-	-	0:31:36.183000	0:31:37.098000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:37.098000" end="0:31:39.007000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:37.098000" end="0:31:39.007000" age_lower="1" age_upper="999">
 ja	-	-	-	0:31:37.098000	0:31:37.971000
 ,	-	-	-	0:31:37.098000	0:31:37.971000
 genau	-	-	-	0:31:37.098000	0:31:37.971000
@@ -8345,11 +8345,11 @@ es	-	-	-	0:31:37.971000	0:31:39.007000
 gibt/	-	-	-	0:31:37.971000	0:31:39.007000
 /.	-	-	-	0:31:37.971000	0:31:39.007000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:37.971000" end="0:31:39.007000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:37.971000" end="0:31:39.007000" project="PP03" age_lower="18" age_upper="35">
 dort	-	-	-	0:31:37.971000	0:31:39.007000
 .	-	-	-	0:31:37.971000	0:31:39.007000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:39.007000" end="0:31:51.150000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:39.007000" end="0:31:51.150000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:31:39.007000	0:31:40.955000
 es	-	-	-	0:31:39.007000	0:31:40.955000
 sonst	-	-	-	0:31:39.007000	0:31:40.955000
@@ -8400,7 +8400,7 @@ oder	-	-	-	0:31:48.050000	0:31:50.050000
 oder	-	-	-	0:31:50.050000	0:31:51.150000
 ?	-	-	-	0:31:50.050000	0:31:51.150000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:51.150000" end="0:31:53.260000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:51.150000" end="0:31:53.260000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:31:51.150000	0:31:52.636000
 ich	-	-	-	0:31:51.150000	0:31:52.636000
 wüsste	-	-	-	0:31:51.150000	0:31:52.636000
@@ -8413,11 +8413,11 @@ ist	-	-	-	0:31:52.636000	0:31:53.260000
 jetzt	-	-	-	0:31:52.636000	0:31:53.260000
 ,	-	-	-	0:31:52.636000	0:31:53.260000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:53.260000" end="0:31:53.868000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:53.260000" end="0:31:53.868000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:53.260000	0:31:53.868000
 .	-	-	-	0:31:53.260000	0:31:53.868000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:53.260000" end="0:31:56.270000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:53.260000" end="0:31:56.270000" project="PP03" age_lower="18" age_upper="35">
 fällt	-	-	-	0:31:53.260000	0:31:53.868000
 mir	-	-	-	0:31:53.260000	0:31:53.868000
 jetzt	-	-	-	0:31:53.260000	0:31:53.868000
@@ -8435,7 +8435,7 @@ ein	-	-	-	0:31:53.868000	0:31:56.270000
 bisschen	-	-	-	0:31:53.868000	0:31:56.270000
 .	-	-	-	0:31:53.868000	0:31:56.270000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:56.270000" end="0:32:02.037000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:56.270000" end="0:32:02.037000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:56.270000	0:31:58.040000
 ,	-	-	-	0:31:56.270000	0:31:58.040000
 okay	-	-	-	0:31:56.270000	0:31:58.040000
@@ -8444,10 +8444,10 @@ mhm	-	-	-	0:31:56.270000	0:31:58.040000
 .	-	-	-	0:31:56.270000	0:31:58.040000
 <pause duration="4,0s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:58.040000" end="0:32:02.037000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:58.040000" end="0:32:02.037000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:02.037000" end="0:32:10.877000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:02.037000" end="0:32:10.877000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:32:02.037000	0:32:02.314000
 .	-	-	-	0:32:02.037000	0:32:02.314000
 <pause duration="0,6s"/>
@@ -8458,10 +8458,10 @@ gut	-	-	-	0:32:02.314000	0:32:03.670000
 .	-	-	-	0:32:03.670000	0:32:04.792000
 <pause duration="6,1s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:04.792000" end="0:32:10.877000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:04.792000" end="0:32:10.877000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="6,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:10.877000" end="0:32:21.666000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:10.877000" end="0:32:21.666000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:32:10.877000	0:32:13.871000
 wir	-	-	-	0:32:10.877000	0:32:13.871000
 da	-	-	-	0:32:10.877000	0:32:13.871000
@@ -8489,10 +8489,10 @@ Hochdeutsche	-	-	-	0:32:16.293000	0:32:19.197000
 .	-	-	-	0:32:16.293000	0:32:19.197000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:19.197000" end="0:32:21.666000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:19.197000" end="0:32:21.666000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:21.666000" end="0:32:31.854000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:21.666000" end="0:32:31.854000" age_lower="1" age_upper="999">
 und	-	-	-	0:32:21.666000	0:32:25.495000
 sozusagen	-	-	-	0:32:21.666000	0:32:25.495000
 diese	-	-	-	0:32:21.666000	0:32:25.495000
@@ -8514,12 +8514,12 @@ ungefähr	-	-	-	0:32:25.495000	0:32:29.472000
 .	-	-	-	0:32:25.495000	0:32:29.472000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:29.472000" end="0:32:32.695000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:29.472000" end="0:32:32.695000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 Mischdialekte	-	-	-	0:32:31.854000	0:32:32.695000
 ?	-	-	-	0:32:31.854000	0:32:32.695000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:32.695000" end="0:32:36.683000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:32.695000" end="0:32:36.683000" age_lower="1" age_upper="999">
 ja	-	-	-	0:32:32.695000	0:32:34.695000
 ,	-	-	-	0:32:32.695000	0:32:34.695000
 oder	-	-	-	0:32:32.695000	0:32:34.695000
@@ -8540,7 +8540,7 @@ so	-	-	-	0:32:34.695000	0:32:36.683000
 ähm	-	-	-	0:32:34.695000	0:32:36.683000
 ,	-	-	-	0:32:34.695000	0:32:36.683000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:36.683000" end="0:32:38.672000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:36.683000" end="0:32:38.672000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:36.683000	0:32:38.672000
 ,	-	-	-	0:32:36.683000	0:32:38.672000
 auf	-	-	-	0:32:36.683000	0:32:38.672000
@@ -8552,13 +8552,13 @@ beim	-	-	-	0:32:36.683000	0:32:38.672000
 Walserischen	-	-	-	0:32:36.683000	0:32:38.672000
 als	-	-	-	0:32:36.683000	0:32:38.672000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:38.672000" end="0:32:40.450000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:38.672000" end="0:32:40.450000" age_lower="1" age_upper="999">
 ja	-	-	-	0:32:38.672000	0:32:40.450000
 ,	-	-	-	0:32:38.672000	0:32:40.450000
 ja	-	-	-	0:32:38.672000	0:32:40.450000
 .	-	-	-	0:32:38.672000	0:32:40.450000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:38.672000" end="0:32:43.564000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:38.672000" end="0:32:43.564000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:32:38.672000	0:32:40.450000
 beim	-	-	-	0:32:38.672000	0:32:40.450000
 Hochdeutschen	-	-	-	0:32:38.672000	0:32:40.450000
@@ -8580,7 +8580,7 @@ vom	-	-	-	0:32:40.450000	0:32:43.564000
 Hochdeutsch	-	-	-	0:32:40.450000	0:32:43.564000
 .	-	-	-	0:32:40.450000	0:32:43.564000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:43.564000" end="0:32:54.189000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:43.564000" end="0:32:54.189000" age_lower="1" age_upper="999">
 ja	-	-	-	0:32:43.564000	0:32:46.485000
 ,	-	-	-	0:32:43.564000	0:32:46.485000
 ja	-	-	-	0:32:43.564000	0:32:46.485000
@@ -8614,22 +8614,22 @@ also	-	-	-	0:32:52.643000	0:32:54.189000
 ja	-	-	-	0:32:52.643000	0:32:54.189000
 .	-	-	-	0:32:52.643000	0:32:54.189000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:52.643000" end="0:32:54.189000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:52.643000" end="0:32:54.189000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:32:52.643000	0:32:54.189000
 Mischformen	-	-	-	0:32:52.643000	0:32:54.189000
 ?	-	-	-	0:32:52.643000	0:32:54.189000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:54.189000" end="0:32:55.464000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:54.189000" end="0:32:55.464000" age_lower="1" age_upper="999">
 ja	-	-	-	0:32:54.189000	0:32:55.464000
 .	-	-	-	0:32:54.189000	0:32:55.464000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:54.189000" end="0:32:55.464000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:54.189000" end="0:32:55.464000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:54.189000	0:32:55.464000
 ,	-	-	-	0:32:54.189000	0:32:55.464000
 schon	-	-	-	0:32:54.189000	0:32:55.464000
 .	-	-	-	0:32:54.189000	0:32:55.464000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:55.464000" end="0:33:04.259000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:55.464000" end="0:33:04.259000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:32:55.464000	0:32:57.464000
 ,	-	-	-	0:32:55.464000	0:32:57.464000
@@ -8650,20 +8650,20 @@ und	-	-	-	0:33:01.381000	0:33:04.259000
 immer	-	-	-	0:33:01.381000	0:33:04.259000
 .	-	-	-	0:33:01.381000	0:33:04.259000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:04.259000" end="0:33:05.511000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:04.259000" end="0:33:05.511000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:04.259000" end="0:33:05.511000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:04.259000" end="0:33:05.511000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:05.511000" end="0:33:06.823000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:05.511000" end="0:33:06.823000" project="PP03" age_lower="18" age_upper="35">
 im	-	-	-	0:33:05.511000	0:33:06.823000
 Moment	-	-	-	0:33:05.511000	0:33:06.823000
 vielleicht	-	-	-	0:33:05.511000	0:33:06.823000
 da	-	-	-	0:33:05.511000	0:33:06.823000
 .	-	-	-	0:33:05.511000	0:33:06.823000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:06.823000" end="0:33:19.307000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:06.823000" end="0:33:19.307000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:06.823000	0:33:07.401000
 .	-	-	-	0:33:06.823000	0:33:07.401000
 <pause duration="0,6s"/>
@@ -8700,7 +8700,7 @@ zu	-	-	-	0:33:15.407000	0:33:19.307000
 wechseln	-	-	-	0:33:15.407000	0:33:19.307000
 ?	-	-	-	0:33:15.407000	0:33:19.307000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:19.307000" end="0:33:21.286000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:19.307000" end="0:33:21.286000" project="PP03" age_lower="18" age_upper="35">
 mir	-	-	-	0:33:19.307000	0:33:20.631000
 fällt	-	-	-	0:33:19.307000	0:33:20.631000
 es	-	-	-	0:33:19.307000	0:33:20.631000
@@ -8708,27 +8708,27 @@ leicht	-	-	-	0:33:19.307000	0:33:20.631000
 .	-	-	-	0:33:19.307000	0:33:20.631000
 also	-	-	-	0:33:20.631000	0:33:21.286000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:20.631000" end="0:33:21.286000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:20.631000" end="0:33:21.286000" age_lower="1" age_upper="999">
 leicht	-	-	-	0:33:20.631000	0:33:21.286000
 .	-	-	-	0:33:20.631000	0:33:21.286000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:21.286000" end="0:33:21.885000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:21.286000" end="0:33:21.885000" project="PP03" age_lower="18" age_upper="35">
 sehr	-	-	-	0:33:21.286000	0:33:21.885000
 leicht	-	-	-	0:33:21.286000	0:33:21.885000
 .	-	-	-	0:33:21.286000	0:33:21.885000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:21.286000" end="0:33:22.573000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:21.286000" end="0:33:22.573000" age_lower="1" age_upper="999">
 also	-	-	-	0:33:21.286000	0:33:21.885000
 Sie	-	-	-	0:33:21.286000	0:33:21.885000
 machen	-	-	-	0:33:21.885000	0:33:22.573000
 das	-	-	-	0:33:21.885000	0:33:22.573000
 ganz	-	-	-	0:33:21.885000	0:33:22.573000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:22.573000" end="0:33:23.535000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:22.573000" end="0:33:23.535000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:22.573000	0:33:23.535000
 .	-	-	-	0:33:22.573000	0:33:23.535000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:22.573000" end="0:33:24.359000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:22.573000" end="0:33:24.359000" age_lower="1" age_upper="999">
 automatisch	-	-	-	0:33:22.573000	0:33:23.535000
 ,	-	-	-	0:33:22.573000	0:33:23.535000
 eigentlich	-	-	-	0:33:23.535000	0:33:24.359000
@@ -8736,7 +8736,7 @@ eigentlich	-	-	-	0:33:23.535000	0:33:24.359000
 ja	-	-	-	0:33:23.535000	0:33:24.359000
 .	-	-	-	0:33:23.535000	0:33:24.359000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:24.359000" end="0:33:30.874000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:24.359000" end="0:33:30.874000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:33:24.359000	0:33:25.713000
 ich	-	-	-	0:33:24.359000	0:33:25.713000
 mache	-	-	-	0:33:24.359000	0:33:25.713000
@@ -8772,11 +8772,11 @@ Mama	-	-	-	0:33:29.116000	0:33:30.116000
 Papa	-	-	-	0:33:30.116000	0:33:30.874000
 ,	-	-	-	0:33:30.116000	0:33:30.874000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:30.116000" end="0:33:30.874000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:30.116000" end="0:33:30.874000" age_lower="1" age_upper="999">
 ja	-	-	-	0:33:30.116000	0:33:30.874000
 .	-	-	-	0:33:30.116000	0:33:30.874000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:30.874000" end="0:33:36.345000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:30.874000" end="0:33:36.345000" project="PP03" age_lower="18" age_upper="35">
 Schwester	-	-	-	0:33:30.874000	0:33:32.935000
 ,	-	-	-	0:33:30.874000	0:33:32.935000
 Freund	-	-	-	0:33:30.874000	0:33:32.935000
@@ -8799,9 +8799,9 @@ wir	-	-	-	0:33:34.796000	0:33:36.345000
 anders	-	-	-	0:33:34.796000	0:33:36.345000
 .	-	-	-	0:33:34.796000	0:33:36.345000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:36.345000" end="0:33:37.365000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:36.345000" end="0:33:37.365000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:36.345000" end="0:33:43.281000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:36.345000" end="0:33:43.281000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:33:36.345000	0:33:37.365000
 ist	-	-	-	0:33:36.345000	0:33:37.365000
 auch	-	-	-	0:33:36.345000	0:33:37.365000
@@ -8830,11 +8830,11 @@ Mama	-	-	-	0:33:40.615000	0:33:43.281000
 was	-	-	-	0:33:40.615000	0:33:43.281000
 erzählt	-	-	-	0:33:40.615000	0:33:43.281000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:43.281000" end="0:33:43.829000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:43.281000" end="0:33:43.829000" age_lower="1" age_upper="999">
 ja	-	-	-	0:33:43.281000	0:33:43.829000
 .	-	-	-	0:33:43.281000	0:33:43.829000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:43.829000" end="0:33:46.874000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:43.829000" end="0:33:46.874000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:33:43.829000	0:33:45.555000
 im	-	-	-	0:33:43.829000	0:33:45.555000
 zweiten	-	-	-	0:33:43.829000	0:33:45.555000
@@ -8849,14 +8849,14 @@ Dialekt	-	-	-	0:33:45.555000	0:33:46.874000
 gewechselt	-	-	-	0:33:45.555000	0:33:46.874000
 .	-	-	-	0:33:45.555000	0:33:46.874000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:46.874000" end="0:33:50.815000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:46.874000" end="0:33:50.815000" age_lower="1" age_upper="999">
 oh	-	-	-	0:33:46.874000	0:33:48.003000
 wow	-	-	-	0:33:46.874000	0:33:48.003000
 ,	-	-	-	0:33:46.874000	0:33:48.003000
 okay	-	-	-	0:33:46.874000	0:33:48.003000
 .	-	-	-	0:33:46.874000	0:33:48.003000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:48.003000" end="0:33:50.815000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:48.003000" end="0:33:50.815000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:33:48.003000	0:33:50.815000
 es	-	-	-	0:33:48.003000	0:33:50.815000
 ist	-	-	-	0:33:48.003000	0:33:50.815000
@@ -8874,7 +8874,7 @@ rede	-	-	-	0:33:48.003000	0:33:50.815000
 ich	-	-	-	0:33:48.003000	0:33:50.815000
 .	-	-	-	0:33:48.003000	0:33:50.815000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:50.815000" end="0:33:54.872000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:50.815000" end="0:33:54.872000" age_lower="1" age_upper="999">
 wow	-	-	-	0:33:50.815000	0:33:51.295000
 ,	-	-	-	0:33:50.815000	0:33:51.295000
 das	-	-	-	0:33:51.295000	0:33:53.326000
@@ -8892,11 +8892,11 @@ Dialekte	-	-	-	0:33:53.326000	0:33:54.872000
 ,	-	-	-	0:33:53.326000	0:33:54.872000
 das	-	-	-	0:33:53.326000	0:33:54.872000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:53.326000" end="0:33:54.872000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:53.326000" end="0:33:54.872000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:53.326000	0:33:54.872000
 .	-	-	-	0:33:53.326000	0:33:54.872000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:54.872000" end="0:33:56.747000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:54.872000" end="0:33:56.747000" age_lower="1" age_upper="999">
 t/	-	-	-	0:33:54.872000	0:33:56.747000
 finde	-	-	-	0:33:54.872000	0:33:56.747000
 ich	-	-	-	0:33:54.872000	0:33:56.747000
@@ -8904,7 +8904,7 @@ total	-	-	-	0:33:54.872000	0:33:56.747000
 spannend	-	-	-	0:33:54.872000	0:33:56.747000
 .	-	-	-	0:33:54.872000	0:33:56.747000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:54.872000" end="0:33:58.536000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:54.872000" end="0:33:58.536000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:54.872000	0:33:56.747000
 ,	-	-	-	0:33:54.872000	0:33:56.747000
 halt	-	-	-	0:33:54.872000	0:33:56.747000
@@ -8924,11 +8924,11 @@ Freunden	-	-	-	0:33:56.747000	0:33:58.536000
 wo	-	-	-	0:33:56.747000	0:33:58.536000
 wir	-	-	-	0:33:56.747000	0:33:58.536000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:58.536000" end="0:33:59.229000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:58.536000" end="0:33:59.229000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:58.536000	0:33:59.229000
 .	-	-	-	0:33:58.536000	0:33:59.229000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:58.536000" end="0:34:00.638000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:58.536000" end="0:34:00.638000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:33:58.536000	0:33:59.229000
 heimgebracht	-	-	-	0:33:58.536000	0:33:59.229000
 haben	-	-	-	0:33:59.229000	0:34:00.638000
@@ -8940,10 +8940,10 @@ irgendwann	-	-	-	0:33:59.229000	0:34:00.638000
 angefangen	-	-	-	0:33:59.229000	0:34:00.638000
 lachen	-	-	-	0:33:59.229000	0:34:00.638000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:00.638000" end="0:34:02.751000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:00.638000" end="0:34:02.751000" age_lower="1" age_upper="999">
 (lacchen))	-	-	-	0:34:00.638000	0:34:02.751000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:00.638000" end="0:34:07.963000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:00.638000" end="0:34:07.963000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:34:00.638000	0:34:02.751000
 haben	-	-	-	0:34:00.638000	0:34:02.751000
 gesagt	-	-	-	0:34:00.638000	0:34:02.751000
@@ -8975,13 +8975,13 @@ mitunter	-	-	-	0:34:04.530000	0:34:07.963000
 wechseln	-	-	-	0:34:04.530000	0:34:07.963000
 .	-	-	-	0:34:04.530000	0:34:07.963000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:07.963000" end="0:34:08.835000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:07.963000" end="0:34:08.835000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:07.963000	0:34:08.353000
 ,	-	-	-	0:34:07.963000	0:34:08.353000
 ja	-	-	-	0:34:08.353000	0:34:08.835000
 .	-	-	-	0:34:08.353000	0:34:08.835000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:08.353000" end="0:34:09.835000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:08.353000" end="0:34:09.835000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:34:08.353000	0:34:08.835000
 ohne	-	-	-	0:34:08.835000	0:34:09.835000
 ,	-	-	-	0:34:08.835000	0:34:09.835000
@@ -8991,15 +8991,15 @@ es	-	-	-	0:34:08.835000	0:34:09.835000
 merken	-	-	-	0:34:08.835000	0:34:09.835000
 ,	-	-	-	0:34:08.835000	0:34:09.835000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:09.835000" end="0:34:10.300000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:09.835000" end="0:34:10.300000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:09.835000	0:34:10.300000
 ,	-	-	-	0:34:09.835000	0:34:10.300000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:09.835000" end="0:34:10.300000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:09.835000" end="0:34:10.300000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:34:09.835000	0:34:10.300000
 /.	-	-	-	0:34:09.835000	0:34:10.300000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:10.300000" end="0:34:13.551000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:10.300000" end="0:34:13.551000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:10.300000	0:34:10.685000
 .	-	-	-	0:34:10.300000	0:34:10.685000
 <pause duration="0,7s"/>
@@ -9010,22 +9010,22 @@ mhm	-	-	-	0:34:10.685000	0:34:13.551000
 okay	-	-	-	0:34:10.685000	0:34:13.551000
 .	-	-	-	0:34:10.685000	0:34:13.551000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:10.685000" end="0:34:13.551000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:10.685000" end="0:34:13.551000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	-	-	-	0:34:10.685000	0:34:13.551000
 ist	-	-	-	0:34:10.685000	0:34:13.551000
 .	-	-	-	0:34:10.685000	0:34:13.551000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:13.551000" end="0:34:16.321000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:13.551000" end="0:34:16.321000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 ähm	-	-	-	0:34:13.551000	0:34:15.216000
 .	-	-	-	0:34:13.551000	0:34:15.216000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:15.216000" end="0:34:16.321000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:15.216000" end="0:34:16.321000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:16.321000" end="0:34:26.342000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:16.321000" end="0:34:26.342000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:34:16.321000	0:34:21.340000
 Sie	-	-	-	0:34:16.321000	0:34:21.340000
 eine	-	-	-	0:34:16.321000	0:34:21.340000
@@ -9047,7 +9047,7 @@ gerne	-	-	-	0:34:21.340000	0:34:24.014000
 ?	-	-	-	0:34:21.340000	0:34:24.014000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:24.014000" end="0:34:32.407000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:24.014000" end="0:34:32.407000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 also	-	-	-	0:34:26.342000	0:34:26.839000
 ,	-	-	-	0:34:26.342000	0:34:26.839000
@@ -9076,22 +9076,22 @@ meine	-	-	-	0:34:30.458000	0:34:32.407000
 Herzsprache	-	-	-	0:34:30.458000	0:34:32.407000
 .	-	-	-	0:34:30.458000	0:34:32.407000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:32.407000" end="0:34:33.668000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:32.407000" end="0:34:33.668000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:32.407000	0:34:33.047000
 ,	-	-	-	0:34:32.407000	0:34:33.047000
 mhm	-	-	-	0:34:33.047000	0:34:33.668000
 .	-	-	-	0:34:33.047000	0:34:33.668000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:33.047000" end="0:34:34.715000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:33.047000" end="0:34:34.715000" project="PP03" age_lower="18" age_upper="35">
 meine	-	-	-	0:34:33.047000	0:34:33.668000
 Gefühlssprache	-	-	-	0:34:33.668000	0:34:34.715000
 ,	-	-	-	0:34:33.668000	0:34:34.715000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:34.715000" end="0:34:35.225000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:34.715000" end="0:34:35.225000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:34.715000	0:34:35.225000
 .	-	-	-	0:34:34.715000	0:34:35.225000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:35.225000" end="0:34:37.239000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:35.225000" end="0:34:37.239000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:34:35.225000	0:34:37.239000
 ich	-	-	-	0:34:35.225000	0:34:37.239000
 jetzt	-	-	-	0:34:35.225000	0:34:37.239000
@@ -9100,11 +9100,11 @@ meiner	-	-	-	0:34:35.225000	0:34:37.239000
 Tochter	-	-	-	0:34:35.225000	0:34:37.239000
 vermitteln	-	-	-	0:34:35.225000	0:34:37.239000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:37.239000" end="0:34:37.802000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:37.239000" end="0:34:37.802000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:37.239000	0:34:37.802000
 .	-	-	-	0:34:37.239000	0:34:37.802000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:37.239000" end="0:34:42.554000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:37.239000" end="0:34:42.554000" project="PP03" age_lower="18" age_upper="35">
 möchte	-	-	-	0:34:37.239000	0:34:37.802000
 ,	-	-	-	0:34:37.239000	0:34:37.802000
 aber	-	-	-	0:34:37.802000	0:34:41.581000
@@ -9124,22 +9124,22 @@ einen	-	-	-	0:34:41.581000	0:34:42.554000
 Bezug	-	-	-	0:34:41.581000	0:34:42.554000
 ,	-	-	-	0:34:41.581000	0:34:42.554000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:42.554000" end="0:34:43.040000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:42.554000" end="0:34:43.040000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:42.554000	0:34:43.040000
 .	-	-	-	0:34:42.554000	0:34:43.040000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:43.040000" end="0:34:44.029000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:43.040000" end="0:34:44.029000" project="PP03" age_lower="18" age_upper="35">
 dass	-	-	-	0:34:43.040000	0:34:44.029000
 ich	-	-	-	0:34:43.040000	0:34:44.029000
 sagen	-	-	-	0:34:43.040000	0:34:44.029000
 könnte	-	-	-	0:34:43.040000	0:34:44.029000
 ,	-	-	-	0:34:43.040000	0:34:44.029000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:44.029000" end="0:34:44.808000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:44.029000" end="0:34:44.808000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:44.029000	0:34:44.808000
 .	-	-	-	0:34:44.029000	0:34:44.808000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:44.029000" end="0:34:46.194000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:44.029000" end="0:34:46.194000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:34:44.029000	0:34:44.808000
 kann	-	-	-	0:34:44.029000	0:34:44.808000
 ich	-	-	-	0:34:44.029000	0:34:44.808000
@@ -9149,7 +9149,7 @@ Gefühle	-	-	-	0:34:44.808000	0:34:46.194000
 vermitteln	-	-	-	0:34:44.808000	0:34:46.194000
 .	-	-	-	0:34:44.808000	0:34:46.194000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:46.194000" end="0:34:56.594000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:46.194000" end="0:34:56.594000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:46.194000	0:34:47.882000
 ,	-	-	-	0:34:46.194000	0:34:47.882000
 okay	-	-	-	0:34:46.194000	0:34:47.882000
@@ -9186,7 +9186,7 @@ aber	-	-	-	0:34:55.416000	0:34:56.594000
 trotzdem	-	-	-	0:34:55.416000	0:34:56.594000
 .	-	-	-	0:34:55.416000	0:34:56.594000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:55.416000" end="0:34:56.594000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:55.416000" end="0:34:56.594000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:34:55.416000	0:34:56.594000
 so	-	-	-	0:34:55.416000	0:34:56.594000
 ,	-	-	-	0:34:55.416000	0:34:56.594000
@@ -9195,7 +9195,7 @@ ja	-	-	-	0:34:55.416000	0:34:56.594000
 ja	-	-	-	0:34:55.416000	0:34:56.594000
 .	-	-	-	0:34:55.416000	0:34:56.594000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:56.594000" end="0:35:05.264000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:56.594000" end="0:35:05.264000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:34:56.594000	0:34:59.325000
 ,	-	-	-	0:34:56.594000	0:34:59.325000
 w/	-	-	-	0:34:56.594000	0:34:59.325000
@@ -9231,7 +9231,7 @@ wie	-	-	-	0:35:03.290000	0:35:05.264000
 sprechen	-	-	-	0:35:03.290000	0:35:05.264000
 ?	-	-	-	0:35:03.290000	0:35:05.264000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:05.264000" end="0:35:09.252000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:05.264000" end="0:35:09.252000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:35:05.264000	0:35:09.252000
 mit	-	-	-	0:35:05.264000	0:35:09.252000
 Mama	-	-	-	0:35:05.264000	0:35:09.252000
@@ -9243,11 +9243,11 @@ Tochter	-	-	-	0:35:05.264000	0:35:09.252000
 Tirolerisch	-	-	-	0:35:05.264000	0:35:09.252000
 .	-	-	-	0:35:05.264000	0:35:09.252000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:09.252000" end="0:35:09.742000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:09.252000" end="0:35:09.742000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:09.252000	0:35:09.742000
 .	-	-	-	0:35:09.252000	0:35:09.742000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:09.252000" end="0:35:12.935000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:09.252000" end="0:35:12.935000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:35:09.252000	0:35:09.742000
 mit	-	-	-	0:35:09.252000	0:35:09.742000
 dem	-	-	-	0:35:09.252000	0:35:09.742000
@@ -9265,11 +9265,11 @@ Partner	-	-	-	0:35:09.742000	0:35:12.935000
 Walserisch	-	-	-	0:35:09.742000	0:35:12.935000
 .	-	-	-	0:35:09.742000	0:35:12.935000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:12.935000" end="0:35:13.403000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:12.935000" end="0:35:13.403000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:12.935000	0:35:13.403000
 .	-	-	-	0:35:12.935000	0:35:13.403000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:13.403000" end="0:35:17.160000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:13.403000" end="0:35:17.160000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:35:13.403000	0:35:17.160000
 dann	-	-	-	0:35:13.403000	0:35:17.160000
 halt	-	-	-	0:35:13.403000	0:35:17.160000
@@ -9282,22 +9282,22 @@ also	-	-	-	0:35:13.403000	0:35:17.160000
 Großeltern	-	-	-	0:35:13.403000	0:35:17.160000
 mütterlicherseits	-	-	-	0:35:13.403000	0:35:17.160000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:17.160000" end="0:35:18.627000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:17.160000" end="0:35:18.627000" age_lower="1" age_upper="999">
 isch	-	-	-	0:35:17.160000	0:35:18.627000
 .	-	-	-	0:35:17.160000	0:35:18.627000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:17.160000" end="0:35:18.627000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:17.160000" end="0:35:18.627000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:35:17.160000	0:35:18.627000
 Tiro/	-	-	-	0:35:17.160000	0:35:18.627000
 Tirolerisch	-	-	-	0:35:17.160000	0:35:18.627000
 .	-	-	-	0:35:17.160000	0:35:18.627000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:18.627000" end="0:35:19.453000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:18.627000" end="0:35:19.453000" age_lower="1" age_upper="999">
 <pause duration="0,4s"/>
 mhm	-	-	-	0:35:18.627000	0:35:19.453000
 .	-	-	-	0:35:18.627000	0:35:19.453000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:18.627000" end="0:35:21.516000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:18.627000" end="0:35:21.516000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 und	-	-	-	0:35:18.627000	0:35:19.453000
 väterlicherseits	-	-	-	0:35:19.453000	0:35:21.516000
@@ -9307,7 +9307,7 @@ Beispiel	-	-	-	0:35:19.453000	0:35:21.516000
 Walserisch	-	-	-	0:35:19.453000	0:35:21.516000
 .	-	-	-	0:35:19.453000	0:35:21.516000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:21.516000" end="0:35:28.556000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:21.516000" end="0:35:28.556000" age_lower="1" age_upper="999">
 genau	-	-	-	0:35:21.516000	0:35:23.398000
 ,	-	-	-	0:35:21.516000	0:35:23.398000
 ja	-	-	-	0:35:21.516000	0:35:23.398000
@@ -9334,11 +9334,11 @@ klar	-	-	-	0:35:26.460000	0:35:27.793000
 das	-	-	-	0:35:26.460000	0:35:27.793000
 Tirolerisch	-	-	-	0:35:27.793000	0:35:28.556000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:27.793000" end="0:35:28.556000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:27.793000" end="0:35:28.556000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:27.793000	0:35:28.556000
 .	-	-	-	0:35:27.793000	0:35:28.556000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:28.556000" end="0:35:30.071000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:28.556000" end="0:35:30.071000" age_lower="1" age_upper="999">
 mit	-	-	-	0:35:28.556000	0:35:30.071000
 ,	-	-	-	0:35:28.556000	0:35:30.071000
 okay	-	-	-	0:35:28.556000	0:35:30.071000
@@ -9346,7 +9346,7 @@ okay	-	-	-	0:35:28.556000	0:35:30.071000
 mhm	-	-	-	0:35:28.556000	0:35:30.071000
 .	-	-	-	0:35:28.556000	0:35:30.071000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:30.071000" end="0:35:33.360000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:30.071000" end="0:35:33.360000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:35:30.071000	0:35:31.588000
 das	-	-	-	0:35:30.071000	0:35:31.588000
 ist	-	-	-	0:35:30.071000	0:35:31.588000
@@ -9363,26 +9363,26 @@ mir	-	-	-	0:35:31.588000	0:35:33.360000
 sondern	-	-	-	0:35:31.588000	0:35:33.360000
 ,	-	-	-	0:35:31.588000	0:35:33.360000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:33.360000" end="0:35:33.815000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:33.360000" end="0:35:33.815000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:33.360000	0:35:33.815000
 .	-	-	-	0:35:33.360000	0:35:33.815000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:33.815000" end="0:35:34.396000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:33.815000" end="0:35:34.396000" project="PP03" age_lower="18" age_upper="35">
 keine	-	-	-	0:35:33.815000	0:35:34.396000
 Ahnung	-	-	-	0:35:33.815000	0:35:34.396000
 .	-	-	-	0:35:33.815000	0:35:34.396000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:34.396000" end="0:35:35.255000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:34.396000" end="0:35:35.255000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:34.396000	0:35:35.255000
 .	-	-	-	0:35:34.396000	0:35:35.255000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:34.396000" end="0:35:35.255000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:34.396000" end="0:35:35.255000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:35:34.396000	0:35:35.255000
 ist	-	-	-	0:35:34.396000	0:35:35.255000
 so	-	-	-	0:35:34.396000	0:35:35.255000
 .	-	-	-	0:35:34.396000	0:35:35.255000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:35.255000" end="0:35:48.670000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:35.255000" end="0:35:48.670000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:35.255000	0:35:36.096000
 ,	-	-	-	0:35:35.255000	0:35:36.096000
 ja	-	-	-	0:35:35.255000	0:35:36.096000
@@ -9439,7 +9439,7 @@ reden	-	-	-	0:35:47.958000	0:35:48.670000
 oder	-	-	-	0:35:47.958000	0:35:48.670000
 /?	-	-	-	0:35:47.958000	0:35:48.670000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:47.958000" end="0:35:51.937000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:47.958000" end="0:35:51.937000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:35:47.958000	0:35:48.670000
 ich	-	-	-	0:35:47.958000	0:35:48.670000
 muss	-	-	-	0:35:48.670000	0:35:50.181000
@@ -9453,11 +9453,11 @@ alleine	-	-	-	0:35:50.181000	0:35:51.937000
 habe	-	-	-	0:35:50.181000	0:35:51.937000
 ,	-	-	-	0:35:50.181000	0:35:51.937000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:51.937000" end="0:35:52.645000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:51.937000" end="0:35:52.645000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:51.937000	0:35:52.645000
 .	-	-	-	0:35:51.937000	0:35:52.645000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:51.937000" end="0:35:53.911000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:51.937000" end="0:35:53.911000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:35:51.937000	0:35:52.645000
 sei	-	-	-	0:35:52.645000	0:35:53.911000
 es	-	-	-	0:35:52.645000	0:35:53.911000
@@ -9466,21 +9466,21 @@ und	-	-	-	0:35:52.645000	0:35:53.911000
 Neffen	-	-	-	0:35:52.645000	0:35:53.911000
 ,	-	-	-	0:35:52.645000	0:35:53.911000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:53.911000" end="0:35:54.194000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:53.911000" end="0:35:54.194000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:53.911000	0:35:54.194000
 .	-	-	-	0:35:53.911000	0:35:54.194000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:54.194000" end="0:35:55.219000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:54.194000" end="0:35:55.219000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:35:54.194000	0:35:55.219000
 ich	-	-	-	0:35:54.194000	0:35:55.219000
 babysitte	-	-	-	0:35:54.194000	0:35:55.219000
 oder	-	-	-	0:35:54.194000	0:35:55.219000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:55.219000" end="0:35:55.604000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:55.219000" end="0:35:55.604000" age_lower="1" age_upper="999">
 genau	-	-	-	0:35:55.219000	0:35:55.604000
 .	-	-	-	0:35:55.219000	0:35:55.604000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:55.219000" end="0:35:58.633000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:55.219000" end="0:35:58.633000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:35:55.219000	0:35:55.604000
 ,	-	-	-	0:35:55.219000	0:35:55.604000
 muss	-	-	-	0:35:55.219000	0:35:55.604000
@@ -9497,13 +9497,13 @@ Walserischen	-	-	-	0:35:57.281000	0:35:58.633000
 bleibe	-	-	-	0:35:57.281000	0:35:58.633000
 .	-	-	-	0:35:57.281000	0:35:58.633000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:58.633000" end="0:35:59.811000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:58.633000" end="0:35:59.811000" age_lower="1" age_upper="999">
 ah	-	-	-	0:35:58.633000	0:35:59.811000
 ,	-	-	-	0:35:58.633000	0:35:59.811000
 okay	-	-	-	0:35:58.633000	0:35:59.811000
 .	-	-	-	0:35:58.633000	0:35:59.811000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:59.811000" end="0:36:03.129000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:59.811000" end="0:36:03.129000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 keine	-	-	-	0:35:59.811000	0:36:01.681000
 Ahnung	-	-	-	0:35:59.811000	0:36:01.681000
@@ -9517,27 +9517,27 @@ für	-	-	-	0:36:01.681000	0:36:03.129000
 mich	-	-	-	0:36:01.681000	0:36:03.129000
 einfach	-	-	-	0:36:01.681000	0:36:03.129000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:03.129000" end="0:36:05.063000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:03.129000" end="0:36:05.063000" age_lower="1" age_upper="999">
 ind	-	-	-	0:36:03.129000	0:36:05.063000
 .	-	-	-	0:36:03.129000	0:36:05.063000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:03.129000" end="0:36:05.063000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:03.129000" end="0:36:05.063000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 kleines	-	-	-	0:36:03.129000	0:36:05.063000
 Kind	-	-	-	0:36:03.129000	0:36:05.063000
 /.	-	-	-	0:36:03.129000	0:36:05.063000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:05.063000" end="0:36:06.885000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:05.063000" end="0:36:06.885000" age_lower="1" age_upper="999">
 ist	-	-	-	0:36:05.063000	0:36:06.885000
 eher	-	-	-	0:36:05.063000	0:36:06.885000
 Tirolerisch	-	-	-	0:36:05.063000	0:36:06.885000
 ?	-	-	-	0:36:05.063000	0:36:06.885000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:05.063000" end="0:36:06.885000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:05.063000" end="0:36:06.885000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:05.063000	0:36:06.885000
 .	-	-	-	0:36:05.063000	0:36:06.885000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:06.885000" end="0:36:08.120000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:06.885000" end="0:36:08.120000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 (ah	-	-	-	0:36:06.885000	0:36:08.120000
 ja	-	-	-	0:36:06.885000	0:36:08.120000
@@ -9545,7 +9545,7 @@ ja	-	-	-	0:36:06.885000	0:36:08.120000
 interessant)	-	-	-	0:36:06.885000	0:36:08.120000
 .	-	-	-	0:36:06.885000	0:36:08.120000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:06.885000" end="0:36:09.259000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:06.885000" end="0:36:09.259000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 warum	-	-	-	0:36:06.885000	0:36:08.120000
 ,	-	-	-	0:36:06.885000	0:36:08.120000
@@ -9553,11 +9553,11 @@ keine	-	-	-	0:36:08.120000	0:36:09.259000
 Ahnung	-	-	-	0:36:08.120000	0:36:09.259000
 .	-	-	-	0:36:08.120000	0:36:09.259000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:09.259000" end="0:36:09.829000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:09.259000" end="0:36:09.829000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:09.259000	0:36:09.829000
 .	-	-	-	0:36:09.259000	0:36:09.829000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:09.829000" end="0:36:13.407000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:09.829000" end="0:36:13.407000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:36:09.829000	0:36:12.049000
 von	-	-	-	0:36:09.829000	0:36:12.049000
 meinem	-	-	-	0:36:09.829000	0:36:12.049000
@@ -9572,11 +9572,11 @@ eine	-	-	-	0:36:12.049000	0:36:13.407000
 Tirolerin	-	-	-	0:36:12.049000	0:36:13.407000
 ,	-	-	-	0:36:12.049000	0:36:13.407000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:13.407000" end="0:36:13.872000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:13.407000" end="0:36:13.872000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:13.407000	0:36:13.872000
 .	-	-	-	0:36:13.407000	0:36:13.872000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:13.872000" end="0:36:16.122000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:13.872000" end="0:36:16.122000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 die	-	-	-	0:36:13.872000	0:36:16.122000
 passen	-	-	-	0:36:13.872000	0:36:16.122000
@@ -9586,12 +9586,12 @@ mir	-	-	-	0:36:13.872000	0:36:16.122000
 an	-	-	-	0:36:13.872000	0:36:16.122000
 .	-	-	-	0:36:13.872000	0:36:16.122000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:16.122000" end="0:36:16.506000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:16.122000" end="0:36:16.506000" age_lower="1" age_upper="999">
 ah	-	-	-	0:36:16.122000	0:36:16.506000
 ja	-	-	-	0:36:16.122000	0:36:16.506000
 .	-	-	-	0:36:16.122000	0:36:16.506000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:16.122000" end="0:36:17.337000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:16.122000" end="0:36:17.337000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:36:16.122000	0:36:16.506000
 die	-	-	-	0:36:16.122000	0:36:16.506000
 reden	-	-	-	0:36:16.506000	0:36:17.337000
@@ -9600,12 +9600,12 @@ mir	-	-	-	0:36:16.506000	0:36:17.337000
 dann	-	-	-	0:36:16.506000	0:36:17.337000
 auch	-	-	-	0:36:16.506000	0:36:17.337000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:17.337000" end="0:36:18.447000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:17.337000" end="0:36:18.447000" age_lower="1" age_upper="999">
 ah	-	-	-	0:36:17.337000	0:36:18.447000
 ja	-	-	-	0:36:17.337000	0:36:18.447000
 .	-	-	-	0:36:17.337000	0:36:18.447000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:17.337000" end="0:36:20.117000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:17.337000" end="0:36:20.117000" project="PP03" age_lower="18" age_upper="35">
 Tirolerisch	-	-	-	0:36:17.337000	0:36:18.447000
 .	-	-	-	0:36:17.337000	0:36:18.447000
 und	-	-	-	0:36:18.447000	0:36:20.117000
@@ -9617,19 +9617,19 @@ gerade	-	-	-	0:36:18.447000	0:36:20.117000
 an	-	-	-	0:36:18.447000	0:36:20.117000
 ,	-	-	-	0:36:18.447000	0:36:20.117000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:20.117000" end="0:36:21.067000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:20.117000" end="0:36:21.067000" age_lower="1" age_upper="999">
 aha	-	-	-	0:36:20.117000	0:36:21.067000
 .	-	-	-	0:36:20.117000	0:36:21.067000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:20.117000" end="0:36:21.067000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:20.117000" end="0:36:21.067000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:36:20.117000	0:36:21.067000
 sonst	-	-	-	0:36:20.117000	0:36:21.067000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:21.067000" end="0:36:21.661000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:21.067000" end="0:36:21.661000" age_lower="1" age_upper="999">
 ja	-	-	-	0:36:21.067000	0:36:21.661000
 .	-	-	-	0:36:21.067000	0:36:21.661000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:21.661000" end="0:36:23.228000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:21.661000" end="0:36:23.228000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:36:21.661000	0:36:23.228000
 es	-	-	-	0:36:21.661000	0:36:23.228000
 schon	-	-	-	0:36:21.661000	0:36:23.228000
@@ -9637,7 +9637,7 @@ das	-	-	-	0:36:21.661000	0:36:23.228000
 Walserische	-	-	-	0:36:21.661000	0:36:23.228000
 .	-	-	-	0:36:21.661000	0:36:23.228000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:23.228000" end="0:36:25.289000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:23.228000" end="0:36:25.289000" age_lower="1" age_upper="999">
 okay	-	-	-	0:36:23.228000	0:36:24.714000
 ,	-	-	-	0:36:23.228000	0:36:24.714000
 also	-	-	-	0:36:23.228000	0:36:24.714000
@@ -9652,11 +9652,11 @@ da	-	-	-	0:36:24.714000	0:36:25.289000
 macht	-	-	-	0:36:24.714000	0:36:25.289000
 man	-	-	-	0:36:24.714000	0:36:25.289000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:24.714000" end="0:36:25.289000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:24.714000" end="0:36:25.289000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:24.714000	0:36:25.289000
 .	-	-	-	0:36:24.714000	0:36:25.289000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:25.289000" end="0:36:28.105000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:25.289000" end="0:36:28.105000" age_lower="1" age_upper="999">
 jetzt	-	-	-	0:36:25.289000	0:36:26.045000
 nicht	-	-	-	0:36:25.289000	0:36:26.045000
 wirklich	-	-	-	0:36:25.289000	0:36:26.045000
@@ -9669,13 +9669,13 @@ Erwachsenen	-	-	-	0:36:26.045000	0:36:28.105000
 so	-	-	-	0:36:26.045000	0:36:28.105000
 .	-	-	-	0:36:26.045000	0:36:28.105000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:26.045000" end="0:36:28.105000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:26.045000" end="0:36:28.105000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:36:26.045000	0:36:28.105000
 ,	-	-	-	0:36:26.045000	0:36:28.105000
 nein	-	-	-	0:36:26.045000	0:36:28.105000
 .	-	-	-	0:36:26.045000	0:36:28.105000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:28.105000" end="0:36:37.096000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:28.105000" end="0:36:37.096000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:28.105000	0:36:29.811000
 ,	-	-	-	0:36:28.105000	0:36:29.811000
 mhm	-	-	-	0:36:28.105000	0:36:29.811000
@@ -9702,14 +9702,14 @@ miteinander	-	-	-	0:36:34.379000	0:36:37.096000
 gesprochen	-	-	-	0:36:34.379000	0:36:37.096000
 ?	-	-	-	0:36:34.379000	0:36:37.096000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:37.096000" end="0:36:38.458000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:37.096000" end="0:36:38.458000" project="PP03" age_lower="18" age_upper="35">
 jeder	-	-	-	0:36:37.096000	0:36:38.458000
 in	-	-	-	0:36:37.096000	0:36:38.458000
 seinem	-	-	-	0:36:37.096000	0:36:38.458000
 Dialekt	-	-	-	0:36:37.096000	0:36:38.458000
 .	-	-	-	0:36:37.096000	0:36:38.458000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:38.458000" end="0:36:43.004000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:38.458000" end="0:36:43.004000" age_lower="1" age_upper="999">
 okay	-	-	-	0:36:38.458000	0:36:40.447000
 ,	-	-	-	0:36:38.458000	0:36:40.447000
 und	-	-	-	0:36:38.458000	0:36:40.447000
@@ -9725,7 +9725,7 @@ mhm	-	-	-	0:36:40.447000	0:36:43.004000
 okay	-	-	-	0:36:40.447000	0:36:43.004000
 ,	-	-	-	0:36:40.447000	0:36:43.004000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:40.447000" end="0:36:43.004000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:40.447000" end="0:36:43.004000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:40.447000	0:36:43.004000
 ,	-	-	-	0:36:40.447000	0:36:43.004000
 ja	-	-	-	0:36:40.447000	0:36:43.004000
@@ -9738,7 +9738,7 @@ Thema	-	-	-	0:36:40.447000	0:36:43.004000
 gewesen	-	-	-	0:36:40.447000	0:36:43.004000
 .	-	-	-	0:36:40.447000	0:36:43.004000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:43.004000" end="0:36:49.545000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:43.004000" end="0:36:49.545000" age_lower="1" age_upper="999">
 okay	-	-	-	0:36:43.004000	0:36:43.536000
 .	-	-	-	0:36:43.004000	0:36:43.536000
 <pause duration="0,7s"/>
@@ -9762,13 +9762,13 @@ Tirolerisch	-	-	-	0:36:48.072000	0:36:49.545000
 gesprochen	-	-	-	0:36:48.072000	0:36:49.545000
 ,	-	-	-	0:36:48.072000	0:36:49.545000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:48.072000" end="0:36:49.545000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:48.072000" end="0:36:49.545000" project="PP03" age_lower="18" age_upper="35">
 Tirolerisch	-	-	-	0:36:48.072000	0:36:49.545000
 ,	-	-	-	0:36:48.072000	0:36:49.545000
 ja	-	-	-	0:36:48.072000	0:36:49.545000
 .	-	-	-	0:36:48.072000	0:36:49.545000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:49.545000" end="0:36:54.222000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:49.545000" end="0:36:54.222000" age_lower="1" age_upper="999">
 okay	-	-	-	0:36:49.545000	0:36:50.510000
 .	-	-	-	0:36:49.545000	0:36:50.510000
 und	-	-	-	0:36:50.510000	0:36:51.718000
@@ -9785,7 +9785,7 @@ so	-	-	-	0:36:51.718000	0:36:54.222000
 gesprochen	-	-	-	0:36:51.718000	0:36:54.222000
 ?	-	-	-	0:36:51.718000	0:36:54.222000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:54.222000" end="0:36:58.893000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:54.222000" end="0:36:58.893000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 sie	-	-	-	0:36:54.222000	0:36:55.756000
 hat	-	-	-	0:36:54.222000	0:36:55.756000
@@ -9812,11 +9812,11 @@ jetzt	-	-	-	0:36:56.635000	0:36:58.893000
 umlerne	-	-	-	0:36:56.635000	0:36:58.893000
 .	-	-	-	0:36:56.635000	0:36:58.893000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:58.893000" end="0:36:59.300000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:58.893000" end="0:36:59.300000" age_lower="1" age_upper="999">
 ja	-	-	-	0:36:58.893000	0:36:59.300000
 .	-	-	-	0:36:58.893000	0:36:59.300000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:59.300000" end="0:37:03.082000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:59.300000" end="0:37:03.082000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:36:59.300000	0:37:01.815000
 ,	-	-	-	0:36:59.300000	0:37:01.815000
 ich	-	-	-	0:36:59.300000	0:37:01.815000
@@ -9837,11 +9837,11 @@ anders	-	-	-	0:37:01.815000	0:37:03.082000
 lerne	-	-	-	0:37:01.815000	0:37:03.082000
 ,	-	-	-	0:37:01.815000	0:37:03.082000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:03.082000" end="0:37:03.612000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:03.082000" end="0:37:03.612000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:03.082000	0:37:03.612000
 .	-	-	-	0:37:03.082000	0:37:03.612000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:03.612000" end="0:37:05.304000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:03.612000" end="0:37:05.304000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:37:03.612000	0:37:05.304000
 darum	-	-	-	0:37:03.612000	0:37:05.304000
 hat	-	-	-	0:37:03.612000	0:37:05.304000
@@ -9850,7 +9850,7 @@ das	-	-	-	0:37:03.612000	0:37:05.304000
 (beibehalten)	-	-	-	0:37:03.612000	0:37:05.304000
 .	-	-	-	0:37:03.612000	0:37:05.304000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:05.304000" end="0:37:06.620000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:05.304000" end="0:37:06.620000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:05.304000	0:37:06.252000
 ,	-	-	-	0:37:05.304000	0:37:06.252000
 ja	-	-	-	0:37:05.304000	0:37:06.252000
@@ -9858,7 +9858,7 @@ ja	-	-	-	0:37:05.304000	0:37:06.252000
 mhm	-	-	-	0:37:06.252000	0:37:06.620000
 .	-	-	-	0:37:06.252000	0:37:06.620000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:06.252000" end="0:37:08.925000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:06.252000" end="0:37:08.925000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:37:06.252000	0:37:06.620000
 ich	-	-	-	0:37:06.252000	0:37:06.620000
 finde	-	-	-	0:37:06.620000	0:37:07.655000
@@ -9878,11 +9878,11 @@ einfach	-	-	-	0:37:07.655000	0:37:08.925000
 ihre	-	-	-	0:37:07.655000	0:37:08.925000
 ,	-	-	-	0:37:07.655000	0:37:08.925000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:08.925000" end="0:37:09.526000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:08.925000" end="0:37:09.526000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:08.925000	0:37:09.526000
 .	-	-	-	0:37:08.925000	0:37:09.526000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:09.526000" end="0:37:11.291000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:09.526000" end="0:37:11.291000" project="PP03" age_lower="18" age_upper="35">
 ihre	-	-	-	0:37:09.526000	0:37:11.291000
 Herzsprache	-	-	-	0:37:09.526000	0:37:11.291000
 ,	-	-	-	0:37:09.526000	0:37:11.291000
@@ -9893,11 +9893,11 @@ ihr	-	-	-	0:37:09.526000	0:37:11.291000
 gehört	-	-	-	0:37:09.526000	0:37:11.291000
 .	-	-	-	0:37:09.526000	0:37:11.291000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:11.291000" end="0:37:11.752000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:11.291000" end="0:37:11.752000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:11.291000	0:37:11.752000
 .	-	-	-	0:37:11.291000	0:37:11.752000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:11.291000" end="0:37:13.393000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:11.291000" end="0:37:13.393000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:37:11.291000	0:37:11.752000
 täte	-	-	-	0:37:11.291000	0:37:11.752000
 mir	-	-	-	0:37:11.752000	0:37:13.393000
@@ -9911,7 +9911,7 @@ anders	-	-	-	0:37:11.752000	0:37:13.393000
 wäre	-	-	-	0:37:11.752000	0:37:13.393000
 .	-	-	-	0:37:11.752000	0:37:13.393000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:13.393000" end="0:37:16.060000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:13.393000" end="0:37:16.060000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:13.393000	0:37:14.197000
 ,	-	-	-	0:37:13.393000	0:37:14.197000
 ja	-	-	-	0:37:13.393000	0:37:14.197000
@@ -9922,11 +9922,11 @@ Ihr	-	-	-	0:37:14.197000	0:37:16.060000
 Vater	-	-	-	0:37:14.197000	0:37:16.060000
 ?	-	-	-	0:37:14.197000	0:37:16.060000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:16.060000" end="0:37:16.933000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:16.060000" end="0:37:16.933000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 der	-	-	-	0:37:16.060000	0:37:16.933000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:16.933000" end="0:37:19.707000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:16.933000" end="0:37:19.707000" age_lower="1" age_upper="999">
 hat	-	-	-	0:37:16.933000	0:37:19.707000
 Walserisch	-	-	-	0:37:16.933000	0:37:19.707000
 geredet	-	-	-	0:37:16.933000	0:37:19.707000
@@ -9934,7 +9934,7 @@ geredet	-	-	-	0:37:16.933000	0:37:19.707000
 okay	-	-	-	0:37:16.933000	0:37:19.707000
 .	-	-	-	0:37:16.933000	0:37:19.707000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:16.933000" end="0:37:19.707000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:16.933000" end="0:37:19.707000" project="PP03" age_lower="18" age_upper="35">
 hat	-	-	-	0:37:16.933000	0:37:19.707000
 immer	-	-	-	0:37:16.933000	0:37:19.707000
 Walserisch	-	-	-	0:37:16.933000	0:37:19.707000
@@ -9943,7 +9943,7 @@ geredet	-	-	-	0:37:16.933000	0:37:19.707000
 ja	-	-	-	0:37:16.933000	0:37:19.707000
 .	-	-	-	0:37:16.933000	0:37:19.707000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:19.707000" end="0:37:24.942000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:19.707000" end="0:37:24.942000" age_lower="1" age_upper="999">
 gut	-	-	-	0:37:19.707000	0:37:20.555000
 ,	-	-	-	0:37:19.707000	0:37:20.555000
 und	-	-	-	0:37:19.707000	0:37:20.555000
@@ -9966,11 +9966,11 @@ ist	-	-	-	0:37:22.138000	0:37:24.290000
 ,	-	-	-	0:37:22.138000	0:37:24.290000
 oder	-	-	-	0:37:24.290000	0:37:24.942000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:24.290000" end="0:37:24.942000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:24.290000" end="0:37:24.942000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:24.290000	0:37:24.942000
 .	-	-	-	0:37:24.290000	0:37:24.942000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:24.942000" end="0:37:30.261000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:24.942000" end="0:37:30.261000" age_lower="1" age_upper="999">
 hat	-	-	-	0:37:24.942000	0:37:25.869000
 er	-	-	-	0:37:24.942000	0:37:25.869000
 sich	-	-	-	0:37:24.942000	0:37:25.869000
@@ -9995,7 +9995,7 @@ das	-	-	-	0:37:28.477000	0:37:30.261000
 ja	-	-	-	0:37:28.477000	0:37:30.261000
 .	-	-	-	0:37:28.477000	0:37:30.261000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:28.477000" end="0:37:30.261000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:28.477000" end="0:37:30.261000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:37:28.477000	0:37:30.261000
 ,	-	-	-	0:37:28.477000	0:37:30.261000
 das	-	-	-	0:37:28.477000	0:37:30.261000
@@ -10004,7 +10004,7 @@ einfach	-	-	-	0:37:28.477000	0:37:30.261000
 so	-	-	-	0:37:28.477000	0:37:30.261000
 .	-	-	-	0:37:28.477000	0:37:30.261000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:30.261000" end="0:37:40.384000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:30.261000" end="0:37:40.384000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:30.261000	0:37:31.573000
 ,	-	-	-	0:37:30.261000	0:37:31.573000
 okay	-	-	-	0:37:30.261000	0:37:31.573000
@@ -10034,19 +10034,19 @@ gekommen	-	-	-	0:37:37.465000	0:37:39.321000
 sind	-	-	-	0:37:39.321000	0:37:40.384000
 ?	-	-	-	0:37:39.321000	0:37:40.384000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:39.321000" end="0:37:40.384000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:39.321000" end="0:37:40.384000" project="PP03" age_lower="18" age_upper="35">
 Tirolerisch	-	-	-	0:37:39.321000	0:37:40.384000
 .	-	-	-	0:37:39.321000	0:37:40.384000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:40.384000" end="0:37:41.219000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:40.384000" end="0:37:41.219000" age_lower="1" age_upper="999">
 Tirolerisch	-	-	-	0:37:40.384000	0:37:41.219000
 ?	-	-	-	0:37:40.384000	0:37:41.219000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:40.384000" end="0:37:41.219000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:40.384000" end="0:37:41.219000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:40.384000	0:37:41.219000
 .	-	-	-	0:37:40.384000	0:37:41.219000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:41.219000" end="0:37:42.199000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:41.219000" end="0:37:42.199000" age_lower="1" age_upper="999">
 in	-	-	-	0:37:41.219000	0:37:42.199000
 erster	-	-	-	0:37:41.219000	0:37:42.199000
 L/	-	-	-	0:37:41.219000	0:37:42.199000
@@ -10054,7 +10054,7 @@ L/	-	-	-	0:37:41.219000	0:37:42.199000
 also	-	-	-	0:37:41.219000	0:37:42.199000
 /.	-	-	-	0:37:41.219000	0:37:42.199000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:42.199000" end="0:37:44.434000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:42.199000" end="0:37:44.434000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:37:42.199000	0:37:44.434000
 habe	-	-	-	0:37:42.199000	0:37:44.434000
 die	-	-	-	0:37:42.199000	0:37:44.434000
@@ -10066,35 +10066,35 @@ Tirolerisch	-	-	-	0:37:42.199000	0:37:44.434000
 geredet	-	-	-	0:37:42.199000	0:37:44.434000
 .	-	-	-	0:37:42.199000	0:37:44.434000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:44.434000" end="0:37:45.439000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:44.434000" end="0:37:45.439000" age_lower="1" age_upper="999">
 ah	-	-	-	0:37:44.434000	0:37:45.439000
 ,	-	-	-	0:37:44.434000	0:37:45.439000
 okay	-	-	-	0:37:44.434000	0:37:45.439000
 .	-	-	-	0:37:44.434000	0:37:45.439000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:45.439000" end="0:37:46.417000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:45.439000" end="0:37:46.417000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:37:45.439000	0:37:46.417000
 mit	-	-	-	0:37:45.439000	0:37:46.417000
 dem	-	-	-	0:37:45.439000	0:37:46.417000
 Papa	-	-	-	0:37:45.439000	0:37:46.417000
 .	-	-	-	0:37:45.439000	0:37:46.417000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:46.417000" end="0:37:47.444000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:46.417000" end="0:37:47.444000" age_lower="1" age_upper="999">
 ah	-	-	-	0:37:46.417000	0:37:47.444000
 .	-	-	-	0:37:46.417000	0:37:47.444000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:46.417000" end="0:37:48.271000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:46.417000" end="0:37:48.271000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:37:46.417000	0:37:47.444000
 habe	-	-	-	0:37:46.417000	0:37:47.444000
 erst	-	-	-	0:37:46.417000	0:37:47.444000
 danach	-	-	-	0:37:46.417000	0:37:47.444000
 angefangen	-	-	-	0:37:47.444000	0:37:48.271000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:48.271000" end="0:37:49.005000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:48.271000" end="0:37:49.005000" age_lower="1" age_upper="999">
 ah	-	-	-	0:37:48.271000	0:37:49.005000
 .	-	-	-	0:37:48.271000	0:37:49.005000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:48.271000" end="0:37:50.367000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:48.271000" end="0:37:50.367000" project="PP03" age_lower="18" age_upper="35">
 switchen	-	-	-	0:37:48.271000	0:37:49.005000
 .	-	-	-	0:37:48.271000	0:37:49.005000
 bei	-	-	-	0:37:49.005000	0:37:50.367000
@@ -10105,12 +10105,12 @@ es	-	-	-	0:37:49.005000	0:37:50.367000
 umgekehrt	-	-	-	0:37:49.005000	0:37:50.367000
 .	-	-	-	0:37:49.005000	0:37:50.367000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:50.367000" end="0:37:51.559000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:50.367000" end="0:37:51.559000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 aha	-	-	-	0:37:50.367000	0:37:51.559000
 .	-	-	-	0:37:50.367000	0:37:51.559000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:51.559000" end="0:37:54.771000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:51.559000" end="0:37:54.771000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:37:51.559000	0:37:54.771000
 hat	-	-	-	0:37:51.559000	0:37:54.771000
 die	-	-	-	0:37:51.559000	0:37:54.771000
@@ -10126,22 +10126,22 @@ mit	-	-	-	0:37:51.559000	0:37:54.771000
 wem	-	-	-	0:37:51.559000	0:37:54.771000
 .	-	-	-	0:37:51.559000	0:37:54.771000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:54.771000" end="0:37:55.922000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:54.771000" end="0:37:55.922000" age_lower="1" age_upper="999">
 okay	-	-	-	0:37:54.771000	0:37:55.922000
 .	-	-	-	0:37:54.771000	0:37:55.922000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:54.771000" end="0:37:55.922000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:54.771000" end="0:37:55.922000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:37:54.771000	0:37:55.922000
 der	-	-	-	0:37:54.771000	0:37:55.922000
 Mama	-	-	-	0:37:54.771000	0:37:55.922000
 auch	-	-	-	0:37:54.771000	0:37:55.922000
 .	-	-	-	0:37:54.771000	0:37:55.922000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:55.922000" end="0:37:56.466000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:55.922000" end="0:37:56.466000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:55.922000	0:37:56.466000
 .	-	-	-	0:37:55.922000	0:37:56.466000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:56.466000" end="0:37:59.475000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:56.466000" end="0:37:59.475000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:37:56.466000	0:37:59.475000
 hat	-	-	-	0:37:56.466000	0:37:59.475000
@@ -10156,38 +10156,38 @@ aber	-	-	-	0:37:56.466000	0:37:59.475000
 erst	-	-	-	0:37:56.466000	0:37:59.475000
 .	-	-	-	0:37:56.466000	0:37:59.475000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:59.475000" end="0:38:00.255000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:59.475000" end="0:38:00.255000" age_lower="1" age_upper="999">
 okay	-	-	-	0:37:59.475000	0:38:00.255000
 .	-	-	-	0:37:59.475000	0:38:00.255000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:00.255000" end="0:38:01.054000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:00.255000" end="0:38:01.054000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:38:00.255000	0:38:01.054000
 hat	-	-	-	0:38:00.255000	0:38:01.054000
 sich	-	-	-	0:38:00.255000	0:38:01.054000
 geweigert	-	-	-	0:38:00.255000	0:38:01.054000
 ,	-	-	-	0:38:00.255000	0:38:01.054000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:01.054000" end="0:38:02.690000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:01.054000" end="0:38:02.690000" age_lower="1" age_upper="999">
 aha	-	-	-	0:38:01.054000	0:38:02.690000
 .	-	-	-	0:38:01.054000	0:38:02.690000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:01.054000" end="0:38:02.690000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:01.054000" end="0:38:02.690000" project="PP03" age_lower="18" age_upper="35">
 Tirolerisch	-	-	-	0:38:01.054000	0:38:02.690000
 zum	-	-	-	0:38:01.054000	0:38:02.690000
 Reden	-	-	-	0:38:01.054000	0:38:02.690000
 .	-	-	-	0:38:01.054000	0:38:02.690000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:02.690000" end="0:38:03.910000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:02.690000" end="0:38:03.910000" age_lower="1" age_upper="999">
 das	-	-	-	0:38:02.690000	0:38:03.910000
 ist	-	-	-	0:38:02.690000	0:38:03.910000
 lustig	-	-	-	0:38:02.690000	0:38:03.910000
 .	-	-	-	0:38:02.690000	0:38:03.910000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:03.910000" end="0:38:04.195000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:03.910000" end="0:38:04.195000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:03.910000	0:38:04.195000
 .	-	-	-	0:38:03.910000	0:38:04.195000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:04.195000" end="0:38:14.634000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:04.195000" end="0:38:14.634000" age_lower="1" age_upper="999">
 okay	-	-	-	0:38:04.195000	0:38:05.557000
 ,	-	-	-	0:38:04.195000	0:38:05.557000
 mhm	-	-	-	0:38:04.195000	0:38:05.557000
@@ -10225,7 +10225,7 @@ sagen	-	-	-	0:38:13.725000	0:38:14.634000
 oder	-	-	-	0:38:13.725000	0:38:14.634000
 ?	-	-	-	0:38:13.725000	0:38:14.634000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:14.634000" end="0:38:16.209000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:14.634000" end="0:38:16.209000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:38:14.634000	0:38:16.209000
 habe	-	-	-	0:38:14.634000	0:38:16.209000
 vor	-	-	-	0:38:14.634000	0:38:16.209000
@@ -10236,11 +10236,11 @@ beides	-	-	-	0:38:14.634000	0:38:16.209000
 geredet	-	-	-	0:38:14.634000	0:38:16.209000
 ,	-	-	-	0:38:14.634000	0:38:16.209000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:16.209000" end="0:38:16.589000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:16.209000" end="0:38:16.589000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:16.209000	0:38:16.589000
 .	-	-	-	0:38:16.209000	0:38:16.589000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:16.209000" end="0:38:17.924000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:16.209000" end="0:38:17.924000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:38:16.209000	0:38:16.589000
 man	-	-	-	0:38:16.209000	0:38:16.589000
 mich	-	-	-	0:38:16.209000	0:38:16.589000
@@ -10250,22 +10250,22 @@ ausgelacht	-	-	-	0:38:16.589000	0:38:17.924000
 hat	-	-	-	0:38:16.589000	0:38:17.924000
 .	-	-	-	0:38:16.589000	0:38:17.924000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:17.924000" end="0:38:19.421000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:17.924000" end="0:38:19.421000" age_lower="1" age_upper="999">
 ach	-	-	-	0:38:17.924000	0:38:18.535000
 so	-	-	-	0:38:17.924000	0:38:18.535000
 ,	-	-	-	0:38:17.924000	0:38:18.535000
 okay	-	-	-	0:38:18.535000	0:38:19.421000
 .	-	-	-	0:38:18.535000	0:38:19.421000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:18.535000" end="0:38:19.421000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:18.535000" end="0:38:19.421000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:19.421000" end="0:38:21.731000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:19.421000" end="0:38:21.731000" age_lower="1" age_upper="999">
 ja	-	-	-	0:38:19.421000	0:38:21.731000
 ,	-	-	-	0:38:19.421000	0:38:21.731000
 okay	-	-	-	0:38:19.421000	0:38:21.731000
 .	-	-	-	0:38:19.421000	0:38:21.731000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:19.421000" end="0:38:22.427000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:19.421000" end="0:38:22.427000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:38:19.421000	0:38:21.731000
 dann	-	-	-	0:38:19.421000	0:38:21.731000
 switcht	-	-	-	0:38:19.421000	0:38:21.731000
@@ -10279,12 +10279,12 @@ Kind	-	-	-	0:38:21.731000	0:38:22.427000
 dann	-	-	-	0:38:21.731000	0:38:22.427000
 /.	-	-	-	0:38:21.731000	0:38:22.427000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:22.427000" end="0:38:22.963000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:22.427000" end="0:38:22.963000" age_lower="1" age_upper="999">
 j/	-	-	-	0:38:22.427000	0:38:22.963000
 ja	-	-	-	0:38:22.427000	0:38:22.963000
 .	-	-	-	0:38:22.427000	0:38:22.963000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:22.427000" end="0:38:24.149000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:22.427000" end="0:38:24.149000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:38:22.427000	0:38:22.963000
 habe	-	-	-	0:38:22.963000	0:38:24.149000
 ja	-	-	-	0:38:22.963000	0:38:24.149000
@@ -10294,13 +10294,13 @@ auch	-	-	-	0:38:22.963000	0:38:24.149000
 können	-	-	-	0:38:22.963000	0:38:24.149000
 .	-	-	-	0:38:22.963000	0:38:24.149000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:24.149000" end="0:38:25.103000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:24.149000" end="0:38:25.103000" age_lower="1" age_upper="999">
 ja	-	-	-	0:38:24.149000	0:38:24.628000
 ,	-	-	-	0:38:24.149000	0:38:24.628000
 ja	-	-	-	0:38:24.628000	0:38:25.103000
 .	-	-	-	0:38:24.628000	0:38:25.103000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:24.628000" end="0:38:25.919000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:24.628000" end="0:38:25.919000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:38:24.628000	0:38:25.103000
 habe	-	-	-	0:38:24.628000	0:38:25.103000
 es	-	-	-	0:38:24.628000	0:38:25.103000
@@ -10309,7 +10309,7 @@ nicht	-	-	-	0:38:25.103000	0:38:25.919000
 gesprochen	-	-	-	0:38:25.103000	0:38:25.919000
 .	-	-	-	0:38:25.103000	0:38:25.919000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:25.919000" end="0:38:35.810000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:25.919000" end="0:38:35.810000" age_lower="1" age_upper="999">
 ja	-	-	-	0:38:25.919000	0:38:28.069000
 ,	-	-	-	0:38:25.919000	0:38:28.069000
 ja	-	-	-	0:38:25.919000	0:38:28.069000
@@ -10351,7 +10351,7 @@ Beispiel	-	-	-	0:38:32.276000	0:38:35.810000
 geredet	-	-	-	0:38:32.276000	0:38:35.810000
 ?	-	-	-	0:38:32.276000	0:38:35.810000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:35.810000" end="0:38:38.008000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:35.810000" end="0:38:38.008000" project="PP03" age_lower="18" age_upper="35">
 durch	-	-	-	0:38:35.810000	0:38:37.428000
 das	-	-	-	0:38:35.810000	0:38:37.428000
 ,	-	-	-	0:38:35.810000	0:38:37.428000
@@ -10368,11 +10368,11 @@ in	-	-	-	0:38:37.428000	0:38:38.008000
 Volksch/	-	-	-	0:38:37.428000	0:38:38.008000
 ,	-	-	-	0:38:37.428000	0:38:38.008000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:38.008000" end="0:38:39.127000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:38.008000" end="0:38:39.127000" age_lower="1" age_upper="999">
 ah	-	-	-	0:38:38.008000	0:38:39.127000
 .	-	-	-	0:38:38.008000	0:38:39.127000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:38.008000" end="0:38:40.563000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:38.008000" end="0:38:40.563000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:38:38.008000	0:38:39.127000
 der	-	-	-	0:38:38.008000	0:38:39.127000
 Volkschule	-	-	-	0:38:38.008000	0:38:39.127000
@@ -10385,11 +10385,11 @@ hinfällig	-	-	-	0:38:39.127000	0:38:40.563000
 gewesen	-	-	-	0:38:39.127000	0:38:40.563000
 ,	-	-	-	0:38:39.127000	0:38:40.563000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:40.563000" end="0:38:41.211000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:40.563000" end="0:38:41.211000" age_lower="1" age_upper="999">
 okay	-	-	-	0:38:40.563000	0:38:41.211000
 .	-	-	-	0:38:40.563000	0:38:41.211000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:40.563000" end="0:38:42.497000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:40.563000" end="0:38:42.497000" project="PP03" age_lower="18" age_upper="35">
 dort	-	-	-	0:38:40.563000	0:38:41.211000
 habe	-	-	-	0:38:40.563000	0:38:41.211000
 ich	-	-	-	0:38:40.563000	0:38:41.211000
@@ -10401,11 +10401,11 @@ Walserisch	-	-	-	0:38:41.211000	0:38:42.497000
 geredet	-	-	-	0:38:41.211000	0:38:42.497000
 .	-	-	-	0:38:41.211000	0:38:42.497000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:42.497000" end="0:38:43.080000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:42.497000" end="0:38:43.080000" age_lower="1" age_upper="999">
 okay	-	-	-	0:38:42.497000	0:38:43.080000
 .	-	-	-	0:38:42.497000	0:38:43.080000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:43.080000" end="0:38:45.527000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:43.080000" end="0:38:45.527000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:38:43.080000	0:38:44.651000
 wo	-	-	-	0:38:43.080000	0:38:44.651000
 wir	-	-	-	0:38:43.080000	0:38:44.651000
@@ -10420,11 +10420,11 @@ war	-	-	-	0:38:44.651000	0:38:45.527000
 ich	-	-	-	0:38:44.651000	0:38:45.527000
 ZAHL	ZAHL	-	-	0:38:44.651000	0:38:45.527000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:45.527000" end="0:38:46.213000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:45.527000" end="0:38:46.213000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:45.527000	0:38:46.213000
 .	-	-	-	0:38:45.527000	0:38:46.213000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:46.213000" end="0:38:48.380000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:46.213000" end="0:38:48.380000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:38:46.213000	0:38:48.380000
 in	-	-	-	0:38:46.213000	0:38:48.380000
 der	-	-	-	0:38:46.213000	0:38:48.380000
@@ -10437,7 +10437,7 @@ Walserisch	-	-	-	0:38:46.213000	0:38:48.380000
 geredet	-	-	-	0:38:46.213000	0:38:48.380000
 .	-	-	-	0:38:46.213000	0:38:48.380000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:48.380000" end="0:38:55.166000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:48.380000" end="0:38:55.166000" age_lower="1" age_upper="999">
 aha	-	-	-	0:38:48.380000	0:38:50.095000
 ,	-	-	-	0:38:48.380000	0:38:50.095000
 okay	-	-	-	0:38:48.380000	0:38:50.095000
@@ -10460,7 +10460,7 @@ Schule	-	-	-	0:38:51.688000	0:38:53.579000
 ?	-	-	-	0:38:51.688000	0:38:53.579000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:53.579000" end="0:38:57.527000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:53.579000" end="0:38:57.527000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ja	-	-	-	0:38:55.166000	0:38:57.527000
 ,	-	-	-	0:38:55.166000	0:38:57.527000
@@ -10469,11 +10469,11 @@ ORT	ORT	-	-	0:38:55.166000	0:38:57.527000
 eigentlich	-	-	-	0:38:55.166000	0:38:57.527000
 ,	-	-	-	0:38:55.166000	0:38:57.527000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:57.527000" end="0:38:57.976000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:57.527000" end="0:38:57.976000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:57.527000	0:38:57.976000
 ,	-	-	-	0:38:57.527000	0:38:57.976000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:57.976000" end="0:39:03.222000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:57.976000" end="0:39:03.222000" project="PP03" age_lower="18" age_upper="35">
 täte	-	-	-	0:38:57.976000	0:38:58.408000
 ich	-	-	-	0:38:57.976000	0:38:58.408000
 jetzt	-	-	-	0:38:57.976000	0:38:58.408000
@@ -10497,7 +10497,7 @@ Vorarlberger	-	-	-	0:38:59.704000	0:39:03.222000
 Dialekt	-	-	-	0:38:59.704000	0:39:03.222000
 .	-	-	-	0:38:59.704000	0:39:03.222000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:03.222000" end="0:39:04.750000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:03.222000" end="0:39:04.750000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:03.222000	0:39:03.971000
 ,	-	-	-	0:39:03.222000	0:39:03.971000
 ja	-	-	-	0:39:03.222000	0:39:03.971000
@@ -10505,13 +10505,13 @@ ja	-	-	-	0:39:03.222000	0:39:03.971000
 okay	-	-	-	0:39:03.971000	0:39:04.750000
 .	-	-	-	0:39:03.971000	0:39:04.750000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:03.971000" end="0:39:05.385000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:03.971000" end="0:39:05.385000" project="PP03" age_lower="18" age_upper="35">
 unterscheidet	-	-	-	0:39:03.971000	0:39:04.750000
 sich	-	-	-	0:39:04.750000	0:39:05.385000
 einfach	-	-	-	0:39:04.750000	0:39:05.385000
 .	-	-	-	0:39:04.750000	0:39:05.385000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:05.385000" end="0:39:18.719000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:05.385000" end="0:39:18.719000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:05.385000	0:39:07.492000
 ja	-	-	-	0:39:05.385000	0:39:07.492000
 ,	-	-	-	0:39:05.385000	0:39:07.492000
@@ -10562,7 +10562,7 @@ oder	-	-	-	0:39:17.596000	0:39:18.719000
 weniger	-	-	-	0:39:17.596000	0:39:18.719000
 ?	-	-	-	0:39:17.596000	0:39:18.719000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:18.719000" end="0:39:21.818000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:18.719000" end="0:39:21.818000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 i/	-	-	-	0:39:18.719000	0:39:19.818000
 d/	-	-	-	0:39:18.719000	0:39:19.818000
@@ -10580,11 +10580,11 @@ es	-	-	-	0:39:19.818000	0:39:21.818000
 verändert	-	-	-	0:39:19.818000	0:39:21.818000
 ,	-	-	-	0:39:19.818000	0:39:21.818000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:21.818000" end="0:39:22.609000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:21.818000" end="0:39:22.609000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:21.818000	0:39:22.609000
 .	-	-	-	0:39:21.818000	0:39:22.609000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:21.818000" end="0:39:23.842000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:21.818000" end="0:39:23.842000" project="PP03" age_lower="18" age_upper="35">
 durch	-	-	-	0:39:21.818000	0:39:22.609000
 das	-	-	-	0:39:21.818000	0:39:22.609000
 ,	-	-	-	0:39:21.818000	0:39:22.609000
@@ -10597,11 +10597,11 @@ gezogen	-	-	-	0:39:22.609000	0:39:23.842000
 sind	-	-	-	0:39:22.609000	0:39:23.842000
 ,	-	-	-	0:39:22.609000	0:39:23.842000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:23.842000" end="0:39:24.499000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:23.842000" end="0:39:24.499000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:23.842000	0:39:24.499000
 .	-	-	-	0:39:23.842000	0:39:24.499000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:23.842000" end="0:39:27.752000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:23.842000" end="0:39:27.752000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:39:23.842000	0:39:24.499000
 ich	-	-	-	0:39:23.842000	0:39:24.499000
 ZAHL	ZAHL	-	-	0:39:23.842000	0:39:24.499000
@@ -10617,11 +10617,11 @@ Walser	-	-	-	0:39:25.148000	0:39:27.752000
 gewesen	-	-	-	0:39:25.148000	0:39:27.752000
 .	-	-	-	0:39:25.148000	0:39:27.752000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:27.752000" end="0:39:28.385000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:27.752000" end="0:39:28.385000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:27.752000	0:39:28.385000
 .	-	-	-	0:39:27.752000	0:39:28.385000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:27.752000" end="0:39:30.223000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:27.752000" end="0:39:30.223000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:39:27.752000	0:39:28.385000
 ist	-	-	-	0:39:28.385000	0:39:30.223000
 da	-	-	-	0:39:28.385000	0:39:30.223000
@@ -10631,11 +10631,11 @@ geredet	-	-	-	0:39:28.385000	0:39:30.223000
 worden	-	-	-	0:39:28.385000	0:39:30.223000
 ,	-	-	-	0:39:28.385000	0:39:30.223000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:30.223000" end="0:39:30.557000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:30.223000" end="0:39:30.557000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:30.223000	0:39:30.557000
 .	-	-	-	0:39:30.223000	0:39:30.557000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:30.557000" end="0:39:32.653000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:30.557000" end="0:39:32.653000" project="PP03" age_lower="18" age_upper="35">
 davor	-	-	-	0:39:30.557000	0:39:32.653000
 war	-	-	-	0:39:30.557000	0:39:32.653000
 der	-	-	-	0:39:30.557000	0:39:32.653000
@@ -10644,13 +10644,13 @@ in	-	-	-	0:39:30.557000	0:39:32.653000
 ORT	ORT	-	-	0:39:30.557000	0:39:32.653000
 .	-	-	-	0:39:30.557000	0:39:32.653000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:32.653000" end="0:39:33.367000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:32.653000" end="0:39:33.367000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:32.653000	0:39:33.367000
 ,	-	-	-	0:39:32.653000	0:39:33.367000
 ja	-	-	-	0:39:32.653000	0:39:33.367000
 .	-	-	-	0:39:32.653000	0:39:33.367000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:33.367000" end="0:39:34.835000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:33.367000" end="0:39:34.835000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:39:33.367000	0:39:34.835000
 passt	-	-	-	0:39:33.367000	0:39:34.835000
 man	-	-	-	0:39:33.367000	0:39:34.835000
@@ -10659,11 +10659,11 @@ dort	-	-	-	0:39:33.367000	0:39:34.835000
 an	-	-	-	0:39:33.367000	0:39:34.835000
 .	-	-	-	0:39:33.367000	0:39:34.835000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:34.835000" end="0:39:35.311000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:34.835000" end="0:39:35.311000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:34.835000	0:39:35.311000
 .	-	-	-	0:39:34.835000	0:39:35.311000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:35.311000" end="0:39:41.472000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:35.311000" end="0:39:41.472000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:39:35.311000	0:39:37.087000
 in	-	-	-	0:39:35.311000	0:39:37.087000
@@ -10692,13 +10692,13 @@ einen	-	-	-	0:39:39.899000	0:39:41.472000
 Dialekt	-	-	-	0:39:39.899000	0:39:41.472000
 .	-	-	-	0:39:39.899000	0:39:41.472000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:41.472000" end="0:39:42.467000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:41.472000" end="0:39:42.467000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:41.472000	0:39:42.467000
 ,	-	-	-	0:39:41.472000	0:39:42.467000
 ja	-	-	-	0:39:41.472000	0:39:42.467000
 .	-	-	-	0:39:41.472000	0:39:42.467000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:41.472000" end="0:39:45.168000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:41.472000" end="0:39:45.168000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:39:41.472000	0:39:42.467000
 dann	-	-	-	0:39:41.472000	0:39:42.467000
 <pause duration="0,4s"/>
@@ -10713,14 +10713,14 @@ dort	-	-	-	0:39:42.467000	0:39:45.168000
 nie	-	-	-	0:39:42.467000	0:39:45.168000
 so	-	-	-	0:39:42.467000	0:39:45.168000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:45.168000" end="0:39:46.003000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:45.168000" end="0:39:46.003000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:45.168000	0:39:46.003000
 ,	-	-	-	0:39:45.168000	0:39:46.003000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:45.168000" end="0:39:46.003000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:45.168000" end="0:39:46.003000" project="PP03" age_lower="18" age_upper="35">
 vehement	-	-	-	0:39:45.168000	0:39:46.003000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:46.003000" end="0:39:48.297000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:46.003000" end="0:39:48.297000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:46.003000	0:39:47.512000
 ,	-	-	-	0:39:46.003000	0:39:47.512000
 ja	-	-	-	0:39:46.003000	0:39:47.512000
@@ -10732,11 +10732,11 @@ okay	-	-	-	0:39:46.003000	0:39:47.512000
 mhm	-	-	-	0:39:47.512000	0:39:48.297000
 .	-	-	-	0:39:47.512000	0:39:48.297000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:47.512000" end="0:39:48.297000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:47.512000" end="0:39:48.297000" project="PP03" age_lower="18" age_upper="35">
 durchgebracht	-	-	-	0:39:47.512000	0:39:48.297000
 .	-	-	-	0:39:47.512000	0:39:48.297000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:48.297000" end="0:40:01.562000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:48.297000" end="0:40:01.562000" age_lower="1" age_upper="999">
 okay	-	-	-	0:39:48.297000	0:39:49.732000
 ,	-	-	-	0:39:48.297000	0:39:49.732000
 mhm	-	-	-	0:39:48.297000	0:39:49.732000
@@ -10781,11 +10781,11 @@ wie	-	-	-	0:40:00.887000	0:40:01.562000
 da	-	-	-	0:40:00.887000	0:40:01.562000
 jeweils	-	-	-	0:40:00.887000	0:40:01.562000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:00.887000" end="0:40:01.562000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:00.887000" end="0:40:01.562000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:00.887000	0:40:01.562000
 .	-	-	-	0:40:00.887000	0:40:01.562000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:01.562000" end="0:40:03.562000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:01.562000" end="0:40:03.562000" age_lower="1" age_upper="999">
 gesprochen	-	-	-	0:40:01.562000	0:40:02.644000
 worden	-	-	-	0:40:01.562000	0:40:02.644000
 ist	-	-	-	0:40:01.562000	0:40:02.644000
@@ -10795,13 +10795,13 @@ okay	-	-	-	0:40:02.644000	0:40:03.562000
 mhm	-	-	-	0:40:02.644000	0:40:03.562000
 .	-	-	-	0:40:02.644000	0:40:03.562000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:02.644000" end="0:40:03.562000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:02.644000" end="0:40:03.562000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:02.644000	0:40:03.562000
 ,	-	-	-	0:40:02.644000	0:40:03.562000
 ja	-	-	-	0:40:02.644000	0:40:03.562000
 .	-	-	-	0:40:02.644000	0:40:03.562000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:03.562000" end="0:40:15.195000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:03.562000" end="0:40:15.195000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:03.562000	0:40:04.134000
 .	-	-	-	0:40:03.562000	0:40:04.134000
 <pause duration="0,7s"/>
@@ -10841,7 +10841,7 @@ in	-	-	-	0:40:13.628000	0:40:15.195000
 ORT	ORT	-	-	0:40:13.628000	0:40:15.195000
 ?	-	-	-	0:40:13.628000	0:40:15.195000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:13.628000" end="0:40:15.871000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:13.628000" end="0:40:15.871000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:40:13.628000	0:40:15.195000
 ORT	ORT	-	-	0:40:13.628000	0:40:15.195000
 in	-	-	-	0:40:15.195000	0:40:15.871000
@@ -10851,11 +10851,11 @@ V/	-	-	-	0:40:15.195000	0:40:15.871000
 in	-	-	-	0:40:15.195000	0:40:15.871000
 der	-	-	-	0:40:15.195000	0:40:15.871000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:15.871000" end="0:40:16.597000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:15.871000" end="0:40:16.597000" age_lower="1" age_upper="999">
 Volkschule	-	-	-	0:40:15.871000	0:40:16.597000
 .	-	-	-	0:40:15.871000	0:40:16.597000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:15.871000" end="0:40:17.799000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:15.871000" end="0:40:17.799000" project="PP03" age_lower="18" age_upper="35">
 Volkschule	-	-	-	0:40:15.871000	0:40:16.597000
 und	-	-	-	0:40:16.597000	0:40:17.799000
 dann	-	-	-	0:40:16.597000	0:40:17.799000
@@ -10864,19 +10864,19 @@ ORT	ORT	-	-	0:40:16.597000	0:40:17.799000
 in	-	-	-	0:40:16.597000	0:40:17.799000
 der	-	-	-	0:40:16.597000	0:40:17.799000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:17.799000" end="0:40:18.471000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:17.799000" end="0:40:18.471000" age_lower="1" age_upper="999">
 Schule	-	-	-	0:40:17.799000	0:40:18.471000
 ,	-	-	-	0:40:17.799000	0:40:18.471000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:17.799000" end="0:40:18.471000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:17.799000" end="0:40:18.471000" project="PP03" age_lower="18" age_upper="35">
 Hauptschule	-	-	-	0:40:17.799000	0:40:18.471000
 .	-	-	-	0:40:17.799000	0:40:18.471000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:18.471000" end="0:40:19.152000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:18.471000" end="0:40:19.152000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:18.471000	0:40:19.152000
 .	-	-	-	0:40:18.471000	0:40:19.152000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:19.152000" end="0:40:23.013000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:19.152000" end="0:40:23.013000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:40:19.152000	0:40:21.139000
 danach	-	-	-	0:40:19.152000	0:40:21.139000
 in	-	-	-	0:40:19.152000	0:40:21.139000
@@ -10889,11 +10889,11 @@ der	-	-	-	0:40:19.152000	0:40:21.139000
 Kindergartenschule	-	-	-	0:40:21.139000	0:40:23.013000
 .	-	-	-	0:40:21.139000	0:40:23.013000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:23.013000" end="0:40:23.519000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:23.013000" end="0:40:23.519000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:23.013000	0:40:23.519000
 .	-	-	-	0:40:23.013000	0:40:23.519000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:23.519000" end="0:40:33.575000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:23.519000" end="0:40:33.575000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 und	-	-	-	0:40:23.519000	0:40:24.771000
 es	-	-	-	0:40:24.771000	0:40:28.666000
@@ -10928,11 +10928,11 @@ Sprache	-	-	-	0:40:32.346000	0:40:33.575000
 mache	-	-	-	0:40:32.346000	0:40:33.575000
 ,	-	-	-	0:40:32.346000	0:40:33.575000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:33.575000" end="0:40:34.846000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:33.575000" end="0:40:34.846000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:33.575000	0:40:34.846000
 .	-	-	-	0:40:33.575000	0:40:34.846000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:33.575000" end="0:40:36.879000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:33.575000" end="0:40:36.879000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:40:33.575000	0:40:34.846000
 man	-	-	-	0:40:33.575000	0:40:34.846000
 natürlich	-	-	-	0:40:33.575000	0:40:34.846000
@@ -10946,11 +10946,11 @@ Entwicklung	-	-	-	0:40:34.846000	0:40:36.879000
 von	-	-	-	0:40:34.846000	0:40:36.879000
 der	-	-	-	0:40:34.846000	0:40:36.879000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:36.879000" end="0:40:37.359000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:36.879000" end="0:40:37.359000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:36.879000	0:40:37.359000
 .	-	-	-	0:40:36.879000	0:40:37.359000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:36.879000" end="0:40:41.031000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:36.879000" end="0:40:41.031000" project="PP03" age_lower="18" age_upper="35">
 Sprache	-	-	-	0:40:36.879000	0:40:37.359000
 ,	-	-	-	0:40:36.879000	0:40:37.359000
 und	-	-	-	0:40:37.359000	0:40:37.989000
@@ -10966,11 +10966,11 @@ das	-	-	-	0:40:37.989000	0:40:41.031000
 Leben	-	-	-	0:40:37.989000	0:40:41.031000
 .	-	-	-	0:40:37.989000	0:40:41.031000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:41.031000" end="0:40:41.518000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:41.031000" end="0:40:41.518000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:41.031000	0:40:41.518000
 .	-	-	-	0:40:41.031000	0:40:41.518000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:41.031000" end="0:40:47.310000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:41.031000" end="0:40:47.310000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:40:41.031000	0:40:41.518000
 durch	-	-	-	0:40:41.031000	0:40:41.518000
 in/	-	-	-	0:40:41.518000	0:40:42.346000
@@ -10995,11 +10995,11 @@ Sprache	-	-	-	0:40:45.030000	0:40:47.310000
 verändert	-	-	-	0:40:45.030000	0:40:47.310000
 ,	-	-	-	0:40:45.030000	0:40:47.310000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:47.310000" end="0:40:47.856000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:47.310000" end="0:40:47.856000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:47.310000	0:40:47.856000
 .	-	-	-	0:40:47.310000	0:40:47.856000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:47.310000" end="0:40:50.982000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:47.310000" end="0:40:50.982000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:40:47.310000	0:40:47.856000
 jetzt	-	-	-	0:40:47.310000	0:40:47.856000
 <pause duration="0,8s"/>
@@ -11015,7 +11015,7 @@ oder	-	-	-	0:40:47.856000	0:40:50.982000
 so	-	-	-	0:40:47.856000	0:40:50.982000
 verändert	-	-	-	0:40:47.856000	0:40:50.982000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:50.982000" end="0:40:52.143000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:50.982000" end="0:40:52.143000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:50.982000	0:40:52.143000
 ,	-	-	-	0:40:50.982000	0:40:52.143000
 ja	-	-	-	0:40:50.982000	0:40:52.143000
@@ -11023,15 +11023,15 @@ ja	-	-	-	0:40:50.982000	0:40:52.143000
 mhm	-	-	-	0:40:50.982000	0:40:52.143000
 ,	-	-	-	0:40:50.982000	0:40:52.143000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:50.982000" end="0:40:52.143000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:50.982000" end="0:40:52.143000" project="PP03" age_lower="18" age_upper="35">
 hätte	-	-	-	0:40:50.982000	0:40:52.143000
 .	-	-	-	0:40:50.982000	0:40:52.143000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:52.143000" end="0:40:52.879000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:52.143000" end="0:40:52.879000" age_lower="1" age_upper="999">
 okay	-	-	-	0:40:52.143000	0:40:52.879000
 .	-	-	-	0:40:52.143000	0:40:52.879000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:52.143000" end="0:40:53.642000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:52.143000" end="0:40:53.642000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:40:52.143000	0:40:52.879000
 ist	-	-	-	0:40:52.143000	0:40:52.879000
 eher	-	-	-	0:40:52.143000	0:40:52.879000
@@ -11039,7 +11039,7 @@ das	-	-	-	0:40:52.143000	0:40:52.879000
 Bewusstsein	-	-	-	0:40:52.879000	0:40:53.642000
 .	-	-	-	0:40:52.879000	0:40:53.642000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:53.642000" end="0:41:02.961000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:53.642000" end="0:41:02.961000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:53.642000	0:40:54.466000
 ,	-	-	-	0:40:53.642000	0:40:54.466000
 ja	-	-	-	0:40:53.642000	0:40:54.466000
@@ -11068,7 +11068,7 @@ Sprachverhalten	-	-	-	0:40:58.583000	0:41:01.399000
 ?	-	-	-	0:40:58.583000	0:41:01.399000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:01.399000" end="0:41:07.347000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:01.399000" end="0:41:07.347000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ähm	-	-	-	0:41:02.961000	0:41:05.267000
 ,	-	-	-	0:41:02.961000	0:41:05.267000
@@ -11084,11 +11084,11 @@ dann	-	-	-	0:41:05.267000	0:41:07.347000
 die	-	-	-	0:41:05.267000	0:41:07.347000
 SONSTIGE	SONSTIGE	-	-	0:41:05.267000	0:41:07.347000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:07.347000" end="0:41:07.898000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:07.347000" end="0:41:07.898000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:07.347000	0:41:07.898000
 .	-	-	-	0:41:07.347000	0:41:07.898000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:07.347000" end="0:41:13.823000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:07.347000" end="0:41:13.823000" project="PP03" age_lower="18" age_upper="35">
 gemacht	-	-	-	0:41:07.347000	0:41:07.898000
 habe	-	-	-	0:41:07.347000	0:41:07.898000
 ,	-	-	-	0:41:07.347000	0:41:07.898000
@@ -11116,11 +11116,11 @@ Sprachfehlern	-	-	-	0:41:11.662000	0:41:13.823000
 habe	-	-	-	0:41:11.662000	0:41:13.823000
 ,	-	-	-	0:41:11.662000	0:41:13.823000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:13.823000" end="0:41:14.417000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:13.823000" end="0:41:14.417000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:13.823000	0:41:14.417000
 .	-	-	-	0:41:13.823000	0:41:14.417000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:14.417000" end="0:41:19.322000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:14.417000" end="0:41:19.322000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:41:14.417000	0:41:15.660000
 ,	-	-	-	0:41:14.417000	0:41:15.660000
 <pause duration="0,5s"/>
@@ -11137,11 +11137,11 @@ da	-	-	-	0:41:17.322000	0:41:19.322000
 ist	-	-	-	0:41:17.322000	0:41:19.322000
 ,	-	-	-	0:41:17.322000	0:41:19.322000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:19.322000" end="0:41:19.836000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:19.322000" end="0:41:19.836000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:19.322000	0:41:19.836000
 .	-	-	-	0:41:19.322000	0:41:19.836000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:19.322000" end="0:41:21.389000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:19.322000" end="0:41:21.389000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:41:19.322000	0:41:19.836000
 das	-	-	-	0:41:19.322000	0:41:19.836000
 man	-	-	-	0:41:19.836000	0:41:21.389000
@@ -11150,11 +11150,11 @@ deutlich	-	-	-	0:41:19.836000	0:41:21.389000
 spricht	-	-	-	0:41:19.836000	0:41:21.389000
 ,	-	-	-	0:41:19.836000	0:41:21.389000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:21.389000" end="0:41:21.923000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:21.389000" end="0:41:21.923000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:21.389000	0:41:21.923000
 .	-	-	-	0:41:21.389000	0:41:21.923000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:21.389000" end="0:41:23.733000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:21.389000" end="0:41:23.733000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:41:21.389000	0:41:21.923000
 von	-	-	-	0:41:21.389000	0:41:21.923000
 dem	-	-	-	0:41:21.389000	0:41:21.923000
@@ -11166,20 +11166,20 @@ und	-	-	-	0:41:21.923000	0:41:23.733000
 von	-	-	-	0:41:21.923000	0:41:23.733000
 der	-	-	-	0:41:21.923000	0:41:23.733000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:23.733000" end="0:41:24.996000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:23.733000" end="0:41:24.996000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:23.733000	0:41:24.996000
 .	-	-	-	0:41:23.733000	0:41:24.996000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:23.733000" end="0:41:24.996000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:23.733000" end="0:41:24.996000" project="PP03" age_lower="18" age_upper="35">
 Mundmotorik	-	-	-	0:41:23.733000	0:41:24.996000
 her	-	-	-	0:41:23.733000	0:41:24.996000
 ,	-	-	-	0:41:23.733000	0:41:24.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:24.996000" end="0:41:25.423000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:24.996000" end="0:41:25.423000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:24.996000	0:41:25.423000
 .	-	-	-	0:41:24.996000	0:41:25.423000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:25.423000" end="0:41:30.832000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:25.423000" end="0:41:30.832000" project="PP03" age_lower="18" age_upper="35">
 einfach	-	-	-	0:41:25.423000	0:41:26.883000
 das	-	-	-	0:41:25.423000	0:41:26.883000
 Bewusstsein	-	-	-	0:41:25.423000	0:41:26.883000
@@ -11192,17 +11192,17 @@ das	-	-	-	0:41:26.883000	0:41:28.832000
 m/	-	-	-	0:41:28.832000	0:41:30.832000
 Weitergeben	-	-	-	0:41:28.832000	0:41:30.832000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:30.832000" end="0:41:31.138000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:30.832000" end="0:41:31.138000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:30.832000	0:41:31.138000
 .	-	-	-	0:41:30.832000	0:41:31.138000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:31.138000" end="0:41:31.893000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:31.138000" end="0:41:31.893000" project="PP03" age_lower="18" age_upper="35">
 von	-	-	-	0:41:31.138000	0:41:31.893000
 der	-	-	-	0:41:31.138000	0:41:31.893000
 Sprache	-	-	-	0:41:31.138000	0:41:31.893000
 .	-	-	-	0:41:31.138000	0:41:31.893000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:31.893000" end="0:41:40.328000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:31.893000" end="0:41:40.328000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:31.893000	0:41:33.893000
 ,	-	-	-	0:41:31.893000	0:41:33.893000
 ja	-	-	-	0:41:31.893000	0:41:33.893000
@@ -11230,57 +11230,57 @@ sprechen	-	-	-	0:41:35.893000	0:41:39.404000
 generell	-	-	-	0:41:39.404000	0:41:40.328000
 ?	-	-	-	0:41:39.404000	0:41:40.328000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:39.404000" end="0:41:40.328000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:39.404000" end="0:41:40.328000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:39.404000	0:41:40.328000
 .	-	-	-	0:41:39.404000	0:41:40.328000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:40.328000" end="0:41:41.265000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:40.328000" end="0:41:41.265000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:40.328000	0:41:40.706000
 .	-	-	-	0:41:40.328000	0:41:40.706000
 mhm	-	-	-	0:41:40.706000	0:41:41.265000
 .	-	-	-	0:41:40.706000	0:41:41.265000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:40.706000" end="0:41:41.265000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:40.706000" end="0:41:41.265000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:40.706000	0:41:41.265000
 .	-	-	-	0:41:40.706000	0:41:41.265000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:41.265000" end="0:41:42.946000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:41.265000" end="0:41:42.946000" age_lower="1" age_upper="999">
 inwiefern	-	-	-	0:41:41.265000	0:41:42.946000
 so	-	-	-	0:41:41.265000	0:41:42.946000
 ?	-	-	-	0:41:41.265000	0:41:42.946000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:42.946000" end="0:41:44.275000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:42.946000" end="0:41:44.275000" project="PP03" age_lower="18" age_upper="35">
 vom	-	-	-	0:41:42.946000	0:41:44.275000
 Dialekt	-	-	-	0:41:42.946000	0:41:44.275000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:44.275000" end="0:41:44.648000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:44.275000" end="0:41:44.648000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:44.275000	0:41:44.648000
 .	-	-	-	0:41:44.275000	0:41:44.648000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:44.648000" end="0:41:45.478000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:44.648000" end="0:41:45.478000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:41:44.648000	0:41:45.478000
 es	-	-	-	0:41:44.648000	0:41:45.478000
 anders	-	-	-	0:41:44.648000	0:41:45.478000
 .	-	-	-	0:41:44.648000	0:41:45.478000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:45.478000" end="0:41:45.965000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:45.478000" end="0:41:45.965000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:45.478000	0:41:45.965000
 .	-	-	-	0:41:45.478000	0:41:45.965000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:45.965000" end="0:41:48.149000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:45.965000" end="0:41:48.149000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 und	-	-	-	0:41:45.965000	0:41:48.149000
 ,	-	-	-	0:41:45.965000	0:41:48.149000
 puh	-	-	-	0:41:45.965000	0:41:48.149000
 /.	-	-	-	0:41:45.965000	0:41:48.149000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:48.149000" end="0:41:49.098000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:48.149000" end="0:41:49.098000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:48.149000" end="0:41:49.098000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:48.149000" end="0:41:49.098000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:49.098000" end="0:41:55.242000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:49.098000" end="0:41:55.242000" age_lower="1" age_upper="999">
 gut	-	-	-	0:41:49.098000	0:41:51.057000
 also	-	-	-	0:41:49.098000	0:41:51.057000
 mit	-	-	-	0:41:49.098000	0:41:51.057000
@@ -11307,7 +11307,7 @@ emotionalen	-	-	-	0:41:52.554000	0:41:54.554000
 Situa/	-	-	-	0:41:54.554000	0:41:55.242000
 /.	-	-	-	0:41:54.554000	0:41:55.242000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:54.554000" end="0:41:56.316000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:54.554000" end="0:41:56.316000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:41:54.554000	0:41:55.242000
 ,	-	-	-	0:41:54.554000	0:41:55.242000
 und	-	-	-	0:41:54.554000	0:41:55.242000
@@ -11316,11 +11316,11 @@ wieder	-	-	-	0:41:55.242000	0:41:56.316000
 Hochdeutsch	-	-	-	0:41:55.242000	0:41:56.316000
 ,	-	-	-	0:41:55.242000	0:41:56.316000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:56.316000" end="0:41:56.769000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:56.316000" end="0:41:56.769000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:56.316000	0:41:56.769000
 .	-	-	-	0:41:56.316000	0:41:56.769000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:56.316000" end="0:42:02.740000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:56.316000" end="0:42:02.740000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:41:56.316000	0:41:56.769000
 es	-	-	-	0:41:56.316000	0:41:56.769000
 ,	-	-	-	0:41:56.316000	0:41:56.769000
@@ -11354,19 +11354,19 @@ genau	-	-	-	0:41:59.591000	0:42:02.740000
 ?)	-	-	-	0:41:59.591000	0:42:02.740000
 .	-	-	-	0:41:59.591000	0:42:02.740000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:02.740000" end="0:42:03.644000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:02.740000" end="0:42:03.644000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:42:02.740000	0:42:03.644000
 .	-	-	-	0:42:02.740000	0:42:03.644000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:02.740000" end="0:42:05.001000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:02.740000" end="0:42:05.001000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:42:02.740000	0:42:03.644000
 ist	-	-	-	0:42:03.644000	0:42:05.001000
 so	-	-	-	0:42:03.644000	0:42:05.001000
 situationsabhängig	-	-	-	0:42:03.644000	0:42:05.001000
 .	-	-	-	0:42:03.644000	0:42:05.001000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:05.001000" end="0:42:07.726000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:05.001000" end="0:42:07.726000" age_lower="1" age_upper="999">
 den	-	-	-	0:42:05.001000	0:42:07.726000
 und	-	-	-	0:42:05.001000	0:42:07.726000
 zum	-	-	-	0:42:05.001000	0:42:07.726000
@@ -11377,7 +11377,7 @@ oder	-	-	-	0:42:05.001000	0:42:07.726000
 so	-	-	-	0:42:05.001000	0:42:07.726000
 ?	-	-	-	0:42:05.001000	0:42:07.726000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:07.726000" end="0:42:09.546000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:07.726000" end="0:42:09.546000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:42:07.726000	0:42:09.546000
 passe	-	-	-	0:42:07.726000	0:42:09.546000
 mich	-	-	-	0:42:07.726000	0:42:09.546000
@@ -11389,7 +11389,7 @@ Ort	-	-	-	0:42:07.726000	0:42:09.546000
 an	-	-	-	0:42:07.726000	0:42:09.546000
 .	-	-	-	0:42:07.726000	0:42:09.546000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:09.546000" end="0:42:15.666000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:09.546000" end="0:42:15.666000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:42:09.546000	0:42:10.794000
 ,	-	-	-	0:42:09.546000	0:42:10.794000
 okay	-	-	-	0:42:09.546000	0:42:10.794000
@@ -11416,7 +11416,7 @@ a/	-	-	-	0:42:14.579000	0:42:15.666000
 wie	-	-	-	0:42:14.579000	0:42:15.666000
 /?	-	-	-	0:42:14.579000	0:42:15.666000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:14.579000" end="0:42:17.198000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:14.579000" end="0:42:17.198000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:42:14.579000	0:42:15.666000
 ,	-	-	-	0:42:14.579000	0:42:15.666000
 aber	-	-	-	0:42:14.579000	0:42:15.666000
@@ -11430,7 +11430,7 @@ im	-	-	-	0:42:15.666000	0:42:17.198000
 Dialekt	-	-	-	0:42:15.666000	0:42:17.198000
 .	-	-	-	0:42:15.666000	0:42:17.198000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:17.198000" end="0:42:19.443000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:17.198000" end="0:42:19.443000" age_lower="1" age_upper="999">
 okay	-	-	-	0:42:17.198000	0:42:18.860000
 ,	-	-	-	0:42:17.198000	0:42:18.860000
 okay	-	-	-	0:42:17.198000	0:42:18.860000
@@ -11443,11 +11443,11 @@ nichts	-	-	-	0:42:17.198000	0:42:18.860000
 ,	-	-	-	0:42:17.198000	0:42:18.860000
 so	-	-	-	0:42:18.860000	0:42:19.443000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:18.860000" end="0:42:19.443000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:18.860000" end="0:42:19.443000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:42:18.860000	0:42:19.443000
 .	-	-	-	0:42:18.860000	0:42:19.443000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:19.443000" end="0:42:27.175000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:19.443000" end="0:42:27.175000" age_lower="1" age_upper="999">
 anders	-	-	-	0:42:19.443000	0:42:20.882000
 ,	-	-	-	0:42:19.443000	0:42:20.882000
 okay	-	-	-	0:42:19.443000	0:42:20.882000
@@ -11474,18 +11474,18 @@ mit	-	-	-	0:42:25.175000	0:42:27.175000
 mir	-	-	-	0:42:25.175000	0:42:27.175000
 ?	-	-	-	0:42:25.175000	0:42:27.175000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:27.175000" end="0:42:28.500000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:27.175000" end="0:42:28.500000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 angepasst	-	-	-	0:42:27.175000	0:42:28.500000
 ,	-	-	-	0:42:27.175000	0:42:28.500000
 sehr	-	-	-	0:42:27.175000	0:42:28.500000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:28.500000" end="0:42:29.948000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:28.500000" end="0:42:29.948000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:42:28.500000	0:42:29.948000
 angep/	-	-	-	0:42:28.500000	0:42:29.948000
 .	-	-	-	0:42:28.500000	0:42:29.948000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:28.500000" end="0:42:30.767000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:28.500000" end="0:42:30.767000" project="PP03" age_lower="18" age_upper="35">
 angepasst	-	-	-	0:42:28.500000	0:42:29.948000
 ,	-	-	-	0:42:28.500000	0:42:29.948000
 also	-	-	-	0:42:28.500000	0:42:29.948000
@@ -11494,7 +11494,7 @@ nicht	-	-	-	0:42:29.948000	0:42:30.767000
 Walserisch	-	-	-	0:42:29.948000	0:42:30.767000
 .	-	-	-	0:42:29.948000	0:42:30.767000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:30.767000" end="0:42:35.422000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:30.767000" end="0:42:35.422000" age_lower="1" age_upper="999">
 okay	-	-	-	0:42:30.767000	0:42:32.547000
 ,	-	-	-	0:42:30.767000	0:42:32.547000
 ja	-	-	-	0:42:30.767000	0:42:32.547000
@@ -11513,7 +11513,7 @@ mit	-	-	-	0:42:32.547000	0:42:35.422000
 Ihnen	-	-	-	0:42:32.547000	0:42:35.422000
 ?	-	-	-	0:42:32.547000	0:42:35.422000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:35.422000" end="0:42:39.663000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:35.422000" end="0:42:39.663000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ich	-	-	-	0:42:35.422000	0:42:37.332000
 habe	-	-	-	0:42:35.422000	0:42:37.332000
@@ -11531,11 +11531,11 @@ Sie	-	-	-	0:42:37.332000	0:42:39.663000
 immer	-	-	-	0:42:37.332000	0:42:39.663000
 reden	-	-	-	0:42:37.332000	0:42:39.663000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:39.663000" end="0:42:40.121000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:39.663000" end="0:42:40.121000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:39.663000	0:42:40.121000
 .	-	-	-	0:42:39.663000	0:42:40.121000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:39.663000" end="0:42:41.107000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:39.663000" end="0:42:41.107000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:42:39.663000	0:42:40.121000
 mir	-	-	-	0:42:39.663000	0:42:40.121000
 .	-	-	-	0:42:39.663000	0:42:40.121000
@@ -11547,13 +11547,13 @@ nicht	-	-	-	0:42:40.121000	0:42:41.107000
 aber	-	-	-	0:42:40.121000	0:42:41.107000
 /.	-	-	-	0:42:40.121000	0:42:41.107000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:41.107000" end="0:42:42.057000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:41.107000" end="0:42:42.057000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:41.107000	0:42:42.057000
 ,	-	-	-	0:42:41.107000	0:42:42.057000
 ja	-	-	-	0:42:41.107000	0:42:42.057000
 .	-	-	-	0:42:41.107000	0:42:42.057000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:42.057000" end="0:42:43.719000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:42.057000" end="0:42:43.719000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:42:42.057000	0:42:43.719000
 ich	-	-	-	0:42:42.057000	0:42:43.719000
 habe	-	-	-	0:42:42.057000	0:42:43.719000
@@ -11565,11 +11565,11 @@ dass	-	-	-	0:42:42.057000	0:42:43.719000
 das	-	-	-	0:42:42.057000	0:42:43.719000
 /.	-	-	-	0:42:42.057000	0:42:43.719000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:43.719000" end="0:42:44.910000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:43.719000" end="0:42:44.910000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:43.719000	0:42:44.910000
 .	-	-	-	0:42:43.719000	0:42:44.910000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:44.910000" end="0:42:48.147000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:44.910000" end="0:42:48.147000" project="PP03" age_lower="18" age_upper="35">
 nur	-	-	-	0:42:44.910000	0:42:45.701000
 ich	-	-	-	0:42:44.910000	0:42:45.701000
 tue	-	-	-	0:42:44.910000	0:42:45.701000
@@ -11588,11 +11588,11 @@ auch	-	-	-	0:42:45.701000	0:42:48.147000
 geredet	-	-	-	0:42:45.701000	0:42:48.147000
 ,	-	-	-	0:42:45.701000	0:42:48.147000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:48.147000" end="0:42:48.835000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:48.147000" end="0:42:48.835000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:42:48.147000	0:42:48.835000
 .	-	-	-	0:42:48.147000	0:42:48.835000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:48.147000" end="0:42:57.298000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:48.147000" end="0:42:57.298000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:42:48.147000	0:42:48.835000
 wir	-	-	-	0:42:48.835000	0:42:51.817000
 haben	-	-	-	0:42:48.835000	0:42:51.817000
@@ -11624,15 +11624,15 @@ einfach	-	-	-	0:42:55.547000	0:42:57.298000
 schwierig	-	-	-	0:42:55.547000	0:42:57.298000
 vom	-	-	-	0:42:55.547000	0:42:57.298000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:57.298000" end="0:42:58.069000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:57.298000" end="0:42:58.069000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:57.298000	0:42:58.069000
 ,	-	-	-	0:42:57.298000	0:42:58.069000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:57.298000" end="0:42:58.069000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:57.298000" end="0:42:58.069000" project="PP03" age_lower="18" age_upper="35">
 Verständnis	-	-	-	0:42:57.298000	0:42:58.069000
 .	-	-	-	0:42:57.298000	0:42:58.069000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:58.069000" end="0:43:03.329000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:58.069000" end="0:43:03.329000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:58.069000	0:42:59.747000
 ,	-	-	-	0:42:58.069000	0:42:59.747000
 ja	-	-	-	0:42:58.069000	0:42:59.747000
@@ -11655,14 +11655,14 @@ total	-	-	-	0:43:02.029000	0:43:03.329000
 nett	-	-	-	0:43:02.029000	0:43:03.329000
 ,	-	-	-	0:43:02.029000	0:43:03.329000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:02.029000" end="0:43:03.329000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:02.029000" end="0:43:03.329000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:02.029000	0:43:03.329000
 ,	-	-	-	0:43:02.029000	0:43:03.329000
 ja	-	-	-	0:43:02.029000	0:43:03.329000
 ,	-	-	-	0:43:02.029000	0:43:03.329000
 .	-	-	-	0:43:02.029000	0:43:03.329000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:03.329000" end="0:43:05.424000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:03.329000" end="0:43:05.424000" age_lower="1" age_upper="999">
 aber	-	-	-	0:43:03.329000	0:43:05.045000
 ,	-	-	-	0:43:03.329000	0:43:05.045000
 was	-	-	-	0:43:03.329000	0:43:05.045000
@@ -11676,13 +11676,13 @@ halt	-	-	-	0:43:03.329000	0:43:05.045000
 nicht	-	-	-	0:43:05.045000	0:43:05.424000
 ,	-	-	-	0:43:05.045000	0:43:05.424000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:05.045000" end="0:43:05.424000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:05.045000" end="0:43:05.424000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:05.045000	0:43:05.424000
 ,	-	-	-	0:43:05.045000	0:43:05.424000
 ja	-	-	-	0:43:05.045000	0:43:05.424000
 .	-	-	-	0:43:05.045000	0:43:05.424000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:05.424000" end="0:43:22.573000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:05.424000" end="0:43:22.573000" age_lower="1" age_upper="999">
 was	-	-	-	0:43:05.424000	0:43:06.203000
 soll	-	-	-	0:43:05.424000	0:43:06.203000
 man	-	-	-	0:43:05.424000	0:43:06.203000
@@ -11747,7 +11747,7 @@ anderen	-	-	-	0:43:20.113000	0:43:22.573000
 Sprachen	-	-	-	0:43:20.113000	0:43:22.573000
 ?	-	-	-	0:43:20.113000	0:43:22.573000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:22.573000" end="0:43:24.230000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:22.573000" end="0:43:24.230000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 ich	-	-	-	0:43:22.573000	0:43:24.230000
 denke	-	-	-	0:43:22.573000	0:43:24.230000
@@ -11757,15 +11757,15 @@ dass	-	-	-	0:43:22.573000	0:43:24.230000
 das	-	-	-	0:43:22.573000	0:43:24.230000
 mit/	-	-	-	0:43:22.573000	0:43:24.230000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:24.230000" end="0:43:25.283000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:24.230000" end="0:43:25.283000" age_lower="1" age_upper="999">
 ja	-	-	-	0:43:24.230000	0:43:25.283000
 .	-	-	-	0:43:24.230000	0:43:25.283000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:24.230000" end="0:43:25.283000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:24.230000" end="0:43:25.283000" project="PP03" age_lower="18" age_upper="35">
 mitspielt	-	-	-	0:43:24.230000	0:43:25.283000
 .	-	-	-	0:43:24.230000	0:43:25.283000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:25.283000" end="0:43:30.141000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:25.283000" end="0:43:30.141000" age_lower="1" age_upper="999">
 was	-	-	-	0:43:25.283000	0:43:26.282000
 würden	-	-	-	0:43:25.283000	0:43:26.282000
 Sie	-	-	-	0:43:25.283000	0:43:26.282000
@@ -11781,16 +11781,16 @@ oder	-	-	-	0:43:28.973000	0:43:30.141000
 einflussreich	-	-	-	0:43:28.973000	0:43:30.141000
 ?	-	-	-	0:43:28.973000	0:43:30.141000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:30.141000" end="0:43:31.461000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:30.141000" end="0:43:31.461000" project="PP03" age_lower="18" age_upper="35">
 ähnliche	-	-	-	0:43:30.141000	0:43:31.461000
 Sprachen	-	-	-	0:43:30.141000	0:43:31.461000
 ,	-	-	-	0:43:30.141000	0:43:31.461000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:31.461000" end="0:43:32.185000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:31.461000" end="0:43:32.185000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:43:31.461000	0:43:32.185000
 .	-	-	-	0:43:31.461000	0:43:32.185000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:31.461000" end="0:43:33.122000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:31.461000" end="0:43:33.122000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:43:31.461000	0:43:32.185000
 ähnlich	-	-	-	0:43:31.461000	0:43:32.185000
 wie	-	-	-	0:43:32.185000	0:43:33.122000
@@ -11799,11 +11799,11 @@ Deutsche	-	-	-	0:43:32.185000	0:43:33.122000
 sind	-	-	-	0:43:32.185000	0:43:33.122000
 .	-	-	-	0:43:32.185000	0:43:33.122000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:33.122000" end="0:43:33.781000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:33.122000" end="0:43:33.781000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:43:33.122000	0:43:33.781000
 .	-	-	-	0:43:33.122000	0:43:33.781000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:33.122000" end="0:43:36.641000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:33.122000" end="0:43:36.641000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:43:33.122000	0:43:33.781000
 so	-	-	-	0:43:33.122000	0:43:33.781000
 komplett	-	-	-	0:43:33.781000	0:43:36.641000
@@ -11816,11 +11816,11 @@ was	-	-	-	0:43:33.781000	0:43:36.641000
 ,	-	-	-	0:43:33.781000	0:43:36.641000
 weil	-	-	-	0:43:33.781000	0:43:36.641000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:36.641000" end="0:43:37.259000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:36.641000" end="0:43:37.259000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:43:36.641000	0:43:37.259000
 .	-	-	-	0:43:36.641000	0:43:37.259000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:37.259000" end="0:43:38.782000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:37.259000" end="0:43:38.782000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 das	-	-	-	0:43:37.259000	0:43:38.782000
 vermischt	-	-	-	0:43:37.259000	0:43:38.782000
@@ -11828,16 +11828,16 @@ sich	-	-	-	0:43:37.259000	0:43:38.782000
 nicht	-	-	-	0:43:37.259000	0:43:38.782000
 .	-	-	-	0:43:37.259000	0:43:38.782000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:38.782000" end="0:43:40.299000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:38.782000" end="0:43:40.299000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:43:38.782000	0:43:40.299000
 .	-	-	-	0:43:38.782000	0:43:40.299000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:38.782000" end="0:43:40.299000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:38.782000" end="0:43:40.299000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:43:38.782000	0:43:40.299000
 ähnliche	-	-	-	0:43:38.782000	0:43:40.299000
 Sprachen	-	-	-	0:43:38.782000	0:43:40.299000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:40.299000" end="0:43:42.748000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:40.299000" end="0:43:42.748000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 zum	-	-	-	0:43:40.299000	0:43:41.765000
 Beispiel	-	-	-	0:43:40.299000	0:43:41.765000
@@ -11848,14 +11848,14 @@ das	-	-	-	0:43:41.765000	0:43:42.748000
 was	-	-	-	0:43:41.765000	0:43:42.748000
 /?	-	-	-	0:43:41.765000	0:43:42.748000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:42.748000" end="0:43:43.882000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:42.748000" end="0:43:43.882000" project="PP03" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:43:42.748000	0:43:43.882000
 rein	-	-	-	0:43:42.748000	0:43:43.882000
 in	-	-	-	0:43:42.748000	0:43:43.882000
 Österreich	-	-	-	0:43:42.748000	0:43:43.882000
 ?	-	-	-	0:43:42.748000	0:43:43.882000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:43.882000" end="0:43:48.111000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:43.882000" end="0:43:48.111000" age_lower="1" age_upper="999">
 ja	-	-	-	0:43:43.882000	0:43:45.371000
 ,	-	-	-	0:43:43.882000	0:43:45.371000
 oder	-	-	-	0:43:43.882000	0:43:45.371000
@@ -11876,7 +11876,7 @@ allgemein	-	-	-	0:43:45.371000	0:43:48.111000
 mhm	-	-	-	0:43:45.371000	0:43:48.111000
 .	-	-	-	0:43:45.371000	0:43:48.111000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:48.111000" end="0:43:50.254000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:48.111000" end="0:43:50.254000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	-	-	-	0:43:48.111000	0:43:50.254000
 ,	-	-	-	0:43:48.111000	0:43:50.254000
@@ -11888,22 +11888,22 @@ die	-	-	-	0:43:48.111000	0:43:50.254000
 Grenzländer	-	-	-	0:43:48.111000	0:43:50.254000
 wie	-	-	-	0:43:48.111000	0:43:50.254000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:50.254000" end="0:43:50.921000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:50.254000" end="0:43:50.921000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:43:50.254000	0:43:50.921000
 .	-	-	-	0:43:50.254000	0:43:50.921000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:50.254000" end="0:43:51.670000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:50.254000" end="0:43:51.670000" project="PP03" age_lower="18" age_upper="35">
 D/	-	-	-	0:43:50.254000	0:43:50.921000
 Deutschland	-	-	-	0:43:50.254000	0:43:50.921000
 oder	-	-	-	0:43:50.921000	0:43:51.670000
 Schweiz	-	-	-	0:43:50.921000	0:43:51.670000
 .	-	-	-	0:43:50.921000	0:43:51.670000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:51.670000" end="0:43:52.130000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:51.670000" end="0:43:52.130000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:43:51.670000	0:43:52.130000
 .	-	-	-	0:43:51.670000	0:43:52.130000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:52.130000" end="0:43:54.150000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:52.130000" end="0:43:54.150000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 das	-	-	-	0:43:52.130000	0:43:54.150000
 merkt	-	-	-	0:43:52.130000	0:43:54.150000
@@ -11911,7 +11911,7 @@ man	-	-	-	0:43:52.130000	0:43:54.150000
 schon	-	-	-	0:43:52.130000	0:43:54.150000
 .	-	-	-	0:43:52.130000	0:43:54.150000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:54.150000" end="0:44:00.693000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:54.150000" end="0:44:00.693000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:43:54.150000	0:43:54.687000
 .	-	-	-	0:43:54.150000	0:43:54.687000
 und	-	-	-	0:43:54.687000	0:43:58.199000
@@ -11927,10 +11927,10 @@ Deutsch	-	-	-	0:43:54.687000	0:43:58.199000
 .	-	-	-	0:43:58.199000	0:43:58.897000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:58.897000" end="0:44:00.693000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:58.897000" end="0:44:00.693000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:00.693000" end="0:44:03.431000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:00.693000" end="0:44:03.431000" age_lower="1" age_upper="999">
 haben	-	-	-	0:44:00.693000	0:44:03.431000
 die	-	-	-	0:44:00.693000	0:44:03.431000
 ,	-	-	-	0:44:00.693000	0:44:03.431000
@@ -11942,7 +11942,7 @@ einen	-	-	-	0:44:00.693000	0:44:03.431000
 Einfluss	-	-	-	0:44:00.693000	0:44:03.431000
 ?	-	-	-	0:44:00.693000	0:44:03.431000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:03.431000" end="0:44:05.534000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:03.431000" end="0:44:05.534000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ich	-	-	-	0:44:03.431000	0:44:05.534000
 denke	-	-	-	0:44:03.431000	0:44:05.534000
@@ -11950,7 +11950,7 @@ denke	-	-	-	0:44:03.431000	0:44:05.534000
 weniger	-	-	-	0:44:03.431000	0:44:05.534000
 .	-	-	-	0:44:03.431000	0:44:05.534000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:05.534000" end="0:44:24.349000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:05.534000" end="0:44:24.349000" age_lower="1" age_upper="999">
 weniger	-	-	-	0:44:05.534000	0:44:07.664000
 ,	-	-	-	0:44:05.534000	0:44:07.664000
 mhm	-	-	-	0:44:05.534000	0:44:07.664000
@@ -12011,11 +12011,11 @@ oder	-	-	-	0:44:23.443000	0:44:24.349000
 ja	-	-	-	0:44:23.443000	0:44:24.349000
 .	-	-	-	0:44:23.443000	0:44:24.349000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:23.443000" end="0:44:24.349000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:23.443000" end="0:44:24.349000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:23.443000	0:44:24.349000
 .	-	-	-	0:44:23.443000	0:44:24.349000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:24.349000" end="0:44:27.351000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:24.349000" end="0:44:27.351000" age_lower="1" age_upper="999">
 eher	-	-	-	0:44:24.349000	0:44:25.075000
 als	-	-	-	0:44:24.349000	0:44:25.075000
 das	-	-	-	0:44:24.349000	0:44:25.075000
@@ -12026,7 +12026,7 @@ in	-	-	-	0:44:25.075000	0:44:27.351000
 mhm	-	-	-	0:44:25.075000	0:44:27.351000
 .	-	-	-	0:44:25.075000	0:44:27.351000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:25.075000" end="0:44:27.351000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:25.075000" end="0:44:27.351000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:44:25.075000	0:44:27.351000
 ich	-	-	-	0:44:25.075000	0:44:27.351000
 denke	-	-	-	0:44:25.075000	0:44:27.351000
@@ -12036,11 +12036,11 @@ die	-	-	-	0:44:25.075000	0:44:27.351000
 Dialekte	-	-	-	0:44:25.075000	0:44:27.351000
 .	-	-	-	0:44:25.075000	0:44:27.351000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:27.351000" end="0:44:27.852000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:27.351000" end="0:44:27.852000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:44:27.351000	0:44:27.852000
 .	-	-	-	0:44:27.351000	0:44:27.852000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:27.852000" end="0:44:30.776000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:27.852000" end="0:44:30.776000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:44:27.852000	0:44:30.776000
 gesagt	-	-	-	0:44:27.852000	0:44:30.776000
 ,	-	-	-	0:44:27.852000	0:44:30.776000
@@ -12060,7 +12060,7 @@ zum	-	-	-	0:44:27.852000	0:44:30.776000
 Tun	-	-	-	0:44:27.852000	0:44:30.776000
 .	-	-	-	0:44:27.852000	0:44:30.776000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:30.776000" end="0:44:34.836000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:30.776000" end="0:44:34.836000" age_lower="1" age_upper="999">
 ja	-	-	-	0:44:30.776000	0:44:31.735000
 ,	-	-	-	0:44:30.776000	0:44:31.735000
 ja	-	-	-	0:44:30.776000	0:44:31.735000
@@ -12084,7 +12084,7 @@ ausgeführt	-	-	-	0:44:32.750000	0:44:34.836000
 genau	-	-	-	0:44:32.750000	0:44:34.836000
 .	-	-	-	0:44:32.750000	0:44:34.836000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:32.750000" end="0:44:34.836000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:32.750000" end="0:44:34.836000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:32.750000	0:44:34.836000
 ,	-	-	-	0:44:32.750000	0:44:34.836000
 ja	-	-	-	0:44:32.750000	0:44:34.836000
@@ -12092,7 +12092,7 @@ ja	-	-	-	0:44:32.750000	0:44:34.836000
 ja	-	-	-	0:44:32.750000	0:44:34.836000
 .	-	-	-	0:44:32.750000	0:44:34.836000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:34.836000" end="0:44:57.367000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:34.836000" end="0:44:57.367000" age_lower="1" age_upper="999">
 so	-	-	-	0:44:34.836000	0:44:37.224000
 ,	-	-	-	0:44:34.836000	0:44:37.224000
 und	-	-	-	0:44:34.836000	0:44:37.224000
@@ -12160,21 +12160,21 @@ in	-	-	-	0:44:49.920000	0:44:55.564000
 ?	-	-	-	0:44:49.920000	0:44:55.564000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:57.367000" end="0:44:57.804000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:57.367000" end="0:44:57.804000" project="PP03" age_lower="18" age_upper="35">
 puh	-	-	-	0:44:57.367000	0:44:57.804000
 .	-	-	-	0:44:57.367000	0:44:57.804000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:57.804000" end="0:45:03.749000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:57.804000" end="0:45:03.749000" age_lower="1" age_upper="999">
 <pause duration="5,9s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:03.749000" end="0:45:04.022000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:03.749000" end="0:45:04.022000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:03.749000	0:45:04.022000
 .	-	-	-	0:45:03.749000	0:45:04.022000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:04.022000" end="0:45:05.288000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:04.022000" end="0:45:05.288000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:05.288000" end="0:45:06.420000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:05.288000" end="0:45:06.420000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:45:05.288000	0:45:06.420000
 wenn	-	-	-	0:45:05.288000	0:45:06.420000
 ich	-	-	-	0:45:05.288000	0:45:06.420000
@@ -12182,11 +12182,11 @@ jetzt	-	-	-	0:45:05.288000	0:45:06.420000
 an	-	-	-	0:45:05.288000	0:45:06.420000
 Vorarlberg	-	-	-	0:45:05.288000	0:45:06.420000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:06.420000" end="0:45:06.775000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:06.420000" end="0:45:06.775000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:45:06.420000	0:45:06.775000
 .	-	-	-	0:45:06.420000	0:45:06.775000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:06.420000" end="0:45:08.201000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:06.420000" end="0:45:08.201000" project="PP03" age_lower="18" age_upper="35">
 denke	-	-	-	0:45:06.420000	0:45:06.775000
 ,	-	-	-	0:45:06.420000	0:45:06.775000
 dann	-	-	-	0:45:06.775000	0:45:08.201000
@@ -12195,10 +12195,10 @@ es	-	-	-	0:45:06.775000	0:45:08.201000
 sicher	-	-	-	0:45:06.775000	0:45:08.201000
 so	-	-	-	0:45:06.775000	0:45:08.201000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:08.201000" end="0:45:09.104000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:08.201000" end="0:45:09.104000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:08.201000" end="0:45:10.739000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:08.201000" end="0:45:10.739000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ganz	-	-	-	0:45:09.104000	0:45:10.739000
 klar	-	-	-	0:45:09.104000	0:45:10.739000
@@ -12209,11 +12209,11 @@ in	-	-	-	0:45:09.104000	0:45:10.739000
 der	-	-	-	0:45:09.104000	0:45:10.739000
 Schweiz	-	-	-	0:45:09.104000	0:45:10.739000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:10.739000" end="0:45:11.473000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:10.739000" end="0:45:11.473000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:45:10.739000	0:45:11.473000
 .	-	-	-	0:45:10.739000	0:45:11.473000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:10.739000" end="0:45:12.791000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:10.739000" end="0:45:12.791000" project="PP03" age_lower="18" age_upper="35">
 geredet	-	-	-	0:45:10.739000	0:45:11.473000
 wird	-	-	-	0:45:10.739000	0:45:11.473000
 .	-	-	-	0:45:10.739000	0:45:11.473000
@@ -12222,11 +12222,11 @@ das	-	-	-	0:45:11.473000	0:45:12.791000
 Schweizerdeutsch	-	-	-	0:45:11.473000	0:45:12.791000
 .	-	-	-	0:45:11.473000	0:45:12.791000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:12.791000" end="0:45:13.140000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:12.791000" end="0:45:13.140000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:45:12.791000	0:45:13.140000
 .	-	-	-	0:45:12.791000	0:45:13.140000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:13.140000" end="0:45:15.353000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:13.140000" end="0:45:15.353000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:45:13.140000	0:45:15.353000
 ist	-	-	-	0:45:13.140000	0:45:15.353000
 ja	-	-	-	0:45:13.140000	0:45:15.353000
@@ -12238,11 +12238,11 @@ dem	-	-	-	0:45:13.140000	0:45:15.353000
 Sinn	-	-	-	0:45:13.140000	0:45:15.353000
 ,	-	-	-	0:45:13.140000	0:45:15.353000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:15.353000" end="0:45:15.808000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:15.353000" end="0:45:15.808000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:45:15.353000	0:45:15.808000
 .	-	-	-	0:45:15.353000	0:45:15.808000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:15.808000" end="0:45:19.014000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:15.808000" end="0:45:19.014000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 weil	-	-	-	0:45:15.808000	0:45:17.690000
 wir	-	-	-	0:45:15.808000	0:45:17.690000
@@ -12255,21 +12255,21 @@ Scheiz	-	-	-	0:45:17.690000	0:45:19.014000
 haben	-	-	-	0:45:17.690000	0:45:19.014000
 .	-	-	-	0:45:17.690000	0:45:19.014000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:19.014000" end="0:45:19.448000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:19.014000" end="0:45:19.448000" age_lower="1" age_upper="999">
 okay	-	-	-	0:45:19.014000	0:45:19.448000
 .	-	-	-	0:45:19.014000	0:45:19.448000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:19.448000" end="0:45:20.166000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:19.448000" end="0:45:20.166000" project="PP03" age_lower="18" age_upper="35">
 gerade	-	-	-	0:45:19.448000	0:45:20.166000
 die	-	-	-	0:45:19.448000	0:45:20.166000
 Walser	-	-	-	0:45:19.448000	0:45:20.166000
 ,	-	-	-	0:45:19.448000	0:45:20.166000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:20.166000" end="0:45:20.651000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:20.166000" end="0:45:20.651000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:45:20.166000	0:45:20.651000
 .	-	-	-	0:45:20.166000	0:45:20.651000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:20.166000" end="0:45:21.870000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:20.166000" end="0:45:21.870000" project="PP03" age_lower="18" age_upper="35">
 durch	-	-	-	0:45:20.166000	0:45:20.651000
 das	-	-	-	0:45:20.166000	0:45:20.651000
 ,	-	-	-	0:45:20.166000	0:45:20.651000
@@ -12278,14 +12278,14 @@ wir	-	-	-	0:45:20.651000	0:45:21.870000
 eingewandert	-	-	-	0:45:20.651000	0:45:21.870000
 sind	-	-	-	0:45:20.651000	0:45:21.870000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:21.870000" end="0:45:23.179000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:21.870000" end="0:45:23.179000" age_lower="1" age_upper="999">
 aa	-	-	-	0:45:21.870000	0:45:22.414000
 ja	-	-	-	0:45:21.870000	0:45:22.414000
 .	-	-	-	0:45:21.870000	0:45:22.414000
 okay	-	-	-	0:45:22.414000	0:45:23.179000
 .	-	-	-	0:45:22.414000	0:45:23.179000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:22.414000" end="0:45:24.152000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:22.414000" end="0:45:24.152000" project="PP03" age_lower="18" age_upper="35">
 aus	-	-	-	0:45:22.414000	0:45:23.179000
 der	-	-	-	0:45:22.414000	0:45:23.179000
 ,	-	-	-	0:45:22.414000	0:45:23.179000
@@ -12294,11 +12294,11 @@ der	-	-	-	0:45:23.179000	0:45:24.152000
 Schweiz	-	-	-	0:45:23.179000	0:45:24.152000
 .	-	-	-	0:45:23.179000	0:45:24.152000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:24.152000" end="0:45:24.567000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:24.152000" end="0:45:24.567000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:45:24.152000	0:45:24.567000
 .	-	-	-	0:45:24.152000	0:45:24.567000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:24.567000" end="0:45:27.383000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:24.567000" end="0:45:27.383000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 dann	-	-	-	0:45:24.567000	0:45:27.383000
 natürlich	-	-	-	0:45:24.567000	0:45:27.383000
@@ -12307,11 +12307,11 @@ das	-	-	-	0:45:24.567000	0:45:27.383000
 Französische	-	-	-	0:45:24.567000	0:45:27.383000
 ,	-	-	-	0:45:24.567000	0:45:27.383000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:27.383000" end="0:45:27.870000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:27.383000" end="0:45:27.870000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:45:27.383000	0:45:27.870000
 .	-	-	-	0:45:27.383000	0:45:27.870000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:27.870000" end="0:45:31.584000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:27.870000" end="0:45:31.584000" project="PP03" age_lower="18" age_upper="35">
 sind	-	-	-	0:45:27.870000	0:45:30.194000
 mitunter	-	-	-	0:45:27.870000	0:45:30.194000
 auch	-	-	-	0:45:27.870000	0:45:30.194000
@@ -12325,10 +12325,10 @@ jetzt	-	-	-	0:45:30.194000	0:45:31.584000
 halt	-	-	-	0:45:30.194000	0:45:31.584000
 ,	-	-	-	0:45:30.194000	0:45:31.584000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:31.584000" end="0:45:32.480000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:31.584000" end="0:45:32.480000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:31.584000" end="0:45:37.625000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:31.584000" end="0:45:37.625000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 dass	-	-	-	0:45:32.480000	0:45:34.628000
 ,	-	-	-	0:45:32.480000	0:45:34.628000
@@ -12354,11 +12354,11 @@ mit	-	-	-	0:45:34.628000	0:45:37.625000
 her	-	-	-	0:45:34.628000	0:45:37.625000
 .	-	-	-	0:45:34.628000	0:45:37.625000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:37.625000" end="0:45:38.095000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:37.625000" end="0:45:38.095000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:45:37.625000	0:45:38.095000
 .	-	-	-	0:45:37.625000	0:45:38.095000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:38.101000" end="0:45:40.602000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:38.101000" end="0:45:40.602000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 oder	-	-	-	0:45:38.101000	0:45:40.602000
 ,	-	-	-	0:45:38.101000	0:45:40.602000
@@ -12371,24 +12371,24 @@ sind	-	-	-	0:45:38.101000	0:45:40.602000
 wie	-	-	-	0:45:38.101000	0:45:40.602000
 das	-	-	-	0:45:38.101000	0:45:40.602000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:40.602000" end="0:45:41.357000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:40.602000" end="0:45:41.357000" age_lower="1" age_upper="999">
 aha	-	-	-	0:45:40.602000	0:45:41.357000
 .	-	-	-	0:45:40.602000	0:45:41.357000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:40.602000" end="0:45:41.357000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:40.602000" end="0:45:41.357000" project="PP03" age_lower="18" age_upper="35">
 Velo	-	-	-	0:45:40.602000	0:45:41.357000
 ,	-	-	-	0:45:40.602000	0:45:41.357000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:41.357000" end="0:45:42.324000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:41.357000" end="0:45:42.324000" age_lower="1" age_upper="999">
 ah	-	-	-	0:45:41.357000	0:45:42.324000
 ,	-	-	-	0:45:41.357000	0:45:42.324000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:41.357000" end="0:45:42.324000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:41.357000" end="0:45:42.324000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:45:41.357000	0:45:42.324000
 Fahrrad	-	-	-	0:45:41.357000	0:45:42.324000
 ,	-	-	-	0:45:41.357000	0:45:42.324000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:42.324000" end="0:45:43.047000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:42.324000" end="0:45:43.047000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:42.324000	0:45:43.047000
 ,	-	-	-	0:45:42.324000	0:45:43.047000
 ja	-	-	-	0:45:42.324000	0:45:43.047000
@@ -12396,7 +12396,7 @@ ja	-	-	-	0:45:42.324000	0:45:43.047000
 ja	-	-	-	0:45:42.324000	0:45:43.047000
 .	-	-	-	0:45:42.324000	0:45:43.047000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:43.047000" end="0:45:46.608000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:43.047000" end="0:45:46.608000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:45:43.047000	0:45:43.392000
 ?	-	-	-	0:45:43.047000	0:45:43.392000
 <pause duration="0,7s"/>
@@ -12412,11 +12412,11 @@ Einfluss	-	-	-	0:45:43.392000	0:45:46.608000
 gehabt	-	-	-	0:45:43.392000	0:45:46.608000
 .	-	-	-	0:45:43.392000	0:45:46.608000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:46.608000" end="0:45:46.935000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:46.608000" end="0:45:46.935000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:45:46.608000	0:45:46.935000
 .	-	-	-	0:45:46.608000	0:45:46.935000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:46.935000" end="0:45:48.136000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:46.935000" end="0:45:48.136000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:45:46.935000	0:45:48.136000
 könnte	-	-	-	0:45:46.935000	0:45:48.136000
 es	-	-	-	0:45:46.935000	0:45:48.136000
@@ -12425,17 +12425,17 @@ nur	-	-	-	0:45:46.935000	0:45:48.136000
 für	-	-	-	0:45:46.935000	0:45:48.136000
 Vorarlberg	-	-	-	0:45:46.935000	0:45:48.136000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:48.136000" end="0:45:48.810000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:48.136000" end="0:45:48.810000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:48.136000	0:45:48.810000
 ,	-	-	-	0:45:48.136000	0:45:48.810000
 ja	-	-	-	0:45:48.136000	0:45:48.810000
 .	-	-	-	0:45:48.136000	0:45:48.810000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:48.136000" end="0:45:48.810000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:48.136000" end="0:45:48.810000" project="PP03" age_lower="18" age_upper="35">
 sagen	-	-	-	0:45:48.136000	0:45:48.810000
 .	-	-	-	0:45:48.136000	0:45:48.810000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:48.810000" end="0:45:58.107000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:48.810000" end="0:45:58.107000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:48.810000	0:45:50.488000
 ,	-	-	-	0:45:48.810000	0:45:50.488000
 ja	-	-	-	0:45:48.810000	0:45:50.488000
@@ -12478,7 +12478,7 @@ wichtig	-	-	-	0:45:56.107000	0:45:58.107000
 nicht	-	-	-	0:45:56.107000	0:45:58.107000
 ?	-	-	-	0:45:56.107000	0:45:58.107000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:56.107000" end="0:45:58.107000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:56.107000" end="0:45:58.107000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:56.107000	0:45:58.107000
 ,	-	-	-	0:45:56.107000	0:45:58.107000
 ja	-	-	-	0:45:56.107000	0:45:58.107000
@@ -12488,7 +12488,7 @@ ja	-	-	-	0:45:56.107000	0:45:58.107000
 ja	-	-	-	0:45:56.107000	0:45:58.107000
 .	-	-	-	0:45:56.107000	0:45:58.107000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:58.107000" end="0:46:08.223000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:58.107000" end="0:46:08.223000" age_lower="1" age_upper="999">
 also	-	-	-	0:45:58.107000	0:45:59.644000
 das	-	-	-	0:45:58.107000	0:45:59.644000
 is/	-	-	-	0:45:58.107000	0:45:59.644000
@@ -12524,14 +12524,14 @@ genannt	-	-	-	0:46:07.142000	0:46:08.223000
 haben	-	-	-	0:46:07.142000	0:46:08.223000
 ?	-	-	-	0:46:07.142000	0:46:08.223000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:08.223000" end="0:46:09.228000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:08.223000" end="0:46:09.228000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 ja	-	-	-	0:46:08.223000	0:46:09.228000
 ,	-	-	-	0:46:08.223000	0:46:09.228000
 sicher	-	-	-	0:46:08.223000	0:46:09.228000
 .	-	-	-	0:46:08.223000	0:46:09.228000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:09.228000" end="0:46:15.213000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:09.228000" end="0:46:15.213000" age_lower="1" age_upper="999">
 ja	-	-	-	0:46:09.228000	0:46:09.714000
 ,	-	-	-	0:46:09.228000	0:46:09.714000
 <pause duration="0,6s"/>
@@ -12557,11 +12557,11 @@ was	-	-	-	0:46:14.233000	0:46:15.213000
 ja	-	-	-	0:46:14.233000	0:46:15.213000
 .	-	-	-	0:46:14.233000	0:46:15.213000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:14.233000" end="0:46:15.213000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:14.233000" end="0:46:15.213000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:14.233000	0:46:15.213000
 .	-	-	-	0:46:14.233000	0:46:15.213000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:15.213000" end="0:46:18.748000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:15.213000" end="0:46:18.748000" age_lower="1" age_upper="999">
 fällt	-	-	-	0:46:15.213000	0:46:17.213000
 Ihnen	-	-	-	0:46:15.213000	0:46:17.213000
 noch	-	-	-	0:46:15.213000	0:46:17.213000
@@ -12570,7 +12570,7 @@ ein	-	-	-	0:46:15.213000	0:46:17.213000
 ?	-	-	-	0:46:15.213000	0:46:17.213000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:17.213000" end="0:46:22.557000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:17.213000" end="0:46:22.557000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ähm	-	-	-	0:46:18.748000	0:46:22.557000
 ,	-	-	-	0:46:18.748000	0:46:22.557000
@@ -12583,12 +12583,12 @@ mir	-	-	-	0:46:18.748000	0:46:22.557000
 (als)	-	-	-	0:46:18.748000	0:46:22.557000
 Kartoffelpüree	-	-	-	0:46:18.748000	0:46:22.557000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:22.557000" end="0:46:23.404000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:22.557000" end="0:46:23.404000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 ja	-	-	-	0:46:22.557000	0:46:23.404000
 .	-	-	-	0:46:22.557000	0:46:23.404000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:22.557000" end="0:46:24.501000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:22.557000" end="0:46:24.501000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ist	-	-	-	0:46:22.557000	0:46:23.404000
 ja	-	-	-	0:46:22.557000	0:46:23.404000
@@ -12596,19 +12596,19 @@ ein	-	-	-	0:46:22.557000	0:46:23.404000
 französischer	-	-	-	0:46:23.404000	0:46:24.501000
 Ausdruck	-	-	-	0:46:23.404000	0:46:24.501000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:24.501000" end="0:46:25.261000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:24.501000" end="0:46:25.261000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:46:24.501000	0:46:25.261000
 ,	-	-	-	0:46:24.501000	0:46:25.261000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:24.501000" end="0:46:25.261000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:24.501000" end="0:46:25.261000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:46:24.501000	0:46:25.261000
 ,	-	-	-	0:46:24.501000	0:46:25.261000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:25.261000" end="0:46:26.475000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:25.261000" end="0:46:26.475000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:46:25.261000	0:46:26.475000
 .	-	-	-	0:46:25.261000	0:46:26.475000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:25.261000" end="0:46:30.601000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:25.261000" end="0:46:30.601000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:46:25.261000	0:46:26.475000
 <pause duration="0,4s"/>
 rein	-	-	-	0:46:26.475000	0:46:28.475000
@@ -12627,17 +12627,17 @@ wäre	-	-	-	0:46:28.475000	0:46:30.601000
 oder	-	-	-	0:46:28.475000	0:46:30.601000
 ?	-	-	-	0:46:28.475000	0:46:30.601000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:30.601000" end="0:46:32.059000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:30.601000" end="0:46:32.059000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:46:30.601000	0:46:32.059000
 .	-	-	-	0:46:30.601000	0:46:32.059000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:30.601000" end="0:46:32.059000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:30.601000" end="0:46:32.059000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:46:30.601000	0:46:32.059000
 Schweizer	-	-	-	0:46:30.601000	0:46:32.059000
 sagen	-	-	-	0:46:30.601000	0:46:32.059000
 Kartoffelstock	-	-	-	0:46:30.601000	0:46:32.059000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:32.059000" end="0:46:33.799000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:32.059000" end="0:46:33.799000" age_lower="1" age_upper="999">
 ja	-	-	-	0:46:32.059000	0:46:33.799000
 ,	-	-	-	0:46:32.059000	0:46:33.799000
 Püree	-	-	-	0:46:32.059000	0:46:33.799000
@@ -12645,7 +12645,7 @@ Püree	-	-	-	0:46:32.059000	0:46:33.799000
 ja	-	-	-	0:46:32.059000	0:46:33.799000
 .	-	-	-	0:46:32.059000	0:46:33.799000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:32.059000" end="0:46:35.810000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:32.059000" end="0:46:35.810000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:46:32.059000	0:46:33.799000
 wir	-	-	-	0:46:32.059000	0:46:33.799000
 sagen	-	-	-	0:46:32.059000	0:46:33.799000
@@ -12661,7 +12661,7 @@ ein	-	-	-	0:46:33.799000	0:46:35.810000
 französischer	-	-	-	0:46:33.799000	0:46:35.810000
 ,	-	-	-	0:46:33.799000	0:46:35.810000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:35.810000" end="0:46:38.874000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:35.810000" end="0:46:38.874000" age_lower="1" age_upper="999">
 ja	-	-	-	0:46:35.810000	0:46:36.995000
 ,	-	-	-	0:46:35.810000	0:46:36.995000
 ja	-	-	-	0:46:35.810000	0:46:36.995000
@@ -12673,7 +12673,7 @@ eindeutig	-	-	-	0:46:36.995000	0:46:38.874000
 ja	-	-	-	0:46:36.995000	0:46:38.874000
 .	-	-	-	0:46:36.995000	0:46:38.874000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:36.995000" end="0:46:39.613000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:36.995000" end="0:46:39.613000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:46:36.995000	0:46:38.874000
 das	-	-	-	0:46:36.995000	0:46:38.874000
 Französische	-	-	-	0:46:36.995000	0:46:38.874000
@@ -12684,11 +12684,11 @@ schwingt	-	-	-	0:46:38.874000	0:46:39.613000
 mit	-	-	-	0:46:38.874000	0:46:39.613000
 .	-	-	-	0:46:38.874000	0:46:39.613000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:39.613000" end="0:46:40.434000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:39.613000" end="0:46:40.434000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:46:39.613000	0:46:40.434000
 .	-	-	-	0:46:39.613000	0:46:40.434000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:39.613000" end="0:46:41.866000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:39.613000" end="0:46:41.866000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:46:39.613000	0:46:40.434000
 ist	-	-	-	0:46:39.613000	0:46:40.434000
 jetzt	-	-	-	0:46:40.434000	0:46:41.866000
@@ -12702,11 +12702,11 @@ gerade	-	-	-	0:46:40.434000	0:46:41.866000
 einfällt	-	-	-	0:46:40.434000	0:46:41.866000
 .	-	-	-	0:46:40.434000	0:46:41.866000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:41.866000" end="0:46:42.355000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:41.866000" end="0:46:42.355000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:46:41.866000	0:46:42.355000
 .	-	-	-	0:46:41.866000	0:46:42.355000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:42.355000" end="0:46:44.565000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:42.355000" end="0:46:44.565000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:46:42.355000	0:46:44.565000
 müsste	-	-	-	0:46:42.355000	0:46:44.565000
 überlegen	-	-	-	0:46:42.355000	0:46:44.565000
@@ -12719,12 +12719,12 @@ so	-	-	-	0:46:42.355000	0:46:44.565000
 ist	-	-	-	0:46:42.355000	0:46:44.565000
 .	-	-	-	0:46:42.355000	0:46:44.565000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:44.565000" end="0:46:46.473000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:44.565000" end="0:46:46.473000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:46:44.565000	0:46:45.121000
 .	-	-	-	0:46:44.565000	0:46:45.121000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:45.121000" end="0:46:48.473000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:45.121000" end="0:46:48.473000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 bei	-	-	-	0:46:46.473000	0:46:48.473000
 der	-	-	-	0:46:46.473000	0:46:48.473000
@@ -12737,11 +12737,11 @@ zum	-	-	-	0:46:46.473000	0:46:48.473000
 Beispiel	-	-	-	0:46:46.473000	0:46:48.473000
 ,	-	-	-	0:46:46.473000	0:46:48.473000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:48.473000" end="0:46:48.896000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:48.473000" end="0:46:48.896000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:46:48.473000	0:46:48.896000
 .	-	-	-	0:46:48.473000	0:46:48.896000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:48.896000" end="0:46:51.441000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:48.896000" end="0:46:51.441000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 wenn	-	-	-	0:46:48.896000	0:46:51.441000
 Rene	-	-	-	0:46:48.896000	0:46:51.441000
@@ -12749,20 +12749,20 @@ oder	-	-	-	0:46:48.896000	0:46:51.441000
 so	-	-	-	0:46:48.896000	0:46:51.441000
 /.	-	-	-	0:46:48.896000	0:46:51.441000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:51.441000" end="0:46:51.849000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:51.441000" end="0:46:51.849000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:46:51.441000	0:46:51.849000
 .	-	-	-	0:46:51.441000	0:46:51.849000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:51.849000" end="0:46:53.012000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:51.849000" end="0:46:53.012000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:46:51.849000	0:46:53.012000
 Fabienne	-	-	-	0:46:51.849000	0:46:53.012000
 ,	-	-	-	0:46:51.849000	0:46:53.012000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:53.012000" end="0:46:53.375000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:53.012000" end="0:46:53.375000" age_lower="1" age_upper="999">
 ja	-	-	-	0:46:53.012000	0:46:53.375000
 .	-	-	-	0:46:53.012000	0:46:53.375000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:53.012000" end="0:46:55.058000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:53.012000" end="0:46:55.058000" project="PP03" age_lower="18" age_upper="35">
 schreibt	-	-	-	0:46:53.012000	0:46:53.375000
 man	-	-	-	0:46:53.375000	0:46:55.058000
 mit	-	-	-	0:46:53.375000	0:46:55.058000
@@ -12776,13 +12776,13 @@ man	-	-	-	0:46:53.375000	0:46:55.058000
 nicht	-	-	-	0:46:53.375000	0:46:55.058000
 .	-	-	-	0:46:53.375000	0:46:55.058000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:55.058000" end="0:46:56.101000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:55.058000" end="0:46:56.101000" age_lower="1" age_upper="999">
 ja	-	-	-	0:46:55.058000	0:46:55.535000
 ,	-	-	-	0:46:55.058000	0:46:55.535000
 ja	-	-	-	0:46:55.535000	0:46:56.101000
 .	-	-	-	0:46:55.535000	0:46:56.101000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:55.535000" end="0:46:57.370000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:55.535000" end="0:46:57.370000" project="PP03" age_lower="18" age_upper="35">
 hat	-	-	-	0:46:55.535000	0:46:56.101000
 auch	-	-	-	0:46:56.101000	0:46:57.370000
 einen	-	-	-	0:46:56.101000	0:46:57.370000
@@ -12790,7 +12790,7 @@ französischen	-	-	-	0:46:56.101000	0:46:57.370000
 Einfluss	-	-	-	0:46:56.101000	0:46:57.370000
 .	-	-	-	0:46:56.101000	0:46:57.370000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:57.370000" end="0:46:58.887000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:57.370000" end="0:46:58.887000" age_lower="1" age_upper="999">
 genau	-	-	-	0:46:57.370000	0:46:58.887000
 ,	-	-	-	0:46:57.370000	0:46:58.887000
 ja	-	-	-	0:46:57.370000	0:46:58.887000
@@ -12798,11 +12798,11 @@ ja	-	-	-	0:46:57.370000	0:46:58.887000
 mhm	-	-	-	0:46:57.370000	0:46:58.887000
 .	-	-	-	0:46:57.370000	0:46:58.887000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:58.887000" end="0:46:59.450000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:58.887000" end="0:46:59.450000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:58.887000	0:46:59.450000
 .	-	-	-	0:46:58.887000	0:46:59.450000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:59.450000" end="0:47:14.937000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:59.450000" end="0:47:14.937000" age_lower="1" age_upper="999">
 ja	-	-	-	0:46:59.450000	0:47:00.456000
 ,	-	-	-	0:46:59.450000	0:47:00.456000
 super	-	-	-	0:46:59.450000	0:47:00.456000
@@ -12846,26 +12846,26 @@ gern	-	-	-	0:47:12.105000	0:47:13.844000
 Zeitung	-	-	-	0:47:13.844000	0:47:14.937000
 ?	-	-	-	0:47:13.844000	0:47:14.937000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:13.844000" end="0:47:15.459000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:13.844000" end="0:47:15.459000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:47:13.844000	0:47:14.937000
 lese	-	-	-	0:47:13.844000	0:47:14.937000
 viel	-	-	-	0:47:13.844000	0:47:14.937000
 Bücher	-	-	-	0:47:14.937000	0:47:15.459000
 .	-	-	-	0:47:14.937000	0:47:15.459000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:15.459000" end="0:47:16.762000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:15.459000" end="0:47:16.762000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:47:15.459000	0:47:16.762000
 ,	-	-	-	0:47:15.459000	0:47:16.762000
 Bücher	-	-	-	0:47:15.459000	0:47:16.762000
 .	-	-	-	0:47:15.459000	0:47:16.762000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:15.459000" end="0:47:17.621000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:15.459000" end="0:47:17.621000" project="PP03" age_lower="18" age_upper="35">
 Zeitung	-	-	-	0:47:15.459000	0:47:16.762000
 eher	-	-	-	0:47:16.762000	0:47:17.621000
 weniegr	-	-	-	0:47:16.762000	0:47:17.621000
 .	-	-	-	0:47:16.762000	0:47:17.621000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:17.621000" end="0:47:20" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:17.621000" end="0:47:20" age_lower="1" age_upper="999">
 mhm	-	-	-	0:47:17.621000	0:47:18
 .	-	-	-	0:47:17.621000	0:47:18
 was	-	-	-	0:47:18	0:47:20
@@ -12876,7 +12876,7 @@ für	-	-	-	0:47:18	0:47:20
 Bücher	-	-	-	0:47:18	0:47:20
 ?	-	-	-	0:47:18	0:47:20
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:20" end="0:47:22.504000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:20" end="0:47:22.504000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:47:20	0:47:22.504000
 ,	-	-	-	0:47:20	0:47:22.504000
@@ -12884,21 +12884,21 @@ hauptsächlich	-	-	-	0:47:20	0:47:22.504000
 Romane	-	-	-	0:47:20	0:47:22.504000
 .	-	-	-	0:47:20	0:47:22.504000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:22.504000" end="0:47:22.772000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:22.504000" end="0:47:22.772000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:47:22.504000	0:47:22.772000
 .	-	-	-	0:47:22.504000	0:47:22.772000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:22.772000" end="0:47:24.291000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:22.772000" end="0:47:24.291000" project="PP03" age_lower="18" age_upper="35">
 gerne	-	-	-	0:47:22.772000	0:47:24.291000
 auch	-	-	-	0:47:22.772000	0:47:24.291000
 Fantasyromane	-	-	-	0:47:22.772000	0:47:24.291000
 .	-	-	-	0:47:22.772000	0:47:24.291000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:24.291000" end="0:47:24.574000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:24.291000" end="0:47:24.574000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:47:24.291000	0:47:24.574000
 .	-	-	-	0:47:24.291000	0:47:24.574000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:24.574000" end="0:47:27.142000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:24.574000" end="0:47:27.142000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:47:24.574000	0:47:27.142000
 so	-	-	-	0:47:24.574000	0:47:27.142000
 Jugend-	-	-	-	0:47:24.574000	0:47:27.142000
@@ -12906,11 +12906,11 @@ Jugend-	-	-	-	0:47:24.574000	0:47:27.142000
 Kinderfantasyromane	-	-	-	0:47:24.574000	0:47:27.142000
 .	-	-	-	0:47:24.574000	0:47:27.142000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:27.142000" end="0:47:27.467000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:27.142000" end="0:47:27.467000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:47:27.142000	0:47:27.467000
 .	-	-	-	0:47:27.142000	0:47:27.467000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:27.142000" end="0:47:28.506000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:27.142000" end="0:47:28.506000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:47:27.142000	0:47:27.467000
 finde	-	-	-	0:47:27.142000	0:47:27.467000
 ich	-	-	-	0:47:27.467000	0:47:28.506000
@@ -12919,11 +12919,11 @@ ganz	-	-	-	0:47:27.467000	0:47:28.506000
 spannend	-	-	-	0:47:27.467000	0:47:28.506000
 .	-	-	-	0:47:27.467000	0:47:28.506000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:28.506000" end="0:47:28.982000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:28.506000" end="0:47:28.982000" age_lower="1" age_upper="999">
 ja	-	-	-	0:47:28.506000	0:47:28.982000
 .	-	-	-	0:47:28.506000	0:47:28.982000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:28.982000" end="0:47:32.982000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:28.982000" end="0:47:32.982000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:47:28.982000	0:47:30.982000
 ,	-	-	-	0:47:28.982000	0:47:30.982000
 <pause duration="0,8s"/>
@@ -12934,18 +12934,18 @@ auch	-	-	-	0:47:30.982000	0:47:32.982000
 Komödien	-	-	-	0:47:30.982000	0:47:32.982000
 .	-	-	-	0:47:30.982000	0:47:32.982000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:32.982000" end="0:47:34.329000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:32.982000" end="0:47:34.329000" age_lower="1" age_upper="999">
 <pause duration="0,4s"/>
 ja	-	-	-	0:47:32.982000	0:47:34.329000
 ,	-	-	-	0:47:32.982000	0:47:34.329000
 okay	-	-	-	0:47:32.982000	0:47:34.329000
 .	-	-	-	0:47:32.982000	0:47:34.329000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:32.982000" end="0:47:34.329000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:32.982000" end="0:47:34.329000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:32.982000	0:47:34.329000
 .	-	-	-	0:47:32.982000	0:47:34.329000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:34.329000" end="0:47:38.892000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:34.329000" end="0:47:38.892000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:47:34.329000	0:47:34.882000
 .	-	-	-	0:47:34.329000	0:47:34.882000
 ähm	-	-	-	0:47:34.882000	0:47:35.834000
@@ -12959,7 +12959,7 @@ oder	-	-	-	0:47:35.834000	0:47:38.892000
 so	-	-	-	0:47:35.834000	0:47:38.892000
 ?	-	-	-	0:47:35.834000	0:47:38.892000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:38.892000" end="0:47:40.220000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:38.892000" end="0:47:40.220000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:47:38.892000	0:47:40.220000
 ,	-	-	-	0:47:38.892000	0:47:40.220000
 wir	-	-	-	0:47:38.892000	0:47:40.220000
@@ -12969,7 +12969,7 @@ keinen	-	-	-	0:47:38.892000	0:47:40.220000
 Fernseher	-	-	-	0:47:38.892000	0:47:40.220000
 .	-	-	-	0:47:38.892000	0:47:40.220000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:40.220000" end="0:47:41.306000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:40.220000" end="0:47:41.306000" age_lower="1" age_upper="999">
 ach	-	-	-	0:47:40.220000	0:47:40.946000
 so	-	-	-	0:47:40.220000	0:47:40.946000
 ,	-	-	-	0:47:40.220000	0:47:40.946000
@@ -12978,21 +12978,21 @@ haben	-	-	-	0:47:40.220000	0:47:40.946000
 gar	-	-	-	0:47:40.220000	0:47:40.946000
 keinen	-	-	-	0:47:40.946000	0:47:41.306000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:40.946000" end="0:47:41.306000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:40.946000" end="0:47:41.306000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:47:40.946000	0:47:41.306000
 .	-	-	-	0:47:40.946000	0:47:41.306000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:41.306000" end="0:47:42.289000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:41.306000" end="0:47:42.289000" age_lower="1" age_upper="999">
 Fernseher	-	-	-	0:47:41.306000	0:47:41.848000
 ,	-	-	-	0:47:41.306000	0:47:41.848000
 wow	-	-	-	0:47:41.848000	0:47:42.289000
 .	-	-	-	0:47:41.848000	0:47:42.289000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:41.848000" end="0:47:42.289000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:41.848000" end="0:47:42.289000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:47:41.848000	0:47:42.289000
 .	-	-	-	0:47:41.848000	0:47:42.289000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:42.289000" end="0:47:44.801000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:42.289000" end="0:47:44.801000" age_lower="1" age_upper="999">
 also	-	-	-	0:47:42.289000	0:47:43.561000
 das	-	-	-	0:47:42.289000	0:47:43.561000
 brauchen	-	-	-	0:47:42.289000	0:47:43.561000
@@ -13003,7 +13003,7 @@ sozusagen	-	-	-	0:47:43.561000	0:47:44.801000
 so/	-	-	-	0:47:43.561000	0:47:44.801000
 /?	-	-	-	0:47:43.561000	0:47:44.801000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:43.561000" end="0:47:48.171000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:43.561000" end="0:47:48.171000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:47:43.561000	0:47:44.801000
 ,	-	-	-	0:47:43.561000	0:47:44.801000
 also	-	-	-	0:47:43.561000	0:47:44.801000
@@ -13021,13 +13021,13 @@ ausgewählter	-	-	-	0:47:45.867000	0:47:48.171000
 Film	-	-	-	0:47:45.867000	0:47:48.171000
 .	-	-	-	0:47:45.867000	0:47:48.171000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:48.171000" end="0:47:50.315000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:48.171000" end="0:47:50.315000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:47:48.171000	0:47:48.755000
 .	-	-	-	0:47:48.171000	0:47:48.755000
 okay	-	-	-	0:47:48.755000	0:47:50.315000
 .	-	-	-	0:47:48.755000	0:47:50.315000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:48.755000" end="0:47:50.315000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:48.755000" end="0:47:50.315000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:47:48.755000	0:47:50.315000
 den	-	-	-	0:47:48.755000	0:47:50.315000
 schauen	-	-	-	0:47:48.755000	0:47:50.315000
@@ -13036,7 +13036,7 @@ am	-	-	-	0:47:48.755000	0:47:50.315000
 Laptop	-	-	-	0:47:48.755000	0:47:50.315000
 .	-	-	-	0:47:48.755000	0:47:50.315000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:50.315000" end="0:47:52.786000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:50.315000" end="0:47:52.786000" age_lower="1" age_upper="999">
 ah	-	-	-	0:47:50.315000	0:47:50.879000
 ja	-	-	-	0:47:50.315000	0:47:50.879000
 .	-	-	-	0:47:50.315000	0:47:50.879000
@@ -13048,7 +13048,7 @@ das	-	-	-	0:47:50.879000	0:47:52.786000
 einz/	-	-	-	0:47:50.879000	0:47:52.786000
 /.	-	-	-	0:47:50.879000	0:47:52.786000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:50.879000" end="0:47:53.920000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:50.879000" end="0:47:53.920000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:47:50.879000	0:47:52.786000
 das	-	-	-	0:47:50.879000	0:47:52.786000
 sind	-	-	-	0:47:50.879000	0:47:52.786000
@@ -13059,11 +13059,11 @@ einzelne	-	-	-	0:47:52.786000	0:47:53.920000
 Abende	-	-	-	0:47:52.786000	0:47:53.920000
 .	-	-	-	0:47:52.786000	0:47:53.920000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:53.920000" end="0:47:54.671000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:53.920000" end="0:47:54.671000" age_lower="1" age_upper="999">
 okay	-	-	-	0:47:53.920000	0:47:54.671000
 .	-	-	-	0:47:53.920000	0:47:54.671000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:54.671000" end="0:47:57.725000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:54.671000" end="0:47:57.725000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:47:54.671000	0:47:57.725000
 <pause duration="0,7s"/>
 ich	-	-	-	0:47:54.671000	0:47:57.725000
@@ -13080,7 +13080,7 @@ keinen	-	-	-	0:47:54.671000	0:47:57.725000
 haben	-	-	-	0:47:54.671000	0:47:57.725000
 .	-	-	-	0:47:54.671000	0:47:57.725000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:57.725000" end="0:47:59.533000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:57.725000" end="0:47:59.533000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:47:57.725000	0:47:59.533000
 ,	-	-	-	0:47:57.725000	0:47:59.533000
 mhm	-	-	-	0:47:57.725000	0:47:59.533000
@@ -13088,7 +13088,7 @@ mhm	-	-	-	0:47:57.725000	0:47:59.533000
 ja	-	-	-	0:47:57.725000	0:47:59.533000
 .	-	-	-	0:47:57.725000	0:47:59.533000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:59.533000" end="0:48:01.130000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:59.533000" end="0:48:01.130000" project="PP03" age_lower="18" age_upper="35">
 man	-	-	-	0:47:59.533000	0:48:01.130000
 nimmt	-	-	-	0:47:59.533000	0:48:01.130000
 sich	-	-	-	0:47:59.533000	0:48:01.130000
@@ -13097,7 +13097,7 @@ für	-	-	-	0:47:59.533000	0:48:01.130000
 anderes	-	-	-	0:47:59.533000	0:48:01.130000
 .	-	-	-	0:47:59.533000	0:48:01.130000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:01.130000" end="0:48:07.153000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:01.130000" end="0:48:07.153000" age_lower="1" age_upper="999">
 ja	-	-	-	0:48:01.130000	0:48:01.960000
 ,	-	-	-	0:48:01.130000	0:48:01.960000
 ja	-	-	-	0:48:01.130000	0:48:01.960000
@@ -13119,33 +13119,33 @@ neuesten	-	-	-	0:48:03.565000	0:48:07.153000
 Nachrichten	-	-	-	0:48:03.565000	0:48:07.153000
 ?	-	-	-	0:48:03.565000	0:48:07.153000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:07.153000" end="0:48:07.870000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:07.153000" end="0:48:07.870000" project="PP03" age_lower="18" age_upper="35">
 über	-	-	-	0:48:07.153000	0:48:07.870000
 das	-	-	-	0:48:07.153000	0:48:07.870000
 Internet	-	-	-	0:48:07.153000	0:48:07.870000
 .	-	-	-	0:48:07.153000	0:48:07.870000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:07.870000" end="0:48:08.755000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:07.870000" end="0:48:08.755000" age_lower="1" age_upper="999">
 Internet	-	-	-	0:48:07.870000	0:48:08.348000
 ,	-	-	-	0:48:07.870000	0:48:08.348000
 ja	-	-	-	0:48:08.348000	0:48:08.755000
 .	-	-	-	0:48:08.348000	0:48:08.755000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:08.348000" end="0:48:08.755000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:08.348000" end="0:48:08.755000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:08.348000	0:48:08.755000
 ,	-	-	-	0:48:08.348000	0:48:08.755000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:08.755000" end="0:48:09.972000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:08.755000" end="0:48:09.972000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:48:08.755000	0:48:09.972000
 ,	-	-	-	0:48:08.755000	0:48:09.972000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:08.755000" end="0:48:09.972000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:08.755000" end="0:48:09.972000" project="PP03" age_lower="18" age_upper="35">
 Internet	-	-	-	0:48:08.755000	0:48:09.972000
 oder	-	-	-	0:48:08.755000	0:48:09.972000
 Radio	-	-	-	0:48:08.755000	0:48:09.972000
 .	-	-	-	0:48:08.755000	0:48:09.972000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:09.972000" end="0:48:15.795000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:09.972000" end="0:48:15.795000" age_lower="1" age_upper="999">
 ja	-	-	-	0:48:09.972000	0:48:11.534000
 ,	-	-	-	0:48:09.972000	0:48:11.534000
 okay	-	-	-	0:48:09.972000	0:48:11.534000
@@ -13165,7 +13165,7 @@ für	-	-	-	0:48:13.684000	0:48:15.795000
 Hobbies	-	-	-	0:48:13.684000	0:48:15.795000
 ?	-	-	-	0:48:13.684000	0:48:15.795000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:15.795000" end="0:48:19.429000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:15.795000" end="0:48:19.429000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:48:15.795000	0:48:18.297000
 ,	-	-	-	0:48:15.795000	0:48:18.297000
@@ -13180,11 +13180,11 @@ nähe	-	-	-	0:48:18.297000	0:48:19.429000
 viel	-	-	-	0:48:18.297000	0:48:19.429000
 ,	-	-	-	0:48:18.297000	0:48:19.429000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:19.429000" end="0:48:19.994000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:19.429000" end="0:48:19.994000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:48:19.429000	0:48:19.994000
 .	-	-	-	0:48:19.429000	0:48:19.994000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:19.429000" end="0:48:22.753000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:19.429000" end="0:48:22.753000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:48:19.429000	0:48:19.994000
 ich	-	-	-	0:48:19.429000	0:48:19.994000
 bi/	-	-	-	0:48:19.429000	0:48:19.994000
@@ -13199,11 +13199,11 @@ bastle	-	-	-	0:48:21.760000	0:48:22.753000
 viel	-	-	-	0:48:21.760000	0:48:22.753000
 .	-	-	-	0:48:21.760000	0:48:22.753000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:22.753000" end="0:48:23.151000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:22.753000" end="0:48:23.151000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:48:22.753000	0:48:23.151000
 .	-	-	-	0:48:22.753000	0:48:23.151000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:23.151000" end="0:48:24.738000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:23.151000" end="0:48:24.738000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:48:23.151000	0:48:24.738000
 ich	-	-	-	0:48:23.151000	0:48:24.738000
@@ -13213,7 +13213,7 @@ der	-	-	-	0:48:23.151000	0:48:24.738000
 Musik	-	-	-	0:48:23.151000	0:48:24.738000
 .	-	-	-	0:48:23.151000	0:48:24.738000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:24.738000" end="0:48:26.503000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:24.738000" end="0:48:26.503000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:48:24.738000	0:48:26.503000
 ,	-	-	-	0:48:24.738000	0:48:26.503000
 was	-	-	-	0:48:24.738000	0:48:26.503000
@@ -13225,23 +13225,23 @@ der	-	-	-	0:48:24.738000	0:48:26.503000
 Musik	-	-	-	0:48:24.738000	0:48:26.503000
 ?	-	-	-	0:48:24.738000	0:48:26.503000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:26.503000" end="0:48:27.857000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:26.503000" end="0:48:27.857000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:48:26.503000	0:48:27.857000
 spiele	-	-	-	0:48:26.503000	0:48:27.857000
 Bassklarinette	-	-	-	0:48:26.503000	0:48:27.857000
 .	-	-	-	0:48:26.503000	0:48:27.857000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:27.857000" end="0:48:29.116000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:27.857000" end="0:48:29.116000" age_lower="1" age_upper="999">
 super	-	-	-	0:48:27.857000	0:48:28.533000
 .	-	-	-	0:48:27.857000	0:48:28.533000
 mhm	-	-	-	0:48:28.533000	0:48:29.116000
 .	-	-	-	0:48:28.533000	0:48:29.116000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:28.533000" end="0:48:29.116000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:28.533000" end="0:48:29.116000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:28.533000	0:48:29.116000
 .	-	-	-	0:48:28.533000	0:48:29.116000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:29.116000" end="0:48:33.314000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:29.116000" end="0:48:33.314000" age_lower="1" age_upper="999">
 und	-	-	-	0:48:29.116000	0:48:30.875000
 das	-	-	-	0:48:29.116000	0:48:30.875000
 ist	-	-	-	0:48:29.116000	0:48:30.875000
@@ -13262,7 +13262,7 @@ interviewen	-	-	-	0:48:30.875000	0:48:33.314000
 lassen	-	-	-	0:48:30.875000	0:48:33.314000
 ?	-	-	-	0:48:30.875000	0:48:33.314000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:30.875000" end="0:48:33.314000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:30.875000" end="0:48:33.314000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:30.875000	0:48:33.314000
 ,	-	-	-	0:48:30.875000	0:48:33.314000
 genau	-	-	-	0:48:30.875000	0:48:33.314000
@@ -13272,13 +13272,13 @@ ja	-	-	-	0:48:30.875000	0:48:33.314000
 genau	-	-	-	0:48:30.875000	0:48:33.314000
 .	-	-	-	0:48:30.875000	0:48:33.314000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:33.314000" end="0:48:33.960000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:33.314000" end="0:48:33.960000" age_lower="1" age_upper="999">
 okay	-	-	-	0:48:33.314000	0:48:33.960000
 ,	-	-	-	0:48:33.314000	0:48:33.960000
 gut	-	-	-	0:48:33.314000	0:48:33.960000
 .	-	-	-	0:48:33.314000	0:48:33.960000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:33.314000" end="0:48:34.955000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:33.314000" end="0:48:34.955000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:48:33.314000	0:48:33.960000
 sind	-	-	-	0:48:33.314000	0:48:33.960000
 jetzt	-	-	-	0:48:33.314000	0:48:33.960000
@@ -13290,25 +13290,25 @@ alle	-	-	-	0:48:33.960000	0:48:34.955000
 in	-	-	-	0:48:33.960000	0:48:34.955000
 der	-	-	-	0:48:33.960000	0:48:34.955000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:34.955000" end="0:48:35.784000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:34.955000" end="0:48:35.784000" age_lower="1" age_upper="999">
 oh	-	-	-	0:48:34.955000	0:48:35.784000
 wow	-	-	-	0:48:34.955000	0:48:35.784000
 ,	-	-	-	0:48:34.955000	0:48:35.784000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:34.955000" end="0:48:35.784000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:34.955000" end="0:48:35.784000" project="PP03" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:48:34.955000	0:48:35.784000
 Musik	-	-	-	0:48:34.955000	0:48:35.784000
 .	-	-	-	0:48:34.955000	0:48:35.784000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:35.784000" end="0:48:36.983000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:35.784000" end="0:48:36.983000" age_lower="1" age_upper="999">
 toll	-	-	-	0:48:35.784000	0:48:36.983000
 .	-	-	-	0:48:35.784000	0:48:36.983000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:35.784000" end="0:48:37.532000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:35.784000" end="0:48:37.532000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:36.983000	0:48:37.532000
 .	-	-	-	0:48:36.983000	0:48:37.532000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:37.532000" end="0:48:42.361000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:37.532000" end="0:48:42.361000" age_lower="1" age_upper="999">
 okay	-	-	-	0:48:37.532000	0:48:38.185000
 .	-	-	-	0:48:37.532000	0:48:38.185000
 und	-	-	-	0:48:38.185000	0:48:40.983000
@@ -13326,7 +13326,7 @@ aktiv	-	-	-	0:48:40.983000	0:48:42.361000
 abgesehen	-	-	-	0:48:40.983000	0:48:42.361000
 /?	-	-	-	0:48:40.983000	0:48:42.361000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:40.983000" end="0:48:43.309000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:40.983000" end="0:48:43.309000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:40.983000	0:48:42.361000
 ,	-	-	-	0:48:40.983000	0:48:42.361000
 ich	-	-	-	0:48:40.983000	0:48:42.361000
@@ -13336,11 +13336,11 @@ SONSTIGE	SONSTIGE	-	-	0:48:40.983000	0:48:42.361000
 als	-	-	-	0:48:42.361000	0:48:43.309000
 SONSTIGE	SONSTIGE	-	-	0:48:42.361000	0:48:43.309000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:43.309000" end="0:48:43.740000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:43.309000" end="0:48:43.740000" age_lower="1" age_upper="999">
 okay	-	-	-	0:48:43.309000	0:48:43.740000
 .	-	-	-	0:48:43.309000	0:48:43.740000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:43.309000" end="0:48:47.888000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:43.309000" end="0:48:47.888000" project="PP03" age_lower="18" age_upper="35">
 tätig	-	-	-	0:48:43.309000	0:48:43.740000
 .	-	-	-	0:48:43.309000	0:48:43.740000
 und	-	-	-	0:48:43.740000	0:48:45.431000
@@ -13357,30 +13357,30 @@ Festausschuss	-	-	-	0:48:45.431000	0:48:47.888000
 auch	-	-	-	0:48:45.431000	0:48:47.888000
 .	-	-	-	0:48:45.431000	0:48:47.888000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:47.888000" end="0:48:48.733000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:47.888000" end="0:48:48.733000" age_lower="1" age_upper="999">
 ja	-	-	-	0:48:47.888000	0:48:48.733000
 ,	-	-	-	0:48:47.888000	0:48:48.733000
 mhm	-	-	-	0:48:47.888000	0:48:48.733000
 .	-	-	-	0:48:47.888000	0:48:48.733000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:48.733000" end="0:48:49.584000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:48.733000" end="0:48:49.584000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:48:48.733000	0:48:49.584000
 ich	-	-	-	0:48:48.733000	0:48:49.584000
 bin	-	-	-	0:48:48.733000	0:48:49.584000
 da	-	-	-	0:48:48.733000	0:48:49.584000
 schon	-	-	-	0:48:48.733000	0:48:49.584000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:49.584000" end="0:48:50.648000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:49.584000" end="0:48:50.648000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:48:49.584000	0:48:50.648000
 /.	-	-	-	0:48:49.584000	0:48:50.648000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:49.584000" end="0:48:50.648000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:49.584000" end="0:48:50.648000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 vorne	-	-	-	0:48:49.584000	0:48:50.648000
 dabei	-	-	-	0:48:49.584000	0:48:50.648000
 .	-	-	-	0:48:49.584000	0:48:50.648000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:50.648000" end="0:48:53.357000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:50.648000" end="0:48:53.357000" age_lower="1" age_upper="999">
 ja	-	-	-	0:48:50.648000	0:48:53.357000
 ,	-	-	-	0:48:50.648000	0:48:53.357000
 ja	-	-	-	0:48:50.648000	0:48:53.357000
@@ -13392,9 +13392,9 @@ okay	-	-	-	0:48:50.648000	0:48:53.357000
 mhm	-	-	-	0:48:50.648000	0:48:53.357000
 .	-	-	-	0:48:50.648000	0:48:53.357000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:50.648000" end="0:48:53.357000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:50.648000" end="0:48:53.357000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:53.357000" end="0:48:58.589000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:53.357000" end="0:48:58.589000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 das	-	-	-	0:48:53.357000	0:48:54.285000
 heißt	-	-	-	0:48:53.357000	0:48:54.285000
@@ -13411,7 +13411,7 @@ Bekannten	-	-	-	0:48:57.035000	0:48:58.589000
 ,	-	-	-	0:48:57.035000	0:48:58.589000
 auch	-	-	-	0:48:57.035000	0:48:58.589000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:57.035000" end="0:48:59.322000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:57.035000" end="0:48:59.322000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:57.035000	0:48:58.589000
 ,	-	-	-	0:48:57.035000	0:48:58.589000
 also	-	-	-	0:48:57.035000	0:48:58.589000
@@ -13421,11 +13421,11 @@ Raggal	-	-	-	0:48:58.589000	0:48:59.322000
 ,	-	-	-	0:48:58.589000	0:48:59.322000
 also	-	-	-	0:48:58.589000	0:48:59.322000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:59.322000" end="0:49:00.133000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:59.322000" end="0:49:00.133000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:48:59.322000	0:49:00.133000
 .	-	-	-	0:48:59.322000	0:49:00.133000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:59.322000" end="0:49:01.699000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:59.322000" end="0:49:01.699000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:48:59.322000	0:49:00.133000
 Freundeskreis	-	-	-	0:48:59.322000	0:49:00.133000
 ist	-	-	-	0:49:00.133000	0:49:01.699000
@@ -13437,7 +13437,7 @@ Raggal	-	-	-	0:49:00.133000	0:49:01.699000
 geblieben	-	-	-	0:49:00.133000	0:49:01.699000
 .	-	-	-	0:49:00.133000	0:49:01.699000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:01.699000" end="0:49:03.795000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:01.699000" end="0:49:03.795000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:49:01.699000	0:49:02.972000
 ,	-	-	-	0:49:01.699000	0:49:02.972000
 okay	-	-	-	0:49:01.699000	0:49:02.972000
@@ -13445,7 +13445,7 @@ okay	-	-	-	0:49:01.699000	0:49:02.972000
 ja	-	-	-	0:49:02.972000	0:49:03.795000
 .	-	-	-	0:49:02.972000	0:49:03.795000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:02.972000" end="0:49:05.086000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:02.972000" end="0:49:05.086000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:49:02.972000	0:49:03.795000
 ORT	ORT	-	-	0:49:02.972000	0:49:03.795000
 ist	-	-	-	0:49:03.795000	0:49:05.086000
@@ -13455,14 +13455,14 @@ zum	-	-	-	0:49:03.795000	0:49:05.086000
 Zweck	-	-	-	0:49:03.795000	0:49:05.086000
 .	-	-	-	0:49:03.795000	0:49:05.086000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:05.086000" end="0:49:06.565000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:05.086000" end="0:49:06.565000" age_lower="1" age_upper="999">
 okay	-	-	-	0:49:05.086000	0:49:06.565000
 okay	-	-	-	0:49:05.086000	0:49:06.565000
 .	-	-	-	0:49:05.086000	0:49:06.565000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:05.086000" end="0:49:06.565000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:05.086000" end="0:49:06.565000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:06.565000" end="0:49:08.896000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:06.565000" end="0:49:08.896000" age_lower="1" age_upper="999">
 das	-	-	-	0:49:06.565000	0:49:08.470000
 heißt	-	-	-	0:49:06.565000	0:49:08.470000
 ,	-	-	-	0:49:06.565000	0:49:08.470000
@@ -13475,11 +13475,11 @@ auch	-	-	-	0:49:06.565000	0:49:08.470000
 so	-	-	-	0:49:06.565000	0:49:08.470000
 das	-	-	-	0:49:08.470000	0:49:08.896000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:08.470000" end="0:49:08.896000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:08.470000" end="0:49:08.896000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:08.470000	0:49:08.896000
 .	-	-	-	0:49:08.470000	0:49:08.896000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:08.896000" end="0:49:13.853000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:08.896000" end="0:49:13.853000" age_lower="1" age_upper="999">
 Walserisch	-	-	-	0:49:08.896000	0:49:10.477000
 ,	-	-	-	0:49:08.896000	0:49:10.477000
 ja	-	-	-	0:49:08.896000	0:49:10.477000
@@ -13494,7 +13494,7 @@ Sie	-	-	-	0:49:11.743000	0:49:13.853000
 gelegentlich	-	-	-	0:49:11.743000	0:49:13.853000
 ?	-	-	-	0:49:11.743000	0:49:13.853000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:13.853000" end="0:49:17.487000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:13.853000" end="0:49:17.487000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 jetzt	-	-	-	0:49:13.853000	0:49:15.363000
 nicht	-	-	-	0:49:13.853000	0:49:15.363000
@@ -13514,11 +13514,11 @@ Baby	-	-	-	0:49:15.363000	0:49:17.487000
 haben	-	-	-	0:49:15.363000	0:49:17.487000
 .	-	-	-	0:49:15.363000	0:49:17.487000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:17.487000" end="0:49:18.257000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:17.487000" end="0:49:18.257000" age_lower="1" age_upper="999">
 ja	-	-	-	0:49:17.487000	0:49:18.257000
 .	-	-	-	0:49:17.487000	0:49:18.257000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:17.487000" end="0:49:20.288000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:17.487000" end="0:49:20.288000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:49:17.487000	0:49:18.257000
 davor	-	-	-	0:49:18.257000	0:49:20.288000
 sind	-	-	-	0:49:18.257000	0:49:20.288000
@@ -13529,11 +13529,11 @@ wieder	-	-	-	0:49:18.257000	0:49:20.288000
 einmal	-	-	-	0:49:18.257000	0:49:20.288000
 gereist	-	-	-	0:49:18.257000	0:49:20.288000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:20.288000" end="0:49:20.740000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:20.288000" end="0:49:20.740000" age_lower="1" age_upper="999">
 ja	-	-	-	0:49:20.288000	0:49:20.740000
 .	-	-	-	0:49:20.288000	0:49:20.740000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:20.288000" end="0:49:21.557000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:20.288000" end="0:49:21.557000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:49:20.288000	0:49:20.740000
 ich	-	-	-	0:49:20.288000	0:49:20.740000
 habe	-	-	-	0:49:20.288000	0:49:20.740000
@@ -13543,14 +13543,14 @@ gerne	-	-	-	0:49:20.740000	0:49:21.557000
 gemacht	-	-	-	0:49:20.740000	0:49:21.557000
 .	-	-	-	0:49:20.740000	0:49:21.557000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:21.557000" end="0:49:23.128000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:21.557000" end="0:49:23.128000" age_lower="1" age_upper="999">
 wohin	-	-	-	0:49:21.557000	0:49:23.128000
 zum	-	-	-	0:49:21.557000	0:49:23.128000
 Beispiel	-	-	-	0:49:21.557000	0:49:23.128000
 so	-	-	-	0:49:21.557000	0:49:23.128000
 ?	-	-	-	0:49:21.557000	0:49:23.128000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:23.128000" end="0:49:25.343000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:23.128000" end="0:49:25.343000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:49:23.128000	0:49:25.343000
 ,	-	-	-	0:49:23.128000	0:49:25.343000
@@ -13560,11 +13560,11 @@ in	-	-	-	0:49:23.128000	0:49:25.343000
 Amerika	-	-	-	0:49:23.128000	0:49:25.343000
 .	-	-	-	0:49:23.128000	0:49:25.343000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:25.343000" end="0:49:25.850000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:25.343000" end="0:49:25.850000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:49:25.343000	0:49:25.850000
 .	-	-	-	0:49:25.343000	0:49:25.850000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:25.850000" end="0:49:28.186000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:25.850000" end="0:49:28.186000" project="PP03" age_lower="18" age_upper="35">
 sind	-	-	-	0:49:25.850000	0:49:26.828000
 wir	-	-	-	0:49:25.850000	0:49:26.828000
 zweimal	-	-	-	0:49:25.850000	0:49:26.828000
@@ -13577,11 +13577,11 @@ Indien	-	-	-	0:49:26.828000	0:49:28.186000
 gewesen	-	-	-	0:49:26.828000	0:49:28.186000
 .	-	-	-	0:49:26.828000	0:49:28.186000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:28.186000" end="0:49:28.637000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:28.186000" end="0:49:28.637000" age_lower="1" age_upper="999">
 wow	-	-	-	0:49:28.186000	0:49:28.637000
 .	-	-	-	0:49:28.186000	0:49:28.637000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:28.637000" end="0:49:32.033000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:28.637000" end="0:49:32.033000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 wir	-	-	-	0:49:28.637000	0:49:32.033000
 haben	-	-	-	0:49:28.637000	0:49:32.033000
@@ -13592,11 +13592,11 @@ London	-	-	-	0:49:28.637000	0:49:32.033000
 gemacht	-	-	-	0:49:28.637000	0:49:32.033000
 .	-	-	-	0:49:28.637000	0:49:32.033000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:32.033000" end="0:49:32.607000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:32.033000" end="0:49:32.607000" age_lower="1" age_upper="999">
 schön	-	-	-	0:49:32.033000	0:49:32.607000
 .	-	-	-	0:49:32.033000	0:49:32.607000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:32.607000" end="0:49:35.247000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:32.607000" end="0:49:35.247000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:49:32.607000	0:49:35.247000
 mit	-	-	-	0:49:32.607000	0:49:35.247000
 dem	-	-	-	0:49:32.607000	0:49:35.247000
@@ -13605,20 +13605,20 @@ mal	-	-	-	0:49:32.607000	0:49:35.247000
 durch	-	-	-	0:49:32.607000	0:49:35.247000
 Sardinien	-	-	-	0:49:32.607000	0:49:35.247000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:35.247000" end="0:49:36.233000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:35.247000" end="0:49:36.233000" age_lower="1" age_upper="999">
 oh	-	-	-	0:49:35.247000	0:49:36.233000
 .	-	-	-	0:49:35.247000	0:49:36.233000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:35.247000" end="0:49:36.233000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:35.247000" end="0:49:36.233000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:49:35.247000	0:49:36.233000
 Korsika	-	-	-	0:49:35.247000	0:49:36.233000
 .	-	-	-	0:49:35.247000	0:49:36.233000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:36.233000" end="0:49:36.779000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:36.233000" end="0:49:36.779000" age_lower="1" age_upper="999">
 ja	-	-	-	0:49:36.233000	0:49:36.779000
 .	-	-	-	0:49:36.233000	0:49:36.779000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:36.233000" end="0:49:38.256000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:36.233000" end="0:49:38.256000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:49:36.233000	0:49:36.779000
 ganz	-	-	-	0:49:36.779000	0:49:37.644000
 unterschiedlich	-	-	-	0:49:36.779000	0:49:37.644000
@@ -13627,11 +13627,11 @@ was	-	-	-	0:49:37.644000	0:49:38.256000
 uns	-	-	-	0:49:37.644000	0:49:38.256000
 gerade	-	-	-	0:49:37.644000	0:49:38.256000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:38.256000" end="0:49:39.279000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:38.256000" end="0:49:39.279000" age_lower="1" age_upper="999">
 super	-	-	-	0:49:38.256000	0:49:39.279000
 .	-	-	-	0:49:38.256000	0:49:39.279000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:38.256000" end="0:49:39.666000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:38.256000" end="0:49:39.666000" project="PP03" age_lower="18" age_upper="35">
 *in*	-	-	-	0:49:38.256000	0:49:39.279000
 Sinn	-	-	-	0:49:38.256000	0:49:39.279000
 gekommen	-	-	-	0:49:38.256000	0:49:39.279000
@@ -13640,7 +13640,7 @@ ist	-	-	-	0:49:38.256000	0:49:39.279000
 ja	-	-	-	0:49:39.279000	0:49:39.666000
 .	-	-	-	0:49:39.279000	0:49:39.666000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:39.666000" end="0:49:58.024000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:39.666000" end="0:49:58.024000" age_lower="1" age_upper="999">
 toll	-	-	-	0:49:39.666000	0:49:41.480000
 ,	-	-	-	0:49:39.666000	0:49:41.480000
 mhm	-	-	-	0:49:39.666000	0:49:41.480000
@@ -13715,7 +13715,7 @@ wo	-	-	-	0:49:56.619000	0:49:58.024000
 ja	-	-	-	0:49:56.619000	0:49:58.024000
 .	-	-	-	0:49:56.619000	0:49:58.024000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:56.619000" end="0:49:58.024000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:56.619000" end="0:49:58.024000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:49:56.619000	0:49:58.024000
 habe	-	-	-	0:49:56.619000	0:49:58.024000
 ,	-	-	-	0:49:56.619000	0:49:58.024000
@@ -13723,11 +13723,11 @@ wie	-	-	-	0:49:56.619000	0:49:58.024000
 gesagt	-	-	-	0:49:56.619000	0:49:58.024000
 ,	-	-	-	0:49:56.619000	0:49:58.024000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:58.024000" end="0:49:59.049000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:58.024000" end="0:49:59.049000" age_lower="1" age_upper="999">
 (Ragga)	-	-	-	0:49:58.024000	0:49:59.049000
 .	-	-	-	0:49:58.024000	0:49:59.049000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:58.024000" end="0:50:00.547000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:58.024000" end="0:50:00.547000" project="PP03" age_lower="18" age_upper="35">
 gerne	-	-	-	0:49:58.024000	0:49:59.049000
 in	-	-	-	0:49:58.024000	0:49:59.049000
 Raggal	-	-	-	0:49:58.024000	0:49:59.049000
@@ -13741,11 +13741,11 @@ wieder	-	-	-	0:49:59.049000	0:50:00.547000
 in	-	-	-	0:49:59.049000	0:50:00.547000
 Raggal	-	-	-	0:49:59.049000	0:50:00.547000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:00.547000" end="0:50:01.611000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:00.547000" end="0:50:01.611000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:50:00.547000	0:50:01.611000
 .	-	-	-	0:50:00.547000	0:50:01.611000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:00.547000" end="0:50:01.611000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:00.547000" end="0:50:01.611000" project="PP03" age_lower="18" age_upper="35">
 ,	-	-	-	0:50:00.547000	0:50:01.611000
 wohnen	-	-	-	0:50:00.547000	0:50:01.611000
 ,	-	-	-	0:50:00.547000	0:50:01.611000
@@ -13753,11 +13753,11 @@ weil	-	-	-	0:50:00.547000	0:50:01.611000
 es	-	-	-	0:50:00.547000	0:50:01.611000
 einfach	-	-	-	0:50:00.547000	0:50:01.611000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:01.611000" end="0:50:02.425000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:01.611000" end="0:50:02.425000" age_lower="1" age_upper="999">
 ((0,4s))mhm	-	-	-	0:50:01.611000	0:50:02.425000
 .	-	-	-	0:50:01.611000	0:50:02.425000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:01.611000" end="0:50:03.709000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:01.611000" end="0:50:03.709000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 ja	-	-	-	0:50:01.611000	0:50:02.425000
 ,	-	-	-	0:50:01.611000	0:50:02.425000
@@ -13768,11 +13768,11 @@ meine	-	-	-	0:50:02.425000	0:50:03.709000
 Heimatgemeinde	-	-	-	0:50:02.425000	0:50:03.709000
 .	-	-	-	0:50:02.425000	0:50:03.709000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:03.709000" end="0:50:04.214000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:03.709000" end="0:50:04.214000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:50:03.709000	0:50:04.214000
 .	-	-	-	0:50:03.709000	0:50:04.214000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:04.214000" end="0:50:07.084000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:04.214000" end="0:50:07.084000" project="PP03" age_lower="18" age_upper="35">
 wobei	-	-	-	0:50:04.214000	0:50:05.765000
 ich	-	-	-	0:50:04.214000	0:50:05.765000
 sagen	-	-	-	0:50:04.214000	0:50:05.765000
@@ -13786,11 +13786,11 @@ wohl	-	-	-	0:50:05.765000	0:50:07.084000
 fühlen	-	-	-	0:50:05.765000	0:50:07.084000
 ,	-	-	-	0:50:05.765000	0:50:07.084000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:07.084000" end="0:50:07.779000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:07.084000" end="0:50:07.779000" age_lower="1" age_upper="999">
 ja	-	-	-	0:50:07.084000	0:50:07.779000
 .	-	-	-	0:50:07.084000	0:50:07.779000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:07.084000" end="0:50:08.902000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:07.084000" end="0:50:08.902000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:50:07.084000	0:50:07.779000
 ich	-	-	-	0:50:07.084000	0:50:07.779000
 fühle	-	-	-	0:50:07.084000	0:50:07.779000
@@ -13803,7 +13803,7 @@ ORT	ORT	-	-	0:50:07.779000	0:50:08.902000
 wohl	-	-	-	0:50:07.779000	0:50:08.902000
 .	-	-	-	0:50:07.779000	0:50:08.902000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:08.902000" end="0:50:10.646000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:08.902000" end="0:50:10.646000" age_lower="1" age_upper="999">
 ja	-	-	-	0:50:08.902000	0:50:10.023000
 ,	-	-	-	0:50:08.902000	0:50:10.023000
 ja	-	-	-	0:50:08.902000	0:50:10.023000
@@ -13811,14 +13811,14 @@ ja	-	-	-	0:50:08.902000	0:50:10.023000
 okay	-	-	-	0:50:10.023000	0:50:10.646000
 .	-	-	-	0:50:10.023000	0:50:10.646000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:10.023000" end="0:50:12.413000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:10.023000" end="0:50:12.413000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:50:10.023000	0:50:10.646000
 im	-	-	-	0:50:10.646000	0:50:12.413000
 Zeitalter	-	-	-	0:50:10.646000	0:50:12.413000
 des	-	-	-	0:50:10.646000	0:50:12.413000
 Autos	-	-	-	0:50:10.646000	0:50:12.413000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:12.413000" end="0:50:14.956000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:12.413000" end="0:50:14.956000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 ist	-	-	-	0:50:12.413000	0:50:13.746000
 es	-	-	-	0:50:12.413000	0:50:13.746000
@@ -13829,14 +13829,14 @@ so	-	-	-	0:50:13.746000	0:50:14.956000
 ja	-	-	-	0:50:13.746000	0:50:14.956000
 ,	-	-	-	0:50:13.746000	0:50:14.956000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:13.746000" end="0:50:14.956000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:13.746000" end="0:50:14.956000" project="PP03" age_lower="18" age_upper="35">
 *is*	-	-	-	0:50:13.746000	0:50:14.956000
 nicht	-	-	-	0:50:13.746000	0:50:14.956000
 so	-	-	-	0:50:13.746000	0:50:14.956000
 tragisch	-	-	-	0:50:13.746000	0:50:14.956000
 .	-	-	-	0:50:13.746000	0:50:14.956000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:14.956000" end="0:50:19.533000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:14.956000" end="0:50:19.533000" age_lower="1" age_upper="999">
 okay	-	-	-	0:50:14.956000	0:50:16.230000
 ,	-	-	-	0:50:14.956000	0:50:16.230000
 mhm	-	-	-	0:50:14.956000	0:50:16.230000
@@ -13851,7 +13851,7 @@ besonders	-	-	-	0:50:16.230000	0:50:19.533000
 schön	-	-	-	0:50:16.230000	0:50:19.533000
 ?	-	-	-	0:50:16.230000	0:50:19.533000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:19.533000" end="0:50:22.143000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:19.533000" end="0:50:22.143000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:50:19.533000	0:50:20.524000
 glaube	-	-	-	0:50:19.533000	0:50:20.524000
 ,	-	-	-	0:50:19.533000	0:50:20.524000
@@ -13867,11 +13867,11 @@ aufgewachsen	-	-	-	0:50:20.524000	0:50:22.143000
 bin	-	-	-	0:50:20.524000	0:50:22.143000
 .	-	-	-	0:50:20.524000	0:50:22.143000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:22.143000" end="0:50:22.663000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:22.143000" end="0:50:22.663000" age_lower="1" age_upper="999">
 ja	-	-	-	0:50:22.143000	0:50:22.663000
 .	-	-	-	0:50:22.143000	0:50:22.663000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:22.663000" end="0:50:26.199000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:22.663000" end="0:50:26.199000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:50:22.663000	0:50:26.199000
 glaube	-	-	-	0:50:22.663000	0:50:26.199000
 nicht	-	-	-	0:50:22.663000	0:50:26.199000
@@ -13891,11 +13891,11 @@ ist	-	-	-	0:50:22.663000	0:50:26.199000
 ,	-	-	-	0:50:22.663000	0:50:26.199000
 das	-	-	-	0:50:22.663000	0:50:26.199000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:26.199000" end="0:50:26.584000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:26.199000" end="0:50:26.584000" age_lower="1" age_upper="999">
 ja	-	-	-	0:50:26.199000	0:50:26.584000
 .	-	-	-	0:50:26.199000	0:50:26.584000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:26.584000" end="0:50:30.847000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:26.584000" end="0:50:30.847000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 täte	-	-	-	0:50:26.584000	0:50:28.053000
 ich	-	-	-	0:50:26.584000	0:50:28.053000
@@ -13916,12 +13916,12 @@ Familie	-	-	-	0:50:29.766000	0:50:30.847000
 ist	-	-	-	0:50:29.766000	0:50:30.847000
 ,	-	-	-	0:50:29.766000	0:50:30.847000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:30.847000" end="0:50:31.331000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:30.847000" end="0:50:31.331000" age_lower="1" age_upper="999">
 ja	-	-	-	0:50:30.847000	0:50:31.331000
 ja	-	-	-	0:50:30.847000	0:50:31.331000
 .	-	-	-	0:50:30.847000	0:50:31.331000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:31.331000" end="0:50:34.562000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:31.331000" end="0:50:34.562000" project="PP03" age_lower="18" age_upper="35">
 viele	-	-	-	0:50:31.331000	0:50:33.053000
 Erinnerungen	-	-	-	0:50:31.331000	0:50:33.053000
 dort	-	-	-	0:50:31.331000	0:50:33.053000
@@ -13934,11 +13934,11 @@ einfach	-	-	-	0:50:33.053000	0:50:34.562000
 kenne	-	-	-	0:50:33.053000	0:50:34.562000
 .	-	-	-	0:50:33.053000	0:50:34.562000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:34.562000" end="0:50:35.066000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:34.562000" end="0:50:35.066000" age_lower="1" age_upper="999">
 ja	-	-	-	0:50:34.562000	0:50:35.066000
 .	-	-	-	0:50:34.562000	0:50:35.066000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:35.066000" end="0:50:37.408000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:35.066000" end="0:50:37.408000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	-	-	-	0:50:35.066000	0:50:37.408000
 mich	-	-	-	0:50:35.066000	0:50:37.408000
@@ -13948,7 +13948,7 @@ und	-	-	-	0:50:35.066000	0:50:37.408000
 wohlfühle	-	-	-	0:50:35.066000	0:50:37.408000
 .	-	-	-	0:50:35.066000	0:50:37.408000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:37.408000" end="0:50:45.742000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:37.408000" end="0:50:45.742000" age_lower="1" age_upper="999">
 ja	-	-	-	0:50:37.408000	0:50:38.313000
 ,	-	-	-	0:50:37.408000	0:50:38.313000
 ja	-	-	-	0:50:37.408000	0:50:38.313000
@@ -13975,7 +13975,7 @@ Raggal	-	-	-	0:50:40.557000	0:50:45.742000
 wegzuziehen	-	-	-	0:50:40.557000	0:50:45.742000
 ?	-	-	-	0:50:40.557000	0:50:45.742000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:45.742000" end="0:50:47.923000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:45.742000" end="0:50:47.923000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:50:45.742000	0:50:47.923000
 ,	-	-	-	0:50:45.742000	0:50:47.923000
 bei	-	-	-	0:50:45.742000	0:50:47.923000
@@ -13988,11 +13988,11 @@ dass	-	-	-	0:50:45.742000	0:50:47.923000
 das	-	-	-	0:50:45.742000	0:50:47.923000
 einfach	-	-	-	0:50:45.742000	0:50:47.923000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:47.923000" end="0:50:48.893000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:47.923000" end="0:50:48.893000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:50:47.923000	0:50:48.893000
 .	-	-	-	0:50:47.923000	0:50:48.893000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:47.923000" end="0:50:49.783000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:47.923000" end="0:50:49.783000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 ein	-	-	-	0:50:47.923000	0:50:48.893000
 Erbe	-	-	-	0:50:47.923000	0:50:48.893000
@@ -14003,35 +14003,35 @@ Haus	-	-	-	0:50:48.893000	0:50:49.783000
 ,	-	-	-	0:50:48.893000	0:50:49.783000
 und	-	-	-	0:50:48.893000	0:50:49.783000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:49.783000" end="0:50:50.764000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:49.783000" end="0:50:50.764000" age_lower="1" age_upper="999">
 ah	-	-	-	0:50:49.783000	0:50:50.764000
 ,	-	-	-	0:50:49.783000	0:50:50.764000
 ja	-	-	-	0:50:49.783000	0:50:50.764000
 .	-	-	-	0:50:49.783000	0:50:50.764000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:49.783000" end="0:50:50.764000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:49.783000" end="0:50:50.764000" project="PP03" age_lower="18" age_upper="35">
 darum	-	-	-	0:50:49.783000	0:50:50.764000
 wohnen	-	-	-	0:50:49.783000	0:50:50.764000
 wir	-	-	-	0:50:49.783000	0:50:50.764000
 da	-	-	-	0:50:49.783000	0:50:50.764000
 .	-	-	-	0:50:49.783000	0:50:50.764000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:50.764000" end="0:50:51.863000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:50.764000" end="0:50:51.863000" age_lower="1" age_upper="999">
 ja	-	-	-	0:50:50.764000	0:50:51.863000
 ,	-	-	-	0:50:50.764000	0:50:51.863000
 mhm	-	-	-	0:50:50.764000	0:50:51.863000
 .	-	-	-	0:50:50.764000	0:50:51.863000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:50.764000" end="0:50:52.450000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:50.764000" end="0:50:52.450000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:50:50.764000	0:50:51.863000
 war	-	-	-	0:50:51.863000	0:50:52.450000
 einfach	-	-	-	0:50:51.863000	0:50:52.450000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:52.450000" end="0:50:53.108000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:52.450000" end="0:50:53.108000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:50:52.450000	0:50:53.108000
 .	-	-	-	0:50:52.450000	0:50:53.108000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:53.108000" end="0:51:02.278000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:53.108000" end="0:51:02.278000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:50:53.108000	0:50:53.927000
 Gegebenheit	-	-	-	0:50:53.108000	0:50:53.927000
 ,	-	-	-	0:50:53.108000	0:50:53.927000
@@ -14077,11 +14077,11 @@ her	-	-	-	0:51:01.014000	0:51:02.278000
 ,	-	-	-	0:51:01.014000	0:51:02.278000
 das	-	-	-	0:51:01.014000	0:51:02.278000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:02.278000" end="0:51:02.757000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:02.278000" end="0:51:02.757000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:51:02.278000	0:51:02.757000
 .	-	-	-	0:51:02.278000	0:51:02.757000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:02.278000" end="0:51:04.032000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:02.278000" end="0:51:04.032000" project="PP03" age_lower="18" age_upper="35">
 Haus	-	-	-	0:51:02.278000	0:51:02.757000
 ,	-	-	-	0:51:02.278000	0:51:02.757000
 oder	-	-	-	0:51:02.757000	0:51:04.032000
@@ -14090,12 +14090,12 @@ neu	-	-	-	0:51:02.757000	0:51:04.032000
 gebaut	-	-	-	0:51:02.757000	0:51:04.032000
 ,	-	-	-	0:51:02.757000	0:51:04.032000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:04.032000" end="0:51:04.665000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:04.032000" end="0:51:04.665000" age_lower="1" age_upper="999">
 <pause duration="0,4s"/>
 mhm	-	-	-	0:51:04.032000	0:51:04.665000
 .	-	-	-	0:51:04.032000	0:51:04.665000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:04.665000" end="0:51:08.611000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:04.665000" end="0:51:08.611000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:51:04.665000	0:51:06.151000
 habe	-	-	-	0:51:04.665000	0:51:06.151000
 jetzt	-	-	-	0:51:04.665000	0:51:06.151000
@@ -14116,11 +14116,11 @@ nach	-	-	-	0:51:07.700000	0:51:08.611000
 Ludesch	-	-	-	0:51:07.700000	0:51:08.611000
 oder	-	-	-	0:51:07.700000	0:51:08.611000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:08.611000" end="0:51:09.014000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:08.611000" end="0:51:09.014000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:51:08.611000	0:51:09.014000
 .	-	-	-	0:51:08.611000	0:51:09.014000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:08.611000" end="0:51:10.354000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:08.611000" end="0:51:10.354000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:51:08.611000	0:51:09.014000
 .	-	-	-	0:51:08.611000	0:51:09.014000
 dann	-	-	-	0:51:09.014000	0:51:10.354000
@@ -14130,7 +14130,7 @@ einfach	-	-	-	0:51:09.014000	0:51:10.354000
 so	-	-	-	0:51:09.014000	0:51:10.354000
 .	-	-	-	0:51:09.014000	0:51:10.354000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:10.354000" end="0:51:12.232000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:10.354000" end="0:51:12.232000" age_lower="1" age_upper="999">
 aber	-	-	-	0:51:10.354000	0:51:12.232000
 Sie	-	-	-	0:51:10.354000	0:51:12.232000
 würden	-	-	-	0:51:10.354000	0:51:12.232000
@@ -14140,28 +14140,28 @@ in	-	-	-	0:51:10.354000	0:51:12.232000
 der	-	-	-	0:51:10.354000	0:51:12.232000
 Gegend	-	-	-	0:51:10.354000	0:51:12.232000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:12.232000" end="0:51:12.597000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:12.232000" end="0:51:12.597000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:51:12.232000	0:51:12.597000
 täte	-	-	-	0:51:12.232000	0:51:12.597000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:12.597000" end="0:51:13.991000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:12.597000" end="0:51:13.991000" age_lower="1" age_upper="999">
 bleiben	-	-	-	0:51:12.597000	0:51:13.991000
 ?	-	-	-	0:51:12.597000	0:51:13.991000
 mhm	-	-	-	0:51:12.597000	0:51:13.991000
 ,	-	-	-	0:51:12.597000	0:51:13.991000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:12.597000" end="0:51:13.991000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:12.597000" end="0:51:13.991000" project="PP03" age_lower="18" age_upper="35">
 gerne	-	-	-	0:51:12.597000	0:51:13.991000
 im	-	-	-	0:51:12.597000	0:51:13.991000
 Walsertal	-	-	-	0:51:12.597000	0:51:13.991000
 bleiben	-	-	-	0:51:12.597000	0:51:13.991000
 ,	-	-	-	0:51:12.597000	0:51:13.991000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:13.991000" end="0:51:14.634000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:13.991000" end="0:51:14.634000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:51:13.991000	0:51:14.634000
 .	-	-	-	0:51:13.991000	0:51:14.634000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:14.634000" end="0:51:16.732000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:14.634000" end="0:51:16.732000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:51:14.634000	0:51:16.732000
 es	-	-	-	0:51:14.634000	0:51:16.732000
 ist	-	-	-	0:51:14.634000	0:51:16.732000
@@ -14175,7 +14175,7 @@ nicht	-	-	-	0:51:14.634000	0:51:16.732000
 ist	-	-	-	0:51:14.634000	0:51:16.732000
 .	-	-	-	0:51:14.634000	0:51:16.732000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:16.732000" end="0:51:18.875000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:16.732000" end="0:51:18.875000" age_lower="1" age_upper="999">
 okay	-	-	-	0:51:16.732000	0:51:17.317000
 .	-	-	-	0:51:16.732000	0:51:17.317000
 also	-	-	-	0:51:17.317000	0:51:18.875000
@@ -14186,11 +14186,11 @@ durchaus	-	-	-	0:51:17.317000	0:51:18.875000
 ähm	-	-	-	0:51:17.317000	0:51:18.875000
 ,	-	-	-	0:51:17.317000	0:51:18.875000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:18.875000" end="0:51:19.247000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:18.875000" end="0:51:19.247000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:51:18.875000	0:51:19.247000
 .	-	-	-	0:51:18.875000	0:51:19.247000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:19.247000" end="0:51:23.499000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:19.247000" end="0:51:23.499000" age_lower="1" age_upper="999">
 würden	-	-	-	0:51:19.247000	0:51:19.805000
 auch	-	-	-	0:51:19.247000	0:51:19.805000
 /.	-	-	-	0:51:19.247000	0:51:19.805000
@@ -14207,18 +14207,18 @@ oder	-	-	-	0:51:19.805000	0:51:22.384000
 ähm	-	-	-	0:51:22.384000	0:51:23.499000
 .	-	-	-	0:51:22.384000	0:51:23.499000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:23.499000" end="0:51:24.593000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:23.499000" end="0:51:24.593000" project="PP03" age_lower="18" age_upper="35">
 vielleicht	-	-	-	0:51:23.499000	0:51:24.593000
 nicht	-	-	-	0:51:23.499000	0:51:24.593000
 für	-	-	-	0:51:23.499000	0:51:24.593000
 immer	-	-	-	0:51:23.499000	0:51:24.593000
 ,	-	-	-	0:51:23.499000	0:51:24.593000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:24.593000" end="0:51:25.196000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:24.593000" end="0:51:25.196000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:51:24.593000	0:51:25.196000
 .	-	-	-	0:51:24.593000	0:51:25.196000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:25.196000" end="0:51:27.992000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:25.196000" end="0:51:27.992000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 aber	-	-	-	0:51:25.196000	0:51:27.992000
 so	-	-	-	0:51:25.196000	0:51:27.992000
@@ -14227,11 +14227,11 @@ eine	-	-	-	0:51:25.196000	0:51:27.992000
 begrenzte	-	-	-	0:51:25.196000	0:51:27.992000
 Zeit	-	-	-	0:51:25.196000	0:51:27.992000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:27.992000" end="0:51:28.577000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:27.992000" end="0:51:28.577000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:51:27.992000	0:51:28.577000
 .	-	-	-	0:51:27.992000	0:51:28.577000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:27.992000" end="0:51:29.275000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:27.992000" end="0:51:29.275000" project="PP03" age_lower="18" age_upper="35">
 täte	-	-	-	0:51:27.992000	0:51:28.577000
 ich	-	-	-	0:51:27.992000	0:51:28.577000
 das	-	-	-	0:51:27.992000	0:51:28.577000
@@ -14241,13 +14241,13 @@ machen	-	-	-	0:51:28.577000	0:51:29.275000
 ja	-	-	-	0:51:28.577000	0:51:29.275000
 .	-	-	-	0:51:28.577000	0:51:29.275000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:29.275000" end="0:51:29.875000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:29.275000" end="0:51:29.875000" age_lower="1" age_upper="999">
 ja	-	-	-	0:51:29.275000	0:51:29.875000
 ,	-	-	-	0:51:29.275000	0:51:29.875000
 ja	-	-	-	0:51:29.275000	0:51:29.875000
 .	-	-	-	0:51:29.275000	0:51:29.875000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:29.875000" end="0:51:33.694000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:29.875000" end="0:51:33.694000" project="PP03" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:51:29.875000	0:51:30.945000
 nicht	-	-	-	0:51:29.875000	0:51:30.945000
 überall	-	-	-	0:51:29.875000	0:51:30.945000
@@ -14265,19 +14265,19 @@ vier	-	-	-	0:51:30.945000	0:51:33.694000
 Jahre	-	-	-	0:51:30.945000	0:51:33.694000
 .	-	-	-	0:51:30.945000	0:51:33.694000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:33.694000" end="0:51:35.065000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:33.694000" end="0:51:35.065000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 cool	-	-	-	0:51:33.694000	0:51:35.065000
 ,	-	-	-	0:51:33.694000	0:51:35.065000
 ja	-	-	-	0:51:33.694000	0:51:35.065000
 ,	-	-	-	0:51:33.694000	0:51:35.065000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:33.694000" end="0:51:35.065000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:33.694000" end="0:51:35.065000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	-	-	-	0:51:33.694000	0:51:35.065000
 .	-	-	-	0:51:33.694000	0:51:35.065000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:35.065000" end="0:51:48.982000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:35.065000" end="0:51:48.982000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:51:35.065000	0:51:36.451000
 ,	-	-	-	0:51:35.065000	0:51:36.451000
 gut	-	-	-	0:51:35.065000	0:51:36.451000
@@ -14325,7 +14325,7 @@ sonst	-	-	-	0:51:43.374000	0:51:47.502000
 was	-	-	-	0:51:43.374000	0:51:47.502000
 ?	-	-	-	0:51:43.374000	0:51:47.502000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:47.502000" end="0:51:48.982000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:47.502000" end="0:51:48.982000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:51:47.502000	0:51:48.982000
 ,	-	-	-	0:51:47.502000	0:51:48.982000
 ich	-	-	-	0:51:47.502000	0:51:48.982000
@@ -14334,7 +14334,7 @@ jetzt	-	-	-	0:51:47.502000	0:51:48.982000
 nichts	-	-	-	0:51:47.502000	0:51:48.982000
 .	-	-	-	0:51:47.502000	0:51:48.982000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:48.982000" end="0:51:51.576000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:48.982000" end="0:51:51.576000" age_lower="1" age_upper="999">
 okay	-	-	-	0:51:48.982000	0:51:49.965000
 .	-	-	-	0:51:48.982000	0:51:49.965000
 <pause duration="0,5s"/>
@@ -14343,7 +14343,7 @@ okay	-	-	-	0:51:48.982000	0:51:49.965000
 so/	-	-	-	0:51:49.965000	0:51:51.576000
 /.)	-	-	-	0:51:49.965000	0:51:51.576000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:49.965000" end="0:51:57.776000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:49.965000" end="0:51:57.776000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ich	-	-	-	0:51:49.965000	0:51:51.576000
 habe	-	-	-	0:51:49.965000	0:51:51.576000
@@ -14375,7 +14375,7 @@ Muttersprache	-	-	-	0:51:54.505000	0:51:57.776000
 haben	-	-	-	0:51:54.505000	0:51:57.776000
 .	-	-	-	0:51:54.505000	0:51:57.776000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:57.776000" end="0:52:04.347000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:57.776000" end="0:52:04.347000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:51:57.776000	0:51:59.928000
 ,	-	-	-	0:51:57.776000	0:51:59.928000
 es	-	-	-	0:51:57.776000	0:51:59.928000
@@ -14408,11 +14408,11 @@ interviewen	-	-	-	0:52:03.144000	0:52:04.347000
 werde	-	-	-	0:52:03.144000	0:52:04.347000
 ,	-	-	-	0:52:03.144000	0:52:04.347000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:03.144000" end="0:52:04.347000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:03.144000" end="0:52:04.347000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:52:03.144000	0:52:04.347000
 .	-	-	-	0:52:03.144000	0:52:04.347000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:04.347000" end="0:52:14.291000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:04.347000" end="0:52:14.291000" age_lower="1" age_upper="999">
 das	-	-	-	0:52:04.347000	0:52:05.256000
 kann	-	-	-	0:52:04.347000	0:52:05.256000
 schon	-	-	-	0:52:04.347000	0:52:05.256000
@@ -14453,13 +14453,13 @@ ist	-	-	-	0:52:11.327000	0:52:14.291000
 haben	-	-	-	0:52:11.327000	0:52:14.291000
 ,	-	-	-	0:52:11.327000	0:52:14.291000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:11.327000" end="0:52:14.291000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:11.327000" end="0:52:14.291000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:52:11.327000	0:52:14.291000
 ,	-	-	-	0:52:11.327000	0:52:14.291000
 ja	-	-	-	0:52:11.327000	0:52:14.291000
 .	-	-	-	0:52:11.327000	0:52:14.291000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:14.291000" end="0:52:16.597000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:14.291000" end="0:52:16.597000" age_lower="1" age_upper="999">
 und	-	-	-	0:52:14.291000	0:52:15.727000
 das	-	-	-	0:52:14.291000	0:52:15.727000
 ist	-	-	-	0:52:14.291000	0:52:15.727000
@@ -14472,11 +14472,11 @@ finde	-	-	-	0:52:15.727000	0:52:16.597000
 das	-	-	-	0:52:15.727000	0:52:16.597000
 ,	-	-	-	0:52:15.727000	0:52:16.597000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:15.727000" end="0:52:16.597000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:15.727000" end="0:52:16.597000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:52:15.727000	0:52:16.597000
 .	-	-	-	0:52:15.727000	0:52:16.597000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:16.597000" end="0:52:18.651000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:16.597000" end="0:52:18.651000" age_lower="1" age_upper="999">
 ich	-	-	-	0:52:16.597000	0:52:17.716000
 bin	-	-	-	0:52:16.597000	0:52:17.716000
 begeistert	-	-	-	0:52:16.597000	0:52:17.716000
@@ -14484,9 +14484,9 @@ begeistert	-	-	-	0:52:16.597000	0:52:17.716000
 ja	-	-	-	0:52:16.597000	0:52:17.716000
 .	-	-	-	0:52:16.597000	0:52:17.716000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:17.716000" end="0:52:18.651000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:17.716000" end="0:52:18.651000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:18.651000" end="0:52:27.437000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:18.651000" end="0:52:27.437000" age_lower="1" age_upper="999">
 das	-	-	-	0:52:18.651000	0:52:20.096000
 ist	-	-	-	0:52:18.651000	0:52:20.096000
 ,	-	-	-	0:52:18.651000	0:52:20.096000
@@ -14525,7 +14525,7 @@ muss	-	-	-	0:52:25.287000	0:52:27.437000
 man	-	-	-	0:52:25.287000	0:52:27.437000
 /.	-	-	-	0:52:25.287000	0:52:27.437000
 </u>
-<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:25.287000" end="0:52:27.437000" age_lower="18" age_upper="35">
+<u who="spk_93" sex="female" age="jung (18-35) +matura" name="Informant 0508" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:25.287000" end="0:52:27.437000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:52:25.287000	0:52:27.437000
 heißt	-	-	-	0:52:25.287000	0:52:27.437000
 ,	-	-	-	0:52:25.287000	0:52:27.437000
@@ -14538,7 +14538,7 @@ zum	-	-	-	0:52:25.287000	0:52:27.437000
 Lesen	-	-	-	0:52:25.287000	0:52:27.437000
 ?	-	-	-	0:52:25.287000	0:52:27.437000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:27.437000" end="0:52:29.437000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:27.437000" end="0:52:29.437000" age_lower="1" age_upper="999">
 ja	-	-	-	0:52:27.437000	0:52:29.437000
 ,	-	-	-	0:52:27.437000	0:52:29.437000
 es/	-	-	-	0:52:27.437000	0:52:29.437000

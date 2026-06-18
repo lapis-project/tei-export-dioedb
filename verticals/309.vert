@@ -1,12 +1,12 @@
 <doc id="transcript_309" name="0029_NECK_jungI_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="309.xml" title="Transcript: Transcript_309">
-<u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:00" end="0:00:58.574000" age_lower="18" age_upper="35">
+<u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" subproject="PP03" standard_competence="5" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:00" end="0:00:58.574000" project="PP03" age_lower="18" age_upper="35">
 (XXX)	-	-	-	0:00:00	0:00:58.574000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:58.574000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:58.574000" age_lower="1" age_upper="999">
 (XXX´)	-	-	-	0:00:00	0:00:58.574000
 </u>
-<u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:58.574000" end="0:01:56.851000" age_lower="18" age_upper="35">
+<u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" subproject="PP03" standard_competence="5" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:58.574000" end="0:01:56.851000" project="PP03" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:58.574000	0:01:00.574000
 und	-	-	-	0:00:58.574000	0:01:00.574000
 Sonne	-	-	-	0:00:58.574000	0:01:00.574000
@@ -145,10 +145,10 @@ wäre	-	-	-	0:01:53.012000	0:01:56.851000
 war	-	-	-	0:01:53.012000	0:01:56.851000
 .	-	-	-	0:01:53.012000	0:01:56.851000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:56.851000" end="0:01:58.851000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:56.851000" end="0:01:58.851000" age_lower="1" age_upper="999">
 (xxx)	-	-	-	0:01:56.851000	0:01:58.851000
 </u>
-<u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:56.851000" end="0:01:58.851000" age_lower="18" age_upper="35">
+<u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" subproject="PP03" standard_competence="5" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:56.851000" end="0:01:58.851000" project="PP03" age_lower="18" age_upper="35">
 (xxx)	-	-	-	0:01:56.851000	0:01:58.851000
 </u>
 </file>

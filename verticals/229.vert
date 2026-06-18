@@ -1,6 +1,6 @@
 <doc id="transcript_229" name="0235_TARR_alt_f_LESN_Vers5" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="229.xml" title="Transcript: Transcript_229">
-<u who="spk_159" sex="female" age="Alt (65+)" name="Informant 0235" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:00" end="0:02:05.195000" age_lower="65" age_upper="999">
+<u who="spk_159" sex="female" age="Alt (65+)" name="Informant 0235" subproject="PP03" standard_competence="3" dialect_competence="7" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:00" end="0:02:05.195000" project="PP03" age_lower="65" age_upper="999">
 XXX	XXX	PROPN	-	0:00:00	0:01:05.890000
 Nordwind	Nordwind	NOUN	-	0:01:05.890000	0:01:07.890000
 und	und	CCONJ	-	0:01:05.890000	0:01:07.890000

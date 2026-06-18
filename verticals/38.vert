@@ -1,30 +1,30 @@
 <doc id="transcript_38" name="0205_0207_NMYB_GFG" erhebung="Freundesgespräch_PP0308" erhebungsart="Gespräch ohne Explorator/in">
 <file id="38.xml" title="Transcript: Transcript_38">
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:01.674000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:01.674000" age_lower="1" age_upper="999">
 Aufnahme	Aufnahme	NOUN	-	0:00:00	0:00:01.674000
 läuft	laufen	VERB	-	0:00:00	0:00:01.674000
 .	-	-	-	0:00:00	0:00:01.674000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:01.674000" end="0:00:02.624000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:01.674000" end="0:00:02.624000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:00:01.674000	0:00:02.624000
 .	-	-	-	0:00:01.674000	0:00:02.624000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:02.624000" end="0:00:06.174000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:02.624000" end="0:00:06.174000" project="PP03" age_lower="18" age_upper="35">
 wer	wer	PRON	-	0:00:02.624000	0:00:06.174000
 fängt	fangen	VERB	-	0:00:02.624000	0:00:06.174000
 an	an	ADP	-	0:00:02.624000	0:00:06.174000
 ?	-	-	-	0:00:02.624000	0:00:06.174000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:06.174000" end="0:00:07.134000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:06.174000" end="0:00:07.134000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:00:06.174000	0:00:07.134000
 kann	können	VERB	-	0:00:06.174000	0:00:07.134000
 anfangen	anfangen	VERB	-	0:00:06.174000	0:00:07.134000
 ,	-	-	-	0:00:06.174000	0:00:07.134000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:07.134000" end="0:00:08.058000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:07.134000" end="0:00:08.058000" project="PP03" age_lower="18" age_upper="35">
 (halt/.)	-	-	-	0:00:07.134000	0:00:08.058000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:07.134000" end="0:00:08.058000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:07.134000" end="0:00:08.058000" project="PP03" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:00:07.134000	0:00:08.058000
 du/	-	-	-	0:00:07.134000	0:00:08.058000
 .	-	-	-	0:00:07.134000	0:00:08.058000
@@ -33,11 +33,11 @@ mir	-	-	-	0:00:07.134000	0:00:08.058000
 _wurscht_	-	-	-	0:00:07.134000	0:00:08.058000
 .	-	-	-	0:00:07.134000	0:00:08.058000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:08.058000" end="0:00:08.799000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:08.058000" end="0:00:08.799000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:08.058000	0:00:08.799000
 .	-	-	-	0:00:08.058000	0:00:08.799000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:08.799000" end="0:00:18.584000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:08.799000" end="0:00:18.584000" project="PP03" age_lower="18" age_upper="35">
 rede	rede	NOUN	-	0:00:08.799000	0:00:12.299000
 über	über	ADP	-	0:00:08.799000	0:00:12.299000
 Freizeit	Freizeit	NOUN	-	0:00:08.799000	0:00:12.299000
@@ -61,18 +61,18 @@ Freizeit	Freizeit	NOUN	-	0:00:17.164000	0:00:18.584000
 mache	machen	VERB	-	0:00:17.164000	0:00:18.584000
 und	und	CCONJ	-	0:00:17.164000	0:00:18.584000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:18.584000" end="0:00:19.554000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:18.584000" end="0:00:19.554000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:18.584000	0:00:19.554000
 ,	-	-	-	0:00:18.584000	0:00:19.554000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:18.584000" end="0:00:19.554000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:18.584000" end="0:00:19.554000" project="PP03" age_lower="18" age_upper="35">
 was	was	PRON	-	0:00:18.584000	0:00:19.554000
 meine	meinen	DET	-	0:00:18.584000	0:00:19.554000
 Hobbies	Hobbies	NOUN	-	0:00:18.584000	0:00:19.554000
 sind	sein	AUX	-	0:00:18.584000	0:00:19.554000
 ?	-	-	-	0:00:18.584000	0:00:19.554000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:19.554000" end="0:00:21.559000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:19.554000" end="0:00:21.559000" project="PP03" age_lower="18" age_upper="35">
 einfach	einfach	ADV	-	0:00:19.554000	0:00:21.164000
 darüber	darüber	ADV	-	0:00:19.554000	0:00:21.164000
 reden	reden	VERB	-	0:00:19.554000	0:00:21.164000
@@ -81,11 +81,11 @@ reden	reden	VERB	-	0:00:19.554000	0:00:21.164000
 was	was	PRON	-	0:00:21.164000	0:00:21.559000
 man	man	PRON	-	0:00:21.164000	0:00:21.559000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:21.164000" end="0:00:21.559000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:21.164000" end="0:00:21.559000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:21.164000	0:00:21.559000
 ,	-	-	-	0:00:21.164000	0:00:21.559000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:21.559000" end="0:00:24.544000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:21.559000" end="0:00:24.544000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:00:21.559000	0:00:23.559000
 macht	machen	VERB	-	0:00:21.559000	0:00:23.559000
 ,	-	-	-	0:00:21.559000	0:00:23.559000
@@ -100,7 +100,7 @@ jetzt	jetzt	ADV	-	0:00:23.559000	0:00:24.544000
 einmal	einmal	ADV	-	0:00:23.559000	0:00:24.544000
 .	-	-	-	0:00:23.559000	0:00:24.544000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:24.544000" end="0:00:30.774000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:24.544000" end="0:00:30.774000" project="PP03" age_lower="18" age_upper="35">
 hm	hm	X	-	0:00:24.544000	0:00:28.144000
 <pause duration="0,5s"/>
 meine	meinen	DET	-	0:00:24.544000	0:00:28.144000
@@ -126,12 +126,12 @@ spielen	spielen	VERB	-	0:00:29.174000	0:00:30.774000
 angefangen	anfangen	VERB	-	0:00:29.174000	0:00:30.774000
 ,	-	-	-	0:00:29.174000	0:00:30.774000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:30.774000" end="0:00:31.799000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:30.774000" end="0:00:31.799000" project="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:00:30.774000	0:00:31.799000
 so	so	ADV	-	0:00:30.774000	0:00:31.799000
 !	-	-	-	0:00:30.774000	0:00:31.799000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:31.799000" end="0:00:54.924000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:31.799000" end="0:00:54.924000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:00:31.799000	0:00:35.549000
 <pause duration="0,5s"/>
 ähm	ähm	PROPN	-	0:00:31.799000	0:00:35.549000
@@ -203,20 +203,20 @@ dann	dann	ADV	-	0:00:53.774000	0:00:54.924000
 unterhalten	unterhalten	VERB	-	0:00:53.774000	0:00:54.924000
 eigentlich	eigentlich	ADV	-	0:00:53.774000	0:00:54.924000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:54.924000" end="0:00:56.039000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:54.924000" end="0:00:56.039000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:54.924000	0:00:56.039000
 wir	ich	PRON	-	0:00:54.924000	0:00:56.039000
 sollen	sollen	VERB	-	0:00:54.924000	0:00:56.039000
 sich	sich	PRON	0gen 0Num 1 3 AnaForm AnaFunk Anapher Antezedens AntForm formRefl FunkRez Ge Kas No Num Pers pl Präp Präp- Pronom PronP unm	0:00:54.924000	0:00:56.039000
 einfach	einfach	ADJ	-	0:00:54.924000	0:00:56.039000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:54.924000" end="0:00:56.039000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:54.924000" end="0:00:56.039000" project="PP03" age_lower="18" age_upper="35">
 darüber	darüber	ADV	-	0:00:54.924000	0:00:56.039000
 ,	-	-	-	0:00:54.924000	0:00:56.039000
 ja	ja	PART	-	0:00:54.924000	0:00:56.039000
 .	-	-	-	0:00:54.924000	0:00:56.039000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:56.039000" end="0:00:57.314000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:56.039000" end="0:00:57.314000" project="PP03" age_lower="18" age_upper="35">
 (nochmal)	nochmal	-	-	0:00:56.039000	0:00:57.314000
 unterhalten	unterhalten	VERB	-	0:00:56.039000	0:00:57.314000
 da	da	ADV	-	0:00:56.039000	0:00:57.314000
@@ -224,7 +224,7 @@ schätze	schätze	VERB	-	0:00:56.039000	0:00:57.314000
 ich	ich	PRON	-	0:00:56.039000	0:00:57.314000
 .	-	-	-	0:00:56.039000	0:00:57.314000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:57.314000" end="0:00:58.614000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:57.314000" end="0:00:58.614000" project="PP03" age_lower="18" age_upper="35">
 was	was	PRON	-	0:00:57.314000	0:00:58.614000
 machst	machen	VERB	-	0:00:57.314000	0:00:58.614000
 du	du	PRON	-	0:00:57.314000	0:00:58.614000
@@ -232,29 +232,29 @@ immer	immer	ADV	-	0:00:57.314000	0:00:58.614000
 so	so	ADV	-	0:00:57.314000	0:00:58.614000
 ?	-	-	-	0:00:57.314000	0:00:58.614000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:58.614000" end="0:01:01.009000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:58.614000" end="0:01:01.009000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:00:58.614000	0:01:01.009000
 eh	eh	ADV	-	0:00:58.614000	0:01:01.009000
 noch	noch	ADV	-	0:00:58.614000	0:01:01.009000
 Jungschar	Jungschar	NOUN	-	0:00:58.614000	0:01:01.009000
 .	-	-	-	0:00:58.614000	0:01:01.009000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:01.009000" end="0:01:01.694000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:01.009000" end="0:01:01.694000" project="PP03" age_lower="18" age_upper="35">
 *bist*	-	-	-	0:01:01.009000	0:01:01.694000
 noch	-	-	-	0:01:01.009000	0:01:01.694000
 dabei	-	-	-	0:01:01.009000	0:01:01.694000
 ?	-	-	-	0:01:01.009000	0:01:01.694000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:01.694000" end="0:01:02.214000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:01.694000" end="0:01:02.214000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:01.694000	0:01:02.214000
 .	-	-	-	0:01:01.694000	0:01:02.214000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:02.214000" end="0:01:02.704000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:02.214000" end="0:01:02.704000" project="PP03" age_lower="18" age_upper="35">
 sehr	sehr	ADV	-	0:01:02.214000	0:01:02.704000
 brav	brav	ADJ	-	0:01:02.214000	0:01:02.704000
 !	-	-	-	0:01:02.214000	0:01:02.704000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:02.704000" end="0:01:08.444000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:02.704000" end="0:01:08.444000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:01:02.704000	0:01:04.703000
 ich	ich	PRON	-	0:01:02.704000	0:01:04.703000
 schätze	schätze	VERB	-	0:01:02.704000	0:01:04.703000
@@ -275,11 +275,11 @@ glaube)	glauben	VERB	-	0:01:04.703000	0:01:08.444000
 fünfzehn	fünfzehn	NUM	-	0:01:04.703000	0:01:08.444000
 ,	-	-	-	0:01:04.703000	0:01:08.444000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:08.444000" end="0:01:09.024000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:08.444000" end="0:01:09.024000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:01:08.444000	0:01:09.024000
 .	-	-	-	0:01:08.444000	0:01:09.024000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:09.024000" end="0:01:12.914000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:09.024000" end="0:01:12.914000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:01:09.024000	0:01:11.094000
 dann	dann	ADV	-	0:01:09.024000	0:01:11.094000
 wird	werden	AUX	-	0:01:09.024000	0:01:11.094000
@@ -298,33 +298,33 @@ das	der	DET	-	0:01:11.094000	0:01:12.914000
 Jungscharlager	Jungscharlager	NOUN	?? App -belebt irrelevant Komp Pkon PM Poss PR Prel Zug	0:01:11.094000	0:01:12.914000
 ,	-	-	-	0:01:11.094000	0:01:12.914000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:12.914000" end="0:01:13.604000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:12.914000" end="0:01:13.604000" project="PP03" age_lower="18" age_upper="35">
 du	du	PRON	-	0:01:12.914000	0:01:13.604000
 fährst	fahren	VERB	-	0:01:12.914000	0:01:13.604000
 die	der	DET	-	0:01:12.914000	0:01:13.604000
 ganze	ganze	ADJ	-	0:01:12.914000	0:01:13.604000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:13.604000" end="0:01:14.484000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:13.604000" end="0:01:14.484000" project="PP03" age_lower="18" age_upper="35">
 ab	ab	ADP	-	0:01:13.604000	0:01:14.484000
 Dienstag	Dienstag	NOUN	-	0:01:13.604000	0:01:14.484000
 ,	-	-	-	0:01:13.604000	0:01:14.484000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:13.604000" end="0:01:14.484000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:13.604000" end="0:01:14.484000" project="PP03" age_lower="18" age_upper="35">
 Woche	Woche	NOUN	-	0:01:13.604000	0:01:14.484000
 mit	mit	ADP	-	0:01:13.604000	0:01:14.484000
 ?	-	-	-	0:01:13.604000	0:01:14.484000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:14.484000" end="0:01:15.439000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:14.484000" end="0:01:15.439000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:01:14.484000	0:01:15.439000
 am	am	ADP	-	0:01:14.484000	0:01:15.439000
 Mit/	-	-	-	0:01:14.484000	0:01:15.439000
 Montag	Montag	NOUN	-	0:01:14.484000	0:01:15.439000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:14.484000" end="0:01:15.439000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:14.484000" end="0:01:15.439000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:01:14.484000	0:01:15.439000
 .	-	-	-	0:01:14.484000	0:01:15.439000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:15.439000" end="0:01:16.874000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:15.439000" end="0:01:16.874000" project="PP03" age_lower="18" age_upper="35">
 fahren	fahren	VERB	-	0:01:15.439000	0:01:16.874000
 wir	ich	PRON	-	0:01:15.439000	0:01:16.874000
 von	von	ADP	-	0:01:15.439000	0:01:16.874000
@@ -332,7 +332,7 @@ Woodstock	Woodstock	NOUN	-	0:01:15.439000	0:01:16.874000
 heim	heim	ADP	-	0:01:15.439000	0:01:16.874000
 ,	-	-	-	0:01:15.439000	0:01:16.874000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:16.874000" end="0:01:18.694000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:16.874000" end="0:01:18.694000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:01:16.874000	0:01:18.694000
 da	da	ADV	-	0:01:16.874000	0:01:18.694000
 sehen	sehen	VERB	-	0:01:16.874000	0:01:18.694000
@@ -340,14 +340,14 @@ wir	ich	PRON	-	0:01:16.874000	0:01:18.694000
 sich	sich	PRON	0gen 0Num 1 3 AnaForm AnaFunk Anapher Antezedens AntForm formRefl FunkRez Ge Kas No Num Pers pl Präp Präp- Pronom PronP unm	0:01:16.874000	0:01:18.694000
 !	-	-	-	0:01:16.874000	0:01:18.694000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:18.694000" end="0:01:19.524000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:18.694000" end="0:01:19.524000" project="PP03" age_lower="18" age_upper="35">
 *bist*	-	-	-	0:01:18.694000	0:01:19.524000
 auch	-	-	-	0:01:18.694000	0:01:19.524000
 da	-	-	-	0:01:18.694000	0:01:19.524000
 dort	-	-	-	0:01:18.694000	0:01:19.524000
 ?	-	-	-	0:01:18.694000	0:01:19.524000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:19.524000" end="0:01:22.179000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:19.524000" end="0:01:22.179000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:19.524000	0:01:22.179000
 mit	mit	ADP	-	0:01:19.524000	0:01:22.179000
 der	der	DET	-	0:01:19.524000	0:01:22.179000
@@ -362,12 +362,12 @@ poltern	poltern	VERB	-	0:01:19.524000	0:01:22.179000
 .	-	-	-	0:01:19.524000	0:01:22.179000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:22.179000" end="0:01:23.844000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:22.179000" end="0:01:23.844000" project="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:01:22.179000	0:01:22.649000
 so	so	ADV	-	0:01:22.649000	0:01:23.844000
 !	-	-	-	0:01:22.649000	0:01:23.844000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:22.649000" end="0:01:26.424000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:22.649000" end="0:01:26.424000" project="PP03" age_lower="18" age_upper="35">
 poltern	poltern	NOUN	-	0:01:22.649000	0:01:23.844000
 unter	unter	ADP	-	0:01:22.649000	0:01:23.844000
 Anführungszeichen	Anführungszeichen	NOUN	-	0:01:22.649000	0:01:23.844000
@@ -389,20 +389,20 @@ und	und	CCONJ	-	0:01:24.939000	0:01:26.424000
 so	so	ADV	-	0:01:24.939000	0:01:26.424000
 .	-	-	-	0:01:24.939000	0:01:26.424000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:26.424000" end="0:01:26.879000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:26.424000" end="0:01:26.879000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:01:26.424000	0:01:26.879000
 !	-	-	-	0:01:26.424000	0:01:26.879000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:26.879000" end="0:01:27.369000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:26.879000" end="0:01:27.369000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:01:26.879000	0:01:27.369000
 .	-	-	-	0:01:26.879000	0:01:27.369000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:27.369000" end="0:01:28.054000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:27.369000" end="0:01:28.054000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:01:27.369000	0:01:28.054000
 cool	cool	PROPN	-	0:01:27.369000	0:01:28.054000
 !	-	-	-	0:01:27.369000	0:01:28.054000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:27.369000" end="0:01:30.054000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:27.369000" end="0:01:30.054000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:27.369000	0:01:28.054000
 weil	weil	SCONJ	-	0:01:27.369000	0:01:28.054000
 spielt	spielen	VERB	-	0:01:28.054000	0:01:30.054000
@@ -415,7 +415,7 @@ die	der	PRON	-	0:01:28.054000	0:01:30.054000
 Fans	Fan	NOUN	-	0:01:28.054000	0:01:30.054000
 .	-	-	-	0:01:28.054000	0:01:30.054000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:30.054000" end="0:01:33.908000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:30.054000" end="0:01:33.908000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:01:30.054000	0:01:31.314000
 sehr	sehr	ADV	-	0:01:30.054000	0:01:31.314000
 schön	schön	ADJ	-	0:01:30.054000	0:01:31.314000
@@ -428,13 +428,13 @@ Donnerstag	Donnerstag	NOUN	-	0:01:31.314000	0:01:32.619000
 dort	dort	ADV	-	0:01:31.314000	0:01:32.619000
 .	-	-	-	0:01:31.314000	0:01:32.619000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:32.619000" end="0:01:33.908000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:32.619000" end="0:01:33.908000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:01:32.619000	0:01:33.908000
 cool	cool	PROPN	-	0:01:32.619000	0:01:33.908000
 cool	cool	PROPN	-	0:01:32.619000	0:01:33.908000
 .	-	-	-	0:01:32.619000	0:01:33.908000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:33.908000" end="0:01:34.954000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:33.908000" end="0:01:34.954000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:33.908000	0:01:34.954000
 können	können	VERB	-	0:01:33.908000	0:01:34.954000
 wir	ich	PRON	-	0:01:33.908000	0:01:34.954000
@@ -443,11 +443,11 @@ zusammen	zusammen	ADV	-	0:01:33.908000	0:01:34.954000
 schreiben	schreiben	VERB	-	0:01:33.908000	0:01:34.954000
 .	-	-	-	0:01:33.908000	0:01:34.954000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:34.954000" end="0:01:35.509000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:34.954000" end="0:01:35.509000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:01:34.954000	0:01:35.509000
 .	-	-	-	0:01:34.954000	0:01:35.509000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:35.509000" end="0:01:48.939000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:35.509000" end="0:01:48.939000" project="PP03" age_lower="18" age_upper="35">
 sehr	sehr	ADV	-	0:01:35.509000	0:01:37.329000
 cool	cool	PROPN	-	0:01:35.509000	0:01:37.329000
 !	-	-	-	0:01:35.509000	0:01:37.329000
@@ -488,20 +488,20 @@ zu	-	-	-	0:01:47.889000	0:01:48.939000
 heiß	-	-	-	0:01:47.889000	0:01:48.939000
 .	-	-	-	0:01:47.889000	0:01:48.939000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:47.889000" end="0:01:48.939000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:47.889000" end="0:01:48.939000" project="PP03" age_lower="18" age_upper="35">
 schwierig	schwierig	ADJ	-	0:01:47.889000	0:01:48.939000
 ja	ja	PART	-	0:01:47.889000	0:01:48.939000
 .	-	-	-	0:01:47.889000	0:01:48.939000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:48.939000" end="0:01:49.589000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:48.939000" end="0:01:49.589000" project="PP03" age_lower="18" age_upper="35">
 erst	erst	ADV	-	0:01:48.939000	0:01:49.589000
 ab	ab	ADP	-	0:01:48.939000	0:01:49.589000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:48.939000" end="0:01:49.589000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:48.939000" end="0:01:49.589000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:01:48.939000	0:01:49.589000
 .	-	-	-	0:01:48.939000	0:01:49.589000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:49.589000" end="0:01:52.253000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:49.589000" end="0:01:52.253000" project="PP03" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:01:49.589000	0:01:49.929000
 ich	ich	PRON	-	0:01:49.589000	0:01:49.929000
 nicht	nicht	PART	-	0:01:49.589000	0:01:49.929000
@@ -517,11 +517,11 @@ oder	oder	CCONJ	-	0:01:49.929000	0:01:52.253000
 so/	-	-	-	0:01:49.929000	0:01:52.253000
 .	-	-	-	0:01:49.929000	0:01:52.253000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:52.253000" end="0:01:52.658000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:52.253000" end="0:01:52.658000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:01:52.253000	0:01:52.658000
 .	-	-	-	0:01:52.253000	0:01:52.658000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:52.658000" end="0:01:55.964000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:52.658000" end="0:01:55.964000" project="PP03" age_lower="18" age_upper="35">
 können	können	VERB	-	0:01:52.658000	0:01:53.839000
 wir	ich	PRON	-	0:01:52.658000	0:01:53.839000
 eh	eh	ADV	-	0:01:52.658000	0:01:53.839000
@@ -537,13 +537,13 @@ viel	viel	PRON	-	0:01:53.839000	0:01:54.874000
 .	-	-	-	0:01:53.839000	0:01:54.874000
 aber	aber	CCONJ	-	0:01:54.874000	0:01:55.964000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:54.874000" end="0:01:55.964000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:54.874000" end="0:01:55.964000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:01:54.874000	0:01:55.964000
 gerne	gerne	ADV	-	0:01:54.874000	0:01:55.964000
 ja	ja	ADV	-	0:01:54.874000	0:01:55.964000
 .	-	-	-	0:01:54.874000	0:01:55.964000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:55.964000" end="0:01:59.878000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:55.964000" end="0:01:59.878000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:01:55.964000	0:01:57.219000
 renne	rennen	VERB	-	0:01:55.964000	0:01:57.219000
 langsam	langsam	ADJ	-	0:01:55.964000	0:01:57.219000
@@ -557,15 +557,15 @@ auch	auch	ADV	-	0:01:58.199000	0:01:59.878000
 mitgerannt	mitgerannt	VERB	-	0:01:58.199000	0:01:59.878000
 .	-	-	-	0:01:58.199000	0:01:59.878000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:59.878000" end="0:02:00.414000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:59.878000" end="0:02:00.414000" project="PP03" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:01:59.878000	0:02:00.414000
 ?	-	-	-	0:01:59.878000	0:02:00.414000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:00.414000" end="0:02:00.979000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:00.414000" end="0:02:00.979000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:02:00.414000	0:02:00.979000
 .	-	-	-	0:02:00.414000	0:02:00.979000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:00.414000" end="0:02:03.739000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:00.414000" end="0:02:03.739000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:02:00.414000	0:02:00.979000
 !	-	-	-	0:02:00.414000	0:02:00.979000
 <pause duration="1,5s"/>
@@ -575,14 +575,14 @@ Kilometer	Kilometer	NOUN	-	0:02:02.474000	0:02:03.739000
 oder	oder	CCONJ	-	0:02:02.474000	0:02:03.739000
 fünf	fünf	NUM	-	0:02:02.474000	0:02:03.739000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:03.739000" end="0:02:04.329000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:03.739000" end="0:02:04.329000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:02:03.739000	0:02:04.329000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:03.739000" end="0:02:04.329000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:03.739000" end="0:02:04.329000" project="PP03" age_lower="18" age_upper="35">
 oder/	-	-	-	0:02:03.739000	0:02:04.329000
 .	-	-	-	0:02:03.739000	0:02:04.329000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:04.329000" end="0:02:05.459000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:04.329000" end="0:02:05.459000" project="PP03" age_lower="18" age_upper="35">
 fünf	fünf	NUM	-	0:02:04.329000	0:02:05.029000
 Kilometer	Kilometer	NOUN	0 Interf Interf- NPL sd+ SDent Suff U- Uml	0:02:04.329000	0:02:05.029000
 .	-	-	-	0:02:04.329000	0:02:05.029000
@@ -590,22 +590,22 @@ ich	ich	PRON	-	0:02:05.029000	0:02:05.459000
 bin	sein	AUX	-	0:02:05.029000	0:02:05.459000
 mit	mit	ADP	-	0:02:05.029000	0:02:05.459000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:05.029000" end="0:02:05.459000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:05.029000" end="0:02:05.459000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:02:05.029000	0:02:05.459000
 .	-	-	-	0:02:05.029000	0:02:05.459000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:05.459000" end="0:02:06.824000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:05.459000" end="0:02:06.824000" project="PP03" age_lower="18" age_upper="35">
 der	der	PRON	-	0:02:05.459000	0:02:06.824000
 NAME	NAME	PROPN	-	0:02:05.459000	0:02:06.824000
 gerannt	rennen	VERB	-	0:02:05.459000	0:02:06.824000
 ,	-	-	-	0:02:05.459000	0:02:06.824000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:06.824000" end="0:02:07.829000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:06.824000" end="0:02:07.829000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:02:06.824000	0:02:07.829000
 .	-	-	-	0:02:06.824000	0:02:07.829000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:07.829000" end="0:02:20.629000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:07.829000" end="0:02:20.629000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:02:07.829000	0:02:12.544000
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:02:07.829000	0:02:12.544000
@@ -645,23 +645,23 @@ vorm	vorm	ADP	-	0:02:15.194000	0:02:20.629000
 Frauenlauf	Frauenlauf	NOUN	?? App -belebt irrelevant Komp +menschl Pkon PM Poss PR Prel Quel	0:02:15.194000	0:02:20.629000
 .	-	-	-	0:02:15.194000	0:02:20.629000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:20.629000" end="0:02:22.164000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:20.629000" end="0:02:22.164000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:02:20.629000	0:02:21.603000
 .	-	-	-	0:02:20.629000	0:02:21.603000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:21.603000" end="0:02:22.164000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:21.603000" end="0:02:22.164000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:22.164000" end="0:02:22.834000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:22.164000" end="0:02:22.834000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:02:22.164000	0:02:22.834000
 die	der	DET	-	0:02:22.164000	0:02:22.834000
 NAME	NAME	NOUN	-	0:02:22.164000	0:02:22.834000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:22.164000" end="0:02:22.834000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:22.164000" end="0:02:22.834000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:02:22.164000	0:02:22.834000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:22.834000" end="0:02:23.659000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:22.834000" end="0:02:23.659000" project="PP03" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:02:22.834000	0:02:23.659000
 nicht	nicht	PART	-	0:02:22.834000	0:02:23.659000
 so	so	ADV	-	0:02:22.834000	0:02:23.659000
@@ -670,7 +670,7 @@ sportlich	sportlich	ADJ	-	0:02:22.834000	0:02:23.659000
 gell	gell	ADJ	-	0:02:22.834000	0:02:23.659000
 ?	-	-	-	0:02:22.834000	0:02:23.659000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:23.659000" end="0:02:37.684000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:23.659000" end="0:02:37.684000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:23.659000	0:02:26.654000
 und	-	-	-	0:02:23.659000	0:02:26.654000
 da	-	-	-	0:02:23.659000	0:02:26.654000
@@ -723,11 +723,11 @@ nicht	nicht	PART	-	0:02:33.293000	0:02:37.684000
 reden	reden	VERB	-	0:02:33.293000	0:02:37.684000
 .	-	-	-	0:02:33.293000	0:02:37.684000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:37.684000" end="0:02:39.353000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:37.684000" end="0:02:39.353000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:02:37.684000	0:02:39.353000
 .	-	-	-	0:02:37.684000	0:02:39.353000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:37.684000" end="0:02:45.929000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:37.684000" end="0:02:45.929000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:02:37.684000	0:02:39.353000
 geht	gehen	VERB	-	0:02:37.684000	0:02:39.353000
 gar	gar	ADV	-	0:02:37.684000	0:02:39.353000
@@ -764,12 +764,12 @@ mit	mit	ADP	-	0:02:43.494000	0:02:45.929000
 mir	sich	PRON	-	0:02:43.494000	0:02:45.929000
 ,	-	-	-	0:02:43.494000	0:02:45.929000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:45.929000" end="0:02:46.864000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:45.929000" end="0:02:46.864000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:02:45.929000	0:02:46.864000
 .	-	-	-	0:02:45.929000	0:02:46.864000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:46.864000" end="0:02:52.659000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:46.864000" end="0:02:52.659000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:02:46.864000	0:02:52.659000
 <pause duration="0,7s"/>
 hat	haben	AUX	-	0:02:46.864000	0:02:52.659000
@@ -784,11 +784,11 @@ dem	der	DET	-	0:02:46.864000	0:02:52.659000
 Nicht-reden	Nicht-reden	NOUN	-	0:02:46.864000	0:02:52.659000
 .	-	-	-	0:02:46.864000	0:02:52.659000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:52.659000" end="0:02:53.724000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:52.659000" end="0:02:53.724000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:02:52.659000	0:02:53.724000
 .	-	-	-	0:02:52.659000	0:02:53.724000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:52.659000" end="0:02:55.284000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:52.659000" end="0:02:55.284000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:02:52.659000	0:02:53.724000
 sie	ich	PRON	-	0:02:52.659000	0:02:53.724000
 ist	sein	AUX	-	0:02:52.659000	0:02:53.724000
@@ -801,11 +801,11 @@ immer	immer	ADV	-	0:02:54.309000	0:02:55.284000
 durchgerannt	durchrennen	VERB	-	0:02:54.309000	0:02:55.284000
 ,	-	-	-	0:02:54.309000	0:02:55.284000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:55.284000" end="0:02:55.804000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:55.284000" end="0:02:55.804000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:02:55.284000	0:02:55.804000
 ?	-	-	-	0:02:55.284000	0:02:55.804000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:55.804000" end="0:02:59.364000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:55.804000" end="0:02:59.364000" project="PP03" age_lower="18" age_upper="35">
 w/	-	-	-	0:02:55.804000	0:02:57.164000
 weil	weil	SCONJ	-	0:02:55.804000	0:02:57.164000
 wir	ich	PRON	-	0:02:55.804000	0:02:57.164000
@@ -822,12 +822,12 @@ brauchen	-	-	-	0:02:57.609000	0:02:59.364000
 vierzig	-	-	-	0:02:57.609000	0:02:59.364000
 Minuten	-	-	-(e)n Interf Interf- NPL sd+ SDent Suff U- Uml	0:02:57.609000	0:02:59.364000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:59.364000" end="0:03:00.644000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:59.364000" end="0:03:00.644000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:02:59.364000	0:03:00.644000
 .	-	-	-	0:02:59.364000	0:03:00.644000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:00.644000" end="0:03:07.794000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:00.644000" end="0:03:07.794000" project="PP03" age_lower="18" age_upper="35">
 *kannst*	-	-	-	0:03:00.644000	0:03:02.934000
 dich	-	-	-	0:03:00.644000	0:03:02.934000
 selber	-	-	-	0:03:00.644000	0:03:02.934000
@@ -847,7 +847,7 @@ wir	ich	PRON	-	0:03:02.934000	0:03:07.794000
 gebraucht	gebrauchen	VERB	-	0:03:02.934000	0:03:07.794000
 .	-	-	-	0:03:02.934000	0:03:07.794000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:07.794000" end="0:03:10.449000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:07.794000" end="0:03:10.449000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 cool	cool	PROPN	-	0:03:07.794000	0:03:08.824000
 !	-	-	-	0:03:07.794000	0:03:08.824000
@@ -858,18 +858,18 @@ schlecht	schlecht	ADJ	-	0:03:08.824000	0:03:09.869000
 seid	sein	AUX	-	0:03:09.869000	0:03:10.449000
 ihr	mein	PRON	-	0:03:09.869000	0:03:10.449000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:09.869000" end="0:03:10.449000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:09.869000" end="0:03:10.449000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:03:09.869000	0:03:10.449000
 .	-	-	-	0:03:09.869000	0:03:10.449000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:10.449000" end="0:03:11.959000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:10.449000" end="0:03:11.959000" project="PP03" age_lower="18" age_upper="35">
 eh	eh	ADV	-	0:03:10.449000	0:03:11.959000
 flott	flott	ADJ	-	0:03:10.449000	0:03:11.959000
 gerannt	rennen	VERB	-	0:03:10.449000	0:03:11.959000
 .	-	-	-	0:03:10.449000	0:03:11.959000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:11.959000" end="0:03:19.689000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:11.959000" end="0:03:19.689000" project="PP03" age_lower="18" age_upper="35">
 na	na	PROPN	-	0:03:11.959000	0:03:12.889000
 hat	haben	AUX	-	0:03:11.959000	0:03:12.889000
 eh	eh	ADV	-	0:03:11.959000	0:03:12.889000
@@ -912,12 +912,12 @@ weg	weg	ADP	-	0:03:17.974000	0:03:19.689000
 gell	gell	ADJ	-	0:03:17.974000	0:03:19.689000
 ,	-	-	-	0:03:17.974000	0:03:19.689000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:19.689000" end="0:03:20.644000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:19.689000" end="0:03:20.644000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:03:19.689000	0:03:20.644000
 .	-	-	-	0:03:19.689000	0:03:20.644000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:20.644000" end="0:03:34.564000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:20.644000" end="0:03:34.564000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:03:20.644000	0:03:23.794000
 <pause duration="1,1s"/>
 ja	ja	ADV	-	0:03:20.644000	0:03:23.794000
@@ -972,25 +972,25 @@ haben	haben	AUX	-	0:03:32.309000	0:03:34.069000
 und	und	CCONJ	-	0:03:34.069000	0:03:34.564000
 dann	dann	ADV	-	0:03:34.069000	0:03:34.564000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:34.564000" end="0:03:36.574000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:34.564000" end="0:03:36.574000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:03:34.564000	0:03:35.869000
 .	-	-	-	0:03:34.564000	0:03:35.869000
 <pause duration="1,0s"/>
 mhm	mhm	PROPN	-	0:03:35.869000	0:03:36.574000
 .	-	-	-	0:03:35.869000	0:03:36.574000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:35.869000" end="0:03:36.574000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:35.869000" end="0:03:36.574000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:03:35.869000	0:03:36.574000
 .	-	-	-	0:03:35.869000	0:03:36.574000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:36.574000" end="0:03:37.694000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:36.574000" end="0:03:37.694000" project="PP03" age_lower="18" age_upper="35">
 *ist*	-	-	-	0:03:36.574000	0:03:37.694000
 voll	-	-	-	0:03:36.574000	0:03:37.694000
 oft	-	-	-	0:03:36.574000	0:03:37.694000
 so	-	-	-	0:03:36.574000	0:03:37.694000
 .	-	-	-	0:03:36.574000	0:03:37.694000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:37.694000" end="0:03:44.279000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:37.694000" end="0:03:44.279000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:37.694000	0:03:39.353000
 .	-	-	-	0:03:37.694000	0:03:39.353000
 <pause duration="1,4s"/>
@@ -1011,17 +1011,17 @@ Jahren	Jahr	NOUN	0 Interf Interf- NPL sd- SDent Suff U- Uml	0:03:40.869000	0:03:
 dabei	dabei	ADP	-	0:03:40.869000	0:03:44.279000
 .	-	-	-	0:03:40.869000	0:03:44.279000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:44.279000" end="0:03:44.964000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:44.279000" end="0:03:44.964000" project="PP03" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:03:44.279000	0:03:44.964000
 heißt	heißen	VERB	-	0:03:44.279000	0:03:44.964000
 der	der	PRON	-	0:03:44.279000	0:03:44.964000
 ?	-	-	-	0:03:44.279000	0:03:44.964000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:44.964000" end="0:03:46.384000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:44.964000" end="0:03:46.384000" project="PP03" age_lower="18" age_upper="35">
 Sonntagbier	Sonntagbier	PROPN	-	0:03:44.964000	0:03:46.384000
 .	-	-	-	0:03:44.964000	0:03:46.384000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:46.384000" end="0:03:48.739000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:46.384000" end="0:03:48.739000" project="PP03" age_lower="18" age_upper="35">
 Sonntagbier	Sonntagbier	PROPN	-	0:03:46.384000	0:03:48.739000
 okay	okay	VERB	-	0:03:46.384000	0:03:48.739000
 ,	-	-	-	0:03:46.384000	0:03:48.739000
@@ -1031,7 +1031,7 @@ das	der	PRON	-	0:03:46.384000	0:03:48.739000
 ?	-	-	-	0:03:46.384000	0:03:48.739000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:48.739000" end="0:04:01.874000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:48.739000" end="0:04:01.874000" project="PP03" age_lower="18" age_upper="35">
 der	der	PRON	-	0:03:48.739000	0:03:50.309000
 ist	sein	AUX	-	0:03:48.739000	0:03:50.309000
 in	in	ADP	-	0:03:48.739000	0:03:50.309000
@@ -1075,11 +1075,11 @@ bei	bei	ADP	-	0:03:58.014000	0:04:01.874000
 den	der	DET	-	0:03:58.014000	0:04:01.874000
 Festeln	Festeln	NOUN	0 DIM -(e)l Interf Interf- NPL sd- sd+ SDent Suff U- Uml	0:03:58.014000	0:04:01.874000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:01.874000" end="0:04:02.279000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:01.874000" end="0:04:02.279000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:04:01.874000	0:04:02.279000
 .	-	-	-	0:04:01.874000	0:04:02.279000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:02.279000" end="0:04:15.964000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:02.279000" end="0:04:15.964000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:04:02.279000	0:04:03.894000
 in	in	ADP	-	0:04:02.279000	0:04:03.894000
 ORT	ORT	NOUN	-	0:04:02.279000	0:04:03.894000
@@ -1127,11 +1127,11 @@ Festeln	Festeln	NOUN	0 DIM -(e)l Interf Interf- NPL sd- sd+ SDent Suff U- Uml	0:
 kellnern	kellnern	VERB	-	0:04:11.719000	0:04:15.964000
 helfen	helfen	VERB	-	0:04:11.719000	0:04:15.964000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:15.964000" end="0:04:16.689000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:15.964000" end="0:04:16.689000" project="PP03" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:04:15.964000	0:04:16.689000
 ?	-	-	-	0:04:15.964000	0:04:16.689000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:16.689000" end="0:04:33.749000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:16.689000" end="0:04:33.749000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:04:16.689000	0:04:21.928000
 wenn	wenn	SCONJ	-	0:04:16.689000	0:04:21.928000
 zum	zum	ADP	-	0:04:16.689000	0:04:21.928000
@@ -1192,11 +1192,11 @@ gleichen	gleich	ADJ	-	0:04:30.754000	0:04:33.749000
 Leute	Leute	NOUN	0 Interf Interf- NPLT sd- SDent Suff U- Uml	0:04:30.754000	0:04:33.749000
 ,	-	-	-	0:04:30.754000	0:04:33.749000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:33.749000" end="0:04:34.224000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:33.749000" end="0:04:34.224000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:04:33.749000	0:04:34.224000
 .	-	-	-	0:04:33.749000	0:04:34.224000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:34.224000" end="0:04:41.679000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:34.224000" end="0:04:41.679000" project="PP03" age_lower="18" age_upper="35">
 der	der	DET	-	0:04:34.224000	0:04:35.874000
 was	was	PRON	-	0:04:34.224000	0:04:35.874000
 halt	halt	ADV	-	0:04:34.224000	0:04:35.874000
@@ -1232,17 +1232,17 @@ ohne	ohne	ADP	-	0:04:38.349000	0:04:41.679000
 Bezahlung	Bezahlung	NOUN	-	0:04:38.349000	0:04:41.679000
 freiwillig	freiwillig	ADJ	-	0:04:38.349000	0:04:41.679000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:41.679000" end="0:04:42.394000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:41.679000" end="0:04:42.394000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADP	-	0:04:41.679000	0:04:42.394000
 cool	cool	PROPN	-	0:04:41.679000	0:04:42.394000
 ,	-	-	-	0:04:41.679000	0:04:42.394000
 voll	voll	ADJ	-	0:04:41.679000	0:04:42.394000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:41.679000" end="0:04:42.394000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:41.679000" end="0:04:42.394000" project="PP03" age_lower="18" age_upper="35">
 kellnern	kellnern	VERB	-	0:04:41.679000	0:04:42.394000
 .	-	-	-	0:04:41.679000	0:04:42.394000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:42.394000" end="0:04:43.969000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:42.394000" end="0:04:43.969000" project="PP03" age_lower="18" age_upper="35">
 lieb	lieben	VERB	-	0:04:42.394000	0:04:43.969000
 ,	-	-	-	0:04:42.394000	0:04:43.969000
 wieso	wieso	ADV	-	0:04:42.394000	0:04:43.969000
@@ -1251,7 +1251,7 @@ man	man	PRON	-	0:04:42.394000	0:04:43.969000
 das	der	PRON	-	0:04:42.394000	0:04:43.969000
 ?	-	-	-	0:04:42.394000	0:04:43.969000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:43.969000" end="0:04:46.969000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:43.969000" end="0:04:46.969000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:43.969000	0:04:46.969000
 weiß	-	-	-	0:04:43.969000	0:04:46.969000
 n/	-	-	-	0:04:43.969000	0:04:46.969000
@@ -1266,11 +1266,11 @@ aus	-	-	-	0:04:43.969000	0:04:46.969000
 ORT	ORT	-	-	0:04:43.969000	0:04:46.969000
 ,	-	-	-	0:04:43.969000	0:04:46.969000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:46.969000" end="0:04:47.344000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:46.969000" end="0:04:47.344000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:04:46.969000	0:04:47.344000
 .	-	-	-	0:04:46.969000	0:04:47.344000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:46.969000" end="0:04:53.409000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:46.969000" end="0:04:53.409000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	eigentlich	ADV	-	0:04:46.969000	0:04:47.344000
 (ich	ich	PRON	-	0:04:47.344000	0:04:50.424000
 und	und	CCONJ	-	0:04:47.344000	0:04:50.424000
@@ -1297,16 +1297,16 @@ richtigen	richtig	ADJ	-	0:04:51.984000	0:04:53.409000
 Leuten	Leute	NOUN	-	0:04:51.984000	0:04:53.409000
 kellnern	kellnern	VERB	-	0:04:51.984000	0:04:53.409000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:53.409000" end="0:04:53.899000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:53.409000" end="0:04:53.899000" project="PP03" age_lower="18" age_upper="35">
 eh	eh	X	-	0:04:53.409000	0:04:53.899000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:53.409000" end="0:04:53.899000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:53.409000" end="0:04:53.899000" project="PP03" age_lower="18" age_upper="35">
 gehst	gehen	VERB	-	0:04:53.409000	0:04:53.899000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:53.899000" end="0:04:55.404000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:53.899000" end="0:04:55.404000" project="PP03" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:04:53.899000	0:04:55.404000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:53.899000" end="0:04:56.069000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:53.899000" end="0:04:56.069000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:04:53.899000	0:04:55.404000
 wenn	wenn	SCONJ	-	0:04:53.899000	0:04:55.404000
 es	ich	PRON	-	0:04:53.899000	0:04:55.404000
@@ -1314,11 +1314,11 @@ genug	genug	DET	-	0:04:53.899000	0:04:55.404000
 Leute	Leute	NOUN	-	0:04:55.404000	0:04:56.069000
 sind	sein	AUX	-	0:04:55.404000	0:04:56.069000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:56.069000" end="0:04:56.579000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:56.069000" end="0:04:56.579000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:04:56.069000	0:04:56.579000
 .	-	-	-	0:04:56.069000	0:04:56.579000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:56.069000" end="0:04:59.044000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:56.069000" end="0:04:59.044000" project="PP03" age_lower="18" age_upper="35">
 zum	zum	ADP	-	0:04:56.069000	0:04:56.579000
 Kellnern	Kellner	NOUN	-	0:04:56.579000	0:04:59.044000
 ,	-	-	-	0:04:56.579000	0:04:59.044000
@@ -1330,11 +1330,11 @@ so	-	-	-	0:04:56.579000	0:04:59.044000
 anstrengend	-	-	-	0:04:56.579000	0:04:59.044000
 ,	-	-	-	0:04:56.579000	0:04:59.044000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:59.044000" end="0:04:59.414000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:59.044000" end="0:04:59.414000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:04:59.044000	0:04:59.414000
 .	-	-	-	0:04:59.044000	0:04:59.414000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:59.414000" end="0:05:02.124000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:59.414000" end="0:05:02.124000" project="PP03" age_lower="18" age_upper="35">
 muss	muss	VERB	-	0:04:59.414000	0:05:00.549000
 ich	ich	PRON	-	0:04:59.414000	0:05:00.549000
 auch	auch	ADV	-	0:04:59.414000	0:05:00.549000
@@ -1347,7 +1347,7 @@ irgendwie	irgendwie	ADV	-	0:05:00.549000	0:05:02.124000
 Spaß	Spaß	NOUN	-	0:05:00.549000	0:05:02.124000
 .	-	-	-	0:05:00.549000	0:05:02.124000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:02.124000" end="0:05:03.464000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:02.124000" end="0:05:03.464000" project="PP03" age_lower="18" age_upper="35">
 eh	-	-	-	0:05:02.124000	0:05:03.464000
 kann	-	-	-	0:05:02.124000	0:05:03.464000
 eh	-	-	-	0:05:02.124000	0:05:03.464000
@@ -1357,7 +1357,7 @@ auch	-	-	-	0:05:02.124000	0:05:03.464000
 sein	-	-	-	0:05:02.124000	0:05:03.464000
 .	-	-	-	0:05:02.124000	0:05:03.464000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:03.464000" end="0:05:08.079000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:03.464000" end="0:05:08.079000" project="PP03" age_lower="18" age_upper="35">
 eh	eh	X	-	0:05:03.464000	0:05:05.994000
 ,	-	-	-	0:05:03.464000	0:05:05.994000
 ich	ich	PRON	-	0:05:03.464000	0:05:05.994000
@@ -1384,11 +1384,11 @@ ein	einen	DET	-	0:05:06.749000	0:05:08.079000
 jeder	jed	PRON	-	0:05:06.749000	0:05:08.079000
 ,	-	-	-	0:05:06.749000	0:05:08.079000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:08.079000" end="0:05:08.609000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:08.079000" end="0:05:08.609000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:05:08.079000	0:05:08.609000
 .	-	-	-	0:05:08.079000	0:05:08.609000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:08.609000" end="0:05:10.609000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:08.609000" end="0:05:10.609000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:05:08.609000	0:05:10.609000
 so	-	-	-	0:05:08.609000	0:05:10.609000
 *ist*	-	-	-	0:05:08.609000	0:05:10.609000
@@ -1398,7 +1398,7 @@ recht	-	-	-	0:05:08.609000	0:05:10.609000
 lustig	-	-	-	0:05:08.609000	0:05:10.609000
 .	-	-	-	0:05:08.609000	0:05:10.609000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:10.609000" end="0:05:11.974000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:10.609000" end="0:05:11.974000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:05:10.609000	0:05:11.134000
 habe	habe	AUX	-	0:05:11.134000	0:05:11.974000
 ich	ich	PRON	-	0:05:11.134000	0:05:11.974000
@@ -1406,7 +1406,7 @@ nicht	nicht	PART	-	0:05:11.134000	0:05:11.974000
 gewusst	gewusst	VERB	-	0:05:11.134000	0:05:11.974000
 .	-	-	-	0:05:11.134000	0:05:11.974000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:11.134000" end="0:05:20.439000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:11.134000" end="0:05:20.439000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:05:11.134000	0:05:11.974000
 .	-	-	-	0:05:11.134000	0:05:11.974000
 ja	ja	PART	-	0:05:11.974000	0:05:13.159000
@@ -1449,12 +1449,12 @@ machen	machen	VERB	-	0:05:19.014000	0:05:20.439000
 dort	dort	ADV	-	0:05:19.014000	0:05:20.439000
 ,	-	-	-	0:05:19.014000	0:05:20.439000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:20.439000" end="0:05:20.949000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:20.439000" end="0:05:20.949000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:05:20.439000	0:05:20.949000
 okay	okay	NOUN	-	0:05:20.439000	0:05:20.949000
 .	-	-	-	0:05:20.439000	0:05:20.949000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:20.439000" end="0:05:24.739000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:20.439000" end="0:05:24.739000" project="PP03" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:05:20.439000	0:05:20.949000
 sie	ich	PRON	-	0:05:20.439000	0:05:20.949000
 wissen	wissen	VERB	-	0:05:20.439000	0:05:20.949000
@@ -1475,7 +1475,7 @@ was	was	PRON	-	0:05:22.414000	0:05:24.739000
 dagegen	dagegen	ADV	-	0:05:22.414000	0:05:24.739000
 .	-	-	-	0:05:22.414000	0:05:24.739000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:24.739000" end="0:05:26.429000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:24.739000" end="0:05:26.429000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:05:24.739000	0:05:25.534000
 die	der	PRON	-	0:05:24.739000	0:05:25.534000
 freuen	freuen	VERB	-	0:05:24.739000	0:05:25.534000
@@ -1490,7 +1490,7 @@ zum	zum	ADP	-	0:05:25.534000	0:05:26.429000
 Kellnern	Kellner	NOUN	-	0:05:25.534000	0:05:26.429000
 .	-	-	-	0:05:25.534000	0:05:26.429000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:26.429000" end="0:05:33.134000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:26.429000" end="0:05:33.134000" project="PP03" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:05:26.429000	0:05:28.429000
 .	-	-	-	0:05:26.429000	0:05:28.429000
 <pause duration="1,8s"/>
@@ -1514,12 +1514,12 @@ am	am	ADP	-	0:05:31.264000	0:05:33.134000
 Wochenende	Wochenend	NOUN	-	0:05:31.264000	0:05:33.134000
 eingespannt	einspannen	VERB	-	0:05:31.264000	0:05:33.134000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:33.134000" end="0:05:34.454000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:33.134000" end="0:05:34.454000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:05:33.134000	0:05:34.454000
 .	-	-	-	0:05:33.134000	0:05:34.454000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:34.454000" end="0:05:45.683000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:34.454000" end="0:05:45.683000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:05:34.454000	0:05:41.634000
 <pause duration="1,7s"/>
 was	was	PRON	-	0:05:34.454000	0:05:41.634000
@@ -1547,7 +1547,7 @@ aber	aber	CCONJ	-	0:05:44.714000	0:05:45.683000
 ich	ich	PRON	-	0:05:44.714000	0:05:45.683000
 bin	sein	AUX	-	0:05:44.714000	0:05:45.683000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:45.683000" end="0:05:46.764000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:45.683000" end="0:05:46.764000" project="PP03" age_lower="18" age_upper="35">
 hast	haben	AUX	-	0:05:45.683000	0:05:46.764000
 du	du	PRON	-	0:05:45.683000	0:05:46.764000
 mal	mal	ADV	-	0:05:45.683000	0:05:46.764000
@@ -1556,7 +1556,7 @@ gespielt	spielen	VERB	-	0:05:45.683000	0:05:46.764000
 NAME	NAME	NOUN	-	0:05:45.683000	0:05:46.764000
 ?	-	-	-	0:05:45.683000	0:05:46.764000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:45.683000" end="0:05:47.324000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:45.683000" end="0:05:47.324000" project="PP03" age_lower="18" age_upper="35">
 noch	noch	ADV	-	0:05:45.683000	0:05:46.764000
 nicht/	-	-	-	0:05:45.683000	0:05:46.764000
 .	-	-	-	0:05:45.683000	0:05:46.764000
@@ -1566,7 +1566,7 @@ gespielt	spielen	VERB	-	0:05:46.764000	0:05:47.324000
 ja	ja	PART	-	0:05:46.764000	0:05:47.324000
 .	-	-	-	0:05:46.764000	0:05:47.324000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:47.324000" end="0:05:48.524000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:47.324000" end="0:05:48.524000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:05:47.324000	0:05:48.524000
 ?	-	-	-	0:05:47.324000	0:05:48.524000
 ja	ja	ADV	-	0:05:47.324000	0:05:48.524000
@@ -1574,7 +1574,7 @@ fang	fang	NOUN	-	0:05:47.324000	0:05:48.524000
 an	an	ADP	-	0:05:47.324000	0:05:48.524000
 !	-	-	-	0:05:47.324000	0:05:48.524000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:48.524000" end="0:05:52.374000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:48.524000" end="0:05:52.374000" project="PP03" age_lower="18" age_upper="35">
 als	als	ADP	-	0:05:48.524000	0:05:49.899000
 Kind	Kind	NOUN	-	0:05:48.524000	0:05:49.899000
 habe	habe	AUX	-	0:05:48.524000	0:05:49.899000
@@ -1591,7 +1591,7 @@ drei	drei	NUM	-	0:05:49.899000	0:05:52.374000
 Jahre	Jahr	NOUN	-	0:05:49.899000	0:05:52.374000
 .	-	-	-	0:05:49.899000	0:05:52.374000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:52.374000" end="0:05:55.999000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:52.374000" end="0:05:55.999000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:05:52.374000	0:05:53.119000
 auch	auch	ADV	-	0:05:52.374000	0:05:53.119000
 nicht	nicht	PART	-	0:05:52.374000	0:05:53.119000
@@ -1611,7 +1611,7 @@ fünfzehn	fünfzehn	NUM	-	0:05:54.619000	0:05:55.999000
 sechzehn	sechzehn	NUM	-	0:05:54.619000	0:05:55.999000
 .	-	-	-	0:05:54.619000	0:05:55.999000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:54.619000" end="0:05:57.889000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:54.619000" end="0:05:57.889000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:05:54.619000	0:05:55.999000
 der	der	DET	-	0:05:54.619000	0:05:55.999000
 NAME	NAME	NOUN	-	0:05:54.619000	0:05:55.999000
@@ -1624,12 +1624,12 @@ habe	habe	AUX	-	0:05:55.999000	0:05:57.889000
 Spaghetti(hand)	Spaghettihand	PROPN	-	0:05:55.999000	0:05:57.889000
 .	-	-	-	0:05:55.999000	0:05:57.889000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:57.889000" end="0:05:59.819000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:57.889000" end="0:05:59.819000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:05:57.889000	0:05:59.819000
 heißt	heißen	VERB	-	0:05:57.889000	0:05:59.819000
 ?	-	-	-	0:05:57.889000	0:05:59.819000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:59.819000" end="0:06:06.069000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:59.819000" end="0:06:06.069000" project="PP03" age_lower="18" age_upper="35">
 e/	-	-	-	0:05:59.819000	0:06:00.789000
 er	ich	PRON	-	0:05:59.819000	0:06:00.789000
 hat	haben	AUX	-	0:05:59.819000	0:06:00.789000
@@ -1655,7 +1655,7 @@ also	also	ADV	-	0:06:05.154000	0:06:06.069000
 das	der	DET	-	0:06:05.154000	0:06:06.069000
 Handgelenk	Handgelenk	NOUN	-	0:06:05.154000	0:06:06.069000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:06.066000" end="0:06:07.174000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:06.066000" end="0:06:07.174000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:06:06.066000	0:06:07.174000
 du	du	PRON	-	0:06:06.066000	0:06:07.174000
 hast	haben	AUX	-	0:06:06.066000	0:06:07.174000
@@ -1663,7 +1663,7 @@ ja	ja	ADV	-	0:06:06.066000	0:06:07.174000
 auch	auch	ADV	-	0:06:06.066000	0:06:07.174000
 Tischtennis	Tischtennis	NOUN	-	0:06:06.066000	0:06:07.174000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:06.066000" end="0:06:07.174000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:06.066000" end="0:06:07.174000" project="PP03" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:06:06.066000	0:06:07.174000
 ich	ich	PRON	-	0:06:06.066000	0:06:07.174000
 zu	zu	PART	-	0:06:06.066000	0:06:07.174000
@@ -1671,28 +1671,28 @@ viel	viel	PRON	-	0:06:06.066000	0:06:07.174000
 bewegt	bewegen	VERB	-	0:06:06.066000	0:06:07.174000
 .	-	-	-	0:06:06.066000	0:06:07.174000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:07.174000" end="0:06:08.059000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:07.174000" end="0:06:08.059000" project="PP03" age_lower="18" age_upper="35">
 gespielt	spielen	VERB	-	0:06:07.174000	0:06:08.059000
 ,	-	-	-	0:06:07.174000	0:06:08.059000
 nicht	nicht	PART	-	0:06:07.174000	0:06:08.059000
 ?	-	-	-	0:06:07.174000	0:06:08.059000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:07.174000" end="0:06:08.059000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:07.174000" end="0:06:08.059000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:06:07.174000	0:06:08.059000
 ,	-	-	-	0:06:07.174000	0:06:08.059000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:08.059000" end="0:06:09.374000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:08.059000" end="0:06:09.374000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:08.059000" end="0:06:09.374000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:08.059000" end="0:06:09.374000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:06:08.059000	0:06:09.374000
 quasi	quasi	ADV	-	0:06:08.059000	0:06:09.374000
 Tischtennis	Tischtennis	NOUN	-	0:06:08.059000	0:06:09.374000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:09.374000" end="0:06:10.139000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:09.374000" end="0:06:10.139000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:06:09.374000	0:06:10.139000
 .	-	-	-	0:06:09.374000	0:06:10.139000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:09.374000" end="0:06:16.064000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:09.374000" end="0:06:16.064000" project="PP03" age_lower="18" age_upper="35">
 spielen	spielen	VERB	-	0:06:09.374000	0:06:10.139000
 ,	-	-	-	0:06:09.374000	0:06:10.139000
 der	der	PRON	-	0:06:09.374000	0:06:10.139000
@@ -1715,17 +1715,17 @@ Tennisspielen	Tennisspielen	NOUN	-	0:06:11.869000	0:06:13.869000
 ja	ja	PART	-	0:06:13.869000	0:06:16.064000
 .	-	-	-	0:06:13.869000	0:06:16.064000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:16.064000" end="0:06:17.699000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:16.064000" end="0:06:17.699000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:06:16.064000	0:06:17.319000
 .	-	-	-	0:06:16.064000	0:06:17.319000
 na	na	X	-	0:06:17.319000	0:06:17.699000
 ja	ja	PART	-	0:06:17.319000	0:06:17.699000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:17.319000" end="0:06:17.699000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:17.319000" end="0:06:17.699000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:17.319000	0:06:17.699000
 .	-	-	-	0:06:17.319000	0:06:17.699000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:17.699000" end="0:06:19.629000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:17.699000" end="0:06:19.629000" project="PP03" age_lower="18" age_upper="35">
 bitte	bitte	PART	-	0:06:17.699000	0:06:19.629000
 ,	-	-	-	0:06:17.699000	0:06:19.629000
 fang	fang	NOUN	-	0:06:17.699000	0:06:19.629000
@@ -1734,7 +1734,7 @@ Tennis	Tennis	NOUN	-	0:06:17.699000	0:06:19.629000
 !	-	-	-	0:06:17.699000	0:06:19.629000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:19.629000" end="0:06:25.289000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:19.629000" end="0:06:25.289000" project="PP03" age_lower="18" age_upper="35">
 schauen	schauen	VERB	-	0:06:19.629000	0:06:20.259000
 wir	ich	PRON	-	0:06:19.629000	0:06:20.259000
 mal	mal	ADV	-	0:06:19.629000	0:06:20.259000
@@ -1767,12 +1767,12 @@ daheim	daheim	ADV	-	0:06:23.289000	0:06:25.289000
 haben	haben	AUX	-	0:06:23.289000	0:06:25.289000
 .	-	-	-	0:06:23.289000	0:06:25.289000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:25.289000" end="0:06:26.659000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:25.289000" end="0:06:26.659000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:06:25.289000	0:06:26.659000
 .	-	-	-	0:06:25.289000	0:06:26.659000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:26.659000" end="0:06:32.794000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:26.659000" end="0:06:32.794000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:06:26.659000	0:06:27.589000
 mal	mal	ADV	-	0:06:26.659000	0:06:27.589000
 schauen	schauen	VERB	-	0:06:26.659000	0:06:27.589000
@@ -1800,7 +1800,7 @@ so	-	-	-	0:06:30.779000	0:06:32.794000
 quasi	-	-	-	0:06:30.779000	0:06:32.794000
 ?	-	-	-	0:06:30.779000	0:06:32.794000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:32.794000" end="0:06:38.394000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:32.794000" end="0:06:38.394000" project="PP03" age_lower="18" age_upper="35">
 na	na	X	-	0:06:32.794000	0:06:34.644000
 ich	ich	PRON	-	0:06:32.794000	0:06:34.644000
 habe	habe	AUX	-	0:06:32.794000	0:06:34.644000
@@ -1838,11 +1838,11 @@ ich	ich	PRON	-	0:06:37.924000	0:06:38.394000
 bin	sein	AUX	-	0:06:37.924000	0:06:38.394000
 in	in	ADP	-	0:06:37.924000	0:06:38.394000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:37.924000" end="0:06:38.394000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:37.924000" end="0:06:38.394000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:06:37.924000	0:06:38.394000
 .	-	-	-	0:06:37.924000	0:06:38.394000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:38.394000" end="0:06:41.314000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:38.394000" end="0:06:41.314000" project="PP03" age_lower="18" age_upper="35">
 ORT	ORT	NOUN	-	0:06:38.394000	0:06:40.369000
 ORT	ORT	PROPN	-	0:06:38.394000	0:06:40.369000
 ja	ja	ADV	-	0:06:38.394000	0:06:40.369000
@@ -1858,7 +1858,7 @@ ORT	ORT	PROPN	-	0:06:38.394000	0:06:40.369000
 spielt	spielen	VERB	-	0:06:40.369000	0:06:41.314000
 .	-	-	-	0:06:40.369000	0:06:41.314000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:40.369000" end="0:06:42.629000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:40.369000" end="0:06:42.629000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:06:40.369000	0:06:41.314000
 okay	okay	VERB	-	0:06:40.369000	0:06:41.314000
 ,	-	-	-	0:06:40.369000	0:06:41.314000
@@ -1869,7 +1869,7 @@ eh	eh	ADV	-	0:06:41.314000	0:06:42.629000
 Tennis	Tennis	NOUN	-	0:06:41.314000	0:06:42.629000
 ?	-	-	-	0:06:41.314000	0:06:42.629000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:42.629000" end="0:07:01.034000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:42.629000" end="0:07:01.034000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:06:42.629000	0:06:43.734000
 <pause duration="0,9s"/>
 und	und	CCONJ	-	0:06:43.734000	0:06:47.539000
@@ -1962,29 +1962,29 @@ Mal	Mal	NOUN	-	0:06:59.214000	0:07:01.034000
 gespielt	spielen	VERB	-	0:06:59.214000	0:07:01.034000
 .	-	-	-	0:06:59.214000	0:07:01.034000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:01.034000" end="0:07:01.704000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:01.034000" end="0:07:01.704000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:07:01.034000	0:07:01.704000
 ?	-	-	-	0:07:01.034000	0:07:01.704000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:01.704000" end="0:07:02.729000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:01.704000" end="0:07:02.729000" project="PP03" age_lower="18" age_upper="35">
 Meisterschaft	Meisterschaft	ADJ	-	0:07:01.704000	0:07:02.729000
 ja	ja	PART	-	0:07:01.704000	0:07:02.729000
 .	-	-	-	0:07:01.704000	0:07:02.729000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:02.729000" end="0:07:03.434000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:02.729000" end="0:07:03.434000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:07:02.729000	0:07:03.434000
 ?	-	-	-	0:07:02.729000	0:07:03.434000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:03.434000" end="0:07:04.239000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:03.434000" end="0:07:04.239000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:03.434000	0:07:04.239000
 .	-	-	-	0:07:03.434000	0:07:04.239000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:03.434000" end="0:07:04.239000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:03.434000" end="0:07:04.239000" project="PP03" age_lower="18" age_upper="35">
 Meisterschaft	Meisterschaft	ADJ	-	0:07:03.434000	0:07:04.239000
 auch	auch	ADV	-	0:07:03.434000	0:07:04.239000
 ?	-	-	-	0:07:03.434000	0:07:04.239000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:04.239000" end="0:07:08.594000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:04.239000" end="0:07:08.594000" project="PP03" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:07:04.239000	0:07:05.304000
 sogar	sogar	ADV	-	0:07:04.239000	0:07:05.304000
 zwei	zwei	NUM	-	0:07:04.239000	0:07:05.304000
@@ -2008,22 +2008,22 @@ ganz	ganz	ADV	-	0:07:07.419000	0:07:08.594000
 cool	cool	PROPN	-	0:07:07.419000	0:07:08.594000
 .	-	-	-	0:07:07.419000	0:07:08.594000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:08.594000" end="0:07:09.299000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:08.594000" end="0:07:09.299000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:07:08.594000	0:07:09.299000
 !	-	-	-	0:07:08.594000	0:07:09.299000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:09.299000" end="0:07:09.789000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:09.299000" end="0:07:09.789000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:09.299000	0:07:09.789000
 .	-	-	-	0:07:09.299000	0:07:09.789000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:09.789000" end="0:07:10.794000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:09.789000" end="0:07:10.794000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:07:09.789000	0:07:10.794000
 eigentlich	eigentlich	ADV	-	0:07:09.789000	0:07:10.794000
 voll	voll	ADJ	-	0:07:09.789000	0:07:10.794000
 gut	gut	ADJ	-	0:07:09.789000	0:07:10.794000
 .	-	-	-	0:07:09.789000	0:07:10.794000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:10.794000" end="0:07:14.174000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:10.794000" end="0:07:14.174000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:07:10.794000	0:07:14.174000
 ja	-	-	-	0:07:10.794000	0:07:14.174000
 na	-	-	-	0:07:10.794000	0:07:14.174000
@@ -2035,9 +2035,9 @@ Gegnerinnen	-	-	-	0:07:10.794000	0:07:14.174000
 anschauen	-	-	-	0:07:10.794000	0:07:14.174000
 .	-	-	-	0:07:10.794000	0:07:14.174000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:14.174000" end="0:07:15.269000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:14.174000" end="0:07:15.269000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:15.269000" end="0:07:21.164000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:15.269000" end="0:07:21.164000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:07:15.269000	0:07:17.429000
 nein	nein	PART	-	0:07:15.269000	0:07:17.429000
 ,	-	-	-	0:07:15.269000	0:07:17.429000
@@ -2059,7 +2059,7 @@ spielen	spielen	VERB	-	0:07:19.094000	0:07:21.164000
 .	-	-	-	0:07:19.094000	0:07:21.164000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:21.164000" end="0:07:25.014000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:21.164000" end="0:07:25.014000" project="PP03" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:07:21.164000	0:07:21.624000
 das	der	PRON	-	0:07:21.164000	0:07:21.624000
 das	der	PRON	-	0:07:21.164000	0:07:21.624000
@@ -2079,7 +2079,7 @@ einzeln	-	-	-	0:07:23.459000	0:07:24.204000
 auch	-	-	-	0:07:24.204000	0:07:25.014000
 also	-	-	-	0:07:24.204000	0:07:25.014000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:25.014000" end="0:07:27.669000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:25.014000" end="0:07:27.669000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:07:25.014000	0:07:26.469000
 *hast*	-	-	-	0:07:25.014000	0:07:26.469000
 *hättest*	-	-	-	0:07:25.014000	0:07:26.469000
@@ -2096,11 +2096,11 @@ Einzel	Einzel	NOUN	-	0:07:26.469000	0:07:27.669000
 gespielt	spielen	VERB	-	0:07:26.469000	0:07:27.669000
 ,	-	-	-	0:07:26.469000	0:07:27.669000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:27.669000" end="0:07:28.089000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:27.669000" end="0:07:28.089000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:07:27.669000	0:07:28.089000
 .	-	-	-	0:07:27.669000	0:07:28.089000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:28.089000" end="0:07:35.229000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:28.089000" end="0:07:35.229000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:07:28.089000	0:07:29.204000
 du	du	PRON	-	0:07:28.089000	0:07:29.204000
 hast	haben	AUX	-	0:07:28.089000	0:07:29.204000
@@ -2147,11 +2147,11 @@ weil	weil	SCONJ	-	0:07:34.664000	0:07:35.229000
 vielleicht	vielleicht	ADV	-	0:07:34.664000	0:07:35.229000
 weil	weil	SCONJ	-	0:07:34.664000	0:07:35.229000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:34.664000" end="0:07:35.229000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:34.664000" end="0:07:35.229000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:07:34.664000	0:07:35.229000
 .	-	-	-	0:07:34.664000	0:07:35.229000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:35.229000" end="0:07:38.779000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:35.229000" end="0:07:38.779000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:07:35.229000	0:07:36.144000
 es	ich	PRON	-	0:07:35.229000	0:07:36.144000
 auch	auch	ADV	-	0:07:35.229000	0:07:36.144000
@@ -2167,7 +2167,7 @@ ja	ja	ADV	-	0:07:36.144000	0:07:38.779000
 .	-	-	-	0:07:36.144000	0:07:38.779000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:38.779000" end="0:07:40.474000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:38.779000" end="0:07:40.474000" project="PP03" age_lower="18" age_upper="35">
 u/	-	-	-	0:07:38.779000	0:07:40.474000
 und	-	-	-	0:07:38.779000	0:07:40.474000
 das	-	-	-	0:07:38.779000	0:07:40.474000
@@ -2176,11 +2176,11 @@ dem	-	-	-	0:07:38.779000	0:07:40.474000
 Aufschlagen	-	-	-	0:07:38.779000	0:07:40.474000
 und	-	-	-	0:07:38.779000	0:07:40.474000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:40.474000" end="0:07:40.779000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:40.474000" end="0:07:40.779000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:40.474000	0:07:40.779000
 .	-	-	-	0:07:40.474000	0:07:40.779000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:40.779000" end="0:07:44.404000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:40.779000" end="0:07:44.404000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:07:40.779000	0:07:42.204000
 ist	-	-	-	0:07:40.779000	0:07:42.204000
 ja	-	-	-	0:07:40.779000	0:07:42.204000
@@ -2198,7 +2198,7 @@ und	-	-	-	0:07:43.954000	0:07:44.404000
 wenn	-	-	-	0:07:43.954000	0:07:44.404000
 du	-	-	-	0:07:43.954000	0:07:44.404000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:44.404000" end="0:07:46.599000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:44.404000" end="0:07:46.599000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:07:44.404000	0:07:46.599000
 das	der	PRON	-	0:07:44.404000	0:07:46.599000
 (depperte	depperte	VERB	-	0:07:44.404000	0:07:46.599000
@@ -2206,7 +2206,7 @@ das	der	PRON	-	0:07:44.404000	0:07:46.599000
 ja	ja	PART	-	0:07:44.404000	0:07:46.599000
 .	-	-	-	0:07:44.404000	0:07:46.599000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:44.404000" end="0:07:46.599000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:44.404000" end="0:07:46.599000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:07:44.404000	0:07:46.599000
 drei	-	-	-	0:07:44.404000	0:07:46.599000
 Mal	-	-	-	0:07:44.404000	0:07:46.599000
@@ -2215,7 +2215,7 @@ oder	-	-	-	0:07:44.404000	0:07:46.599000
 i/	-	-	-	0:07:44.404000	0:07:46.599000
 .	-	-	-	0:07:44.404000	0:07:46.599000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:46.599000" end="0:07:48.683000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:46.599000" end="0:07:48.683000" project="PP03" age_lower="18" age_upper="35">
 zwei	zwei	NUM	-	0:07:46.599000	0:07:47.729000
 Mal	Mal	NOUN	-	0:07:46.599000	0:07:47.729000
 ,	-	-	-	0:07:46.599000	0:07:47.729000
@@ -2226,7 +2226,7 @@ Aufschläge	-	-	-	0:07:46.599000	0:07:47.729000
 gell	gell	ADJ	-	0:07:47.729000	0:07:48.683000
 ?	-	-	-	0:07:47.729000	0:07:48.683000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:47.729000" end="0:07:48.683000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:47.729000" end="0:07:48.683000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:07:47.729000	0:07:48.683000
 zwei	zwei	NUM	-	0:07:47.729000	0:07:48.683000
 Mal	Mal	NOUN	-	0:07:47.729000	0:07:48.683000
@@ -2234,21 +2234,21 @@ Mal	Mal	NOUN	-	0:07:47.729000	0:07:48.683000
 genau	genau	ADJ	-	0:07:47.729000	0:07:48.683000
 !	-	-	-	0:07:47.729000	0:07:48.683000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:48.683000" end="0:07:49.399000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:48.683000" end="0:07:49.399000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:48.683000" end="0:07:49.399000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:48.683000" end="0:07:49.399000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:49.399000" end="0:07:50.509000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:49.399000" end="0:07:50.509000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:07:49.399000	0:07:50.509000
 wir	ich	PRON	-	0:07:49.399000	0:07:50.509000
 können	können	VERB	-	0:07:49.399000	0:07:50.509000
 gleich	gleichen	ADV	-	0:07:49.399000	0:07:50.509000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:49.399000" end="0:07:50.509000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:49.399000" end="0:07:50.509000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:50.509000" end="0:07:58.419000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:50.509000" end="0:07:58.419000" project="PP03" age_lower="18" age_upper="35">
 gleich	gleichen	ADV	-	0:07:50.509000	0:07:54.424000
 switchen	switchen	VERB	-	0:07:50.509000	0:07:54.424000
 zu	zu	ADP	-	0:07:50.509000	0:07:54.424000
@@ -2277,12 +2277,12 @@ deine	mein	DET	-	0:07:55.484000	0:07:58.419000
 Kindheit	Kindheit	NOUN	-	0:07:55.484000	0:07:58.419000
 .	-	-	-	0:07:55.484000	0:07:58.419000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:58.419000" end="0:07:59.824000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:58.419000" end="0:07:59.824000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:07:58.419000	0:07:59.824000
 .	-	-	-	0:07:58.419000	0:07:59.824000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:59.824000" end="0:08:02.374000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:59.824000" end="0:08:02.374000" project="PP03" age_lower="18" age_upper="35">
 entschuldige	entschuldigen	ADJ	-	0:07:59.824000	0:08:00.919000
 ,	-	-	-	0:07:59.824000	0:08:00.919000
 ich	ich	PRON	-	0:07:59.824000	0:08:00.919000
@@ -2302,7 +2302,7 @@ guter)	gut	ADJ	IRR	0:08:00.919000	0:08:02.374000
 Switch	Switch	NOUN	IRR	0:08:00.919000	0:08:02.374000
 .	-	-	-	0:08:00.919000	0:08:02.374000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:00.919000" end="0:08:04.539000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:00.919000" end="0:08:04.539000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:08:00.919000	0:08:02.374000
 ,	-	-	-	0:08:00.919000	0:08:02.374000
 passt	passt	PROPN	-	0:08:00.919000	0:08:02.374000
@@ -2317,7 +2317,7 @@ nochmal	nochmal	ADV	-	0:08:02.374000	0:08:04.539000
 vorlesen	vorlesen	VERB	-	0:08:02.374000	0:08:04.539000
 ?	-	-	-	0:08:02.374000	0:08:04.539000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:04.539000" end="0:08:05.929000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:04.539000" end="0:08:05.929000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:04.539000	0:08:05.929000
 lies	lesen	VERB	-	0:08:04.539000	0:08:05.929000
 es	ich	PRON	-	0:08:04.539000	0:08:05.929000
@@ -2326,7 +2326,7 @@ vor	vor	ADP	-	0:08:04.539000	0:08:05.929000
 .	-	-	-	0:08:04.539000	0:08:05.929000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:05.929000" end="0:08:10.794000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:05.929000" end="0:08:10.794000" project="PP03" age_lower="18" age_upper="35">
 erzähle	erzählen	NOUN	-	0:08:05.929000	0:08:10.794000
 von	von	ADP	-	0:08:05.929000	0:08:10.794000
 Vereine	Verein	NOUN	-	0:08:05.929000	0:08:10.794000
@@ -2337,13 +2337,13 @@ am	am	ADP	-	0:08:05.929000	0:08:10.794000
 Ort	Ort	NOUN	-	0:08:05.929000	0:08:10.794000
 .	-	-	-	0:08:05.929000	0:08:10.794000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:10.794000" end="0:08:13.924000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:10.794000" end="0:08:13.924000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:08:10.794000	0:08:12.364000
 die	der	DET	-	0:08:10.794000	0:08:12.364000
 (Formulierung)	Formulierung	NOUN	-	0:08:10.794000	0:08:12.364000
 .	-	-	-	0:08:10.794000	0:08:12.364000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:13.924000" end="0:08:22.039000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:13.924000" end="0:08:22.039000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:08:13.924000	0:08:22.039000
 <pause duration="1,1s"/>
 früher	früh	ADJ	-	0:08:13.924000	0:08:22.039000
@@ -2359,7 +2359,7 @@ ja	ja	ADV	-	0:08:13.924000	0:08:22.039000
 Tennisverein	Tennisverein	NOUN	-	0:08:13.924000	0:08:22.039000
 .	-	-	-	0:08:13.924000	0:08:22.039000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:22.039000" end="0:08:23.694000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:22.039000" end="0:08:23.694000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:22.039000	0:08:22.519000
 .	-	-	-	0:08:22.039000	0:08:22.519000
 ähm	-	-	-	0:08:22.519000	0:08:23.694000
@@ -2371,7 +2371,7 @@ noch	-	-	-	0:08:22.519000	0:08:23.694000
 dabei	-	-	-	0:08:22.519000	0:08:23.694000
 ?	-	-	-	0:08:22.519000	0:08:23.694000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:23.694000" end="0:08:24.799000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:23.694000" end="0:08:24.799000" project="PP03" age_lower="18" age_upper="35">
 Musik	Musik	NOUN	-	0:08:23.694000	0:08:24.799000
 ,	-	-	-	0:08:23.694000	0:08:24.799000
 nein	nein	PART	-	0:08:23.694000	0:08:24.799000
@@ -2382,11 +2382,11 @@ mehr	mehr	ADV	-	0:08:23.694000	0:08:24.799000
 dabei	dabei	ADP	-	0:08:23.694000	0:08:24.799000
 .	-	-	-	0:08:23.694000	0:08:24.799000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:24.799000" end="0:08:25.064000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:24.799000" end="0:08:25.064000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:08:24.799000	0:08:25.064000
 .	-	-	-	0:08:24.799000	0:08:25.064000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:25.064000" end="0:08:30.014000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:25.064000" end="0:08:30.014000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:08:25.064000	0:08:26.144000
 war	sein	AUX	-	0:08:25.064000	0:08:26.144000
 ich	ich	PRON	-	0:08:25.064000	0:08:26.144000
@@ -2409,12 +2409,12 @@ ich	ich	PRON	-	0:08:26.144000	0:08:30.014000
 dabei	dabei	ADV	-	0:08:26.144000	0:08:30.014000
 .	-	-	-	0:08:26.144000	0:08:30.014000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:30.014000" end="0:08:32.144000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:30.014000" end="0:08:32.144000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:08:30.014000	0:08:32.144000
 .	-	-	-	0:08:30.014000	0:08:32.144000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:32.144000" end="0:08:38.279000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:32.144000" end="0:08:38.279000" project="PP03" age_lower="18" age_upper="35">
 letztens	letztens	ADV	-	0:08:32.144000	0:08:34.349000
 haben	haben	AUX	-	0:08:32.144000	0:08:34.349000
 sie	ich	PRON	-	0:08:32.144000	0:08:34.349000
@@ -2449,18 +2449,18 @@ jetzt	jetzt	ADV	-	0:08:37.019000	0:08:38.279000
 weg	weg	ADP	-	0:08:37.019000	0:08:38.279000
 ,	-	-	-	0:08:37.019000	0:08:38.279000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:38.279000" end="0:08:38.884000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:38.279000" end="0:08:38.884000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	ADJ	-	0:08:38.279000	0:08:38.884000
 ja	ja	ADV	-	0:08:38.279000	0:08:38.884000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:38.279000" end="0:08:38.884000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:38.279000" end="0:08:38.884000" project="PP03" age_lower="18" age_upper="35">
 die	der	PRON	-	0:08:38.279000	0:08:38.884000
 ist	sein	AUX	-	0:08:38.279000	0:08:38.884000
 ja	ja	ADV	-	0:08:38.279000	0:08:38.884000
 schwanger	schwanger	ADJ	-	0:08:38.279000	0:08:38.884000
 .	-	-	-	0:08:38.279000	0:08:38.884000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:38.884000" end="0:08:41.459000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:38.884000" end="0:08:41.459000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:08:38.884000	0:08:41.459000
 stimmt	stimmen	VERB	-	0:08:38.884000	0:08:41.459000
 ,	-	-	-	0:08:38.884000	0:08:41.459000
@@ -2472,7 +2472,7 @@ gehört	hören	VERB	-	0:08:38.884000	0:08:41.459000
 .	-	-	-	0:08:38.884000	0:08:41.459000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:41.459000" end="0:08:49.139000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:41.459000" end="0:08:49.139000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:08:41.459000	0:08:45.309000
 ja	ja	ADV	-	0:08:41.459000	0:08:45.309000
 jetzt	jetzt	ADV	-	0:08:41.459000	0:08:45.309000
@@ -2495,14 +2495,14 @@ NAME	NAME	ADJ	-	0:08:46.439000	0:08:49.139000
 NAME	NAME	PROPN	-	0:08:46.439000	0:08:49.139000
 ,	-	-	-	0:08:46.439000	0:08:49.139000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:49.139000" end="0:08:52.474000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:49.139000" end="0:08:52.474000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:08:49.139000	0:08:52.474000
 .	-	-	-	0:08:49.139000	0:08:52.474000
 <pause duration="2,4s"/>
 die/	-	-	-	0:08:49.139000	0:08:52.474000
 .	-	-	-	0:08:49.139000	0:08:52.474000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:52.474000" end="0:08:58.914000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:52.474000" end="0:08:58.914000" project="PP03" age_lower="18" age_upper="35">
 NAME	NAME	PROPN	-	0:08:52.474000	0:08:56.914000
 <pause duration="1,0s"/>
 NAME	NAME	PROPN	-	0:08:52.474000	0:08:56.914000
@@ -2523,7 +2523,7 @@ dabei	dabei	ADP	-	0:08:56.914000	0:08:58.914000
 .	-	-	-	0:08:56.914000	0:08:58.914000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:58.914000" end="0:09:01.934000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:58.914000" end="0:09:01.934000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	VERB	-	0:08:58.914000	0:09:01.934000
 <pause duration="1,3s"/>
 ähm	ähm	PROPN	-	0:08:58.914000	0:09:01.934000
@@ -2535,12 +2535,12 @@ aufgehört	aufhören	VERB	-	0:08:58.914000	0:09:01.934000
 gell	gell	ADJ	-	0:08:58.914000	0:09:01.934000
 ?	-	-	-	0:08:58.914000	0:09:01.934000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:01.934000" end="0:09:05.789000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:01.934000" end="0:09:05.789000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:01.934000	0:09:05.789000
 .	-	-	-	0:09:01.934000	0:09:05.789000
 <pause duration="3,6s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:05.789000" end="0:09:10.159000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:05.789000" end="0:09:10.159000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:09:05.789000	0:09:08.074000
 gut	gut	ADJ	-	0:09:05.789000	0:09:08.074000
 ,	-	-	-	0:09:05.789000	0:09:08.074000
@@ -2568,7 +2568,7 @@ aufhörst/	-	-	-	0:09:08.074000	0:09:10.159000
 .	-	-	-	0:09:08.074000	0:09:10.159000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:10.159000" end="0:09:23.384000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:10.159000" end="0:09:23.384000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:09:10.159000	0:09:11.019000
 das	der	PRON	-	0:09:10.159000	0:09:11.019000
 ist	sein	AUX	-	0:09:10.159000	0:09:11.019000
@@ -2623,11 +2623,11 @@ die	der	DET	-	0:09:20.924000	0:09:23.384000
 Marschproben	Marschproben	NOUN	-	0:09:20.924000	0:09:23.384000
 ,	-	-	-	0:09:20.924000	0:09:23.384000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:23.384000" end="0:09:23.914000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:23.384000" end="0:09:23.914000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:23.384000	0:09:23.914000
 .	-	-	-	0:09:23.384000	0:09:23.914000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:23.914000" end="0:09:34.729000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:23.914000" end="0:09:34.729000" project="PP03" age_lower="18" age_upper="35">
 du	du	PRON	-	0:09:23.914000	0:09:25.914000
 hast	haben	AUX	-	0:09:23.914000	0:09:25.914000
 so	so	ADV	-	0:09:23.914000	0:09:25.914000
@@ -2676,7 +2676,7 @@ wieder	wieder	ADV	-	0:09:31.964000	0:09:34.729000
 anfange	anfange	VERB	-	0:09:31.964000	0:09:34.729000
 .	-	-	-	0:09:31.964000	0:09:34.729000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:34.729000" end="0:09:36.574000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:34.729000" end="0:09:36.574000" project="PP03" age_lower="18" age_upper="35">
 wieso	-	-	-	0:09:34.729000	0:09:36.574000
 *hast*	-	-	-	0:09:34.729000	0:09:36.574000
 eigentlich	-	-	-	0:09:34.729000	0:09:36.574000
@@ -2684,7 +2684,7 @@ aufgehört	-	-	-	0:09:34.729000	0:09:36.574000
 dann	-	-	-	0:09:34.729000	0:09:36.574000
 ?	-	-	-	0:09:34.729000	0:09:36.574000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:36.574000" end="0:09:41.169000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:36.574000" end="0:09:41.169000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	eigentlich	ADV	-	0:09:36.574000	0:09:38.864000
 wegen	wegen	ADP	-	0:09:36.574000	0:09:38.864000
 der	der	DET	-	0:09:36.574000	0:09:38.864000
@@ -2703,12 +2703,12 @@ hat	-	-	-	0:09:38.864000	0:09:41.169000
 .	-	-	-	0:09:38.864000	0:09:41.169000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:41.169000" end="0:09:42.789000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:41.169000" end="0:09:42.789000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:09:41.169000	0:09:42.789000
 okay	okay	VERB	-	0:09:41.169000	0:09:42.789000
 !	-	-	-	0:09:41.169000	0:09:42.789000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:42.789000" end="0:09:44.474000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:42.789000" end="0:09:44.474000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:09:42.789000	0:09:44.474000
 haben	haben	AUX	-	0:09:42.789000	0:09:44.474000
 wir	ich	PRON	-	0:09:42.789000	0:09:44.474000
@@ -2720,7 +2720,7 @@ geredet	reden	VERB	-	0:09:42.789000	0:09:44.474000
 auch	auch	ADV	-	0:09:42.789000	0:09:44.474000
 .	-	-	-	0:09:42.789000	0:09:44.474000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:44.474000" end="0:09:47.069000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:44.474000" end="0:09:47.069000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:44.474000	0:09:45.449000
 ,	-	-	-	0:09:44.474000	0:09:45.449000
 das	-	-	-	0:09:44.474000	0:09:45.449000
@@ -2739,7 +2739,7 @@ müssen	müssen	VERB	-	0:09:45.449000	0:09:47.069000
 hast	haben	AUX	-	0:09:45.449000	0:09:47.069000
 .	-	-	-	0:09:45.449000	0:09:47.069000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:47.069000" end="0:09:59.019000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:47.069000" end="0:09:59.019000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:47.069000	0:09:48.994000
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:09:47.069000	0:09:48.994000
@@ -2796,11 +2796,11 @@ gesagt	-	-	-	0:09:57.309000	0:09:59.019000
 "nein	-	-	-	0:09:57.309000	0:09:59.019000
 ,	-	-	-	0:09:57.309000	0:09:59.019000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:59.019000" end="0:09:59.365000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:59.019000" end="0:09:59.365000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:59.019000	0:09:59.365000
 .	-	-	-	0:09:59.019000	0:09:59.365000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:59.365000" end="0:10:07.412000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:59.365000" end="0:10:07.412000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:09:59.365000	0:10:00.185000
 tue	tun	VERB	-	0:09:59.365000	0:10:00.185000
 ich	ich	PRON	-	0:09:59.365000	0:10:00.185000
@@ -2838,11 +2838,11 @@ NAME	NAME	NOUN	-	0:10:04.139000	0:10:07.412000
 aufgehört	aufhören	VERB	-	0:10:04.139000	0:10:07.412000
 habe	habe	AUX	-	0:10:04.139000	0:10:07.412000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:07.412000" end="0:10:07.932000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:07.412000" end="0:10:07.932000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:10:07.412000	0:10:07.932000
 .	-	-	-	0:10:07.412000	0:10:07.932000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:07.932000" end="0:10:15.699000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:07.932000" end="0:10:15.699000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:10:07.932000	0:10:08.865000
 dann	dann	ADV	-	0:10:07.932000	0:10:08.865000
 ein	einen	DET	-	0:10:07.932000	0:10:08.865000
@@ -2886,11 +2886,11 @@ Art	Art	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irreleva
 gehabt	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:10:13.972000	0:10:15.699000
 ,	-	-	-	0:10:13.972000	0:10:15.699000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:15.699000" end="0:10:16.585000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:15.699000" end="0:10:16.585000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:10:15.699000	0:10:16.585000
 .	-	-	-	0:10:15.699000	0:10:16.585000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:15.699000" end="0:10:21.979000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:15.699000" end="0:10:21.979000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:10:15.699000	0:10:16.585000
 das	der	PRON	-	0:10:15.699000	0:10:16.585000
 hat	haben	AUX	-	0:10:15.699000	0:10:16.585000
@@ -2916,7 +2916,7 @@ Grund	Grund	NOUN	-	0:10:20.672000	0:10:21.979000
 auf	auf	ADP	-	0:10:20.672000	0:10:21.979000
 .	-	-	-	0:10:20.672000	0:10:21.979000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:21.979000" end="0:10:24.632000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:21.979000" end="0:10:24.632000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:10:21.979000	0:10:24.632000
 ,	-	-	-	0:10:21.979000	0:10:24.632000
 *verstehst*	-	-	-	0:10:21.979000	0:10:24.632000
@@ -2929,7 +2929,7 @@ NAME	NAME	-	-	0:10:21.979000	0:10:24.632000
 oder/	-	-	-	0:10:21.979000	0:10:24.632000
 .	-	-	-	0:10:21.979000	0:10:24.632000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:24.632000" end="0:10:27.405000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:24.632000" end="0:10:27.405000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:10:24.632000	0:10:25.879000
 wir	ich	PRON	-	0:10:24.632000	0:10:25.879000
 reden	reden	VERB	-	0:10:24.632000	0:10:25.879000
@@ -2945,11 +2945,11 @@ eigentlich	eigentlich	ADV	-	0:10:25.879000	0:10:27.405000
 nie	nie	ADV	-	0:10:25.879000	0:10:27.405000
 .	-	-	-	0:10:25.879000	0:10:27.405000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:27.405000" end="0:10:27.972000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:27.405000" end="0:10:27.972000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:10:27.405000	0:10:27.972000
 .	-	-	-	0:10:27.405000	0:10:27.972000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:27.972000" end="0:10:31.505000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:27.972000" end="0:10:31.505000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:10:27.972000	0:10:30.825000
 ,	-	-	-	0:10:27.972000	0:10:30.825000
 <pause duration="0,9s"/>
@@ -2962,7 +2962,7 @@ soll	soll	VERB	-	0:10:30.825000	0:10:31.505000
 es	ich	PRON	-	0:10:30.825000	0:10:31.505000
 ?	-	-	-	0:10:30.825000	0:10:31.505000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:31.505000" end="0:10:34.285000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:31.505000" end="0:10:34.285000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:10:31.505000	0:10:32.019000
 ihr	mein	PRON	-	0:10:32.019000	0:10:34.285000
 habt	haben	AUX	-	0:10:32.019000	0:10:34.285000
@@ -2975,18 +2975,18 @@ seid	sein	AUX	-	0:10:32.019000	0:10:34.285000
 unabhängig	unabhängig	ADJ	-	0:10:32.019000	0:10:34.285000
 .	-	-	-	0:10:32.019000	0:10:34.285000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:34.285000" end="0:10:35.372000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:34.285000" end="0:10:35.372000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:10:34.285000	0:10:35.372000
 das	der	PRON	-	0:10:34.285000	0:10:35.372000
 ist	sein	AUX	-	0:10:34.285000	0:10:35.372000
 eh/	-	-	-	0:10:34.285000	0:10:35.372000
 .	-	-	-	0:10:34.285000	0:10:35.372000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:35.372000" end="0:10:36.432000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:35.372000" end="0:10:36.432000" project="PP03" age_lower="18" age_upper="35">
 sowieso	sowieso	ADV	-	0:10:35.372000	0:10:36.432000
 !	-	-	-	0:10:35.372000	0:10:36.432000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:35.372000" end="0:10:38.032000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:35.372000" end="0:10:38.032000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:10:35.372000	0:10:36.432000
 der	der	DET	-	0:10:35.372000	0:10:36.432000
 NAME	NAME	NOUN	-	0:10:35.372000	0:10:36.432000
@@ -2999,13 +2999,13 @@ hinein	hinein	ADP	-	0:10:36.432000	0:10:38.032000
 gekommen	kommen	VERB	-	0:10:36.432000	0:10:38.032000
 .	-	-	-	0:10:36.432000	0:10:38.032000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:38.032000" end="0:10:39.959000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:38.032000" end="0:10:39.959000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:10:38.032000	0:10:39.959000
 ja	ja	PART	-	0:10:38.032000	0:10:39.959000
 .	-	-	-	0:10:38.032000	0:10:39.959000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:39.959000" end="0:10:52.878000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:39.959000" end="0:10:52.878000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:10:39.959000	0:10:40.952000
 war	sein	AUX	-	0:10:39.959000	0:10:40.952000
 echt	echt	ADJ	-	0:10:39.959000	0:10:40.952000
@@ -3058,7 +3058,7 @@ NAME	NAME	PROPN	-	0:10:49.152000	0:10:52.878000
 halt	halt	VERB	-	0:10:49.152000	0:10:52.878000
 .	-	-	-	0:10:49.152000	0:10:52.878000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:52.878000" end="0:10:56.698000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:52.878000" end="0:10:56.698000" project="PP03" age_lower="18" age_upper="35">
 wohnt	wohnen	VERB	-	0:10:54.192000	0:10:55.398000
 jetzt	jetzt	ADV	-	0:10:54.192000	0:10:55.398000
 er	ich	PRON	-	0:10:54.192000	0:10:55.398000
@@ -3071,18 +3071,18 @@ wohnt	wohnen	VERB	-	0:10:55.398000	0:10:56.698000
 da	da	ADP	-	0:10:55.398000	0:10:56.698000
 .	-	-	-	0:10:55.398000	0:10:56.698000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:55.398000" end="0:10:56.698000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:55.398000" end="0:10:56.698000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:10:55.398000	0:10:56.698000
 mit	mit	ADP	-	0:10:55.398000	0:10:56.698000
 der	der	DET	-	0:10:55.398000	0:10:56.698000
 NAME	NAME	NOUN	-	0:10:55.398000	0:10:56.698000
 .	-	-	-	0:10:55.398000	0:10:56.698000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:56.698000" end="0:10:57.372000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:56.698000" end="0:10:57.372000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:10:56.698000	0:10:57.372000
 .	-	-	-	0:10:56.698000	0:10:57.372000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:56.698000" end="0:10:58.692000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:56.698000" end="0:10:58.692000" project="PP03" age_lower="18" age_upper="35">
 schöne	schöne	NOUN	-	0:10:56.698000	0:10:57.372000
 voll	voll	ADP	-	0:10:57.372000	0:10:58.692000
 liebe	lieb	ADJ	-	0:10:57.372000	0:10:58.692000
@@ -3091,19 +3091,19 @@ Wohnung	Wohnung	NOUN	-	0:10:57.372000	0:10:58.692000
 eingerichtet	einrichten	VERB	-	0:10:57.372000	0:10:58.692000
 .	-	-	-	0:10:57.372000	0:10:58.692000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:58.692000" end="0:10:59.198000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:58.692000" end="0:10:59.198000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:10:58.692000	0:10:59.198000
 ?	-	-	-	0:10:58.692000	0:10:59.198000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:59.198000" end="0:10:59.598000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:59.198000" end="0:10:59.598000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:10:59.198000	0:10:59.598000
 .	-	-	-	0:10:59.198000	0:10:59.598000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:59.598000" end="0:11:00.258000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:59.598000" end="0:11:00.258000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:10:59.598000	0:11:00.258000
 !	-	-	-	0:10:59.598000	0:11:00.258000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:59.598000" end="0:11:02.258000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:59.598000" end="0:11:02.258000" project="PP03" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:10:59.598000	0:11:00.258000
 sie	ich	PRON	-	0:10:59.598000	0:11:00.258000
 neue	neue	ADJ	-	0:11:00.258000	0:11:02.258000
@@ -3114,12 +3114,12 @@ schöne	schöne	ADJ	-	0:11:00.258000	0:11:02.258000
 Küche	Küche	NOUN	-	0:11:00.258000	0:11:02.258000
 .	-	-	-	0:11:00.258000	0:11:02.258000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:02.258000" end="0:11:03.312000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:02.258000" end="0:11:03.312000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:11:02.258000	0:11:03.312000
 .	-	-	-	0:11:02.258000	0:11:03.312000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:03.312000" end="0:11:13.292000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:03.312000" end="0:11:13.292000" project="PP03" age_lower="18" age_upper="35">
 die	der	PRON	-	0:11:03.312000	0:11:08.298000
 haben	haben	AUX	-	0:11:03.312000	0:11:08.298000
 eh	eh	ADV	-	0:11:03.312000	0:11:08.298000
@@ -3148,11 +3148,11 @@ aufstemmen	-	-	-	0:11:11.398000	0:11:13.292000
 gell	gell	ADJ	-	0:11:11.398000	0:11:13.292000
 ?	-	-	-	0:11:11.398000	0:11:13.292000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:13.292000" end="0:11:13.665000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:13.292000" end="0:11:13.665000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:11:13.292000	0:11:13.665000
 .	-	-	-	0:11:13.292000	0:11:13.665000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:13.292000" end="0:11:17.145000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:13.292000" end="0:11:17.145000" project="PP03" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:11:13.292000	0:11:13.665000
 den	der	DET	-	0:11:13.292000	0:11:13.665000
 Anschlüssen	Anschluß	NOUN	-	0:11:13.665000	0:11:17.145000
@@ -3161,13 +3161,13 @@ so	so	ADV	-	0:11:13.665000	0:11:17.145000
 .	-	-	-	0:11:13.665000	0:11:17.145000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:17.145000" end="0:11:19.398000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:17.145000" end="0:11:19.398000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:11:17.145000	0:11:19.398000
 cool	cool	PROPN	-	0:11:17.145000	0:11:19.398000
 !	-	-	-	0:11:17.145000	0:11:19.398000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:19.398000" end="0:11:20.998000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:19.398000" end="0:11:20.998000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:11:19.398000	0:11:20.998000
 hat	haben	AUX	-	0:11:19.398000	0:11:20.998000
 sich	sich	PRON	-	0:11:19.398000	0:11:20.998000
@@ -3178,7 +3178,7 @@ getan	tun	VERB	-	0:11:19.398000	0:11:20.998000
 ja	ja	PART	-	0:11:19.398000	0:11:20.998000
 .	-	-	-	0:11:19.398000	0:11:20.998000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:20.998000" end="0:11:27.725000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:20.998000" end="0:11:27.725000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:11:20.998000	0:11:23.472000
 .	-	-	-	0:11:20.998000	0:11:23.472000
 <pause duration="1,9s"/>
@@ -3197,17 +3197,17 @@ du	du	PRON	-	0:11:26.712000	0:11:27.725000
 beim	beim	ADP	-	0:11:26.712000	0:11:27.725000
 Tennis=	Tennisverein	NOUN	-	0:11:26.712000	0:11:27.725000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:26.712000" end="0:11:27.725000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:26.712000" end="0:11:27.725000" project="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:11:26.712000	0:11:27.725000
 der/	-	-	-	0:11:26.712000	0:11:27.725000
 .	-	-	-	0:11:26.712000	0:11:27.725000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:27.725000" end="0:11:28.958000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:27.725000" end="0:11:28.958000" project="PP03" age_lower="18" age_upper="35">
 verein	-	SPACE	-	0:11:27.725000	0:11:28.958000
 dabei	dabei	ADV	-	0:11:27.725000	0:11:28.958000
 ?	-	-	-	0:11:27.725000	0:11:28.958000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:28.958000" end="0:11:38.818000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:28.958000" end="0:11:38.818000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:11:28.958000	0:11:30.678000
 habe	habe	AUX	-	0:11:28.958000	0:11:30.678000
 dazumal/	-	-	-	0:11:28.958000	0:11:30.678000
@@ -3250,11 +3250,11 @@ da	da	ADV	-	0:11:36.818000	0:11:38.818000
 dabei	dabei	ADV	-	0:11:36.818000	0:11:38.818000
 .	-	-	-	0:11:36.818000	0:11:38.818000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:38.818000" end="0:11:39.532000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:38.818000" end="0:11:39.532000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:11:38.818000	0:11:39.532000
 .	-	-	-	0:11:38.818000	0:11:39.532000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:38.818000" end="0:11:44.858000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:38.818000" end="0:11:44.858000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:11:38.818000	0:11:39.532000
 haben	haben	AUX	-	0:11:38.818000	0:11:39.532000
 wir	ich	PRON	-	0:11:38.818000	0:11:39.532000
@@ -3289,13 +3289,13 @@ oder	oder	CCONJ	-	0:11:42.405000	0:11:44.858000
 so	so	ADV	-	0:11:42.405000	0:11:44.858000
 werben	werben	VERB	-	0:11:42.405000	0:11:44.858000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:44.858000" end="0:11:46.065000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:44.858000" end="0:11:46.065000" project="PP03" age_lower="18" age_upper="35">
 kann	können	VERB	-	0:11:44.858000	0:11:46.065000
 e(cht)	echt	ADJ	-	0:11:44.858000	0:11:46.065000
 sein	mein	AUX	-	0:11:44.858000	0:11:46.065000
 .	-	-	-	0:11:44.858000	0:11:46.065000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:44.858000" end="0:11:46.065000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:44.858000" end="0:11:46.065000" project="PP03" age_lower="18" age_upper="35">
 machen	machen	VERB	-	0:11:44.858000	0:11:46.065000
 die	der	DET	-	0:11:44.858000	0:11:46.065000
 das	der	PRON	-	0:11:44.858000	0:11:46.065000
@@ -3303,13 +3303,13 @@ auch	auch	ADV	-	0:11:44.858000	0:11:46.065000
 gemacht	machen	VERB	-	0:11:44.858000	0:11:46.065000
 ?	-	-	-	0:11:44.858000	0:11:46.065000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:46.065000" end="0:11:47.072000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:46.065000" end="0:11:47.072000" project="PP03" age_lower="18" age_upper="35">
 kann	können	VERB	-	0:11:46.065000	0:11:47.072000
 leicht	leicht	ADJ	-	0:11:46.065000	0:11:47.072000
 sein	mein	AUX	-	0:11:46.065000	0:11:47.072000
 .	-	-	-	0:11:46.065000	0:11:47.072000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:47.072000" end="0:11:50.238000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:47.072000" end="0:11:50.238000" project="PP03" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:11:47.072000	0:11:48.058000
 jeden	jed	DET	-	0:11:47.072000	0:11:48.058000
 Fall	Fall	NOUN	-	0:11:47.072000	0:11:48.058000
@@ -3331,12 +3331,12 @@ das	der	PRON	-	0:11:49.172000	0:11:50.238000
 gespielt	spielen	VERB	-	0:11:49.172000	0:11:50.238000
 .	-	-	-	0:11:49.172000	0:11:50.238000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:50.238000" end="0:11:51.272000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:50.238000" end="0:11:51.272000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:11:50.238000	0:11:51.272000
 .	-	-	-	0:11:50.238000	0:11:51.272000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:51.272000" end="0:12:09.078000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:51.272000" end="0:12:09.078000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:11:51.272000	0:11:59.112000
 dann	dann	ADV	-	0:11:51.272000	0:11:59.112000
 in	in	ADP	-	0:11:51.272000	0:11:59.112000
@@ -3387,11 +3387,11 @@ dann	dann	ADV	-	0:12:07.078000	0:12:09.078000
 aufgehört	aufhören	VERB	-	0:12:07.078000	0:12:09.078000
 ,	-	-	-	0:12:07.078000	0:12:09.078000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:09.078000" end="0:12:09.585000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:09.078000" end="0:12:09.585000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:12:09.078000	0:12:09.585000
 .	-	-	-	0:12:09.078000	0:12:09.585000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:09.078000" end="0:12:12.758000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:09.078000" end="0:12:12.758000" project="PP03" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:12:09.078000	0:12:09.585000
 ,	-	-	-	0:12:09.078000	0:12:09.585000
 ja	ja	PART	-	0:12:09.078000	0:12:09.585000
@@ -3407,36 +3407,36 @@ recht	recht	ADJ	-	0:12:09.585000	0:12:12.758000
 getaugt	taugen	VERB	-	0:12:09.585000	0:12:12.758000
 ,	-	-	-	0:12:09.585000	0:12:12.758000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:12.758000" end="0:12:13.738000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:12.758000" end="0:12:13.738000" project="PP03" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:12:12.758000	0:12:13.738000
 schon	schon	ADV	-	0:12:12.758000	0:12:13.738000
 ein	einen	DET	-	0:12:12.758000	0:12:13.738000
 cooler	cool	ADJ	-	0:12:12.758000	0:12:13.738000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:12.758000" end="0:12:13.738000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:12.758000" end="0:12:13.738000" project="PP03" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:12:12.758000	0:12:13.738000
 eigentlich	eigentlich	ADV	-	0:12:12.758000	0:12:13.738000
 recht	recht	ADV	-	0:12:12.758000	0:12:13.738000
 cool	cool	PROPN	-	0:12:12.758000	0:12:13.738000
 .	-	-	-	0:12:12.758000	0:12:13.738000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:13.738000" end="0:12:14.758000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:13.738000" end="0:12:14.758000" project="PP03" age_lower="18" age_upper="35">
 Sport	Sport	NOUN	-	0:12:13.738000	0:12:14.758000
 auch	auch	ADV	-	0:12:13.738000	0:12:14.758000
 eigentlich	eigentlich	ADV	-	0:12:13.738000	0:12:14.758000
 .	-	-	-	0:12:13.738000	0:12:14.758000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:14.758000" end="0:12:15.992000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:14.758000" end="0:12:15.992000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:14.758000	0:12:15.992000
 .	-	-	-	0:12:14.758000	0:12:15.992000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:15.992000" end="0:12:18.185000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:15.992000" end="0:12:18.185000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:12:15.992000	0:12:18.185000
 .	-	-	-	0:12:15.992000	0:12:18.185000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:18.185000" end="0:12:20.245000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:18.185000" end="0:12:20.245000" project="PP03" age_lower="18" age_upper="35">
 (wo)	wo	ADV	-	0:12:18.185000	0:12:20.245000
 warst	sein	AUX	-	0:12:18.185000	0:12:20.245000
 du	du	PRON	-	0:12:18.185000	0:12:20.245000
@@ -3445,7 +3445,7 @@ dabei	dabei	ADV	-	0:12:18.185000	0:12:20.245000
 ?	-	-	-	0:12:18.185000	0:12:20.245000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:20.245000" end="0:12:26.752000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:20.245000" end="0:12:26.752000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:12:20.245000	0:12:21.785000
 war	sein	AUX	-	0:12:20.245000	0:12:21.785000
 immer	immer	ADV	-	0:12:20.245000	0:12:21.785000
@@ -3480,11 +3480,11 @@ war	sein	AUX	-	0:12:23.812000	0:12:25.972000
 auch	auch	ADV	-	0:12:25.972000	0:12:26.752000
 kurz	kurz	ADJ	-	0:12:25.972000	0:12:26.752000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:25.972000" end="0:12:26.752000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:25.972000" end="0:12:26.752000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:12:25.972000	0:12:26.752000
 !	-	-	-	0:12:25.972000	0:12:26.752000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:26.752000" end="0:12:43.118000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:26.752000" end="0:12:43.118000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:12:26.752000	0:12:30.212000
 das	der	PRON	-	0:12:26.752000	0:12:30.212000
@@ -3567,11 +3567,11 @@ irgendwie	irgendwie	ADV	-	0:12:38.532000	0:12:42.505000
 die	der	PRON	-	0:12:42.505000	0:12:43.118000
 hat	haben	AUX	-	0:12:42.505000	0:12:43.118000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:42.505000" end="0:12:43.118000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:42.505000" end="0:12:43.118000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:12:42.505000	0:12:43.118000
 !	-	-	-	0:12:42.505000	0:12:43.118000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:43.118000" end="0:12:49.192000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:43.118000" end="0:12:49.192000" project="PP03" age_lower="18" age_upper="35">
 ein	einen	DET	-	0:12:43.118000	0:12:44.085000
 wenig	wenig	PRON	-	0:12:43.118000	0:12:44.085000
 gegen	gegen	ADP	-	0:12:43.118000	0:12:44.085000
@@ -3609,11 +3609,11 @@ Tennisspielen	Tennisspielen	NOUN	-	0:12:46.772000	0:12:48.278000
 aufgehört	aufhören	VERB	-	0:12:48.278000	0:12:49.192000
 .	-	-	-	0:12:48.278000	0:12:49.192000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:48.278000" end="0:12:49.192000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:48.278000" end="0:12:49.192000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:12:48.278000	0:12:49.192000
 ?	-	-	-	0:12:48.278000	0:12:49.192000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:49.192000" end="0:12:52.758000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:49.192000" end="0:12:52.758000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	VERB	-	0:12:49.192000	0:12:50.118000
 ich	ich	PRON	-	0:12:49.192000	0:12:50.118000
 weiß	weiß	VERB	-	0:12:49.192000	0:12:50.118000
@@ -3638,11 +3638,11 @@ _wurscht_	-	-	-	0:12:51.205000	0:12:51.958000
 ,	-	-	-	0:12:51.205000	0:12:51.958000
 aber	aber	CCONJ	-	0:12:51.958000	0:12:52.758000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:51.958000" end="0:12:52.758000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:51.958000" end="0:12:52.758000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:51.958000	0:12:52.758000
 .	-	-	-	0:12:51.958000	0:12:52.758000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:52.758000" end="0:13:04.178000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:52.758000" end="0:13:04.178000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:12:52.758000	0:12:54.398000
 ist	sein	AUX	-	0:12:52.758000	0:12:54.398000
 das	der	PRON	-	0:12:52.758000	0:12:54.398000
@@ -3688,7 +3688,7 @@ so	so	ADV	-	0:13:01.765000	0:13:04.178000
 ?	-	-	-	0:13:01.765000	0:13:04.178000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:04.178000" end="0:13:15.025000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:04.178000" end="0:13:15.025000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:13:04.178000	0:13:07.598000
 ist	sein	AUX	-	0:13:04.178000	0:13:07.598000
 eigentlich	eigentlich	ADV	-	0:13:04.178000	0:13:07.598000
@@ -3735,11 +3735,11 @@ Pfarrheim	Pfarrheim	NOUN	-	0:13:13.825000	0:13:15.025000
 gehabt	haben	AUX	-	0:13:13.825000	0:13:15.025000
 ,	-	-	-	0:13:13.825000	0:13:15.025000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:15.025000" end="0:13:15.398000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:15.025000" end="0:13:15.398000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:13:15.025000	0:13:15.398000
 .	-	-	-	0:13:15.025000	0:13:15.398000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:15.398000" end="0:13:20.705000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:15.398000" end="0:13:20.705000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:13:15.398000	0:13:20.705000
 da	da	ADV	-	0:13:15.398000	0:13:20.705000
 war	sein	AUX	-	0:13:15.398000	0:13:20.705000
@@ -3758,12 +3758,12 @@ ORT	ORT	NOUN	-	0:13:15.398000	0:13:20.705000
 ORT	ORT	PROPN	-	0:13:15.398000	0:13:20.705000
 ,	-	-	-	0:13:15.398000	0:13:20.705000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:20.705000" end="0:13:21.745000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:20.705000" end="0:13:21.745000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:13:20.705000	0:13:21.745000
 .	-	-	-	0:13:20.705000	0:13:21.745000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:21.745000" end="0:13:38.872000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:21.745000" end="0:13:38.872000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:13:21.745000	0:13:22.518000
 da	da	ADV	-	0:13:21.745000	0:13:22.518000
 haben	haben	AUX	-	0:13:21.745000	0:13:22.518000
@@ -3837,11 +3837,11 @@ voll	voll	ADJ	-	0:13:37.118000	0:13:38.872000
 schnell	schnellen	ADJ	-	0:13:37.118000	0:13:38.872000
 gegangen	gehen	VERB	-	0:13:37.118000	0:13:38.872000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:38.872000" end="0:13:39.538000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:38.872000" end="0:13:39.538000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:13:38.872000	0:13:39.538000
 .	-	-	-	0:13:38.872000	0:13:39.538000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:39.538000" end="0:13:45.145000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:39.538000" end="0:13:45.145000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:13:39.538000	0:13:41.118000
 nein	nein	PART	-	0:13:39.538000	0:13:41.118000
 ,	-	-	-	0:13:39.538000	0:13:41.118000
@@ -3868,11 +3868,11 @@ ich	ich	PRON	-	0:13:44.392000	0:13:45.145000
 sagen	sagen	VERB	-	0:13:44.392000	0:13:45.145000
 .	-	-	-	0:13:44.392000	0:13:45.145000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:45.145000" end="0:13:45.485000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:45.145000" end="0:13:45.485000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:13:45.145000	0:13:45.485000
 !	-	-	-	0:13:45.145000	0:13:45.485000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:45.485000" end="0:13:46.765000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:45.485000" end="0:13:46.765000" project="PP03" age_lower="18" age_upper="35">
 für	für	ADP	-	0:13:45.485000	0:13:46.765000
 das	der	PRON	-	0:13:45.485000	0:13:46.765000
 ,	-	-	-	0:13:45.485000	0:13:46.765000
@@ -3883,11 +3883,11 @@ daheim	daheim	ADV	-	0:13:45.485000	0:13:46.765000
 waren	sein	AUX	-	0:13:45.485000	0:13:46.765000
 .	-	-	-	0:13:45.485000	0:13:46.765000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:46.765000" end="0:13:47.165000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:46.765000" end="0:13:47.165000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:13:46.765000	0:13:47.165000
 .	-	-	-	0:13:46.765000	0:13:47.165000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:47.165000" end="0:14:06.378000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:47.165000" end="0:14:06.378000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:13:47.165000	0:13:50.738000
 meine	meinen	VERB	-	0:13:47.165000	0:13:50.738000
 sicher	sichern	ADJ	-	0:13:47.165000	0:13:50.738000
@@ -3968,21 +3968,21 @@ dazu	dazu	ADV	-	0:14:04.765000	0:14:06.378000
 gemacht	machen	VERB	-	0:14:04.765000	0:14:06.378000
 .	-	-	-	0:14:04.765000	0:14:06.378000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:06.378000" end="0:14:07.005000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:06.378000" end="0:14:07.005000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:14:06.378000	0:14:07.005000
 .	-	-	-	0:14:06.378000	0:14:07.005000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:07.005000" end="0:14:08.618000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:07.005000" end="0:14:08.618000" project="PP03" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:14:07.005000	0:14:08.618000
 eigentlich	eigentlich	ADV	-	0:14:07.005000	0:14:08.618000
 voll	voll	ADJ	-	0:14:07.005000	0:14:08.618000
 gemütlich	gemütlich	ADJ	-	0:14:07.005000	0:14:08.618000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:08.618000" end="0:14:09.112000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:08.618000" end="0:14:09.112000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:14:08.618000	0:14:09.112000
 !	-	-	-	0:14:08.618000	0:14:09.112000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:08.618000" end="0:14:10.532000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:08.618000" end="0:14:10.532000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:14:08.618000	0:14:09.112000
 dann	dann	ADV	-	0:14:08.618000	0:14:09.112000
 sind	sein	AUX	-	0:14:09.112000	0:14:10.532000
@@ -3994,13 +3994,13 @@ noch	noch	ADV	-	0:14:09.112000	0:14:10.532000
 fortgegangen	fortgegangen	VERB	-	0:14:09.112000	0:14:10.532000
 .	-	-	-	0:14:09.112000	0:14:10.532000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:10.532000" end="0:14:12.345000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:10.532000" end="0:14:12.345000" project="PP03" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:14:10.532000	0:14:12.345000
 (grindig)	grindig	ADJ	-	0:14:10.532000	0:14:12.345000
 oder	oder	CCONJ	-	0:14:10.532000	0:14:12.345000
 .	-	-	-	0:14:10.532000	0:14:12.345000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:12.345000" end="0:14:15.391000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:12.345000" end="0:14:15.391000" project="PP03" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:14:12.345000	0:14:15.391000
 war	sein	AUX	-	0:14:12.345000	0:14:15.391000
 eigentlich	eigentlich	ADV	-	0:14:12.345000	0:14:15.391000
@@ -4014,11 +4014,11 @@ Leute	Leute	NOUN	-	0:14:12.345000	0:14:15.391000
 gesehen	sehen	VERB	-	0:14:12.345000	0:14:15.391000
 ,	-	-	-	0:14:12.345000	0:14:15.391000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:15.391000" end="0:14:16.711000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:15.391000" end="0:14:16.711000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:15.391000	0:14:16.711000
 .	-	-	-	0:14:15.391000	0:14:16.711000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:15.391000" end="0:14:17.625000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:15.391000" end="0:14:17.625000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:14:15.391000	0:14:16.711000
 aber	-	-	-	0:14:15.391000	0:14:16.711000
 an(?)	-	-	-	0:14:15.391000	0:14:16.711000
@@ -4028,7 +4028,7 @@ immer	-	-	-	0:14:16.711000	0:14:17.625000
 halt	-	-	-	0:14:16.711000	0:14:17.625000
 .	-	-	-	0:14:16.711000	0:14:17.625000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:17.625000" end="0:14:36.705000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:17.625000" end="0:14:36.705000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:14:17.625000	0:14:19.725000
 eh	eh	VERB	-	0:14:17.625000	0:14:19.725000
 wir	ich	PRON	-	0:14:17.625000	0:14:19.725000
@@ -4123,7 +4123,7 @@ grindig	grindig	ADJ	-	0:14:35.285000	0:14:36.705000
 ja	ja	PART	-	0:14:35.285000	0:14:36.705000
 .	-	-	-	0:14:35.285000	0:14:36.705000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:35.285000" end="0:14:40.091000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:35.285000" end="0:14:40.091000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:35.285000	0:14:36.705000
 dann	-	-	-	0:14:35.285000	0:14:36.705000
 ist	-	-	-	0:14:35.285000	0:14:36.705000
@@ -4152,11 +4152,11 @@ gar	gar	ADV	-	0:14:38.091000	0:14:40.091000
 nichts	nichts	PRON	-	0:14:38.091000	0:14:40.091000
 los	los	ADJ	-	0:14:38.091000	0:14:40.091000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:40.091000" end="0:14:40.645000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:40.091000" end="0:14:40.645000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:14:40.091000	0:14:40.645000
 .	-	-	-	0:14:40.091000	0:14:40.645000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:40.091000" end="0:14:43.805000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:40.091000" end="0:14:43.805000" project="PP03" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:14:40.091000	0:14:40.645000
 ,	-	-	-	0:14:40.091000	0:14:40.645000
 am	am	ADP	-	0:14:40.091000	0:14:40.645000
@@ -4184,7 +4184,7 @@ so	so	ADV	-	0:14:41.805000	0:14:43.805000
 unterwegs	unterwegs	ADV	-	0:14:41.805000	0:14:43.805000
 .	-	-	-	0:14:41.805000	0:14:43.805000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:43.805000" end="0:14:49.605000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:43.805000" end="0:14:49.605000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:43.805000	0:14:46.391000
 <pause duration="0,8s"/>
 komisch	komisch	ADJ	-	0:14:43.805000	0:14:46.391000
@@ -4210,7 +4210,7 @@ glaube	glauben	VERB	-	0:14:49.065000	0:14:49.605000
 ich	ich	PRON	-	0:14:49.065000	0:14:49.605000
 .	-	-	-	0:14:49.065000	0:14:49.605000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:49.065000" end="0:14:52.645000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:49.065000" end="0:14:52.645000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:14:49.065000	0:14:49.605000
 ,	-	-	-	0:14:49.065000	0:14:49.605000
 aber	aber	CCONJ	-	0:14:49.605000	0:14:52.645000
@@ -4223,14 +4223,14 @@ abwechselnd	abwechseln	ADJ	-	0:14:49.605000	0:14:52.645000
 mit	mit	ADP	-	0:14:49.605000	0:14:52.645000
 Ennsbach	Ennsbach	NOUN	-	0:14:49.605000	0:14:52.645000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:52.645000" end="0:14:53.358000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:52.645000" end="0:14:53.358000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:14:52.645000	0:14:53.358000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:52.645000" end="0:14:53.358000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:52.645000" end="0:14:53.358000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:14:52.645000	0:14:53.358000
 ?	-	-	-	0:14:52.645000	0:14:53.358000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:53.358000" end="0:15:05.818000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:53.358000" end="0:15:05.818000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:14:53.358000	0:14:54.725000
 früher	früh	ADJ	-	0:14:53.358000	0:14:54.725000
 haben	haben	AUX	-	0:14:53.358000	0:14:54.725000
@@ -4284,11 +4284,11 @@ dann	dann	ADV	-	0:15:03.978000	0:15:05.818000
 gecheckt	checken	VERB	-	0:15:03.978000	0:15:05.818000
 ,	-	-	-	0:15:03.978000	0:15:05.818000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:05.818000" end="0:15:07.071000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:05.818000" end="0:15:07.071000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:15:05.818000	0:15:07.071000
 .	-	-	-	0:15:05.818000	0:15:07.071000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:07.071000" end="0:15:09.078000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:07.071000" end="0:15:09.078000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:15:07.071000	0:15:09.078000
 es	ich	PRON	-	0:15:07.071000	0:15:09.078000
 dann	dann	ADV	-	0:15:07.071000	0:15:09.078000
@@ -4297,7 +4297,7 @@ gemacht	machen	VERB	-	0:15:07.071000	0:15:09.078000
 .	-	-	-	0:15:07.071000	0:15:09.078000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:09.078000" end="0:15:15.958000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:09.078000" end="0:15:15.958000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:15:09.078000	0:15:09.651000
 stimmt	stimmen	VERB	-	0:15:09.078000	0:15:09.651000
 eh	eh	ADV	-	0:15:09.078000	0:15:09.651000
@@ -4331,11 +4331,11 @@ Ausgaben	Ausgabe	NOUN	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Pso
 hast	haben	AUX	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:15:14.685000	0:15:15.958000
 ,	-	-	-	0:15:14.685000	0:15:15.958000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:15.958000" end="0:15:16.425000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:15.958000" end="0:15:16.425000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:15:15.958000	0:15:16.425000
 !	-	-	-	0:15:15.958000	0:15:16.425000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:16.425000" end="0:15:18.751000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:16.425000" end="0:15:18.751000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:15:16.425000	0:15:17.591000
 wenn	wenn	SCONJ	-	0:15:16.425000	0:15:17.591000
 zu	zu	PART	-	0:15:16.425000	0:15:17.591000
@@ -4350,7 +4350,7 @@ nicht	-	-	-	0:15:17.591000	0:15:18.751000
 herein	-	-	-	0:15:17.591000	0:15:18.751000
 .	-	-	-	0:15:17.591000	0:15:18.751000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:18.751000" end="0:15:24.991000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:18.751000" end="0:15:24.991000" project="PP03" age_lower="18" age_upper="35">
 obwohl	obwohl	SCONJ	-	0:15:18.751000	0:15:19.818000
 sie	ich	PRON	-	0:15:18.751000	0:15:19.818000
 gesagt	sagen	VERB	-	0:15:18.751000	0:15:19.818000
@@ -4385,11 +4385,11 @@ gehabt	-	-	-	0:15:22.991000	0:15:24.991000
 haben	-	-	-	0:15:22.991000	0:15:24.991000
 .	-	-	-	0:15:22.991000	0:15:24.991000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:24.991000" end="0:15:25.758000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:24.991000" end="0:15:25.758000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:15:24.991000	0:15:25.758000
 ?	-	-	-	0:15:24.991000	0:15:25.758000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:25.758000" end="0:15:33.778000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:25.758000" end="0:15:33.778000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:15:25.758000	0:15:26.558000
 dürften	dürfen	VERB	-	0:15:25.758000	0:15:26.558000
 die	der	PRON	-	0:15:25.758000	0:15:26.558000
@@ -4438,14 +4438,14 @@ gehabt	haben	AUX	-	0:15:31.245000	0:15:33.778000
 haben	haben	AUX	-	0:15:31.245000	0:15:33.778000
 .	-	-	-	0:15:31.245000	0:15:33.778000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:33.778000" end="0:15:34.831000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:33.778000" end="0:15:34.831000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:15:33.778000	0:15:34.831000
 ,	-	-	-	0:15:33.778000	0:15:34.831000
 das	der	PRON	-	0:15:33.778000	0:15:34.831000
 geht	gehen	VERB	-	0:15:33.778000	0:15:34.831000
 .	-	-	-	0:15:33.778000	0:15:34.831000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:34.831000" end="0:15:41.371000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:34.831000" end="0:15:41.371000" project="PP03" age_lower="18" age_upper="35">
 keine	kein	DET	-	0:15:34.831000	0:15:37.598000
 Ahnung	Ahnung	NOUN	-	0:15:34.831000	0:15:37.598000
 ,	-	-	-	0:15:34.831000	0:15:37.598000
@@ -4470,21 +4470,21 @@ meines	mein	AUX	-	0:15:37.598000	0:15:41.371000
 .	-	-	-	0:15:37.598000	0:15:41.371000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:41.371000" end="0:15:43.358000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:41.371000" end="0:15:43.358000" project="PP03" age_lower="18" age_upper="35">
 *bist*	-	-	-	0:15:41.371000	0:15:43.358000
 das	-	-	-	0:15:41.371000	0:15:43.358000
 Wochenende	-	-	-	0:15:41.371000	0:15:43.358000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:43.358000" end="0:15:44.625000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:43.358000" end="0:15:44.625000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:15:43.358000	0:15:44.625000
 mal	mal	ADV	-	0:15:43.358000	0:15:44.625000
 schauen	schauen	VERB	-	0:15:43.358000	0:15:44.625000
 .	-	-	-	0:15:43.358000	0:15:44.625000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:43.358000" end="0:15:44.625000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:43.358000" end="0:15:44.625000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:44.625000" end="0:15:47.751000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:44.625000" end="0:15:47.751000" project="PP03" age_lower="18" age_upper="35">
 je	je	ADV	-	0:15:44.625000	0:15:45.838000
 nachdem	nachdem	ADV	-	0:15:44.625000	0:15:45.838000
 ,	-	-	-	0:15:44.625000	0:15:45.838000
@@ -4503,7 +4503,7 @@ grundsätzlich	grundsätzlich	ADJ	-	0:15:46.471000	0:15:47.751000
 vielleicht	vielleicht	ADV	-	0:15:46.471000	0:15:47.751000
 .	-	-	-	0:15:46.471000	0:15:47.751000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:47.751000" end="0:15:49.591000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:47.751000" end="0:15:49.591000" project="PP03" age_lower="18" age_upper="35">
 Zweiballsoccer	-	-	-	0:15:47.751000	0:15:48.998000
 haben	-	-	-	0:15:47.751000	0:15:48.998000
 sie	-	-	-	0:15:47.751000	0:15:48.998000
@@ -4515,7 +4515,7 @@ schon	-	-	-	0:15:48.998000	0:15:49.591000
 gehört	-	-	-	0:15:48.998000	0:15:49.591000
 ?	-	-	-	0:15:48.998000	0:15:49.591000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:49.591000" end="0:15:52.471000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:49.591000" end="0:15:52.471000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:15:49.591000	0:15:51.491000
 habe	habe	AUX	-	0:15:49.591000	0:15:51.491000
 ich	ich	PRON	-	0:15:49.591000	0:15:51.491000
@@ -4528,7 +4528,7 @@ quasi	quasi	ADV	-	0:15:51.491000	0:15:52.471000
 .	-	-	-	0:15:51.491000	0:15:52.471000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:52.471000" end="0:16:02.811000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:52.471000" end="0:16:02.811000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:15:52.471000	0:15:55.478000
 ich	ich	PRON	-	0:15:52.471000	0:15:55.478000
 glaube	glauben	VERB	-	0:15:52.471000	0:15:55.478000
@@ -4566,11 +4566,11 @@ hat	-	-	-	0:16:00.431000	0:16:02.811000
 Blindenmarkt	-	-	-	0:16:00.431000	0:16:02.811000
 gehabt	-	-	-	0:16:00.431000	0:16:02.811000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:02.811000" end="0:16:03.785000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:02.811000" end="0:16:03.785000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:16:02.811000	0:16:03.785000
 .	-	-	-	0:16:02.811000	0:16:03.785000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:02.811000" end="0:16:07.811000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:02.811000" end="0:16:07.811000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:16:02.811000	0:16:03.785000
 *weißt*	-	-	-	0:16:02.811000	0:16:03.785000
 eh	-	-	-	0:16:02.811000	0:16:03.785000
@@ -4594,11 +4594,11 @@ Jahr	Jahr	NOUN	-	0:16:05.325000	0:16:07.811000
 war	sein	AUX	-	0:16:05.325000	0:16:07.811000
 ,	-	-	-	0:16:05.325000	0:16:07.811000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:07.811000" end="0:16:08.198000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:07.811000" end="0:16:08.198000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:07.811000	0:16:08.198000
 .	-	-	-	0:16:07.811000	0:16:08.198000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:07.811000" end="0:16:15.778000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:07.811000" end="0:16:15.778000" project="PP03" age_lower="18" age_upper="35">
 das	der	DET	-	0:16:07.811000	0:16:08.198000
 vielleicht	vielleicht	ADV	-	0:16:08.198000	0:16:09.431000
 noch	noch	ADV	-	0:16:08.198000	0:16:09.431000
@@ -4635,7 +4635,7 @@ blöd	-	-	-	0:16:14.605000	0:16:15.778000
 na	na	X	-	0:16:14.605000	0:16:15.778000
 ?	-	-	-	0:16:14.605000	0:16:15.778000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:15.778000" end="0:16:23.625000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:15.778000" end="0:16:23.625000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:15.778000	0:16:17.045000
 und	und	CCONJ	-	0:16:15.778000	0:16:17.045000
 es	ich	PRON	-	0:16:15.778000	0:16:17.045000
@@ -4684,11 +4684,11 @@ auch	auch	ADV	-	0:16:20.751000	0:16:23.031000
 und	und	CCONJ	-	0:16:23.031000	0:16:23.625000
 dann	dann	ADV	-	0:16:23.031000	0:16:23.625000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:23.031000" end="0:16:23.625000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:23.031000" end="0:16:23.625000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:16:23.031000	0:16:23.625000
 .	-	-	-	0:16:23.031000	0:16:23.625000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:23.625000" end="0:16:26.651000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:23.625000" end="0:16:26.651000" project="PP03" age_lower="18" age_upper="35">
 diese	dies	DET	-	0:16:23.625000	0:16:26.145000
 Riesenwuzler	Riesenwuzler	NOUN	-	0:16:23.625000	0:16:26.145000
 Sachen	Sache	NOUN	-	0:16:23.625000	0:16:26.145000
@@ -4706,10 +4706,10 @@ viel	viel	PRON	-	0:16:23.625000	0:16:26.145000
 die	der	DET	-	0:16:26.145000	0:16:26.651000
 Leute	Leute	NOUN	-	0:16:26.145000	0:16:26.651000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:26.145000" end="0:16:26.651000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:26.145000" end="0:16:26.651000" project="PP03" age_lower="18" age_upper="35">
 (ja)	ja	ADV	-	0:16:26.145000	0:16:26.651000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:26.651000" end="0:16:28.098000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:26.651000" end="0:16:28.098000" project="PP03" age_lower="18" age_upper="35">
 freut	freuen	VERB	-	0:16:26.651000	0:16:27.738000
 es	ich	PRON	-	0:16:26.651000	0:16:27.738000
 ,	-	-	-	0:16:26.651000	0:16:27.738000
@@ -4722,7 +4722,7 @@ mehr	mehr	ADV	-	0:16:26.651000	0:16:27.738000
 mehr	mehr	PRON	-	0:16:27.738000	0:16:28.098000
 .	-	-	-	0:16:27.738000	0:16:28.098000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:27.738000" end="0:16:33.325000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:27.738000" end="0:16:33.325000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:27.738000	0:16:28.098000
 ,	-	-	-	0:16:27.738000	0:16:28.098000
 aber	aber	CCONJ	-	0:16:28.098000	0:16:31.318000
@@ -4743,11 +4743,11 @@ aufgebaut	aufbauen	VERB	-	0:16:31.318000	0:16:33.325000
 haben	haben	AUX	-	0:16:31.318000	0:16:33.325000
 ,	-	-	-	0:16:31.318000	0:16:33.325000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:33.325000" end="0:16:33.871000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:33.325000" end="0:16:33.871000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:16:33.325000	0:16:33.871000
 .	-	-	-	0:16:33.325000	0:16:33.871000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:33.871000" end="0:16:55.945000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:33.871000" end="0:16:55.945000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:16:33.871000	0:16:35.425000
 da	da	ADV	-	0:16:33.871000	0:16:35.425000
 haben	haben	AUX	-	0:16:33.871000	0:16:35.425000
@@ -4814,11 +4814,11 @@ Löschgeschichten	Löschgeschichten	NOUN	-	0:16:53.778000	0:16:55.945000
 machen	machen	VERB	-	0:16:53.778000	0:16:55.945000
 ,	-	-	-	0:16:53.778000	0:16:55.945000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:55.945000" end="0:16:56.878000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:55.945000" end="0:16:56.878000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:16:55.945000	0:16:56.878000
 .	-	-	-	0:16:55.945000	0:16:56.878000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:55.945000" end="0:17:01.685000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:55.945000" end="0:17:01.685000" project="PP03" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:16:55.945000	0:16:56.878000
 du	du	PRON	-	0:16:55.945000	0:16:56.878000
 vielleicht	vielleicht	ADV	-	0:16:55.945000	0:16:56.878000
@@ -4833,11 +4833,11 @@ a/	-	-	-	0:16:56.878000	0:17:01.685000
 animierst	animieren	ADV	-	0:16:56.878000	0:17:01.685000
 zum	zum	ADP	-	0:16:56.878000	0:17:01.685000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:01.685000" end="0:17:02.378000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:01.685000" end="0:17:02.378000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:01.685000	0:17:02.378000
 .	-	-	-	0:17:01.685000	0:17:02.378000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:01.685000" end="0:17:07.085000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:01.685000" end="0:17:07.085000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:17:01.685000	0:17:02.378000
 Fahrzeugziehen	Fahrzeugziehen	NOUN	-	0:17:02.378000	0:17:04.738000
 <pause duration="0,6s"/>
@@ -4856,11 +4856,11 @@ vielleicht	-	-	-	0:17:05.471000	0:17:07.085000
 da	-	-	-	0:17:05.471000	0:17:07.085000
 auch	-	-	-	0:17:05.471000	0:17:07.085000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:07.085000" end="0:17:07.498000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:07.085000" end="0:17:07.498000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:07.085000	0:17:07.498000
 .	-	-	-	0:17:07.085000	0:17:07.498000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:07.498000" end="0:17:13.178000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:07.498000" end="0:17:13.178000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:17:07.498000	0:17:09.891000
 machen	-	-	-	0:17:07.498000	0:17:09.891000
 ,	-	-	-	0:17:07.498000	0:17:09.891000
@@ -4889,7 +4889,7 @@ mitgemacht	mitmachen	VERB	-	0:17:11.798000	0:17:13.178000
 hast/	-	-	-	0:17:11.798000	0:17:13.178000
 .	-	-	-	0:17:11.798000	0:17:13.178000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:13.178000" end="0:17:19.905000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:13.178000" end="0:17:19.905000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:13.178000	0:17:14.637000
 ,	-	-	-	0:17:13.178000	0:17:14.637000
 (wenn	wenn	SCONJ	-	0:17:13.178000	0:17:14.637000
@@ -4924,11 +4924,11 @@ und	und	CCONJ	-	0:17:19.478000	0:17:19.905000
 dann	dann	ADV	-	0:17:19.478000	0:17:19.905000
 noch	noch	ADV	-	0:17:19.478000	0:17:19.905000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:19.478000" end="0:17:19.905000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:19.478000" end="0:17:19.905000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:19.478000	0:17:19.905000
 .	-	-	-	0:17:19.478000	0:17:19.905000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:19.905000" end="0:17:22.325000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:19.905000" end="0:17:22.325000" project="PP03" age_lower="18" age_upper="35">
 die	der	DET	-	0:17:19.905000	0:17:22.325000
 freien	frei	ADJ	-	0:17:19.905000	0:17:22.325000
 Ortschaften	Ortschaft	NOUN	-	0:17:19.905000	0:17:22.325000
@@ -4943,14 +4943,14 @@ Mannschaften	-	-	-	0:17:19.905000	0:17:22.325000
 zusammen	-	-	-	0:17:19.905000	0:17:22.325000
 .	-	-	-	0:17:19.905000	0:17:22.325000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:22.325000" end="0:17:23.611000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:22.325000" end="0:17:23.611000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:22.325000	0:17:23.611000
 stimmt	stimmen	VERB	-	0:17:22.325000	0:17:23.611000
 ,	-	-	-	0:17:22.325000	0:17:23.611000
 ja	ja	PART	-	0:17:22.325000	0:17:23.611000
 .	-	-	-	0:17:22.325000	0:17:23.611000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:23.611000" end="0:17:31.305000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:23.611000" end="0:17:31.305000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:23.611000	0:17:27.258000
 und	und	CCONJ	-	0:17:23.611000	0:17:27.258000
 das	der	DET	-	0:17:23.611000	0:17:27.258000
@@ -4989,7 +4989,7 @@ sein	mein	AUX	-	0:17:29.965000	0:17:31.305000
 oder	oder	CCONJ	-	0:17:29.965000	0:17:31.305000
 ?	-	-	-	0:17:29.965000	0:17:31.305000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:31.305000" end="0:17:37.518000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:31.305000" end="0:17:37.518000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:17:31.305000	0:17:33.091000
 ich	ich	PRON	-	0:17:31.305000	0:17:33.091000
 also	also	ADV	-	0:17:31.305000	0:17:33.091000
@@ -5025,11 +5025,11 @@ drinnen	drinnen	ADV	-	0:17:35.891000	0:17:37.518000
 Platzangst	Platzangst	NOUN	-	0:17:35.891000	0:17:37.518000
 ,	-	-	-	0:17:35.891000	0:17:37.518000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:37.518000" end="0:17:37.925000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:37.518000" end="0:17:37.925000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:17:37.518000	0:17:37.925000
 .	-	-	-	0:17:37.518000	0:17:37.925000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:37.925000" end="0:17:50.331000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:37.925000" end="0:17:50.331000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:17:37.925000	0:17:40.878000
 die	der	PRON	-	0:17:37.925000	0:17:40.878000
 eine	einen	DET	-	0:17:37.925000	0:17:40.878000
@@ -5082,23 +5082,23 @@ der	-	-	-	0:17:48.124000	0:17:50.331000
 nächste	-	-	-	0:17:48.124000	0:17:50.331000
 wieder	-	-	-	0:17:48.124000	0:17:50.331000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:50.331000" end="0:17:51.471000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:50.331000" end="0:17:51.471000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:50.331000	0:17:51.471000
 .	-	-	-	0:17:50.331000	0:17:51.471000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:50.331000" end="0:17:51.891000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:50.331000" end="0:17:51.891000" project="PP03" age_lower="18" age_upper="35">
 (darüber)	-	-	-	0:17:50.331000	0:17:51.471000
 und	-	-	-	0:17:50.331000	0:17:51.471000
 nein	-	-	-	0:17:51.471000	0:17:51.891000
 !	-	-	-	0:17:51.471000	0:17:51.891000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:51.891000" end="0:17:52.638000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:51.891000" end="0:17:52.638000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:51.891000	0:17:52.638000
 ,	-	-	-	0:17:51.891000	0:17:52.638000
 nein	nein	PART	-	0:17:51.891000	0:17:52.638000
 !	-	-	-	0:17:51.891000	0:17:52.638000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:51.891000" end="0:17:55.038000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:51.891000" end="0:17:55.038000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:17:51.891000	0:17:52.638000
 meine	meinen	VERB	-	0:17:51.891000	0:17:52.638000
 ,	-	-	-	0:17:51.891000	0:17:52.638000
@@ -5117,7 +5117,7 @@ nicht	nicht	PART	-	0:17:53.711000	0:17:55.038000
 haben	haben	AUX	-	0:17:53.711000	0:17:55.038000
 .	-	-	-	0:17:53.711000	0:17:55.038000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:55.038000" end="0:17:58.471000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:55.038000" end="0:17:58.471000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:17:55.038000	0:17:56.738000
 ,	-	-	-	0:17:55.038000	0:17:56.738000
 ich	ich	PRON	-	0:17:55.038000	0:17:56.738000
@@ -5133,7 +5133,7 @@ der	der	DET	-	0:17:56.738000	0:17:58.471000
 Hitze	Hitze	NOUN	-	0:17:56.738000	0:17:58.471000
 .	-	-	-	0:17:56.738000	0:17:58.471000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:56.738000" end="0:18:02.118000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:56.738000" end="0:18:02.118000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:17:58.471000	0:17:59.951000
 meine	meinen	VERB	-	0:17:58.471000	0:17:59.951000
 ,	-	-	-	0:17:58.471000	0:17:59.951000
@@ -5155,14 +5155,14 @@ nicht	nicht	PART	-	0:17:59.951000	0:18:02.118000
 haben	haben	AUX	-	0:17:59.951000	0:18:02.118000
 .	-	-	-	0:17:59.951000	0:18:02.118000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:02.118000" end="0:18:04.964000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:02.118000" end="0:18:04.964000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:18:02.118000	0:18:04.964000
 <pause duration="1,1s"/>
 mm	mm	PROPN	-	0:18:02.118000	0:18:04.964000
 .	-	-	-	0:18:02.118000	0:18:04.964000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:04.964000" end="0:18:08.224000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:04.964000" end="0:18:08.224000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:18:04.964000	0:18:08.224000
 der	der	DET	-	0:18:04.964000	0:18:08.224000
 NAME	NAME	PROPN	-	0:18:04.964000	0:18:08.224000
@@ -5178,12 +5178,12 @@ Werkstatt	Werkstatt	NOUN	-	0:18:04.964000	0:18:08.224000
 aus	aus	ADP	-	0:18:04.964000	0:18:08.224000
 ,	-	-	-	0:18:04.964000	0:18:08.224000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:08.224000" end="0:18:10.658000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:08.224000" end="0:18:10.658000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:18:08.224000	0:18:10.658000
 .	-	-	-	0:18:08.224000	0:18:10.658000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:10.658000" end="0:18:14.811000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:10.658000" end="0:18:14.811000" project="PP03" age_lower="18" age_upper="35">
 er	ich	PRON	-	0:18:10.658000	0:18:11.571000
 hat	haben	AUX	-	0:18:10.658000	0:18:11.571000
 ja	ja	ADV	-	0:18:10.658000	0:18:11.571000
@@ -5209,7 +5209,7 @@ nicht	nicht	PART	-	0:18:12.804000	0:18:14.811000
 mit	mit	ADP	-	0:18:12.804000	0:18:14.811000
 ."	-	-	-	0:18:12.804000	0:18:14.811000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:14.811000" end="0:18:24.338000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:14.811000" end="0:18:24.338000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 ja	ja	ADV	-	0:18:18.944000	0:18:20.964000
 <pause duration="1,0s"/>
@@ -5231,13 +5231,13 @@ Dorffeste	Dorffeste	NOUN	-	0:18:20.964000	0:18:24.338000
 früher	früh	ADJ	-	0:18:20.964000	0:18:24.338000
 ."	-	-	-	0:18:20.964000	0:18:24.338000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:24.338000" end="0:18:26.338000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:24.338000" end="0:18:26.338000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:18:24.338000	0:18:26.338000
 ja	ja	PART	-	0:18:24.338000	0:18:26.338000
 !	-	-	-	0:18:24.338000	0:18:26.338000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:26.338000" end="0:18:28.951000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:26.338000" end="0:18:28.951000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:18:26.338000	0:18:27.484000
 recht	recht	ADV	-	0:18:26.338000	0:18:27.484000
 viel	viel	ADV	-	0:18:26.338000	0:18:27.484000
@@ -5249,7 +5249,7 @@ Dorffeste	Dorffeste	NOUN	-	0:18:27.484000	0:18:28.951000
 noch	noch	ADV	-	0:18:27.484000	0:18:28.951000
 ?	-	-	-	0:18:27.484000	0:18:28.951000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:27.484000" end="0:18:28.951000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:27.484000" end="0:18:28.951000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:18:27.484000	0:18:28.951000
 wenn	wenn	SCONJ	-	0:18:27.484000	0:18:28.951000
 wir	ich	PRON	-	0:18:27.484000	0:18:28.951000
@@ -5258,7 +5258,7 @@ nicht	nicht	PART	-	0:18:27.484000	0:18:28.951000
 wissen	wissen	VERB	-	0:18:27.484000	0:18:28.951000
 .	-	-	-	0:18:27.484000	0:18:28.951000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:28.951000" end="0:18:32.731000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:28.951000" end="0:18:32.731000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ist	-	-	-	0:18:28.951000	0:18:32.018000
 eh	-	-	-	0:18:28.951000	0:18:32.018000
@@ -5279,12 +5279,12 @@ es	ich	PRON	-	0:18:32.018000	0:18:32.731000
 machen	machen	VERB	-	0:18:32.018000	0:18:32.731000
 .	-	-	-	0:18:32.018000	0:18:32.731000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:32.731000" end="0:18:34.731000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:32.731000" end="0:18:34.731000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:32.731000	0:18:34.731000
 .	-	-	-	0:18:32.731000	0:18:34.731000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:34.731000" end="0:18:42.291000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:34.731000" end="0:18:42.291000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:18:34.731000	0:18:39.558000
 finde	finden	VERB	-	0:18:34.731000	0:18:39.558000
 die	der	DET	-	0:18:34.731000	0:18:39.558000
@@ -5303,7 +5303,7 @@ drei	drei	NUM	-	0:18:39.558000	0:18:42.291000
 Wünschen	Wunsch	NOUN	-	0:18:39.558000	0:18:42.291000
 .	-	-	-	0:18:39.558000	0:18:42.291000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:42.291000" end="0:18:52.458000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:42.291000" end="0:18:52.458000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 hm	hm	X	-	0:18:42.291000	0:18:46.764000
 .	-	-	-	0:18:42.291000	0:18:46.764000
@@ -5324,13 +5324,13 @@ oder	oder	CCONJ	-	0:18:46.764000	0:18:52.458000
 utopisch	utopisch	ADJ	-	0:18:46.764000	0:18:52.458000
 .	-	-	-	0:18:46.764000	0:18:52.458000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:52.458000" end="0:18:53.011000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:52.458000" end="0:18:53.011000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:18:52.458000	0:18:53.011000
 .	-	-	-	0:18:52.458000	0:18:53.011000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:53.011000" end="0:18:55.011000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:53.011000" end="0:18:55.011000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:55.011000" end="0:19:03.198000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:55.011000" end="0:19:03.198000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:18:55.011000	0:18:56.371000
 weiß	weiß	VERB	-	0:18:55.011000	0:18:56.371000
 gar	gar	ADV	-	0:18:55.011000	0:18:56.371000
@@ -5354,7 +5354,7 @@ gut	gut	ADJ	-	0:18:59.218000	0:19:03.198000
 .	-	-	-	0:18:59.218000	0:19:03.198000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:03.198000" end="0:19:07.438000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:03.198000" end="0:19:07.438000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:19:03.198000	0:19:04.538000
 bei	bei	ADP	-	0:19:03.198000	0:19:04.538000
 mir	sich	PRON	-	0:19:03.198000	0:19:04.538000
@@ -5372,7 +5372,7 @@ der	-	-	-	0:19:05.191000	0:19:07.438000
 (_Hacken_)	-	-	-	0:19:05.191000	0:19:07.438000
 zukunftmäßig	-	-	-	0:19:05.191000	0:19:07.438000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:07.438000" end="0:19:10.038000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:07.438000" end="0:19:10.038000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:19:07.438000	0:19:08.858000
 was	was	PRON	-	0:19:07.438000	0:19:08.858000
 was	was	PRON	-	0:19:07.438000	0:19:08.858000
@@ -5387,7 +5387,7 @@ du	du	PRON	-	0:19:08.858000	0:19:10.038000
 gerade	gerade	ADV	-	0:19:08.858000	0:19:10.038000
 ?	-	-	-	0:19:08.858000	0:19:10.038000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:10.038000" end="0:19:14.024000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:10.038000" end="0:19:14.024000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:19:10.038000	0:19:13.384000
 bin	-	-	-	0:19:10.038000	0:19:13.384000
 gerade	-	-	-	0:19:10.038000	0:19:13.384000
@@ -5402,12 +5402,12 @@ man	man	PRON	-	0:19:13.384000	0:19:14.024000
 sagen	sagen	VERB	-	0:19:13.384000	0:19:14.024000
 .	-	-	-	0:19:13.384000	0:19:14.024000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:14.024000" end="0:19:15.018000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:14.024000" end="0:19:15.018000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:19:14.024000	0:19:15.018000
 .	-	-	-	0:19:14.024000	0:19:15.018000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:15.018000" end="0:19:24.024000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:15.018000" end="0:19:24.024000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:19:15.018000	0:19:19.604000
 bin	sein	AUX	-	0:19:15.018000	0:19:19.604000
 <pause duration="1,6s"/>
@@ -5429,11 +5429,11 @@ Paketdienst	Paketdienst	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Pso
 gehabt	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:19:19.604000	0:19:24.024000
 .	-	-	-	0:19:19.604000	0:19:24.024000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:24.024000" end="0:19:24.704000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:24.024000" end="0:19:24.704000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:19:24.024000	0:19:24.704000
 .	-	-	-	0:19:24.024000	0:19:24.704000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:24.024000" end="0:19:38.798000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:24.024000" end="0:19:38.798000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:19:24.024000	0:19:24.704000
 heißt	heißen	VERB	-	0:19:24.024000	0:19:24.704000
 verschicken	verschicken	VERB	-	0:19:24.704000	0:19:28.491000
@@ -5473,11 +5473,11 @@ Kur	Kur	NOUN	-	0:19:37.611000	0:19:38.798000
 war	sein	AUX	-	0:19:37.611000	0:19:38.798000
 ,	-	-	-	0:19:37.611000	0:19:38.798000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:38.798000" end="0:19:39.251000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:38.798000" end="0:19:39.251000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:19:38.798000	0:19:39.251000
 .	-	-	-	0:19:38.798000	0:19:39.251000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:39.251000" end="0:19:43.498000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:39.251000" end="0:19:43.498000" project="PP03" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:19:39.251000	0:19:40.318000
 ist	sein	AUX	-	0:19:39.251000	0:19:40.318000
 er	ich	PRON	-	0:19:39.251000	0:19:40.318000
@@ -5499,12 +5499,12 @@ wieder	wieder	ADV	-	0:19:41.884000	0:19:43.498000
 da	da	ADP	-	0:19:41.884000	0:19:43.498000
 ,	-	-	-	0:19:41.884000	0:19:43.498000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:43.498000" end="0:19:44.731000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:43.498000" end="0:19:44.731000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:19:43.498000	0:19:44.731000
 .	-	-	-	0:19:43.498000	0:19:44.731000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:44.731000" end="0:19:58.298000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:44.731000" end="0:19:58.298000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:19:44.731000	0:19:48.431000
 dann	dann	ADV	-	0:19:44.731000	0:19:48.431000
 war	sein	AUX	-	0:19:44.731000	0:19:48.431000
@@ -5557,11 +5557,11 @@ die	der	DET	-	0:19:54.938000	0:19:58.298000
 Waren	Ware	NOUN	-	0:19:54.938000	0:19:58.298000
 .	-	-	-	0:19:54.938000	0:19:58.298000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:58.298000" end="0:19:58.811000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:58.298000" end="0:19:58.811000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:19:58.298000	0:19:58.811000
 .	-	-	-	0:19:58.298000	0:19:58.811000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:58.811000" end="0:20:04.198000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:58.811000" end="0:20:04.198000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:19:58.811000	0:20:00.191000
 der	der	PRON	-	0:19:58.811000	0:20:00.191000
 fährt/	-	-	-	0:19:58.811000	0:20:00.191000
@@ -5584,12 +5584,12 @@ vor	-	-	-	0:20:02.338000	0:20:04.198000
 und	-	-	-	0:20:02.338000	0:20:04.198000
 zurück	-	-	-	0:20:02.338000	0:20:04.198000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:04.198000" end="0:20:05.418000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:04.198000" end="0:20:05.418000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:04.198000	0:20:05.418000
 .	-	-	-	0:20:04.198000	0:20:05.418000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:05.418000" end="0:20:11.418000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:05.418000" end="0:20:11.418000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:20:05.418000	0:20:07.651000
 die	-	-	-	0:20:05.418000	0:20:07.651000
 Gabeln	-	-	-	0:20:05.418000	0:20:07.651000
@@ -5617,12 +5617,12 @@ die	der	DET	-	0:20:09.058000	0:20:11.418000
 Höhe	Höhe	NOUN	-	0:20:09.058000	0:20:11.418000
 .	-	-	-	0:20:09.058000	0:20:11.418000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:11.418000" end="0:20:12.731000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:11.418000" end="0:20:12.731000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:20:11.418000	0:20:12.731000
 .	-	-	-	0:20:11.418000	0:20:12.731000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:12.731000" end="0:20:20.444000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:12.731000" end="0:20:20.444000" project="PP03" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:20:12.731000	0:20:14.671000
 so	so	ADV	-	0:20:12.731000	0:20:14.671000
 ,	-	-	-	0:20:12.731000	0:20:14.671000
@@ -5664,9 +5664,9 @@ recht	recht	ADV	-	0:20:19.318000	0:20:20.444000
 lustig	lustig	ADJ	-	0:20:19.318000	0:20:20.444000
 .	-	-	-	0:20:19.318000	0:20:20.444000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:20.444000" end="0:20:21.264000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:20.444000" end="0:20:21.264000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:21.264000" end="0:20:31.624000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:21.264000" end="0:20:31.624000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:20:21.264000	0:20:24.291000
 was	was	PRON	-	0:20:21.264000	0:20:24.291000
 du	du	PRON	-	0:20:21.264000	0:20:24.291000
@@ -5714,11 +5714,11 @@ quasi	quasi	ADV	-	0:20:29.111000	0:20:31.624000
 haben	haben	AUX	-	0:20:29.111000	0:20:31.624000
 ,	-	-	-	0:20:29.111000	0:20:31.624000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:31.624000" end="0:20:32.224000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:31.624000" end="0:20:32.224000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:31.624000	0:20:32.224000
 .	-	-	-	0:20:31.624000	0:20:32.224000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:31.624000" end="0:20:35.691000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:31.624000" end="0:20:35.691000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:20:31.624000	0:20:32.224000
 der	-	-	-	0:20:31.624000	0:20:32.224000
 einen	-	-	-	0:20:31.624000	0:20:32.224000
@@ -5740,11 +5740,11 @@ zurück	zurück	ADV	-	0:20:34.484000	0:20:35.691000
 willst	wollen	VERB	-	0:20:34.484000	0:20:35.691000
 ,	-	-	-	0:20:34.484000	0:20:35.691000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:35.691000" end="0:20:36.071000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:35.691000" end="0:20:36.071000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:35.691000	0:20:36.071000
 .	-	-	-	0:20:35.691000	0:20:36.071000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:36.071000" end="0:20:46.904000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:36.071000" end="0:20:46.904000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:20:36.071000	0:20:38.071000
 in	in	ADP	-	0:20:36.071000	0:20:38.071000
 der	der	DET	-	0:20:36.071000	0:20:38.071000
@@ -5790,9 +5790,9 @@ aus	-	-	-	0:20:44.151000	0:20:46.024000
 dann	-	-	-	0:20:46.024000	0:20:46.904000
 *stehst*	-	-	-	0:20:46.024000	0:20:46.904000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:46.904000" end="0:20:47.431000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:46.904000" end="0:20:47.431000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:47.431000" end="0:20:50.638000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:47.431000" end="0:20:50.638000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:20:47.431000	0:20:49.531000
 wenn	-	-	-	0:20:47.431000	0:20:49.531000
 du	-	-	-	0:20:47.431000	0:20:49.531000
@@ -5807,9 +5807,9 @@ es	ich	PRON	-	0:20:49.531000	0:20:50.638000
 so	so	ADV	-	0:20:49.531000	0:20:50.638000
 ,	-	-	-	0:20:49.531000	0:20:50.638000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:50.638000" end="0:20:51.424000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:50.638000" end="0:20:51.424000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:50.638000" end="0:20:55.151000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:50.638000" end="0:20:55.151000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:20:51.424000	0:20:55.151000
 man	man	PRON	-	0:20:51.424000	0:20:55.151000
 darf	dürfen	VERB	-	0:20:51.424000	0:20:55.151000
@@ -5824,12 +5824,12 @@ Höhenangst	Höhenangst	NOUN	-	0:20:51.424000	0:20:55.151000
 haben	haben	AUX	-	0:20:51.424000	0:20:55.151000
 .	-	-	-	0:20:51.424000	0:20:55.151000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:55.151000" end="0:20:56.484000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:55.151000" end="0:20:56.484000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:55.151000	0:20:56.484000
 .	-	-	-	0:20:55.151000	0:20:56.484000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:56.484000" end="0:20:58.918000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:56.484000" end="0:20:58.918000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:56.484000	0:20:58.918000
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:20:56.484000	0:20:58.918000
@@ -5841,9 +5841,9 @@ nicht	nicht	PART	-	0:20:56.484000	0:20:58.918000
 werden	werden	AUX	-	0:20:56.484000	0:20:58.918000
 ,	-	-	-	0:20:56.484000	0:20:58.918000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:58.918000" end="0:21:00.658000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:58.918000" end="0:21:00.658000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:58.918000" end="0:21:00.658000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:58.918000" end="0:21:00.658000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:20:58.918000	0:21:00.658000
 aber	-	-	-	0:20:58.918000	0:21:00.658000
 so	-	-	-	0:20:58.918000	0:21:00.658000
@@ -5852,7 +5852,7 @@ recht	-	-	-	0:20:58.918000	0:21:00.658000
 lustig	-	-	-	0:20:58.918000	0:21:00.658000
 .	-	-	-	0:20:58.918000	0:21:00.658000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:00.658000" end="0:21:02.231000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:00.658000" end="0:21:02.231000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:21:00.658000	0:21:02.231000
 das	-	-	-	0:21:00.658000	0:21:02.231000
 *tust*	-	-	-	0:21:00.658000	0:21:02.231000
@@ -5861,7 +5861,7 @@ gerade	-	-	-	0:21:00.658000	0:21:02.231000
 quasi	-	-	-	0:21:00.658000	0:21:02.231000
 ?	-	-	-	0:21:00.658000	0:21:02.231000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:02.231000" end="0:21:03.584000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:02.231000" end="0:21:03.584000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:21:02.231000	0:21:03.584000
 ,	-	-	-	0:21:02.231000	0:21:03.584000
 das	der	PRON	-	0:21:02.231000	0:21:03.584000
@@ -5873,11 +5873,11 @@ gerade	gerade	ADV	-	0:21:02.231000	0:21:03.584000
 nicht	nicht	PART	-	0:21:02.231000	0:21:03.584000
 .	-	-	-	0:21:02.231000	0:21:03.584000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:03.584000" end="0:21:04.924000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:03.584000" end="0:21:04.924000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:21:03.584000	0:21:04.924000
 .	-	-	-	0:21:03.584000	0:21:04.924000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:03.584000" end="0:21:07.178000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:03.584000" end="0:21:07.178000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:21:03.584000	0:21:04.924000
 habe	habe	AUX	-	0:21:03.584000	0:21:04.924000
 ich	ich	PRON	-	0:21:03.584000	0:21:04.924000
@@ -5891,11 +5891,11 @@ insgesamt	-	-	-	0:21:04.924000	0:21:07.178000
 vier	-	-	-	0:21:04.924000	0:21:07.178000
 Leute	-	-	-	0:21:04.924000	0:21:07.178000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:07.178000" end="0:21:07.598000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:07.178000" end="0:21:07.598000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:21:07.178000	0:21:07.598000
 .	-	-	-	0:21:07.178000	0:21:07.598000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:07.178000" end="0:21:17.171000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:07.178000" end="0:21:17.171000" project="PP03" age_lower="18" age_upper="35">
 von	-	-	-	0:21:07.178000	0:21:07.598000
 den	-	-	-	0:21:07.178000	0:21:07.598000
 paar	-	-	-	0:21:07.598000	0:21:09.598000
@@ -5948,12 +5948,12 @@ dort	dort	ADV	-	0:21:16.444000	0:21:17.171000
 bin	sein	AUX	-	0:21:16.444000	0:21:17.171000
 .	-	-	-	0:21:16.444000	0:21:17.171000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:17.171000" end="0:21:18.791000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:17.171000" end="0:21:18.791000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:21:17.171000	0:21:18.791000
 .	-	-	-	0:21:17.171000	0:21:18.791000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:18.791000" end="0:21:21.897000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:18.791000" end="0:21:21.897000" project="PP03" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:21:18.791000	0:21:21.897000
 war	sein	AUX	-	0:21:18.791000	0:21:21.897000
 ich	ich	PRON	-	0:21:18.791000	0:21:21.897000
@@ -5964,11 +5964,11 @@ der	der	DET	-	0:21:18.791000	0:21:21.897000
 Lehrwerkstatt	Lehrwerkstatt	NOUN	-	0:21:18.791000	0:21:21.897000
 ,	-	-	-	0:21:18.791000	0:21:21.897000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:21.897000" end="0:21:22.304000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:21.897000" end="0:21:22.304000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:21:21.897000	0:21:22.304000
 .	-	-	-	0:21:21.897000	0:21:22.304000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:21.897000" end="0:21:24.971000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:21.897000" end="0:21:24.971000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:21:21.897000	0:21:22.304000
 ein	einen	DET	-	0:21:21.897000	0:21:22.304000
 paar	paar	DET	-	0:21:22.304000	0:21:23.311000
@@ -5986,12 +5986,12 @@ August	August	NOUN	-	0:21:23.311000	0:21:24.971000
 da	da	ADV	-	0:21:23.311000	0:21:24.971000
 ,	-	-	-	0:21:23.311000	0:21:24.971000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:24.971000" end="0:21:26.224000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:24.971000" end="0:21:26.224000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:21:24.971000	0:21:26.224000
 .	-	-	-	0:21:24.971000	0:21:26.224000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:26.224000" end="0:21:28.691000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:26.224000" end="0:21:28.691000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:21:26.224000	0:21:28.691000
 wir	ich	PRON	-	0:21:26.224000	0:21:28.691000
 machen	machen	VERB	-	0:21:26.224000	0:21:28.691000
@@ -5999,7 +5999,7 @@ noch	noch	ADV	-	0:21:26.224000	0:21:28.691000
 SONSTIGE	SONSTIGE	NOUN	-	0:21:26.224000	0:21:28.691000
 .	-	-	-	0:21:26.224000	0:21:28.691000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:28.691000" end="0:21:31.377000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:28.691000" end="0:21:31.377000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	VERB	-	0:21:28.691000	0:21:31.377000
 <pause duration="0,9s"/>
 wieso	wieso	ADV	-	0:21:28.691000	0:21:31.377000
@@ -6007,7 +6007,7 @@ gerade	gerade	ADV	-	0:21:28.691000	0:21:31.377000
 Bellaflora	Bellaflora	NOUN	-	0:21:28.691000	0:21:31.377000
 ?	-	-	-	0:21:28.691000	0:21:31.377000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:31.377000" end="0:21:34.764000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:31.377000" end="0:21:34.764000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:21:31.377000	0:21:34.764000
 ähm	ähm	PROPN	-	0:21:31.377000	0:21:34.764000
 der	der	DET	+menschl -belebt Besitz PM PR Pkon Poss Prel Prop Präd irrelevant	0:21:31.377000	0:21:34.764000
@@ -6016,7 +6016,7 @@ NAME	NAME	ADJ	+menschl -belebt Besitz PM PR Pkon Poss Prel Prop Präd irrelevant
 SONSTIGE	SONSTIGE	PROPN	+menschl -belebt Besitz PM PR Pkon Poss Prel Prop Präd irrelevant	0:21:31.377000	0:21:34.764000
 gehört	hören	VERB	+menschl -belebt Besitz PM PR Pkon Poss Prel Prop Präd irrelevant	0:21:31.377000	0:21:34.764000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:34.764000" end="0:21:37.171000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:34.764000" end="0:21:37.171000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:21:34.764000	0:21:36.191000
 ,	-	-	-	0:21:34.764000	0:21:36.191000
 <pause duration="0,8s"/>
@@ -6026,7 +6026,7 @@ nicht	nicht	PART	-	0:21:36.191000	0:21:37.171000
 gewusst	gewusst	VERB	-	0:21:36.191000	0:21:37.171000
 ,	-	-	-	0:21:36.191000	0:21:37.171000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:36.191000" end="0:22:00.144000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:21:36.191000" end="0:22:00.144000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:21:36.191000	0:21:37.171000
 die	der	PRON	-	0:21:37.171000	0:21:38.091000
 hat	haben	AUX	-	0:21:37.171000	0:21:38.091000
@@ -6125,12 +6125,12 @@ lackieren	lackieren	VERB	-	0:21:58.844000	0:22:00.144000
 tut	tun	VERB	-	0:21:58.844000	0:22:00.144000
 ,	-	-	-	0:21:58.844000	0:22:00.144000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:00.144000" end="0:22:01.531000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:00.144000" end="0:22:01.531000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:00.144000	0:22:01.531000
 .	-	-	-	0:22:00.144000	0:22:01.531000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:01.531000" end="0:22:04.957000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:01.531000" end="0:22:04.957000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:22:01.531000	0:22:04.957000
 ja	ja	ADV	-	0:22:01.531000	0:22:04.957000
 da	da	ADV	-	0:22:01.531000	0:22:04.957000
@@ -6147,12 +6147,12 @@ einen	ein	DET	-	0:22:01.531000	0:22:04.957000
 Monat	Monat	NOUN	-	0:22:01.531000	0:22:04.957000
 ,	-	-	-	0:22:01.531000	0:22:04.957000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:04.957000" end="0:22:06.957000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:04.957000" end="0:22:06.957000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:04.957000	0:22:06.957000
 .	-	-	-	0:22:04.957000	0:22:06.957000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:06.957000" end="0:22:09.057000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:06.957000" end="0:22:09.057000" project="PP03" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:22:06.957000	0:22:09.057000
 war	sein	AUX	-	0:22:06.957000	0:22:09.057000
 ich	ich	PRON	-	0:22:06.957000	0:22:09.057000
@@ -6161,9 +6161,9 @@ im	im	ADP	-	0:22:06.957000	0:22:09.057000
 ,	-	-	-	0:22:06.957000	0:22:09.057000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:09.057000" end="0:22:09.657000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:09.057000" end="0:22:09.657000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:09.657000" end="0:22:19.231000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:09.657000" end="0:22:19.231000" project="PP03" age_lower="18" age_upper="35">
 einpacken	einpacken	NOUN	-	0:22:09.657000	0:22:13.897000
 ,	-	-	-	0:22:09.657000	0:22:13.897000
 ja	ja	PART	-	0:22:09.657000	0:22:13.897000
@@ -6185,11 +6185,11 @@ dann	dann	ADV	-	0:22:18.124000	0:22:19.231000
 AMS	AMS	PROPN	-	0:22:18.124000	0:22:19.231000
 ,	-	-	-	0:22:18.124000	0:22:19.231000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:19.231000" end="0:22:19.977000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:19.231000" end="0:22:19.977000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:19.231000	0:22:19.977000
 .	-	-	-	0:22:19.231000	0:22:19.977000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:19.977000" end="0:22:25.451000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:19.977000" end="0:22:25.451000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:22:21.231000	0:22:22.684000
 haben	haben	AUX	-	0:22:21.231000	0:22:22.684000
 wir	ich	PRON	-	0:22:21.231000	0:22:22.684000
@@ -6215,9 +6215,9 @@ der)	-	-	-	0:22:22.684000	0:22:25.451000
 haben	-	-	-	0:22:22.684000	0:22:25.451000
 ,	-	-	-	0:22:22.684000	0:22:25.451000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:25.451000" end="0:22:27.717000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:25.451000" end="0:22:27.717000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:25.451000" end="0:22:27.717000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:25.451000" end="0:22:27.717000" project="PP03" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:22:25.451000	0:22:27.717000
 wir	ich	PRON	-	0:22:25.451000	0:22:27.717000
 dort	dort	ADV	-	0:22:25.451000	0:22:27.717000
@@ -6226,12 +6226,12 @@ weiterarbeiten	weiterarbeiten	VERB	-	0:22:25.451000	0:22:27.717000
 können	können	VERB	-	0:22:25.451000	0:22:27.717000
 .	-	-	-	0:22:25.451000	0:22:27.717000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:27.717000" end="0:22:29.717000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:27.717000" end="0:22:29.717000" project="PP03" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:22:27.717000	0:22:29.717000
 ja	ja	ADV	-	0:22:27.717000	0:22:29.717000
 .	-	-	-	0:22:27.717000	0:22:29.717000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:27.717000" end="0:22:42.917000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:27.717000" end="0:22:42.917000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:22:29.717000	0:22:32.484000
 es	ich	PRON	-	0:22:29.717000	0:22:32.484000
 geht	gehen	VERB	-	0:22:29.717000	0:22:32.484000
@@ -6280,12 +6280,12 @@ alten	alt	ADJ	-	0:22:41.391000	0:22:42.917000
 Lagerort	Lagerort	NOUN	-	0:22:41.391000	0:22:42.917000
 .	-	-	-	0:22:41.391000	0:22:42.917000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:42.917000" end="0:22:43.851000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:42.917000" end="0:22:43.851000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:42.917000	0:22:43.851000
 .	-	-	-	0:22:42.917000	0:22:43.851000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:43.851000" end="0:22:58.004000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:43.851000" end="0:22:58.004000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:22:43.851000	0:22:47.291000
 jetzt	jetzt	ADV	-	0:22:43.851000	0:22:47.291000
 <pause duration="0,7s"/>
@@ -6333,11 +6333,11 @@ worden	werden	AUX	-	0:22:56.624000	0:22:58.004000
 sind	sein	AUX	-	0:22:56.624000	0:22:58.004000
 ,	-	-	-	0:22:56.624000	0:22:58.004000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:58.004000" end="0:22:58.677000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:58.004000" end="0:22:58.677000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:58.004000	0:22:58.677000
 .	-	-	-	0:22:58.004000	0:22:58.677000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:58.677000" end="0:23:13.864000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:22:58.677000" end="0:23:13.864000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:22:58.677000	0:23:00.304000
 das	der	PRON	-	0:22:58.677000	0:23:00.304000
 ist	sein	AUX	-	0:22:58.677000	0:23:00.304000
@@ -6381,7 +6381,7 @@ sie	ich	PRON	-	0:23:10.497000	0:23:12.324000
 nicht	nicht	PART	-	0:23:10.497000	0:23:12.324000
 .	-	-	-	0:23:10.497000	0:23:12.324000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:13.864000" end="0:23:16.337000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:13.864000" end="0:23:16.337000" project="PP03" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:23:13.864000	0:23:15.191000
 beim	beim	ADP	-	0:23:13.864000	0:23:15.191000
 IKEA	IKEA	PROPN	-	0:23:13.864000	0:23:15.191000
@@ -6392,7 +6392,7 @@ das	der	DET	-	0:23:15.191000	0:23:16.337000
 beschrieben	beschreiben	VERB	-	0:23:15.191000	0:23:16.337000
 .	-	-	-	0:23:15.191000	0:23:16.337000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:16.337000" end="0:23:23.991000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:16.337000" end="0:23:23.991000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:16.337000	0:23:18.631000
 so	-	-	-	0:23:16.337000	0:23:18.631000
 ungefähr	-	-	-	0:23:16.337000	0:23:18.631000
@@ -6423,32 +6423,32 @@ das	der	DET	-	0:23:20.671000	0:23:23.991000
 Wohnzimmer	Wohnzimmer	NOUN	-	0:23:20.671000	0:23:23.991000
 .	-	-	-	0:23:20.671000	0:23:23.991000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:23.991000" end="0:23:24.384000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:23.991000" end="0:23:24.384000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:23.991000	0:23:24.384000
 .	-	-	-	0:23:23.991000	0:23:24.384000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:24.384000" end="0:23:25.111000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:24.384000" end="0:23:25.111000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:23:24.384000	0:23:25.111000
 ungefähr	ungefähr	ADJ	-	0:23:24.384000	0:23:25.111000
 .	-	-	-	0:23:24.384000	0:23:25.111000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:25.111000" end="0:23:25.611000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:25.111000" end="0:23:25.611000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:23:25.111000	0:23:25.611000
 .	-	-	-	0:23:25.111000	0:23:25.611000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:25.611000" end="0:23:27.091000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:25.611000" end="0:23:27.091000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:23:25.611000	0:23:27.091000
 gar	gar	ADV	-	0:23:25.611000	0:23:27.091000
 nichts	nichts	PRON	-	0:23:25.611000	0:23:27.091000
 .	-	-	-	0:23:25.611000	0:23:27.091000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:27.091000" end="0:23:30.377000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:27.091000" end="0:23:30.377000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:27.091000	0:23:30.377000
 .	-	-	-	0:23:27.091000	0:23:30.377000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:27.091000" end="0:23:30.377000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:27.091000" end="0:23:30.377000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:30.377000" end="0:23:34.364000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:30.377000" end="0:23:34.364000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:23:30.377000	0:23:34.364000
 du	du	PRON	-	0:23:30.377000	0:23:34.364000
 bist	sein	AUX	-	0:23:30.377000	0:23:34.364000
@@ -6462,7 +6462,7 @@ daweil	daweil	ADV	-	0:23:30.377000	0:23:34.364000
 oder	-	-	-	0:23:30.377000	0:23:34.364000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:34.364000" end="0:23:37.211000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:34.364000" end="0:23:37.211000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:34.364000	0:23:35.431000
 ,	-	-	-	0:23:34.364000	0:23:35.431000
 da	da	SCONJ	-	0:23:34.364000	0:23:35.431000
@@ -6474,14 +6474,14 @@ bin	sein	AUX	-	0:23:35.431000	0:23:37.211000
 gell	gell	ADJ	-	0:23:35.431000	0:23:37.211000
 ,	-	-	-	0:23:35.431000	0:23:37.211000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:37.211000" end="0:23:38.804000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:37.211000" end="0:23:38.804000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:23:37.211000	0:23:38.804000
 wirklich	wirklich	ADJ	-	0:23:37.211000	0:23:38.804000
 ,	-	-	-	0:23:37.211000	0:23:38.804000
 okay	okay	NOUN	-	0:23:37.211000	0:23:38.804000
 .	-	-	-	0:23:37.211000	0:23:38.804000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:37.211000" end="0:23:39.257000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:37.211000" end="0:23:39.257000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:23:37.211000	0:23:38.804000
 ich	ich	PRON	-	0:23:37.211000	0:23:38.804000
 möch/	-	-	-	0:23:37.211000	0:23:38.804000
@@ -6489,11 +6489,11 @@ möch/	-	-	-	0:23:37.211000	0:23:38.804000
 ja	ja	PART	-	0:23:38.804000	0:23:39.257000
 .	-	-	-	0:23:38.804000	0:23:39.257000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:39.257000" end="0:23:39.764000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:39.257000" end="0:23:39.764000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:23:39.257000	0:23:39.764000
 !	-	-	-	0:23:39.257000	0:23:39.764000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:39.257000" end="0:23:50.491000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:39.257000" end="0:23:50.491000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:23:39.257000	0:23:39.764000
 habe	habe	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:23:39.257000	0:23:39.764000
 dieses	dies	DET	-	0:23:39.764000	0:23:47.657000
@@ -6524,11 +6524,11 @@ Februar	Februar	NOUN	-	0:23:47.657000	0:23:50.491000
 Betriebsratschulung	Betriebsratschulung	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:23:47.657000	0:23:50.491000
 gehabt	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:23:47.657000	0:23:50.491000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:50.491000" end="0:23:51.224000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:50.491000" end="0:23:51.224000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:50.491000	0:23:51.224000
 .	-	-	-	0:23:50.491000	0:23:51.224000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:50.491000" end="0:23:55.371000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:50.491000" end="0:23:55.371000" project="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:23:50.491000	0:23:51.224000
 ORT	ORT	PROPN	-	0:23:50.491000	0:23:51.224000
 <pause duration="1,0s"/>
@@ -6541,11 +6541,11 @@ eine	einen	DET	-	0:23:51.224000	0:23:55.371000
 Woche	Woche	NOUN	-	0:23:51.224000	0:23:55.371000
 ,	-	-	-	0:23:51.224000	0:23:55.371000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:55.371000" end="0:23:55.871000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:55.371000" end="0:23:55.871000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:55.371000	0:23:55.871000
 .	-	-	-	0:23:55.371000	0:23:55.871000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:55.371000" end="0:24:08.291000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:23:55.371000" end="0:24:08.291000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:23:55.371000	0:23:55.871000
 da	-	-	-	0:23:55.371000	0:23:55.871000
 *lernst*	-	-	-	0:23:55.871000	0:23:59.191000
@@ -6579,7 +6579,7 @@ viel	viel	DET	-	0:24:05.037000	0:24:08.291000
 Stoff	Stoff	NOUN	-	0:24:05.037000	0:24:08.291000
 .	-	-	-	0:24:05.037000	0:24:08.291000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:08.291000" end="0:24:10.071000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:08.291000" end="0:24:10.071000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:24:08.291000	0:24:10.071000
 ja	ja	ADV	-	0:24:08.291000	0:24:10.071000
 das	der	PRON	-	0:24:08.291000	0:24:10.071000
@@ -6588,7 +6588,7 @@ ich	ich	PRON	-	0:24:08.291000	0:24:10.071000
 .	-	-	-	0:24:08.291000	0:24:10.071000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:10.071000" end="0:24:24.364000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:10.071000" end="0:24:24.364000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:24:10.071000	0:24:12.304000
 es	ich	PRON	-	0:24:10.071000	0:24:12.304000
 ist	sein	AUX	-	0:24:10.071000	0:24:12.304000
@@ -6642,11 +6642,11 @@ Betriebsrat	Betriebsrat	NOUN	-	0:24:19.597000	0:24:24.364000
 haben	haben	AUX	-	0:24:19.597000	0:24:24.364000
 ,	-	-	-	0:24:19.597000	0:24:24.364000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:24.364000" end="0:24:24.777000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:24.364000" end="0:24:24.777000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:24.364000	0:24:24.777000
 .	-	-	-	0:24:24.364000	0:24:24.777000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:24.364000" end="0:24:35.917000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:24.364000" end="0:24:35.917000" project="PP03" age_lower="18" age_upper="35">
 was	was	PRON	-	0:24:24.364000	0:24:24.777000
 obwohl	obwohl	SCONJ	-	0:24:24.777000	0:24:26.351000
 eigentlich	eigentlich	ADV	-	0:24:24.777000	0:24:26.351000
@@ -6691,11 +6691,11 @@ was	was	PRON	-	0:24:34.177000	0:24:35.917000
 sagen	sagen	VERB	-	0:24:34.177000	0:24:35.917000
 ,	-	-	-	0:24:34.177000	0:24:35.917000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:35.917000" end="0:24:36.257000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:35.917000" end="0:24:36.257000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:35.917000	0:24:36.257000
 .	-	-	-	0:24:35.917000	0:24:36.257000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:36.257000" end="0:24:44.697000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:36.257000" end="0:24:44.697000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:24:36.257000	0:24:37.424000
 selber	-	-	-	0:24:36.257000	0:24:37.424000
 *sagst*	-	-	-	0:24:36.257000	0:24:37.424000
@@ -6735,7 +6735,7 @@ das	der	PRON	-	0:24:42.391000	0:24:44.697000
 kommt	kommen	VERB	-	0:24:42.391000	0:24:44.697000
 .	-	-	-	0:24:42.391000	0:24:44.697000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:44.697000" end="0:24:53.717000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:44.697000" end="0:24:53.717000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:44.697000	0:24:46.324000
 .	-	-	-	0:24:44.697000	0:24:46.324000
 <pause duration="1,3s"/>
@@ -6772,11 +6772,11 @@ den	der	DET	-	0:24:52.917000	0:24:53.717000
 ganzen	ganz	NOUN	-	0:24:52.917000	0:24:53.717000
 ,	-	-	-	0:24:52.917000	0:24:53.717000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:52.917000" end="0:24:53.717000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:52.917000" end="0:24:53.717000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:52.917000	0:24:53.717000
 .	-	-	-	0:24:52.917000	0:24:53.717000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:53.717000" end="0:25:00.224000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:24:53.717000" end="0:25:00.224000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 was	was	PRON	-	0:24:53.717000	0:24:57.324000
 halt	halt	VERB	-	0:24:53.717000	0:24:57.324000
@@ -6800,7 +6800,7 @@ Position	Position	NOUN	-	0:24:57.324000	0:25:00.224000
 auch	auch	ADV	-	0:24:57.324000	0:25:00.224000
 .	-	-	-	0:24:57.324000	0:25:00.224000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:00.224000" end="0:25:11.464000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:00.224000" end="0:25:11.464000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:00.224000	0:25:04.357000
 ,	-	-	-	0:25:00.224000	0:25:04.357000
 du	du	PRON	-	0:25:00.224000	0:25:04.357000
@@ -6842,11 +6842,11 @@ verhandeln	verhandeln	VERB	-	0:25:07.377000	0:25:11.464000
 der	der	DET	-	0:25:07.377000	0:25:11.464000
 Betriebs=	Betriebsrat	NOUN	-	0:25:07.377000	0:25:11.464000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:11.464000" end="0:25:11.850000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:11.464000" end="0:25:11.850000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:11.464000	0:25:11.850000
 .	-	-	-	0:25:11.464000	0:25:11.850000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:11.464000" end="0:25:18.984000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:11.464000" end="0:25:18.984000" project="PP03" age_lower="18" age_upper="35">
 .	-	-	-	0:25:11.464000	0:25:11.850000
 <pause duration="1,3s"/>
 was	was	PRON	-	0:25:13.164000	0:25:14.970000
@@ -6867,7 +6867,7 @@ sie	ich	PRON	-	0:25:14.970000	0:25:18.984000
 auch	auch	ADV	-	0:25:14.970000	0:25:18.984000
 ,	-	-	-	0:25:14.970000	0:25:18.984000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:18.984000" end="0:25:20.217000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:18.984000" end="0:25:20.217000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:25:18.984000	0:25:20.217000
 und	und	CCONJ	-	0:25:18.984000	0:25:20.217000
 bist	sein	AUX	-	0:25:18.984000	0:25:20.217000
@@ -6876,7 +6876,7 @@ da	da	ADV	-	0:25:18.984000	0:25:20.217000
 die	der	DET	-	0:25:18.984000	0:25:20.217000
 Einzige	Einzige	ADJ	-	0:25:18.984000	0:25:20.217000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:18.984000" end="0:25:20.217000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:18.984000" end="0:25:20.217000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:25:18.984000	0:25:20.217000
 zum	zum	ADP	-	0:25:18.984000	0:25:20.217000
 Beispiel	Beispiel	NOUN	-	0:25:18.984000	0:25:20.217000
@@ -6884,7 +6884,7 @@ wie	wie	CCONJ	-	0:25:18.984000	0:25:20.217000
 s/	-	-	-	0:25:18.984000	0:25:20.217000
 .	-	-	-	0:25:18.984000	0:25:20.217000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:20.217000" end="0:25:22.290000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:20.217000" end="0:25:22.290000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:25:20.217000	0:25:22.050000
 sind	sein	AUX	-	0:25:20.217000	0:25:22.050000
 da	da	ADV	-	0:25:20.217000	0:25:22.050000
@@ -6893,7 +6893,7 @@ bei	bei	ADP	-	0:25:20.217000	0:25:22.050000
 euch	sich	PRON	-	0:25:22.050000	0:25:22.290000
 ?	-	-	-	0:25:22.050000	0:25:22.290000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:22.050000" end="0:25:24.037000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:22.050000" end="0:25:24.037000" project="PP03" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:25:22.050000	0:25:22.290000
 sind	sein	AUX	-	0:25:22.290000	0:25:24.037000
 im	im	ADP	-	0:25:22.290000	0:25:24.037000
@@ -6902,11 +6902,11 @@ zu	zu	PART	-	0:25:22.290000	0:25:24.037000
 dritt	dritt	ADJ	-	0:25:22.290000	0:25:24.037000
 .	-	-	-	0:25:22.290000	0:25:24.037000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:24.037000" end="0:25:24.757000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:24.037000" end="0:25:24.757000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:25:24.037000	0:25:24.757000
 .	-	-	-	0:25:24.037000	0:25:24.757000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:24.757000" end="0:25:30.217000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:24.757000" end="0:25:30.217000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:25:24.757000	0:25:26.097000
 jetzt	jetzt	ADV	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:25:24.757000	0:25:26.097000
 haben	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:25:24.757000	0:25:26.097000
@@ -6931,11 +6931,11 @@ wir	ich	PRON	-	0:25:27.810000	0:25:30.217000
 SONSTIGE	SONSTIGE	NOUN	-	0:25:27.810000	0:25:30.217000
 SONSTIGE	SONSTIGE	PROPN	-	0:25:27.810000	0:25:30.217000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:30.217000" end="0:25:32.577000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:30.217000" end="0:25:32.577000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:25:30.217000	0:25:32.577000
 .	-	-	-	0:25:30.217000	0:25:32.577000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:32.577000" end="0:25:34.084000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:32.577000" end="0:25:34.084000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:32.577000	0:25:34.084000
 ,	-	-	-	0:25:32.577000	0:25:34.084000
 wieder	wieder	ADV	-	0:25:32.577000	0:25:34.084000
@@ -6943,12 +6943,12 @@ alles	alle	PRON	-	0:25:32.577000	0:25:34.084000
 umgestellt	umstellen	VERB	-	0:25:32.577000	0:25:34.084000
 .	-	-	-	0:25:32.577000	0:25:34.084000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:34.084000" end="0:25:35.777000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:34.084000" end="0:25:35.777000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:34.084000	0:25:35.777000
 .	-	-	-	0:25:34.084000	0:25:35.777000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:35.777000" end="0:25:40.090000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:35.777000" end="0:25:40.090000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:25:35.777000	0:25:38.270000
 da	da	ADV	-	0:25:35.777000	0:25:38.270000
 sind	sein	AUX	-	0:25:35.777000	0:25:38.270000
@@ -6968,25 +6968,25 @@ da	da	ADV	-	0:25:38.270000	0:25:40.090000
 drinnen	drinnen	ADV	-	0:25:38.270000	0:25:40.090000
 .	-	-	-	0:25:38.270000	0:25:40.090000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:40.090000" end="0:25:40.624000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:40.090000" end="0:25:40.624000" project="PP03" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:25:40.090000	0:25:40.624000
 ?	-	-	-	0:25:40.090000	0:25:40.624000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:40.090000" end="0:25:41.117000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:40.090000" end="0:25:41.117000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:40.624000	0:25:41.117000
 .	-	-	-	0:25:40.624000	0:25:41.117000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:41.117000" end="0:25:43.930000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:41.117000" end="0:25:43.930000" project="PP03" age_lower="18" age_upper="35">
 arg	arg	X	-	0:25:41.117000	0:25:43.930000
 !	-	-	-	0:25:41.117000	0:25:43.930000
 <pause duration="2,2s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:43.930000" end="0:25:44.924000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:43.930000" end="0:25:44.924000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:43.930000	0:25:44.924000
 .	-	-	-	0:25:43.930000	0:25:44.924000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:44.924000" end="0:25:49.277000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:44.924000" end="0:25:49.277000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:25:44.924000	0:25:46.657000
 was	-	-	-	0:25:44.924000	0:25:46.657000
 *möchtest*	-	-	-	0:25:44.924000	0:25:46.657000
@@ -7005,7 +7005,7 @@ beruflich	beruflich	ADJ	-	0:25:46.657000	0:25:49.277000
 gesehen	sehen	VERB	-	0:25:46.657000	0:25:49.277000
 ?	-	-	-	0:25:46.657000	0:25:49.277000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:49.277000" end="0:25:53.157000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:49.277000" end="0:25:53.157000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:25:49.277000	0:25:50.830000
 Wunsch	Wunsch	NOUN	-	0:25:49.277000	0:25:50.830000
 ähm	ähm	ADJ	-	0:25:49.277000	0:25:50.830000
@@ -7022,9 +7022,9 @@ eigentlich	eigentlich	ADV	-	0:25:51.650000	0:25:53.157000
 will	wollen	VERB	-	0:25:51.650000	0:25:53.157000
 ,	-	-	-	0:25:51.650000	0:25:53.157000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:53.157000" end="0:25:54.544000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:53.157000" end="0:25:54.544000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:53.157000" end="0:25:59.824000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:53.157000" end="0:25:59.824000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:25:53.157000	0:25:54.544000
 ist	sein	AUX	-	0:25:53.157000	0:25:54.544000
 eher	eher	ADV	-	0:25:53.157000	0:25:54.544000
@@ -7049,11 +7049,11 @@ nach	nach	ADP	-	0:25:56.244000	0:25:59.824000
 ,	-	-	-	0:25:56.244000	0:25:59.824000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:59.824000" end="0:26:00.353000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:59.824000" end="0:26:00.353000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:59.824000	0:26:00.353000
 .	-	-	-	0:25:59.824000	0:26:00.353000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:59.824000" end="0:26:08.524000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:25:59.824000" end="0:26:08.524000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:25:59.824000	0:26:00.353000
 eine	einen	DET	-	0:26:00.353000	0:26:02.930000
 ehemalige	ehemalig	ADJ	-	0:26:00.353000	0:26:02.930000
@@ -7078,7 +7078,7 @@ seine	mein	DET	+menschl PM PR Pkon Poss PossDat Prel Prop Soz irrelevant	0:26:05
 NAME	NAME	PROPN	-	0:26:05.177000	0:26:08.524000
 .	-	-	-	0:26:05.177000	0:26:08.524000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:08.524000" end="0:26:11.504000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:08.524000" end="0:26:11.504000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:08.524000	0:26:10.350000
 kennen	kennen	VERB	-	0:26:08.524000	0:26:10.350000
 tue	tun	VERB	-	0:26:08.524000	0:26:10.350000
@@ -7097,7 +7097,7 @@ ein	einen	DET	-	0:26:10.350000	0:26:11.504000
 bissi	bissi	NOUN	-	0:26:10.350000	0:26:11.504000
 .	-	-	-	0:26:10.350000	0:26:11.504000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:11.504000" end="0:26:23.964000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:11.504000" end="0:26:23.964000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:11.504000	0:26:15.910000
 und	und	CCONJ	-	0:26:11.504000	0:26:15.910000
 <pause duration="1,8s"/>
@@ -7145,11 +7145,11 @@ keine	kein	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrele
 Arbeit	Arbeit	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:26:22.224000	0:26:23.964000
 nicht	nicht	PART	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:26:22.224000	0:26:23.964000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:23.964000" end="0:26:24.584000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:23.964000" end="0:26:24.584000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:23.964000	0:26:24.584000
 .	-	-	-	0:26:23.964000	0:26:24.584000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:23.964000" end="0:26:34.797000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:23.964000" end="0:26:34.797000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:26:23.964000	0:26:24.584000
 so	so	ADV	-	0:26:24.584000	0:26:25.857000
 .	-	-	-	0:26:24.584000	0:26:25.857000
@@ -7191,11 +7191,11 @@ auf	auf	ADP	-	0:26:33.584000	0:26:34.797000
 einmal	einmal	ADV	-	0:26:33.584000	0:26:34.797000
 .	-	-	-	0:26:33.584000	0:26:34.797000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:34.797000" end="0:26:35.164000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:34.797000" end="0:26:35.164000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:34.797000	0:26:35.164000
 .	-	-	-	0:26:34.797000	0:26:35.164000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:35.164000" end="0:26:41.910000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:35.164000" end="0:26:41.910000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:26:35.164000	0:26:37.390000
 möchte	-	-	-	0:26:35.164000	0:26:37.390000
 ich	-	-	-	0:26:35.164000	0:26:37.390000
@@ -7225,16 +7225,16 @@ ich	ich	PRON	-	0:26:41.344000	0:26:41.910000
 weiß	weiß	VERB	-	0:26:41.344000	0:26:41.910000
 ,	-	-	-	0:26:41.344000	0:26:41.910000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:41.910000" end="0:26:42.504000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:41.910000" end="0:26:42.504000" project="PP03" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:26:41.910000	0:26:42.504000
 ?	-	-	-	0:26:41.910000	0:26:42.504000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:42.504000" end="0:26:43.977000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:42.504000" end="0:26:43.977000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:42.504000	0:26:43.977000
 .	-	-	-	0:26:42.504000	0:26:43.977000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:43.977000" end="0:26:47.744000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:43.977000" end="0:26:47.744000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:26:43.977000	0:26:46.610000
 eh	eh	X	-	0:26:43.977000	0:26:46.610000
 ,	-	-	-	0:26:43.977000	0:26:46.610000
@@ -7254,7 +7254,7 @@ das	der	PRON	-	0:26:46.610000	0:26:47.744000
 eher/	-	-	-	0:26:46.610000	0:26:47.744000
 .	-	-	-	0:26:46.610000	0:26:47.744000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:46.610000" end="0:26:51.977000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:46.610000" end="0:26:51.977000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:26:46.610000	0:26:47.744000
 da	da	ADV	-	0:26:46.610000	0:26:47.744000
 denke	denken	VERB	-	0:26:46.610000	0:26:47.744000
@@ -7280,12 +7280,12 @@ schon	schon	ADV	-	0:26:50.517000	0:26:51.977000
 werden	werden	AUX	-	0:26:50.517000	0:26:51.977000
 ,	-	-	-	0:26:50.517000	0:26:51.977000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:51.977000" end="0:26:53.097000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:51.977000" end="0:26:53.097000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:26:51.977000	0:26:53.097000
 eh	eh	X	-	0:26:51.977000	0:26:53.097000
 .	-	-	-	0:26:51.977000	0:26:53.097000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:51.977000" end="0:26:53.097000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:51.977000" end="0:26:53.097000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:26:51.977000	0:26:53.097000
 das	der	PRON	-	0:26:51.977000	0:26:53.097000
 kann	können	VERB	-	0:26:51.977000	0:26:53.097000
@@ -7293,7 +7293,7 @@ ich	ich	PRON	-	0:26:51.977000	0:26:53.097000
 nicht	nicht	PART	-	0:26:51.977000	0:26:53.097000
 .	-	-	-	0:26:51.977000	0:26:53.097000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:53.097000" end="0:27:00.004000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:53.097000" end="0:27:00.004000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:53.097000	0:26:54.504000
 und	und	CCONJ	-	0:26:53.097000	0:26:54.504000
 weil	weil	SCONJ	-	0:26:53.097000	0:26:54.504000
@@ -7340,11 +7340,11 @@ oder	oder	CCONJ	-	0:26:58.577000	0:27:00.004000
 so	so	ADV	-	0:26:58.577000	0:27:00.004000
 .	-	-	-	0:26:58.577000	0:27:00.004000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:00.004000" end="0:27:00.584000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:00.004000" end="0:27:00.584000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:00.004000	0:27:00.584000
 .	-	-	-	0:27:00.004000	0:27:00.584000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:00.584000" end="0:27:03.330000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:00.584000" end="0:27:03.330000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:27:00.584000	0:27:02.770000
 glaube	glauben	VERB	-	0:27:00.584000	0:27:02.770000
 ,	-	-	-	0:27:00.584000	0:27:02.770000
@@ -7363,7 +7363,7 @@ weiß	weiß	VERB	-	0:27:02.770000	0:27:03.330000
 nicht	nicht	PART	-	0:27:02.770000	0:27:03.330000
 .	-	-	-	0:27:02.770000	0:27:03.330000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:02.770000" end="0:27:05.330000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:02.770000" end="0:27:05.330000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:27:02.770000	0:27:03.330000
 ,	-	-	-	0:27:02.770000	0:27:03.330000
 gar	gar	ADV	-	0:27:03.330000	0:27:05.330000
@@ -7376,7 +7376,7 @@ gar	gar	ADV	-	0:27:03.330000	0:27:05.330000
 nicht	nicht	PART	-	0:27:03.330000	0:27:05.330000
 .	-	-	-	0:27:03.330000	0:27:05.330000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:05.330000" end="0:27:09.957000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:05.330000" end="0:27:09.957000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:27:05.330000	0:27:07.330000
 da	da	ADV	-	0:27:05.330000	0:27:07.330000
 müsste	müsste	VERB	-	0:27:05.330000	0:27:07.330000
@@ -7404,7 +7404,7 @@ habe	habe	AUX	-	0:27:08.644000	0:27:09.597000
 quasi	quasi	ADV	-	0:27:09.597000	0:27:09.957000
 .	-	-	-	0:27:09.597000	0:27:09.957000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:09.597000" end="0:27:11.364000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:09.597000" end="0:27:11.364000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:09.597000	0:27:09.957000
 dann	-	-	-	0:27:09.597000	0:27:09.957000
 *muss*	-	-	-	0:27:09.957000	0:27:11.364000
@@ -7415,7 +7415,7 @@ Grund	-	-	-	0:27:09.957000	0:27:11.364000
 geben	-	-	-	0:27:09.957000	0:27:11.364000
 .	-	-	-	0:27:09.957000	0:27:11.364000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:11.364000" end="0:27:14.577000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:11.364000" end="0:27:14.577000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:11.364000	0:27:13.364000
 .	-	-	-	0:27:11.364000	0:27:13.364000
 <pause duration="1,8s"/>
@@ -7426,7 +7426,7 @@ ja	ja	ADV	-	0:27:13.364000	0:27:14.577000
 auch/	-	-	-	0:27:13.364000	0:27:14.577000
 .	-	-	-	0:27:13.364000	0:27:14.577000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:13.364000" end="0:27:33.930000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:13.364000" end="0:27:33.930000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:27:13.364000	0:27:14.577000
 so	so	ADV	-	0:27:13.364000	0:27:14.577000
 wie	wie	CCONJ	-	0:27:13.364000	0:27:14.577000
@@ -7515,11 +7515,11 @@ vorne	vorne	ADV	-	0:27:32.070000	0:27:33.930000
 anfangen	anfangen	VERB	-	0:27:32.070000	0:27:33.930000
 ,	-	-	-	0:27:32.070000	0:27:33.930000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:33.930000" end="0:27:34.944000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:33.930000" end="0:27:34.944000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:33.930000	0:27:34.944000
 .	-	-	-	0:27:33.930000	0:27:34.944000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:33.930000" end="0:27:41.430000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:33.930000" end="0:27:41.430000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:27:33.930000	0:27:34.944000
 ich	ich	PRON	-	0:27:33.930000	0:27:34.944000
 Industrietischler	Industrietischler	NOUN	-	0:27:33.930000	0:27:34.944000
@@ -7554,11 +7554,11 @@ Null	-	-	-	0:27:39.597000	0:27:41.430000
 auf	-	-	-	0:27:39.597000	0:27:41.430000
 lernen	-	-	-	0:27:39.597000	0:27:41.430000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:41.430000" end="0:27:41.750000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:41.430000" end="0:27:41.750000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:41.430000	0:27:41.750000
 .	-	-	-	0:27:41.430000	0:27:41.750000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:41.430000" end="0:27:52.250000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:41.430000" end="0:27:52.250000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:27:41.430000	0:27:41.750000
 musst	-	-	-	0:27:41.750000	0:27:45.024000
 ziemlich	-	-	-	0:27:41.750000	0:27:45.024000
@@ -7602,7 +7602,7 @@ einen	ein	DET	-	0:27:50.317000	0:27:52.250000
 Firma	Firma	NOUN	-	0:27:50.317000	0:27:52.250000
 war	sein	AUX	-	0:27:50.317000	0:27:52.250000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:52.250000" end="0:27:53.384000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:52.250000" end="0:27:53.384000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:27:52.250000	0:27:53.384000
 eh	eh	X	-	0:27:52.250000	0:27:53.384000
 ,	-	-	-	0:27:52.250000	0:27:53.384000
@@ -7611,11 +7611,11 @@ bin	sein	AUX	-	0:27:52.250000	0:27:53.384000
 jetzt	jetzt	ADV	-	0:27:52.250000	0:27:53.384000
 in	in	ADP	-	0:27:52.250000	0:27:53.384000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:52.250000" end="0:27:53.384000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:52.250000" end="0:27:53.384000" project="PP03" age_lower="18" age_upper="35">
 aber/	-	-	-	0:27:52.250000	0:27:53.384000
 .	-	-	-	0:27:52.250000	0:27:53.384000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:53.384000" end="0:27:56.490000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:53.384000" end="0:27:56.490000" project="PP03" age_lower="18" age_upper="35">
 zwei	zwei	NUM	-	0:27:53.384000	0:27:55.230000
 Firmen	Firma	NOUN	-	0:27:53.384000	0:27:55.230000
 gewesen	sein	AUX	-	0:27:53.384000	0:27:55.230000
@@ -7625,18 +7625,18 @@ ein	einen	DET	-	0:27:53.384000	0:27:55.230000
 Praktikum	Praktikum	NOUN	-	0:27:53.384000	0:27:55.230000
 .	-	-	-	0:27:55.230000	0:27:56.490000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:55.230000" end="0:27:56.490000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:55.230000" end="0:27:56.490000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:27:55.230000	0:27:56.490000
 Praktikum	Praktikum	NOUN	-	0:27:55.230000	0:27:56.490000
 das	der	PRON	-	0:27:55.230000	0:27:56.490000
 meine	meinen	DET	-	0:27:55.230000	0:27:56.490000
 ich	ich	PRON	-	0:27:55.230000	0:27:56.490000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:56.490000" end="0:27:57.050000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:56.490000" end="0:27:57.050000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:56.490000	0:27:57.050000
 .	-	-	-	0:27:56.490000	0:27:57.050000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:56.490000" end="0:27:58.297000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:56.490000" end="0:27:58.297000" project="PP03" age_lower="18" age_upper="35">
 vielleicht	vielleicht	ADV	-	0:27:56.490000	0:27:57.050000
 von	von	ADP	-	0:27:57.050000	0:27:58.297000
 dem	der	DET	-	0:27:57.050000	0:27:58.297000
@@ -7644,7 +7644,7 @@ her	her	ADV	-	0:27:57.050000	0:27:58.297000
 .	-	-	-	0:27:57.050000	0:27:58.297000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:58.297000" end="0:28:00.344000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:58.297000" end="0:28:00.344000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:27:58.297000	0:27:59.950000
 aber	aber	CCONJ	-	0:27:58.297000	0:27:59.950000
 es	ich	PRON	-	0:27:58.297000	0:27:59.950000
@@ -7657,11 +7657,11 @@ anders	anders	ADV	-	0:27:58.297000	0:27:59.950000
 arbeiten	arbeiten	VERB	-	0:27:59.950000	0:28:00.344000
 .	-	-	-	0:27:59.950000	0:28:00.344000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:59.950000" end="0:28:00.344000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:27:59.950000" end="0:28:00.344000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:59.950000	0:28:00.344000
 .	-	-	-	0:27:59.950000	0:28:00.344000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:00.344000" end="0:28:05.990000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:00.344000" end="0:28:05.990000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 und	und	CCONJ	-	0:28:00.344000	0:28:02.344000
 man	man	PRON	-	0:28:00.344000	0:28:02.344000
@@ -7692,7 +7692,7 @@ oder	oder	CCONJ	-	0:28:05.164000	0:28:05.990000
 nicht	nicht	PART	-	0:28:05.164000	0:28:05.990000
 .	-	-	-	0:28:05.164000	0:28:05.990000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:05.164000" end="0:28:16.710000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:05.164000" end="0:28:16.710000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:05.164000	0:28:05.990000
 .	-	-	-	0:28:05.164000	0:28:05.990000
 <pause duration="0,7s"/>
@@ -7745,11 +7745,11 @@ meinem	mein	DET	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond Soz irreleva
 neuen	neu	ADJ	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond Soz irrelevant	0:28:14.517000	0:28:16.710000
 Meister	meist	NOUN	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond Soz irrelevant	0:28:14.517000	0:28:16.710000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:16.710000" end="0:28:17.664000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:16.710000" end="0:28:17.664000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:28:16.710000	0:28:17.664000
 .	-	-	-	0:28:16.710000	0:28:17.664000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:16.710000" end="0:28:24.370000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:16.710000" end="0:28:24.370000" project="PP03" age_lower="18" age_upper="35">
 bin	sein	AUX	-	0:28:16.710000	0:28:17.664000
 ich	ich	PRON	-	0:28:16.710000	0:28:17.664000
 auch	auch	ADV	-	0:28:16.710000	0:28:17.664000
@@ -7786,7 +7786,7 @@ wenig	wenig	PRON	-	0:28:21.124000	0:28:24.370000
 sein	mein	AUX	-	0:28:21.124000	0:28:24.370000
 ,	-	-	-	0:28:21.124000	0:28:24.370000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:24.370000" end="0:28:28.064000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:24.370000" end="0:28:28.064000" project="PP03" age_lower="18" age_upper="35">
 glaube	glauben	VERB	-	0:28:24.370000	0:28:25.104000
 ich	ich	PRON	-	0:28:24.370000	0:28:25.104000
 auch	auch	ADV	-	0:28:24.370000	0:28:25.104000
@@ -7807,11 +7807,11 @@ dazu	dazu	ADV	-	0:28:25.104000	0:28:27.524000
 mhm	mhm	PROPN	-	0:28:27.524000	0:28:28.064000
 .	-	-	-	0:28:27.524000	0:28:28.064000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:27.524000" end="0:28:28.064000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:27.524000" end="0:28:28.064000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:27.524000	0:28:28.064000
 .	-	-	-	0:28:27.524000	0:28:28.064000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:28.064000" end="0:28:38.497000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:28.064000" end="0:28:38.497000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ja	ja	ADV	-	0:28:28.064000	0:28:30.723000
 das	der	PRON	-	0:28:28.064000	0:28:30.723000
@@ -7875,11 +7875,11 @@ du	du	PRON	-	0:28:37.477000	0:28:38.497000
 machst	machen	VERB	-	0:28:37.477000	0:28:38.497000
 ,	-	-	-	0:28:37.477000	0:28:38.497000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:37.477000" end="0:28:38.497000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:37.477000" end="0:28:38.497000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:37.477000	0:28:38.497000
 .	-	-	-	0:28:37.477000	0:28:38.497000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:38.497000" end="0:28:40.450000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:38.497000" end="0:28:40.450000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:28:38.497000	0:28:39.897000
 wenn	wenn	SCONJ	-	0:28:38.497000	0:28:39.897000
 du	du	PRON	-	0:28:38.497000	0:28:39.897000
@@ -7893,11 +7893,11 @@ was	was	PRON	-	0:28:39.897000	0:28:40.450000
 machen	machen	VERB	-	0:28:39.897000	0:28:40.450000
 ,	-	-	-	0:28:39.897000	0:28:40.450000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:39.897000" end="0:28:40.450000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:39.897000" end="0:28:40.450000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:28:39.897000	0:28:40.450000
 .	-	-	-	0:28:39.897000	0:28:40.450000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:40.450000" end="0:28:46.377000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:40.450000" end="0:28:46.377000" project="PP03" age_lower="18" age_upper="35">
 was	was	PRON	-	0:28:40.450000	0:28:41.930000
 dir	sich	PRON	-	0:28:40.450000	0:28:41.930000
 voll	voll	ADJ	-	0:28:40.450000	0:28:41.930000
@@ -7929,7 +7929,7 @@ dann	-	-	-	0:28:44.083000	0:28:46.377000
 .	-	-	-	0:28:44.083000	0:28:46.377000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:46.377000" end="0:28:55.250000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:46.377000" end="0:28:55.250000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:28:46.377000	0:28:47.877000
 wenn	wenn	SCONJ	-	0:28:46.377000	0:28:47.877000
 du	du	PRON	-	0:28:46.377000	0:28:47.877000
@@ -7977,18 +7977,18 @@ Leute	Leute	NOUN	-	0:28:54.330000	0:28:55.250000
 sehe	sehen	VERB	-	0:28:54.330000	0:28:55.250000
 ,	-	-	-	0:28:54.330000	0:28:55.250000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:55.250000" end="0:28:56.570000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:55.250000" end="0:28:56.570000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:28:55.250000	0:28:56.570000
 .	-	-	-	0:28:55.250000	0:28:56.570000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:55.250000" end="0:28:56.570000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:55.250000" end="0:28:56.570000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:28:55.250000	0:28:56.570000
 ist	sein	AUX	-	0:28:55.250000	0:28:56.570000
 halt	halt	ADV	-	0:28:55.250000	0:28:56.570000
 ja	ja	ADV	-	0:28:55.250000	0:28:56.570000
 .	-	-	-	0:28:55.250000	0:28:56.570000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:56.570000" end="0:29:01.037000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:28:56.570000" end="0:29:01.037000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 okay	okay	NOUN	-	0:28:58.570000	0:28:59.450000
 ,	-	-	-	0:28:58.570000	0:28:59.450000
@@ -8003,12 +8003,12 @@ der	der	DET	-	0:28:59.450000	0:29:01.037000
 Findungsphase	Findungsphase	NOUN	-	0:28:59.450000	0:29:01.037000
 ?	-	-	-	0:28:59.450000	0:29:01.037000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:01.037000" end="0:29:02.950000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:01.037000" end="0:29:02.950000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:01.037000	0:29:02.950000
 .	-	-	-	0:29:01.037000	0:29:02.950000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:02.950000" end="0:29:05.610000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:02.950000" end="0:29:05.610000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:29:02.950000	0:29:04.723000
 solange	solange	SCONJ	-	0:29:02.950000	0:29:04.723000
 du	du	PRON	-	0:29:02.950000	0:29:04.723000
@@ -8026,7 +8026,7 @@ so	so	ADV	-	0:29:04.723000	0:29:05.610000
 schlimm	schlimm	ADJ	-	0:29:04.723000	0:29:05.610000
 ,	-	-	-	0:29:04.723000	0:29:05.610000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:05.610000" end="0:29:26.703000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:05.610000" end="0:29:26.703000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:29:05.610000	0:29:06.463000
 .	-	-	-	0:29:05.610000	0:29:06.463000
 <pause duration="0,9s"/>
@@ -8118,7 +8118,7 @@ müssen	müssen	VERB	-	0:29:22.703000	0:29:25.410000
 .	-	-	-	0:29:22.703000	0:29:25.410000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:26.703000" end="0:29:29.003000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:26.703000" end="0:29:29.003000" project="PP03" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:29:26.703000	0:29:29.003000
 von	von	ADP	-	0:29:26.703000	0:29:29.003000
 eurer	eurer	DET	-	0:29:26.703000	0:29:29.003000
@@ -8131,24 +8131,24 @@ müssen	müssen	VERB	-	0:29:26.703000	0:29:29.003000
 auch	auch	ADV	-	0:29:26.703000	0:29:29.003000
 ?	-	-	-	0:29:26.703000	0:29:29.003000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:29.003000" end="0:29:30.797000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:29.003000" end="0:29:30.797000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 die	der	DET	-	0:29:29.003000	0:29:30.797000
 ganze	ganze	ADJ	-	0:29:29.003000	0:29:30.797000
 Tischlerei	Tischlerei	NOUN	-	0:29:29.003000	0:29:30.797000
 .	-	-	-	0:29:29.003000	0:29:30.797000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:30.797000" end="0:29:31.870000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:30.797000" end="0:29:31.870000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:29:30.797000	0:29:31.870000
 .	-	-	-	0:29:30.797000	0:29:31.870000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:30.797000" end="0:29:31.870000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:30.797000" end="0:29:31.870000" project="PP03" age_lower="18" age_upper="35">
 der	der	DET	-	0:29:30.797000	0:29:31.870000
 ganze	ganze	ADJ	-	0:29:30.797000	0:29:31.870000
 Ladenbau	Ladenbau	NOUN	-	0:29:30.797000	0:29:31.870000
 .	-	-	-	0:29:30.797000	0:29:31.870000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:31.870000" end="0:29:36.170000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:31.870000" end="0:29:36.170000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:29:31.870000	0:29:36.170000
 wieso	wieso	ADV	-	0:29:31.870000	0:29:36.170000
@@ -8167,7 +8167,7 @@ gehen	gehen	VERB	-	0:29:31.870000	0:29:36.170000
 müssen	müssen	VERB	-	0:29:31.870000	0:29:36.170000
 ?	-	-	-	0:29:31.870000	0:29:36.170000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:36.170000" end="0:29:38.983000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:36.170000" end="0:29:38.983000" project="PP03" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:29:36.170000	0:29:37.597000
 ist	sein	AUX	-	0:29:36.170000	0:29:37.597000
 halt	halt	ADV	-	0:29:36.170000	0:29:37.597000
@@ -8177,11 +8177,11 @@ Versand	Versand	NOUN	-	0:29:37.597000	0:29:38.983000
 ist	sein	AUX	-	0:29:37.597000	0:29:38.983000
 geblieben	bleiben	VERB	-	0:29:37.597000	0:29:38.983000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:38.983000" end="0:29:39.563000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:38.983000" end="0:29:39.563000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:29:38.983000	0:29:39.563000
 .	-	-	-	0:29:38.983000	0:29:39.563000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:38.983000" end="0:29:52.823000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:38.983000" end="0:29:52.823000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:29:38.983000	0:29:39.563000
 nur	nur	ADV	-	0:29:38.983000	0:29:39.563000
 der	der	DET	-	0:29:39.563000	0:29:41.870000
@@ -8232,11 +8232,11 @@ jünger	jung	ADJ	-	0:29:51.597000	0:29:52.823000
 sind	sein	AUX	-	0:29:51.597000	0:29:52.823000
 .	-	-	-	0:29:51.597000	0:29:52.823000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:52.823000" end="0:29:53.430000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:52.823000" end="0:29:53.430000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:29:52.823000	0:29:53.430000
 .	-	-	-	0:29:52.823000	0:29:53.430000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:52.823000" end="0:30:02.670000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:29:52.823000" end="0:30:02.670000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:29:52.823000	0:29:53.430000
 die	der	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:29:52.823000	0:29:53.430000
 haben	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:29:52.823000	0:29:53.430000
@@ -8266,11 +8266,11 @@ gebraucht	gebrauchen	VERB	-	0:29:57.637000	0:30:02.670000
 werden	werden	AUX	-	0:29:57.637000	0:30:02.670000
 ,	-	-	-	0:29:57.637000	0:30:02.670000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:02.670000" end="0:30:03.017000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:02.670000" end="0:30:03.017000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:02.670000	0:30:03.017000
 .	-	-	-	0:30:02.670000	0:30:03.017000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:02.670000" end="0:30:12.723000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:02.670000" end="0:30:12.723000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:30:02.670000	0:30:03.017000
 weiß	weiß	VERB	-	0:30:02.670000	0:30:03.017000
 nicht	nicht	PART	-	0:30:02.670000	0:30:03.017000
@@ -8317,11 +8317,11 @@ bräuchten	bräuchten	VERB	-	0:30:11.916000	0:30:12.723000
 euch	sich	PRON	-	0:30:11.916000	0:30:12.723000
 !"	-	-	-	0:30:11.916000	0:30:12.723000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:12.723000" end="0:30:13.537000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:12.723000" end="0:30:13.537000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:30:12.723000	0:30:13.537000
 .	-	-	-	0:30:12.723000	0:30:13.537000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:13.537000" end="0:30:16.383000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:13.537000" end="0:30:16.383000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:30:13.537000	0:30:16.383000
 für	für	ADP	-	0:30:13.537000	0:30:16.383000
 die	der	PRON	-	0:30:13.537000	0:30:16.383000
@@ -8336,11 +8336,11 @@ herinnen	herinnen	VERB	-	0:30:13.537000	0:30:16.383000
 .	-	-	-	0:30:13.537000	0:30:16.383000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:16.383000" end="0:30:16.763000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:16.383000" end="0:30:16.763000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:30:16.383000	0:30:16.763000
 !	-	-	-	0:30:16.383000	0:30:16.763000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:16.763000" end="0:30:18.763000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:16.763000" end="0:30:18.763000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:30:16.763000	0:30:18.763000
 für	-	-	-	0:30:16.763000	0:30:18.763000
 die	-	-	-	0:30:16.763000	0:30:18.763000
@@ -8349,14 +8349,14 @@ voll	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:30:16.763000	0:30:18.
 super	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:30:16.763000	0:30:18.763000
 Lösung	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:30:16.763000	0:30:18.763000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:18.763000" end="0:30:19.230000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:18.763000" end="0:30:19.230000" project="PP03" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:30:18.763000	0:30:19.230000
 quasi	quasi	ADV	-	0:30:18.763000	0:30:19.230000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:18.763000" end="0:30:19.230000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:18.763000" end="0:30:19.230000" project="PP03" age_lower="18" age_upper="35">
 (gell?)	-	-	-	0:30:18.763000	0:30:19.230000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:19.230000" end="0:30:21.230000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:19.230000" end="0:30:21.230000" project="PP03" age_lower="18" age_upper="35">
 früher	früh	ADJ	-	0:30:19.230000	0:30:21.230000
 in	in	ADP	-	0:30:19.230000	0:30:21.230000
 Pension	Pension	NOUN	-	0:30:19.230000	0:30:21.230000
@@ -8369,7 +8369,7 @@ die	der	DET	-	0:30:19.230000	0:30:21.230000
 Richtung	Richtung	NOUN	-	0:30:19.230000	0:30:21.230000
 .	-	-	-	0:30:19.230000	0:30:21.230000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:21.230000" end="0:30:28.923000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:21.230000" end="0:30:28.923000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:30:21.230000	0:30:23.957000
 und	-	-	-	0:30:21.230000	0:30:23.957000
 bis	-	-	-	0:30:21.230000	0:30:23.957000
@@ -8408,11 +8408,11 @@ in	in	ADP	-	0:30:25.957000	0:30:28.923000
 Pension	Pension	NOUN	-	0:30:25.957000	0:30:28.923000
 .	-	-	-	0:30:25.957000	0:30:28.923000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:28.923000" end="0:30:29.283000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:28.923000" end="0:30:29.283000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:28.923000	0:30:29.283000
 .	-	-	-	0:30:28.923000	0:30:29.283000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:29.283000" end="0:30:30.857000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:29.283000" end="0:30:30.857000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:30:29.283000	0:30:30.857000
 daweil	daweil	ADV	-	0:30:29.283000	0:30:30.857000
 ist	sein	AUX	-	0:30:29.283000	0:30:30.857000
@@ -8422,11 +8422,11 @@ nicht	nicht	PART	-	0:30:29.283000	0:30:30.857000
 schlecht	schlecht	ADJ	-	0:30:29.283000	0:30:30.857000
 ,	-	-	-	0:30:29.283000	0:30:30.857000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:30.857000" end="0:30:31.550000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:30.857000" end="0:30:31.550000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:30.857000	0:30:31.550000
 .	-	-	-	0:30:30.857000	0:30:31.550000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:30.857000" end="0:30:52.583000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:30.857000" end="0:30:52.583000" project="PP03" age_lower="18" age_upper="35">
 die/	-	-	-	0:30:30.857000	0:30:31.550000
 .	-	-	-	0:30:30.857000	0:30:31.550000
 <pause duration="1,1s"/>
@@ -8499,11 +8499,11 @@ sowieso	sowieso	ADV	-	0:30:50.843000	0:30:52.583000
 nicht	nicht	PART	-	0:30:50.843000	0:30:52.583000
 untergebracht	unterbringen	VERB	-	0:30:50.843000	0:30:52.583000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:52.583000" end="0:30:53.163000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:52.583000" end="0:30:53.163000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:52.583000	0:30:53.163000
 .	-	-	-	0:30:52.583000	0:30:53.163000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:52.583000" end="0:30:56.317000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:52.583000" end="0:30:56.317000" project="PP03" age_lower="18" age_upper="35">
 beziehungsweise	beziehungsweise	CCONJ	-	0:30:52.583000	0:30:53.163000
 wollten	wollen	VERB	-	0:30:53.163000	0:30:53.977000
 die	der	PRON	-	0:30:53.163000	0:30:53.977000
@@ -8521,12 +8521,12 @@ gehen	gehen	VERB	-	0:30:54.903000	0:30:56.317000
 kannst	können	NOUN	-	0:30:54.903000	0:30:56.317000
 .	-	-	-	0:30:54.903000	0:30:56.317000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:56.317000" end="0:30:58.077000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:56.317000" end="0:30:58.077000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:56.317000	0:30:58.077000
 .	-	-	-	0:30:56.317000	0:30:58.077000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:58.077000" end="0:31:11.590000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:30:58.077000" end="0:31:11.590000" project="PP03" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:30:58.077000	0:31:00.803000
 muss	muss	VERB	-	0:30:58.077000	0:31:00.803000
 dir	sich	PRON	-	0:30:58.077000	0:31:00.803000
@@ -8576,18 +8576,18 @@ machen	machen	VERB	-	0:31:09.123000	0:31:11.590000
 nicht	nicht	PART	-	0:31:09.123000	0:31:11.590000
 ?	-	-	-	0:31:09.123000	0:31:11.590000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:11.590000" end="0:31:12.403000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:11.590000" end="0:31:12.403000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:31:11.590000	0:31:12.403000
 .	-	-	-	0:31:11.590000	0:31:12.403000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:12.403000" end="0:31:13.263000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:12.403000" end="0:31:13.263000" project="PP03" age_lower="18" age_upper="35">
 Bandelarbeit	Bandelarbeit	NOUN	-	0:31:12.403000	0:31:13.263000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:13.263000" end="0:31:14.297000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:13.263000" end="0:31:14.297000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:31:13.263000	0:31:14.297000
 .	-	-	-	0:31:13.263000	0:31:14.297000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:13.263000" end="0:31:21.283000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:13.263000" end="0:31:21.283000" project="PP03" age_lower="18" age_upper="35">
 blöd	blöd	ADJ	-	0:31:13.263000	0:31:14.297000
 gesagt	sagen	VERB	-	0:31:13.263000	0:31:14.297000
 .	-	-	-	0:31:13.263000	0:31:14.297000
@@ -8622,7 +8622,7 @@ nicht	nicht	PART	-	0:31:19.043000	0:31:21.283000
 ?	-	-	-	0:31:19.043000	0:31:21.283000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:21.283000" end="0:31:23.210000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:21.283000" end="0:31:23.210000" project="PP03" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:31:21.283000	0:31:21.810000
 u/	-	-	-	0:31:21.810000	0:31:23.210000
 den	der	DET	-	0:31:21.810000	0:31:23.210000
@@ -8630,7 +8630,7 @@ ganzen	ganz	ADJ	-	0:31:21.810000	0:31:23.210000
 Tag	Tag	NOUN	-	0:31:21.810000	0:31:23.210000
 .	-	-	-	0:31:21.810000	0:31:23.210000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:21.810000" end="0:31:24.557000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:21.810000" end="0:31:24.557000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:31:21.810000	0:31:23.210000
 *musst*	-	-	-	0:31:21.810000	0:31:23.210000
 dir	-	-	-	0:31:21.810000	0:31:23.210000
@@ -8641,12 +8641,12 @@ Tag	-	-	-	0:31:23.210000	0:31:24.557000
 machen	-	-	-	0:31:23.210000	0:31:24.557000
 .	-	-	-	0:31:23.210000	0:31:24.557000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:24.557000" end="0:31:26.103000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:24.557000" end="0:31:26.103000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:31:24.557000	0:31:26.103000
 .	-	-	-	0:31:24.557000	0:31:26.103000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:26.103000" end="0:31:31.017000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:26.103000" end="0:31:31.017000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:31:26.103000	0:31:30.137000
 ja	-	-	-	0:31:26.103000	0:31:30.137000
 <pause duration="0,7s"/>
@@ -8663,12 +8663,12 @@ ich	-	-	-	0:31:30.137000	0:31:31.017000
 das	-	-	-	0:31:30.137000	0:31:31.017000
 ?"	-	-	-	0:31:30.137000	0:31:31.017000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:31.017000" end="0:31:32.170000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:31.017000" end="0:31:32.170000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:31:31.017000	0:31:32.170000
 .	-	-	-	0:31:31.017000	0:31:32.170000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:32.170000" end="0:31:42.143000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:32.170000" end="0:31:42.143000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:31:32.170000	0:31:34.343000
 geht	gehen	VERB	-	0:31:32.170000	0:31:34.343000
 das	der	PRON	-	0:31:32.170000	0:31:34.343000
@@ -8715,7 +8715,7 @@ sagst	sagen	VERB	-	0:31:40.963000	0:31:42.143000
 ja/	-	-	-	0:31:40.963000	0:31:42.143000
 .	-	-	-	0:31:40.963000	0:31:42.143000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:42.143000" end="0:31:43.137000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:42.143000" end="0:31:43.137000" project="PP03" age_lower="18" age_upper="35">
 freut	freuen	VERB	-	0:31:42.143000	0:31:43.137000
 dich	sich	PRON	-	0:31:42.143000	0:31:43.137000
 nicht	nicht	PART	-	0:31:42.143000	0:31:43.137000
@@ -8724,7 +8724,7 @@ mehr	mehr	ADV	-	0:31:42.143000	0:31:43.137000
 ja	ja	PART	-	0:31:42.143000	0:31:43.137000
 .	-	-	-	0:31:42.143000	0:31:43.137000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:43.137000" end="0:31:49.437000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:43.137000" end="0:31:49.437000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:31:43.137000	0:31:45.537000
 ,	-	-	-	0:31:43.137000	0:31:45.537000
 kann	können	VERB	-	0:31:43.137000	0:31:45.537000
@@ -8751,7 +8751,7 @@ fünfzig	-	-	-	0:31:46.430000	0:31:49.437000
 nicht	nicht	PART	-	0:31:46.430000	0:31:49.437000
 ?	-	-	-	0:31:46.430000	0:31:49.437000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:49.437000" end="0:31:55.217000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:49.437000" end="0:31:55.217000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:31:49.437000	0:31:51.570000
 <pause duration="0,5s"/>
 ich	-	-	-	0:31:49.437000	0:31:51.570000
@@ -8776,7 +8776,7 @@ schon	schon	ADV	-	0:31:51.570000	0:31:55.217000
 nicht	nicht	PART	-	0:31:51.570000	0:31:55.217000
 .	-	-	-	0:31:51.570000	0:31:55.217000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:55.217000" end="0:31:59.263000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:55.217000" end="0:31:59.263000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:55.217000	0:31:55.990000
 ich	ich	PRON	-	0:31:55.217000	0:31:55.990000
 muss	muss	VERB	-	0:31:55.217000	0:31:55.990000
@@ -8800,11 +8800,11 @@ ja	ja	PART	-	0:31:57.497000	0:31:59.263000
 okay	okay	VERB	-	0:31:57.497000	0:31:59.263000
 ,	-	-	-	0:31:57.497000	0:31:59.263000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:59.263000" end="0:31:59.717000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:59.263000" end="0:31:59.717000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:59.263000	0:31:59.717000
 .	-	-	-	0:31:59.263000	0:31:59.717000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:59.717000" end="0:32:02.537000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:31:59.717000" end="0:32:02.537000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:31:59.717000	0:32:00.537000
 du	du	PRON	-	0:31:59.717000	0:32:00.537000
 denkst	denken	VERB	-	0:31:59.717000	0:32:00.537000
@@ -8822,11 +8822,11 @@ vom	-	-	-	0:32:01.490000	0:32:02.537000
 Tag	-	-	-	0:32:01.490000	0:32:02.537000
 ,	-	-	-	0:32:01.490000	0:32:02.537000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:02.537000" end="0:32:03.396000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:02.537000" end="0:32:03.396000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:32:02.537000	0:32:03.396000
 .	-	-	-	0:32:02.537000	0:32:03.396000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:02.537000" end="0:32:15.850000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:02.537000" end="0:32:15.850000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:32:02.537000	0:32:03.396000
 ich	ich	PRON	-	0:32:02.537000	0:32:03.396000
 muss	muss	VERB	-	0:32:02.537000	0:32:03.396000
@@ -8890,11 +8890,11 @@ gleich	gleichen	ADV	-	0:32:14.216000	0:32:15.850000
 zu	zu	ADP	-	0:32:14.216000	0:32:15.850000
 auch	auch	ADV	-	0:32:14.216000	0:32:15.850000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:15.850000" end="0:32:16.456000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:15.850000" end="0:32:16.456000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:32:15.850000	0:32:16.456000
 .	-	-	-	0:32:15.850000	0:32:16.456000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:16.456000" end="0:32:19.516000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:16.456000" end="0:32:19.516000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:32:16.456000	0:32:17.750000
 wenn	wenn	SCONJ	-	0:32:16.456000	0:32:17.750000
 ich	ich	PRON	-	0:32:16.456000	0:32:17.750000
@@ -8913,11 +8913,11 @@ gleich	gleichen	ADV	-	0:32:17.750000	0:32:19.516000
 was	was	PRON	-	0:32:17.750000	0:32:19.516000
 ,	-	-	-	0:32:17.750000	0:32:19.516000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:19.516000" end="0:32:19.856000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:19.516000" end="0:32:19.856000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:32:19.516000	0:32:19.856000
 .	-	-	-	0:32:19.516000	0:32:19.856000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:19.516000" end="0:32:21.003000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:19.516000" end="0:32:21.003000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:32:19.516000	0:32:19.856000
 muss	muss	VERB	-	0:32:19.516000	0:32:19.856000
 ja	ja	ADV	-	0:32:19.516000	0:32:19.856000
@@ -8926,7 +8926,7 @@ suchen	suchen	VERB	-	0:32:19.856000	0:32:21.003000
 danach	danach	ADV	-	0:32:19.856000	0:32:21.003000
 .	-	-	-	0:32:19.856000	0:32:21.003000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:21.003000" end="0:32:24.003000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:21.003000" end="0:32:24.003000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:32:21.003000	0:32:23.003000
 gut	gut	ADJ	-	0:32:21.003000	0:32:23.003000
 ,	-	-	-	0:32:21.003000	0:32:23.003000
@@ -8942,7 +8942,7 @@ das	der	PRON	-	0:32:23.003000	0:32:24.003000
 stimmt	stimmen	VERB	-	0:32:23.003000	0:32:24.003000
 .	-	-	-	0:32:23.003000	0:32:24.003000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:23.003000" end="0:32:38.696000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:23.003000" end="0:32:38.696000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:23.003000	0:32:24.003000
 .	-	-	-	0:32:23.003000	0:32:24.003000
 <pause duration="0,5s"/>
@@ -8998,11 +8998,11 @@ zurück	zurück	ADV	-	0:32:37.043000	0:32:38.696000
 gehaut	gehaut	VERB	-	0:32:37.043000	0:32:38.696000
 .	-	-	-	0:32:37.043000	0:32:38.696000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:38.696000" end="0:32:39.163000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:38.696000" end="0:32:39.163000" project="PP03" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:32:38.696000	0:32:39.163000
 ?	-	-	-	0:32:38.696000	0:32:39.163000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:39.163000" end="0:32:41.510000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:39.163000" end="0:32:41.510000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:32:39.163000	0:32:41.510000
 habe	habe	AUX	-	0:32:39.163000	0:32:41.510000
 mir	sich	PRON	-	0:32:39.163000	0:32:41.510000
@@ -9014,7 +9014,7 @@ getan	tun	VERB	-	0:32:39.163000	0:32:41.510000
 .	-	-	-	0:32:39.163000	0:32:41.510000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:41.510000" end="0:32:48.870000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:41.510000" end="0:32:48.870000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:32:41.510000	0:32:43.836000
 arg	arg	PROPN	-	0:32:41.510000	0:32:43.836000
 ,	-	-	-	0:32:41.510000	0:32:43.836000
@@ -9057,7 +9057,7 @@ tust	tun	VERB	-	0:32:46.910000	0:32:48.350000
 aber/	-	-	-	0:32:48.350000	0:32:48.870000
 .	-	-	-	0:32:48.350000	0:32:48.870000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:48.350000" end="0:32:56.616000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:48.350000" end="0:32:56.616000" project="PP03" age_lower="18" age_upper="35">
 mm	mm	X	-	0:32:48.350000	0:32:48.870000
 <pause duration="0,5s"/>
 nein	nein	PART	-	0:32:48.870000	0:32:51.223000
@@ -9096,18 +9096,18 @@ arbeiten	arbeiten	VERB	-	0:32:54.063000	0:32:56.616000
 ,	-	-	-	0:32:54.063000	0:32:56.616000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:56.616000" end="0:32:57.376000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:56.616000" end="0:32:57.376000" project="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:32:56.616000	0:32:57.376000
 so	so	ADV	-	0:32:56.616000	0:32:57.376000
 ,	-	-	-	0:32:56.616000	0:32:57.376000
 okay	okay	NOUN	-	0:32:56.616000	0:32:57.376000
 ,	-	-	-	0:32:56.616000	0:32:57.376000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:56.616000" end="0:32:57.376000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:56.616000" end="0:32:57.376000" project="PP03" age_lower="18" age_upper="35">
 aber/	-	-	-	0:32:56.616000	0:32:57.376000
 .	-	-	-	0:32:56.616000	0:32:57.376000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:57.376000" end="0:32:59.323000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:57.376000" end="0:32:59.323000" project="PP03" age_lower="18" age_upper="35">
 ihr	mein	PRON	-	0:32:57.376000	0:32:58.623000
 habt	haben	AUX	-	0:32:57.376000	0:32:58.623000
 Frühschicht	Frühschicht	NOUN	-	0:32:57.376000	0:32:58.623000
@@ -9118,26 +9118,26 @@ gehabt	haben	AUX	-	0:32:57.376000	0:32:58.623000
 ja	ja	PART	-	0:32:58.623000	0:32:59.323000
 .	-	-	-	0:32:58.623000	0:32:59.323000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:58.623000" end="0:32:59.323000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:58.623000" end="0:32:59.323000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:32:58.623000	0:32:59.323000
 .	-	-	-	0:32:58.623000	0:32:59.323000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:59.323000" end="0:33:00.130000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:59.323000" end="0:33:00.130000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:32:59.323000	0:33:00.130000
 .	-	-	-	0:32:59.323000	0:33:00.130000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:59.323000" end="0:33:00.130000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:32:59.323000" end="0:33:00.130000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:32:59.323000	0:33:00.130000
 geht	gehen	VERB	-	0:32:59.323000	0:33:00.130000
 es	ich	PRON	-	0:32:59.323000	0:33:00.130000
 .	-	-	-	0:32:59.323000	0:33:00.130000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:00.130000" end="0:33:01.343000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:00.130000" end="0:33:01.343000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:33:00.130000	0:33:01.343000
 .	-	-	-	0:33:00.130000	0:33:01.343000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:01.343000" end="0:33:05.050000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:01.343000" end="0:33:05.050000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:33:01.343000	0:33:05.050000
 wir	ich	PRON	-	0:33:01.343000	0:33:05.050000
 haben	haben	AUX	-	0:33:01.343000	0:33:05.050000
@@ -9158,16 +9158,16 @@ neun	neun	NUM	-	0:33:01.343000	0:33:05.050000
 gearbeitet	arbeiten	VERB	-	0:33:01.343000	0:33:05.050000
 .	-	-	-	0:33:01.343000	0:33:05.050000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:05.050000" end="0:33:05.750000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:05.050000" end="0:33:05.750000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:33:05.050000	0:33:05.750000
 .	-	-	-	0:33:05.050000	0:33:05.750000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:05.050000" end="0:33:05.750000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:05.050000" end="0:33:05.750000" project="PP03" age_lower="18" age_upper="35">
 geht	gehen	VERB	-	0:33:05.050000	0:33:05.750000
 auch	auch	ADV	-	0:33:05.050000	0:33:05.750000
 .	-	-	-	0:33:05.050000	0:33:05.750000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:05.750000" end="0:33:07.016000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:05.750000" end="0:33:07.016000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:33:05.750000	0:33:07.016000
 das	der	PRON	-	0:33:05.750000	0:33:07.016000
 ist	sein	AUX	-	0:33:05.750000	0:33:07.016000
@@ -9175,7 +9175,7 @@ echt	echt	ADJ	-	0:33:05.750000	0:33:07.016000
 okay	okay	ADJ	-	0:33:05.750000	0:33:07.016000
 .	-	-	-	0:33:05.750000	0:33:07.016000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:07.016000" end="0:33:12.890000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:07.016000" end="0:33:12.890000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:07.016000	0:33:12.890000
 weil	-	-	-	0:33:07.016000	0:33:12.890000
 die	-	-	-	0:33:07.016000	0:33:12.890000
@@ -9206,12 +9206,12 @@ Firmen	-	-	-	0:33:07.016000	0:33:12.890000
 auch	-	-	-	0:33:07.016000	0:33:12.890000
 .	-	-	-	0:33:07.016000	0:33:12.890000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:12.890000" end="0:33:14.210000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:12.890000" end="0:33:14.210000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:33:12.890000	0:33:14.210000
 .	-	-	-	0:33:12.890000	0:33:14.210000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:14.210000" end="0:33:18.156000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:14.210000" end="0:33:18.156000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:33:14.210000	0:33:14.916000
 ja	ja	PART	-	0:33:14.210000	0:33:14.916000
 ,	-	-	-	0:33:14.210000	0:33:14.916000
@@ -9226,12 +9226,12 @@ gefallen	-	-	-	0:33:14.916000	0:33:18.156000
 Tagschicht	-	-	-	0:33:14.916000	0:33:18.156000
 .	-	-	-	0:33:14.916000	0:33:18.156000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:18.156000" end="0:33:21.003000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:18.156000" end="0:33:21.003000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:33:18.156000	0:33:21.003000
 .	-	-	-	0:33:18.156000	0:33:21.003000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:21.003000" end="0:33:22.843000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:21.003000" end="0:33:22.843000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:21.003000	0:33:22.843000
 und	und	CCONJ	-	0:33:21.003000	0:33:22.843000
 du	du	PRON	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:33:21.003000	0:33:22.843000
@@ -9241,7 +9241,7 @@ keine	kein	DET	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond Quel irr
 Wünsche	Wunsch	NOUN	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:33:21.003000	0:33:22.843000
 ?	-	-	-	0:33:21.003000	0:33:22.843000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:22.843000" end="0:33:32.536000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:22.843000" end="0:33:32.536000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,9s"/>
 keine	kein	DET	-	0:33:28.730000	0:33:32.536000
 s/	-	-	-	0:33:28.730000	0:33:32.536000
@@ -9258,7 +9258,7 @@ könnte	können	VERB	-	0:33:28.730000	0:33:32.536000
 eigentlich	eigentlich	ADV	-	0:33:28.730000	0:33:32.536000
 .	-	-	-	0:33:28.730000	0:33:32.536000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:32.536000" end="0:33:37.130000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:32.536000" end="0:33:37.130000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 (weil)	weil	SCONJ	-	0:33:35.310000	0:33:37.130000
 das	der	PRON	-	0:33:35.310000	0:33:37.130000
@@ -9269,7 +9269,7 @@ relativ	relativ	ADJ	-	0:33:35.310000	0:33:37.130000
 gell	gell	ADJ	-	0:33:35.310000	0:33:37.130000
 ?	-	-	-	0:33:35.310000	0:33:37.130000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:37.130000" end="0:33:46.363000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:37.130000" end="0:33:46.363000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:33:37.130000	0:33:39.736000
 voll	voll	ADJ	-	0:33:37.130000	0:33:39.736000
 ,	-	-	-	0:33:37.130000	0:33:39.736000
@@ -9294,19 +9294,19 @@ jetzt	jetzt	ADV	-	0:33:42.416000	0:33:46.363000
 wieder	wieder	ADP	-	0:33:42.416000	0:33:46.363000
 ?	-	-	-	0:33:42.416000	0:33:46.363000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:46.363000" end="0:33:47.410000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:46.363000" end="0:33:47.410000" project="PP03" age_lower="18" age_upper="35">
 probieren	probieren	VERB	-	0:33:46.363000	0:33:47.410000
 wir	ich	PRON	-	0:33:46.363000	0:33:47.410000
 ein	einen	DET	-	0:33:46.363000	0:33:47.410000
 Neues	Neues	NOUN	-	0:33:46.363000	0:33:47.410000
 ?	-	-	-	0:33:46.363000	0:33:47.410000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:47.410000" end="0:33:49.230000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:47.410000" end="0:33:49.230000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:33:47.410000	0:33:49.230000
 .	-	-	-	0:33:47.410000	0:33:49.230000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:49.230000" end="0:33:51.230000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:49.230000" end="0:33:51.230000" project="PP03" age_lower="18" age_upper="35">
 rede	rede	NOUN	-	0:33:49.230000	0:33:51.230000
 über	über	ADP	-	0:33:49.230000	0:33:51.230000
 schönster	schön	ADJ	-belebt App Gen PM PR Pkon Poss Prel postnomin spatial	0:33:49.230000	0:33:51.230000
@@ -9315,7 +9315,7 @@ der	der	DET	-belebt App Gen PM PR Pkon Poss Prel postnomin spatial	0:33:49.23000
 Welt	Welt	NOUN	-belebt App Gen PM PR Pkon Poss Prel postnomin spatial	0:33:49.230000	0:33:51.230000
 .	-	-	-	0:33:49.230000	0:33:51.230000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:51.230000" end="0:33:55.243000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:51.230000" end="0:33:55.243000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 hm	hm	X	-	0:33:52.850000	0:33:55.243000
 was	was	PRON	-	0:33:52.850000	0:33:55.243000
@@ -9329,12 +9329,12 @@ der	der	DET	-	0:33:52.850000	0:33:55.243000
 Welt	Welt	NOUN	-	0:33:52.850000	0:33:55.243000
 ?	-	-	-	0:33:52.850000	0:33:55.243000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:55.243000" end="0:33:56.596000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:55.243000" end="0:33:56.596000" project="PP03" age_lower="18" age_upper="35">
 daheim	daheim	ADV	-	0:33:55.243000	0:33:56.596000
 !	-	-	-	0:33:55.243000	0:33:56.596000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:56.596000" end="0:33:58.363000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:56.596000" end="0:33:58.363000" project="PP03" age_lower="18" age_upper="35">
 da	da	SCONJ	-	0:33:56.596000	0:33:57.550000
 daheim	daheim	ADV	-	0:33:56.596000	0:33:57.550000
 oder	oder	CCONJ	-	0:33:56.596000	0:33:57.550000
@@ -9343,7 +9343,7 @@ dir	sich	PRON	-	0:33:57.550000	0:33:58.363000
 daheim	daheim	ADV	-	0:33:57.550000	0:33:58.363000
 ?	-	-	-	0:33:57.550000	0:33:58.363000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:57.550000" end="0:34:06.763000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:33:57.550000" end="0:34:06.763000" project="PP03" age_lower="18" age_upper="35">
 beziehungsweise	beziehungsweise	CCONJ	-	0:33:57.550000	0:33:58.363000
 ich	ich	PRON	-	0:33:58.363000	0:34:00.363000
 habe	habe	AUX	-	0:33:58.363000	0:34:00.363000
@@ -9375,11 +9375,11 @@ ich	ich	PRON	-	0:34:03.963000	0:34:06.763000
 sagen	sagen	VERB	-	0:34:03.963000	0:34:06.763000
 ,	-	-	-	0:34:03.963000	0:34:06.763000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:06.763000" end="0:34:07.170000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:06.763000" end="0:34:07.170000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:34:06.763000	0:34:07.170000
 .	-	-	-	0:34:06.763000	0:34:07.170000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:06.763000" end="0:34:12.476000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:06.763000" end="0:34:12.476000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:34:06.763000	0:34:07.170000
 es	ich	PRON	-	0:34:06.763000	0:34:07.170000
 irgendwie	irgendwie	ADV	-	0:34:07.170000	0:34:09.710000
@@ -9397,16 +9397,16 @@ nicht	nicht	PART	-	0:34:09.710000	0:34:12.476000
 schlecht	schlecht	ADJ	-	0:34:09.710000	0:34:12.476000
 .	-	-	-	0:34:09.710000	0:34:12.476000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:12.476000" end="0:34:12.882000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:12.476000" end="0:34:12.882000" project="PP03" age_lower="18" age_upper="35">
 mm	mm	NOUN	-	0:34:12.476000	0:34:12.882000
 .	-	-	-	0:34:12.476000	0:34:12.882000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:12.476000" end="0:34:12.882000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:12.476000" end="0:34:12.882000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:34:12.476000	0:34:12.882000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:12.882000" end="0:34:15.583000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:12.882000" end="0:34:15.583000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:12.882000" end="0:34:23.510000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:12.882000" end="0:34:23.510000" project="PP03" age_lower="18" age_upper="35">
 mir	sich	PRON	-	0:34:12.882000	0:34:15.583000
 taugt	taugen	VERB	-	0:34:12.882000	0:34:15.583000
 es	ich	PRON	-	0:34:12.882000	0:34:15.583000
@@ -9441,14 +9441,14 @@ war	sein	AUX	-	0:34:21.510000	0:34:23.510000
 es	ich	PRON	-	0:34:21.510000	0:34:23.510000
 .	-	-	-	0:34:21.510000	0:34:23.510000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:23.510000" end="0:34:25.449000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:23.510000" end="0:34:25.449000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:34:23.510000	0:34:25.449000
 <pause duration="0,8s"/>
 ja	ja	ADV	-	0:34:23.510000	0:34:25.449000
 immerhin	immerhin	ADV	-	0:34:23.510000	0:34:25.449000
 .	-	-	-	0:34:23.510000	0:34:25.449000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:25.449000" end="0:34:30.835000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:25.449000" end="0:34:30.835000" project="PP03" age_lower="18" age_upper="35">
 sonst	sonst	ADV	-	0:34:25.449000	0:34:29.116000
 in	in	ADP	-	0:34:25.449000	0:34:29.116000
 Österreich	Österreich	PROPN	-	0:34:25.449000	0:34:29.116000
@@ -9464,24 +9464,24 @@ hat	haben	AUX	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrel
 .	-	-	-	0:34:29.116000	0:34:30.835000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:30.835000" end="0:34:32.096000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:30.835000" end="0:34:32.096000" project="PP03" age_lower="18" age_upper="35">
 Österreich	Österreich	PROPN	-	0:34:30.835000	0:34:32.096000
 ist	sein	AUX	-	0:34:30.835000	0:34:32.096000
 voll	voll	ADJ	-	0:34:30.835000	0:34:32.096000
 schön	schön	ADJ	-	0:34:30.835000	0:34:32.096000
 !	-	-	-	0:34:30.835000	0:34:32.096000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:30.835000" end="0:34:32.096000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:30.835000" end="0:34:32.096000" project="PP03" age_lower="18" age_upper="35">
 (vor	vor	ADP	-	0:34:30.835000	0:34:32.096000
 allem)	alle	PRON	-	0:34:30.835000	0:34:32.096000
 im	im	ADP	-	0:34:30.835000	0:34:32.096000
 Winter	Winter	NOUN	-	0:34:30.835000	0:34:32.096000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:32.096000" end="0:34:32.616000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:32.096000" end="0:34:32.616000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:34:32.096000	0:34:32.616000
 .	-	-	-	0:34:32.096000	0:34:32.616000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:32.616000" end="0:34:35.422000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:32.616000" end="0:34:35.422000" project="PP03" age_lower="18" age_upper="35">
 Berge	Berg	NOUN	-	0:34:32.616000	0:34:34.063000
 zum	zum	ADP	-	0:34:32.616000	0:34:34.063000
 Schifahren	Schifahren	NOUN	-	0:34:32.616000	0:34:34.063000
@@ -9494,7 +9494,7 @@ auch	-	-	-	0:34:34.063000	0:34:35.422000
 schön	-	-	-	0:34:34.063000	0:34:35.422000
 .	-	-	-	0:34:34.063000	0:34:35.422000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:35.422000" end="0:34:40.803000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:35.422000" end="0:34:40.803000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:34:35.422000	0:34:37.822000
 der	der	DET	-	0:34:35.422000	0:34:37.822000
 schönste	schönste	ADJ	-	0:34:35.422000	0:34:37.822000
@@ -9506,7 +9506,7 @@ der	der	DET	-	0:34:35.422000	0:34:37.822000
 ORT	ORT	NOUN	-	0:34:35.422000	0:34:37.822000
 .	-	-	-	0:34:35.422000	0:34:37.822000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:37.822000" end="0:34:40.803000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:37.822000" end="0:34:40.803000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:34:37.822000	0:34:40.803000
 das	der	PRON	-	0:34:37.822000	0:34:40.803000
 war	sein	AUX	-	0:34:37.822000	0:34:40.803000
@@ -9514,7 +9514,7 @@ echt	echt	ADJ	-	0:34:37.822000	0:34:40.803000
 cool	cool	PROPN	-	0:34:37.822000	0:34:40.803000
 !	-	-	-	0:34:37.822000	0:34:40.803000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:40.803000" end="0:34:42.683000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:40.803000" end="0:34:42.683000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:34:40.803000	0:34:42.683000
 ist	sein	AUX	-	0:34:40.803000	0:34:42.683000
 einer	einer	PRON	-	0:34:40.803000	0:34:42.683000
@@ -9523,12 +9523,12 @@ schönsten	schön	ADJ	-	0:34:40.803000	0:34:42.683000
 Orte	Ort	NOUN	-	0:34:40.803000	0:34:42.683000
 .	-	-	-	0:34:40.803000	0:34:42.683000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:42.683000" end="0:34:44.770000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:42.683000" end="0:34:44.770000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:34:42.683000	0:34:44.770000
 .	-	-	-	0:34:42.683000	0:34:44.770000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:44.770000" end="0:34:47.835000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:44.770000" end="0:34:47.835000" project="PP03" age_lower="18" age_upper="35">
 *fühle*	-	-	-	0:34:44.770000	0:34:46.483000
 mich	-	-	-	0:34:44.770000	0:34:46.483000
 auch	-	-	-	0:34:44.770000	0:34:46.483000
@@ -9541,12 +9541,12 @@ eigentlich	-	-	-	0:34:44.770000	0:34:46.483000
 cool	cool	PROPN	-	0:34:46.483000	0:34:47.835000
 .	-	-	-	0:34:46.483000	0:34:47.835000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:47.835000" end="0:34:49.489000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:47.835000" end="0:34:49.489000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:34:47.835000	0:34:49.489000
 .	-	-	-	0:34:47.835000	0:34:49.489000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:49.489000" end="0:34:50.696000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:49.489000" end="0:34:50.696000" project="PP03" age_lower="18" age_upper="35">
 kommt	-	-	-	0:34:49.489000	0:34:50.696000
 jetzt	-	-	-	0:34:49.489000	0:34:50.696000
 die	-	-	-	0:34:49.489000	0:34:50.696000
@@ -9554,7 +9554,7 @@ _dings_	-	-	-	0:34:49.489000	0:34:50.696000
 schon	-	-	-	0:34:49.489000	0:34:50.696000
 zurück	-	-	-	0:34:49.489000	0:34:50.696000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:50.696000" end="0:34:55.356000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:50.696000" end="0:34:55.356000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:34:50.696000	0:34:52.143000
 der	der	DET	-	0:34:50.696000	0:34:52.143000
 NAME	NAME	NOUN	-	0:34:50.696000	0:34:52.143000
@@ -9576,16 +9576,16 @@ mitgenommen	mitnehmen	VERB	-	0:34:52.143000	0:34:55.356000
 hat	haben	AUX	-	0:34:52.143000	0:34:55.356000
 .	-	-	-	0:34:52.143000	0:34:55.356000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:55.356000" end="0:35:00.856000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:55.356000" end="0:35:00.856000" project="PP03" age_lower="18" age_upper="35">
 man	man	PRON	-	0:34:55.356000	0:34:57.356000
 weiß	weiß	VERB	-	0:34:55.356000	0:34:57.356000
 es	ich	PRON	-	0:34:55.356000	0:34:57.356000
 nicht	nicht	PART	-	0:34:55.356000	0:34:57.356000
 .	-	-	-	0:34:55.356000	0:34:57.356000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:57.356000" end="0:35:00.856000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:34:57.356000" end="0:35:00.856000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:00.856000" end="0:35:07.670000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:00.856000" end="0:35:07.670000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:00.856000	0:35:02.690000
 ich	ich	PRON	-	0:35:00.856000	0:35:02.690000
 auch	auch	ADV	-	0:35:00.856000	0:35:02.690000
@@ -9614,12 +9614,12 @@ als	als	ADP	-	0:35:06.816000	0:35:07.670000
 schönsten	schön	ADJ	-	0:35:06.816000	0:35:07.670000
 Ort	Ort	NOUN	-	0:35:06.816000	0:35:07.670000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:06.816000" end="0:35:07.670000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:06.816000" end="0:35:07.670000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:35:06.816000	0:35:07.670000
 cool	cool	X	-	0:35:06.816000	0:35:07.670000
 !	-	-	-	0:35:06.816000	0:35:07.670000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:07.670000" end="0:35:18.810000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:07.670000" end="0:35:18.810000" project="PP03" age_lower="18" age_upper="35">
 der	der	DET	-	0:35:07.670000	0:35:08.850000
 Welt	Welt	NOUN	-	0:35:07.670000	0:35:08.850000
 würde	werden	AUX	-	0:35:07.670000	0:35:08.850000
@@ -9671,7 +9671,7 @@ zum	zum	ADP	-	0:35:13.896000	0:35:17.270000
 mhm	mhm	PROPN	-	0:35:17.270000	0:35:18.810000
 .	-	-	-	0:35:17.270000	0:35:18.810000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:17.270000" end="0:35:20.410000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:17.270000" end="0:35:20.410000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:35:17.270000	0:35:18.810000
 ?	-	-	-	0:35:17.270000	0:35:18.810000
 wie	wie	ADV	-	0:35:18.810000	0:35:20.410000
@@ -9679,7 +9679,7 @@ lange	lang	ADV	-	0:35:18.810000	0:35:20.410000
 also/	-	-	-	0:35:18.810000	0:35:20.410000
 .	-	-	-	0:35:18.810000	0:35:20.410000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:20.410000" end="0:35:29.316000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:20.410000" end="0:35:29.316000" project="PP03" age_lower="18" age_upper="35">
 drei	drei	NUM	-	0:35:20.410000	0:35:21.496000
 Tage	Tag	NOUN	-	0:35:20.410000	0:35:21.496000
 waren	sein	AUX	-	0:35:20.410000	0:35:21.496000
@@ -9728,11 +9728,11 @@ Nachtzug	Nachtzug	NOUN	-	0:35:26.856000	0:35:29.316000
 .	-	-	-	0:35:26.856000	0:35:29.316000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:29.316000" end="0:35:30.070000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:29.316000" end="0:35:30.070000" project="PP03" age_lower="18" age_upper="35">
 stark	stark	ADJ	-	0:35:29.316000	0:35:30.070000
 !	-	-	-	0:35:29.316000	0:35:30.070000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:30.070000" end="0:35:37.656000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:30.070000" end="0:35:37.656000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:35:30.070000	0:35:31.576000
 nein	nein	PART	-	0:35:30.070000	0:35:31.576000
 und	und	CCONJ	-	0:35:30.070000	0:35:31.576000
@@ -9771,11 +9771,11 @@ stinkt	-	-	-	0:35:34.276000	0:35:37.003000
 dort	-	-	-	0:35:34.276000	0:35:37.003000
 quasi	-	-	-	0:35:37.003000	0:35:37.656000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:37.003000" end="0:35:37.656000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:37.003000" end="0:35:37.656000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:35:37.003000	0:35:37.656000
 .	-	-	-	0:35:37.003000	0:35:37.656000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:37.656000" end="0:35:48.036000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:37.656000" end="0:35:48.036000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 und	-	-	-	0:35:37.656000	0:35:41.176000
 wir	-	-	-	0:35:37.656000	0:35:41.176000
@@ -9826,11 +9826,11 @@ so	so	ADV	-	0:35:44.643000	0:35:48.036000
 extrem	extrem	ADJ	-	0:35:44.643000	0:35:48.036000
 viele	viel	PRON	-	0:35:44.643000	0:35:48.036000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:48.036000" end="0:35:48.336000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:48.036000" end="0:35:48.336000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:35:48.036000	0:35:48.336000
 .	-	-	-	0:35:48.036000	0:35:48.336000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:48.336000" end="0:36:00.243000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:48.336000" end="0:36:00.243000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:35:48.336000	0:35:49.516000
 gestunken	stinken	NOUN	-	0:35:48.336000	0:35:49.516000
 hat	haben	AUX	-	0:35:48.336000	0:35:49.516000
@@ -9872,7 +9872,7 @@ Welt	Welt	NOUN	-	0:35:58.556000	0:36:00.243000
 ist	sein	AUX	-	0:35:58.556000	0:36:00.243000
 eh	eh	ADV	-	0:35:58.556000	0:36:00.243000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:58.556000" end="0:36:02.243000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:35:58.556000" end="0:36:02.243000" project="PP03" age_lower="18" age_upper="35">
 *möchtest*	-	-	-	0:35:58.556000	0:36:00.243000
 einmal	-	-	-	0:35:58.556000	0:36:00.243000
 wo	-	-	-	0:35:58.556000	0:36:00.243000
@@ -9888,7 +9888,7 @@ Jahr	Jahr	NOUN	-	0:36:00.243000	0:36:02.243000
 oder/	-	-	-	0:36:00.243000	0:36:02.243000
 .	-	-	-	0:36:00.243000	0:36:02.243000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:02.243000" end="0:36:09.163000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:02.243000" end="0:36:09.163000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:36:02.243000	0:36:05.263000
 im	im	ADP	-	0:36:02.243000	0:36:05.263000
 Sommer	Sommer	NOUN	-	0:36:02.243000	0:36:05.263000
@@ -9923,11 +9923,11 @@ und	und	CCONJ	-	0:36:07.163000	0:36:09.163000
 innen	innen	ADV	-	0:36:07.163000	0:36:09.163000
 ein	einen	DET	-	0:36:07.163000	0:36:09.163000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:09.163000" end="0:36:09.969000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:09.163000" end="0:36:09.969000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:36:09.163000	0:36:09.969000
 .	-	-	-	0:36:09.163000	0:36:09.969000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:09.969000" end="0:36:21.883000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:09.969000" end="0:36:21.883000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:36:09.969000	0:36:15.156000
 im	im	ADP	-	0:36:09.969000	0:36:15.156000
 Herbst	Herbst	NOUN	-	0:36:09.969000	0:36:15.156000
@@ -9970,11 +9970,11 @@ in	in	ADP	-	0:36:16.436000	0:36:21.883000
 Kombination	Kombination	NOUN	-	0:36:16.436000	0:36:21.883000
 .	-	-	-	0:36:16.436000	0:36:21.883000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:21.883000" end="0:36:22.603000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:21.883000" end="0:36:22.603000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:36:21.883000	0:36:22.603000
 !	-	-	-	0:36:21.883000	0:36:22.603000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:22.603000" end="0:36:24.823000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:22.603000" end="0:36:24.823000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	VERB	-	0:36:22.603000	0:36:24.823000
 <pause duration="0,6s"/>
 wir	ich	PRON	-	0:36:22.603000	0:36:24.823000
@@ -9984,9 +9984,9 @@ noch	noch	ADV	-	0:36:22.603000	0:36:24.823000
 einigen	einig	VERB	-	0:36:22.603000	0:36:24.823000
 .	-	-	-	0:36:22.603000	0:36:24.823000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:24.823000" end="0:36:27.223000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:24.823000" end="0:36:27.223000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:27.223000" end="0:36:35.249000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:27.223000" end="0:36:35.249000" project="PP03" age_lower="18" age_upper="35">
 na	na	X	-	0:36:27.223000	0:36:28.396000
 voll	voll	ADJ	-	0:36:27.223000	0:36:28.396000
 !	-	-	-	0:36:27.223000	0:36:28.396000
@@ -10021,11 +10021,11 @@ weg	weg	NOUN	-	0:36:33.249000	0:36:35.249000
 einmal	einmal	ADV	-	0:36:33.249000	0:36:35.249000
 .	-	-	-	0:36:33.249000	0:36:35.249000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:35.249000" end="0:36:35.763000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:35.249000" end="0:36:35.763000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:36:35.249000	0:36:35.763000
 .	-	-	-	0:36:35.249000	0:36:35.763000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:35.763000" end="0:36:46.203000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:35.763000" end="0:36:46.203000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:36:35.763000	0:36:38.703000
 quasi	quasi	ADV	-	0:36:35.763000	0:36:38.703000
 bevor	bevor	SCONJ	-	0:36:35.763000	0:36:38.703000
@@ -10061,23 +10061,23 @@ Korfu	Korfu	PROPN	-	0:36:42.683000	0:36:45.889000
 .	-	-	-	0:36:42.683000	0:36:45.889000
 das	der	PRON	-	0:36:45.889000	0:36:46.203000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:45.889000" end="0:36:46.203000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:45.889000" end="0:36:46.203000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:36:45.889000	0:36:46.203000
 .	-	-	-	0:36:45.889000	0:36:46.203000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:46.203000" end="0:36:47.129000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:46.203000" end="0:36:47.129000" project="PP03" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:36:46.203000	0:36:47.129000
 ich	ich	PRON	-	0:36:46.203000	0:36:47.129000
 schon	schon	ADV	-	0:36:46.203000	0:36:47.129000
 gemacht	machen	VERB	-	0:36:46.203000	0:36:47.129000
 ,	-	-	-	0:36:46.203000	0:36:47.129000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:47.129000" end="0:36:47.569000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:47.129000" end="0:36:47.569000" project="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:36:47.129000	0:36:47.569000
 so	so	ADV	-	0:36:47.129000	0:36:47.569000
 !	-	-	-	0:36:47.129000	0:36:47.569000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:47.569000" end="0:36:53.609000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:47.569000" end="0:36:53.609000" project="PP03" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:36:47.569000	0:36:48.636000
 nicht	nicht	PART	-	0:36:47.569000	0:36:48.636000
 so	so	ADV	-	0:36:47.569000	0:36:48.636000
@@ -10101,7 +10101,7 @@ zu	zu	PART	-	0:36:51.609000	0:36:53.609000
 bieten	bieten	VERB	-	0:36:51.609000	0:36:53.609000
 .	-	-	-	0:36:51.609000	0:36:53.609000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:53.609000" end="0:36:55.756000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:53.609000" end="0:36:55.756000" project="PP03" age_lower="18" age_upper="35">
 na	na	X	-	0:36:53.609000	0:36:55.756000
 voll	voll	ADJ	-	0:36:53.609000	0:36:55.756000
 ,	-	-	-	0:36:53.609000	0:36:55.756000
@@ -10111,11 +10111,11 @@ Fall	Fall	NOUN	-	0:36:53.609000	0:36:55.756000
 !	-	-	-	0:36:53.609000	0:36:55.756000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:55.756000" end="0:36:56.549000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:55.756000" end="0:36:56.549000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:36:55.756000	0:36:56.549000
 .	-	-	-	0:36:55.756000	0:36:56.549000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:56.549000" end="0:36:59.516000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:56.549000" end="0:36:59.516000" project="PP03" age_lower="18" age_upper="35">
 muss	muss	VERB	-	0:36:56.549000	0:36:59.516000
 man	man	PRON	-	0:36:56.549000	0:36:59.516000
 eh	eh	ADV	-	0:36:56.549000	0:36:59.516000
@@ -10126,12 +10126,12 @@ viel	viel	PRON	-	0:36:56.549000	0:36:59.516000
 anschauen	anschauen	VERB	-	0:36:56.549000	0:36:59.516000
 .	-	-	-	0:36:56.549000	0:36:59.516000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:59.516000" end="0:37:01.516000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:36:59.516000" end="0:37:01.516000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:36:59.516000	0:37:01.516000
 .	-	-	-	0:36:59.516000	0:37:01.516000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:01.516000" end="0:37:07.416000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:01.516000" end="0:37:07.416000" project="PP03" age_lower="18" age_upper="35">
 *weiß*	-	-	-	0:37:01.516000	0:37:03.303000
 noch	-	-	-	0:37:01.516000	0:37:03.303000
 ih(m)	-	-	+menschl App PM PR Pkon Poss PossDat Prel Prop irrelevant kin	0:37:01.516000	0:37:03.303000
@@ -10159,11 +10159,11 @@ klein	klein	ADJ	-	0:37:04.696000	0:37:07.416000
 noch	noch	ADV	-	0:37:04.696000	0:37:07.416000
 ,	-	-	-	0:37:04.696000	0:37:07.416000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:07.416000" end="0:37:07.909000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:07.416000" end="0:37:07.909000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:37:07.416000	0:37:07.909000
 .	-	-	-	0:37:07.416000	0:37:07.909000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:07.416000" end="0:37:10.616000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:07.416000" end="0:37:10.616000" project="PP03" age_lower="18" age_upper="35">
 waren	sein	AUX	-	0:37:07.416000	0:37:07.909000
 sie	ich	PRON	-	0:37:07.416000	0:37:07.909000
 in	in	ADP	-	0:37:07.416000	0:37:07.909000
@@ -10180,31 +10180,31 @@ er	ich	PRON	-	0:37:09.776000	0:37:10.616000
 weg	weg	ADV	-	0:37:09.776000	0:37:10.616000
 .	-	-	-	0:37:09.776000	0:37:10.616000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:10.616000" end="0:37:12.009000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:10.616000" end="0:37:12.009000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:37:10.616000	0:37:12.009000
 ?	-	-	-	0:37:10.616000	0:37:12.009000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:10.616000" end="0:37:13.983000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:10.616000" end="0:37:13.983000" project="PP03" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:37:12.009000	0:37:13.983000
 er	ich	PRON	-	0:37:12.009000	0:37:13.983000
 in	in	ADP	-	0:37:12.009000	0:37:13.983000
 einem	einer	DET	-	0:37:12.009000	0:37:13.983000
 Geschäft	Geschäft	NOUN	-	0:37:12.009000	0:37:13.983000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:13.983000" end="0:37:14.776000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:13.983000" end="0:37:14.776000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:37:13.983000	0:37:14.776000
 Gott	Gott	NOUN	-	0:37:13.983000	0:37:14.776000
 sei	sein	AUX	-	0:37:13.983000	0:37:14.776000
 Dank	Dank	NOUN	-	0:37:13.983000	0:37:14.776000
 !	-	-	-	0:37:13.983000	0:37:14.776000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:14.776000" end="0:37:15.503000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:14.776000" end="0:37:15.503000" project="PP03" age_lower="18" age_upper="35">
 Spielzeug	Spielzeug	NOUN	-	0:37:14.776000	0:37:15.503000
 !	-	-	-	0:37:14.776000	0:37:15.503000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:15.503000" end="0:37:16.983000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:15.503000" end="0:37:16.983000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:15.503000" end="0:37:29.929000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:15.503000" end="0:37:29.929000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:37:16.983000	0:37:18.409000
 da	da	ADV	-	0:37:16.983000	0:37:18.409000
 da	da	ADV	-	0:37:16.983000	0:37:18.409000
@@ -10264,11 +10264,11 @@ hielte	halten	VERB	-	0:37:29.049000	0:37:29.929000
 ich	ich	PRON	-	0:37:29.049000	0:37:29.929000
 überhaupt	überhaupt	ADV	-	0:37:29.049000	0:37:29.929000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:29.929000" end="0:37:30.469000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:29.929000" end="0:37:30.469000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:37:29.929000	0:37:30.469000
 .	-	-	-	0:37:29.929000	0:37:30.469000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:29.929000" end="0:37:39.143000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:29.929000" end="0:37:39.143000" project="PP03" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:37:29.929000	0:37:30.469000
 aus	aus	ADP	-	0:37:29.929000	0:37:30.469000
 ,	-	-	-	0:37:29.929000	0:37:30.469000
@@ -10300,7 +10300,7 @@ mich	sich	PRON	-	0:37:36.443000	0:37:39.143000
 fertig	fertigen	ADJ	-	0:37:36.443000	0:37:39.143000
 !	-	-	-	0:37:36.443000	0:37:39.143000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:39.143000" end="0:37:42.969000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:39.143000" end="0:37:42.969000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:37:39.143000	0:37:42.969000
 <pause duration="0,9s"/>
 ist	sein	AUX	-	0:37:39.143000	0:37:42.969000
@@ -10313,7 +10313,7 @@ prickelnd	prickelnd	ADJ	-	0:37:39.143000	0:37:42.969000
 .	-	-	-	0:37:39.143000	0:37:42.969000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:42.969000" end="0:37:47.209000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:42.969000" end="0:37:47.209000" project="PP03" age_lower="18" age_upper="35">
 obwohl	obwohl	SCONJ	-	0:37:42.969000	0:37:44.816000
 manchen	manch	DET	-	0:37:42.969000	0:37:44.816000
 Leuten	Leute	NOUN	-	0:37:42.969000	0:37:44.816000
@@ -10330,7 +10330,7 @@ verstehe	verstehen	VERB	-	0:37:44.816000	0:37:47.209000
 .	-	-	-	0:37:44.816000	0:37:47.209000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:47.209000" end="0:37:59.403000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:47.209000" end="0:37:59.403000" project="PP03" age_lower="18" age_upper="35">
 na	na	X	-	0:37:47.209000	0:37:49.209000
 ich	ich	PRON	-	0:37:47.209000	0:37:49.209000
 habe	habe	AUX	-	0:37:47.209000	0:37:49.209000
@@ -10391,11 +10391,11 @@ schon	schon	ADV	-	0:37:57.883000	0:37:58.956000
 mit	mit	ADP	-	0:37:58.956000	0:37:59.403000
 ihren	mein	DET	-	0:37:58.956000	0:37:59.403000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:58.956000" end="0:37:59.403000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:58.956000" end="0:37:59.403000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:37:58.956000	0:37:59.403000
 .	-	-	-	0:37:58.956000	0:37:59.403000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:59.403000" end="0:38:01.269000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:37:59.403000" end="0:38:01.269000" project="PP03" age_lower="18" age_upper="35">
 Kindern	Kind	NOUN	-	0:37:59.403000	0:38:01.043000
 liebevoll	liebevoll	ADJ	-	0:37:59.403000	0:38:01.043000
 und	und	CCONJ	-	0:37:59.403000	0:38:01.043000
@@ -10406,11 +10406,11 @@ ihre	mein	DET	-	0:37:59.403000	0:38:01.043000
 Kinder	Kind	NOUN	-	0:37:59.403000	0:38:01.043000
 und	und	CCONJ	-	0:38:01.043000	0:38:01.269000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:01.043000" end="0:38:01.269000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:01.043000" end="0:38:01.269000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:01.043000	0:38:01.269000
 .	-	-	-	0:38:01.043000	0:38:01.269000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:01.269000" end="0:38:08.936000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:01.269000" end="0:38:08.936000" project="PP03" age_lower="18" age_upper="35">
 unternimmt	unternehmen	VERB	-	0:38:01.269000	0:38:02.836000
 auch	auch	ADV	-	0:38:01.269000	0:38:02.836000
 viel	viel	PRON	-	0:38:01.269000	0:38:02.836000
@@ -10445,13 +10445,13 @@ Jahren	Jahr	NOUN	-	0:38:05.216000	0:38:07.816000
 ja	ja	PART	-	0:38:07.816000	0:38:08.936000
 und	und	CCONJ	-	0:38:07.816000	0:38:08.936000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:07.816000" end="0:38:08.936000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:07.816000" end="0:38:08.936000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:38:07.816000	0:38:08.936000
 ?	-	-	-	0:38:07.816000	0:38:08.936000
 cool	cool	PROPN	-	0:38:07.816000	0:38:08.936000
 !	-	-	-	0:38:07.816000	0:38:08.936000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:08.936000" end="0:38:22.136000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:08.936000" end="0:38:22.136000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:38:08.936000	0:38:12.596000
 ein	einen	DET	-	0:38:08.936000	0:38:12.596000
 paar	paar	DET	-	0:38:08.936000	0:38:12.596000
@@ -10527,7 +10527,7 @@ sein	-	-	-	0:38:20.323000	0:38:22.136000
 .	-	-	-	0:38:20.323000	0:38:22.136000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:22.136000" end="0:38:25.329000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:22.136000" end="0:38:25.329000" project="PP03" age_lower="18" age_upper="35">
 erstens	erstens	ADV	-	0:38:22.136000	0:38:25.329000
 das	der	PRON	-	0:38:22.136000	0:38:25.329000
 und	und	CCONJ	-	0:38:22.136000	0:38:25.329000
@@ -10541,11 +10541,11 @@ mitspielen	mitspielen	VERB	-	0:38:22.136000	0:38:25.329000
 nicht	nicht	PART	-	0:38:22.136000	0:38:25.329000
 ?	-	-	-	0:38:22.136000	0:38:25.329000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:25.329000" end="0:38:25.776000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:25.329000" end="0:38:25.776000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:38:25.329000	0:38:25.776000
 .	-	-	-	0:38:25.329000	0:38:25.776000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:25.329000" end="0:38:28.223000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:25.329000" end="0:38:28.223000" project="PP03" age_lower="18" age_upper="35">
 zum	zum	ADP	-	0:38:25.329000	0:38:25.776000
 Beispiel	Beispiel	NOUN	-	0:38:25.329000	0:38:25.776000
 ,	-	-	-	0:38:25.329000	0:38:25.776000
@@ -10560,7 +10560,7 @@ den	der	DET	-	0:38:25.776000	0:38:28.223000
 Eltern	Eltern	NOUN	-	0:38:25.776000	0:38:28.223000
 oder	oder	CCONJ	-	0:38:25.776000	0:38:28.223000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:28.223000" end="0:38:29.423000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:28.223000" end="0:38:29.423000" project="PP03" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:38:28.223000	0:38:29.423000
 alle	all	DET	-	0:38:28.223000	0:38:29.423000
 Fälle	Fall	NOUN	-	0:38:28.223000	0:38:29.423000
@@ -10571,7 +10571,7 @@ wen	wer	PRON	-	0:38:28.223000	0:38:29.423000
 hast	haben	AUX	-	0:38:28.223000	0:38:29.423000
 ,	-	-	-	0:38:28.223000	0:38:29.423000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:28.223000" end="0:38:29.423000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:28.223000" end="0:38:29.423000" project="PP03" age_lower="18" age_upper="35">
 Freundin	Freundin	NOUN	-	0:38:28.223000	0:38:29.423000
 oder	oder	CCONJ	-	0:38:28.223000	0:38:29.423000
 weiß	weiß	VERB	-	0:38:28.223000	0:38:29.423000
@@ -10579,18 +10579,18 @@ ich	ich	PRON	-	0:38:28.223000	0:38:29.423000
 nicht	nicht	PART	-	0:38:28.223000	0:38:29.423000
 .	-	-	-	0:38:28.223000	0:38:29.423000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:29.423000" end="0:38:30.423000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:29.423000" end="0:38:30.423000" project="PP03" age_lower="18" age_upper="35">
 der	der	DET	-	0:38:29.423000	0:38:30.049000
 aufpasst	aufpasst	NOUN	-	0:38:29.423000	0:38:30.049000
 ,	-	-	-	0:38:29.423000	0:38:30.049000
 ja	ja	PART	-	0:38:30.049000	0:38:30.423000
 ,	-	-	-	0:38:30.049000	0:38:30.423000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:30.049000" end="0:38:30.423000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:30.049000" end="0:38:30.423000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:30.049000	0:38:30.423000
 .	-	-	-	0:38:30.049000	0:38:30.423000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:30.423000" end="0:38:34.029000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:30.423000" end="0:38:34.029000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:38:30.423000	0:38:31.596000
 dass	dass	SCONJ	-	0:38:30.423000	0:38:31.596000
 die	der	DET	-	0:38:30.423000	0:38:31.596000
@@ -10612,11 +10612,11 @@ kannst	können	ADV	-	0:38:31.596000	0:38:33.389000
 zum	zum	ADP	-	0:38:31.596000	0:38:33.389000
 Beispiel	Beispiel	NOUN	-	0:38:31.596000	0:38:33.389000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:33.389000" end="0:38:34.029000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:33.389000" end="0:38:34.029000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:38:33.389000	0:38:34.029000
 .	-	-	-	0:38:33.389000	0:38:34.029000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:34.029000" end="0:38:45.236000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:34.029000" end="0:38:45.236000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	PART	-	0:38:34.029000	0:38:38.709000
 <pause duration="1,2s"/>
@@ -10639,21 +10639,21 @@ quasi	quasi	ADV	-	0:38:41.736000	0:38:45.236000
 gell	gell	ADJ	-	0:38:41.736000	0:38:45.236000
 ?	-	-	-	0:38:41.736000	0:38:45.236000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:45.236000" end="0:38:45.996000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:45.236000" end="0:38:45.996000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:45.236000	0:38:45.996000
 !	-	-	-	0:38:45.236000	0:38:45.996000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:45.996000" end="0:38:47.516000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:45.996000" end="0:38:47.516000" project="PP03" age_lower="18" age_upper="35">
 bissi	bissi	NOUN	-	0:38:45.996000	0:38:47.516000
 .	-	-	-	0:38:45.996000	0:38:47.516000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:47.516000" end="0:38:48.323000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:47.516000" end="0:38:48.323000" project="PP03" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:38:47.516000	0:38:48.323000
 ja	ja	ADV	-	0:38:47.516000	0:38:48.323000
 .	-	-	-	0:38:47.516000	0:38:48.323000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:48.323000" end="0:38:50.536000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:48.323000" end="0:38:50.536000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:38:48.323000	0:38:50.536000
 hat	haben	AUX	-	0:38:48.323000	0:38:50.536000
 es	ich	PRON	-	0:38:48.323000	0:38:50.536000
@@ -10664,11 +10664,11 @@ noch	noch	ADV	-	0:38:48.323000	0:38:50.536000
 gegeben	geben	VERB	-	0:38:48.323000	0:38:50.536000
 ?	-	-	-	0:38:48.323000	0:38:50.536000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:50.536000" end="0:38:52.029000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:50.536000" end="0:38:52.029000" project="PP03" age_lower="18" age_upper="35">
 Dorffeste	Dorffeste	NOUN	-	0:38:50.536000	0:38:52.029000
 .	-	-	-	0:38:50.536000	0:38:52.029000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:52.029000" end="0:38:56.649000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:52.029000" end="0:38:56.649000" project="PP03" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:38:52.029000	0:38:56.649000
 voriges	vorig	ADJ	-	0:38:52.029000	0:38:56.649000
 Jahr	Jahr	NOUN	-	0:38:52.029000	0:38:56.649000
@@ -10677,7 +10677,7 @@ Musikheuriger	Musikheuriger	NOUN	-	0:38:52.029000	0:38:56.649000
 ?	-	-	-	0:38:52.029000	0:38:56.649000
 <pause duration="2,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:56.649000" end="0:38:57.949000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:56.649000" end="0:38:57.949000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:56.649000	0:38:57.949000
 ich	ich	PRON	-	0:38:56.649000	0:38:57.949000
 glaube	glauben	VERB	-	0:38:56.649000	0:38:57.949000
@@ -10686,11 +10686,11 @@ Jahr	Jahr	NOUN	-	0:38:56.649000	0:38:57.949000
 schon	schon	ADV	-	0:38:56.649000	0:38:57.949000
 noch	noch	ADV	-	0:38:56.649000	0:38:57.949000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:57.949000" end="0:38:59.029000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:57.949000" end="0:38:59.029000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:38:57.949000	0:38:59.029000
 .	-	-	-	0:38:57.949000	0:38:59.029000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:57.949000" end="0:38:59.029000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:57.949000" end="0:38:59.029000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	ADV	-	0:38:57.949000	0:38:59.029000
 heuer	heuer	ADV	-	0:38:57.949000	0:38:59.029000
 gibt	geben	VERB	-	0:38:57.949000	0:38:59.029000
@@ -10698,14 +10698,14 @@ es	ich	PRON	-	0:38:57.949000	0:38:59.029000
 keinen	kein	PRON	-	0:38:57.949000	0:38:59.029000
 .	-	-	-	0:38:57.949000	0:38:59.029000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:59.029000" end="0:39:00.456000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:38:59.029000" end="0:39:00.456000" project="PP03" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:38:59.029000	0:39:00.456000
 ?	-	-	-	0:38:59.029000	0:39:00.456000
 warum	warum	ADV	-	0:38:59.029000	0:39:00.456000
 ?	-	-	-	0:38:59.029000	0:39:00.456000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:00.456000" end="0:39:07.829000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:00.456000" end="0:39:07.829000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:39:00.456000	0:39:04.403000
 <pause duration="1,6s"/>
 weil	weil	SCONJ	-	0:39:00.456000	0:39:04.403000
@@ -10731,11 +10731,11 @@ so	so	ADV	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:39:04.40300
 einen	ein	DET	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:39:04.403000	0:39:07.829000
 Plan	Plan	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:39:04.403000	0:39:07.829000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:07.829000" end="0:39:08.836000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:07.829000" end="0:39:08.836000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:39:07.829000	0:39:08.836000
 .	-	-	-	0:39:07.829000	0:39:08.836000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:07.829000" end="0:39:16.982000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:07.829000" end="0:39:16.982000" project="PP03" age_lower="18" age_upper="35">
 von	von	ADP	-	0:39:07.829000	0:39:08.836000
 den	der	DET	-	0:39:07.829000	0:39:08.836000
 ganzen	ganz	ADJ	-	0:39:07.829000	0:39:08.836000
@@ -10767,11 +10767,11 @@ mehr	mehr	ADV	-	0:39:15.562000	0:39:16.982000
 .	-	-	-	0:39:15.562000	0:39:16.982000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:16.982000" end="0:39:17.949000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:16.982000" end="0:39:17.949000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:39:16.982000	0:39:17.949000
 .	-	-	-	0:39:16.982000	0:39:17.949000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:17.949000" end="0:39:20.549000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:17.949000" end="0:39:20.549000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:39:17.949000	0:39:20.549000
 gibt	geben	VERB	-	0:39:17.949000	0:39:20.549000
 es	ich	PRON	-	0:39:17.949000	0:39:20.549000
@@ -10779,7 +10779,7 @@ nicht	nicht	PART	-	0:39:17.949000	0:39:20.549000
 .	-	-	-	0:39:17.949000	0:39:20.549000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:20.549000" end="0:39:23.722000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:20.549000" end="0:39:23.722000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:39:20.549000	0:39:23.722000
 sonst	sonst	ADV	-	0:39:20.549000	0:39:23.722000
 haben	haben	AUX	-	0:39:20.549000	0:39:23.722000
@@ -10796,7 +10796,7 @@ nicht	nicht	PART	-	0:39:20.549000	0:39:23.722000
 miterlebt	miterleben	VERB	-	0:39:20.549000	0:39:23.722000
 .	-	-	-	0:39:20.549000	0:39:23.722000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:23.722000" end="0:39:25.556000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:23.722000" end="0:39:25.556000" project="PP03" age_lower="18" age_upper="35">
 der	der	DET	-	0:39:23.722000	0:39:25.556000
 Bauernmarkt	Bauernmarkt	NOUN	-	0:39:23.722000	0:39:25.556000
 war	sein	AUX	-	0:39:23.722000	0:39:25.556000
@@ -10805,7 +10805,7 @@ auch	auch	ADV	-	0:39:23.722000	0:39:25.556000
 cool	cool	PROPN	-	0:39:23.722000	0:39:25.556000
 .	-	-	-	0:39:23.722000	0:39:25.556000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:25.556000" end="0:39:30.162000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:25.556000" end="0:39:30.162000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:39:25.556000	0:39:30.162000
 <pause duration="2,2s"/>
 der	der	DET	-	0:39:25.556000	0:39:30.162000
@@ -10815,7 +10815,7 @@ cool	cool	PROPN	-	0:39:25.556000	0:39:30.162000
 !	-	-	-	0:39:25.556000	0:39:30.162000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:30.162000" end="0:39:35.596000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:30.162000" end="0:39:35.596000" project="PP03" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:39:30.162000	0:39:33.642000
 wir	ich	PRON	-	0:39:30.162000	0:39:33.642000
 r/	-	-	-	0:39:30.162000	0:39:33.642000
@@ -10844,11 +10844,11 @@ Blutspenden	Blutspenden	NOUN	-	0:39:33.642000	0:39:35.596000
 gegeben	geben	VERB	-	0:39:33.642000	0:39:35.596000
 ?	-	-	-	0:39:33.642000	0:39:35.596000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:35.596000" end="0:39:36.416000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:35.596000" end="0:39:36.416000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:39:35.596000	0:39:36.416000
 .	-	-	-	0:39:35.596000	0:39:36.416000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:36.416000" end="0:39:38.489000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:36.416000" end="0:39:38.489000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:39:36.416000	0:39:38.489000
 das	der	PRON	-	0:39:36.416000	0:39:38.489000
 gibt	geben	VERB	-	0:39:36.416000	0:39:38.489000
@@ -10861,7 +10861,7 @@ mehr	mehr	ADV	-	0:39:36.416000	0:39:38.489000
 .	-	-	-	0:39:36.416000	0:39:38.489000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:38.489000" end="0:39:44.596000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:38.489000" end="0:39:44.596000" project="PP03" age_lower="18" age_upper="35">
 bis	bis	ADP	-	0:39:38.489000	0:39:41.022000
 vor	vor	ADP	-	0:39:38.489000	0:39:41.022000
 einem	einer	DET	-	0:39:38.489000	0:39:41.022000
@@ -10902,7 +10902,7 @@ sicher	sichern	ADJ	-	0:39:42.596000	0:39:44.596000
 nicht	nicht	PART	-	0:39:42.596000	0:39:44.596000
 .	-	-	-	0:39:42.596000	0:39:44.596000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:44.596000" end="0:39:48.176000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:44.596000" end="0:39:48.176000" project="PP03" age_lower="18" age_upper="35">
 voriges	vorig	ADJ	-	0:39:44.596000	0:39:46.276000
 Jahr	Jahr	NOUN	-	0:39:44.596000	0:39:46.276000
 sicher	sichern	ADJ	-	0:39:44.596000	0:39:46.276000
@@ -10931,7 +10931,7 @@ gehen	gehen	VERB	-	0:39:47.242000	0:39:48.176000
 dürfen	dürfen	VERB	-	0:39:47.242000	0:39:48.176000
 .	-	-	-	0:39:47.242000	0:39:48.176000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:48.176000" end="0:39:52.236000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:48.176000" end="0:39:52.236000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:39:48.176000	0:39:49.269000
 okay	okay	VERB	-	0:39:48.176000	0:39:49.269000
 .	-	-	-	0:39:48.176000	0:39:49.269000
@@ -10955,7 +10955,7 @@ gar	gar	ADV	-	0:39:51.449000	0:39:52.236000
 nicht	nicht	PART	-	0:39:51.449000	0:39:52.236000
 .	-	-	-	0:39:51.449000	0:39:52.236000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:51.449000" end="0:39:55.176000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:51.449000" end="0:39:55.176000" project="PP03" age_lower="18" age_upper="35">
 entweder	entweder	CCONJ	-	0:39:51.449000	0:39:52.236000
 sind	sein	AUX	-	0:39:51.449000	0:39:52.236000
 zu	zu	ADP	-	0:39:52.236000	0:39:54.236000
@@ -10973,7 +10973,7 @@ eher	eher	ADV	-	0:39:54.236000	0:39:55.176000
 komisch	komisch	ADJ	-	0:39:54.236000	0:39:55.176000
 .	-	-	-	0:39:54.236000	0:39:55.176000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:55.176000" end="0:40:04.442000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:39:55.176000" end="0:40:04.442000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:39:55.176000	0:39:56.536000
 .	-	-	-	0:39:55.176000	0:39:56.536000
 <pause duration="0,8s"/>
@@ -11020,7 +11020,7 @@ Blutspenden	-	-	-	0:40:02.442000	0:40:04.442000
 gehen	-	-	-	0:40:02.442000	0:40:04.442000
 .	-	-	-	0:40:02.442000	0:40:04.442000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:04.442000" end="0:40:07.649000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:04.442000" end="0:40:07.649000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	-	-	-	0:40:04.442000	0:40:05.916000
 vom	-	-	-	0:40:04.442000	0:40:05.916000
@@ -11036,11 +11036,11 @@ Wohlbefinden	Wohlbefinden	NOUN	-	0:40:05.916000	0:40:07.649000
 dann	dann	ADV	-	0:40:05.916000	0:40:07.649000
 n/	-	-	-	0:40:05.916000	0:40:07.649000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:07.649000" end="0:40:08.969000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:07.649000" end="0:40:08.969000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:40:07.649000	0:40:08.969000
 .	-	-	-	0:40:07.649000	0:40:08.969000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:07.649000" end="0:40:10.516000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:07.649000" end="0:40:10.516000" project="PP03" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:40:07.649000	0:40:08.969000
 nachher	nachher	ADV	-	0:40:07.649000	0:40:08.969000
 das	der	DET	-	0:40:07.649000	0:40:08.969000
@@ -11055,7 +11055,7 @@ auch	auch	ADV	-	0:40:08.969000	0:40:10.516000
 gehst	gehen	VERB	-	0:40:08.969000	0:40:10.516000
 .	-	-	-	0:40:08.969000	0:40:10.516000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:10.516000" end="0:40:25.609000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:10.516000" end="0:40:25.609000" project="PP03" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:40:10.516000	0:40:12.922000
 sie	ich	PRON	-	0:40:10.516000	0:40:12.922000
 dir	sich	PRON	-	0:40:10.516000	0:40:12.922000
@@ -11110,7 +11110,7 @@ aufregend	aufregen	ADJ	-	0:40:22.402000	0:40:25.609000
 .	-	-	-	0:40:22.402000	0:40:25.609000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:25.609000" end="0:40:34.062000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:25.609000" end="0:40:34.062000" project="PP03" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:40:25.609000	0:40:27.076000
 ,	-	-	-	0:40:25.609000	0:40:27.076000
 genau	genau	ADJ	-	0:40:25.609000	0:40:27.076000
@@ -11143,12 +11143,12 @@ meistens	meistens	ADV	-	0:40:32.062000	0:40:34.062000
 schön	schön	ADJ	-	0:40:32.062000	0:40:34.062000
 .	-	-	-	0:40:32.062000	0:40:34.062000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:34.062000" end="0:40:35.429000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:34.062000" end="0:40:35.429000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:40:34.062000	0:40:35.429000
 ja	ja	PART	-	0:40:34.062000	0:40:35.429000
 .	-	-	-	0:40:34.062000	0:40:35.429000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:35.429000" end="0:40:37.222000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:35.429000" end="0:40:37.222000" project="PP03" age_lower="18" age_upper="35">
 schon	schon	ADV	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:40:35.429000	0:40:37.222000
 viel	viel	DET	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:40:35.429000	0:40:37.222000
 Glück	Glück	NOUN	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:40:35.429000	0:40:37.222000
@@ -11157,7 +11157,7 @@ gehabt	haben	AUX	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond Quel i
 .	-	-	-	0:40:35.429000	0:40:37.222000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:37.222000" end="0:40:42.136000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:37.222000" end="0:40:42.136000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:40:37.222000	0:40:38.529000
 ich	ich	PRON	-	0:40:37.222000	0:40:38.529000
 meine	meinen	VERB	-	0:40:37.222000	0:40:38.529000
@@ -11195,11 +11195,11 @@ ja	-	-	-	0:40:40.129000	0:40:42.136000
 _wurscht_	-	-	-	0:40:40.129000	0:40:42.136000
 .	-	-	-	0:40:40.129000	0:40:42.136000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:42.136000" end="0:40:43.149000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:42.136000" end="0:40:43.149000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:40:42.136000	0:40:43.149000
 .	-	-	-	0:40:42.136000	0:40:43.149000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:43.149000" end="0:40:49.722000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:43.149000" end="0:40:49.722000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:40:43.149000	0:40:44.796000
 der	der	DET	-	0:40:43.149000	0:40:44.796000
 Regen	Regen	NOUN	-	0:40:43.149000	0:40:44.796000
@@ -11234,7 +11234,7 @@ oder	oder	CCONJ	-	0:40:47.322000	0:40:49.722000
 nicht	nicht	PART	-	0:40:47.322000	0:40:49.722000
 .	-	-	-	0:40:47.322000	0:40:49.722000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:49.722000" end="0:40:51.722000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:49.722000" end="0:40:51.722000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:40:49.722000	0:40:51.722000
 und	und	CCONJ	-	0:40:49.722000	0:40:51.722000
 im	im	ADP	-	0:40:49.722000	0:40:51.722000
@@ -11248,13 +11248,13 @@ frisch	frischen	ADJ	-	0:40:49.722000	0:40:51.722000
 auch	auch	ADV	-	0:40:49.722000	0:40:51.722000
 .	-	-	-	0:40:49.722000	0:40:51.722000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:51.722000" end="0:40:53.616000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:51.722000" end="0:40:53.616000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:40:51.722000	0:40:53.616000
 <pause duration="1,0s"/>
 mhm	mhm	PROPN	-	0:40:51.722000	0:40:53.616000
 .	-	-	-	0:40:51.722000	0:40:53.616000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:53.616000" end="0:41:02.309000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:40:53.616000" end="0:41:02.309000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:40:53.616000	0:40:54.569000
 wird	werden	AUX	-	0:40:53.616000	0:40:54.569000
 es	ich	PRON	-	0:40:53.616000	0:40:54.569000
@@ -11285,12 +11285,12 @@ ja	ja	ADV	-	0:40:57.289000	0:41:02.309000
 .	-	-	-	0:40:57.289000	0:41:02.309000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:02.309000" end="0:41:05.782000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:02.309000" end="0:41:05.782000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:41:02.309000	0:41:05.782000
 .	-	-	-	0:41:02.309000	0:41:05.782000
 <pause duration="2,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:05.782000" end="0:41:11.576000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:05.782000" end="0:41:11.576000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:41:05.782000	0:41:11.576000
 sonst	sonst	ADV	-	0:41:05.782000	0:41:11.576000
 Dorffeste	Dorffeste	NOUN	-	0:41:05.782000	0:41:11.576000
@@ -11307,7 +11307,7 @@ ein	einen	ADP	-	0:41:05.782000	0:41:11.576000
 .	-	-	-	0:41:05.782000	0:41:11.576000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:11.576000" end="0:41:20.302000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:11.576000" end="0:41:20.302000" project="PP03" age_lower="18" age_upper="35">
 mir	sich	PRON	-	0:41:11.576000	0:41:14.302000
 auch	auch	ADV	-	0:41:11.576000	0:41:14.302000
 nicht	nicht	PART	-	0:41:11.576000	0:41:14.302000
@@ -11340,9 +11340,9 @@ unter	unter	ADV	-	0:41:16.242000	0:41:20.302000
 .	-	-	-	0:41:16.242000	0:41:20.302000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:16.242000" end="0:41:20.302000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:16.242000" end="0:41:20.302000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:20.302000" end="0:41:28.529000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:20.302000" end="0:41:28.529000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:41:20.302000	0:41:22.982000
 die	der	DET	-	0:41:20.302000	0:41:22.982000
 stell	stell	ADJ	-	0:41:20.302000	0:41:22.982000
@@ -11365,12 +11365,12 @@ in	in	ADP	-	0:41:22.982000	0:41:28.529000
 .	-	-	-	0:41:22.982000	0:41:28.529000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:28.529000" end="0:41:30.529000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:28.529000" end="0:41:30.529000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:41:28.529000	0:41:30.529000
 .	-	-	-	0:41:28.529000	0:41:30.529000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:30.529000" end="0:41:35.502000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:30.529000" end="0:41:35.502000" project="PP03" age_lower="18" age_upper="35">
 schwierig	schwierig	ADJ	-	0:41:30.529000	0:41:35.502000
 ,	-	-	-	0:41:30.529000	0:41:35.502000
 ich	ich	PRON	-	0:41:30.529000	0:41:35.502000
@@ -11383,7 +11383,7 @@ gut	gut	ADJ	-	0:41:30.529000	0:41:35.502000
 .	-	-	-	0:41:30.529000	0:41:35.502000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:35.502000" end="0:41:39.736000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:35.502000" end="0:41:39.736000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:41:35.502000	0:41:39.736000
 aber	aber	ADV	-	0:41:35.502000	0:41:39.736000
 ,	-	-	-	0:41:35.502000	0:41:39.736000
@@ -11395,7 +11395,7 @@ Hochdeutsch	Hochdeutsch	NOUN	-	0:41:35.502000	0:41:39.736000
 ?	-	-	-	0:41:35.502000	0:41:39.736000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:39.736000" end="0:41:44.622000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:39.736000" end="0:41:44.622000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:41:39.736000	0:41:41.789000
 reines	rein	ADJ	-	0:41:39.736000	0:41:41.789000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:41:39.736000	0:41:41.789000
@@ -11417,11 +11417,11 @@ halt	halt	ADV	-	0:41:43.682000	0:41:44.622000
 irgendwie	irgendwie	ADV	-	0:41:43.682000	0:41:44.622000
 .	-	-	-	0:41:43.682000	0:41:44.622000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:43.682000" end="0:41:44.622000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:43.682000" end="0:41:44.622000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:41:43.682000	0:41:44.622000
 .	-	-	-	0:41:43.682000	0:41:44.622000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:44.622000" end="0:41:54.602000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:44.622000" end="0:41:54.602000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 obwohl	obwohl	SCONJ	-	0:41:46.622000	0:41:48.976000
 ein	einen	DET	-	0:41:46.622000	0:41:48.976000
@@ -11454,7 +11454,7 @@ ich	ich	PRON	-	0:41:52.262000	0:41:54.602000
 .	-	-	-	0:41:52.262000	0:41:54.602000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:54.602000" end="0:41:59.869000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:54.602000" end="0:41:59.869000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:41:54.602000	0:41:56.182000
 ,	-	-	-	0:41:54.602000	0:41:56.182000
 weil/	-	-	-	0:41:54.602000	0:41:56.182000
@@ -11479,7 +11479,7 @@ Hochdeutsch	Hochdeutsch	PROPN	-	0:41:57.169000	0:41:59.869000
 .	-	-	-	0:41:57.169000	0:41:59.869000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:59.869000" end="0:42:02.289000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:59.869000" end="0:42:02.289000" project="PP03" age_lower="18" age_upper="35">
 redet	reden	VERB	-	0:41:59.869000	0:42:02.289000
 man	man	PRON	-	0:41:59.869000	0:42:02.289000
 au/	-	-	-	0:41:59.869000	0:42:02.289000
@@ -11491,7 +11491,7 @@ ja	ja	ADV	-	0:41:59.869000	0:42:02.289000
 genau	genau	ADJ	-	0:41:59.869000	0:42:02.289000
 ,	-	-	-	0:41:59.869000	0:42:02.289000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:59.869000" end="0:42:02.289000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:41:59.869000" end="0:42:02.289000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:41:59.869000	0:42:02.289000
 nach	nach	ADP	-	0:41:59.869000	0:42:02.289000
 der	der	DET	-	0:41:59.869000	0:42:02.289000
@@ -11500,7 +11500,7 @@ Schreibe	Schreibe	NOUN	-	0:41:59.869000	0:42:02.289000
 schöner	schön	ADJ	-	0:41:59.869000	0:42:02.289000
 .	-	-	-	0:41:59.869000	0:42:02.289000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:02.289000" end="0:42:05.009000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:02.289000" end="0:42:05.009000" project="PP03" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:42:02.289000	0:42:04.109000
 alle	all	DET	-	0:42:02.289000	0:42:04.109000
 Fälle	Fall	NOUN	-	0:42:02.289000	0:42:04.109000
@@ -11514,11 +11514,11 @@ ja	ja	PART	-	0:42:02.289000	0:42:04.109000
 ja	ja	PART	-	0:42:04.109000	0:42:05.009000
 ,	-	-	-	0:42:04.109000	0:42:05.009000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:04.109000" end="0:42:05.009000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:04.109000" end="0:42:05.009000" project="PP03" age_lower="18" age_upper="35">
 aber/	-	-	-	0:42:04.109000	0:42:05.009000
 .	-	-	-	0:42:04.109000	0:42:05.009000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:05.009000" end="0:42:07.769000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:05.009000" end="0:42:07.769000" project="PP03" age_lower="18" age_upper="35">
 obwohl	obwohl	SCONJ	-	0:42:05.009000	0:42:05.876000
 es	ich	PRON	-	0:42:05.009000	0:42:05.876000
 voll	voll	ADJ	-	0:42:05.009000	0:42:05.876000
@@ -11535,7 +11535,7 @@ finde	finden	VERB	-	0:42:07.056000	0:42:07.769000
 ich	ich	PRON	-	0:42:07.056000	0:42:07.769000
 .	-	-	-	0:42:07.056000	0:42:07.769000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:07.056000" end="0:42:15.902000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:07.056000" end="0:42:15.902000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:42:07.056000	0:42:07.769000
 !	-	-	-	0:42:07.056000	0:42:07.769000
 voll	voll	ADJ	-	0:42:07.769000	0:42:10.309000
@@ -11558,7 +11558,7 @@ es	ich	PRON	-	0:42:13.562000	0:42:15.902000
 automatisch	automatisch	ADJ	-	0:42:13.562000	0:42:15.902000
 .	-	-	-	0:42:13.562000	0:42:15.902000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:15.902000" end="0:42:22.096000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:15.902000" end="0:42:22.096000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:42:15.902000	0:42:19.122000
 <pause duration="2,3s"/>
 eh	eh	X	-	0:42:15.902000	0:42:19.122000
@@ -11579,11 +11579,11 @@ nicht	nicht	PART	-	0:42:21.442000	0:42:22.096000
 gleich/	-	-	-	0:42:21.442000	0:42:22.096000
 .	-	-	-	0:42:21.442000	0:42:22.096000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:21.442000" end="0:42:22.096000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:21.442000" end="0:42:22.096000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:42:21.442000	0:42:22.096000
 .	-	-	-	0:42:21.442000	0:42:22.096000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:22.096000" end="0:42:28.549000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:22.096000" end="0:42:28.549000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 aber	aber	CCONJ	-	0:42:22.096000	0:42:25.422000
 sonst	sonst	ADV	-	0:42:22.096000	0:42:25.422000
@@ -11606,17 +11606,17 @@ wir	ich	PRON	-	0:42:26.942000	0:42:27.929000
 switchen	switchen	VERB	-	0:42:27.929000	0:42:28.549000
 .	-	-	-	0:42:27.929000	0:42:28.549000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:27.929000" end="0:42:28.549000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:27.929000" end="0:42:28.549000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:27.929000	0:42:28.549000
 .	-	-	-	0:42:27.929000	0:42:28.549000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:28.549000" end="0:42:33.389000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:28.549000" end="0:42:33.389000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 hm	hm	X	-	0:42:28.549000	0:42:33.389000
 .	-	-	-	0:42:28.549000	0:42:33.389000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:33.389000" end="0:42:39.596000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:33.389000" end="0:42:39.596000" project="PP03" age_lower="18" age_upper="35">
 rede	rede	NOUN	-	0:42:33.389000	0:42:37.802000
 über	über	ADP	-	0:42:33.389000	0:42:37.802000
 <pause duration="1,0s"/>
@@ -11631,7 +11631,7 @@ gar	gar	ADV	-	0:42:37.802000	0:42:39.596000
 nicht	nicht	PART	-	0:42:37.802000	0:42:39.596000
 .	-	-	-	0:42:37.802000	0:42:39.596000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:39.596000" end="0:42:46.655000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:39.596000" end="0:42:46.655000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:39.596000	0:42:42.469000
 ich	ich	PRON	-	0:42:39.596000	0:42:42.469000
 war	sein	AUX	-	0:42:39.596000	0:42:42.469000
@@ -11656,11 +11656,11 @@ hat	haben	AUX	-	0:42:45.795000	0:42:46.655000
 irgendwie	irgendwie	ADV	-	0:42:45.795000	0:42:46.655000
 die	der	DET	-	0:42:45.795000	0:42:46.655000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:45.795000" end="0:42:46.655000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:45.795000" end="0:42:46.655000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:42:45.795000	0:42:46.655000
 .	-	-	-	0:42:45.795000	0:42:46.655000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:46.655000" end="0:42:55.049000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:46.655000" end="0:42:55.049000" project="PP03" age_lower="18" age_upper="35">
 Zentrale	Zentrale	NOUN	-	0:42:46.655000	0:42:49.002000
 <pause duration="0,9s"/>
 in	in	ADP	-	0:42:46.655000	0:42:49.002000
@@ -11683,21 +11683,21 @@ der	der	DET	-	0:42:50.922000	0:42:55.049000
 <pause duration="2,5s"/>
 Bodensee	Bodensee	PROPN	-	0:42:50.922000	0:42:55.049000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:55.049000" end="0:42:55.369000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:55.049000" end="0:42:55.369000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:55.049000	0:42:55.369000
 .	-	-	-	0:42:55.049000	0:42:55.369000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:55.369000" end="0:42:56.789000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:55.369000" end="0:42:56.789000" project="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:42:55.369000	0:42:56.789000
 Vorarlberg	Vorarlberg	PROPN	-	0:42:55.369000	0:42:56.789000
 ist	sein	AUX	-	0:42:55.369000	0:42:56.789000
 ?	-	-	-	0:42:55.369000	0:42:56.789000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:56.789000" end="0:42:57.142000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:56.789000" end="0:42:57.142000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:56.789000	0:42:57.142000
 .	-	-	-	0:42:56.789000	0:42:57.142000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:57.142000" end="0:42:58.749000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:57.142000" end="0:42:58.749000" project="PP03" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:42:57.142000	0:42:57.762000
 ich	ich	PRON	-	0:42:57.142000	0:42:57.762000
 nicht	nicht	PART	-	0:42:57.142000	0:42:57.762000
@@ -11714,11 +11714,11 @@ dort	dort	ADV	-	0:42:57.762000	0:42:58.749000
 war	sein	AUX	-	0:42:57.762000	0:42:58.749000
 .	-	-	-	0:42:57.762000	0:42:58.749000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:58.749000" end="0:42:59.362000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:58.749000" end="0:42:59.362000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:42:58.749000	0:42:59.362000
 .	-	-	-	0:42:58.749000	0:42:59.362000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:59.362000" end="0:43:05.142000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:42:59.362000" end="0:43:05.142000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:42:59.362000	0:43:02.515000
 dass	dass	SCONJ	-	0:42:59.362000	0:43:02.515000
 da	da	ADV	-	0:42:59.362000	0:43:02.515000
@@ -11745,14 +11745,14 @@ der	der	DET	-	0:43:03.522000	0:43:05.142000
 Dreiländersee	Dreiländersee	PROPN	-	0:43:03.522000	0:43:05.142000
 .	-	-	-	0:43:03.522000	0:43:05.142000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:05.142000" end="0:43:06.029000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:05.142000" end="0:43:06.029000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:05.142000	0:43:06.029000
 ich	ich	PRON	-	0:43:05.142000	0:43:06.029000
 glaube	glauben	VERB	-	0:43:05.142000	0:43:06.029000
 ja	ja	ADP	-	0:43:05.142000	0:43:06.029000
 .	-	-	-	0:43:05.142000	0:43:06.029000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:06.029000" end="0:43:10.175000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:06.029000" end="0:43:10.175000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:43:06.029000	0:43:08.595000
 <pause duration="0,7s"/>
 habe	habe	AUX	-	0:43:06.029000	0:43:08.595000
@@ -11762,9 +11762,9 @@ einiges	einig	PRON	-	0:43:06.029000	0:43:08.595000
 gelernt	lernen	VERB	-	0:43:06.029000	0:43:08.595000
 .	-	-	-	0:43:06.029000	0:43:08.595000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:08.595000" end="0:43:10.175000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:08.595000" end="0:43:10.175000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:10.175000" end="0:43:12.515000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:10.175000" end="0:43:12.515000" project="PP03" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:43:10.175000	0:43:11.555000
 peinlich	peinlich	ADJ	-	0:43:10.175000	0:43:11.555000
 aber	aber	ADV	-	0:43:10.175000	0:43:11.555000
@@ -11776,15 +11776,15 @@ nicht	nicht	PART	-	0:43:10.175000	0:43:11.555000
 gecheckt	checken	VERB	-	0:43:11.555000	0:43:12.515000
 .	-	-	-	0:43:11.555000	0:43:12.515000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:11.555000" end="0:43:12.515000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:11.555000" end="0:43:12.515000" project="PP03" age_lower="18" age_upper="35">
 Geografie	Geografie	NOUN	-	0:43:11.555000	0:43:12.515000
 !	-	-	-	0:43:11.555000	0:43:12.515000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:12.515000" end="0:43:13.502000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:12.515000" end="0:43:13.502000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:12.515000	0:43:13.502000
 .	-	-	-	0:43:12.515000	0:43:13.502000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:12.515000" end="0:43:16.629000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:12.515000" end="0:43:16.629000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:43:13.502000	0:43:16.629000
 war	sein	AUX	-	0:43:13.502000	0:43:16.629000
 ich	ich	PRON	-	0:43:13.502000	0:43:16.629000
@@ -11793,7 +11793,7 @@ schlecht	schlecht	ADJ	-	0:43:13.502000	0:43:16.629000
 .	-	-	-	0:43:13.502000	0:43:16.629000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:16.629000" end="0:43:27.309000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:16.629000" end="0:43:27.309000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:43:16.629000	0:43:18.769000
 sonst	sonst	ADV	-	0:43:16.629000	0:43:18.769000
 Vorarlbergerisch	Vorarlbergerisch	NOUN	-	0:43:16.629000	0:43:18.769000
@@ -11831,7 +11831,7 @@ oder/	-	-	-	0:43:22.175000	0:43:27.309000
 .	-	-	-	0:43:22.175000	0:43:27.309000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:27.309000" end="0:43:33.429000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:27.309000" end="0:43:33.429000" project="PP03" age_lower="18" age_upper="35">
 (das)	der	PRON	-	0:43:27.309000	0:43:29.375000
 der	der	DET	-	0:43:27.309000	0:43:29.375000
 NAME	NAME	NOUN	-	0:43:27.309000	0:43:29.375000
@@ -11857,9 +11857,9 @@ einen	ein	DET	-	0:43:32.342000	0:43:33.429000
 Wiener	Wiener	NOUN	-	0:43:32.342000	0:43:33.429000
 .	-	-	-	0:43:32.342000	0:43:33.429000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:33.429000" end="0:43:34.429000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:33.429000" end="0:43:34.429000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:34.429000" end="0:43:36.969000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:34.429000" end="0:43:36.969000" project="PP03" age_lower="18" age_upper="35">
 (d)er	der	PRON	-	0:43:34.429000	0:43:36.969000
 hat	haben	AUX	-	0:43:34.429000	0:43:36.969000
 dann	dann	ADV	-	0:43:34.429000	0:43:36.969000
@@ -11870,11 +11870,11 @@ bissel	bissel	NOUN	-	0:43:34.429000	0:43:36.969000
 müssen	müssen	VERB	-	0:43:34.429000	0:43:36.969000
 ,	-	-	-	0:43:34.429000	0:43:36.969000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:36.969000" end="0:43:37.682000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:36.969000" end="0:43:37.682000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:36.969000	0:43:37.682000
 .	-	-	-	0:43:36.969000	0:43:37.682000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:37.682000" end="0:43:41.375000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:37.682000" end="0:43:41.375000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:43:37.682000	0:43:41.375000
 sich	sich	PRON	-	0:43:37.682000	0:43:41.375000
 die	der	DET	-	0:43:37.682000	0:43:41.375000
@@ -11891,7 +11891,7 @@ haben	haben	AUX	-	0:43:37.682000	0:43:41.375000
 .	-	-	-	0:43:37.682000	0:43:41.375000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:41.375000" end="0:43:47.489000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:41.375000" end="0:43:47.489000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:43:41.375000	0:43:42.595000
 manche	manch	DET	-	0:43:41.375000	0:43:42.595000
 Ausdrücke	Ausdrücke	NOUN	-	0:43:41.375000	0:43:42.595000
@@ -11925,11 +11925,11 @@ für	für	ADP	-	0:43:46.922000	0:43:47.489000
 Sachen	Sache	NOUN	-	0:43:46.922000	0:43:47.489000
 .	-	-	-	0:43:46.922000	0:43:47.489000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:46.922000" end="0:43:47.489000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:46.922000" end="0:43:47.489000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:46.922000	0:43:47.489000
 .	-	-	-	0:43:46.922000	0:43:47.489000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:47.489000" end="0:43:52.102000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:47.489000" end="0:43:52.102000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 aber	aber	CCONJ	-	0:43:47.489000	0:43:52.102000
 sonst	sonst	ADV	-	0:43:47.489000	0:43:52.102000
@@ -11944,7 +11944,7 @@ halbwegs	-	-	-	0:43:47.489000	0:43:52.102000
 .	-	-	-	0:43:47.489000	0:43:52.102000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:52.102000" end="0:43:53.442000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:52.102000" end="0:43:53.442000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:43:52.102000	0:43:53.442000
 schon	schon	ADV	-	0:43:52.102000	0:43:53.442000
 ,	-	-	-	0:43:52.102000	0:43:53.442000
@@ -11953,22 +11953,22 @@ Händen	Hand	NOUN	-	0:43:52.102000	0:43:53.442000
 und	und	CCONJ	-	0:43:52.102000	0:43:53.442000
 Füßen	Fuß	NOUN	-	0:43:52.102000	0:43:53.442000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:53.442000" end="0:43:54.202000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:53.442000" end="0:43:54.202000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:43:53.442000	0:43:54.202000
 .	-	-	-	0:43:53.442000	0:43:54.202000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:53.442000" end="0:43:54.202000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:53.442000" end="0:43:54.202000" project="PP03" age_lower="18" age_upper="35">
 im	im	ADP	-	0:43:53.442000	0:43:54.202000
 Notfall	Notfall	NOUN	-	0:43:53.442000	0:43:54.202000
 .	-	-	-	0:43:53.442000	0:43:54.202000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:54.202000" end="0:43:54.769000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:54.202000" end="0:43:54.769000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:43:54.202000	0:43:54.769000
 .	-	-	-	0:43:54.202000	0:43:54.769000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:54.769000" end="0:43:55.669000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:54.769000" end="0:43:55.669000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:55.669000" end="0:44:08.489000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:43:55.669000" end="0:44:08.489000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 okay	okay	NOUN	-	0:43:55.669000	0:44:01.442000
 .	-	-	-	0:43:55.669000	0:44:01.442000
@@ -11981,7 +11981,7 @@ Schulerlebnis	Schulerlebnis	NOUN	-	0:44:01.442000	0:44:08.489000
 .	-	-	-	0:44:01.442000	0:44:08.489000
 <pause duration="3,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:08.489000" end="0:44:24.802000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:08.489000" end="0:44:24.802000" project="PP03" age_lower="18" age_upper="35">
 besonderes	besonder	ADJ	-	0:44:08.489000	0:44:10.895000
 Schulerlebnis	Schulerlebnis	NOUN	-	0:44:08.489000	0:44:10.895000
 .	-	-	-	0:44:08.489000	0:44:10.895000
@@ -12018,7 +12018,7 @@ so	so	ADV	-	0:44:22.382000	0:44:24.802000
 Sportwoche	Sportwoche	NOUN	-	0:44:22.382000	0:44:24.802000
 .	-	-	-	0:44:22.382000	0:44:24.802000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:24.802000" end="0:44:25.942000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:24.802000" end="0:44:25.942000" project="PP03" age_lower="18" age_upper="35">
 von	von	ADP	-	0:44:24.802000	0:44:25.942000
 der	der	DET	-	0:44:24.802000	0:44:25.942000
 Hauptschule	Hauptschule	NOUN	-	0:44:24.802000	0:44:25.942000
@@ -12026,17 +12026,17 @@ aus	aus	ADP	-	0:44:24.802000	0:44:25.942000
 quasi	quasi	ADV	-	0:44:24.802000	0:44:25.942000
 ?	-	-	-	0:44:24.802000	0:44:25.942000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:25.942000" end="0:44:26.475000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:25.942000" end="0:44:26.475000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:44:25.942000	0:44:26.475000
 ja	ja	PART	-	0:44:25.942000	0:44:26.475000
 .	-	-	-	0:44:25.942000	0:44:26.475000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:26.475000" end="0:44:28.389000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:26.475000" end="0:44:28.389000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:44:26.475000	0:44:28.389000
 .	-	-	-	0:44:26.475000	0:44:28.389000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:28.389000" end="0:44:30.629000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:28.389000" end="0:44:30.629000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:44:28.389000	0:44:30.629000
 war	sein	AUX	-	0:44:28.389000	0:44:30.629000
 eigentlich	eigentlich	ADV	-	0:44:28.389000	0:44:30.629000
@@ -12046,12 +12046,12 @@ cool	cool	PROPN	-	0:44:28.389000	0:44:30.629000
 .	-	-	-	0:44:28.389000	0:44:30.629000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:30.629000" end="0:44:31.862000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:30.629000" end="0:44:31.862000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:30.629000	0:44:31.862000
 .	-	-	-	0:44:30.629000	0:44:31.862000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:31.862000" end="0:44:37.722000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:31.862000" end="0:44:37.722000" project="PP03" age_lower="18" age_upper="35">
 besondere	besonder	ADJ	-	0:44:31.862000	0:44:33.995000
 Schulerlebnisse	Schulerlebnisse	NOUN	-	0:44:31.862000	0:44:33.995000
 .	-	-	-	0:44:31.862000	0:44:33.995000
@@ -12074,7 +12074,7 @@ recht	recht	NOUN	-	0:44:36.469000	0:44:37.722000
 lustig	lustig	ADJ	-	0:44:36.469000	0:44:37.722000
 .	-	-	-	0:44:36.469000	0:44:37.722000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:37.722000" end="0:44:42.189000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:37.722000" end="0:44:42.189000" project="PP03" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:44:37.722000	0:44:42.189000
 ,	-	-	-	0:44:37.722000	0:44:42.189000
 an	an	ADP	-	0:44:37.722000	0:44:42.189000
@@ -12091,9 +12091,9 @@ erinnern	erinnern	VERB	-	0:44:37.722000	0:44:42.189000
 .	-	-	-	0:44:37.722000	0:44:42.189000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:37.722000" end="0:44:42.189000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:37.722000" end="0:44:42.189000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:42.189000" end="0:44:45.875000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:42.189000" end="0:44:45.875000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:44:42.189000	0:44:45.149000
 ich	ich	PRON	-	0:44:42.189000	0:44:45.149000
 habe	habe	AUX	-	0:44:42.189000	0:44:45.149000
@@ -12105,11 +12105,11 @@ gehabt	haben	AUX	-	0:44:42.189000	0:44:45.149000
 .	-	-	-	0:44:42.189000	0:44:45.149000
 vor	vor	ADP	-	0:44:45.149000	0:44:45.875000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:45.149000" end="0:44:45.875000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:45.149000" end="0:44:45.875000" project="PP03" age_lower="18" age_upper="35">
 cool	cool	PROPN	-	0:44:45.149000	0:44:45.875000
 !	-	-	-	0:44:45.149000	0:44:45.875000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:45.875000" end="0:44:48.269000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:45.875000" end="0:44:48.269000" project="PP03" age_lower="18" age_upper="35">
 ZAHL	ZAHL	NUM	-	0:44:45.875000	0:44:46.875000
 Jahren	Jahr	NOUN	-	0:44:45.875000	0:44:46.875000
 maturiert	maturiert	VERB	-	0:44:45.875000	0:44:46.875000
@@ -12119,13 +12119,13 @@ arg	arg	PROPN	-	0:44:46.875000	0:44:48.269000
 !	-	-	-	0:44:46.875000	0:44:48.269000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:48.269000" end="0:44:48.915000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:48.269000" end="0:44:48.915000" project="PP03" age_lower="18" age_upper="35">
 die	der	DET	-	0:44:48.269000	0:44:48.915000
 Zeit	Zeit	NOUN	-	0:44:48.269000	0:44:48.915000
 verrennt	verrennen	VERB	-	0:44:48.269000	0:44:48.915000
 .	-	-	-	0:44:48.269000	0:44:48.915000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:48.915000" end="0:45:20.342000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:44:48.915000" end="0:45:20.342000" project="PP03" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:44:48.915000	0:44:49.275000
 ,	-	-	-	0:44:48.915000	0:44:49.275000
 ja	ja	PART	-	0:44:49.275000	0:44:50.582000
@@ -12275,11 +12275,11 @@ Tischlerei	Tischlerei	NOUN	-	0:45:17.509000	0:45:20.342000
 kommt	kommen	VERB	-	0:45:17.509000	0:45:20.342000
 ,	-	-	-	0:45:17.509000	0:45:20.342000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:20.342000" end="0:45:21.029000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:20.342000" end="0:45:21.029000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:20.342000	0:45:21.029000
 .	-	-	-	0:45:20.342000	0:45:21.029000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:21.029000" end="0:45:25.415000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:21.029000" end="0:45:25.415000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:45:21.029000	0:45:23.302000
 wir	ich	PRON	-	0:45:21.029000	0:45:23.302000
 haben	haben	AUX	-	0:45:21.029000	0:45:23.302000
@@ -12306,22 +12306,22 @@ Klasse	Klasse	NOUN	-	0:45:24.182000	0:45:25.415000
 gehabt	haben	AUX	-	0:45:24.182000	0:45:25.415000
 .	-	-	-	0:45:24.182000	0:45:25.415000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:25.415000" end="0:45:26.175000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:25.415000" end="0:45:26.175000" project="PP03" age_lower="18" age_upper="35">
 na	na	X	-	0:45:25.415000	0:45:26.175000
 !	-	-	-	0:45:25.415000	0:45:26.175000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:26.175000" end="0:45:26.655000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:26.175000" end="0:45:26.655000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:45:26.175000	0:45:26.655000
 .	-	-	-	0:45:26.175000	0:45:26.655000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:26.655000" end="0:45:29.142000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:26.655000" end="0:45:29.142000" project="PP03" age_lower="18" age_upper="35">
 *ist*	-	-	-	0:45:26.655000	0:45:29.142000
 ja	-	-	-	0:45:26.655000	0:45:29.142000
 arg	-	-	-	0:45:26.655000	0:45:29.142000
 !	-	-	-	0:45:26.655000	0:45:29.142000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:29.142000" end="0:45:32.555000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:29.142000" end="0:45:32.555000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:45:29.142000	0:45:32.555000
 war	sein	AUX	-	0:45:29.142000	0:45:32.555000
 so	so	ADV	-	0:45:29.142000	0:45:32.555000
@@ -12334,7 +12334,7 @@ keine	kein	DET	-	0:45:29.142000	0:45:32.555000
 Ahnung	Ahnung	NOUN	-	0:45:29.142000	0:45:32.555000
 .	-	-	-	0:45:29.142000	0:45:32.555000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:32.555000" end="0:45:39.462000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:32.555000" end="0:45:39.462000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,3s"/>
 hm	hm	X	-	0:45:35.842000	0:45:39.462000
 <pause duration="0,7s"/>
@@ -12347,12 +12347,12 @@ bei	bei	ADP	-	0:45:35.842000	0:45:39.462000
 mir	sich	PRON	-	0:45:35.842000	0:45:39.462000
 .	-	-	-	0:45:35.842000	0:45:39.462000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:39.462000" end="0:45:41.642000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:39.462000" end="0:45:41.642000" project="PP03" age_lower="18" age_upper="35">
 hm	hm	X	-	0:45:39.462000	0:45:41.642000
 .	-	-	-	0:45:39.462000	0:45:41.642000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:41.642000" end="0:45:42.875000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:41.642000" end="0:45:42.875000" project="PP03" age_lower="18" age_upper="35">
 brauche	brauche	VERB	-	0:45:41.642000	0:45:42.875000
 ich	ich	PRON	-	0:45:41.642000	0:45:42.875000
 nicht	nicht	PART	-	0:45:41.642000	0:45:42.875000
@@ -12360,11 +12360,11 @@ mehr	mehr	ADV	-	0:45:41.642000	0:45:42.875000
 wiederholen	wiederholen	VERB	-	0:45:41.642000	0:45:42.875000
 .	-	-	-	0:45:41.642000	0:45:42.875000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:42.875000" end="0:45:45.609000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:42.875000" end="0:45:45.609000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:42.875000" end="0:45:45.609000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:42.875000" end="0:45:45.609000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:45.609000" end="0:45:47.609000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:45.609000" end="0:45:47.609000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:45:45.609000	0:45:47.609000
 manchmal	manchmal	ADV	-	0:45:45.609000	0:45:47.609000
 träume	träume	VERB	-	0:45:45.609000	0:45:47.609000
@@ -12373,11 +12373,11 @@ noch	noch	ADV	-	0:45:45.609000	0:45:47.609000
 davon	davon	ADV	-	0:45:45.609000	0:45:47.609000
 .	-	-	-	0:45:45.609000	0:45:47.609000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:47.609000" end="0:45:48.349000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:47.609000" end="0:45:48.349000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:45:47.609000	0:45:48.349000
 ?	-	-	-	0:45:47.609000	0:45:48.349000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:48.349000" end="0:45:52.549000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:48.349000" end="0:45:52.549000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:48.349000	0:45:51.135000
 ,	-	-	-	0:45:48.349000	0:45:51.135000
 dass	dass	SCONJ	-	0:45:48.349000	0:45:51.135000
@@ -12397,9 +12397,9 @@ das	der	PRON	-	0:45:51.135000	0:45:52.549000
 tragisch	tragisch	ADJ	-	0:45:51.135000	0:45:52.549000
 ,	-	-	-	0:45:51.135000	0:45:52.549000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:51.135000" end="0:45:52.549000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:51.135000" end="0:45:52.549000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:52.549000" end="0:46:02.042000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:45:52.549000" end="0:46:02.042000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:45:52.549000	0:45:55.249000
 sonst	sonst	ADV	-	0:45:52.549000	0:45:55.249000
 <pause duration="1,3s"/>
@@ -12419,7 +12419,7 @@ mhm	mhm	PROPN	-	0:46:00.009000	0:46:02.042000
 .	-	-	-	0:46:00.009000	0:46:02.042000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:02.042000" end="0:46:09.155000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:02.042000" end="0:46:09.155000" project="PP03" age_lower="18" age_upper="35">
 Berufschule	Berufschule	NOUN	-	0:46:02.042000	0:46:04.822000
 war	sein	AUX	-	0:46:02.042000	0:46:04.822000
 eigentlich	eigentlich	ADV	-	0:46:02.042000	0:46:04.822000
@@ -12442,11 +12442,11 @@ ein	einen	DET	-	0:46:04.822000	0:46:09.155000
 Teil	Teil	NOUN	-	0:46:04.822000	0:46:09.155000
 .	-	-	-	0:46:04.822000	0:46:09.155000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:09.155000" end="0:46:11.049000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:09.155000" end="0:46:11.049000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:09.155000" end="0:46:11.049000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:09.155000" end="0:46:11.049000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:11.049000" end="0:46:14.615000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:11.049000" end="0:46:14.615000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:11.049000	0:46:14.615000
 und	und	CCONJ	-	0:46:11.049000	0:46:14.615000
 da	da	ADV	-	0:46:11.049000	0:46:14.615000
@@ -12470,7 +12470,7 @@ das	der	DET	-	0:46:11.049000	0:46:14.615000
 Interessensgebiet	Interessensgebiet	NOUN	-	0:46:11.049000	0:46:14.615000
 .	-	-	-	0:46:11.049000	0:46:14.615000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:14.615000" end="0:46:30.922000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:14.615000" end="0:46:30.922000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:14.615000	0:46:19.155000
 und	und	CCONJ	-	0:46:14.615000	0:46:19.155000
 auch	auch	ADV	-	0:46:14.615000	0:46:19.155000
@@ -12533,12 +12533,12 @@ Burschen	-	-	-	0:46:28.562000	0:46:30.922000
 war	-	-	-	0:46:28.562000	0:46:30.922000
 ,	-	-	-	0:46:28.562000	0:46:30.922000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:30.922000" end="0:46:31.828000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:30.922000" end="0:46:31.828000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:46:30.922000	0:46:31.828000
 .	-	-	-	0:46:30.922000	0:46:31.828000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:31.828000" end="0:46:33.122000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:31.828000" end="0:46:33.122000" project="PP03" age_lower="18" age_upper="35">
 war	-	-	-	0:46:31.828000	0:46:33.122000
 es	-	-	-	0:46:31.828000	0:46:33.122000
 eigentlich	-	-	-	0:46:31.828000	0:46:33.122000
@@ -12547,7 +12547,7 @@ recht	-	-	-	0:46:31.828000	0:46:33.122000
 _leiwand_	-	-	-	0:46:31.828000	0:46:33.122000
 .	-	-	-	0:46:31.828000	0:46:33.122000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:33.122000" end="0:46:34.988000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:33.122000" end="0:46:34.988000" project="PP03" age_lower="18" age_upper="35">
 recht	recht	ADV	-	0:46:33.122000	0:46:34.988000
 unkompliziert	unkompliziert	ADJ	-	0:46:33.122000	0:46:34.988000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:46:33.122000	0:46:34.988000
@@ -12555,15 +12555,15 @@ wahrscheinlich	wahrscheinlich	ADJ	-	0:46:33.122000	0:46:34.988000
 gell	gell	ADJ	-	0:46:33.122000	0:46:34.988000
 ?	-	-	-	0:46:33.122000	0:46:34.988000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:34.988000" end="0:46:35.482000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:34.988000" end="0:46:35.482000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:46:34.988000	0:46:35.482000
 !	-	-	-	0:46:34.988000	0:46:35.482000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:35.482000" end="0:46:36.342000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:35.482000" end="0:46:36.342000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:46:35.482000	0:46:36.342000
 .	-	-	-	0:46:35.482000	0:46:36.342000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:35.482000" end="0:46:48.362000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:35.482000" end="0:46:48.362000" project="PP03" age_lower="18" age_upper="35">
 d/	-	-	-	0:46:35.482000	0:46:36.342000
 also	also	ADV	-	0:46:35.482000	0:46:36.342000
 ersten	erst	ADJ	-	0:46:36.342000	0:46:39.502000
@@ -12625,15 +12625,15 @@ bin	sein	AUX	-	0:46:46.835000	0:46:48.362000
 ich	ich	PRON	-	0:46:46.835000	0:46:48.362000
 da	da	ADV	-	0:46:46.835000	0:46:48.362000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:48.362000" end="0:46:49.068000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:48.362000" end="0:46:49.068000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:46:48.362000	0:46:49.068000
 .	-	-	-	0:46:48.362000	0:46:49.068000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:48.362000" end="0:46:49.068000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:48.362000" end="0:46:49.068000" project="PP03" age_lower="18" age_upper="35">
 gerade	gerade	ADV	-	0:46:48.362000	0:46:49.068000
 ?"	-	-	-	0:46:48.362000	0:46:49.068000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:49.068000" end="0:46:52.228000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:49.068000" end="0:46:52.228000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 sind	sein	AUX	-	0:46:49.068000	0:46:52.228000
 schon	schon	ADV	-	0:46:49.068000	0:46:52.228000
@@ -12643,7 +12643,7 @@ teilweise	teilweise	ADV	-	0:46:49.068000	0:46:52.228000
 ärger	ärger	ADJ	-	0:46:49.068000	0:46:52.228000
 .	-	-	-	0:46:49.068000	0:46:52.228000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:52.228000" end="0:46:58.295000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:52.228000" end="0:46:58.295000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:46:52.228000	0:46:56.355000
 die	der	DET	-	0:46:52.228000	0:46:56.355000
 anderen	ander	ADJ	-	0:46:52.228000	0:46:56.355000
@@ -12671,7 +12671,7 @@ voll	voll	ADJ	-	0:46:57.435000	0:46:58.295000
 gepasst	gepasst	VERB	-	0:46:57.435000	0:46:58.295000
 .	-	-	-	0:46:57.435000	0:46:58.295000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:58.295000" end="0:47:01.542000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:46:58.295000" end="0:47:01.542000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:46:58.295000	0:47:01.542000
 <pause duration="1,4s"/>
 ist	sein	AUX	-	0:46:58.295000	0:47:01.542000
@@ -12679,7 +12679,7 @@ gleich	gleichen	ADV	-	0:46:58.295000	0:47:01.542000
 unkomplizierter	unkomplizierter	ADJ	-	0:46:58.295000	0:47:01.542000
 .	-	-	-	0:46:58.295000	0:47:01.542000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:01.542000" end="0:47:08.388000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:01.542000" end="0:47:08.388000" project="PP03" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:47:01.542000	0:47:04.128000
 !	-	-	-	0:47:01.542000	0:47:04.128000
 <pause duration="2,1s"/>
@@ -12697,11 +12697,11 @@ ein	einen	ADP	-	0:47:04.128000	0:47:08.388000
 .	-	-	-	0:47:04.128000	0:47:08.388000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:08.388000" end="0:47:09.535000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:08.388000" end="0:47:09.535000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:47:08.388000	0:47:09.535000
 .	-	-	-	0:47:08.388000	0:47:09.535000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:09.535000" end="0:47:14.108000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:09.535000" end="0:47:14.108000" project="PP03" age_lower="18" age_upper="35">
 stell	stell	ADJ	-	0:47:09.535000	0:47:14.108000
 dir	sich	PRON	-	0:47:09.535000	0:47:14.108000
 vor	vor	ADP	-	0:47:09.535000	0:47:14.108000
@@ -12711,7 +12711,7 @@ Deutschland	Deutschland	PROPN	-	0:47:09.535000	0:47:14.108000
 .	-	-	-	0:47:09.535000	0:47:14.108000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:14.108000" end="0:47:16.182000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:14.108000" end="0:47:16.182000" project="PP03" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:47:14.108000	0:47:15.588000
 ich	ich	PRON	-	0:47:14.108000	0:47:15.588000
 mir	sich	PRON	-	0:47:14.108000	0:47:15.588000
@@ -12721,11 +12721,11 @@ vorstellen	vorstellen	VERB	-	0:47:14.108000	0:47:15.588000
 müssen	müssen	VERB	-	0:47:14.108000	0:47:15.588000
 .	-	-	-	0:47:14.108000	0:47:15.588000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:16.182000" end="0:47:16.748000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:16.182000" end="0:47:16.748000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:47:16.182000	0:47:16.748000
 ?	-	-	-	0:47:16.182000	0:47:16.748000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:16.748000" end="0:47:19.208000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:16.748000" end="0:47:19.208000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:47:16.748000	0:47:17.948000
 ja	-	-	-	0:47:16.748000	0:47:17.948000
 *weißt*	-	-	-	0:47:16.748000	0:47:17.948000
@@ -12745,14 +12745,14 @@ ist	sein	AUX	-	0:47:17.948000	0:47:19.208000
 nie	nie	ADV	-	0:47:17.948000	0:47:19.208000
 in	in	ADP	-	0:47:17.948000	0:47:19.208000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:17.948000" end="0:47:19.208000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:17.948000" end="0:47:19.208000" project="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:47:17.948000	0:47:19.208000
 so	so	ADV	-	0:47:17.948000	0:47:19.208000
 stimmt	stimmen	VERB	-	0:47:17.948000	0:47:19.208000
 ,	-	-	-	0:47:17.948000	0:47:19.208000
 .	-	-	-	0:47:17.948000	0:47:19.208000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:19.208000" end="0:47:30.142000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:19.208000" end="0:47:30.142000" project="PP03" age_lower="18" age_upper="35">
 Frage	Frage	NOUN	-	0:47:19.208000	0:47:20.815000
 gekommen	kommen	VERB	-	0:47:19.208000	0:47:20.815000
 ,	-	-	-	0:47:19.208000	0:47:20.815000
@@ -12802,7 +12802,7 @@ ist	sein	AUX	-	0:47:28.208000	0:47:30.142000
 .	-	-	-	0:47:28.208000	0:47:30.142000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:30.142000" end="0:47:37.415000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:30.142000" end="0:47:37.415000" project="PP03" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:47:30.142000	0:47:32.402000
 ja	ja	ADV	-	0:47:30.142000	0:47:32.402000
 .	-	-	-	0:47:30.142000	0:47:32.402000
@@ -12827,11 +12827,11 @@ anderes	ander	PRON	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:47:
 ist	sein	AUX	-	0:47:32.402000	0:47:37.415000
 .	-	-	-	0:47:32.402000	0:47:37.415000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:37.415000" end="0:47:37.768000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:37.415000" end="0:47:37.768000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:47:37.415000	0:47:37.768000
 .	-	-	-	0:47:37.415000	0:47:37.768000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:37.415000" end="0:47:40.128000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:37.415000" end="0:47:40.128000" project="PP03" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:47:37.415000	0:47:37.768000
 es	ich	PRON	-	0:47:37.415000	0:47:37.768000
 was	was	PRON	2ArtSPE ?? AKon DArt EAdj EPart ESubj dopp spe-	0:47:37.415000	0:47:37.768000
@@ -12847,18 +12847,18 @@ ich	ich	PRON	-	0:47:38.902000	0:47:40.128000
 ew/	-	-	-	0:47:38.902000	0:47:40.128000
 .	-	-	-	0:47:38.902000	0:47:40.128000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:40.128000" end="0:47:41.628000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:40.128000" end="0:47:41.628000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:47:40.128000	0:47:41.222000
 spannender	spannend	ADJ	-	0:47:40.128000	0:47:41.222000
 vielleicht	vielleicht	ADV	-	0:47:40.128000	0:47:41.222000
 ja	ja	ADV	-	0:47:41.222000	0:47:41.628000
 .	-	-	-	0:47:41.222000	0:47:41.628000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:41.222000" end="0:47:41.628000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:41.222000" end="0:47:41.628000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:41.222000	0:47:41.628000
 .	-	-	-	0:47:41.222000	0:47:41.628000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:41.628000" end="0:47:56.895000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:41.628000" end="0:47:56.895000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 nein	nein	PART	-	0:47:41.628000	0:47:43.748000
 das	der	PRON	-	0:47:41.628000	0:47:43.748000
@@ -12927,11 +12927,11 @@ schon	-	-	-	0:47:56.042000	0:47:56.895000
 auch	-	-	-	0:47:56.042000	0:47:56.895000
 noch	-	-	-	0:47:56.042000	0:47:56.895000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:56.042000" end="0:47:56.895000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:56.042000" end="0:47:56.895000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:47:56.042000	0:47:56.895000
 ?	-	-	-	0:47:56.042000	0:47:56.895000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:56.895000" end="0:47:58.795000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:56.895000" end="0:47:58.795000" project="PP03" age_lower="18" age_upper="35">
 gemerkt	-	-	-	0:47:56.895000	0:47:58.262000
 ,	-	-	-	0:47:56.895000	0:47:58.262000
 also	also	ADV	-	0:47:56.895000	0:47:58.262000
@@ -12943,11 +12943,11 @@ richtig	richtig	ADJ	-	0:47:56.895000	0:47:58.262000
 gespürt	spüren	VERB	-	0:47:58.262000	0:47:58.795000
 ,	-	-	-	0:47:58.262000	0:47:58.795000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:58.262000" end="0:47:58.795000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:58.262000" end="0:47:58.795000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:58.262000	0:47:58.795000
 .	-	-	-	0:47:58.262000	0:47:58.795000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:58.795000" end="0:48:05.882000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:47:58.795000" end="0:48:05.882000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:47:58.795000	0:48:01.615000
 du	du	PRON	-	0:47:58.795000	0:48:01.615000
 hast	haben	AUX	-	0:47:58.795000	0:48:01.615000
@@ -12982,11 +12982,11 @@ anders	anders	ADV	-	0:48:01.615000	0:48:05.882000
 irgendwie	irgendwie	ADV	-	0:48:01.615000	0:48:05.882000
 .	-	-	-	0:48:01.615000	0:48:05.882000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:05.882000" end="0:48:06.482000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:05.882000" end="0:48:06.482000" project="PP03" age_lower="18" age_upper="35">
 stark	stark	ADJ	-	0:48:05.882000	0:48:06.482000
 .	-	-	-	0:48:05.882000	0:48:06.482000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:06.482000" end="0:48:18.095000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:06.482000" end="0:48:18.095000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:48:06.482000	0:48:09.702000
 <pause duration="1,1s"/>
 nein	nein	PART	-	0:48:06.482000	0:48:09.702000
@@ -13043,11 +13043,11 @@ schon	-	-	-	0:48:17.422000	0:48:18.095000
 _wurscht_	-	-	-	0:48:17.422000	0:48:18.095000
 .	-	-	-	0:48:17.422000	0:48:18.095000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:18.095000" end="0:48:18.502000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:18.095000" end="0:48:18.502000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:18.095000	0:48:18.502000
 ,	-	-	-	0:48:18.095000	0:48:18.502000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:18.502000" end="0:48:19.342000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:18.502000" end="0:48:19.342000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:48:18.502000	0:48:19.342000
 gibt	geben	VERB	-	0:48:18.502000	0:48:19.342000
 es	ich	PRON	-	0:48:18.502000	0:48:19.342000
@@ -13055,18 +13055,18 @@ jetzt	jetzt	ADV	-	0:48:18.502000	0:48:19.342000
 nicht	nicht	PART	-	0:48:18.502000	0:48:19.342000
 so	so	ADV	-	0:48:18.502000	0:48:19.342000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:18.502000" end="0:48:19.342000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:18.502000" end="0:48:19.342000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:48:18.502000	0:48:19.342000
 schon	schon	ADV	-	0:48:18.502000	0:48:19.342000
 .	-	-	-	0:48:18.502000	0:48:19.342000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:19.342000" end="0:48:21.215000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:19.342000" end="0:48:21.215000" project="PP03" age_lower="18" age_upper="35">
 großartige	großartige	ADJ	-	0:48:19.342000	0:48:21.215000
 Unterschiede	Unterschied	NOUN	-	0:48:19.342000	0:48:21.215000
 .	-	-	-	0:48:19.342000	0:48:21.215000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:21.215000" end="0:48:27.608000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:21.215000" end="0:48:27.608000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:48:21.215000	0:48:24.175000
 stimmt	stimmen	VERB	-	0:48:21.215000	0:48:24.175000
 .	-	-	-	0:48:21.215000	0:48:24.175000
@@ -13086,7 +13086,7 @@ Deutschland	Deutschland	PROPN	-	0:48:25.555000	0:48:27.608000
 nein	nein	PART	-	0:48:25.555000	0:48:27.608000
 .	-	-	-	0:48:25.555000	0:48:27.608000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:27.608000" end="0:48:30.542000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:27.608000" end="0:48:30.542000" project="PP03" age_lower="18" age_upper="35">
 NAME	NAME	NOUN	-	0:48:27.608000	0:48:28.868000
 ist	sein	AUX	-	0:48:27.608000	0:48:28.868000
 eh	eh	ADV	-	0:48:27.608000	0:48:28.868000
@@ -13097,7 +13097,7 @@ nicht	nicht	PART	-	0:48:27.608000	0:48:28.868000
 oder	oder	CCONJ	-	0:48:27.608000	0:48:28.868000
 ?	-	-	-	0:48:27.608000	0:48:28.868000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:28.868000" end="0:48:32.455000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:28.868000" end="0:48:32.455000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:48:28.868000	0:48:30.542000
 .	-	-	-	0:48:28.868000	0:48:30.542000
 aber	aber	CCONJ	-	0:48:30.542000	0:48:32.455000
@@ -13107,7 +13107,7 @@ war	sein	AUX	-	0:48:30.542000	0:48:32.455000
 dazumals/	-	-	-	0:48:30.542000	0:48:32.455000
 .	-	-	-	0:48:30.542000	0:48:32.455000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:32.455000" end="0:48:34.455000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:32.455000" end="0:48:34.455000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:48:32.455000	0:48:34.455000
 ja	ja	PART	-	0:48:32.455000	0:48:34.455000
 ,	-	-	-	0:48:32.455000	0:48:34.455000
@@ -13119,11 +13119,11 @@ Deutscher	Deutscher	NOUN	-	0:48:32.455000	0:48:34.455000
 stimmt	stimmen	VERB	-	0:48:32.455000	0:48:34.455000
 !	-	-	-	0:48:32.455000	0:48:34.455000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:34.455000" end="0:48:34.922000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:34.455000" end="0:48:34.922000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:34.455000	0:48:34.922000
 .	-	-	-	0:48:34.455000	0:48:34.922000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:34.922000" end="0:48:36.742000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:34.922000" end="0:48:36.742000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:48:34.922000	0:48:36.742000
 da	-	-	-	0:48:34.922000	0:48:36.742000
 *ist*	-	-	-	0:48:34.922000	0:48:36.742000
@@ -13135,14 +13135,14 @@ Frage	-	-	-	0:48:34.922000	0:48:36.742000
 gekommen	-	-	-	0:48:34.922000	0:48:36.742000
 ?	-	-	-	0:48:34.922000	0:48:36.742000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:36.742000" end="0:48:38.322000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:36.742000" end="0:48:38.322000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:48:36.742000	0:48:38.322000
 gar	gar	ADV	-	0:48:36.742000	0:48:38.322000
 nicht	nicht	PART	-	0:48:36.742000	0:48:38.322000
 .	-	-	-	0:48:36.742000	0:48:38.322000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:38.322000" end="0:48:40.362000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:38.322000" end="0:48:40.362000" project="PP03" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:48:38.322000	0:48:39.495000
 aber	aber	ADV	-	0:48:38.322000	0:48:39.495000
 er	ich	PRON	-	0:48:38.322000	0:48:39.495000
@@ -13155,7 +13155,7 @@ gesettelt	gesettelt	VERB	-	0:48:39.495000	0:48:40.362000
 gell	gell	ADJ	-	0:48:39.495000	0:48:40.362000
 ?	-	-	-	0:48:39.495000	0:48:40.362000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:39.495000" end="0:48:46.328000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:39.495000" end="0:48:46.328000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:39.495000	0:48:40.362000
 ,	-	-	-	0:48:39.495000	0:48:40.362000
 ich	ich	PRON	-	0:48:40.362000	0:48:41.555000
@@ -13174,11 +13174,11 @@ erst	erst	ADV	-	0:48:41.555000	0:48:46.328000
 gekriegt	kriegen	VERB	-	0:48:41.555000	0:48:46.328000
 ,	-	-	-	0:48:41.555000	0:48:46.328000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:46.328000" end="0:48:46.735000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:46.328000" end="0:48:46.735000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:48:46.328000	0:48:46.735000
 .	-	-	-	0:48:46.328000	0:48:46.735000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:46.735000" end="0:49:00.895000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:48:46.735000" end="0:49:00.895000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:48:46.735000	0:48:48.528000
 der	der	PRON	-	0:48:46.735000	0:48:48.528000
 ist	sein	AUX	-	0:48:46.735000	0:48:48.528000
@@ -13224,11 +13224,11 @@ Staatsbürgerin	Staatsbürgerin	NOUN	-	0:48:57.922000	0:49:00.895000
 ist	sein	AUX	-	0:48:57.922000	0:49:00.895000
 .	-	-	-	0:48:57.922000	0:49:00.895000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:00.895000" end="0:49:01.268000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:00.895000" end="0:49:01.268000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:49:00.895000	0:49:01.268000
 .	-	-	-	0:49:00.895000	0:49:01.268000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:00.895000" end="0:49:13.848000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:00.895000" end="0:49:13.848000" project="PP03" age_lower="18" age_upper="35">
 da	da	SCONJ	-	0:49:00.895000	0:49:01.268000
 die	der	DET	-	0:49:00.895000	0:49:01.268000
 Deutsche	deutschen	NOUN	-	0:49:01.268000	0:49:02.208000
@@ -13287,11 +13287,11 @@ ist	sein	AUX	-	0:49:12.388000	0:49:13.848000
 nicht	nicht	PART	-	0:49:12.388000	0:49:13.848000
 ?	-	-	-	0:49:12.388000	0:49:13.848000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:13.848000" end="0:49:14.515000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:13.848000" end="0:49:14.515000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:49:13.848000	0:49:14.515000
 .	-	-	-	0:49:13.848000	0:49:14.515000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:14.515000" end="0:49:18.202000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:14.515000" end="0:49:18.202000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:49:14.515000	0:49:16.315000
 da	da	ADV	-	0:49:14.515000	0:49:16.315000
 hat	haben	AUX	-	0:49:14.515000	0:49:16.315000
@@ -13308,11 +13308,11 @@ nachweisen	nachweisen	VERB	-	0:49:16.315000	0:49:18.202000
 müssen	müssen	VERB	-	0:49:16.315000	0:49:18.202000
 ,	-	-	-	0:49:16.315000	0:49:18.202000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:18.202000" end="0:49:18.822000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:18.202000" end="0:49:18.822000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:49:18.202000	0:49:18.822000
 ?	-	-	-	0:49:18.202000	0:49:18.822000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:18.822000" end="0:49:31.148000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:18.822000" end="0:49:31.148000" project="PP03" age_lower="18" age_upper="35">
 obwohl	obwohl	SCONJ	-	0:49:18.822000	0:49:20.742000
 der/	-	-	-	0:49:18.822000	0:49:20.742000
 .	-	-	-	0:49:18.822000	0:49:20.742000
@@ -13363,13 +13363,13 @@ ein	einen	DET	-	0:49:29.862000	0:49:31.148000
 Hammer	Hammer	NOUN	-	0:49:29.862000	0:49:31.148000
 .	-	-	-	0:49:29.862000	0:49:31.148000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:31.148000" end="0:49:33.062000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:31.148000" end="0:49:33.062000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:49:31.148000	0:49:31.955000
 .	-	-	-	0:49:31.148000	0:49:31.955000
 eigenartig	eigenartig	ADJ	-	0:49:31.955000	0:49:33.062000
 .	-	-	-	0:49:31.955000	0:49:33.062000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:31.955000" end="0:49:33.062000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:31.955000" end="0:49:33.062000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:49:31.955000	0:49:33.062000
 habe	habe	AUX	-	0:49:31.955000	0:49:33.062000
 ich	ich	PRON	-	0:49:31.955000	0:49:33.062000
@@ -13378,12 +13378,12 @@ echt	echt	ADJ	-	0:49:31.955000	0:49:33.062000
 gedacht	gedenken	VERB	-	0:49:31.955000	0:49:33.062000
 ,	-	-	-	0:49:31.955000	0:49:33.062000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:33.062000" end="0:49:34.282000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:33.062000" end="0:49:34.282000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:49:33.062000	0:49:34.282000
 .	-	-	-	0:49:33.062000	0:49:34.282000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:34.282000" end="0:49:37.815000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:34.282000" end="0:49:37.815000" project="PP03" age_lower="18" age_upper="35">
 *dass*	-	-	-	0:49:34.282000	0:49:36.735000
 sowas	-	-	-	0:49:34.282000	0:49:36.735000
 gibt	-	-	-	0:49:34.282000	0:49:36.735000
@@ -13396,7 +13396,7 @@ komisch	komisch	ADJ	-	0:49:36.735000	0:49:37.815000
 gewesen	sein	AUX	-	0:49:36.735000	0:49:37.815000
 .	-	-	-	0:49:36.735000	0:49:37.815000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:37.815000" end="0:49:54.715000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:37.815000" end="0:49:54.715000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:49:37.815000	0:49:44.135000
 .	-	-	-	0:49:37.815000	0:49:44.135000
 <pause duration="2,7s"/>
@@ -13436,7 +13436,7 @@ Arsch	Arsch	NOUN	-	0:49:51.688000	0:49:53.768000
 .	-	-	-	0:49:51.688000	0:49:53.768000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:53.768000" end="0:49:55.301000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:53.768000" end="0:49:55.301000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:53.768000	0:49:54.715000
 und	und	CCONJ	-	0:49:53.768000	0:49:54.715000
 außerdem	außerdem	ADV	-	0:49:53.768000	0:49:54.715000
@@ -13447,7 +13447,7 @@ nur	nur	ADV	-	0:49:54.715000	0:49:55.301000
 Blödsinn	Blödsinn	NOUN	-	0:49:54.715000	0:49:55.301000
 .	-	-	-	0:49:54.715000	0:49:55.301000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:55.301000" end="0:50:05.241000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:49:55.301000" end="0:50:05.241000" project="PP03" age_lower="18" age_upper="35">
 na	na	X	-	0:49:55.301000	0:49:59.101000
 voll	voll	ADJ	-	0:49:55.301000	0:49:59.101000
 !	-	-	-	0:49:55.301000	0:49:59.101000
@@ -13465,7 +13465,7 @@ spezifisch	spezifisch	ADJ	-	0:50:02.628000	0:50:05.241000
 .	-	-	-	0:50:02.628000	0:50:05.241000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:05.241000" end="0:50:08.175000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:05.241000" end="0:50:08.175000" project="PP03" age_lower="18" age_upper="35">
 hm	hm	X	-	0:50:05.241000	0:50:08.175000
 nein	nein	PART	-	0:50:05.241000	0:50:08.175000
 ich	ich	PRON	-	0:50:05.241000	0:50:08.175000
@@ -13474,12 +13474,12 @@ nicht	nicht	PART	-	0:50:05.241000	0:50:08.175000
 .	-	-	-	0:50:05.241000	0:50:08.175000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:08.175000" end="0:50:12.175000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:08.175000" end="0:50:12.175000" project="PP03" age_lower="18" age_upper="35">
 mm	mm	NOUN	-	0:50:08.175000	0:50:12.175000
 .	-	-	-	0:50:08.175000	0:50:12.175000
 <pause duration="3,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:12.175000" end="0:50:20.215000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:12.175000" end="0:50:20.215000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	eigentlich	ADV	-	0:50:12.175000	0:50:14.495000
 nur	nur	ADV	-	0:50:12.175000	0:50:14.495000
 so	so	ADV	-	0:50:12.175000	0:50:14.495000
@@ -13507,11 +13507,11 @@ Abend	Abend	NOUN	-	0:50:16.535000	0:50:20.215000
 zu	zu	ADP	-	0:50:16.535000	0:50:20.215000
 Primetime	Primetime	PROPN	-	0:50:16.535000	0:50:20.215000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:20.215000" end="0:50:20.928000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:20.215000" end="0:50:20.928000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:50:20.215000	0:50:20.928000
 .	-	-	-	0:50:20.215000	0:50:20.928000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:20.215000" end="0:50:28.328000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:20.215000" end="0:50:28.328000" project="PP03" age_lower="18" age_upper="35">
 hinhaust	hinhauen	VERB	-	0:50:20.215000	0:50:20.928000
 und	und	CCONJ	-	0:50:20.928000	0:50:23.195000
 dann	dann	ADV	-	0:50:20.928000	0:50:23.195000
@@ -13544,16 +13544,16 @@ ist	sein	AUX	-	0:50:26.261000	0:50:28.328000
 bei	bei	ADP	-	0:50:26.261000	0:50:28.328000
 mir	sich	PRON	-	0:50:26.261000	0:50:28.328000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:28.328000" end="0:50:29.495000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:28.328000" end="0:50:29.495000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:50:28.328000	0:50:29.495000
 da	da	ADV	-	0:50:28.328000	0:50:29.495000
 tue	tun	VERB	-	0:50:28.328000	0:50:29.495000
 ich	ich	PRON	-	0:50:28.328000	0:50:29.495000
 auch	auch	ADV	-	0:50:28.328000	0:50:29.495000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:28.328000" end="0:50:29.495000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:28.328000" end="0:50:29.495000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:29.495000" end="0:50:31.368000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:29.495000" end="0:50:31.368000" project="PP03" age_lower="18" age_upper="35">
 wieder	wieder	ADV	-	0:50:29.495000	0:50:30.841000
 eine	einen	DET	-	0:50:29.495000	0:50:30.841000
 Spur	Spur	NOUN	-	0:50:29.495000	0:50:30.841000
@@ -13563,7 +13563,7 @@ fernsehen	fernsehen	VERB	-	0:50:29.495000	0:50:30.841000
 aber/	-	-	-	0:50:30.841000	0:50:31.368000
 .	-	-	-	0:50:30.841000	0:50:31.368000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:31.368000" end="0:50:33.488000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:31.368000" end="0:50:33.488000" project="PP03" age_lower="18" age_upper="35">
 im	im	ADP	-	0:50:31.368000	0:50:33.488000
 Sommer	Sommer	NOUN	-	0:50:31.368000	0:50:33.488000
 bin	sein	AUX	-	0:50:31.368000	0:50:33.488000
@@ -13573,11 +13573,11 @@ gerne	gerne	ADV	-	0:50:31.368000	0:50:33.488000
 draußen	draußen	ADV	-	0:50:31.368000	0:50:33.488000
 ,	-	-	-	0:50:31.368000	0:50:33.488000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:33.488000" end="0:50:33.868000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:33.488000" end="0:50:33.868000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:50:33.488000	0:50:33.868000
 .	-	-	-	0:50:33.488000	0:50:33.868000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:33.868000" end="0:50:39.608000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:33.868000" end="0:50:39.608000" project="PP03" age_lower="18" age_upper="35">
 viel	viel	PRON	-	0:50:33.868000	0:50:38.495000
 bei	bei	ADP	-	0:50:33.868000	0:50:38.495000
 meinen	mein	DET	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin	0:50:33.868000	0:50:38.495000
@@ -13600,7 +13600,7 @@ schade	schaden	ADJ	-	0:50:38.495000	0:50:39.608000
 darum	darum	ADV	-	0:50:38.495000	0:50:39.608000
 .	-	-	-	0:50:38.495000	0:50:39.608000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:39.608000" end="0:50:48.635000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:39.608000" end="0:50:48.635000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:50:39.608000	0:50:40.821000
 .	-	-	-	0:50:39.608000	0:50:40.821000
 <pause duration="0,9s"/>
@@ -13651,7 +13651,7 @@ gerne	gerne	ADV	-	0:50:47.355000	0:50:48.635000
 geschaut	schauen	VERB	-	0:50:47.355000	0:50:48.635000
 .	-	-	-	0:50:47.355000	0:50:48.635000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:48.635000" end="0:50:50.635000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:48.635000" end="0:50:50.635000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:50:48.635000	0:50:50.635000
 ,	-	-	-	0:50:48.635000	0:50:50.635000
 die	der	PRON	-	0:50:48.635000	0:50:50.635000
@@ -13662,7 +13662,7 @@ schon	schon	ADV	-	0:50:48.635000	0:50:50.635000
 alle	all	PRON	-	0:50:48.635000	0:50:50.635000
 .	-	-	-	0:50:48.635000	0:50:50.635000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:50.635000" end="0:51:08.115000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:50:50.635000" end="0:51:08.115000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:50:50.635000	0:50:53.668000
 sonst	sonst	ADV	-	0:50:50.635000	0:50:53.668000
 "Greys	Greys	PROPN	-	0:50:50.635000	0:50:53.668000
@@ -13755,11 +13755,11 @@ es	ich	PRON	-	0:51:07.721000	0:51:08.115000
 mir	sich	PRON	-	0:51:07.721000	0:51:08.115000
 echt	echt	ADJ	-	0:51:07.721000	0:51:08.115000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:07.721000" end="0:51:08.115000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:07.721000" end="0:51:08.115000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:51:07.721000	0:51:08.115000
 .	-	-	-	0:51:07.721000	0:51:08.115000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:08.115000" end="0:51:11.448000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:08.115000" end="0:51:11.448000" project="PP03" age_lower="18" age_upper="35">
 zu	zu	ADP	-	0:51:08.115000	0:51:09.955000
 fad	fad	PROPN	-	0:51:08.115000	0:51:09.955000
 ist	sein	AUX	-	0:51:08.115000	0:51:09.955000
@@ -13772,7 +13772,7 @@ komische	komische	ADJ	-	0:51:09.955000	0:51:11.448000
 Phase	Phase	NOUN	-	0:51:09.955000	0:51:11.448000
 .	-	-	-	0:51:09.955000	0:51:11.448000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:11.448000" end="0:51:17.821000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:11.448000" end="0:51:17.821000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:51:11.448000	0:51:12.588000
 es	ich	PRON	-	0:51:11.448000	0:51:12.588000
 ist	sein	AUX	-	0:51:11.448000	0:51:12.588000
@@ -13806,11 +13806,11 @@ auch	auch	ADV	-	0:51:16.881000	0:51:17.821000
 zu	zu	ADP	-	0:51:16.881000	0:51:17.821000
 .	-	-	-	0:51:16.881000	0:51:17.821000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:17.821000" end="0:51:18.275000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:17.821000" end="0:51:18.275000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:51:17.821000	0:51:18.275000
 .	-	-	-	0:51:17.821000	0:51:18.275000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:17.821000" end="0:51:24.881000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:17.821000" end="0:51:24.881000" project="PP03" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:51:17.821000	0:51:18.275000
 ich	ich	PRON	-	0:51:17.821000	0:51:18.275000
 was	was	PRON	-	0:51:18.275000	0:51:20.888000
@@ -13838,12 +13838,12 @@ ganz	ganz	ADV	-	0:51:22.281000	0:51:24.881000
 selten	selten	ADJ	-	0:51:22.281000	0:51:24.881000
 ,	-	-	-	0:51:22.281000	0:51:24.881000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:24.881000" end="0:51:26.881000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:24.881000" end="0:51:26.881000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:51:24.881000	0:51:26.881000
 .	-	-	-	0:51:24.881000	0:51:26.881000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:26.881000" end="0:51:33.195000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:26.881000" end="0:51:33.195000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:51:26.881000	0:51:28.081000
 dann	dann	ADV	-	0:51:26.881000	0:51:28.081000
 schaue	schauen	VERB	-	0:51:26.881000	0:51:28.081000
@@ -13881,9 +13881,9 @@ eh	eh	ADV	-	0:51:32.161000	0:51:33.195000
 klar	klaren	ADJ	-	0:51:32.161000	0:51:33.195000
 ,	-	-	-	0:51:32.161000	0:51:33.195000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:33.195000" end="0:51:36.795000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:33.195000" end="0:51:36.795000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:33.195000" end="0:51:36.795000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:33.195000" end="0:51:36.795000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:51:33.195000	0:51:36.795000
 trotzdem	trotzdem	ADV	-	0:51:33.195000	0:51:36.795000
 möchte	mögen	VERB	-	0:51:33.195000	0:51:36.795000
@@ -13898,7 +13898,7 @@ Kommentare	Kommentar	NOUN	-	0:51:33.195000	0:51:36.795000
 anschauen	anschauen	VERB	-	0:51:33.195000	0:51:36.795000
 ."	-	-	-	0:51:33.195000	0:51:36.795000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:36.795000" end="0:51:41.935000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:36.795000" end="0:51:41.935000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:51:36.795000	0:51:38.795000
 .	-	-	-	0:51:36.795000	0:51:38.795000
 <pause duration="1,4s"/>
@@ -13926,11 +13926,11 @@ trotzdem	trotzdem	ADV	-	0:51:40.848000	0:51:41.935000
 er	ich	PRON	-	0:51:40.848000	0:51:41.935000
 ganz)	ganz	ADV	-	0:51:40.848000	0:51:41.935000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:40.848000" end="0:51:41.935000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:40.848000" end="0:51:41.935000" project="PP03" age_lower="18" age_upper="35">
 eh	eh	X	-	0:51:40.848000	0:51:41.935000
 !	-	-	-	0:51:40.848000	0:51:41.935000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:41.935000" end="0:51:43.215000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:41.935000" end="0:51:43.215000" project="PP03" age_lower="18" age_upper="35">
 ganz	ganz	ADV	-	0:51:41.935000	0:51:43.215000
 nett	nett	ADJ	-	0:51:41.935000	0:51:43.215000
 zum	zum	ADP	-	0:51:41.935000	0:51:43.215000
@@ -13938,11 +13938,11 @@ Anschauen	Anschauen	NOUN	-	0:51:41.935000	0:51:43.215000
 manchmal	manchmal	ADV	-	0:51:41.935000	0:51:43.215000
 .	-	-	-	0:51:41.935000	0:51:43.215000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:43.215000" end="0:51:43.615000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:43.215000" end="0:51:43.615000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:51:43.215000	0:51:43.615000
 .	-	-	-	0:51:43.215000	0:51:43.615000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:43.615000" end="0:51:49.148000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:43.615000" end="0:51:49.148000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:51:43.615000	0:51:47.148000
 .	-	-	-	0:51:43.615000	0:51:47.148000
 <pause duration="3,2s"/>
@@ -13957,13 +13957,13 @@ umgeblättert	umblättern	VERB	-	0:51:47.148000	0:51:49.148000
 gell	gell	ADJ	-	0:51:47.148000	0:51:49.148000
 ?	-	-	-	0:51:47.148000	0:51:49.148000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:49.148000" end="0:51:50.648000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:49.148000" end="0:51:50.648000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:51:49.148000	0:51:50.648000
 ja	ja	ADV	-	0:51:49.148000	0:51:50.648000
 .	-	-	-	0:51:49.148000	0:51:50.648000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:50.648000" end="0:51:55.075000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:50.648000" end="0:51:55.075000" project="PP03" age_lower="18" age_upper="35">
 erzähle	erzählen	NOUN	-	0:51:50.648000	0:51:55.075000
 vom	vom	ADP	-	0:51:50.648000	0:51:55.075000
 Dialekt	Dialekt	NOUN	-	0:51:50.648000	0:51:55.075000
@@ -13972,7 +13972,7 @@ Eltern	Eltern	NOUN	-	0:51:50.648000	0:51:55.075000
 .	-	-	-	0:51:50.648000	0:51:55.075000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:55.075000" end="0:51:57.075000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:55.075000" end="0:51:57.075000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:51:55.075000	0:51:57.075000
 die	der	DET	-	0:51:55.075000	0:51:57.075000
 reden	reden	NOUN	-	0:51:55.075000	0:51:57.075000
@@ -13982,7 +13982,7 @@ wie	wie	CCONJ	-	0:51:55.075000	0:51:57.075000
 ich	ich	PRON	-	0:51:55.075000	0:51:57.075000
 .	-	-	-	0:51:55.075000	0:51:57.075000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:57.075000" end="0:51:59.348000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:57.075000" end="0:51:59.348000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	VERB	-	0:51:57.075000	0:51:59.348000
 ich	ich	PRON	-	0:51:57.075000	0:51:59.348000
 glaube	glauben	VERB	-	0:51:57.075000	0:51:59.348000
@@ -13991,9 +13991,9 @@ mir	sich	PRON	-	0:51:57.075000	0:51:59.348000
 auch	auch	ADV	-	0:51:57.075000	0:51:59.348000
 .	-	-	-	0:51:57.075000	0:51:59.348000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:57.075000" end="0:51:59.348000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:57.075000" end="0:51:59.348000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:59.348000" end="0:52:05.808000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:51:59.348000" end="0:52:05.808000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:51:59.348000	0:52:01.348000
 meine	meinen	VERB	-	0:51:59.348000	0:52:01.348000
 ,	-	-	-	0:51:59.348000	0:52:01.348000
@@ -14021,7 +14021,7 @@ sie	ich	PRON	-	0:52:02.468000	0:52:05.255000
 genauso	genauso	ADV	-	0:52:02.468000	0:52:05.255000
 .	-	-	-	0:52:02.468000	0:52:05.255000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:05.808000" end="0:52:07.161000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:05.808000" end="0:52:07.161000" project="PP03" age_lower="18" age_upper="35">
 na	na	INTJ	-	0:52:05.808000	0:52:07.161000
 eh	eh	X	-	0:52:05.808000	0:52:07.161000
 ,	-	-	-	0:52:05.808000	0:52:07.161000
@@ -14029,17 +14029,17 @@ warum	warum	ADV	-	0:52:05.808000	0:52:07.161000
 auch	auch	ADV	-	0:52:05.808000	0:52:07.161000
 ?	-	-	-	0:52:05.808000	0:52:07.161000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:07.161000" end="0:52:10.421000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:07.161000" end="0:52:10.421000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:07.161000	0:52:10.421000
 .	-	-	-	0:52:07.161000	0:52:10.421000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:10.421000" end="0:52:14.041000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:10.421000" end="0:52:14.041000" project="PP03" age_lower="18" age_upper="35">
 Dialekt	Dialekt	NOUN	-	0:52:10.421000	0:52:14.041000
 .	-	-	-	0:52:10.421000	0:52:14.041000
 <pause duration="2,9s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:14.041000" end="0:52:24.928000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:14.041000" end="0:52:24.928000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:52:14.041000	0:52:14.608000
 glaube	glsube	VERB	-	0:52:14.041000	0:52:14.608000
 ,	-	-	-	0:52:14.041000	0:52:14.608000
@@ -14094,7 +14094,7 @@ fragen	fragen	VERB	-	0:52:23.321000	0:52:24.928000
 .	-	-	-	0:52:23.321000	0:52:24.928000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:24.928000" end="0:52:25.848000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:24.928000" end="0:52:25.848000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:52:24.928000	0:52:25.848000
 wüsste	wüsste	VERB	-	0:52:24.928000	0:52:25.848000
 es	ich	PRON	-	0:52:24.928000	0:52:25.848000
@@ -14102,7 +14102,7 @@ auch	auch	ADV	-	0:52:24.928000	0:52:25.848000
 nicht	nicht	PART	-	0:52:24.928000	0:52:25.848000
 .	-	-	-	0:52:24.928000	0:52:25.848000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:25.848000" end="0:52:39.701000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:25.848000" end="0:52:39.701000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:52:25.848000	0:52:27.201000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:52:25.848000	0:52:27.201000
 schon	schon	ADV	-	0:52:25.848000	0:52:27.201000
@@ -14162,7 +14162,7 @@ nicht	nicht	PART	-	0:52:37.441000	0:52:39.701000
 .	-	-	-	0:52:37.441000	0:52:39.701000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:39.701000" end="0:52:43.328000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:39.701000" end="0:52:43.328000" project="PP03" age_lower="18" age_upper="35">
 die	der	DET	-	0:52:39.701000	0:52:41.328000
 Einzigen	Einzige	NOUN	-	0:52:39.701000	0:52:41.328000
 ,	-	-	-	0:52:39.701000	0:52:41.328000
@@ -14176,7 +14176,7 @@ NAME	NAME	NOUN	-	0:52:41.328000	0:52:43.328000
 .	-	-	-	0:52:41.328000	0:52:43.328000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:43.328000" end="0:52:45.328000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:43.328000" end="0:52:45.328000" project="PP03" age_lower="18" age_upper="35">
 die	der	DET	-	0:52:43.328000	0:52:45.328000
 reden	reden	NOUN	-	0:52:43.328000	0:52:45.328000
 in	in	ADP	-	0:52:43.328000	0:52:45.328000
@@ -14184,7 +14184,7 @@ Hochdeutsch	Hochdeutsch	PROPN	-	0:52:43.328000	0:52:45.328000
 ?	-	-	-	0:52:43.328000	0:52:45.328000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:45.328000" end="0:52:54.601000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:45.328000" end="0:52:54.601000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:52:45.328000	0:52:49.535000
 reden	reden	VERB	-	0:52:45.328000	0:52:49.535000
 die	der	DET	-	0:52:45.328000	0:52:49.535000
@@ -14226,11 +14226,11 @@ Kind	Kind	NOUN	-	0:52:52.855000	0:52:54.601000
 Hochdeutsch	Hochdeutsch	PROPN	-	0:52:52.855000	0:52:54.601000
 ,	-	-	-	0:52:52.855000	0:52:54.601000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:54.601000" end="0:52:55.021000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:54.601000" end="0:52:55.021000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:54.601000	0:52:55.021000
 .	-	-	-	0:52:54.601000	0:52:55.021000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:54.601000" end="0:52:56.461000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:54.601000" end="0:52:56.461000" project="PP03" age_lower="18" age_upper="35">
 sondern	-	-	-	0:52:54.601000	0:52:55.021000
 die	-	-	-	0:52:54.601000	0:52:55.021000
 reden	-	-	-	0:52:54.601000	0:52:55.021000
@@ -14242,11 +14242,11 @@ nur	-	-	-	0:52:55.021000	0:52:56.461000
 Hochdeutsch	-	-	-	0:52:55.021000	0:52:56.461000
 .	-	-	-	0:52:55.021000	0:52:56.461000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:56.461000" end="0:52:56.915000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:56.461000" end="0:52:56.915000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:52:56.461000	0:52:56.915000
 .	-	-	-	0:52:56.461000	0:52:56.915000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:56.915000" end="0:53:02.461000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:52:56.915000" end="0:53:02.461000" project="PP03" age_lower="18" age_upper="35">
 sie	ich	PRON	-	0:52:56.915000	0:52:58.981000
 reden	reden	VERB	-	0:52:56.915000	0:52:58.981000
 zwar	zwar	ADV	-	0:52:56.915000	0:52:58.981000
@@ -14271,11 +14271,11 @@ viel	viel	DET	-	0:52:58.981000	0:53:02.461000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:52:58.981000	0:53:02.461000
 .	-	-	-	0:52:58.981000	0:53:02.461000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:02.461000" end="0:53:03.061000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:02.461000" end="0:53:03.061000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:53:02.461000	0:53:03.061000
 .	-	-	-	0:53:02.461000	0:53:03.061000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:03.061000" end="0:53:07.755000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:03.061000" end="0:53:07.755000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:53:03.061000	0:53:04.475000
 meine	meinen	VERB	-	0:53:03.061000	0:53:04.475000
 ,	-	-	-	0:53:03.061000	0:53:04.475000
@@ -14296,7 +14296,7 @@ können/	-	-	-	0:53:04.475000	0:53:07.755000
 .	-	-	-	0:53:04.475000	0:53:07.755000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:07.755000" end="0:53:20.541000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:07.755000" end="0:53:20.541000" project="PP03" age_lower="18" age_upper="35">
 eh	-	-	-	0:53:07.755000	0:53:09.515000
 bei	-	-	-	0:53:07.755000	0:53:09.515000
 manchen	-	-	-	0:53:07.755000	0:53:09.515000
@@ -14350,11 +14350,11 @@ nicht	nicht	PART	-	0:53:20.288000	0:53:20.541000
 .	-	-	-	0:53:20.288000	0:53:20.541000
 ich	ich	PRON	-	0:53:20.288000	0:53:20.541000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:20.288000" end="0:53:20.541000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:20.288000" end="0:53:20.541000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:53:20.288000	0:53:20.541000
 .	-	-	-	0:53:20.288000	0:53:20.541000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:20.541000" end="0:53:31.408000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:20.541000" end="0:53:31.408000" project="PP03" age_lower="18" age_upper="35">
 finde	finden	VERB	-	0:53:20.541000	0:53:21.415000
 auch	auch	ADV	-	0:53:20.541000	0:53:21.415000
 ,	-	-	-	0:53:20.541000	0:53:21.415000
@@ -14409,7 +14409,7 @@ daher	daher	ADV	-	0:53:29.068000	0:53:31.408000
 redest	reden	NOUN	-	0:53:29.068000	0:53:31.408000
 .	-	-	-	0:53:29.068000	0:53:31.408000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:31.408000" end="0:53:39.361000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:31.408000" end="0:53:39.361000" project="PP03" age_lower="18" age_upper="35">
 eh	eh	X	-	0:53:31.408000	0:53:34.048000
 und	und	CCONJ	-	0:53:31.408000	0:53:34.048000
 wir	ich	PRON	-	0:53:31.408000	0:53:34.048000
@@ -14445,11 +14445,11 @@ gerade	gerade	ADV	-	0:53:36.961000	0:53:39.361000
 hält	halten	VERB	-	0:53:36.961000	0:53:39.361000
 ,	-	-	-	0:53:36.961000	0:53:39.361000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:39.361000" end="0:53:39.674000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:39.361000" end="0:53:39.674000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:53:39.361000	0:53:39.674000
 .	-	-	-	0:53:39.361000	0:53:39.674000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:39.674000" end="0:53:42.728000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:39.674000" end="0:53:42.728000" project="PP03" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:53:39.674000	0:53:40.728000
 sollte	sollen	VERB	-	0:53:39.674000	0:53:40.728000
 man	man	PRON	-	0:53:39.674000	0:53:40.728000
@@ -14466,11 +14466,11 @@ glaubwürdig	-	-	-	0:53:40.728000	0:53:42.728000
 herüber	-	-	-	0:53:40.728000	0:53:42.728000
 ,	-	-	-	0:53:40.728000	0:53:42.728000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:42.728000" end="0:53:43.248000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:42.728000" end="0:53:43.248000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:53:42.728000	0:53:43.248000
 .	-	-	-	0:53:42.728000	0:53:43.248000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:43.248000" end="0:53:47.961000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:43.248000" end="0:53:47.961000" project="PP03" age_lower="18" age_upper="35">
 du	du	PRON	-	0:53:43.248000	0:53:45.634000
 kommst	kommen	VERB	-	0:53:43.248000	0:53:45.634000
 ja	ja	ADV	-	0:53:43.248000	0:53:45.634000
@@ -14488,11 +14488,11 @@ ja	ja	ADV	-	0:53:45.634000	0:53:47.961000
 unwohl	unwohl	ADJ	-	0:53:45.634000	0:53:47.961000
 ,	-	-	-	0:53:45.634000	0:53:47.961000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:47.961000" end="0:53:48.534000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:47.961000" end="0:53:48.534000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:53:47.961000	0:53:48.534000
 .	-	-	-	0:53:47.961000	0:53:48.534000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:47.961000" end="0:53:57.774000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:47.961000" end="0:53:57.774000" project="PP03" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:53:47.961000	0:53:48.534000
 du	du	PRON	-	0:53:47.961000	0:53:48.534000
 dich	sich	PRON	-	0:53:47.961000	0:53:48.534000
@@ -14522,7 +14522,7 @@ falsch	falsch	ADJ	-	0:53:55.134000	0:53:57.774000
 redest	reden	VERB	-	0:53:55.134000	0:53:57.774000
 .	-	-	-	0:53:55.134000	0:53:57.774000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:57.774000" end="0:54:02.068000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:53:57.774000" end="0:54:02.068000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:53:57.774000	0:54:02.068000
 <pause duration="2,5s"/>
 glaube	glauben	VERB	-	0:53:57.774000	0:54:02.068000
@@ -14531,7 +14531,7 @@ auch	auch	ADV	-	0:53:57.774000	0:54:02.068000
 .	-	-	-	0:53:57.774000	0:54:02.068000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:02.068000" end="0:54:07.528000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:02.068000" end="0:54:07.528000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:54:02.068000	0:54:06.734000
 so	so	ADV	-	0:54:02.068000	0:54:06.734000
 vom	vom	ADP	-	0:54:02.068000	0:54:06.734000
@@ -14548,11 +14548,11 @@ die	der	DET	-	0:54:06.734000	0:54:07.528000
 nächste	nächst	ADJ	-	0:54:06.734000	0:54:07.528000
 ?	-	-	-	0:54:06.734000	0:54:07.528000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:07.528000" end="0:54:08.214000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:07.528000" end="0:54:08.214000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:54:07.528000	0:54:08.214000
 .	-	-	-	0:54:07.528000	0:54:08.214000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:08.214000" end="0:54:14.854000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:08.214000" end="0:54:14.854000" project="PP03" age_lower="18" age_upper="35">
 stell	stell	ADJ	-	0:54:08.214000	0:54:13.568000
 dir	sich	PRON	-	0:54:08.214000	0:54:13.568000
 vor	vor	ADP	-	0:54:08.214000	0:54:13.568000
@@ -14567,7 +14567,7 @@ gespannt	-	-	-	0:54:13.568000	0:54:14.854000
 .	-	-	-	0:54:13.568000	0:54:14.854000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:14.854000" end="0:54:19.861000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:14.854000" end="0:54:19.861000" project="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:54:14.854000	0:54:18.794000
 fünfzig	fünfzig	NUM	-	0:54:14.854000	0:54:18.794000
 Jahren	Jahr	NOUN	-	0:54:14.854000	0:54:18.794000
@@ -14580,9 +14580,9 @@ echt	echt	ADJ	-	0:54:18.794000	0:54:19.861000
 arg	arg	PROPN	-	0:54:18.794000	0:54:19.861000
 !	-	-	-	0:54:18.794000	0:54:19.861000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:18.794000" end="0:54:19.861000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:18.794000" end="0:54:19.861000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:19.861000" end="0:54:24.774000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:19.861000" end="0:54:24.774000" project="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:54:19.861000	0:54:24.774000
 Pension	Pension	NOUN	-	0:54:19.861000	0:54:24.774000
 und	und	CCONJ	-	0:54:19.861000	0:54:24.774000
@@ -14594,13 +14594,13 @@ wenn	wenn	SCONJ	-	0:54:19.861000	0:54:24.774000
 .	-	-	-	0:54:19.861000	0:54:24.774000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:19.861000" end="0:54:28.954000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:19.861000" end="0:54:28.954000" project="PP03" age_lower="18" age_upper="35">
 fünfzig	fünfzig	NUM	-	0:54:24.774000	0:54:28.954000
 Jahre	Jahr	NOUN	-	0:54:24.774000	0:54:28.954000
 .	-	-	-	0:54:24.774000	0:54:28.954000
 <pause duration="3,4s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:28.954000" end="0:54:40.574000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:28.954000" end="0:54:40.574000" project="PP03" age_lower="18" age_upper="35">
 keine	kein	DET	-	0:54:28.954000	0:54:30.774000
 Ahnung	Ahnung	NOUN	-	0:54:28.954000	0:54:30.774000
 .	-	-	-	0:54:28.954000	0:54:30.774000
@@ -14657,7 +14657,7 @@ Ahnung	Ahnung	NOUN	-	0:54:36.374000	0:54:40.574000
 was	was	PRON	-	0:54:36.374000	0:54:40.574000
 .	-	-	-	0:54:36.374000	0:54:40.574000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:40.574000" end="0:54:42.314000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:40.574000" end="0:54:42.314000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:54:40.574000	0:54:42.314000
 es	-	-	-	0:54:40.574000	0:54:42.314000
 ist	-	-	-	0:54:40.574000	0:54:42.314000
@@ -14668,11 +14668,11 @@ _Wigelwagel_	-	-	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:54:4
 gell	-	-	-	0:54:40.574000	0:54:42.314000
 ?	-	-	-	0:54:40.574000	0:54:42.314000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:42.314000" end="0:54:42.654000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:42.314000" end="0:54:42.654000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:54:42.314000	0:54:42.654000
 .	-	-	-	0:54:42.314000	0:54:42.654000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:42.654000" end="0:54:44.141000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:42.654000" end="0:54:44.141000" project="PP03" age_lower="18" age_upper="35">
 *ist*	-	-	-	0:54:42.654000	0:54:44.141000
 gerade	-	-	-	0:54:42.654000	0:54:44.141000
 so	-	-	-	0:54:42.654000	0:54:44.141000
@@ -14681,7 +14681,7 @@ Kommen	-	-	-	0:54:42.654000	0:54:44.141000
 eigentlich	-	-	-	0:54:42.654000	0:54:44.141000
 .	-	-	-	0:54:42.654000	0:54:44.141000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:44.141000" end="0:54:47.414000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:44.141000" end="0:54:47.414000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:54:44.141000	0:54:46.861000
 <pause duration="0,7s"/>
 was	was	PRON	-	0:54:44.141000	0:54:46.861000
@@ -14696,11 +14696,11 @@ ob	ob	SCONJ	-	0:54:46.861000	0:54:47.414000
 sich	sich	PRON	-	0:54:46.861000	0:54:47.414000
 das	der	DET	-	0:54:46.861000	0:54:47.414000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:46.861000" end="0:54:47.414000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:46.861000" end="0:54:47.414000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:54:46.861000	0:54:47.414000
 .	-	-	-	0:54:46.861000	0:54:47.414000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:47.414000" end="0:54:53.874000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:47.414000" end="0:54:53.874000" project="PP03" age_lower="18" age_upper="35">
 halt	halt	NOUN	-	0:54:47.414000	0:54:49.801000
 durchsetzt	durchsetzen	VERB	-	0:54:47.414000	0:54:49.801000
 bei	bei	ADP	-	0:54:47.414000	0:54:49.801000
@@ -14727,7 +14727,7 @@ ich	ich	PRON	-	0:54:51.228000	0:54:53.874000
 .	-	-	-	0:54:51.228000	0:54:53.874000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:53.874000" end="0:55:00.348000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:54:53.874000" end="0:55:00.348000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:54:53.874000	0:54:56.981000
 wann	wann	ADV	-	0:54:53.874000	0:54:56.981000
 ich	ich	PRON	-	0:54:53.874000	0:54:56.981000
@@ -14761,12 +14761,12 @@ schnell	schnellen	ADJ	-	0:54:58.388000	0:55:00.348000
 gehen	gehen	VERB	-	0:54:58.388000	0:55:00.348000
 .	-	-	-	0:54:58.388000	0:55:00.348000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:00.348000" end="0:55:01.574000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:00.348000" end="0:55:01.574000" project="PP03" age_lower="18" age_upper="35">
 mm	mm	NOUN	-	0:55:00.348000	0:55:01.574000
 .	-	-	-	0:55:00.348000	0:55:01.574000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:01.574000" end="0:55:05.061000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:01.574000" end="0:55:05.061000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:55:01.574000	0:55:05.061000
 <pause duration="0,6s"/>
 ja	ja	ADV	-	0:55:01.574000	0:55:05.061000
@@ -14776,7 +14776,7 @@ gespannt	spannen	VERB	-	0:55:01.574000	0:55:05.061000
 .	-	-	-	0:55:01.574000	0:55:05.061000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:05.061000" end="0:55:06.974000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:05.061000" end="0:55:06.974000" project="PP03" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:55:05.061000	0:55:06.974000
 alt	alt	ADJ	-	0:55:05.061000	0:55:06.974000
 bist	sein	AUX	-	0:55:05.061000	0:55:06.974000
@@ -14787,7 +14787,7 @@ Jahren	Jahr	NOUN	-	0:55:05.061000	0:55:06.974000
 ?	-	-	-	0:55:05.061000	0:55:06.974000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:06.974000" end="0:55:09.874000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:06.974000" end="0:55:09.874000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:55:06.974000	0:55:09.874000
 bin	sein	AUX	-	0:55:06.974000	0:55:09.874000
 in	in	ADP	-	0:55:06.974000	0:55:09.874000
@@ -14796,7 +14796,7 @@ Jahren	Jahr	NOUN	-	0:55:06.974000	0:55:09.874000
 ZAHL	ZAHL	PROPN	-	0:55:06.974000	0:55:09.874000
 .	-	-	-	0:55:06.974000	0:55:09.874000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:09.874000" end="0:55:17.154000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:09.874000" end="0:55:17.154000" project="PP03" age_lower="18" age_upper="35">
 oh	oh	X	-	0:55:09.874000	0:55:11.874000
 ja	ja	PART	-	0:55:09.874000	0:55:11.874000
 ,	-	-	-	0:55:09.874000	0:55:11.874000
@@ -14828,7 +14828,7 @@ vier	vier	NUM	-	0:55:15.154000	0:55:17.154000
 (fünfeinhalb)	fünfeinhalb	NOUN	-	0:55:15.154000	0:55:17.154000
 .	-	-	-	0:55:15.154000	0:55:17.154000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:17.154000" end="0:55:26.794000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:17.154000" end="0:55:26.794000" project="PP03" age_lower="18" age_upper="35">
 ZAHL	ZAHL	NUM	-	0:55:19.154000	0:55:25.441000
 ich	ich	PRON	-	0:55:19.154000	0:55:25.441000
 stell	stell	VERB	-	0:55:19.154000	0:55:25.441000
@@ -14851,20 +14851,20 @@ schon	schon	ADV	+menschl App PM PR Pkon Poss Prel Präd Psond irrelevant kin	0:5
 Kinder	Kind	NOUN	+menschl App PM PR Pkon Poss Prel Präd Psond irrelevant kin	0:55:25.441000	0:55:26.794000
 .	-	-	-	0:55:25.441000	0:55:26.794000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:26.794000" end="0:55:27.881000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:26.794000" end="0:55:27.881000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:55:26.794000	0:55:27.881000
 .	-	-	-	0:55:26.794000	0:55:27.881000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:26.794000" end="0:55:27.881000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:26.794000" end="0:55:27.881000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:27.881000" end="0:55:30.288000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:27.881000" end="0:55:30.288000" project="PP03" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:55:27.881000	0:55:30.288000
 fast	fast	ADV	-	0:55:27.881000	0:55:30.288000
 Enkelkinder	Enkelkinder	NOUN	-	0:55:27.881000	0:55:30.288000
 eigentlich	eigentlich	ADV	-	0:55:27.881000	0:55:30.288000
 .	-	-	-	0:55:27.881000	0:55:30.288000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:30.288000" end="0:55:35.994000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:30.288000" end="0:55:35.994000" project="PP03" age_lower="18" age_upper="35">
 (das)	der	PRON	-	0:55:30.288000	0:55:31.941000
 stimmt	stimmen	VERB	-	0:55:30.288000	0:55:31.941000
 ja	ja	ADV	-	0:55:30.288000	0:55:31.941000
@@ -14885,7 +14885,7 @@ jeden	jed	DET	-	0:55:34.968000	0:55:35.994000
 Fall	Fall	NOUN	-	0:55:34.968000	0:55:35.994000
 !	-	-	-	0:55:34.968000	0:55:35.994000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:35.994000" end="0:55:47.968000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:35.994000" end="0:55:47.968000" project="PP03" age_lower="18" age_upper="35">
 lass	lass	VERB	-	0:55:35.994000	0:55:37.441000
 mich	sich	PRON	-	0:55:35.994000	0:55:37.441000
 mal	mal	ADV	-	0:55:35.994000	0:55:37.441000
@@ -14930,14 +14930,14 @@ ich	ich	PRON	-	0:55:46.928000	0:55:47.968000
 sechzig	sechzig	NUM	-	0:55:46.928000	0:55:47.968000
 .	-	-	-	0:55:46.928000	0:55:47.968000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:46.928000" end="0:55:47.968000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:46.928000" end="0:55:47.968000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:55:46.928000	0:55:47.968000
 dann	-	-	-	0:55:46.928000	0:55:47.968000
 *wärst*	-	-	-	0:55:46.928000	0:55:47.968000
 Oma	-	-	-	0:55:46.928000	0:55:47.968000
 .	-	-	-	0:55:46.928000	0:55:47.968000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:47.968000" end="0:55:53.254000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:47.968000" end="0:55:53.254000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:55:47.968000	0:55:51.121000
 oh	oh	X	-	0:55:47.968000	0:55:51.121000
 ja	ja	PART	-	0:55:47.968000	0:55:51.121000
@@ -14967,11 +14967,11 @@ nicht	nicht	PART	-	0:55:52.574000	0:55:53.254000
 ausgeht	ausgehen	VERB	-	0:55:52.574000	0:55:53.254000
 .	-	-	-	0:55:52.574000	0:55:53.254000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:53.254000" end="0:55:54.661000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:53.254000" end="0:55:54.661000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:55:53.254000	0:55:54.661000
 .	-	-	-	0:55:53.254000	0:55:54.661000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:54.661000" end="0:55:59.874000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:54.661000" end="0:55:59.874000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:55:54.661000	0:55:57.961000
 ich	ich	PRON	-	0:55:54.661000	0:55:57.961000
 mich	sich	PRON	-	0:55:54.661000	0:55:57.961000
@@ -14994,7 +14994,7 @@ Kinder	-	-	-	0:55:57.961000	0:55:59.874000
 wollen	-	-	-	0:55:57.961000	0:55:59.874000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:59.874000" end="0:56:01.441000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:55:59.874000" end="0:56:01.441000" project="PP03" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:55:59.874000	0:56:01.441000
 ja	ja	PART	-	0:55:59.874000	0:56:01.441000
 ,	-	-	-	0:55:59.874000	0:56:01.441000
@@ -15005,7 +15005,7 @@ ja	ja	ADV	-	0:55:59.874000	0:56:01.441000
 nie	nie	ADV	-	0:55:59.874000	0:56:01.441000
 ,	-	-	-	0:55:59.874000	0:56:01.441000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:01.441000" end="0:56:03.634000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:01.441000" end="0:56:03.634000" project="PP03" age_lower="18" age_upper="35">
 man	man	PRON	-	0:56:01.441000	0:56:03.634000
 weiß	weiß	VERB	-	0:56:01.441000	0:56:03.634000
 es	ich	PRON	-	0:56:01.441000	0:56:03.634000
@@ -15015,7 +15015,7 @@ nein	nein	PART	-	0:56:01.441000	0:56:03.634000
 .	-	-	-	0:56:01.441000	0:56:03.634000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:03.634000" end="0:56:07.961000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:03.634000" end="0:56:07.961000" project="PP03" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:56:03.634000	0:56:07.961000
 das	der	PRON	-	0:56:03.634000	0:56:07.961000
 weiterhin	weiterhin	ADV	-	0:56:03.634000	0:56:07.961000
@@ -15033,20 +15033,20 @@ früher	-	-	-	0:56:03.634000	0:56:07.961000
 anfangen	-	-	-	0:56:03.634000	0:56:07.961000
 mit	-	-	-	0:56:03.634000	0:56:07.961000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:07.961000" end="0:56:10.221000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:07.961000" end="0:56:10.221000" project="PP03" age_lower="18" age_upper="35">
 eh	eh	ADV	-	0:56:07.961000	0:56:10.221000
 eh	eh	ADV	-	0:56:07.961000	0:56:10.221000
 ja	ja	ADV	-	0:56:07.961000	0:56:10.221000
 .	-	-	-	0:56:07.961000	0:56:10.221000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:07.961000" end="0:56:10.221000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:07.961000" end="0:56:10.221000" project="PP03" age_lower="18" age_upper="35">
 Kinderkriegen	-	-	-	0:56:07.961000	0:56:10.221000
 und	-	-	-	0:56:07.961000	0:56:10.221000
 auch	-	-	-	0:56:07.961000	0:56:10.221000
 mehr	-	-	-	0:56:07.961000	0:56:10.221000
 .	-	-	-	0:56:07.961000	0:56:10.221000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:10.221000" end="0:56:12.221000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:10.221000" end="0:56:12.221000" project="PP03" age_lower="18" age_upper="35">
 vielleicht	vielleicht	ADV	-	0:56:10.221000	0:56:12.221000
 werden	werden	AUX	-	0:56:10.221000	0:56:12.221000
 sie	ich	PRON	-	0:56:10.221000	0:56:12.221000
@@ -15058,12 +15058,12 @@ oder	oder	CCONJ	-	0:56:10.221000	0:56:12.221000
 so	so	ADV	-	0:56:10.221000	0:56:12.221000
 .	-	-	-	0:56:10.221000	0:56:12.221000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:12.221000" end="0:56:13.388000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:12.221000" end="0:56:13.388000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:56:12.221000	0:56:13.388000
 .	-	-	-	0:56:12.221000	0:56:13.388000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:13.388000" end="0:56:15.988000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:13.388000" end="0:56:15.988000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:56:13.388000	0:56:15.988000
 meine	meinen	VERB	-	0:56:13.388000	0:56:15.988000
 ,	-	-	-	0:56:13.388000	0:56:15.988000
@@ -15077,7 +15077,7 @@ aber/	-	-	-	0:56:13.388000	0:56:15.988000
 .	-	-	-	0:56:13.388000	0:56:15.988000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:15.988000" end="0:56:26.348000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:15.988000" end="0:56:26.348000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:56:15.988000	0:56:17.288000
 *weißt*	-	-	-	0:56:15.988000	0:56:17.288000
 es	-	-	-	0:56:15.988000	0:56:17.288000
@@ -15122,7 +15122,7 @@ Frauen	Frau	NOUN	-	0:56:24.774000	0:56:26.348000
 daheim	daheim	ADV	-	0:56:24.774000	0:56:26.348000
 .	-	-	-	0:56:24.774000	0:56:26.348000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:26.348000" end="0:56:38.581000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:26.348000" end="0:56:38.581000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:56:26.348000	0:56:28.081000
 .	-	-	-	0:56:26.348000	0:56:28.081000
 <pause duration="1,3s"/>
@@ -15183,11 +15183,11 @@ bevor	bevor	SCONJ	-	0:56:38.134000	0:56:38.581000
 du	du	PRON	-	0:56:38.134000	0:56:38.581000
 halt	halt	VERB	-	0:56:38.134000	0:56:38.581000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:38.134000" end="0:56:38.581000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:38.134000" end="0:56:38.581000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:56:38.134000	0:56:38.581000
 .	-	-	-	0:56:38.134000	0:56:38.581000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:38.581000" end="0:57:01.421000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:38.581000" end="0:57:01.421000" project="PP03" age_lower="18" age_upper="35">
 Kinder	Kind	NOUN	-	0:56:38.581000	0:56:39.448000
 kriegst	kriegen	ADV	-	0:56:38.581000	0:56:39.448000
 .	-	-	-	0:56:38.581000	0:56:39.448000
@@ -15280,11 +15280,11 @@ und/	-	-	-	0:56:59.554000	0:57:01.421000
 .	-	-	-	0:56:59.554000	0:57:01.421000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:59.554000" end="0:57:01.421000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:56:59.554000" end="0:57:01.421000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:56:59.554000	0:57:01.421000
 .	-	-	-	0:56:59.554000	0:57:01.421000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:01.421000" end="0:57:04.074000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:01.421000" end="0:57:04.074000" project="PP03" age_lower="18" age_upper="35">
 obwohl	obwohl	SCONJ	-	0:57:01.421000	0:57:04.074000
 auch	auch	ADV	-	0:57:01.421000	0:57:04.074000
 nicht	nicht	PART	-	0:57:01.421000	0:57:04.074000
@@ -15301,7 +15301,7 @@ dann	dann	ADV	-	0:57:01.421000	0:57:04.074000
 auch	auch	ADV	-	0:57:01.421000	0:57:04.074000
 .	-	-	-	0:57:01.421000	0:57:04.074000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:04.074000" end="0:57:11.234000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:04.074000" end="0:57:11.234000" project="PP03" age_lower="18" age_upper="35">
 eh	eh	X	-	0:57:04.074000	0:57:07.334000
 und	und	CCONJ	-	0:57:04.074000	0:57:07.334000
 ich	ich	PRON	-	0:57:04.074000	0:57:07.334000
@@ -15334,28 +15334,28 @@ und	und	CCONJ	-	0:57:10.301000	0:57:11.234000
 nicht	nicht	PART	-	0:57:10.301000	0:57:11.234000
 gleich	gleichen	ADV	-	0:57:10.301000	0:57:11.234000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:11.234000" end="0:57:11.741000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:11.234000" end="0:57:11.741000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:11.234000	0:57:11.741000
 .	-	-	-	0:57:11.234000	0:57:11.741000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:11.234000" end="0:57:12.707000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:11.234000" end="0:57:12.707000" project="PP03" age_lower="18" age_upper="35">
 Kind	Kind	NOUN	-	0:57:11.234000	0:57:11.741000
 kriegen	kriegen	VERB	-	0:57:11.741000	0:57:12.707000
 oder	oder	CCONJ	-	0:57:11.741000	0:57:12.707000
 so	so	ADV	-	0:57:11.741000	0:57:12.707000
 .	-	-	-	0:57:11.741000	0:57:12.707000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:12.707000" end="0:57:13.181000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:12.707000" end="0:57:13.181000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:12.707000	0:57:13.181000
 .	-	-	-	0:57:12.707000	0:57:13.181000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:13.181000" end="0:57:14.194000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:13.181000" end="0:57:14.194000" project="PP03" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:57:13.181000	0:57:14.194000
 auch	auch	ADV	-	0:57:13.181000	0:57:14.194000
 verständlich	verständlich	ADJ	-	0:57:13.181000	0:57:14.194000
 .	-	-	-	0:57:13.181000	0:57:14.194000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:14.194000" end="0:57:20.521000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:14.194000" end="0:57:20.521000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:14.194000	0:57:15.587000
 *musst*	-	-	-	0:57:14.194000	0:57:15.587000
 einmal	-	-	-	0:57:14.194000	0:57:15.587000
@@ -15390,18 +15390,18 @@ zurück	zurück	ADV	-	0:57:19.201000	0:57:20.521000
 kannst	können	NOUN	-	0:57:19.201000	0:57:20.521000
 ,	-	-	-	0:57:19.201000	0:57:20.521000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:20.521000" end="0:57:20.901000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:20.521000" end="0:57:20.901000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:57:20.521000	0:57:20.901000
 .	-	-	-	0:57:20.521000	0:57:20.901000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:20.901000" end="0:57:23.001000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:20.901000" end="0:57:23.001000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:57:20.901000	0:57:23.001000
 zurück	zurück	ADV	-	0:57:20.901000	0:57:23.001000
 willst	wollen	VERB	-	0:57:20.901000	0:57:23.001000
 .	-	-	-	0:57:20.901000	0:57:23.001000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:23.001000" end="0:57:27.607000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:23.001000" end="0:57:27.607000" project="PP03" age_lower="18" age_upper="35">
 beziehungsweise	beziehungsweise	CCONJ	-	0:57:23.001000	0:57:25.434000
 die	der	PRON	-	0:57:23.001000	0:57:25.434000
 ,	-	-	-	0:57:23.001000	0:57:25.434000
@@ -15425,18 +15425,18 @@ kriegen	kriegen	VERB	-	0:57:25.434000	0:57:27.607000
 nicht	nicht	PART	-	0:57:25.434000	0:57:27.607000
 ,	-	-	-	0:57:25.434000	0:57:27.607000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:27.607000" end="0:57:28.167000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:27.607000" end="0:57:28.167000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:27.607000	0:57:28.167000
 .	-	-	-	0:57:27.607000	0:57:28.167000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:27.607000" end="0:57:29.234000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:27.607000" end="0:57:29.234000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:57:27.607000	0:57:28.167000
 Geld	Geld	NOUN	-	0:57:27.607000	0:57:28.167000
 verdienen	verdienen	VERB	-	0:57:28.167000	0:57:29.234000
 .	-	-	-	0:57:28.167000	0:57:29.234000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:29.234000" end="0:57:38.301000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:29.234000" end="0:57:38.301000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:57:29.234000	0:57:31.587000
 meine	meinen	VERB	-	0:57:29.234000	0:57:31.587000
 ,	-	-	-	0:57:29.234000	0:57:31.587000
@@ -15487,11 +15487,11 @@ mit	-	-	-	0:57:37.514000	0:57:38.301000
 dem	-	-	-	0:57:37.514000	0:57:38.301000
 Arbeiten	-	-	-	0:57:37.514000	0:57:38.301000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:37.514000" end="0:57:38.301000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:37.514000" end="0:57:38.301000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:57:37.514000	0:57:38.301000
 .	-	-	-	0:57:37.514000	0:57:38.301000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:38.301000" end="0:57:40.687000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:38.301000" end="0:57:40.687000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:57:38.301000	0:57:40.687000
 dann	-	-	-	0:57:38.301000	0:57:40.687000
 ist	-	-	-	0:57:38.301000	0:57:40.687000
@@ -15506,11 +15506,11 @@ und	-	-	-	0:57:38.301000	0:57:40.687000
 Kinder	-	-	-	0:57:38.301000	0:57:40.687000
 kriegen	-	-	-	0:57:38.301000	0:57:40.687000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:40.687000" end="0:57:41.021000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:40.687000" end="0:57:41.021000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:40.687000	0:57:41.021000
 .	-	-	-	0:57:40.687000	0:57:41.021000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:41.021000" end="0:57:50.321000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:41.021000" end="0:57:50.321000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:57:41.021000	0:57:43.354000
 und	-	-	-	0:57:41.021000	0:57:43.354000
 b/	-	-	-	0:57:41.021000	0:57:43.354000
@@ -15561,11 +15561,11 @@ paar	-	-	-	0:57:49.014000	0:57:50.321000
 Jahre	-	-	-	0:57:49.014000	0:57:50.321000
 vergangen	-	-	-	0:57:49.014000	0:57:50.321000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:50.321000" end="0:57:50.674000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:50.321000" end="0:57:50.674000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:50.321000	0:57:50.674000
 .	-	-	-	0:57:50.321000	0:57:50.674000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:50.674000" end="0:57:58.621000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:50.674000" end="0:57:58.621000" project="PP03" age_lower="18" age_upper="35">
 halt	-	-	-	0:57:50.674000	0:57:53.247000
 schon	-	-	-	0:57:50.674000	0:57:53.247000
 älter	-	-	-	0:57:50.674000	0:57:53.247000
@@ -15598,7 +15598,7 @@ sein	mein	AUX	-	0:57:56.847000	0:57:58.621000
 .	-	-	-	0:57:56.847000	0:57:58.621000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:58.621000" end="0:57:59.674000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:58.621000" end="0:57:59.674000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:57:58.621000	0:57:59.674000
 kann	können	VERB	-	0:57:58.621000	0:57:59.674000
 natürlich	natürlich	ADV	-	0:57:58.621000	0:57:59.674000
@@ -15606,11 +15606,11 @@ auch	auch	ADV	-	0:57:58.621000	0:57:59.674000
 sein	mein	AUX	-	0:57:58.621000	0:57:59.674000
 .	-	-	-	0:57:58.621000	0:57:59.674000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:59.674000" end="0:58:00.441000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:57:59.674000" end="0:58:00.441000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:59.674000	0:58:00.441000
 .	-	-	-	0:57:59.674000	0:58:00.441000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:00.441000" end="0:58:06.734000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:00.441000" end="0:58:06.734000" project="PP03" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:58:00.441000	0:58:03.514000
 auch	auch	ADV	-	0:58:00.441000	0:58:03.514000
 (die)	der	DET	-	0:58:00.441000	0:58:03.514000
@@ -15639,11 +15639,11 @@ Deckel	Deckel	NOUN	-	0:58:04.634000	0:58:06.734000
 nicht	nicht	PART	-	0:58:04.634000	0:58:06.734000
 ?"	-	-	-	0:58:04.634000	0:58:06.734000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:06.734000" end="0:58:07.401000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:06.734000" end="0:58:07.401000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:58:06.734000	0:58:07.401000
 .	-	-	-	0:58:06.734000	0:58:07.401000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:07.401000" end="0:58:09.401000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:07.401000" end="0:58:09.401000" project="PP03" age_lower="18" age_upper="35">
 sie	ich	PRON	-	0:58:07.401000	0:58:09.401000
 hat	haben	AUX	-	0:58:07.401000	0:58:09.401000
 gesagt	sagen	VERB	-	0:58:07.401000	0:58:09.401000
@@ -15657,11 +15657,11 @@ eine	einen	DET	-	0:58:07.401000	0:58:09.401000
 Wokpfanne	Wokpfanne	NOUN	-	0:58:07.401000	0:58:09.401000
 .	-	-	-	0:58:07.401000	0:58:09.401000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:09.401000" end="0:58:11.841000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:09.401000" end="0:58:11.841000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:09.401000" end="0:58:11.841000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:09.401000" end="0:58:11.841000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:11.841000" end="0:58:14.727000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:11.841000" end="0:58:14.727000" project="PP03" age_lower="18" age_upper="35">
 geh	geh	X	-	0:58:11.841000	0:58:13.174000
 ,	-	-	-	0:58:11.841000	0:58:13.174000
 sie	ich	PRON	-	0:58:11.841000	0:58:13.174000
@@ -15677,16 +15677,16 @@ zum	zum	ADP	-	0:58:13.174000	0:58:14.727000
 Finden	Finden	NOUN	-	0:58:13.174000	0:58:14.727000
 .	-	-	-	0:58:13.174000	0:58:14.727000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:14.727000" end="0:58:16.214000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:14.727000" end="0:58:16.214000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:58:14.727000	0:58:16.214000
 dann	dann	ADV	-	0:58:14.727000	0:58:16.214000
 hat	haben	AUX	-	0:58:14.727000	0:58:16.214000
 sie	ich	PRON	-	0:58:14.727000	0:58:16.214000
 gesagt	sagen	VERB	-	0:58:14.727000	0:58:16.214000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:16.214000" end="0:58:20.361000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:16.214000" end="0:58:20.361000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:16.214000" end="0:58:21.974000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:16.214000" end="0:58:21.974000" project="PP03" age_lower="18" age_upper="35">
 "ja	ja	PART	-	0:58:16.214000	0:58:20.361000
 ,	-	-	-	0:58:16.214000	0:58:20.361000
 aber	aber	CCONJ	-	0:58:16.214000	0:58:20.361000
@@ -15704,21 +15704,21 @@ Hoffnung	Hoffnung	NOUN	-	0:58:21.094000	0:58:21.974000
 nicht	nicht	PART	-	0:58:21.094000	0:58:21.974000
 ganz	ganz	ADV	-	0:58:21.094000	0:58:21.974000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:21.974000" end="0:58:22.381000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:21.974000" end="0:58:22.381000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:58:21.974000	0:58:22.381000
 .	-	-	-	0:58:21.974000	0:58:22.381000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:21.974000" end="0:58:24.861000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:21.974000" end="0:58:24.861000" project="PP03" age_lower="18" age_upper="35">
 verloren	verlieren	VERB	-	0:58:21.974000	0:58:22.381000
 .	-	-	-	0:58:21.974000	0:58:22.381000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:24.861000" end="0:58:25.561000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:24.861000" end="0:58:25.561000" project="PP03" age_lower="18" age_upper="35">
 na	na	X	-	0:58:24.861000	0:58:25.561000
 ich	ich	PRON	-	0:58:24.861000	0:58:25.561000
 finde/	-	-	-	0:58:24.861000	0:58:25.561000
 .	-	-	-	0:58:24.861000	0:58:25.561000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:24.861000" end="0:58:28.994000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:24.861000" end="0:58:28.994000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:58:24.861000	0:58:25.561000
 die	der	PRON	-	0:58:24.861000	0:58:25.561000
 möchte	mögen	VERB	-	0:58:25.561000	0:58:27.147000
@@ -15734,12 +15734,12 @@ viel	viel	DET	-	0:58:27.147000	0:58:28.994000
 Einstellungsgeschichte	Einstellungsgeschichte	NOUN	-	0:58:27.147000	0:58:28.994000
 .	-	-	-	0:58:27.147000	0:58:28.994000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:28.994000" end="0:58:31.441000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:28.994000" end="0:58:31.441000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 mhm	mhm	PROPN	-	0:58:28.994000	0:58:31.441000
 .	-	-	-	0:58:28.994000	0:58:31.441000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:31.441000" end="0:58:43.841000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:31.441000" end="0:58:43.841000" project="PP03" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:58:31.441000	0:58:33.087000
 du	du	PRON	-	0:58:31.441000	0:58:33.087000
 halt	halt	ADV	-	0:58:31.441000	0:58:33.087000
@@ -15793,7 +15793,7 @@ werden	werden	AUX	-	0:58:41.841000	0:58:43.841000
 .	-	-	-	0:58:41.841000	0:58:43.841000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:43.841000" end="0:58:46.894000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:43.841000" end="0:58:46.894000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:58:43.841000	0:58:46.894000
 ist	sein	AUX	-	0:58:43.841000	0:58:46.894000
 eh	eh	ADV	-	0:58:43.841000	0:58:46.894000
@@ -15801,7 +15801,7 @@ schwierig	schwierig	ADJ	-	0:58:43.841000	0:58:46.894000
 .	-	-	-	0:58:43.841000	0:58:46.894000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:46.894000" end="0:58:48.541000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:46.894000" end="0:58:48.541000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:58:46.894000	0:58:47.454000
 ich	ich	PRON	-	0:58:46.894000	0:58:47.454000
 denke	denken	VERB	-	0:58:46.894000	0:58:47.454000
@@ -15817,12 +15817,12 @@ kommt	kommen	VERB	-	0:58:47.454000	0:58:48.541000
 es	ich	PRON	-	0:58:47.454000	0:58:48.541000
 .	-	-	-	0:58:47.454000	0:58:48.541000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:48.541000" end="0:58:50.141000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:48.541000" end="0:58:50.141000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:58:48.541000	0:58:50.141000
 .	-	-	-	0:58:48.541000	0:58:50.141000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:50.141000" end="0:58:54.127000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:50.141000" end="0:58:54.127000" project="PP03" age_lower="18" age_upper="35">
 über	über	ADP	-	0:58:50.141000	0:58:52.694000
 das	der	DET	-	0:58:50.141000	0:58:52.694000
 Alter	alt	NOUN	-	0:58:50.141000	0:58:52.694000
@@ -15845,12 +15845,12 @@ darüber	darüber	ADV	-	0:58:52.694000	0:58:54.127000
 hinweg	hinweg	ADP	-	0:58:52.694000	0:58:54.127000
 ,	-	-	-	0:58:52.694000	0:58:54.127000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:54.127000" end="0:58:55.207000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:54.127000" end="0:58:55.207000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:58:54.127000	0:58:55.207000
 .	-	-	-	0:58:54.127000	0:58:55.207000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:55.207000" end="0:58:59.881000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:55.207000" end="0:58:59.881000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:58:55.207000	0:58:55.961000
 dass	dass	SCONJ	-	0:58:55.207000	0:58:55.961000
 ich	ich	PRON	-	0:58:55.207000	0:58:55.961000
@@ -15873,7 +15873,7 @@ auch	auch	ADV	-	0:58:57.021000	0:58:59.881000
 nicht	nicht	PART	-	0:58:57.021000	0:58:59.881000
 .	-	-	-	0:58:57.021000	0:58:59.881000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:59.881000" end="0:59:14.874000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:58:59.881000" end="0:59:14.874000" project="PP03" age_lower="18" age_upper="35">
 (ich)	ich	PRON	-	0:58:59.881000	0:59:02.374000
 auch	auch	ADV	-	0:58:59.881000	0:59:02.374000
 noch	noch	ADV	-	0:58:59.881000	0:59:02.374000
@@ -15954,11 +15954,11 @@ es	ich	PRON	-	0:59:12.434000	0:59:14.874000
 schlimmeres	schlimm	NOUN	-	0:59:12.434000	0:59:14.874000
 .	-	-	-	0:59:12.434000	0:59:14.874000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:14.874000" end="0:59:15.141000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:14.874000" end="0:59:15.141000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:59:14.874000	0:59:15.141000
 .	-	-	-	0:59:14.874000	0:59:15.141000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:15.141000" end="0:59:33.094000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:15.141000" end="0:59:33.094000" project="PP03" age_lower="18" age_upper="35">
 keine	kein	DET	-	0:59:15.141000	0:59:16.887000
 Ahnung	Ahnung	NOUN	-	0:59:15.141000	0:59:16.887000
 mit	mit	ADP	-	0:59:15.141000	0:59:16.887000
@@ -16052,7 +16052,7 @@ auch	auch	ADV	-	0:59:32.107000	0:59:33.094000
 Vorteile	Vorteil	NOUN	-	0:59:32.107000	0:59:33.094000
 .	-	-	-	0:59:32.107000	0:59:33.094000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:33.094000" end="0:59:39.634000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:33.094000" end="0:59:39.634000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:59:33.094000	0:59:35.461000
 so	so	ADV	-	0:59:33.094000	0:59:35.461000
 wie	wie	CCONJ	-	0:59:33.094000	0:59:35.461000
@@ -16088,11 +16088,11 @@ sogar	sogar	ADV	-	0:59:38.261000	0:59:39.634000
 gell	gell	ADJ	-	0:59:38.261000	0:59:39.634000
 ?	-	-	-	0:59:38.261000	0:59:39.634000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:39.634000" end="0:59:40.214000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:39.634000" end="0:59:40.214000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:59:39.634000	0:59:40.214000
 .	-	-	-	0:59:39.634000	0:59:40.214000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:40.214000" end="0:59:47.641000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:40.214000" end="0:59:47.641000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:59:40.214000	0:59:41.014000
 sie	ich	PRON	-	0:59:40.214000	0:59:41.014000
 sagen	sagen	VERB	-	0:59:40.214000	0:59:41.014000
@@ -16129,11 +16129,11 @@ sie	ich	PRON	-	0:59:45.747000	0:59:47.641000
 fort	fort	ADP	-	0:59:45.747000	0:59:47.641000
 ,	-	-	-	0:59:45.747000	0:59:47.641000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:47.641000" end="0:59:48.061000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:47.641000" end="0:59:48.061000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:59:47.641000	0:59:48.061000
 .	-	-	-	0:59:47.641000	0:59:48.061000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:47.641000" end="0:59:48.867000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:47.641000" end="0:59:48.867000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:59:47.641000	0:59:48.061000
 die	der	DET	-	0:59:47.641000	0:59:48.061000
 Kinder	Kind	NOUN	-	0:59:47.641000	0:59:48.061000
@@ -16142,11 +16142,11 @@ eh	eh	ADV	-	0:59:48.061000	0:59:48.867000
 schon	schon	ADV	-	0:59:48.061000	0:59:48.867000
 größer	groß	ADJ	-	0:59:48.061000	0:59:48.867000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:48.867000" end="0:59:49.094000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:48.867000" end="0:59:49.094000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:59:48.867000	0:59:49.094000
 .	-	-	-	0:59:48.867000	0:59:49.094000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:48.867000" end="0:59:51.301000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:48.867000" end="0:59:51.301000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:59:48.867000	0:59:49.094000
 sicher	sichern	ADJ	-	0:59:49.094000	0:59:50.181000
 sind	sein	AUX	-	0:59:49.094000	0:59:50.181000
@@ -16164,7 +16164,7 @@ halt	halt	ADV	-	0:59:50.181000	0:59:51.301000
 schon	schon	ADV	-	0:59:50.181000	0:59:51.301000
 einfacher	einfach	ADJ	-	0:59:50.181000	0:59:51.301000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:51.301000" end="0:59:53.507000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:51.301000" end="0:59:53.507000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:59:51.301000	0:59:52.727000
 .	-	-	-	0:59:51.301000	0:59:52.727000
 <pause duration="0,9s"/>
@@ -16173,7 +16173,7 @@ alle	all	DET	-	0:59:52.727000	0:59:53.507000
 Fälle	Fall	NOUN	-	0:59:52.727000	0:59:53.507000
 .	-	-	-	0:59:52.727000	0:59:53.507000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:52.727000" end="1:00:00.574000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:59:52.727000" end="1:00:00.574000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:59:52.727000	0:59:53.507000
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:59:53.507000	0:59:55.507000
@@ -16203,7 +16203,7 @@ anders	-	-	-	0:59:58.974000	1:00:00.574000
 ist	-	-	-	0:59:58.974000	1:00:00.574000
 .	-	-	-	0:59:58.974000	1:00:00.574000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:00.574000" end="1:00:04.101000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:00.574000" end="1:00:04.101000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:00:00.574000	1:00:03.287000
 <pause duration="0,7s"/>
 mhm	mhm	PROPN	-	1:00:00.574000	1:00:03.287000
@@ -16218,7 +16218,7 @@ ein	einen	ADP	-	1:00:03.287000	1:00:04.101000
 Unterschied/	-	-	-	1:00:03.287000	1:00:04.101000
 .	-	-	-	1:00:03.287000	1:00:04.101000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:04.101000" end="1:00:06.981000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:04.101000" end="1:00:06.981000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	1:00:04.101000	1:00:05.834000
 du	du	PRON	-	1:00:04.101000	1:00:05.834000
 dir	sich	PRON	-	1:00:04.101000	1:00:05.834000
@@ -16235,7 +16235,7 @@ ich	ich	PRON	-	1:00:05.834000	1:00:06.981000
 .	-	-	-	1:00:05.834000	1:00:06.981000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:06.981000" end="1:00:08.881000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:06.981000" end="1:00:08.881000" project="PP03" age_lower="18" age_upper="35">
 *bist*	-	-	-	1:00:06.981000	1:00:07.934000
 ein	-	-	-	1:00:06.981000	1:00:07.934000
 wenig	-	-	-	1:00:06.981000	1:00:07.934000
@@ -16248,7 +16248,7 @@ jünger	jung	ADJ	-	1:00:07.934000	1:00:08.881000
 bist	sein	AUX	-	1:00:07.934000	1:00:08.881000
 .	-	-	-	1:00:07.934000	1:00:08.881000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:08.881000" end="1:00:10.501000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:08.881000" end="1:00:10.501000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	1:00:08.881000	1:00:10.501000
 jetzt	jetzt	ADV	-	1:00:08.881000	1:00:10.501000
 hat	haben	AUX	-	1:00:08.881000	1:00:10.501000
@@ -16256,12 +16256,12 @@ es	ich	PRON	-	1:00:08.881000	1:00:10.501000
 geläutet	läuten	VERB	-	1:00:08.881000	1:00:10.501000
 .	-	-	-	1:00:08.881000	1:00:10.501000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:10.501000" end="1:00:13.567000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:10.501000" end="1:00:13.567000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:00:10.501000	1:00:13.567000
 .	-	-	-	1:00:10.501000	1:00:13.567000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:13.567000" end="1:00:15.567000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:13.567000" end="1:00:15.567000" project="PP03" age_lower="18" age_upper="35">
 haben	haben	AUX	-	1:00:13.567000	1:00:15.567000
 wir	ich	PRON	-	1:00:13.567000	1:00:15.567000
 (eh)	eh	ADV	-	1:00:13.567000	1:00:15.567000
@@ -16270,7 +16270,7 @@ Karterl	Kartel	NOUN	-	1:00:13.567000	1:00:15.567000
 geschafft	schaffen	VERB	-	1:00:13.567000	1:00:15.567000
 .	-	-	-	1:00:13.567000	1:00:15.567000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:15.567000" end="1:00:37.874000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:15.567000" end="1:00:37.874000" project="PP03" age_lower="18" age_upper="35">
 na	na	X	-	1:00:15.567000	1:00:16.394000
 ja	ja	PART	-	1:00:15.567000	1:00:16.394000
 ,	-	-	-	1:00:15.567000	1:00:16.394000
@@ -16289,7 +16289,7 @@ drei	drei	NUM	-	1:00:17.187000	1:00:19.187000
 .	-	-	-	1:00:17.187000	1:00:19.187000
 <pause duration="18,7s"/>
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:37.874000" end="1:00:39.454000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:37.874000" end="1:00:39.454000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	1:00:37.874000	1:00:39.454000
 mir	sich	PRON	-	1:00:37.874000	1:00:39.454000
 tut	tun	VERB	-	1:00:37.874000	1:00:39.454000
@@ -16300,7 +16300,7 @@ vom	vom	ADP	-	1:00:37.874000	1:00:39.454000
 Sitzen	Sitz	NOUN	-	1:00:37.874000	1:00:39.454000
 .	-	-	-	1:00:37.874000	1:00:39.454000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:39.454000" end="1:00:49.940000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:39.454000" end="1:00:49.940000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	1:00:39.454000	1:00:45.587000
 .	-	-	-	1:00:39.454000	1:00:45.587000
 <pause duration="5,6s"/>
@@ -16321,7 +16321,7 @@ quasi	quasi	ADV	-	1:00:46.140000	1:00:49.940000
 oder	oder	CCONJ	-	1:00:46.140000	1:00:49.940000
 ?	-	-	-	1:00:46.140000	1:00:49.940000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:49.940000" end="1:00:53.014000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:49.940000" end="1:00:53.014000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:00:49.940000	1:00:51.374000
 werden	werden	AUX	-	1:00:49.940000	1:00:51.374000
 wir	ich	PRON	-	1:00:49.940000	1:00:51.374000
@@ -16341,40 +16341,40 @@ eine	einen	DET	-	1:00:52.100000	1:00:53.014000
 Feier	Feier	NOUN	-	1:00:52.100000	1:00:53.014000
 ?	-	-	-	1:00:52.100000	1:00:53.014000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:53.014000" end="1:00:54.254000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:53.014000" end="1:00:54.254000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:00:53.014000	1:00:54.254000
 .	-	-	-	1:00:53.014000	1:00:54.254000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:53.014000" end="1:00:54.254000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:53.014000" end="1:00:54.254000" project="PP03" age_lower="18" age_upper="35">
 ist	sein	AUX	-	1:00:53.014000	1:00:54.254000
 kein	kein	DET	-	1:00:53.014000	1:00:54.254000
 Wunder	wund	NOUN	-	1:00:53.014000	1:00:54.254000
 nicht	nicht	PART	-	1:00:53.014000	1:00:54.254000
 .	-	-	-	1:00:53.014000	1:00:54.254000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="1:00:54.254000" end="1:00:55.800000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:54.254000" end="1:00:55.800000" age_lower="1" age_upper="999">
 hallo	hallo	PROPN	-	1:00:54.254000	1:00:55.800000
 !	-	-	-	1:00:54.254000	1:00:55.800000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:54.254000" end="1:00:55.800000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:54.254000" end="1:00:55.800000" project="PP03" age_lower="18" age_upper="35">
 hallo	hallo	PROPN	-	1:00:54.254000	1:00:55.800000
 !	-	-	-	1:00:54.254000	1:00:55.800000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="1:00:55.800000" end="1:00:57.800000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:55.800000" end="1:00:57.800000" age_lower="1" age_upper="999">
 na	na	X	-	1:00:55.800000	1:00:57.800000
 wie	wie	ADV	-	1:00:55.800000	1:00:57.800000
 war	sein	AUX	-	1:00:55.800000	1:00:57.800000
 es	ich	PRON	-	1:00:55.800000	1:00:57.800000
 ?	-	-	-	1:00:55.800000	1:00:57.800000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:57.800000" end="1:00:58.834000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:57.800000" end="1:00:58.834000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:00:57.800000	1:00:58.834000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:57.800000" end="1:00:58.834000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:57.800000" end="1:00:58.834000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:00:57.800000	1:00:58.834000
 .	-	-	-	1:00:57.800000	1:00:58.834000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:58.834000" end="1:01:01.567000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:00:58.834000" end="1:01:01.567000" project="PP03" age_lower="18" age_upper="35">
 gemütlich	gemütlich	ADJ	-	1:00:58.834000	1:01:01.567000
 und	und	CCONJ	-	1:00:58.834000	1:01:01.567000
 manche	manch	DET	-	1:00:58.834000	1:01:01.567000
@@ -16383,11 +16383,11 @@ waren	sein	AUX	-	1:00:58.834000	1:01:01.567000
 ein	einen	DET	-	1:00:58.834000	1:01:01.567000
 wenig	wenig	PRON	-	1:00:58.834000	1:01:01.567000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="1:01:01.567000" end="1:01:02.920000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:01.567000" end="1:01:02.920000" age_lower="1" age_upper="999">
 ja	ja	PART	-	1:01:01.567000	1:01:02.920000
 ?	-	-	-	1:01:01.567000	1:01:02.920000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:01.567000" end="1:01:05.927000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:01.567000" end="1:01:05.927000" project="PP03" age_lower="18" age_upper="35">
 schwierig	schwierig	ADJ	-	1:01:01.567000	1:01:02.920000
 .	-	-	-	1:01:01.567000	1:01:02.920000
 aber	aber	CCONJ	-	1:01:02.920000	1:01:05.927000
@@ -16400,15 +16400,15 @@ zum	zum	ADP	-	1:01:02.920000	1:01:05.927000
 Reden	Rede	NOUN	-	1:01:02.920000	1:01:05.927000
 .	-	-	-	1:01:02.920000	1:01:05.927000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:05.927000" end="1:01:06.307000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:05.927000" end="1:01:06.307000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:01:05.927000	1:01:06.307000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="1:01:06.307000" end="1:01:07.427000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:06.307000" end="1:01:07.427000" age_lower="1" age_upper="999">
 sehr	sehr	ADV	-	1:01:06.307000	1:01:07.427000
 gut	gut	ADJ	-	1:01:06.307000	1:01:07.427000
 !	-	-	-	1:01:06.307000	1:01:07.427000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:06.307000" end="1:01:15.040000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:06.307000" end="1:01:15.040000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:01:06.307000	1:01:07.427000
 wir	ich	PRON	-	1:01:06.307000	1:01:07.427000
 haben	haben	AUX	-	1:01:06.307000	1:01:07.427000
@@ -16440,33 +16440,33 @@ wir	ich	PRON	-	1:01:13.100000	1:01:15.040000
 immer	immer	ADV	-	1:01:13.100000	1:01:15.040000
 abgedriftet	abdriften	VERB	-	1:01:13.100000	1:01:15.040000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:15.040000" end="1:01:16.440000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:15.040000" end="1:01:16.440000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:15.040000" end="1:01:16.440000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:15.040000" end="1:01:16.440000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	1:01:15.040000	1:01:16.440000
 ein	einen	DET	-	1:01:15.040000	1:01:16.440000
 bissel	bissel	NOUN	-	1:01:15.040000	1:01:16.440000
 .	-	-	-	1:01:15.040000	1:01:16.440000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="1:01:16.440000" end="1:01:17.127000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:16.440000" end="1:01:17.127000" age_lower="1" age_upper="999">
 ja	ja	PART	-	1:01:16.440000	1:01:17.127000
 ?	-	-	-	1:01:16.440000	1:01:17.127000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:17.127000" end="1:01:18.467000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:17.127000" end="1:01:18.467000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	1:01:17.127000	1:01:18.467000
 ist	-	-	-	1:01:17.127000	1:01:18.467000
 ja	-	-	-	1:01:17.127000	1:01:18.467000
 _wurscht_	-	-	-	1:01:17.127000	1:01:18.467000
 .	-	-	-	1:01:17.127000	1:01:18.467000
 </u>
-<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:18.467000" end="1:01:20.034000" age_lower="18" age_upper="35">
+<u who="spk_44" sex="female" age="jung (18-35) +matura" name="Informant 0205" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:18.467000" end="1:01:20.034000" project="PP03" age_lower="18" age_upper="35">
 hoffen	hoffen	VERB	-	1:01:18.467000	1:01:19.200000
 wir	ich	PRON	-	1:01:18.467000	1:01:19.200000
 es	ich	PRON	-	1:01:18.467000	1:01:19.200000
 oder	oder	CCONJ	-	1:01:19.200000	1:01:20.034000
 ?	-	-	-	1:01:19.200000	1:01:20.034000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:19.200000" end="1:01:20.920000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:19.200000" end="1:01:20.920000" project="PP03" age_lower="18" age_upper="35">
 hoffen	hoffen	VERB	-	1:01:19.200000	1:01:20.034000
 wir	ich	PRON	-	1:01:19.200000	1:01:20.034000
 halt	halt	ADV	-	1:01:19.200000	1:01:20.034000
@@ -16477,7 +16477,7 @@ _wurscht_	-	-	-	1:01:20.034000	1:01:20.920000
 ist	-	-	-	1:01:20.034000	1:01:20.920000
 .	-	-	-	1:01:20.034000	1:01:20.920000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="1:01:20.920000" end="1:01:22.440000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:20.920000" end="1:01:22.440000" age_lower="1" age_upper="999">
 ich	ich	PRON	-	1:01:20.920000	1:01:21.434000
 bin	sein	AUX	-	1:01:20.920000	1:01:21.434000
 sicher	sichern	ADJ	-	1:01:20.920000	1:01:21.434000
@@ -16489,7 +16489,7 @@ super	super	NOUN	-	1:01:21.434000	1:01:22.440000
 gemacht	machen	VERB	-	1:01:21.434000	1:01:22.440000
 .	-	-	-	1:01:21.434000	1:01:22.440000
 </u>
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:22.440000" end="1:01:24.460000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="1:01:22.440000" end="1:01:24.460000" project="PP03" age_lower="18" age_upper="35">
 </u>
 </file>
 </doc>

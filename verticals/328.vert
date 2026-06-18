@@ -1,6 +1,6 @@
 <doc id="transcript_328" name="0471_TAUF_jungI_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="328.xml" title="Transcript: Transcript_328">
-<u who="spk_138" sex="male" age="jung (18-35) -matura" name="Informant 0471" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:23.380000" end="0:01:44.926000" age_lower="18" age_upper="35">
+<u who="spk_138" sex="male" age="jung (18-35) -matura" name="Informant 0471" subproject="PP03" standard_competence="4" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:23.380000" end="0:01:44.926000" project="PP03" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:23.380000	0:00:25.380000
 und	-	-	-	0:00:23.380000	0:00:25.380000
 Sonne	-	-	-	0:00:23.380000	0:00:25.380000
@@ -149,10 +149,10 @@ Stärkere	-	-	-	0:01:41.586000	0:01:44.926000
 wäre	-	-	-	0:01:41.586000	0:01:44.926000
 .	-	-	-	0:01:41.586000	0:01:44.926000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:44.926000" end="0:01:46.926000" age_lower="1" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:44.926000" end="0:01:46.926000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:01:44.926000	0:01:46.926000
 </u>
-<u who="spk_138" sex="male" age="jung (18-35) -matura" name="Informant 0471" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:01:44.926000" end="0:01:46.926000" age_lower="18" age_upper="35">
+<u who="spk_138" sex="male" age="jung (18-35) -matura" name="Informant 0471" subproject="PP03" standard_competence="4" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:01:44.926000" end="0:01:46.926000" project="PP03" age_lower="18" age_upper="35">
 XXX	-	-	-	0:01:44.926000	0:01:46.926000
 </u>
 </file>

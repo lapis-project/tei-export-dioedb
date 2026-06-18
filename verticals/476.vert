@@ -1,12 +1,12 @@
 <doc id="transcript_476" name="0319_OBER_jungII_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="476.xml" title="Transcript: Transcript_476">
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:53.640000" end="0:00:55.220000" age_lower="18" age_upper="35">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:53.640000" end="0:00:55.220000" project="PP03" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:53.640000	0:00:55.220000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:53.640000" end="0:00:55.220000" age_lower="1" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:53.640000" end="0:00:55.220000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:53.640000	0:00:55.220000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:53.640000" end="0:01:37.366000" age_lower="18" age_upper="35">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:53.640000" end="0:01:37.366000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:00:53.640000	0:00:55.220000
 Sonne	-	-	-	0:00:53.640000	0:00:55.220000
 .	-	-	-	0:00:53.640000	0:00:55.220000
@@ -135,10 +135,10 @@ der	-	-	-	0:01:34.586000	0:01:37.366000
 Stärkere	-	-	-	0:01:34.586000	0:01:37.366000
 war	-	-	-	0:01:34.586000	0:01:37.366000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:37.366000" end="0:01:38.806000" age_lower="1" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:37.366000" end="0:01:38.806000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:01:37.366000	0:01:38.806000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:37.366000" end="0:01:38.806000" age_lower="18" age_upper="35">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:37.366000" end="0:01:38.806000" project="PP03" age_lower="18" age_upper="35">
 XXX	-	-	-	0:01:37.366000	0:01:38.806000
 </u>
 </file>

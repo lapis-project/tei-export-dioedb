@@ -1,6 +1,6 @@
 <doc id="transcript_522" name="0543_0544_GFG" erhebung="Freundesgespräch_PP0308" erhebungsart="Gespräch ohne Explorator/in">
 <file id="522.xml" title="Transcript: Transcript_522">
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:11.619000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:11.619000" age_lower="1" age_upper="999">
 gut	-	-	-	0:00:00	0:00:04.393000
 ,	-	-	-	0:00:00	0:00:04.393000
 so	-	-	-	0:00:00	0:00:04.393000
@@ -36,11 +36,11 @@ bis	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammF
 später	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:10.354000	0:00:11.619000
 !	-	-	-	0:00:10.354000	0:00:11.619000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:11.619000" end="0:00:16.050000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:11.619000" end="0:00:16.050000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:11.619000" end="0:00:16.050000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:11.619000" end="0:00:16.050000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:16.050000" end="0:00:26.129000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:16.050000" end="0:00:26.129000" project="PP03" age_lower="18" age_upper="35">
 gut	-	-	-	0:00:16.050000	0:00:26.129000
 <pause duration="5,6s"/>
 letzte	-	-	-	0:00:16.050000	0:00:26.129000
@@ -52,11 +52,11 @@ im	-	-	-	0:00:16.050000	0:00:26.129000
 Urlaub	-	-	-	0:00:16.050000	0:00:26.129000
 ,	-	-	-	0:00:16.050000	0:00:26.129000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:26.129000" end="0:00:26.883000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:26.129000" end="0:00:26.883000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:26.129000	0:00:26.883000
 .	-	-	-	0:00:26.129000	0:00:26.883000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:26.883000" end="0:00:34.735000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:26.883000" end="0:00:34.735000" project="PP03" age_lower="18" age_upper="35">
 am	-	-	-	0:00:26.883000	0:00:29.567000
 SONSTIGE	SONSTIGE	-	-	0:00:26.883000	0:00:29.567000
 am	-	-	-	0:00:26.883000	0:00:29.567000
@@ -79,7 +79,7 @@ gefallen	-	-	-	0:00:32.935000	0:00:34.735000
 ?	-	-	-	0:00:32.935000	0:00:34.735000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:34.735000" end="0:00:39.167000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:34.735000" end="0:00:39.167000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:34.735000	0:00:36.180000
 es	-	-	-	0:00:34.735000	0:00:36.180000
 war	-	-	-	0:00:34.735000	0:00:36.180000
@@ -93,7 +93,7 @@ anstrengend	-	-	-	0:00:36.180000	0:00:39.167000
 .	-	-	-	0:00:36.180000	0:00:39.167000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:39.166000" end="0:00:42.526000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:39.166000" end="0:00:42.526000" project="PP03" age_lower="18" age_upper="35">
 warum	-	-	-	0:00:39.166000	0:00:42.526000
 war	-	-	-	0:00:39.166000	0:00:42.526000
 es	-	-	-	0:00:39.166000	0:00:42.526000
@@ -101,7 +101,7 @@ anstrengend	-	-	-	0:00:39.166000	0:00:42.526000
 ?	-	-	-	0:00:39.166000	0:00:42.526000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:42.526000" end="0:00:46.206000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:42.526000" end="0:00:46.206000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:00:42.526000	0:00:46.206000
 weil	-	-	-	0:00:42.526000	0:00:46.206000
 die	-	-	-	0:00:42.526000	0:00:46.206000
@@ -115,13 +115,13 @@ sein	-	-	-	0:00:42.526000	0:00:46.206000
 kann	-	-	-	0:00:42.526000	0:00:46.206000
 .	-	-	-	0:00:42.526000	0:00:46.206000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:46.206000" end="0:00:48.780000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:46.206000" end="0:00:48.780000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 aha	-	-	-	0:00:46.206000	0:00:48.780000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:48.780000" end="0:00:49.706000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:48.780000" end="0:00:49.706000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:48.780000" end="0:00:57.533000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:48.780000" end="0:00:57.533000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:00:48.780000	0:00:49.706000
 (Chille/)	-	-	-	0:00:48.780000	0:00:49.706000
 <pause duration="1,1s"/>
@@ -145,7 +145,7 @@ schon	-	-	-	0:00:56.393000	0:00:57.533000
 cool	-	-	-	0:00:56.393000	0:00:57.533000
 .	-	-	-	0:00:56.393000	0:00:57.533000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:57.533000" end="0:00:59.113000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:57.533000" end="0:00:59.113000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:57.533000	0:00:59.113000
 das	-	-	-	0:00:57.533000	0:00:59.113000
 war	-	-	-	0:00:57.533000	0:00:59.113000
@@ -153,7 +153,7 @@ schon	-	-	-	0:00:57.533000	0:00:59.113000
 cool	-	-	-	0:00:57.533000	0:00:59.113000
 .	-	-	-	0:00:57.533000	0:00:59.113000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:57.533000" end="0:01:00.840000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:57.533000" end="0:01:00.840000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:00:57.533000	0:00:59.113000
 Wetter	-	-	-	0:00:57.533000	0:00:59.113000
 hat	-	-	-	0:00:57.533000	0:00:59.113000
@@ -163,7 +163,7 @@ gepasst	-	-	-	0:00:59.113000	0:01:00.840000
 .	-	-	-	0:00:59.113000	0:01:00.840000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:00.840000" end="0:01:05.693000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:00.840000" end="0:01:05.693000" project="PP03" age_lower="18" age_upper="35">
 am	-	-	-	0:01:00.840000	0:01:05.693000
 Mittagskogel	-	-	-	0:01:00.840000	0:01:05.693000
 bin	-	-	-	0:01:00.840000	0:01:05.693000
@@ -174,7 +174,7 @@ gegangen	-	-	-	0:01:00.840000	0:01:05.693000
 .	-	-	-	0:01:00.840000	0:01:05.693000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:05.693000" end="0:01:25" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:05.693000" end="0:01:25" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:05.693000	0:01:08.906000
 <pause duration="0,9s"/>
 das	-	-	-	0:01:05.693000	0:01:08.906000
@@ -201,7 +201,7 @@ eigentlich	-	-	-	0:01:20.693000	0:01:25
 so	-	-	-	0:01:20.693000	0:01:25
 ?	-	-	-	0:01:20.693000	0:01:25
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:25" end="0:01:44.186000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:25" end="0:01:44.186000" project="PP03" age_lower="18" age_upper="35">
 meine	-	-	-	0:01:25	0:01:30.893000
 Hobbies	-	-	-	0:01:25	0:01:30.893000
 sind	-	-	-	0:01:25	0:01:30.893000
@@ -236,7 +236,7 @@ ja	-	-	-	0:01:30.893000	0:01:44.186000
 .	-	-	-	0:01:30.893000	0:01:44.186000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:44.186000" end="0:01:49.033000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:44.186000" end="0:01:49.033000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:01:44.186000	0:01:47.940000
 sonst	-	-	-	0:01:44.186000	0:01:47.940000
 neben	-	-	-	0:01:44.186000	0:01:47.940000
@@ -249,13 +249,13 @@ nur	-	-	-	0:01:47.940000	0:01:49.033000
 lernen	-	-	-	0:01:47.940000	0:01:49.033000
 ?	-	-	-	0:01:47.940000	0:01:49.033000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:49.033000" end="0:01:50.680000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:49.033000" end="0:01:50.680000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:01:49.033000	0:01:50.680000
 .	-	-	-	0:01:49.033000	0:01:50.680000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:49.033000" end="0:01:50.680000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:49.033000" end="0:01:50.680000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:50.680000" end="0:01:53.593000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:50.680000" end="0:01:53.593000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:01:50.680000	0:01:53.593000
 sind	-	-	-	0:01:50.680000	0:01:53.593000
 deine	-	-	-	0:01:50.680000	0:01:53.593000
@@ -263,7 +263,7 @@ Hobbies	-	-	-	0:01:50.680000	0:01:53.593000
 ?	-	-	-	0:01:50.680000	0:01:53.593000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:53.593000" end="0:02:34.600000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:53.593000" end="0:02:34.600000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:53.593000	0:02:02.600000
 meine	-	-	-	0:01:53.593000	0:02:02.600000
 Hobbies	-	-	-	0:01:53.593000	0:02:02.600000
@@ -340,7 +340,7 @@ Lieblingsbuch	-	-	-	0:02:31.353000	0:02:34.600000
 ?	-	-	-	0:02:31.353000	0:02:34.600000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:34.600000" end="0:02:38.860000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:34.600000" end="0:02:38.860000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:02:34.600000	0:02:35.913000
 lese	-	-	-	0:02:34.600000	0:02:35.913000
 keine	-	-	-	0:02:34.600000	0:02:35.913000
@@ -354,7 +354,7 @@ Lieblingsbuch	-	-	-	0:02:35.913000	0:02:38.860000
 .	-	-	-	0:02:35.913000	0:02:38.860000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:38.860000" end="0:02:47.013000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:38.860000" end="0:02:47.013000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:02:38.860000	0:02:42.620000
 <pause duration="1,3s"/>
 meines	-	-	-	0:02:38.860000	0:02:42.620000
@@ -369,7 +369,7 @@ ich	-	-	-	0:02:42.620000	0:02:47.013000
 .	-	-	-	0:02:42.620000	0:02:47.013000
 <pause duration="3,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:47.013000" end="0:02:51.366000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:47.013000" end="0:02:51.366000" project="PP03" age_lower="18" age_upper="35">
 erzähl	-	-	-	0:02:47.013000	0:02:51.366000
 einmal	-	-	-	0:02:47.013000	0:02:51.366000
 was	-	-	-	0:02:47.013000	0:02:51.366000
@@ -379,7 +379,7 @@ Kindheit	-	-	-	0:02:47.013000	0:02:51.366000
 .	-	-	-	0:02:47.013000	0:02:51.366000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:51.366000" end="0:03:19.133000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:51.366000" end="0:03:19.133000" project="PP03" age_lower="18" age_upper="35">
 meine	-	-	-	0:02:51.366000	0:02:54.553000
 Kindheit	-	-	-	0:02:51.366000	0:02:54.553000
 <pause duration="0,7s"/>
@@ -436,7 +436,7 @@ und	-	-	-	0:03:12.720000	0:03:17.053000
 deine	-	-	-	0:03:12.720000	0:03:17.053000
 ?	-	-	-	0:03:12.720000	0:03:17.053000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:19.133000" end="0:03:34.633000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:19.133000" end="0:03:34.633000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:19.133000	0:03:23.813000
 ich	-	-	-	0:03:19.133000	0:03:23.813000
 habe	-	-	-	0:03:19.133000	0:03:23.813000
@@ -480,9 +480,9 @@ Eis	-	-	-	0:03:32.873000	0:03:34.633000
 gegessen	-	-	-	0:03:32.873000	0:03:34.633000
 ,	-	-	-	0:03:32.873000	0:03:34.633000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:34.633000" end="0:03:36.633000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:34.633000" end="0:03:36.633000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:36.633000" end="0:03:48.026000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:36.633000" end="0:03:48.026000" project="PP03" age_lower="18" age_upper="35">
 sind	-	-	-	0:03:36.633000	0:03:42.820000
 viel	-	-	-	0:03:36.633000	0:03:42.820000
 mit	-	-	-	0:03:36.633000	0:03:42.820000
@@ -502,7 +502,7 @@ besonders	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:03:42.820000	0:0
 Erlebnis	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:03:42.820000	0:03:48.026000
 ?	-	-	-	0:03:42.820000	0:03:48.026000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:48.026000" end="0:03:58.805000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:48.026000" end="0:03:58.805000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 das	-	-	-	0:03:48.026000	0:03:50.966000
 ist	-	-	-	0:03:48.026000	0:03:50.966000
@@ -523,11 +523,11 @@ eines	-	-	-	0:03:54.293000	0:03:58.805000
 ?	-	-	-	0:03:54.293000	0:03:58.805000
 <pause duration="3,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:58.805000" end="0:04:02.440000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:58.805000" end="0:04:02.440000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:03:58.805000	0:03:59.260000
 .	-	-	-	0:03:58.805000	0:03:59.260000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:59.260000" end="0:04:29.133000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:59.260000" end="0:04:29.133000" project="PP03" age_lower="18" age_upper="35">
 super	-	-	-	0:03:59.260000	0:04:02.440000
 .	-	-	-	0:03:59.260000	0:04:02.440000
 <pause duration="2,8s"/>
@@ -590,7 +590,7 @@ Wörter	-	-	-	0:04:24.580000	0:04:27.133000
 ?	-	-	-	0:04:24.580000	0:04:27.133000
 "Eichkatzelschweif"	-	-	-	0:04:27.133000	0:04:29.133000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:29.133000" end="0:04:37.040000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:29.133000" end="0:04:37.040000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:04:29.133000	0:04:32.700000
 das	-	-	-	0:04:29.133000	0:04:32.700000
 ist	-	-	-	0:04:29.133000	0:04:32.700000
@@ -610,7 +610,7 @@ Bock	-	-	-	0:04:35.773000	0:04:37.040000
 mehr	-	-	-	0:04:35.773000	0:04:37.040000
 ."	-	-	-	0:04:35.773000	0:04:37.040000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:35.773000" end="0:04:40.280000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:35.773000" end="0:04:40.280000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:35.773000	0:04:37.040000
 oder	-	-	-	0:04:35.773000	0:04:37.040000
 "ur	-	-	-	0:04:37.040000	0:04:40.280000
@@ -622,7 +622,7 @@ nur	-	-	-	0:04:37.040000	0:04:40.280000
 wir	-	-	-	0:04:37.040000	0:04:40.280000
 .	-	-	-	0:04:37.040000	0:04:40.280000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:40.280000" end="0:04:46.113000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:40.280000" end="0:04:46.113000" project="PP03" age_lower="18" age_upper="35">
 "sau	-	-	-	0:04:40.280000	0:04:43.373000
 leiwand"	-	-	-	0:04:40.280000	0:04:43.373000
 <pause duration="1,9s"/>
@@ -637,7 +637,7 @@ was	-	-	-	0:04:44.380000	0:04:46.113000
 anderes	-	-	-	0:04:44.380000	0:04:46.113000
 ."	-	-	-	0:04:44.380000	0:04:46.113000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:44.380000" end="0:04:59.213000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:44.380000" end="0:04:59.213000" project="PP03" age_lower="18" age_upper="35">
 "Oida"	-	-	-	0:04:44.380000	0:04:46.113000
 ist	-	-	-	0:04:44.380000	0:04:46.113000
 auch	-	-	-	0:04:44.380000	0:04:46.113000
@@ -668,11 +668,11 @@ halt	-	-	-	0:04:56.980000	0:04:59.213000
 .	-	-	-	0:04:56.980000	0:04:59.213000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:59.213000" end="0:05:00.553000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:59.213000" end="0:05:00.553000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:04:59.213000	0:05:00.553000
 "saugeil"	-	-	-	0:04:59.213000	0:05:00.553000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:00.553000" end="0:05:18.306000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:00.553000" end="0:05:18.306000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:00.553000	0:05:02.546000
 *gibt*	-	-	-	0:05:00.553000	0:05:02.546000
 es	-	-	-	0:05:00.553000	0:05:02.546000
@@ -696,14 +696,14 @@ weiter	-	-	-	0:05:15.546000	0:05:18.306000
 .	-	-	-	0:05:15.546000	0:05:18.306000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:18.306000" end="0:05:23.673000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:18.306000" end="0:05:23.673000" project="PP03" age_lower="18" age_upper="35">
 Wienerisch	-	-	-	0:05:18.306000	0:05:23.673000
 ist	-	-	-	0:05:18.306000	0:05:23.673000
 scheiße	-	-	-	0:05:18.306000	0:05:23.673000
 !	-	-	-	0:05:18.306000	0:05:23.673000
 <pause duration="3,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:23.673000" end="0:05:29.993000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:23.673000" end="0:05:29.993000" project="PP03" age_lower="18" age_upper="35">
 "Oida"	-	-	-	0:05:23.673000	0:05:27.993000
 sagen	-	-	-	0:05:23.673000	0:05:27.993000
 die	-	-	-	0:05:23.673000	0:05:27.993000
@@ -719,7 +719,7 @@ typischer	-	-	-	0:05:27.993000	0:05:29.993000
 Wiener	-	-	-	0:05:27.993000	0:05:29.993000
 .	-	-	-	0:05:27.993000	0:05:29.993000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:29.993000" end="0:05:34.200000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:29.993000" end="0:05:34.200000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:05:29.993000	0:05:34.200000
 manchmal	-	-	-	0:05:29.993000	0:05:34.200000
@@ -731,11 +731,11 @@ ziemlich	-	-	-	0:05:29.993000	0:05:34.200000
 Hochdeutsch	-	-	-	0:05:29.993000	0:05:34.200000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:34.200000" end="0:05:34.766000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:34.200000" end="0:05:34.766000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:34.200000	0:05:34.766000
 .	-	-	-	0:05:34.200000	0:05:34.766000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:34.766000" end="0:05:39.446000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:34.766000" end="0:05:39.446000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:05:34.766000	0:05:39.446000
 das	-	-	-	0:05:34.766000	0:05:39.446000
 ist	-	-	-	0:05:34.766000	0:05:39.446000
@@ -746,7 +746,7 @@ so	-	-	-	0:05:34.766000	0:05:39.446000
 leiwand	-	-	-	0:05:34.766000	0:05:39.446000
 .	-	-	-	0:05:34.766000	0:05:39.446000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:39.446000" end="0:06:01.433000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:39.446000" end="0:06:01.433000" project="PP03" age_lower="18" age_upper="35">
 *zeichnet*	-	-	-	0:05:39.446000	0:05:42.826000
 halt	-	-	-	0:05:39.446000	0:05:42.826000
 die	-	-	-	0:05:39.446000	0:05:42.826000
@@ -776,19 +776,19 @@ man	-	-	-	0:06:00.780000	0:06:01.433000
 sagen	-	-	-	0:06:00.780000	0:06:01.433000
 ,	-	-	-	0:06:00.780000	0:06:01.433000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:01.433000" end="0:06:03.446000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:01.433000" end="0:06:03.446000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:01.433000	0:06:03.446000
 die	-	-	-	0:06:01.433000	0:06:03.446000
 Nachrichtensprecher	-	-	-	0:06:01.433000	0:06:03.446000
 reden	-	-	-	0:06:01.433000	0:06:03.446000
 anderes	-	-	-	0:06:01.433000	0:06:03.446000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:01.433000" end="0:06:03.446000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:01.433000" end="0:06:03.446000" project="PP03" age_lower="18" age_upper="35">
 reden	-	-	-	0:06:01.433000	0:06:03.446000
 die	-	-	-	0:06:01.433000	0:06:03.446000
 /.	-	-	-	0:06:01.433000	0:06:03.446000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:03.446000" end="0:06:06.420000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:03.446000" end="0:06:06.420000" project="PP03" age_lower="18" age_upper="35">
 Hochdeutsch	-	-	-	0:06:03.446000	0:06:06.420000
 als	-	-	-	0:06:03.446000	0:06:06.420000
 wie	-	-	-	0:06:03.446000	0:06:06.420000
@@ -799,7 +799,7 @@ zum	-	-	-	0:06:03.446000	0:06:06.420000
 Beispiel	-	-	-	0:06:03.446000	0:06:06.420000
 .	-	-	-	0:06:03.446000	0:06:06.420000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:06.420000" end="0:06:31.853000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:06.420000" end="0:06:31.853000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 ja	-	-	-	0:06:06.420000	0:06:13.440000
 <pause duration="0,7s"/>
@@ -859,7 +859,7 @@ Sprache	-	-	-	0:06:28.486000	0:06:31.853000
 .	-	-	-	0:06:28.486000	0:06:31.853000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:31.853000" end="0:06:34.386000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:31.853000" end="0:06:34.386000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:06:31.853000	0:06:34.386000
 bei	-	-	-	0:06:31.853000	0:06:34.386000
 der	-	-	-	0:06:31.853000	0:06:34.386000
@@ -868,7 +868,7 @@ halt	-	-	-	0:06:31.853000	0:06:34.386000
 .	-	-	-	0:06:31.853000	0:06:34.386000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:34.386000" end="0:06:40.026000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:34.386000" end="0:06:40.026000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:06:34.386000	0:06:38.133000
 reden	-	-	-	0:06:34.386000	0:06:38.133000
 die	-	-	-	0:06:34.386000	0:06:38.133000
@@ -885,7 +885,7 @@ der	-	-	-	0:06:38.133000	0:06:40.026000
 Schule	-	-	-	0:06:38.133000	0:06:40.026000
 ,	-	-	-	0:06:38.133000	0:06:40.026000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:40.026000" end="0:06:41.093000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:40.026000" end="0:06:41.093000" project="PP03" age_lower="18" age_upper="35">
 machen	-	-	-	0:06:40.026000	0:06:41.093000
 wir	-	-	-	0:06:40.026000	0:06:41.093000
 das	-	-	-	0:06:40.026000	0:06:41.093000
@@ -893,13 +893,13 @@ da	-	-	-	0:06:40.026000	0:06:41.093000
 da	-	-	-	0:06:40.026000	0:06:41.093000
 .	-	-	-	0:06:40.026000	0:06:41.093000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:40.026000" end="0:06:41.093000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:40.026000" end="0:06:41.093000" project="PP03" age_lower="18" age_upper="35">
 täte	-	-	-	0:06:40.026000	0:06:41.093000
 ich	-	-	-	0:06:40.026000	0:06:41.093000
 sagen	-	-	-	0:06:40.026000	0:06:41.093000
 .	-	-	-	0:06:40.026000	0:06:41.093000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:41.093000" end="0:06:54.200000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:41.093000" end="0:06:54.200000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ähm	-	-	-	0:06:41.093000	0:06:44.140000
 ich	-	-	KONJ	0:06:41.093000	0:06:44.140000
@@ -947,12 +947,12 @@ ich	-	-	-	0:06:53.246000	0:06:54.200000
 zum	-	-	-	0:06:53.246000	0:06:54.200000
 Beispiel	-	-	-	0:06:53.246000	0:06:54.200000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:53.246000" end="0:06:54.200000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:53.246000" end="0:06:54.200000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:06:53.246000	0:06:54.200000
 denn	-	-	-	0:06:53.246000	0:06:54.200000
 ?	-	-	-	0:06:53.246000	0:06:54.200000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:54.200000" end="0:07:25.273000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:54.200000" end="0:07:25.273000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:06:54.200000	0:06:56.906000
 einem	-	-	-	0:06:54.200000	0:06:56.906000
 Vorarlberger	-	-	-	0:06:54.200000	0:06:56.906000
@@ -1034,7 +1034,7 @@ Jahrzehnt	-	-	-	0:07:21.946000	0:07:25.273000
 .	-	-	-	0:07:21.946000	0:07:25.273000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:25.273000" end="0:07:53.020000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:25.273000" end="0:07:53.020000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:25.273000	0:07:26.753000
 ich	-	-	-	0:07:25.273000	0:07:26.753000
 glaube	-	-	-	0:07:25.273000	0:07:26.753000
@@ -1113,7 +1113,7 @@ komisch	-	-	-	0:07:46.033000	0:07:53.020000
 .	-	-	-	0:07:46.033000	0:07:53.020000
 <pause duration="5,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:53.020000" end="0:07:54.832000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:53.020000" end="0:07:54.832000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:53.020000	0:07:54.832000
 das	-	-	KONJ	0:07:53.020000	0:07:54.832000
 wäre	-	-	KONJ	0:07:53.020000	0:07:54.832000
@@ -1121,7 +1121,7 @@ wirklich	-	-	-	0:07:53.020000	0:07:54.832000
 komisch	-	-	KONJ	0:07:53.020000	0:07:54.832000
 .	-	-	-	0:07:53.020000	0:07:54.832000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:54.832000" end="0:08:09.026000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:54.832000" end="0:08:09.026000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="9,8s"/>
 ähm	-	-	-	0:08:04.386000	0:08:09.026000
 ja	-	-	-	0:08:04.386000	0:08:09.026000
@@ -1138,7 +1138,7 @@ für	-	-	-	0:08:04.386000	0:08:09.026000
 dich	-	-	-	0:08:04.386000	0:08:09.026000
 ?	-	-	-	0:08:04.386000	0:08:09.026000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:09.026000" end="0:08:24.080000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:09.026000" end="0:08:24.080000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 wo	-	-	-	0:08:09.026000	0:08:18.120000
 es	-	-	-	0:08:09.026000	0:08:18.120000
@@ -1175,7 +1175,7 @@ man	-	-	-	0:08:21.780000	0:08:24.080000
 will	-	-	-	0:08:21.780000	0:08:24.080000
 ,	-	-	-	0:08:21.780000	0:08:24.080000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:21.780000" end="0:08:24.080000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:21.780000" end="0:08:24.080000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:08:21.780000	0:08:24.080000
 quasi	-	-	-	0:08:21.780000	0:08:24.080000
 eine	-	-	-	0:08:21.780000	0:08:24.080000
@@ -1184,7 +1184,7 @@ von	-	-	-	0:08:21.780000	0:08:24.080000
 allem	-	-	-	0:08:21.780000	0:08:24.080000
 .	-	-	-	0:08:21.780000	0:08:24.080000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:24.080000" end="0:08:31.553000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:24.080000" end="0:08:31.553000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:08:24.080000	0:08:27.593000
 man	-	-	-	0:08:24.080000	0:08:27.593000
 aber	-	-	-	0:08:24.080000	0:08:27.593000
@@ -1207,7 +1207,7 @@ willst	-	-	-	0:08:29.353000	0:08:31.553000
 .	-	-	-	0:08:29.353000	0:08:31.553000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:31.553000" end="0:08:40.645000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:31.553000" end="0:08:40.645000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:08:31.553000	0:08:35.905000
 *hast*	-	-	-	0:08:31.553000	0:08:35.905000
 /.	-	-	-	0:08:31.553000	0:08:35.905000
@@ -1226,14 +1226,14 @@ Ort	-	-	-	0:08:35.905000	0:08:40.645000
 .	-	-	-	0:08:35.905000	0:08:40.645000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:40.645000" end="0:08:46.686000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:40.645000" end="0:08:46.686000" project="PP03" age_lower="18" age_upper="35">
 *gibt*	-	-	-	0:08:40.645000	0:08:46.686000
 aber	-	-	-	0:08:40.645000	0:08:46.686000
 keinen	-	-	-	0:08:40.645000	0:08:46.686000
 .	-	-	-	0:08:40.645000	0:08:46.686000
 <pause duration="5,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:46.686000" end="0:08:58.173000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:46.686000" end="0:08:58.173000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:08:46.686000	0:08:51.386000
 ja	-	-	-	0:08:46.686000	0:08:51.386000
 es	-	-	-	0:08:46.686000	0:08:51.386000
@@ -1265,7 +1265,7 @@ sagen	-	-	-	0:08:53.586000	0:08:58.173000
 .	-	-	-	0:08:53.586000	0:08:58.173000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:58.173000" end="0:09:03.706000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:58.173000" end="0:09:03.706000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:08:58.173000	0:08:59.066000
 man	-	-	-	0:08:58.173000	0:08:59.066000
 kann	-	-	-	0:08:58.173000	0:08:59.066000
@@ -1288,12 +1288,12 @@ andere	-	-	-	0:09:00.333000	0:09:03.706000
 ,	-	-	-	0:09:00.333000	0:09:03.706000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:03.706000" end="0:09:05.153000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:03.706000" end="0:09:05.153000" project="PP03" age_lower="18" age_upper="35">
 immer	-	-	-	0:09:03.706000	0:09:05.153000
 andere	-	-	-	0:09:03.706000	0:09:05.153000
 ja	-	-	-	0:09:03.706000	0:09:05.153000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:05.153000" end="0:09:06.853000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:05.153000" end="0:09:06.853000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:09:05.153000	0:09:05.813000
 man	-	-	-	0:09:05.153000	0:09:05.813000
 war	-	-	-	0:09:05.153000	0:09:05.813000
@@ -1303,11 +1303,11 @@ nicht	-	-	-	0:09:05.813000	0:09:06.853000
 überall	-	-	-	0:09:05.813000	0:09:06.853000
 ,	-	-	-	0:09:05.813000	0:09:06.853000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:05.813000" end="0:09:06.853000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:05.813000" end="0:09:06.853000" project="PP03" age_lower="18" age_upper="35">
 Erwartungen	-	-	-	0:09:05.813000	0:09:06.853000
 .	-	-	-	0:09:05.813000	0:09:06.853000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:06.853000" end="0:09:10.680000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:06.853000" end="0:09:10.680000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:09:06.853000	0:09:08.973000
 wenn	-	-	-	0:09:06.853000	0:09:08.973000
 man	-	-	-	0:09:06.853000	0:09:08.973000
@@ -1329,20 +1329,20 @@ schönste	-	-	-	0:09:08.973000	0:09:10.680000
 Ort	-	-	-	0:09:08.973000	0:09:10.680000
 .	-	-	-	0:09:08.973000	0:09:10.680000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:10.680000" end="0:09:11.620000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:10.680000" end="0:09:11.620000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:10.680000	0:09:11.620000
 ja	-	-	-	0:09:10.680000	0:09:11.620000
 das	-	-	-	0:09:10.680000	0:09:11.620000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:11.620000" end="0:09:12.373000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:11.620000" end="0:09:12.373000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:09:11.620000	0:09:12.373000
 kann	-	-	-	0:09:11.620000	0:09:12.373000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:11.620000" end="0:09:12.373000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:11.620000" end="0:09:12.373000" project="PP03" age_lower="18" age_upper="35">
 stimmt	-	-	-	0:09:11.620000	0:09:12.373000
 .	-	-	-	0:09:11.620000	0:09:12.373000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:12.373000" end="0:09:16.206000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:12.373000" end="0:09:16.206000" project="PP03" age_lower="18" age_upper="35">
 man	-	-	-	0:09:12.373000	0:09:16.206000
 das	-	-	-	0:09:12.373000	0:09:16.206000
 nicht	-	-	-	0:09:12.373000	0:09:16.206000
@@ -1350,7 +1350,7 @@ sagen	-	-	-	0:09:12.373000	0:09:16.206000
 .	-	-	-	0:09:12.373000	0:09:16.206000
 <pause duration="2,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:16.206000" end="0:09:38.440000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:16.206000" end="0:09:38.440000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:16.206000	0:09:18.440000
 *ist*	-	-	-	0:09:16.206000	0:09:18.440000
 ein	-	-	-	0:09:16.206000	0:09:18.440000
@@ -1387,7 +1387,7 @@ Deutsch	-	-	-	0:09:33.266000	0:09:38.440000
 .	-	-	-	0:09:33.266000	0:09:38.440000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:38.440000" end="0:09:41.753000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:38.440000" end="0:09:41.753000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:09:38.440000	0:09:40.726000
 ja	-	-	-	0:09:38.440000	0:09:40.726000
 es	-	-	-	0:09:38.440000	0:09:40.726000
@@ -1397,11 +1397,11 @@ Tschechen	-	-	-	0:09:38.440000	0:09:40.726000
 Slowaken	-	-	-	0:09:40.726000	0:09:41.753000
 ,	-	-	-	0:09:40.726000	0:09:41.753000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:40.726000" end="0:09:41.753000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:40.726000" end="0:09:41.753000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:40.726000	0:09:41.753000
 .	-	-	-	0:09:40.726000	0:09:41.753000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:41.753000" end="0:09:47.040000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:41.753000" end="0:09:47.040000" project="PP03" age_lower="18" age_upper="35">
 Slowenen	-	-	-	0:09:41.753000	0:09:44.893000
 ,	-	-	-	0:09:41.753000	0:09:44.893000
 Russen	-	-	-	0:09:41.753000	0:09:44.893000
@@ -1409,7 +1409,7 @@ Russen	-	-	-	0:09:41.753000	0:09:44.893000
 Amerikaner	-	-	-	0:09:44.893000	0:09:47.040000
 ,	-	-	-	0:09:44.893000	0:09:47.040000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:44.893000" end="0:09:48.706000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:44.893000" end="0:09:48.706000" project="PP03" age_lower="18" age_upper="35">
 viele	-	-	-	0:09:44.893000	0:09:47.040000
 aber	-	-	-	0:09:44.893000	0:09:47.040000
 auch	-	-	-	0:09:44.893000	0:09:47.040000
@@ -1422,7 +1422,7 @@ sprechen	-	-	-	0:09:44.893000	0:09:47.040000
 Chinesen	-	-	-	0:09:47.040000	0:09:48.706000
 ,	-	-	-	0:09:47.040000	0:09:48.706000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:48.706000" end="0:09:59.953000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:48.706000" end="0:09:59.953000" project="PP03" age_lower="18" age_upper="35">
 Spanier	-	-	-	0:09:48.706000	0:09:53.653000
 ,	-	-	-	0:09:48.706000	0:09:53.653000
 <pause duration="1,3s"/>
@@ -1447,7 +1447,7 @@ vor	-	-	-	0:09:53.665000	0:09:59.953000
 allem	-	-	-	0:09:53.665000	0:09:59.953000
 !	-	-	-	0:09:53.665000	0:09:59.953000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:59.953000" end="0:10:04.853000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:59.953000" end="0:10:04.853000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:09:59.953000	0:10:04.853000
 <pause duration="2,2s"/>
 Slowenen	-	-	-	0:09:59.953000	0:10:04.853000
@@ -1455,24 +1455,24 @@ Slowenen	-	-	-	0:09:59.953000	0:10:04.853000
 Italiener	-	-	-	0:09:59.953000	0:10:04.853000
 .	-	-	-	0:09:59.953000	0:10:04.853000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:04.853000" end="0:10:06.320000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:04.853000" end="0:10:06.320000" project="PP03" age_lower="18" age_upper="35">
 habe	-	-	-	0:10:04.853000	0:10:06.320000
 ich	-	-	-	0:10:04.853000	0:10:06.320000
 schon	-	-	-	0:10:04.853000	0:10:06.320000
 gesagt	-	-	-	0:10:04.853000	0:10:06.320000
 .	-	-	-	0:10:04.853000	0:10:06.320000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:06.320000" end="0:10:09.313000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:06.320000" end="0:10:09.313000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:10:06.320000	0:10:09.313000
 so	-	-	-	0:10:06.320000	0:10:09.313000
 .	-	-	-	0:10:06.320000	0:10:09.313000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:09.313000" end="0:10:10.380000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:09.313000" end="0:10:10.380000" project="PP03" age_lower="18" age_upper="35">
 Schweizer	-	-	-	0:10:09.313000	0:10:10.380000
 .	-	-	-	0:10:09.313000	0:10:10.380000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:09.313000" end="0:10:14.586000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:09.313000" end="0:10:14.586000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:09.313000	0:10:10.380000
 und	-	-	-	0:10:09.313000	0:10:10.380000
 vor	-	-	-	0:10:09.313000	0:10:10.380000
@@ -1487,7 +1487,7 @@ viele	-	-	-	0:10:10.380000	0:10:14.586000
 Fremdsprachen	-	-	-	0:10:10.380000	0:10:14.586000
 .	-	-	-	0:10:10.380000	0:10:14.586000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:14.586000" end="0:10:22.380000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:14.586000" end="0:10:22.380000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:10:14.586000	0:10:17.540000
 wenn	-	-	-	0:10:14.586000	0:10:17.540000
 man	-	-	-	0:10:14.586000	0:10:17.540000
@@ -1507,7 +1507,7 @@ Fremdsprachen	-	-	-	0:10:17.540000	0:10:22.380000
 .	-	-	-	0:10:17.540000	0:10:22.380000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:22.380000" end="0:10:35.940000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:22.380000" end="0:10:35.940000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:22.380000	0:10:25.913000
 das	-	-	-	0:10:22.380000	0:10:25.913000
 auf	-	-	-	0:10:22.380000	0:10:25.913000
@@ -1540,12 +1540,12 @@ Betrieb	-	-	-	0:10:30.006000	0:10:35.940000
 überall	-	-	-	0:10:30.006000	0:10:35.940000
 sind	-	-	-	0:10:30.006000	0:10:35.940000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:35.940000" end="0:10:37.513000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:35.940000" end="0:10:37.513000" project="PP03" age_lower="18" age_upper="35">
 viele	-	-	-	0:10:35.940000	0:10:37.513000
 Gastarbeiter	-	-	-	0:10:35.940000	0:10:37.513000
 .	-	-	-	0:10:35.940000	0:10:37.513000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:37.513000" end="0:10:55.993000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:37.513000" end="0:10:55.993000" project="PP03" age_lower="18" age_upper="35">
 Ausländer	-	-	-	0:10:37.513000	0:10:39.100000
 vertreten	-	-	-	0:10:37.513000	0:10:39.100000
 .	-	-	-	0:10:37.513000	0:10:39.100000
@@ -1570,7 +1570,7 @@ weiter	-	-	-	0:10:54.253000	0:10:55.993000
 machen	-	-	-	0:10:54.253000	0:10:55.993000
 ?	-	-	-	0:10:54.253000	0:10:55.993000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:55.993000" end="0:11:25.880000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:55.993000" end="0:11:25.880000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 ähm	-	-	-	0:10:55.993000	0:11:01.940000
 <pause duration="1,6s"/>
@@ -1627,17 +1627,17 @@ oben	-	-	-	0:11:19.073000	0:11:25.880000
 .	-	-	-	0:11:19.073000	0:11:25.880000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:25.880000" end="0:11:28.920000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:25.880000" end="0:11:28.920000" project="PP03" age_lower="18" age_upper="35">
 *glaubst*	-	-	-	0:11:25.880000	0:11:28.920000
 ?	-	-	-	0:11:25.880000	0:11:28.920000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:28.920000" end="0:11:31.240000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:28.920000" end="0:11:31.240000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:11:28.920000	0:11:31.240000
 .	-	-	-	0:11:28.920000	0:11:31.240000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:31.240000" end="0:11:44.240000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:31.240000" end="0:11:44.240000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:31.240000	0:11:32.313000
 werden	-	-	-	0:11:31.240000	0:11:32.313000
 wir	-	-	-	0:11:31.240000	0:11:32.313000
@@ -1667,7 +1667,7 @@ Hotel	-	-	-	0:11:36.240000	0:11:44.240000
 arbeiten	-	-	-	0:11:36.240000	0:11:44.240000
 .	-	-	-	0:11:36.240000	0:11:44.240000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:44.240000" end="0:11:46.893000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:44.240000" end="0:11:46.893000" project="PP03" age_lower="18" age_upper="35">
 welches	-	-	-	0:11:44.240000	0:11:46.893000
 Studium	-	-	-	0:11:44.240000	0:11:46.893000
 machst	-	-	-	0:11:44.240000	0:11:46.893000
@@ -1675,12 +1675,12 @@ du	-	-	-	0:11:44.240000	0:11:46.893000
 ?	-	-	-	0:11:44.240000	0:11:46.893000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:46.893000" end="0:11:49.706000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:46.893000" end="0:11:49.706000" project="PP03" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:11:46.893000	0:11:49.706000
 .	-	-	-	0:11:46.893000	0:11:49.706000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:49.706000" end="0:11:53.900000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:49.706000" end="0:11:53.900000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:11:49.706000	0:11:53.900000
 was	-	-	-	0:11:49.706000	0:11:53.900000
 macht	-	-	-	0:11:49.706000	0:11:53.900000
@@ -1689,11 +1689,11 @@ da	-	-	-	0:11:49.706000	0:11:53.900000
 ?	-	-	-	0:11:49.706000	0:11:53.900000
 <pause duration="3,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:53.900000" end="0:11:55.900000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:53.900000" end="0:11:55.900000" project="PP03" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:11:53.900000	0:11:55.900000
 studieren	-	-	-	0:11:53.900000	0:11:55.900000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:55.900000" end="0:11:57.193000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:55.900000" end="0:11:57.193000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:55.900000	0:11:57.193000
 was	-	-	-	0:11:55.900000	0:11:57.193000
 lernt	-	-	-	0:11:55.900000	0:11:57.193000
@@ -1701,7 +1701,7 @@ man	-	-	-	0:11:55.900000	0:11:57.193000
 da	-	-	-	0:11:55.900000	0:11:57.193000
 ?	-	-	-	0:11:55.900000	0:11:57.193000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:55.900000" end="0:12:27.466000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:55.900000" end="0:12:27.466000" project="PP03" age_lower="18" age_upper="35">
 (alles)	-	-	-	0:11:55.900000	0:11:57.193000
 .	-	-	-	0:11:55.900000	0:11:57.193000
 <pause duration="1,5s"/>
@@ -1749,7 +1749,7 @@ office	-	-	-	0:12:22.040000	0:12:26.986000
 ja	-	-	-	0:12:26.986000	0:12:27.466000
 .	-	-	-	0:12:26.986000	0:12:27.466000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:27.466000" end="0:12:30.733000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:27.466000" end="0:12:30.733000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:12:27.466000	0:12:30.733000
 in	-	-	-	0:12:27.466000	0:12:30.733000
 welchem	-	-	-	0:12:27.466000	0:12:30.733000
@@ -1761,7 +1761,7 @@ arbeiten	-	-	-	0:12:27.466000	0:12:30.733000
 ?	-	-	-	0:12:27.466000	0:12:30.733000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:30.733000" end="0:12:35.626000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:30.733000" end="0:12:35.626000" project="PP03" age_lower="18" age_upper="35">
 food	-	-	-	0:12:30.733000	0:12:35.626000
 and	-	-	-	0:12:30.733000	0:12:35.626000
 beverage	-	-	-	0:12:30.733000	0:12:35.626000
@@ -1779,7 +1779,7 @@ tun	-	-	-	0:12:30.733000	0:12:35.626000
 hat	-	-	-	0:12:30.733000	0:12:35.626000
 .	-	-	-	0:12:30.733000	0:12:35.626000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:35.626000" end="0:12:40.533000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:35.626000" end="0:12:40.533000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 was	-	-	-	0:12:35.626000	0:12:40.533000
 macht	-	-	-	0:12:35.626000	0:12:40.533000
@@ -1788,7 +1788,7 @@ da	-	-	-	0:12:35.626000	0:12:40.533000
 ?	-	-	-	0:12:35.626000	0:12:40.533000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:40.533000" end="0:12:43.840000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:40.533000" end="0:12:43.840000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:40.533000	0:12:43.840000
 in	-	-	-	0:12:40.533000	0:12:43.840000
 der	-	-	-	0:12:40.533000	0:12:43.840000
@@ -1799,7 +1799,7 @@ Restaurant	-	-	-	0:12:40.533000	0:12:43.840000
 /.	-	-	-	0:12:40.533000	0:12:43.840000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:43.840000" end="0:12:44.966000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:43.840000" end="0:12:44.966000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:12:43.840000	0:12:44.966000
 der	-	-	-	0:12:43.840000	0:12:44.966000
 Bar	-	-	-	0:12:43.840000	0:12:44.966000
@@ -1807,7 +1807,7 @@ Bar	-	-	-	0:12:43.840000	0:12:44.966000
 arbeiten	-	-	-	0:12:43.840000	0:12:44.966000
 ?	-	-	-	0:12:43.840000	0:12:44.966000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:44.966000" end="0:13:37.766000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:44.966000" end="0:13:37.766000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:12:44.966000	0:12:47.460000
 es	-	-	-	0:12:44.966000	0:12:47.460000
 ist	-	-	-	0:12:44.966000	0:12:47.460000
@@ -1930,7 +1930,7 @@ nochmal	-	-	-	0:13:32.473000	0:13:37.766000
 nachgedacht	-	-	-	0:13:32.473000	0:13:37.766000
 .	-	-	-	0:13:32.473000	0:13:37.766000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:37.766000" end="0:13:45.786000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:37.766000" end="0:13:45.786000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:37.766000	0:13:41.300000
 die	-	-	-	0:13:37.766000	0:13:41.300000
 Vorarlberger	-	-	-	0:13:37.766000	0:13:41.300000
@@ -1957,7 +1957,7 @@ nicht	-	-	-	0:13:43.179000	0:13:45.786000
 mehr	-	-	-	0:13:43.179000	0:13:45.786000
 .	-	-	-	0:13:43.179000	0:13:45.786000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:45.786000" end="0:13:49.240000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:45.786000" end="0:13:49.240000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:45.786000	0:13:49.240000
 eigentlich	-	-	-	0:13:45.786000	0:13:49.240000
 wie	-	-	-	0:13:45.786000	0:13:49.240000
@@ -1973,7 +1973,7 @@ sind	-	-	-	0:13:45.786000	0:13:49.240000
 .	-	-	-	0:13:45.786000	0:13:49.240000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:49.240000" end="0:14:04.320000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:49.240000" end="0:14:04.320000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:13:49.240000	0:13:52.673000
 meine	-	-	-	0:13:49.240000	0:13:52.673000
 Schwester	-	-	-	0:13:49.240000	0:13:52.673000
@@ -2026,7 +2026,7 @@ gedacht	-	-	-	0:14:02.206000	0:14:04.320000
 ja"	-	-	-	0:14:02.206000	0:14:04.320000
 /.	-	-	-	0:14:02.206000	0:14:04.320000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:02.206000" end="0:14:05.246000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:02.206000" end="0:14:05.246000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:02.206000	0:14:04.320000
 wenn	-	-	-	0:14:02.206000	0:14:04.320000
 sie	-	-	-	0:14:02.206000	0:14:04.320000
@@ -2040,7 +2040,7 @@ hat	-	-	-	0:14:04.320000	0:14:05.246000
 sie	-	-	-	0:14:04.320000	0:14:05.246000
 /.	-	-	-	0:14:04.320000	0:14:05.246000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:05.246000" end="0:14:08.680000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:05.246000" end="0:14:08.680000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:14:05.246000	0:14:08.680000
 wir	-	-	-	0:14:05.246000	0:14:08.680000
 eigentlich	-	-	-	0:14:05.246000	0:14:08.680000
@@ -2050,12 +2050,12 @@ in	-	-	-	0:14:05.246000	0:14:08.680000
 der	-	-	-	0:14:05.246000	0:14:08.680000
 selben	-	-	-	0:14:05.246000	0:14:08.680000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:08.680000" end="0:14:09.366000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:08.680000" end="0:14:09.366000" project="PP03" age_lower="18" age_upper="35">
 selben	-	-	-	0:14:08.680000	0:14:09.366000
 Land	-	-	-	0:14:08.680000	0:14:09.366000
 .	-	-	-	0:14:08.680000	0:14:09.366000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:09.366000" end="0:14:17.080000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:09.366000" end="0:14:17.080000" project="PP03" age_lower="18" age_upper="35">
 selben	-	-	-	0:14:09.366000	0:14:12.920000
 Land	-	-	-	0:14:09.366000	0:14:12.920000
 ,	-	-	-	0:14:09.366000	0:14:12.920000
@@ -2077,7 +2077,7 @@ komisch	-	-	-	0:14:12.920000	0:14:17.080000
 ist	-	-	-	0:14:12.920000	0:14:17.080000
 .	-	-	-	0:14:12.920000	0:14:17.080000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:17.080000" end="0:14:26.773000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:17.080000" end="0:14:26.773000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ja	-	-	-	0:14:17.080000	0:14:24.293000
 das	-	-	-	0:14:17.080000	0:14:24.293000
@@ -2100,7 +2100,7 @@ bist	-	-	-	0:14:24.293000	0:14:26.773000
 quasi	-	-	-	0:14:24.293000	0:14:26.773000
 .	-	-	-	0:14:24.293000	0:14:26.773000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:26.773000" end="0:14:58.186000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:26.773000" end="0:14:58.186000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:26.773000	0:14:30.046000
 <pause duration="1,1s"/>
 ja	-	-	-	0:14:26.773000	0:14:30.046000
@@ -2193,7 +2193,7 @@ ja	-	-	-	0:14:51.606000	0:14:58.186000
 .	-	-	-	0:14:51.606000	0:14:58.186000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:58.186000" end="0:15:25.640000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:58.186000" end="0:15:25.640000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:14:58.186000	0:14:59.793000
 das	-	-	-	0:14:58.186000	0:14:59.793000
 ist	-	-	-	0:14:58.186000	0:14:59.793000
@@ -2262,7 +2262,7 @@ ORT	ORT	-	-	0:15:19.353000	0:15:25.640000
 da	-	-	-	0:15:19.353000	0:15:25.640000
 .	-	-	-	0:15:19.353000	0:15:25.640000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:25.640000" end="0:15:31.833000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:25.640000" end="0:15:31.833000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:25.640000	0:15:29.500000
 sie	-	-	-	0:15:25.640000	0:15:29.500000
 haben	-	-	-	0:15:25.640000	0:15:29.500000
@@ -2285,12 +2285,12 @@ verwenden	-	-	-	0:15:29.500000	0:15:31.833000
 ,	-	-	-	0:15:29.500000	0:15:31.833000
 oder	-	-	-	0:15:29.500000	0:15:31.833000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:31.833000" end="0:15:33.026000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:31.833000" end="0:15:33.026000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:31.833000	0:15:33.026000
 .	-	-	-	0:15:31.833000	0:15:33.026000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:33.026000" end="0:15:53.013000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:33.026000" end="0:15:53.013000" project="PP03" age_lower="18" age_upper="35">
 irgendwelche	-	-	-	0:15:33.026000	0:15:41.406000
 Sprüche	-	-	-	0:15:33.026000	0:15:41.406000
 ,	-	-	-	0:15:33.026000	0:15:41.406000
@@ -2341,11 +2341,11 @@ nicht	-	-	-	0:15:50.413000	0:15:53.013000
 sagt	-	-	-	0:15:50.413000	0:15:53.013000
 ,	-	-	-	0:15:50.413000	0:15:53.013000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:53.013000" end="0:15:53.760000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:53.013000" end="0:15:53.760000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:15:53.013000	0:15:53.760000
 .	-	-	-	0:15:53.013000	0:15:53.760000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:53.760000" end="0:15:58.240000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:53.760000" end="0:15:58.240000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:15:53.760000	0:15:58.240000
 was	-	-	-	0:15:53.760000	0:15:58.240000
 wir	-	-	-	0:15:53.760000	0:15:58.240000
@@ -2359,7 +2359,7 @@ verstehen	-	-	-	0:15:53.760000	0:15:58.240000
 .	-	-	-	0:15:53.760000	0:15:58.240000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:58.240000" end="0:16:28.533000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:58.240000" end="0:16:28.533000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:58.240000	0:16:01.020000
 weil	-	-	-	0:15:58.240000	0:16:01.020000
 das	-	-	-	0:15:58.240000	0:16:01.020000
@@ -2436,11 +2436,11 @@ sagen	-	-	-	0:16:26.966000	0:16:28.533000
 .	-	-	-	0:16:26.966000	0:16:28.533000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:28.533000" end="0:16:29.153000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:28.533000" end="0:16:29.153000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:16:28.533000	0:16:29.153000
 .	-	-	-	0:16:28.533000	0:16:29.153000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:29.153000" end="0:16:32.373000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:29.153000" end="0:16:32.373000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:16:29.153000	0:16:32.373000
 ich	-	-	-	0:16:29.153000	0:16:32.373000
 meine	-	-	-	0:16:29.153000	0:16:32.373000
@@ -2455,7 +2455,7 @@ nicht	-	-	-	0:16:29.153000	0:16:32.373000
 aber	-	-	-	0:16:29.153000	0:16:32.373000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:32.373000" end="0:16:33.966000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:32.373000" end="0:16:33.966000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:16:32.373000	0:16:33.966000
 ich	-	-	-	0:16:32.373000	0:16:33.966000
 finde	-	-	-	0:16:32.373000	0:16:33.966000
@@ -2464,14 +2464,14 @@ Dialekte	-	-	-	0:16:32.373000	0:16:33.966000
 werden	-	-	-	0:16:32.373000	0:16:33.966000
 auch	-	-	-	0:16:32.373000	0:16:33.966000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:32.373000" end="0:16:33.966000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:32.373000" end="0:16:33.966000" project="PP03" age_lower="18" age_upper="35">
 im	-	-	-	0:16:32.373000	0:16:33.966000
 Vergleich	-	-	-	0:16:32.373000	0:16:33.966000
 zu	-	-	-	0:16:32.373000	0:16:33.966000
 Österreich	-	-	-	0:16:32.373000	0:16:33.966000
 .	-	-	-	0:16:32.373000	0:16:33.966000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:33.966000" end="0:16:43.553000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:33.966000" end="0:16:43.553000" project="PP03" age_lower="18" age_upper="35">
 immer	-	-	-	0:16:33.966000	0:16:35.486000
 wieder	-	-	-	0:16:33.966000	0:16:35.486000
 verändert	-	-	-	0:16:33.966000	0:16:35.486000
@@ -2504,7 +2504,7 @@ an	-	-	-	0:16:40.986000	0:16:43.553000
 Jesus	-	-	-	0:16:40.986000	0:16:43.553000
 ?	-	-	-	0:16:40.986000	0:16:43.553000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:43.553000" end="0:16:53.880000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:43.553000" end="0:16:53.880000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:16:43.553000	0:16:49.706000
 <pause duration="2,0s"/>
 oder	-	-	-	0:16:43.553000	0:16:49.706000
@@ -2526,13 +2526,13 @@ schön"	-	-	-	0:16:49.706000	0:16:53.880000
 .	-	-	-	0:16:49.706000	0:16:53.880000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:53.880000" end="0:16:55.293000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:53.880000" end="0:16:55.293000" project="PP03" age_lower="18" age_upper="35">
 bitte	-	-	-	0:16:53.880000	0:16:55.293000
 was	-	-	-	0:16:53.880000	0:16:55.293000
 ?	-	-	-	0:16:53.880000	0:16:55.293000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:55.293000" end="0:17:01.940000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:55.293000" end="0:17:01.940000" project="PP03" age_lower="18" age_upper="35">
 "bitte	-	-	-	0:16:55.293000	0:16:57.346000
 gar	-	-	-	0:16:55.293000	0:16:57.346000
 schön"	-	-	-	0:16:55.293000	0:16:57.346000
@@ -2550,13 +2550,13 @@ ja	-	-	-	0:16:57.346000	0:17:01.940000
 wirklich	-	-	-	0:16:57.346000	0:17:01.940000
 !	-	-	-	0:16:57.346000	0:17:01.940000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:01.940000" end="0:17:11.920000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:01.940000" end="0:17:11.920000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 hm	-	-	-	0:17:01.940000	0:17:11.920000
 .	-	-	-	0:17:01.940000	0:17:11.920000
 <pause duration="6,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:11.920000" end="0:17:15.180000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:11.920000" end="0:17:15.180000" project="PP03" age_lower="18" age_upper="35">
 hast	-	-	-	0:17:11.920000	0:17:15.180000
 du	-	-	-	0:17:11.920000	0:17:15.180000
 eine	-	-	-	0:17:11.920000	0:17:15.180000
@@ -2564,13 +2564,13 @@ Lieblingssendung	-	-	-	0:17:11.920000	0:17:15.180000
 ?	-	-	-	0:17:11.920000	0:17:15.180000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:15.180000" end="0:17:19.880000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:15.180000" end="0:17:19.880000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:15.180000	0:17:19.880000
 Bergdoktor	-	-	-	0:17:15.180000	0:17:19.880000
 .	-	-	-	0:17:15.180000	0:17:19.880000
 <pause duration="3,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:19.880000" end="0:17:41.900000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:19.880000" end="0:17:41.900000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:19.880000	0:17:23.512000
 <pause duration="0,9s"/>
 *ist*	-	-	-	0:17:19.880000	0:17:23.512000
@@ -2621,7 +2621,7 @@ sagen	-	-	-	0:17:39.080000	0:17:41.900000
 .	-	-	-	0:17:39.080000	0:17:41.900000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:41.900000" end="0:17:44.853000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:41.900000" end="0:17:44.853000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:17:41.900000	0:17:44.853000
 du	-	-	-	0:17:41.900000	0:17:44.853000
 bist	-	-	-	0:17:41.900000	0:17:44.853000
@@ -2635,7 +2635,7 @@ es	-	-	-	0:17:41.900000	0:17:44.853000
 nicht	-	-	-	0:17:41.900000	0:17:44.853000
 .	-	-	-	0:17:41.900000	0:17:44.853000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:44.853000" end="0:17:49.953000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:44.853000" end="0:17:49.953000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:44.853000	0:17:49.953000
 <pause duration="1,5s"/>
 ich	-	-	-	0:17:44.853000	0:17:49.953000
@@ -2647,7 +2647,7 @@ halt	-	-	-	0:17:44.853000	0:17:49.953000
 allgemein	-	-	-	0:17:44.853000	0:17:49.953000
 .	-	-	-	0:17:44.853000	0:17:49.953000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:49.953000" end="0:17:58.060000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:49.953000" end="0:17:58.060000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	-	-	-	0:17:49.953000	0:17:55.893000
 auf	-	-	-	0:17:49.953000	0:17:55.893000
@@ -2660,17 +2660,17 @@ Stadt	-	-	-	0:17:49.953000	0:17:55.893000
 .	-	-	-	0:17:49.953000	0:17:55.893000
 <pause duration="2,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:55.893000" end="0:17:58.060000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:55.893000" end="0:17:58.060000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:58.060000" end="0:17:58.633000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:58.060000" end="0:17:58.633000" project="PP03" age_lower="18" age_upper="35">
 Stadt	-	-	-	0:17:58.060000	0:17:58.633000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:58.060000" end="0:17:58.633000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:58.060000" end="0:17:58.633000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:17:58.060000	0:17:58.633000
 .	-	-	-	0:17:58.060000	0:17:58.633000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:58.633000" end="0:18:02.226000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:58.633000" end="0:18:02.226000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:17:58.633000	0:18:02.226000
 ,	-	-	-	0:17:58.633000	0:18:02.226000
 Land	-	-	-	0:17:58.633000	0:18:02.226000
@@ -2678,7 +2678,7 @@ ja	-	-	-	0:17:58.633000	0:18:02.226000
 .	-	-	-	0:17:58.633000	0:18:02.226000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:02.226000" end="0:18:34.700000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:02.226000" end="0:18:34.700000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:18:02.226000	0:18:04.226000
 können	-	-	-	0:18:02.226000	0:18:04.226000
 wir	-	-	-	0:18:02.226000	0:18:04.226000
@@ -2710,7 +2710,7 @@ hm	-	-	-	0:18:26.960000	0:18:34.700000
 .	-	-	-	0:18:26.960000	0:18:34.700000
 <pause duration="5,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:34.700000" end="0:18:42.833000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:34.700000" end="0:18:42.833000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:34.700000	0:18:39.133000
 ein	-	-	-	0:18:34.700000	0:18:39.133000
 guter	-	-	-	0:18:34.700000	0:18:39.133000
@@ -2731,13 +2731,13 @@ oder	-	-	-	0:18:39.133000	0:18:42.833000
 halt	-	-	-	0:18:39.133000	0:18:42.833000
 alle	-	-	-	0:18:39.133000	0:18:42.833000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:42.833000" end="0:18:44.513000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:42.833000" end="0:18:44.513000" project="PP03" age_lower="18" age_upper="35">
 Nicolas	-	-	-	0:18:42.833000	0:18:44.513000
 Sparks	-	-	-	0:18:42.833000	0:18:44.513000
 Filme	-	-	-	0:18:42.833000	0:18:44.513000
 .	-	-	-	0:18:42.833000	0:18:44.513000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:44.513000" end="0:18:53.040000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:44.513000" end="0:18:53.040000" project="PP03" age_lower="18" age_upper="35">
 Liebesdramen	-	-	-	0:18:44.513000	0:18:49.126000
 Filme	-	-	-	0:18:44.513000	0:18:49.126000
 ,	-	-	-	0:18:44.513000	0:18:49.126000
@@ -2755,7 +2755,7 @@ einfühlsam	-	-	-	0:18:49.126000	0:18:53.040000
 .	-	-	-	0:18:49.126000	0:18:53.040000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:53.040000" end="0:18:55.286000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:53.040000" end="0:18:55.286000" project="PP03" age_lower="18" age_upper="35">
 einfühlsam	-	-	-	0:18:53.040000	0:18:55.286000
 ?	-	-	-	0:18:53.040000	0:18:55.286000
 du	-	-	-	0:18:53.040000	0:18:55.286000
@@ -2763,22 +2763,22 @@ meinst	-	-	-	0:18:53.040000	0:18:55.286000
 emotional	-	-	-	0:18:53.040000	0:18:55.286000
 .	-	-	-	0:18:53.040000	0:18:55.286000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:55.286000" end="0:18:57.346000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:55.286000" end="0:18:57.346000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:18:55.286000	0:18:57.346000
 einfühlsam	-	-	-	0:18:55.286000	0:18:57.346000
 .	-	-	-	0:18:55.286000	0:18:57.346000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:57.346000" end="0:18:58.633000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:57.346000" end="0:18:58.633000" project="PP03" age_lower="18" age_upper="35">
 sensibel	-	-	-	0:18:57.346000	0:18:58.633000
 .	-	-	-	0:18:57.346000	0:18:58.633000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:58.633000" end="0:19:01.146000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:58.633000" end="0:19:01.146000" project="PP03" age_lower="18" age_upper="35">
 einfühlsam	-	-	-	0:18:58.633000	0:19:01.146000
 .	-	-	-	0:18:58.633000	0:19:01.146000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:01.146000" end="0:19:08.460000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:01.146000" end="0:19:08.460000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:01.146000	0:19:08.460000
 vielleicht	-	-	-	0:19:01.146000	0:19:08.460000
 kann	-	-	-	0:19:01.146000	0:19:08.460000
@@ -2789,7 +2789,7 @@ sagen	-	-	-	0:19:01.146000	0:19:08.460000
 .	-	-	-	0:19:01.146000	0:19:08.460000
 <pause duration="4,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:08.460000" end="0:19:14.553000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:08.460000" end="0:19:14.553000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:19:08.460000	0:19:14.553000
 hast	-	-	-	0:19:08.460000	0:19:14.553000
 du	-	-	-	0:19:08.460000	0:19:14.553000
@@ -2800,7 +2800,7 @@ Film	-	-	-	0:19:08.460000	0:19:14.553000
 ?	-	-	-	0:19:08.460000	0:19:14.553000
 <pause duration="4,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:14.553000" end="0:19:46.400000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:14.553000" end="0:19:46.400000" project="PP03" age_lower="18" age_upper="35">
 mir	-	-	-	0:19:14.553000	0:19:22.140000
 gefällt	-	-	-	0:19:14.553000	0:19:22.140000
 eigentlich	-	-	-	0:19:14.553000	0:19:22.140000
@@ -2865,7 +2865,7 @@ uns	-	-	-	0:19:43.840000	0:19:46.400000
 letztes	-	-	-	0:19:43.840000	0:19:46.400000
 Jahr	-	-	-	0:19:43.840000	0:19:46.400000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:46.400000" end="0:19:48.440000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:46.400000" end="0:19:48.440000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:19:46.400000	0:19:46.960000
 überhaupt	-	-	-	0:19:46.400000	0:19:46.960000
 nicht	-	-	-	0:19:46.960000	0:19:48.440000
@@ -2873,16 +2873,16 @@ reell	-	-	-	0:19:46.960000	0:19:48.440000
 ist	-	-	-	0:19:46.960000	0:19:48.440000
 .	-	-	-	0:19:46.960000	0:19:48.440000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:46.960000" end="0:19:48.440000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:46.960000" end="0:19:48.440000" project="PP03" age_lower="18" age_upper="35">
 f/	-	-	-	0:19:46.960000	0:19:48.440000
 ein	-	-	-	0:19:46.960000	0:19:48.440000
 Krimi	-	-	-	0:19:46.960000	0:19:48.440000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:48.440000" end="0:19:48.840000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:48.440000" end="0:19:48.840000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:19:48.440000	0:19:48.840000
 /.	-	-	-	0:19:48.440000	0:19:48.840000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:48.440000" end="0:19:50.246000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:48.440000" end="0:19:50.246000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:48.440000	0:19:48.840000
 ja	-	-	-	0:19:48.840000	0:19:50.246000
 du	-	-	-	0:19:48.840000	0:19:50.246000
@@ -2892,7 +2892,7 @@ gern	-	-	-	0:19:48.840000	0:19:50.246000
 Krimi	-	-	-	0:19:48.840000	0:19:50.246000
 .	-	-	-	0:19:48.840000	0:19:50.246000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:50.246000" end="0:20:04.440000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:50.246000" end="0:20:04.440000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:50.246000	0:19:53.513000
 Krimis	-	-	-	0:19:50.246000	0:19:53.513000
 sind	-	-	-	0:19:50.246000	0:19:53.513000
@@ -2925,7 +2925,7 @@ das	-	-	-	0:20:03.806000	0:20:04.440000
 ist	-	-	-	0:20:03.806000	0:20:04.440000
 /.	-	-	-	0:20:03.806000	0:20:04.440000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:03.806000" end="0:20:05.920000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:03.806000" end="0:20:05.920000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:20:03.806000	0:20:04.440000
 heißt	-	-	-	0:20:03.806000	0:20:04.440000
 nicht	-	-	-	0:20:03.806000	0:20:04.440000
@@ -2933,12 +2933,12 @@ nicht	-	-	-	0:20:03.806000	0:20:04.440000
 Man"	-	-	-	0:20:04.440000	0:20:05.920000
 .	-	-	-	0:20:04.440000	0:20:05.920000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:05.920000" end="0:20:08.240000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:05.920000" end="0:20:08.240000" project="PP03" age_lower="18" age_upper="35">
 sicher	-	-	-	0:20:05.920000	0:20:08.240000
 .	-	-	-	0:20:05.920000	0:20:08.240000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:08.240000" end="0:20:11.120000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:08.240000" end="0:20:11.120000" project="PP03" age_lower="18" age_upper="35">
 doch	-	-	-	0:20:08.240000	0:20:11.120000
 Triathlon	-	-	-	0:20:08.240000	0:20:11.120000
 das	-	-	-	0:20:08.240000	0:20:11.120000
@@ -2948,23 +2948,23 @@ Marathon	-	-	-	0:20:08.240000	0:20:11.120000
 oder	-	-	-	0:20:08.240000	0:20:11.120000
 .	-	-	-	0:20:08.240000	0:20:11.120000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:11.120000" end="0:20:12.726000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:11.120000" end="0:20:12.726000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:11.120000	0:20:12.726000
 irgendsowas	-	-	-	0:20:11.120000	0:20:12.726000
 halt	-	-	-	0:20:11.120000	0:20:12.726000
 .	-	-	-	0:20:11.120000	0:20:12.726000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:12.726000" end="0:20:18.440000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:12.726000" end="0:20:18.440000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:20:12.726000	0:20:18.440000
 .	-	-	-	0:20:12.726000	0:20:18.440000
 <pause duration="4,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:18.440000" end="0:20:23.960000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:18.440000" end="0:20:23.960000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:18.440000	0:20:23.960000
 .	-	-	-	0:20:18.440000	0:20:23.960000
 <pause duration="4,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:23.960000" end="0:20:27.880000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:23.960000" end="0:20:27.880000" project="PP03" age_lower="18" age_upper="35">
 kann	-	-	-	0:20:23.960000	0:20:25.266000
 aber	-	-	-	0:20:23.960000	0:20:25.266000
 eh	-	-	-	0:20:23.960000	0:20:25.266000
@@ -2981,7 +2981,7 @@ es	-	-	-	0:20:25.266000	0:20:27.880000
 Mann"	-	-	-	0:20:25.266000	0:20:27.880000
 .	-	-	-	0:20:25.266000	0:20:27.880000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:27.880000" end="0:20:29.866000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:27.880000" end="0:20:29.866000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:27.880000	0:20:29.866000
 sage	-	-	-	0:20:27.880000	0:20:29.866000
 ich	-	-	-	0:20:27.880000	0:20:29.866000
@@ -2991,12 +2991,12 @@ ja	-	-	-	0:20:27.880000	0:20:29.866000
 Man"	-	-	-	0:20:27.880000	0:20:29.866000
 .	-	-	-	0:20:27.880000	0:20:29.866000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:29.866000" end="0:20:31.220000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:29.866000" end="0:20:31.220000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:29.866000	0:20:31.220000
 .	-	-	-	0:20:29.866000	0:20:31.220000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:31.220000" end="0:20:49.193000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:31.220000" end="0:20:49.193000" project="PP03" age_lower="18" age_upper="35">
 *stimmt*	-	-	-	0:20:31.220000	0:20:37.046000
 schon	-	-	-	0:20:31.220000	0:20:37.046000
 .	-	-	-	0:20:31.220000	0:20:37.046000
@@ -3026,7 +3026,7 @@ ja	-	-	-	0:20:45.380000	0:20:49.193000
 irgendwas	-	-	-	0:20:45.380000	0:20:49.193000
 .	-	-	-	0:20:45.380000	0:20:49.193000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:49.193000" end="0:20:55.666000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:49.193000" end="0:20:55.666000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:49.193000	0:20:55.666000
 einfach	-	-	-	0:20:49.193000	0:20:55.666000
 nicht	-	-	-	0:20:49.193000	0:20:55.666000
@@ -3035,12 +3035,12 @@ halt	-	-	-	0:20:49.193000	0:20:55.666000
 .	-	-	-	0:20:49.193000	0:20:55.666000
 <pause duration="4,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:55.666000" end="0:21:07.513000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:55.666000" end="0:21:07.513000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:55.666000	0:21:07.513000
 .	-	-	-	0:20:55.666000	0:21:07.513000
 <pause duration="11,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:07.513000" end="0:21:13.806000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:07.513000" end="0:21:13.806000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:07.513000	0:21:13.806000
 da	-	-	-	0:21:07.513000	0:21:13.806000
 reden	-	-	-	0:21:07.513000	0:21:13.806000
@@ -3054,13 +3054,13 @@ unseren	-	-	-	0:21:07.513000	0:21:13.806000
 Ort	-	-	-	0:21:07.513000	0:21:13.806000
 .	-	-	-	0:21:07.513000	0:21:13.806000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:13.806000" end="0:21:18.720000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:13.806000" end="0:21:18.720000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:13.806000" end="0:21:18.720000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:13.806000" end="0:21:18.720000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:18.720000" end="0:21:20.580000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:18.720000" end="0:21:20.580000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:18.720000	0:21:20.580000
 Vereine	-	-	-	0:21:18.720000	0:21:20.580000
 hat	-	-	-	0:21:18.720000	0:21:20.580000
@@ -3068,9 +3068,9 @@ es	-	-	-	0:21:18.720000	0:21:20.580000
 am/	-	-	-	0:21:18.720000	0:21:20.580000
 in	-	-	-	0:21:18.720000	0:21:20.580000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:18.720000" end="0:21:20.580000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:18.720000" end="0:21:20.580000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:20.580000" end="0:21:26.660000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:20.580000" end="0:21:26.660000" project="PP03" age_lower="18" age_upper="35">
 Gaweinstal	-	-	-	0:21:20.580000	0:21:22.520000
 eigentlich	-	-	-	0:21:20.580000	0:21:22.520000
 immer	-	-	-	0:21:20.580000	0:21:22.520000
@@ -3085,11 +3085,11 @@ war	-	-	-	0:21:25.160000	0:21:26.660000
 immer	-	-	-	0:21:25.160000	0:21:26.660000
 stets	-	-	-	0:21:25.160000	0:21:26.660000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:25.160000" end="0:21:26.660000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:25.160000" end="0:21:26.660000" project="PP03" age_lower="18" age_upper="35">
 Sportverein	-	-	-	0:21:25.160000	0:21:26.660000
 .	-	-	-	0:21:25.160000	0:21:26.660000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:26.660000" end="0:21:29.013000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:26.660000" end="0:21:29.013000" project="PP03" age_lower="18" age_upper="35">
 bereit	-	-	-	0:21:26.660000	0:21:29.013000
 ,	-	-	-	0:21:26.660000	0:21:29.013000
 wenn	-	-	-	0:21:26.660000	0:21:29.013000
@@ -3098,7 +3098,7 @@ passiert	-	-	-	0:21:26.660000	0:21:29.013000
 ist	-	-	-	0:21:26.660000	0:21:29.013000
 .	-	-	-	0:21:26.660000	0:21:29.013000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:29.013000" end="0:21:30.786000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:29.013000" end="0:21:30.786000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:21:29.013000	0:21:30.786000
 das	-	-	-	0:21:29.013000	0:21:30.786000
 will	-	-	-	0:21:29.013000	0:21:30.786000
@@ -3107,23 +3107,23 @@ ja	-	-	-	0:21:29.013000	0:21:30.786000
 hoffen	-	-	-	0:21:29.013000	0:21:30.786000
 .	-	-	-	0:21:29.013000	0:21:30.786000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:30.786000" end="0:21:33.646000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:30.786000" end="0:21:33.646000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:21:30.786000	0:21:33.646000
 Sportverein	-	-	-	0:21:30.786000	0:21:33.646000
 .	-	-	-	0:21:30.786000	0:21:33.646000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:33.646000" end="0:21:37.466000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:33.646000" end="0:21:37.466000" project="PP03" age_lower="18" age_upper="35">
 Musikverein	-	-	-	0:21:33.646000	0:21:37.466000
 .	-	-	-	0:21:33.646000	0:21:37.466000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:37.466000" end="0:21:39.653000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:37.466000" end="0:21:39.653000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:21:37.466000	0:21:39.653000
 Verschönerungsverein	-	-	-	0:21:37.466000	0:21:39.653000
 .	-	-	-	0:21:37.466000	0:21:39.653000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:39.653000" end="0:21:42.680000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:39.653000" end="0:21:42.680000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:39.653000	0:21:42.680000
 aber	-	-	-	0:21:39.653000	0:21:42.680000
 den	-	-	-	0:21:39.653000	0:21:42.680000
@@ -3135,11 +3135,11 @@ kurzem	-	-	-	0:21:39.653000	0:21:42.680000
 .	-	-	-	0:21:39.653000	0:21:42.680000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:42.680000" end="0:21:43.700000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:42.680000" end="0:21:43.700000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:42.680000	0:21:43.700000
 .	-	-	-	0:21:42.680000	0:21:43.700000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:43.700000" end="0:21:51.580000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:43.700000" end="0:21:51.580000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:21:43.700000	0:21:48.353000
 kurzen	-	-	-	0:21:43.700000	0:21:48.353000
 ,	-	-	-	0:21:43.700000	0:21:48.353000
@@ -3159,11 +3159,11 @@ sagen	-	-	-	0:21:48.353000	0:21:51.580000
 .	-	-	-	0:21:48.353000	0:21:51.580000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:51.580000" end="0:21:53.686000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:51.580000" end="0:21:53.686000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:21:51.580000	0:21:53.686000
 Wein/	-	-	-	0:21:51.580000	0:21:53.686000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:53.686000" end="0:21:59.046000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:53.686000" end="0:21:59.046000" project="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:21:53.686000	0:21:59.046000
 ja	-	-	-	0:21:53.686000	0:21:59.046000
 ,	-	-	-	0:21:53.686000	0:21:59.046000
@@ -3178,7 +3178,7 @@ der	-	-	-	0:21:53.686000	0:21:59.046000
 Weinbauernverein	-	-	-	0:21:53.686000	0:21:59.046000
 ?	-	-	-	0:21:53.686000	0:21:59.046000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:59.046000" end="0:22:17.613000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:59.046000" end="0:22:17.613000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,7s"/>
 nein	-	-	-	0:21:59.046000	0:22:05.553000
 .	-	-	-	0:21:59.046000	0:22:05.553000
@@ -3187,7 +3187,7 @@ der	-	-	-	0:22:05.553000	0:22:17.613000
 /.	-	-	-	0:22:05.553000	0:22:17.613000
 <pause duration="5,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:17.613000" end="0:22:20.126000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:17.613000" end="0:22:20.126000" project="PP03" age_lower="18" age_upper="35">
 fällt	-	-	-	0:22:17.613000	0:22:18.533000
 mir	-	-	-	0:22:17.613000	0:22:18.533000
 jetzt	-	-	-	0:22:17.613000	0:22:18.533000
@@ -3205,11 +3205,11 @@ so	-	-	-	0:22:19.173000	0:22:20.126000
 heißt	-	-	-	0:22:19.173000	0:22:20.126000
 .	-	-	-	0:22:19.173000	0:22:20.126000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:20.126000" end="0:22:20.980000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:20.126000" end="0:22:20.980000" project="PP03" age_lower="18" age_upper="35">
 mm	-	-	-	0:22:20.126000	0:22:20.980000
 .	-	-	-	0:22:20.126000	0:22:20.980000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:20.980000" end="0:23:00.373000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:20.980000" end="0:23:00.373000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="7,2s"/>
 ja	-	-	-	0:22:20.980000	0:22:28.993000
 .	-	-	-	0:22:20.980000	0:22:28.993000
@@ -3302,7 +3302,7 @@ weniger	-	-	-	0:22:54.953000	0:23:00.373000
 geworden	-	-	-	0:22:54.953000	0:23:00.373000
 .	-	-	-	0:22:54.953000	0:23:00.373000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:00.373000" end="0:23:14.406000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:00.373000" end="0:23:14.406000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,8s"/>
 ja	-	-	-	0:23:00.373000	0:23:09.280000
 die	-	-	-	0:23:00.373000	0:23:09.280000
@@ -3330,7 +3330,7 @@ irgendwo	-	-	-	0:23:09.280000	0:23:13.646000
 anders	-	-	-	0:23:13.646000	0:23:14.406000
 /.	-	-	-	0:23:13.646000	0:23:14.406000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:13.646000" end="0:23:16.466000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:13.646000" end="0:23:16.466000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:13.646000	0:23:14.406000
 aber	-	-	-	0:23:13.646000	0:23:14.406000
 jedes	-	-	-	0:23:13.646000	0:23:14.406000
@@ -3341,7 +3341,7 @@ nichts	-	-	-	0:23:14.406000	0:23:16.466000
 .	-	-	-	0:23:14.406000	0:23:16.466000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:16.466000" end="0:23:20.200000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:16.466000" end="0:23:20.200000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:23:16.466000	0:23:20.200000
 ja	-	-	-	0:23:16.466000	0:23:20.200000
 im	-	-	-	0:23:16.466000	0:23:20.200000
@@ -3350,7 +3350,7 @@ schon	-	-	-	0:23:16.466000	0:23:20.200000
 .	-	-	-	0:23:16.466000	0:23:20.200000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:20.200000" end="0:24:49.380000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:20.200000" end="0:24:49.380000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:20.200000	0:23:21.393000
 das	-	-	-	0:23:20.200000	0:23:21.393000
 schon	-	-	-	0:23:20.200000	0:23:21.393000
@@ -3492,7 +3492,7 @@ reden	-	-	-	0:24:45.733000	0:24:49.380000
 .	-	-	-	0:24:45.733000	0:24:49.380000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:49.380000" end="0:24:59.980000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:49.380000" end="0:24:59.980000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:24:49.380000	0:24:49.866000
 glaube	-	-	-	0:24:49.380000	0:24:49.866000
 schon	-	-	-	0:24:49.380000	0:24:49.866000
@@ -3527,7 +3527,7 @@ Englisch	-	-	-	0:24:57.820000	0:24:59.980000
 lernen	-	-	-	0:24:57.820000	0:24:59.980000
 .	-	-	-	0:24:57.820000	0:24:59.980000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:57.820000" end="0:25:05.746000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:57.820000" end="0:25:05.746000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:57.820000	0:24:59.980000
 weil	-	-	-	0:24:57.820000	0:24:59.980000
 Deutsch	-	-	-	0:24:57.820000	0:24:59.980000
@@ -3547,7 +3547,7 @@ und	-	-	-	0:25:02.353000	0:25:05.746000
 so	-	-	-	0:25:02.353000	0:25:05.746000
 .	-	-	-	0:25:02.353000	0:25:05.746000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:05.746000" end="0:25:10.493000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:05.746000" end="0:25:10.493000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:25:05.746000	0:25:10.493000
 ganzen	-	-	-	0:25:05.746000	0:25:10.493000
 Fälle	-	-	-	0:25:05.746000	0:25:10.493000
@@ -3561,7 +3561,7 @@ nie	-	-	-	0:25:05.746000	0:25:10.493000
 kapieren	-	-	-	0:25:05.746000	0:25:10.493000
 .	-	-	-	0:25:05.746000	0:25:10.493000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:10.493000" end="0:25:44.446000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:10.493000" end="0:25:44.446000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 mhm	-	-	-	0:25:10.493000	0:25:14.140000
 .	-	-	-	0:25:10.493000	0:25:14.140000
@@ -3615,7 +3615,7 @@ schönes	-	-	-	0:25:37.746000	0:25:44.446000
 Erlebnis	-	-	-	0:25:37.746000	0:25:44.446000
 ?	-	-	-	0:25:37.746000	0:25:44.446000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:44.446000" end="0:25:58.513000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:44.446000" end="0:25:58.513000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 hm	-	-	-	0:25:44.446000	0:25:53.806000
 <pause duration="4,5s"/>
@@ -3625,7 +3625,7 @@ nicht	-	-	-	0:25:44.446000	0:25:53.806000
 .	-	-	-	0:25:44.446000	0:25:53.806000
 bissel	-	-	-	0:25:53.806000	0:25:58.513000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:53.806000" end="0:26:00.673000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:53.806000" end="0:26:00.673000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 denk	-	-	-	0:25:53.806000	0:25:58.513000
 ein	-	-	-	0:25:53.806000	0:25:58.513000
@@ -3640,19 +3640,19 @@ sein	-	-	-	0:25:58.513000	0:26:00.673000
 .	-	-	-	0:25:58.513000	0:26:00.673000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:00.673000" end="0:26:04.066000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:00.673000" end="0:26:04.066000" project="PP03" age_lower="18" age_upper="35">
 welches	-	-	-	0:26:00.673000	0:26:04.066000
 ?	-	-	-	0:26:00.673000	0:26:04.066000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:04.066000" end="0:26:07.500000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:04.066000" end="0:26:07.500000" project="PP03" age_lower="18" age_upper="35">
 Matura	-	-	-	0:26:04.066000	0:26:07.500000
 zum	-	-	-	0:26:04.066000	0:26:07.500000
 Beispiel	-	-	-	0:26:04.066000	0:26:07.500000
 .	-	-	-	0:26:04.066000	0:26:07.500000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:07.500000" end="0:26:17.633000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:07.500000" end="0:26:17.633000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:26:07.500000	0:26:09.700000
 war	-	-	-	0:26:07.500000	0:26:09.700000
 da	-	-	-	0:26:07.500000	0:26:09.700000
@@ -3688,7 +3688,7 @@ nicht	-	-	-	0:26:15.033000	0:26:17.633000
 schön	-	-	-	0:26:15.033000	0:26:17.633000
 .	-	-	-	0:26:15.033000	0:26:17.633000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:17.633000" end="0:26:35.820000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:17.633000" end="0:26:35.820000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 mhm	-	-	-	0:26:17.633000	0:26:22.520000
 <pause duration="1,6s"/>
@@ -3725,13 +3725,13 @@ schönes	-	-	-	0:26:32.673000	0:26:35.820000
 Erlebnis	-	-	-	0:26:32.673000	0:26:35.820000
 .	-	-	-	0:26:32.673000	0:26:35.820000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:35.820000" end="0:26:44.926000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:35.820000" end="0:26:44.926000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="9,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:35.820000" end="0:26:44.926000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:35.820000" end="0:26:44.926000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="9,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:44.926000" end="0:26:55.533000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:44.926000" end="0:26:55.533000" project="PP03" age_lower="18" age_upper="35">
 besonderes	-	-	-	0:26:44.926000	0:26:48.986000
 Schulerlebnis	-	-	-	0:26:44.926000	0:26:48.986000
 ,	-	-	-	0:26:44.926000	0:26:48.986000
@@ -3756,7 +3756,7 @@ Maturastreich	-	-	-	0:26:52.966000	0:26:55.533000
 .	-	-	-	0:26:52.966000	0:26:55.533000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:55.533000" end="0:27:02.893000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:55.533000" end="0:27:02.893000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:26:55.533000	0:26:59.946000
 habt	-	-	-	0:26:55.533000	0:26:59.946000
 ihr	-	-	-	0:26:55.533000	0:26:59.946000
@@ -3777,16 +3777,16 @@ in	-	-	-	0:26:59.946000	0:27:02.893000
 der	-	-	-	0:26:59.946000	0:27:02.893000
 Zeitung	-	-	-	0:26:59.946000	0:27:02.893000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:02.893000" end="0:27:04.346000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:02.893000" end="0:27:04.346000" project="PP03" age_lower="18" age_upper="35">
 wir	-	-	-	0:27:02.893000	0:27:04.346000
 haben	-	-	-	0:27:02.893000	0:27:04.346000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:04.346000" end="0:27:05.260000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:04.346000" end="0:27:05.260000" project="PP03" age_lower="18" age_upper="35">
 jedes	-	-	-	0:27:04.346000	0:27:05.260000
 Jahr	-	-	-	0:27:04.346000	0:27:05.260000
 .	-	-	-	0:27:04.346000	0:27:05.260000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:05.260000" end="0:27:07.886000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:05.260000" end="0:27:07.886000" project="PP03" age_lower="18" age_upper="35">
 vor	-	-	-	0:27:05.260000	0:27:07.886000
 der	-	-	-	0:27:05.260000	0:27:07.886000
 Schule	-	-	-	0:27:05.260000	0:27:07.886000
@@ -3794,21 +3794,21 @@ was	-	-	-	0:27:05.260000	0:27:07.886000
 _hingekragelt_	-	-	-	0:27:05.260000	0:27:07.886000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:07.886000" end="0:27:09.060000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:07.886000" end="0:27:09.060000" project="PP03" age_lower="18" age_upper="35">
 _hingekragelt_	-	-	-	0:27:07.886000	0:27:09.060000
 ?	-	-	-	0:27:07.886000	0:27:09.060000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:09.060000" end="0:27:13.500000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:09.060000" end="0:27:13.500000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:27:09.060000	0:27:11.660000
 einer	-	-	-	0:27:09.060000	0:27:11.660000
 Kalkfarbe	-	-	-	0:27:09.060000	0:27:11.660000
 .	-	-	-	0:27:09.060000	0:27:11.660000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:11.660000" end="0:27:13.500000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:11.660000" end="0:27:13.500000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:13.500000" end="0:27:47.693000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:13.500000" end="0:27:47.693000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:27:13.500000	0:27:18.246000
 <pause duration="1,3s"/>
 der	-	-	-	0:27:13.500000	0:27:18.246000
@@ -3921,7 +3921,7 @@ gegangen	-	-	-	0:27:44.213000	0:27:47.693000
 .	-	-	-	0:27:44.213000	0:27:47.693000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:47.693000" end="0:27:52.766000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:47.693000" end="0:27:52.766000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:27:47.693000	0:27:48.800000
 warum	-	-	-	0:27:47.693000	0:27:48.800000
 passiert	-	-	-	0:27:47.693000	0:27:48.800000
@@ -3935,7 +3935,7 @@ ist	-	-	-	0:27:48.800000	0:27:52.766000
 ?	-	-	-	0:27:48.800000	0:27:52.766000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:52.766000" end="0:27:55.913000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:52.766000" end="0:27:55.913000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:27:52.766000	0:27:55.913000
 ein	-	-	-	0:27:52.766000	0:27:55.913000
 normaler	-	-	-	0:27:52.766000	0:27:55.913000
@@ -3945,7 +3945,7 @@ ist	-	-	-	0:27:52.766000	0:27:55.913000
 .	-	-	-	0:27:52.766000	0:27:55.913000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:55.913000" end="0:27:58.760000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:55.913000" end="0:27:58.760000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:27:55.913000	0:27:57.293000
 dass	-	-	-	0:27:55.913000	0:27:57.293000
 das	-	-	-	0:27:55.913000	0:27:57.293000
@@ -3960,7 +3960,7 @@ ich	-	-	-	0:27:57.293000	0:27:58.760000
 .	-	-	-	0:27:57.293000	0:27:58.760000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:58.760000" end="0:28:00.560000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:58.760000" end="0:28:00.560000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:58.760000	0:28:00.560000
 weil	-	-	-	0:27:58.760000	0:28:00.560000
 es	-	-	-	0:27:58.760000	0:28:00.560000
@@ -3969,7 +3969,7 @@ ist	-	-	-	0:27:58.760000	0:28:00.560000
 .	-	-	-	0:27:58.760000	0:28:00.560000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:00.560000" end="0:28:02.080000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:00.560000" end="0:28:02.080000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:28:00.560000	0:28:02.080000
 frage	-	-	-	0:28:00.560000	0:28:02.080000
 ja	-	-	-	0:28:00.560000	0:28:02.080000
@@ -3978,9 +3978,9 @@ so	-	-	-	0:28:00.560000	0:28:02.080000
 blöd	-	-	-	0:28:00.560000	0:28:02.080000
 .	-	-	-	0:28:00.560000	0:28:02.080000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:02.080000" end="0:28:02.806000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:02.080000" end="0:28:02.806000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:02.806000" end="0:28:13.766000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:02.806000" end="0:28:13.766000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:28:02.806000	0:28:04.340000
 ist	-	-	-	0:28:02.806000	0:28:04.340000
 nicht	-	-	-	0:28:02.806000	0:28:04.340000
@@ -4003,12 +4003,12 @@ es	-	-	-	0:28:09.460000	0:28:13.766000
 nicht	-	-	-	0:28:09.460000	0:28:13.766000
 weg	-	-	-	0:28:09.460000	0:28:13.766000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:13.766000" end="0:28:17.200000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:13.766000" end="0:28:17.200000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:13.766000	0:28:17.200000
 .	-	-	-	0:28:13.766000	0:28:17.200000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:17.200000" end="0:28:33.366000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:17.200000" end="0:28:33.366000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:28:17.200000	0:28:23.913000
 bei	-	-	-	0:28:17.200000	0:28:23.913000
 unserem	-	-	-	0:28:17.200000	0:28:23.913000
@@ -4035,9 +4035,9 @@ Luftballone	-	-	-	0:28:29.100000	0:28:33.366000
 aufgeblasen	-	-	-	0:28:29.100000	0:28:33.366000
 ,	-	-	-	0:28:29.100000	0:28:33.366000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:33.366000" end="0:28:33.833000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:33.366000" end="0:28:33.833000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:33.366000" end="0:28:52.140000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:33.366000" end="0:28:52.140000" project="PP03" age_lower="18" age_upper="35">
 *hätten*	-	-	-	0:28:33.366000	0:28:33.833000
 geglaubt	-	-	-	0:28:33.366000	0:28:33.833000
 ,	-	-	-	0:28:33.366000	0:28:33.833000
@@ -4075,11 +4075,11 @@ ist	-	-	-	0:28:42.713000	0:28:52.140000
 das	-	-	-	0:28:42.713000	0:28:52.140000
 ?	-	-	-	0:28:42.713000	0:28:52.140000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:52.140000" end="0:28:53.306000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:52.140000" end="0:28:53.306000" project="PP03" age_lower="18" age_upper="35">
 NAME	NAME	-	-	0:28:52.140000	0:28:53.306000
 NAME	NAME	-	-	0:28:52.140000	0:28:53.306000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:53.306000" end="0:29:05.633000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:53.306000" end="0:29:05.633000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:53.306000	0:28:54.973000
 die	-	-	-	0:28:53.306000	0:28:54.973000
 hat	-	-	-	0:28:53.306000	0:28:54.973000
@@ -4100,7 +4100,7 @@ jetzt	-	-	-	0:28:54.973000	0:29:05.633000
 sagen	-	-	-	0:28:54.973000	0:29:05.633000
 ?	-	-	-	0:28:54.973000	0:29:05.633000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:05.633000" end="0:29:20.793000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:05.633000" end="0:29:20.793000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:29:05.633000	0:29:20.793000
 so	-	-	-	0:29:05.633000	0:29:20.793000
 so	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:29:05.633000	0:29:20.793000
@@ -4112,7 +4112,7 @@ riesengroßen	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:29:05.6
 Schleuder	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:29:05.633000	0:29:20.793000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:05.633000" end="0:29:27.106000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:05.633000" end="0:29:27.106000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,5s"/>
 ach	-	-	-	0:29:05.633000	0:29:20.793000
 so	-	-	-	0:29:05.633000	0:29:20.793000
@@ -4146,11 +4146,11 @@ nicht	-	-	-	0:29:25.600000	0:29:27.106000
 Wasserluftballons	-	-	-	0:29:25.600000	0:29:27.106000
 .	-	-	-	0:29:25.600000	0:29:27.106000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:27.106000" end="0:29:28.166000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:27.106000" end="0:29:28.166000" project="PP03" age_lower="18" age_upper="35">
 Wasserbomben	-	-	-	0:29:27.106000	0:29:28.166000
 .	-	-	-	0:29:27.106000	0:29:28.166000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:28.166000" end="0:29:42.666000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:28.166000" end="0:29:42.666000" project="PP03" age_lower="18" age_upper="35">
 Wasserbomben	-	-	-	0:29:28.166000	0:29:34.433000
 geschossen	-	-	-	0:29:28.166000	0:29:34.433000
 und	-	-	-	0:29:28.166000	0:29:34.433000
@@ -4187,12 +4187,12 @@ die	-	-	-	0:29:36.993000	0:29:42.666000
 Fensterscheiben	-	-	-	0:29:36.993000	0:29:42.666000
 .	-	-	-	0:29:36.993000	0:29:42.666000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:42.666000" end="0:29:49.960000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:42.666000" end="0:29:49.960000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="6,3s"/>
 ja	-	-	-	0:29:42.666000	0:29:49.960000
 .	-	-	-	0:29:42.666000	0:29:49.960000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:49.960000" end="0:29:54.940000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:49.960000" end="0:29:54.940000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:29:49.960000	0:29:52.160000
 viel	-	-	-	0:29:49.960000	0:29:52.160000
 Blödsinn	-	-	-	0:29:49.960000	0:29:52.160000
@@ -4208,7 +4208,7 @@ sagen	-	-	-	0:29:52.160000	0:29:54.940000
 .	-	-	-	0:29:52.160000	0:29:54.940000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:54.940000" end="0:29:57.993000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:54.940000" end="0:29:57.993000" project="PP03" age_lower="18" age_upper="35">
 bei	-	-	-	0:29:54.940000	0:29:57.993000
 der	-	-	-	0:29:54.940000	0:29:57.993000
 Maturafeier	-	-	-	0:29:54.940000	0:29:57.993000
@@ -4221,7 +4221,7 @@ allen	-	-	-	0:29:54.940000	0:29:57.993000
 Lehrern	-	-	-	0:29:54.940000	0:29:57.993000
 .	-	-	-	0:29:54.940000	0:29:57.993000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:57.993000" end="0:30:02.573000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:57.993000" end="0:30:02.573000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 warum	-	-	-	0:29:57.993000	0:30:02.573000
 *erzählst*	-	-	-	0:29:57.993000	0:30:02.573000
@@ -4231,7 +4231,7 @@ jetzt	-	-	-	0:29:57.993000	0:30:02.573000
 ?	-	-	-	0:29:57.993000	0:30:02.573000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:02.573000" end="0:30:06.146000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:02.573000" end="0:30:06.146000" project="PP03" age_lower="18" age_upper="35">
 wollte	-	-	-	0:30:02.573000	0:30:04.673000
 ich	-	-	-	0:30:02.573000	0:30:04.673000
 dir	-	-	-	0:30:02.573000	0:30:04.673000
@@ -4243,7 +4243,7 @@ sagen	-	-	-	0:30:02.573000	0:30:04.673000
 weißt	-	-	-	0:30:04.673000	0:30:06.146000
 .	-	-	-	0:30:04.673000	0:30:06.146000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:06.146000" end="0:30:17.173000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:06.146000" end="0:30:17.173000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:06.146000	0:30:10.966000
 jetzt	-	-	-	0:30:06.146000	0:30:10.966000
 war	-	-	-	0:30:06.146000	0:30:10.966000
@@ -4276,9 +4276,9 @@ vor	-	-	-	0:30:14.980000	0:30:17.173000
 .	-	-	-	0:30:14.980000	0:30:17.173000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:17.173000" end="0:30:20.280000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:17.173000" end="0:30:20.280000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:17.173000" end="0:30:21.847000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:17.173000" end="0:30:21.847000" project="PP03" age_lower="18" age_upper="35">
 täte	-	-	-	0:30:17.173000	0:30:20.280000
 ein	-	-	-	0:30:17.173000	0:30:20.280000
 jeder	-	-	-	0:30:17.173000	0:30:20.280000
@@ -4290,10 +4290,10 @@ Wien	-	-	-	0:30:20.279000	0:30:21.847000
 täte	-	-	-	0:30:20.279000	0:30:21.847000
 alles	-	-	-	0:30:20.279000	0:30:21.847000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:21.847000" end="0:30:24.213000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:21.847000" end="0:30:24.213000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:21.847000" end="0:30:26.951000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:21.847000" end="0:30:26.951000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 da	-	-	-	0:30:24.213000	0:30:25.673000
 wirds/	-	-	-	0:30:24.213000	0:30:25.673000
@@ -4307,7 +4307,7 @@ wirklich	-	-	-	0:30:25.673000	0:30:26.951000
 wäre	-	-	-	0:30:25.673000	0:30:26.951000
 .	-	-	-	0:30:25.673000	0:30:26.951000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:26.951000" end="0:30:31.588000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:26.951000" end="0:30:31.588000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 nein	-	-	-	0:30:26.951000	0:30:29.241000
 ,	-	-	-	0:30:26.951000	0:30:29.241000
@@ -4322,7 +4322,7 @@ mehr	-	-	-	0:30:26.951000	0:30:29.241000
 .	-	-	-	0:30:26.951000	0:30:29.241000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:29.241000" end="0:30:32.820000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:29.241000" end="0:30:32.820000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 sind	-	-	-	0:30:31.588000	0:30:32.820000
 ja	-	-	-	0:30:31.588000	0:30:32.820000
@@ -4330,13 +4330,13 @@ noch	-	-	-	0:30:31.588000	0:30:32.820000
 jung	-	-	-	0:30:31.588000	0:30:32.820000
 .	-	-	-	0:30:31.588000	0:30:32.820000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:32.820000" end="0:30:33.707000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:32.820000" end="0:30:33.707000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:32.820000" end="0:30:33.707000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:32.820000" end="0:30:33.707000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:33.707000" end="0:30:36.208000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:33.707000" end="0:30:36.208000" project="PP03" age_lower="18" age_upper="35">
 (dort)	-	-	-	0:30:33.707000	0:30:34.823000
 leben	-	-	-	0:30:33.707000	0:30:34.823000
 wir	-	-	-	0:30:33.707000	0:30:34.823000
@@ -4345,10 +4345,10 @@ mehr	-	-	-	0:30:33.707000	0:30:34.823000
 .	-	-	-	0:30:33.707000	0:30:34.823000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:34.823000" end="0:30:36.208000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:34.823000" end="0:30:36.208000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:36.208000" end="0:30:39.143000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:36.208000" end="0:30:39.143000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:30:36.208000	0:30:37.346000
 geht	-	-	-	0:30:36.208000	0:30:37.346000
 gar	-	-	-	0:30:36.208000	0:30:37.346000
@@ -4356,17 +4356,17 @@ nicht	-	-	-	0:30:36.208000	0:30:37.346000
 .	-	-	-	0:30:36.208000	0:30:37.346000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:37.346000" end="0:30:39.916000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:37.346000" end="0:30:39.916000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ja	-	-	-	0:30:39.143000	0:30:39.916000
 ,	-	-	-	0:30:39.143000	0:30:39.916000
 aber	-	-	-	0:30:39.143000	0:30:39.916000
 /.	-	-	-	0:30:39.143000	0:30:39.916000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:39.916000" end="0:30:41.600000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:39.916000" end="0:30:41.600000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:39.916000" end="0:30:43.289000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:39.916000" end="0:30:43.289000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 wer	-	-	-	0:30:41.600000	0:30:43.289000
 weiß	-	-	-	0:30:41.600000	0:30:43.289000
@@ -4376,16 +4376,16 @@ es	-	-	-	0:30:41.600000	0:30:43.289000
 irgendwann	-	-	-	0:30:41.600000	0:30:43.289000
 .	-	-	-	0:30:41.600000	0:30:43.289000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:43.289000" end="0:30:45.492000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:43.289000" end="0:30:45.492000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:43.289000" end="0:30:46.325000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:43.289000" end="0:30:46.325000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:46.325000" end="0:30:47.635000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:46.325000" end="0:30:47.635000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:46.325000" end="0:30:54.149000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:46.325000" end="0:30:54.149000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 (so)	-	-	-	0:30:47.635000	0:30:51.005000
 bis	-	-	-	0:30:47.635000	0:30:51.005000
@@ -4409,10 +4409,10 @@ aber	-	-	-	0:30:52.611000	0:30:54.149000
 ja	-	-	-	0:30:52.611000	0:30:54.149000
 /.	-	-	-	0:30:52.611000	0:30:54.149000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:54.149000" end="0:30:56.083000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:54.149000" end="0:30:56.083000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:54.149000" end="0:30:58.489000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:54.149000" end="0:30:58.489000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 sind	-	-	-	0:30:56.083000	0:30:58.489000
 ja	-	-	-	0:30:56.083000	0:30:58.489000
@@ -4421,13 +4421,13 @@ eine	-	-	-	0:30:56.083000	0:30:58.489000
 Skination	-	-	-	0:30:56.083000	0:30:58.489000
 .	-	-	-	0:30:56.083000	0:30:58.489000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:58.489000" end="0:31:01.817000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:58.489000" end="0:31:01.817000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:58.489000" end="0:31:01.817000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:58.489000" end="0:31:01.817000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:01.817000" end="0:31:04.965000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:01.817000" end="0:31:04.965000" project="PP03" age_lower="18" age_upper="35">
 *schenkst*	-	-	-	0:31:01.817000	0:31:03.128000
 mir	-	-	-	0:31:01.817000	0:31:03.128000
 bitte	-	-	-	0:31:01.817000	0:31:03.128000
@@ -4436,33 +4436,33 @@ ein	-	-	-	0:31:01.817000	0:31:03.128000
 ?	-	-	-	0:31:01.817000	0:31:03.128000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:03.128000" end="0:31:06.467000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:03.128000" end="0:31:06.467000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ((widerwilliges	-	-	-	0:31:04.965000	0:31:06.467000
 Geräusch))	-	-	-	0:31:04.965000	0:31:06.467000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:06.467000" end="0:31:08.615000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:06.467000" end="0:31:08.615000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:06.467000" end="0:31:10.374000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:06.467000" end="0:31:10.374000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 bitte	-	-	-	0:31:08.615000	0:31:10.374000
 sehr	-	-	-	0:31:08.615000	0:31:10.374000
 .	-	-	-	0:31:08.615000	0:31:10.374000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:10.374000" end="0:31:15.827000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:10.374000" end="0:31:15.827000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:10.374000" end="0:31:15.827000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:10.374000" end="0:31:15.827000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:15.825000" end="0:31:35.450000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:15.825000" end="0:31:35.450000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="19,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:15.825000" end="0:31:35.450000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:15.825000" end="0:31:35.450000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="19,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:35.450000" end="0:31:47.763000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:35.450000" end="0:31:47.763000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:35.450000	0:31:38.127000
 ,	-	-	-	0:31:35.450000	0:31:38.127000
 Deutsch	-	-	-	0:31:35.450000	0:31:38.127000
@@ -4498,7 +4498,7 @@ Kapitel	-	-	-	0:31:45.295000	0:31:47.763000
 einfach	-	-	-	0:31:45.295000	0:31:47.763000
 .	-	-	-	0:31:45.295000	0:31:47.763000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:47.763000" end="0:31:50.623000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:47.763000" end="0:31:50.623000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 (*meinst*)	-	-	-	0:31:47.763000	0:31:50.623000
 mit	-	-	-	0:31:47.763000	0:31:50.623000
@@ -4508,12 +4508,12 @@ und	-	-	-	0:31:47.763000	0:31:50.623000
 so	-	-	-	0:31:47.763000	0:31:50.623000
 ?	-	-	-	0:31:47.763000	0:31:50.623000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:50.623000" end="0:31:51.833000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:50.623000" end="0:31:51.833000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:50.623000	0:31:51.220000
 .	-	-	-	0:31:50.623000	0:31:51.220000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:51.220000" end="0:31:54.376000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:51.220000" end="0:31:54.376000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 können	-	-	-	0:31:51.833000	0:31:54.376000
 wir	-	-	-	0:31:51.833000	0:31:54.376000
@@ -4525,10 +4525,10 @@ darüber	-	-	-	0:31:51.833000	0:31:54.376000
 schreiben	-	-	-	0:31:51.833000	0:31:54.376000
 .	-	-	-	0:31:51.833000	0:31:54.376000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:54.376000" end="0:31:56.768000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:54.376000" end="0:31:56.768000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:54.376000" end="0:31:58.053000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:54.376000" end="0:31:58.053000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 ja	-	-	-	0:31:56.768000	0:31:58.053000
 ,	-	-	-	0:31:56.768000	0:31:58.053000
@@ -4538,13 +4538,13 @@ stimmt	-	-	-	0:31:56.768000	0:31:58.053000
 weil	-	-	-	0:31:56.768000	0:31:58.053000
 /.	-	-	-	0:31:56.768000	0:31:58.053000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:58.053000" end="0:31:58.607000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:58.053000" end="0:31:58.607000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:58.053000" end="0:31:58.607000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:58.053000" end="0:31:58.607000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:58.607000" end="0:32:02.516000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:58.607000" end="0:32:02.516000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:31:58.607000	0:32:00.059000
 wenn	-	-	-	0:31:58.607000	0:32:00.059000
 man	-	-	-	0:31:58.607000	0:32:00.059000
@@ -4566,14 +4566,14 @@ Deutsch	-	-	-	0:32:00.059000	0:32:02.516000
 ist	-	-	-	0:32:00.059000	0:32:02.516000
 .	-	-	-	0:32:00.059000	0:32:02.516000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:02.515000" end="0:32:03.389000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:02.515000" end="0:32:03.389000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:02.515000	0:32:03.389000
 .	-	-	-	0:32:02.515000	0:32:03.389000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:03.389000" end="0:32:05.021000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:03.389000" end="0:32:05.021000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:03.389000" end="0:32:08.072000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:03.389000" end="0:32:08.072000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 du	-	-	-	0:32:05.020000	0:32:06.031000
 meinst	-	-	-	0:32:05.020000	0:32:06.031000
@@ -4588,13 +4588,13 @@ oder	-	-	-	0:32:06.031000	0:32:08.072000
 so	-	-	-	0:32:06.031000	0:32:08.072000
 ?	-	-	-	0:32:06.031000	0:32:08.072000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:08.072000" end="0:32:17.560000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:08.072000" end="0:32:17.560000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	-	-	-	0:32:08.072000	0:32:09.195000
 .	-	-	-	0:32:08.072000	0:32:09.195000
 <pause duration="8,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:09.196000" end="0:32:25.772000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:09.196000" end="0:32:25.772000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="8,4s"/>
 ja	-	-	-	0:32:17.560000	0:32:18.348000
 .	-	-	-	0:32:17.560000	0:32:18.348000
@@ -4623,22 +4623,22 @@ gut	-	-	-	0:32:23.772000	0:32:25.772000
 reden	-	-	-	0:32:23.772000	0:32:25.772000
 .	-	-	-	0:32:23.772000	0:32:25.772000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:25.772000" end="0:32:27.969000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:25.772000" end="0:32:27.969000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:25.772000" end="0:32:27.969000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:25.772000" end="0:32:27.969000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:27.969000" end="0:32:28.696000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:27.969000" end="0:32:28.696000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:27.969000	0:32:28.696000
 .	-	-	-	0:32:27.969000	0:32:28.696000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:27.969000" end="0:32:28.696000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:27.969000" end="0:32:28.696000" project="PP03" age_lower="18" age_upper="35">
 glaube	-	-	-	0:32:27.969000	0:32:28.696000
 ich	-	-	-	0:32:27.969000	0:32:28.696000
 .	-	-	-	0:32:27.969000	0:32:28.696000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:28.696000" end="0:32:41.348000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:28.696000" end="0:32:41.348000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 kann	-	-	-	0:32:28.696000	0:32:31.287000
 auch	-	-	-	0:32:28.696000	0:32:31.287000
@@ -4660,16 +4660,16 @@ steht	-	-	-	0:32:34.318000	0:32:35.363000
 .	-	-	-	0:32:34.318000	0:32:35.363000
 <pause duration="6,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:35.363000" end="0:32:42.257000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:35.363000" end="0:32:42.257000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="6,1s"/>
 na	-	-	-	0:32:41.348000	0:32:42.257000
 ja	-	-	-	0:32:41.348000	0:32:42.257000
 .	-	-	-	0:32:41.348000	0:32:42.257000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:42.257000" end="0:32:43.515000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:42.257000" end="0:32:43.515000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:42.257000" end="0:32:46.439000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:42.257000" end="0:32:46.439000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	-	-	-	0:32:43.515000	0:32:44.651000
 ,	-	-	-	0:32:43.515000	0:32:44.651000
@@ -4685,10 +4685,10 @@ erklären	-	-	-	0:32:44.651000	0:32:46.439000
 kann	-	-	-	0:32:44.651000	0:32:46.439000
 .	-	-	-	0:32:44.651000	0:32:46.439000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:46.439000" end="0:32:47.393000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:46.439000" end="0:32:47.393000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:46.439000" end="0:32:51" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:46.439000" end="0:32:51" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 bist	-	-	-	0:32:47.393000	0:32:48.424000
 du	-	-	-	0:32:47.393000	0:32:48.424000
@@ -4704,7 +4704,7 @@ zum	-	-	-	0:32:48.424000	0:32:51
 Ziehen	-	-	-	0:32:48.424000	0:32:51
 ?	-	-	-	0:32:48.424000	0:32:51
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:51" end="0:32:55.772000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:51" end="0:32:55.772000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:32:51	0:32:53
 ,	-	-	-	0:32:51	0:32:53
 <pause duration="0,9s"/>
@@ -4715,7 +4715,7 @@ will	-	-	-	0:32:53	0:32:55.772000
 keiner	-	-	-	0:32:53	0:32:55.772000
 .	-	-	-	0:32:53	0:32:55.772000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:55.772000" end="0:33:00.348000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:55.772000" end="0:33:00.348000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	-	-	-	0:32:55.772000	0:32:58.348000
 ,	-	-	-	0:32:55.772000	0:32:58.348000
@@ -4732,13 +4732,13 @@ eh	-	-	-	0:32:58.348000	0:33:00.348000
 ähnlich	-	-	-	0:32:58.348000	0:33:00.348000
 .	-	-	-	0:32:58.348000	0:33:00.348000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:00.348000" end="0:33:01.439000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:00.348000" end="0:33:01.439000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:00.348000" end="0:33:01.439000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:00.348000" end="0:33:01.439000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:01.439000" end="0:33:06.439000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:01.439000" end="0:33:06.439000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:33:01.439000	0:33:03.257000
 so	-	-	-	0:33:01.439000	0:33:03.257000
 ,	-	-	-	0:33:01.439000	0:33:03.257000
@@ -4756,10 +4756,10 @@ aber	-	-	-	0:33:03.257000	0:33:05.090000
 /.	-	-	-	0:33:03.257000	0:33:05.090000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:05.090000" end="0:33:06.439000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:05.090000" end="0:33:06.439000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:06.439000" end="0:33:14.030000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:06.439000" end="0:33:14.030000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:33:06.439000	0:33:08.621000
 da	-	-	-	0:33:06.439000	0:33:08.621000
 sind	-	-	-	0:33:06.439000	0:33:08.621000
@@ -4782,12 +4782,12 @@ schon	-	-	-	0:33:08.621000	0:33:14.030000
 sehr	-	-	-	0:33:08.621000	0:33:14.030000
 /.	-	-	-	0:33:08.621000	0:33:14.030000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:08.621000" end="0:33:14.030000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:08.621000" end="0:33:14.030000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:14.030000" end="0:33:15.242000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:14.030000" end="0:33:15.242000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:14.030000" end="0:33:20.651000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:14.030000" end="0:33:20.651000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	-	-	-	0:33:15.242000	0:33:16.166000
 ,	-	-	-	0:33:15.242000	0:33:16.166000
@@ -4808,18 +4808,18 @@ sa/	-	-	-	0:33:16.166000	0:33:20.651000
 ist	-	-	-	0:33:16.166000	0:33:20.651000
 .	-	-	-	0:33:16.166000	0:33:20.651000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:20.651000" end="0:33:22.790000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:20.651000" end="0:33:22.790000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:20.651000" end="0:33:22.790000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:20.651000" end="0:33:22.790000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:22.790000" end="0:33:24.104000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:22.790000" end="0:33:24.104000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:22.790000	0:33:24.104000
 eh	-	-	-	0:33:22.790000	0:33:24.104000
 .	-	-	-	0:33:22.790000	0:33:24.104000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:24.104000" end="0:33:31.180000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:24.104000" end="0:33:31.180000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 aber	-	-	-	0:33:24.104000	0:33:27.802000
 immer	-	-	-	0:33:24.104000	0:33:27.802000
@@ -4841,10 +4841,10 @@ ist	-	-	-	0:33:27.802000	0:33:31.180000
 schon	-	-	-	0:33:27.802000	0:33:31.180000
 /.	-	-	-	0:33:27.802000	0:33:31.180000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:31.180000" end="0:33:33.569000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:31.180000" end="0:33:33.569000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:31.180000" end="0:33:37.825000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:31.180000" end="0:33:37.825000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 auf	-	-	-	0:33:33.569000	0:33:34.674000
 Urlaub	-	-	-	0:33:33.569000	0:33:34.674000
@@ -4865,13 +4865,13 @@ da	-	-	-	0:33:36.377000	0:33:37.825000
 alles	-	-	-	0:33:36.377000	0:33:37.825000
 ?	-	-	-	0:33:36.377000	0:33:37.825000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:37.825000" end="0:33:39.575000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:37.825000" end="0:33:39.575000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:37.825000" end="0:33:39.575000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:37.825000" end="0:33:39.575000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:39.575000" end="0:33:44.122000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:39.575000" end="0:33:44.122000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:39.575000	0:33:41.575000
 ,	-	-	-	0:33:39.575000	0:33:41.575000
 Montag	-	-	-	0:33:39.575000	0:33:41.575000
@@ -4883,10 +4883,10 @@ und	-	-	-	0:33:41.575000	0:33:42.720000
 da	-	-	-	0:33:41.575000	0:33:42.720000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:42.720000" end="0:33:44.122000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:42.720000" end="0:33:44.122000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:44.122000" end="0:33:50.255000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:44.122000" end="0:33:50.255000" project="PP03" age_lower="18" age_upper="35">
 weiß	-	-	-	0:33:44.122000	0:33:45.598000
 ich	-	-	-	0:33:44.122000	0:33:45.598000
 nicht	-	-	-	0:33:44.122000	0:33:45.598000
@@ -4910,7 +4910,7 @@ machen	-	-	-	0:33:47.761000	0:33:50.255000
 wir	-	-	-	0:33:47.761000	0:33:50.255000
 /.	-	-	-	0:33:47.761000	0:33:50.255000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:47.761000" end="0:33:51.139000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:47.761000" end="0:33:51.139000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 das	-	-	-	0:33:47.761000	0:33:50.255000
 Musical	-	-	-	0:33:47.761000	0:33:50.255000
@@ -4919,16 +4919,16 @@ das	-	-	-	0:33:50.255000	0:33:51.139000
 Musical	-	-	-	0:33:50.255000	0:33:51.139000
 ?	-	-	-	0:33:50.255000	0:33:51.139000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:51.139000" end="0:33:51.720000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:51.139000" end="0:33:51.720000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:51.139000	0:33:51.720000
 .	-	-	-	0:33:51.139000	0:33:51.720000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:51.720000" end="0:33:53.244000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:51.720000" end="0:33:53.244000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 mhm	-	-	-	0:33:51.720000	0:33:53.244000
 .	-	-	-	0:33:51.720000	0:33:53.244000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:53.244000" end="0:33:59.668000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:53.244000" end="0:33:59.668000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:33:53.244000	0:33:55.343000
 machen	-	-	-	0:33:53.244000	0:33:55.343000
 wir	-	-	-	0:33:53.244000	0:33:55.343000
@@ -4949,14 +4949,14 @@ einem	-	-	-	0:33:57.383000	0:33:59.668000
 Schiff	-	-	-	0:33:57.383000	0:33:59.668000
 .	-	-	-	0:33:57.383000	0:33:59.668000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:57.383000" end="0:33:59.668000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:57.383000" end="0:33:59.668000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 was	-	-	-	0:33:57.383000	0:33:59.668000
 eine	-	-	-	0:33:57.383000	0:33:59.668000
 Lichterrundfahrt	-	-	-	0:33:57.383000	0:33:59.668000
 ?	-	-	-	0:33:57.383000	0:33:59.668000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:59.668000" end="0:34:03.441000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:59.668000" end="0:34:03.441000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	-	-	-	0:33:59.668000	0:34:02.093000
 durch	-	-	-	0:33:59.668000	0:34:02.093000
@@ -4965,38 +4965,38 @@ Hafen	-	-	-	0:33:59.668000	0:34:02.093000
 .	-	-	-	0:33:59.668000	0:34:02.093000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:02.093000" end="0:34:04.837000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:02.093000" end="0:34:04.837000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 (Lichterschifffahrt)	-	-	-	0:34:03.441000	0:34:04.837000
 ?	-	-	-	0:34:03.441000	0:34:04.837000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:04.837000" end="0:34:05.302000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:04.837000" end="0:34:05.302000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:04.837000	0:34:05.302000
 .	-	-	-	0:34:04.837000	0:34:05.302000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:05.302000" end="0:34:07.162000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:05.302000" end="0:34:07.162000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 mit	-	-	-	0:34:05.302000	0:34:07.162000
 Kerzen	-	-	-	0:34:05.302000	0:34:07.162000
 ?	-	-	-	0:34:05.302000	0:34:07.162000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:07.162000" end="0:34:08.831000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:07.162000" end="0:34:08.831000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:07.162000" end="0:34:08.831000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:07.162000" end="0:34:08.831000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:08.831000" end="0:34:13.790000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:08.831000" end="0:34:13.790000" project="PP03" age_lower="18" age_upper="35">
 weiß	-	-	-	0:34:08.831000	0:34:09.708000
 ich	-	-	-	0:34:08.831000	0:34:09.708000
 nicht	-	-	-	0:34:08.831000	0:34:09.708000
 .	-	-	-	0:34:08.831000	0:34:09.708000
 <pause duration="4,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:09.708000" end="0:34:13.790000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:09.708000" end="0:34:13.790000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:13.790000" end="0:34:18.661000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:13.790000" end="0:34:18.661000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:34:13.790000	0:34:15.284000
 weiß	-	-	-	0:34:13.790000	0:34:15.284000
 ich	-	-	-	0:34:13.790000	0:34:15.284000
@@ -5012,10 +5012,10 @@ Museen	-	-	-	0:34:15.284000	0:34:17.465000
 .	-	-	-	0:34:15.284000	0:34:17.465000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:17.465000" end="0:34:18.661000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:17.465000" end="0:34:18.661000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:18.661000" end="0:34:23.110000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:18.661000" end="0:34:23.110000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:34:18.661000	0:34:20.156000
 werden	-	-	-	0:34:18.661000	0:34:20.156000
 wir	-	-	-	0:34:18.661000	0:34:20.156000
@@ -5032,10 +5032,10 @@ Schokoladenfabrik	-	-	-	0:34:20.156000	0:34:21.940000
 .	-	-	-	0:34:20.156000	0:34:21.940000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:21.940000" end="0:34:23.110000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:21.940000" end="0:34:23.110000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:23.110000" end="0:34:26" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:23.110000" end="0:34:26" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:34:23.110000	0:34:24.795000
 gehen	-	-	-	0:34:23.110000	0:34:24.795000
 wir	-	-	-	0:34:23.110000	0:34:24.795000
@@ -5046,10 +5046,10 @@ hin	-	-	-	0:34:23.110000	0:34:24.795000
 .	-	-	-	0:34:23.110000	0:34:24.795000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:24.795000" end="0:34:26" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:24.795000" end="0:34:26" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:26" end="0:34:32.621000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:26" end="0:34:32.621000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:34:26	0:34:28.132000
 davor	-	-	-	0:34:26	0:34:28.132000
 gehen	-	-	-	0:34:26	0:34:28.132000
@@ -5059,26 +5059,26 @@ Hofbräuhaus	-	-	-	0:34:26	0:34:28.132000
 .	-	-	-	0:34:26	0:34:28.132000
 <pause duration="4,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:28.132000" end="0:34:32.621000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:28.132000" end="0:34:32.621000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:32.621000" end="0:34:34.411000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:32.621000" end="0:34:34.411000" project="PP03" age_lower="18" age_upper="35">
 ein	-	-	-	0:34:32.621000	0:34:34.411000
 paar	-	-	-	0:34:32.621000	0:34:34.411000
 Bier	-	-	-	0:34:32.621000	0:34:34.411000
 trinken	-	-	-	0:34:32.621000	0:34:34.411000
 .	-	-	-	0:34:32.621000	0:34:34.411000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:32.621000" end="0:34:34.411000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:32.621000" end="0:34:34.411000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:32.621000	0:34:34.411000
 ,	-	-	-	0:34:32.621000	0:34:34.411000
 aber	-	-	-	0:34:32.621000	0:34:34.411000
 /.	-	-	-	0:34:32.621000	0:34:34.411000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:34.411000" end="0:34:35.487000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:34.411000" end="0:34:35.487000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:34.411000" end="0:34:37.179000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:34.411000" end="0:34:37.179000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 *habts*	-	-	-	0:34:35.487000	0:34:37.179000
 ihr	-	-	-	0:34:35.487000	0:34:37.179000
@@ -5088,12 +5088,12 @@ Reisebüro	-	-	-	0:34:35.487000	0:34:37.179000
 gebucht	-	-	-	0:34:35.487000	0:34:37.179000
 ?	-	-	-	0:34:35.487000	0:34:37.179000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:37.179000" end="0:34:38.331000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:37.179000" end="0:34:38.331000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	-	-	-	0:34:37.179000	0:34:38.331000
 .	-	-	-	0:34:37.179000	0:34:38.331000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:38.331000" end="0:34:40.808000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:38.331000" end="0:34:40.808000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 die	-	-	-	0:34:38.331000	0:34:40.808000
 Führung	-	-	-	0:34:38.331000	0:34:40.808000
@@ -5102,12 +5102,12 @@ im	-	-	-	0:34:38.331000	0:34:40.808000
 Schokoladenfabrik	-	-	-	0:34:38.331000	0:34:40.808000
 ?	-	-	-	0:34:38.331000	0:34:40.808000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:40.808000" end="0:34:43.250000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:40.808000" end="0:34:43.250000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:34:40.808000	0:34:41.784000
 .	-	-	-	0:34:40.808000	0:34:41.784000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:41.784000" end="0:34:44.987000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:41.784000" end="0:34:44.987000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 nur	-	-	-	0:34:43.250000	0:34:44.284000
 die	-	-	-	0:34:43.250000	0:34:44.284000
@@ -5119,7 +5119,7 @@ das	-	-	-	0:34:44.284000	0:34:44.987000
 Musical	-	-	-	0:34:44.284000	0:34:44.987000
 .	-	-	-	0:34:44.284000	0:34:44.987000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:44.987000" end="0:34:50.029000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:44.987000" end="0:34:50.029000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:44.987000	0:34:47.406000
 ,	-	-	-	0:34:44.987000	0:34:47.406000
 Reise	-	-	-	0:34:44.987000	0:34:47.406000
@@ -5130,7 +5130,7 @@ Lichterrundfahrt	-	-	-	0:34:44.987000	0:34:47.406000
 .	-	-	-	0:34:44.987000	0:34:47.406000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:47.406000" end="0:34:52.226000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:47.406000" end="0:34:52.226000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 und	-	-	-	0:34:50.029000	0:34:52.226000
 die	-	-	-	0:34:50.029000	0:34:52.226000
@@ -5141,13 +5141,13 @@ schon	-	-	-	0:34:50.029000	0:34:52.226000
 gebucht	-	-	-	0:34:50.029000	0:34:52.226000
 ?	-	-	-	0:34:50.029000	0:34:52.226000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:52.226000" end="0:34:53.348000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:52.226000" end="0:34:53.348000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:52.226000" end="0:34:53.348000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:52.226000" end="0:34:53.348000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:53.348000" end="0:34:56.860000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:53.348000" end="0:34:56.860000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:34:53.348000	0:34:54.976000
 ,	-	-	-	0:34:53.348000	0:34:54.976000
 das	-	-	-	0:34:53.348000	0:34:54.976000
@@ -5163,11 +5163,11 @@ die	-	-	-	0:34:54.976000	0:34:56.860000
 Hamburgcard	-	-	-	0:34:54.976000	0:34:56.860000
 und	-	-	-	0:34:54.976000	0:34:56.860000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:54.976000" end="0:34:56.860000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:54.976000" end="0:34:56.860000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:54.976000	0:34:56.860000
 .	-	-	-	0:34:54.976000	0:34:56.860000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:56.860000" end="0:35:02.581000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:56.860000" end="0:35:02.581000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mit	-	-	-	0:34:56.860000	0:35:00.302000
 der	-	-	-	0:34:56.860000	0:35:00.302000
@@ -5180,14 +5180,14 @@ buchen	-	-	-	0:34:56.860000	0:35:00.302000
 .	-	-	-	0:34:56.860000	0:35:00.302000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:00.302000" end="0:35:02.581000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:00.302000" end="0:35:02.581000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:02.581000" end="0:35:03.156000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:02.581000" end="0:35:03.156000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:35:02.581000	0:35:03.156000
 .	-	-	-	0:35:02.581000	0:35:03.156000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:03.156000" end="0:35:11.598000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:03.156000" end="0:35:11.598000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 weil	-	-	-	0:35:03.156000	0:35:06.569000
 wahrscheinlich	-	-	-	0:35:03.156000	0:35:06.569000
@@ -5215,39 +5215,39 @@ lang	-	-	-	0:35:09.848000	0:35:11.598000
 da	-	-	-	0:35:09.848000	0:35:11.598000
 ?	-	-	-	0:35:09.848000	0:35:11.598000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:11.598000" end="0:35:13.709000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:11.598000" end="0:35:13.709000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:11.598000" end="0:35:13.709000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:11.598000" end="0:35:13.709000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:13.709000" end="0:35:16.093000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:13.709000" end="0:35:16.093000" project="PP03" age_lower="18" age_upper="35">
 vier	-	-	-	0:35:13.709000	0:35:14.604000
 Tage	-	-	-	0:35:13.709000	0:35:14.604000
 .	-	-	-	0:35:13.709000	0:35:14.604000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:14.604000" end="0:35:17.372000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:14.604000" end="0:35:17.372000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 das	-	-	-	0:35:16.093000	0:35:17.372000
 heißt	-	-	-	0:35:16.093000	0:35:17.372000
 ,	-	-	-	0:35:16.093000	0:35:17.372000
 bis	-	-	-	0:35:16.093000	0:35:17.372000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:17.372000" end="0:35:20.988000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:17.372000" end="0:35:20.988000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:17.372000" end="0:35:21.889000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:17.372000" end="0:35:21.889000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 Donnerstag	-	-	-	0:35:20.988000	0:35:21.889000
 .	-	-	-	0:35:20.988000	0:35:21.889000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:21.889000" end="0:35:27.534000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:21.889000" end="0:35:27.534000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:21.889000	0:35:22.552000
 .	-	-	-	0:35:21.889000	0:35:22.552000
 <pause duration="5,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:22.552000" end="0:35:32.750000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:22.552000" end="0:35:32.750000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,0s"/>
 ja	-	-	-	0:35:27.534000	0:35:28.808000
 ,	-	-	-	0:35:27.534000	0:35:28.808000
@@ -5271,10 +5271,10 @@ mehr	-	-	-	0:35:28.808000	0:35:32.750000
 mehr	-	-	-	0:35:28.808000	0:35:32.750000
 ,	-	-	-	0:35:28.808000	0:35:32.750000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:32.750000" end="0:35:36.604000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:32.750000" end="0:35:36.604000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:32.750000" end="0:35:39.459000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:32.750000" end="0:35:39.459000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 boah	-	-	-	0:35:36.604000	0:35:39.459000
 ,	-	-	-	0:35:36.604000	0:35:39.459000
@@ -5293,17 +5293,17 @@ schon	-	-	-	0:35:36.604000	0:35:39.459000
 müde	-	-	-	0:35:36.604000	0:35:39.459000
 .	-	-	-	0:35:36.604000	0:35:39.459000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:39.459000" end="0:35:41.459000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:39.459000" end="0:35:41.459000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:39.459000" end="0:35:41.459000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:39.459000" end="0:35:41.459000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:41.459000" end="0:35:43.337000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:41.459000" end="0:35:43.337000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:41.459000	0:35:43.337000
 .	-	-	-	0:35:41.459000	0:35:43.337000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:43.337000" end="0:35:46.558000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:43.337000" end="0:35:46.558000" project="PP03" age_lower="18" age_upper="35">
 du	-	-	-	0:35:43.337000	0:35:45.197000
 hast	-	-	-	0:35:43.337000	0:35:45.197000
 ja	-	-	-	0:35:43.337000	0:35:45.197000
@@ -5316,7 +5316,7 @@ was	-	-	-	0:35:45.197000	0:35:46.558000
 gearbeitet	-	-	-	0:35:45.197000	0:35:46.558000
 .	-	-	-	0:35:45.197000	0:35:46.558000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:46.558000" end="0:35:49.209000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:46.558000" end="0:35:49.209000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 wann	-	-	-	0:35:46.558000	0:35:49.209000
 habe	-	-	-	0:35:46.558000	0:35:49.209000
@@ -5325,18 +5325,18 @@ jetzt	-	-	-	0:35:46.558000	0:35:49.209000
 geschlafen	-	-	-	0:35:46.558000	0:35:49.209000
 ?	-	-	-	0:35:46.558000	0:35:49.209000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:49.209000" end="0:35:50.709000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:49.209000" end="0:35:50.709000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 vorher	-	-	-	0:35:49.209000	0:35:50.709000
 gerade	-	-	-	0:35:49.209000	0:35:50.709000
 .	-	-	-	0:35:49.209000	0:35:50.709000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:50.709000" end="0:35:51.930000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:50.709000" end="0:35:51.930000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 nein	-	-	-	0:35:50.709000	0:35:51.930000
 .	-	-	-	0:35:50.709000	0:35:51.930000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:51.930000" end="0:35:53.930000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:51.930000" end="0:35:53.930000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 was	-	-	-	0:35:51.930000	0:35:53.930000
 *hast*	-	-	-	0:35:51.930000	0:35:53.930000
@@ -5344,11 +5344,11 @@ denn	-	-	-	0:35:51.930000	0:35:53.930000
 gemacht	-	-	-	0:35:51.930000	0:35:53.930000
 ?	-	-	-	0:35:51.930000	0:35:53.930000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:53.930000" end="0:35:54.819000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:53.930000" end="0:35:54.819000" project="PP03" age_lower="18" age_upper="35">
 gefernseht	-	-	-	0:35:53.930000	0:35:54.819000
 .	-	-	-	0:35:53.930000	0:35:54.819000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:54.819000" end="0:35:57.005000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:54.819000" end="0:35:57.005000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:35:54.819000	0:35:57.005000
 ,	-	-	-	0:35:54.819000	0:35:57.005000
@@ -5358,13 +5358,13 @@ fast	-	-	-	0:35:54.819000	0:35:57.005000
 dasselbe	-	-	-	0:35:54.819000	0:35:57.005000
 .	-	-	-	0:35:54.819000	0:35:57.005000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:57.005000" end="0:36:00.052000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:57.005000" end="0:36:00.052000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:57.005000" end="0:36:00.052000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:57.005000" end="0:36:00.052000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:00.052000" end="0:36:03.156000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:00.052000" end="0:36:03.156000" project="PP03" age_lower="18" age_upper="35">
 ma	-	-	-	0:36:00.052000	0:36:03.156000
 ,	-	-	-	0:36:00.052000	0:36:03.156000
 mein	-	-	-	0:36:00.052000	0:36:03.156000
@@ -5374,13 +5374,13 @@ so	-	-	-	0:36:00.052000	0:36:03.156000
 weh	-	-	-	0:36:00.052000	0:36:03.156000
 .	-	-	-	0:36:00.052000	0:36:03.156000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:03.156000" end="0:36:04.720000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:03.156000" end="0:36:04.720000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 von	-	-	-	0:36:03.156000	0:36:04.720000
 was	-	-	-	0:36:03.156000	0:36:04.720000
 ?	-	-	-	0:36:03.156000	0:36:04.720000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:04.720000" end="0:36:10.656000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:04.720000" end="0:36:10.656000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 weiß	-	-	-	0:36:04.720000	0:36:06.720000
 ich	-	-	-	0:36:04.720000	0:36:06.720000
@@ -5388,10 +5388,10 @@ nicht	-	-	-	0:36:04.720000	0:36:06.720000
 .	-	-	-	0:36:04.720000	0:36:06.720000
 <pause duration="3,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:06.720000" end="0:36:10.656000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:06.720000" end="0:36:10.656000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:10.656000" end="0:36:12.046000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:10.656000" end="0:36:12.046000" project="PP03" age_lower="18" age_upper="35">
 haben	-	-	-	0:36:10.656000	0:36:12.046000
 wir	-	-	-	0:36:10.656000	0:36:12.046000
 keine	-	-	-	0:36:10.656000	0:36:12.046000
@@ -5399,20 +5399,20 @@ Zettel	-	-	-	0:36:10.656000	0:36:12.046000
 mehr	-	-	-	0:36:10.656000	0:36:12.046000
 ?	-	-	-	0:36:10.656000	0:36:12.046000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:12.046000" end="0:36:13.261000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:12.046000" end="0:36:13.261000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 oh	-	-	-	0:36:12.046000	0:36:13.261000
 ja	-	-	-	0:36:12.046000	0:36:13.261000
 .	-	-	-	0:36:12.046000	0:36:13.261000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:13.261000" end="0:36:15.261000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:13.261000" end="0:36:15.261000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	-	-	-	0:36:13.261000	0:36:15.261000
 ,	-	-	-	0:36:13.261000	0:36:15.261000
 dann	-	-	-	0:36:13.261000	0:36:15.261000
 .	-	-	-	0:36:13.261000	0:36:15.261000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:15.261000" end="0:36:17.261000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:15.261000" end="0:36:17.261000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 aber	-	-	-	0:36:15.261000	0:36:17.261000
 nicht	-	-	-	0:36:15.261000	0:36:17.261000
@@ -5420,7 +5420,7 @@ mehr	-	-	-	0:36:15.261000	0:36:17.261000
 viel	-	-	-	0:36:15.261000	0:36:17.261000
 .	-	-	-	0:36:15.261000	0:36:17.261000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:17.261000" end="0:36:29.191000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:17.261000" end="0:36:29.191000" project="PP03" age_lower="18" age_upper="35">
 welche	-	-	-	0:36:17.261000	0:36:18.947000
 drei	-	-	-	0:36:17.261000	0:36:18.947000
 Wünsche	-	-	-	0:36:17.261000	0:36:18.947000
@@ -5428,7 +5428,7 @@ Wünsche	-	-	-	0:36:17.261000	0:36:18.947000
 ?	-	-	-	0:36:17.261000	0:36:18.947000
 <pause duration="10,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:18.947000" end="0:36:33.977000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:18.947000" end="0:36:33.977000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="10,3s"/>
 finanziell	-	-	-	0:36:29.191000	0:36:31.191000
 immer	-	-	-	0:36:29.191000	0:36:31.191000
@@ -5443,20 +5443,20 @@ das	-	-	-	0:36:31.195000	0:36:33.977000
 wichtigste	-	-	-	0:36:31.195000	0:36:33.977000
 .	-	-	-	0:36:31.195000	0:36:33.977000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:33.977000" end="0:36:36.172000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:33.977000" end="0:36:36.172000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:33.977000" end="0:36:37.781000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:33.977000" end="0:36:37.781000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 und	-	-	-	0:36:36.172000	0:36:37.781000
 ,	-	-	-	0:36:36.172000	0:36:37.781000
 ja	-	-	-	0:36:36.172000	0:36:37.781000
 .	-	-	-	0:36:36.172000	0:36:37.781000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:37.781000" end="0:36:39.781000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:37.781000" end="0:36:39.781000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:37.781000" end="0:36:43.264000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:37.781000" end="0:36:43.264000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 ein	-	-	-	0:36:39.781000	0:36:42.011000
 schönes	-	-	-	0:36:39.781000	0:36:42.011000
@@ -5465,15 +5465,15 @@ haben	-	-	-	0:36:39.781000	0:36:42.011000
 ,	-	-	-	0:36:39.781000	0:36:42.011000
 sozial	-	-	-	0:36:42.011000	0:36:43.264000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:43.264000" end="0:36:45.149000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:43.264000" end="0:36:45.149000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:43.264000" end="0:36:46.494000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:43.264000" end="0:36:46.494000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 Sozialleben	-	-	-	0:36:45.149000	0:36:46.494000
 .	-	-	-	0:36:45.149000	0:36:46.494000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:46.494000" end="0:36:51.057000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:46.494000" end="0:36:51.057000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:36:46.494000	0:36:48.195000
 heißt	-	-	-	0:36:46.494000	0:36:48.195000
 ,	-	-	-	0:36:46.494000	0:36:48.195000
@@ -5486,7 +5486,7 @@ zehntausend	-	-	-	0:36:48.195000	0:36:49.885000
 .	-	-	-	0:36:48.195000	0:36:49.885000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:49.885000" end="0:36:52.643000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:49.885000" end="0:36:52.643000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 das	-	-	-	0:36:51.057000	0:36:52.643000
 is/	-	-	-	0:36:51.057000	0:36:52.643000
@@ -5494,7 +5494,7 @@ jetzt	-	-	-	0:36:51.057000	0:36:52.643000
 drei	-	-	-	0:36:51.057000	0:36:52.643000
 .	-	-	-	0:36:51.057000	0:36:52.643000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:52.642000" end="0:36:54.930000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:52.642000" end="0:36:54.930000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 ja	-	-	-	0:36:52.642000	0:36:54.930000
 ,	-	-	-	0:36:52.642000	0:36:54.930000
@@ -5506,35 +5506,35 @@ weiter	-	-	-	0:36:52.642000	0:36:54.930000
 geredet	-	-	-	0:36:52.642000	0:36:54.930000
 .	-	-	-	0:36:52.642000	0:36:54.930000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:54.930000" end="0:36:56.040000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:54.930000" end="0:36:56.040000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:36:54.930000	0:36:56.040000
 .	-	-	-	0:36:54.930000	0:36:56.040000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:56.040000" end="0:36:57.894000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:56.040000" end="0:36:57.894000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 doch	-	-	-	0:36:56.040000	0:36:57.894000
 .	-	-	-	0:36:56.040000	0:36:57.894000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:56.040000" end="0:36:57.894000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:56.040000" end="0:36:57.894000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 und	-	-	-	0:36:56.040000	0:36:57.894000
 deine	-	-	-	0:36:56.040000	0:36:57.894000
 ?	-	-	-	0:36:56.040000	0:36:57.894000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:57.894000" end="0:36:59.788000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:57.894000" end="0:36:59.788000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:57.894000" end="0:36:59.788000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:57.894000" end="0:36:59.788000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:59.788000" end="0:37:04.284000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:59.788000" end="0:37:04.284000" project="PP03" age_lower="18" age_upper="35">
 einen	-	-	-	0:37:02.467000	0:37:04.284000
 Traumberuf	-	-	-	0:37:02.467000	0:37:04.284000
 haben	-	-	-	0:37:02.467000	0:37:04.284000
 .	-	-	-	0:37:02.467000	0:37:04.284000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:04.284000" end="0:37:06.313000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:04.284000" end="0:37:06.313000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 was	-	-	-	0:37:04.284000	0:37:06.313000
 ist	-	-	-	0:37:04.284000	0:37:06.313000
@@ -5542,7 +5542,7 @@ ein	-	-	-	0:37:04.284000	0:37:06.313000
 Traumberuf	-	-	-	0:37:04.284000	0:37:06.313000
 ?	-	-	-	0:37:04.284000	0:37:06.313000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:06.313000" end="0:37:11" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:06.313000" end="0:37:11" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:37:06.313000	0:37:07.747000
 ,	-	-	-	0:37:06.313000	0:37:07.747000
@@ -5555,10 +5555,10 @@ verdienst	-	-	-	0:37:07.747000	0:37:09.235000
 .	-	-	-	0:37:07.747000	0:37:09.235000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:09.235000" end="0:37:11" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:09.235000" end="0:37:11" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:11" end="0:37:17.784000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:11" end="0:37:17.784000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:37:11	0:37:12.455000
 die	-	-	-	0:37:11	0:37:12.455000
 Arbeit	-	-	-	0:37:11	0:37:12.455000
@@ -5566,7 +5566,7 @@ gefällt	-	-	-	0:37:11	0:37:12.455000
 .	-	-	-	0:37:11	0:37:12.455000
 <pause duration="5,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:12.455000" end="0:37:19.040000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:12.455000" end="0:37:19.040000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,3s"/>
 nicht	-	-	-	0:37:17.784000	0:37:19.040000
 viel	-	-	-	0:37:17.784000	0:37:19.040000
@@ -5574,19 +5574,19 @@ _hackeln_	-	-	-	0:37:17.784000	0:37:19.040000
 musst	-	-	-	0:37:17.784000	0:37:19.040000
 .	-	-	-	0:37:17.784000	0:37:19.040000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:19.040000" end="0:37:20.772000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:19.040000" end="0:37:20.772000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:19.040000" end="0:37:20.772000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:19.040000" end="0:37:20.772000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:20.772000" end="0:37:23.528000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:20.772000" end="0:37:23.528000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:37:20.772000	0:37:21.853000
 ja	-	-	-	0:37:20.772000	0:37:21.853000
 .	-	-	-	0:37:20.772000	0:37:21.853000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:21.853000" end="0:37:24.686000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:21.853000" end="0:37:24.686000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 nein	-	-	-	0:37:23.528000	0:37:24.686000
 ,	-	-	-	0:37:23.528000	0:37:24.686000
@@ -5595,38 +5595,38 @@ ein	-	-	-	0:37:23.528000	0:37:24.686000
 Spaß	-	-	-	0:37:23.528000	0:37:24.686000
 .	-	-	-	0:37:23.528000	0:37:24.686000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:24.686000" end="0:37:28.105000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:24.686000" end="0:37:28.105000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:24.686000" end="0:37:29.081000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:24.686000" end="0:37:29.081000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 mhm	-	-	-	0:37:28.105000	0:37:29.081000
 .	-	-	-	0:37:28.105000	0:37:29.081000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:29.081000" end="0:37:33.044000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:29.081000" end="0:37:33.044000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:29.081000" end="0:37:33.044000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:29.081000" end="0:37:33.044000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:33.044000" end="0:37:46.971000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:33.044000" end="0:37:46.971000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:33.044000	0:37:33.682000
 .	-	-	-	0:37:33.044000	0:37:33.682000
 <pause duration="13,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:33.683000" end="0:37:46.971000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:33.683000" end="0:37:46.971000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="13,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:46.971000" end="0:37:52.420000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:46.971000" end="0:37:52.420000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 ((unzufriedenes	-	-	-	0:37:46.971000	0:37:50.319000
 Geräusch))	-	-	-	0:37:46.971000	0:37:50.319000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:50.319000" end="0:37:52.420000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:50.319000" end="0:37:52.420000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:52.420000" end="0:37:58.422000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:52.420000" end="0:37:58.422000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:52.420000	0:37:53.943000
 ,	-	-	-	0:37:52.420000	0:37:53.943000
 das	-	-	-	0:37:52.420000	0:37:53.943000
@@ -5637,24 +5637,24 @@ Wunsch	-	-	-	0:37:52.420000	0:37:53.943000
 .	-	-	-	0:37:52.420000	0:37:53.943000
 <pause duration="4,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:53.941000" end="0:37:58.422000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:53.941000" end="0:37:58.422000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:58.422000" end="0:38:00.967000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:58.422000" end="0:38:00.967000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:37:58.422000	0:37:59.417000
 ,	-	-	-	0:37:58.422000	0:37:59.417000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:59.417000" end="0:38:00.967000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:59.417000" end="0:38:00.967000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:00.967000" end="0:38:02.967000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:00.967000" end="0:38:02.967000" project="PP03" age_lower="18" age_upper="35">
 ein	-	-	-	0:38:00.967000	0:38:02.967000
 glückliches	-	-	-	0:38:00.967000	0:38:02.967000
 Familienleben	-	-	-	0:38:00.967000	0:38:02.967000
 .	-	-	-	0:38:00.967000	0:38:02.967000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:02.967000" end="0:38:04.967000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:02.967000" end="0:38:04.967000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 du	-	-	-	0:38:02.967000	0:38:04.967000
 kannst	-	-	-	0:38:02.967000	0:38:04.967000
@@ -5665,7 +5665,7 @@ ich	-	-	-	0:38:02.967000	0:38:04.967000
 haben	-	-	-	0:38:02.967000	0:38:04.967000
 .	-	-	-	0:38:02.967000	0:38:04.967000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:04.967000" end="0:38:09.577000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:04.967000" end="0:38:09.577000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 doch	-	-	-	0:38:04.967000	0:38:07.475000
 ,	-	-	-	0:38:04.967000	0:38:07.475000
@@ -5678,18 +5678,18 @@ jeder	-	-	-	0:38:04.967000	0:38:07.475000
 .	-	-	-	0:38:04.967000	0:38:07.475000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:07.475000" end="0:38:09.577000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:07.475000" end="0:38:09.577000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:09.577000" end="0:38:15.171000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:09.577000" end="0:38:15.171000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:38:09.577000	0:38:10.497000
 .	-	-	-	0:38:09.577000	0:38:10.497000
 <pause duration="4,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:10.497000" end="0:38:15.171000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:10.497000" end="0:38:15.171000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:15.171000" end="0:38:18.529000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:15.171000" end="0:38:18.529000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:15.171000	0:38:16.764000
 ,	-	-	-	0:38:15.171000	0:38:16.764000
 was	-	-	-	0:38:15.171000	0:38:16.764000
@@ -5699,10 +5699,10 @@ noch	-	-	-	0:38:15.171000	0:38:16.764000
 ?	-	-	-	0:38:15.171000	0:38:16.764000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:16.764000" end="0:38:18.529000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:16.764000" end="0:38:18.529000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:18.529000" end="0:38:25.433000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:18.529000" end="0:38:25.433000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:38:18.529000	0:38:20.572000
 allgemeine	-	-	-	0:38:18.529000	0:38:20.572000
 Zufriedenheit	-	-	-	0:38:18.529000	0:38:20.572000
@@ -5716,10 +5716,10 @@ bleibt	-	-	-	0:38:21.326000	0:38:24.208000
 .	-	-	-	0:38:21.326000	0:38:24.208000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:24.208000" end="0:38:25.433000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:24.208000" end="0:38:25.433000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:25.433000" end="0:38:31.882000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:25.433000" end="0:38:31.882000" project="PP03" age_lower="18" age_upper="35">
 nicht	-	-	-	0:38:25.433000	0:38:27.005000
 an	-	-	-	0:38:25.433000	0:38:27.005000
 Burnout	-	-	-	0:38:25.433000	0:38:27.005000
@@ -5732,7 +5732,7 @@ oder	-	-	-	0:38:27.005000	0:38:29.320000
 /.	-	-	-	0:38:27.005000	0:38:29.320000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:29.320000" end="0:38:35.064000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:29.320000" end="0:38:35.064000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 also	-	-	-	0:38:31.882000	0:38:35.064000
 eigentlich	-	-	-	0:38:31.882000	0:38:35.064000
@@ -5746,10 +5746,10 @@ Wunsch	-	-	-	0:38:31.882000	0:38:35.064000
 Gesundheit	-	-	-	0:38:31.882000	0:38:35.064000
 .	-	-	-	0:38:31.882000	0:38:35.064000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:35.064000" end="0:38:36.438000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:35.064000" end="0:38:36.438000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:35.064000" end="0:38:40.518000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:35.064000" end="0:38:40.518000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ein	-	-	-	0:38:36.438000	0:38:38.032000
 gutes	-	-	-	0:38:36.438000	0:38:38.032000
@@ -5763,13 +5763,13 @@ noch	-	-	-	0:38:38.032000	0:38:40.518000
 gesagt	-	-	-	0:38:38.032000	0:38:40.518000
 ?	-	-	-	0:38:38.032000	0:38:40.518000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:40.518000" end="0:38:43.941000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:40.518000" end="0:38:43.941000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:40.518000" end="0:38:43.941000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:40.518000" end="0:38:43.941000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:43.941000" end="0:38:46.598000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:43.941000" end="0:38:46.598000" project="PP03" age_lower="18" age_upper="35">
 immer	-	-	-	0:38:43.941000	0:38:45.342000
 genug	-	-	-	0:38:43.941000	0:38:45.342000
 Geld	-	-	-	0:38:43.941000	0:38:45.342000
@@ -5777,7 +5777,7 @@ haben	-	-	-	0:38:43.941000	0:38:45.342000
 .	-	-	-	0:38:43.941000	0:38:45.342000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:45.342000" end="0:38:48.566000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:45.342000" end="0:38:48.566000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ah	-	-	-	0:38:46.598000	0:38:48.566000
 ja	-	-	-	0:38:46.598000	0:38:48.566000
@@ -5787,10 +5787,10 @@ gut	-	-	-	0:38:46.598000	0:38:48.566000
 dastehen	-	-	-	0:38:46.598000	0:38:48.566000
 .	-	-	-	0:38:46.598000	0:38:48.566000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:48.566000" end="0:38:50.037000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:48.566000" end="0:38:50.037000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:48.566000" end="0:38:58.363000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:48.566000" end="0:38:58.363000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 nein	-	-	-	0:38:50.037000	0:38:51.529000
 ,	-	-	-	0:38:50.037000	0:38:51.529000
@@ -5827,10 +5827,10 @@ was	-	-	-	0:38:55.513000	0:38:58.363000
 alles	-	-	-	0:38:55.513000	0:38:58.363000
 .	-	-	-	0:38:55.513000	0:38:58.363000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:58.363000" end="0:38:59.561000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:58.363000" end="0:38:59.561000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:58.363000" end="0:39:03.401000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:58.363000" end="0:39:03.401000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 wäre	-	-	-	0:38:59.561000	0:39:00.925000
 schon	-	-	-	0:38:59.561000	0:39:00.925000
@@ -5844,10 +5844,10 @@ am	-	-	-	0:39:00.925000	0:39:03.401000
 Wörthersee	-	-	-	0:39:00.925000	0:39:03.401000
 .	-	-	-	0:39:00.925000	0:39:03.401000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:03.401000" end="0:39:06.491000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:03.401000" end="0:39:06.491000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:03.401000" end="0:39:08.112000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:03.401000" end="0:39:08.112000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 mit	-	-	-	0:39:06.491000	0:39:08.112000
 einem	-	-	-	0:39:06.491000	0:39:08.112000
@@ -5855,18 +5855,18 @@ fetten	-	-	-	0:39:06.491000	0:39:08.112000
 Motorboot	-	-	-	0:39:06.491000	0:39:08.112000
 .	-	-	-	0:39:06.491000	0:39:08.112000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:08.112000" end="0:39:10.994000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:08.112000" end="0:39:10.994000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:08.112000" end="0:39:10.994000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:08.112000" end="0:39:10.994000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:10.994000" end="0:39:17.075000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:10.994000" end="0:39:17.075000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:10.994000	0:39:11.588000
 .	-	-	-	0:39:10.994000	0:39:11.588000
 <pause duration="5,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:11.587000" end="0:39:21.200000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:11.587000" end="0:39:21.200000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,4s"/>
 immer	-	-	-	0:39:17.075000	0:39:18.587000
 am	-	-	-	0:39:17.075000	0:39:18.587000
@@ -5880,13 +5880,13 @@ ein	-	-	-	0:39:18.587000	0:39:21.200000
 Traum	-	-	-	0:39:18.587000	0:39:21.200000
 .	-	-	-	0:39:18.587000	0:39:21.200000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:21.202000" end="0:39:25.367000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:21.202000" end="0:39:25.367000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:21.202000" end="0:39:25.367000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:21.202000" end="0:39:25.367000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:25.367000" end="0:39:34.208000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:25.367000" end="0:39:34.208000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	-	-	-	0:39:25.367000	0:39:30.050000
 ,	-	-	-	0:39:25.367000	0:39:30.050000
@@ -5901,7 +5901,7 @@ jeden	-	-	-	0:39:25.367000	0:39:30.050000
 .	-	-	-	0:39:25.367000	0:39:30.050000
 <pause duration="4,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:30.050000" end="0:39:38.822000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:30.050000" end="0:39:38.822000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,1s"/>
 ja	-	-	-	0:39:34.208000	0:39:36.208000
 ,	-	-	-	0:39:34.208000	0:39:36.208000
@@ -5922,15 +5922,15 @@ oder	-	-	-	0:39:36.208000	0:39:38.822000
 so	-	-	-	0:39:36.208000	0:39:38.822000
 .	-	-	-	0:39:36.208000	0:39:38.822000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:38.822000" end="0:39:40.322000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:38.822000" end="0:39:40.322000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:38.822000" end="0:39:40.829000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:38.822000" end="0:39:40.829000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 aber	-	-	-	0:39:40.322000	0:39:40.829000
 /.	-	-	-	0:39:40.322000	0:39:40.829000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:40.829000" end="0:39:44.037000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:40.829000" end="0:39:44.037000" project="PP03" age_lower="18" age_upper="35">
 ans	-	-	-	0:39:40.829000	0:39:42.303000
 Meer	-	-	-	0:39:40.829000	0:39:42.303000
 täte	-	-	-	0:39:40.829000	0:39:42.303000
@@ -5945,14 +5945,14 @@ das	-	-	-	0:39:42.303000	0:39:44.037000
 Salzwasser	-	-	-	0:39:42.303000	0:39:44.037000
 .	-	-	-	0:39:42.303000	0:39:44.037000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:42.303000" end="0:39:44.037000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:42.303000" end="0:39:44.037000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:42.303000	0:39:44.037000
 .	-	-	-	0:39:42.303000	0:39:44.037000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:44.037000" end="0:39:45.474000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:44.037000" end="0:39:45.474000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:44.037000" end="0:39:46.943000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:44.037000" end="0:39:46.943000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 da	-	-	-	0:39:45.474000	0:39:46.943000
 ziehe	-	-	-	0:39:45.474000	0:39:46.943000
@@ -5962,35 +5962,35 @@ auf	-	-	-	0:39:45.474000	0:39:46.943000
 einen	-	-	-	0:39:45.474000	0:39:46.943000
 See	-	-	-	0:39:45.474000	0:39:46.943000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:46.943000" end="0:39:48.373000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:46.943000" end="0:39:48.373000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:46.943000" end="0:39:48.373000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:46.943000" end="0:39:48.373000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:48.373000" end="0:39:50.037000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:48.373000" end="0:39:50.037000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:39:48.373000	0:39:50.037000
 angenehmer	-	-	-	0:39:48.373000	0:39:50.037000
 .	-	-	-	0:39:48.373000	0:39:50.037000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:48.373000" end="0:39:50.037000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:48.373000" end="0:39:50.037000" project="PP03" age_lower="18" age_upper="35">
 als	-	-	-	0:39:48.373000	0:39:50.037000
 ans	-	-	-	0:39:48.373000	0:39:50.037000
 Meer	-	-	-	0:39:48.373000	0:39:50.037000
 .	-	-	-	0:39:48.373000	0:39:50.037000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:50.037000" end="0:39:54.639000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:50.037000" end="0:39:54.639000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:50.037000" end="0:39:55.930000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:50.037000" end="0:39:55.930000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,6s"/>
 ja	-	-	-	0:39:54.639000	0:39:55.930000
 .	-	-	-	0:39:54.639000	0:39:55.930000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:55.927000" end="0:40:05.727000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:55.927000" end="0:40:05.727000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="9,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:55.927000" end="0:40:08.467000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:55.927000" end="0:40:08.467000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="9,9s"/>
 weil	-	-	-	0:40:05.725000	0:40:06.868000
 wir	-	-	-	0:40:05.725000	0:40:06.868000
@@ -6004,10 +6004,10 @@ Dialekt	-	-	-	0:40:06.868000	0:40:08.467000
 ja	-	-	-	0:40:06.868000	0:40:08.467000
 ,	-	-	-	0:40:06.868000	0:40:08.467000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:08.467000" end="0:40:09.852000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:08.467000" end="0:40:09.852000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:08.467000" end="0:40:15.020000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:08.467000" end="0:40:15.020000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 vielleicht	-	-	-	0:40:09.852000	0:40:12.771000
 oder	-	-	-	0:40:09.852000	0:40:12.771000
@@ -6024,10 +6024,10 @@ oder	-	-	-	0:40:12.771000	0:40:15.020000
 wegfällt	-	-	-	0:40:12.771000	0:40:15.020000
 .	-	-	-	0:40:12.771000	0:40:15.020000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:15.020000" end="0:40:17.923000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:15.020000" end="0:40:17.923000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:15.020000" end="0:40:20.964000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:15.020000" end="0:40:20.964000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 glaubst/	-	-	-	0:40:17.923000	0:40:20.964000
 *kannst*	-	-	-	0:40:17.923000	0:40:20.964000
@@ -6044,13 +6044,13 @@ in	-	-	-	0:40:17.923000	0:40:20.964000
 gibt	-	-	-	0:40:17.923000	0:40:20.964000
 ?	-	-	-	0:40:17.923000	0:40:20.964000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:20.964000" end="0:40:23.664000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:20.964000" end="0:40:23.664000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:20.964000" end="0:40:23.664000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:20.964000" end="0:40:23.664000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:23.664000" end="0:40:28.050000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:23.664000" end="0:40:28.050000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:40:23.664000	0:40:25.218000
 ja	-	-	-	0:40:23.664000	0:40:25.218000
 ,	-	-	-	0:40:23.664000	0:40:25.218000
@@ -6064,10 +6064,10 @@ schon	-	-	-	0:40:25.218000	0:40:26.822000
 irgendwie	-	-	-	0:40:25.218000	0:40:26.822000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:26.822000" end="0:40:28.050000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:26.822000" end="0:40:28.050000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:28.050000" end="0:40:30.588000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:28.050000" end="0:40:30.588000" project="PP03" age_lower="18" age_upper="35">
 untereinander	-	-	-	0:40:28.050000	0:40:30.588000
 redet	-	-	-	0:40:28.050000	0:40:30.588000
 man	-	-	-	0:40:28.050000	0:40:30.588000
@@ -6077,7 +6077,7 @@ in	-	-	-	0:40:28.050000	0:40:30.588000
 Hochdeutsch	-	-	-	0:40:28.050000	0:40:30.588000
 .	-	-	-	0:40:28.050000	0:40:30.588000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:30.588000" end="0:40:32.456000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:30.588000" end="0:40:32.456000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:40:30.588000	0:40:32.456000
 ,	-	-	-	0:40:30.588000	0:40:32.456000
@@ -6086,7 +6086,7 @@ Wiener	-	-	-	0:40:30.588000	0:40:32.456000
 schon	-	-	-	0:40:30.588000	0:40:32.456000
 .	-	-	-	0:40:30.588000	0:40:32.456000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:32.456000" end="0:40:36.294000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:32.456000" end="0:40:36.294000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:40:32.456000	0:40:35.040000
 ja	-	-	-	0:40:32.456000	0:40:35.040000
 ,	-	-	-	0:40:32.456000	0:40:35.040000
@@ -6101,7 +6101,7 @@ einzigen	-	-	-	0:40:32.456000	0:40:35.040000
 aber	-	-	-	0:40:35.040000	0:40:36.294000
 /.	-	-	-	0:40:35.040000	0:40:36.294000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:35.040000" end="0:40:40.923000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:35.040000" end="0:40:40.923000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:40:35.040000	0:40:36.294000
 gibt	-	-	-	0:40:35.040000	0:40:36.294000
 bei	-	-	-	0:40:36.294000	0:40:38.045000
@@ -6123,13 +6123,13 @@ die	-	-	-	0:40:38.045000	0:40:40.923000
 NAME	NAME	-	-	0:40:38.045000	0:40:40.923000
 .	-	-	-	0:40:38.045000	0:40:40.923000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:40.923000" end="0:40:42.593000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:40.923000" end="0:40:42.593000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:40.923000" end="0:40:42.593000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:40.923000" end="0:40:42.593000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:42.593000" end="0:40:58.340000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:42.593000" end="0:40:58.340000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:42.593000	0:40:44.685000
 ,	-	-	-	0:40:42.593000	0:40:44.685000
 aber	-	-	-	0:40:42.593000	0:40:44.685000
@@ -6166,7 +6166,7 @@ so	-	-	-	0:40:51.791000	0:40:54.177000
 hm	-	-	-	0:40:54.177000	0:40:58.340000
 .	-	-	-	0:40:54.177000	0:40:58.340000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:54.177000" end="0:41:04.248000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:54.177000" end="0:41:04.248000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:54.177000	0:40:58.340000
 ,	-	-	-	0:40:54.177000	0:40:58.340000
 aber	-	-	-	0:40:54.177000	0:40:58.340000
@@ -6201,13 +6201,13 @@ verallgemeinern	-	-	-	0:41:01.187000	0:41:04.248000
 oder	-	-	-	0:41:01.187000	0:41:04.248000
 ?	-	-	-	0:41:01.187000	0:41:04.248000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:04.248000" end="0:41:06.406000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:04.248000" end="0:41:06.406000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:04.248000" end="0:41:06.406000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:04.248000" end="0:41:06.406000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:06.406000" end="0:41:07.807000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:06.406000" end="0:41:07.807000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:06.406000	0:41:07.807000
 ,	-	-	-	0:41:06.406000	0:41:07.807000
 eigentlich	-	-	-	0:41:06.406000	0:41:07.807000
@@ -6215,7 +6215,7 @@ eh	-	-	-	0:41:06.406000	0:41:07.807000
 nicht	-	-	-	0:41:06.406000	0:41:07.807000
 .	-	-	-	0:41:06.406000	0:41:07.807000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:07.807000" end="0:41:12.253000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:07.807000" end="0:41:12.253000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 irgendwie	-	-	-	0:41:07.807000	0:41:09.598000
 <pause duration="1,1s"/>
@@ -6226,7 +6226,7 @@ zwei	-	-	-	0:41:09.598000	0:41:12.253000
 Seiten	-	-	-	0:41:09.598000	0:41:12.253000
 .	-	-	-	0:41:09.598000	0:41:12.253000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:12.253000" end="0:41:23.126000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:12.253000" end="0:41:23.126000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	-	-	-	0:41:12.253000	0:41:14.994000
 ,	-	-	-	0:41:12.253000	0:41:14.994000
@@ -6263,11 +6263,11 @@ einmal	-	-	-	0:41:21.152000	0:41:23.126000
 weg	-	-	-	0:41:21.152000	0:41:23.126000
 ,	-	-	-	0:41:21.152000	0:41:23.126000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:21.152000" end="0:41:23.126000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:21.152000" end="0:41:23.126000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:21.152000	0:41:23.126000
 .	-	-	-	0:41:21.152000	0:41:23.126000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:23.126000" end="0:41:26.969000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:23.126000" end="0:41:26.969000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:41:23.126000	0:41:25.944000
 es	-	-	-	0:41:23.126000	0:41:25.944000
 einfach	-	-	-	0:41:23.126000	0:41:25.944000
@@ -6277,10 +6277,10 @@ wird	-	-	-	0:41:23.126000	0:41:25.944000
 .	-	-	-	0:41:23.126000	0:41:25.944000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:25.944000" end="0:41:26.969000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:25.944000" end="0:41:26.969000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:26.969000" end="0:41:33.197000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:26.969000" end="0:41:33.197000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:41:26.969000	0:41:29.522000
 ist	-	-	-	0:41:26.969000	0:41:29.522000
 der	-	-	-	0:41:26.969000	0:41:29.522000
@@ -6298,10 +6298,10 @@ Jahren	-	-	-	0:41:29.522000	0:41:32.370000
 .	-	-	-	0:41:29.522000	0:41:32.370000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:32.370000" end="0:41:33.197000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:32.370000" end="0:41:33.197000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:33.197000" end="0:41:37.969000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:33.197000" end="0:41:37.969000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:41:33.197000	0:41:34.659000
 habe	-	-	-	0:41:33.197000	0:41:34.659000
 ich	-	-	-	0:41:33.197000	0:41:34.659000
@@ -6312,10 +6312,10 @@ gemeint	-	-	-	0:41:33.197000	0:41:34.659000
 und	-	-	-	0:41:34.659000	0:41:37
 <pause duration="1,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:37" end="0:41:37.969000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:37" end="0:41:37.969000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:37.969000" end="0:41:47.213000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:37.969000" end="0:41:47.213000" project="PP03" age_lower="18" age_upper="35">
 dass	-	-	-	0:41:37.969000	0:41:40.776000
 Hochdeutsch	-	-	-	0:41:37.969000	0:41:40.776000
 irgendwann	-	-	-	0:41:37.969000	0:41:40.776000
@@ -6344,10 +6344,10 @@ nicht	-	-	-	0:41:41.827000	0:41:45.791000
 .	-	-	-	0:41:41.827000	0:41:45.791000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:45.791000" end="0:41:47.213000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:45.791000" end="0:41:47.213000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:47.213000" end="0:41:51.345000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:47.213000" end="0:41:51.345000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:41:47.213000	0:41:49.497000
 wird	-	-	-	0:41:47.213000	0:41:49.497000
 wahrscheinlich	-	-	-	0:41:47.213000	0:41:49.497000
@@ -6359,10 +6359,10 @@ werden	-	-	-	0:41:47.213000	0:41:49.497000
 .	-	-	-	0:41:47.213000	0:41:49.497000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:49.497000" end="0:41:51.345000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:49.497000" end="0:41:51.345000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:51.345000" end="0:41:54.964000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:51.345000" end="0:41:54.964000" project="PP03" age_lower="18" age_upper="35">
 am	-	-	-	0:41:51.345000	0:41:53.345000
 Land	-	-	-	0:41:51.345000	0:41:53.345000
 <pause duration="0,7s"/>
@@ -6371,7 +6371,7 @@ allem	-	-	-	0:41:51.345000	0:41:53.345000
 .	-	-	-	0:41:51.345000	0:41:53.345000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:53.345000" end="0:41:56.248000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:53.345000" end="0:41:56.248000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 was	-	-	-	0:41:54.964000	0:41:56.248000
 wird	-	-	-	0:41:54.964000	0:41:56.248000
@@ -6379,7 +6379,7 @@ mehr	-	-	-	0:41:54.964000	0:41:56.248000
 werden	-	-	-	0:41:54.964000	0:41:56.248000
 ?	-	-	-	0:41:54.964000	0:41:56.248000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:56.248000" end="0:42:01.401000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:56.248000" end="0:42:01.401000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:56.248000	0:41:58.604000
 ,	-	-	-	0:41:56.248000	0:41:58.604000
 dass	-	-	-	0:41:56.248000	0:41:58.604000
@@ -6404,7 +6404,7 @@ Dialekt	-	-	-	0:41:58.604000	0:42:01.401000
 redet	-	-	-	0:41:58.604000	0:42:01.401000
 .	-	-	-	0:41:58.604000	0:42:01.401000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:58.604000" end="0:42:03.472000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:58.604000" end="0:42:03.472000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:58.604000	0:42:01.401000
 .	-	-	-	0:41:58.604000	0:42:01.401000
 <pause duration="0,8s"/>
@@ -6417,7 +6417,7 @@ ehrlich	-	-	-	0:42:01.401000	0:42:03.472000
 gesagt	-	-	-	0:42:01.401000	0:42:03.472000
 .	-	-	-	0:42:01.401000	0:42:03.472000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:03.472000" end="0:42:13.822000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:03.472000" end="0:42:13.822000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:42:03.472000	0:42:05.086000
 dem	-	-	-	0:42:03.472000	0:42:05.086000
 ist	-	-	-	0:42:03.472000	0:42:05.086000
@@ -6435,10 +6435,10 @@ nicht	-	-	-	0:42:05.086000	0:42:08.497000
 so	-	-	-	0:42:05.086000	0:42:08.497000
 <pause duration="5,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:08.497000" end="0:42:13.822000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:08.497000" end="0:42:13.822000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:13.822000" end="0:42:17.025000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:13.822000" end="0:42:17.025000" project="PP03" age_lower="18" age_upper="35">
 weiß	-	-	-	0:42:13.822000	0:42:15.142000
 ich	-	-	-	0:42:13.822000	0:42:15.142000
 nicht	-	-	-	0:42:13.822000	0:42:15.142000
@@ -6446,7 +6446,7 @@ so	-	-	-	0:42:13.822000	0:42:15.142000
 .	-	-	-	0:42:13.822000	0:42:15.142000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:15.142000" end="0:42:25.715000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:15.142000" end="0:42:25.715000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 ja	-	-	-	0:42:17.025000	0:42:20.121000
 ,	-	-	-	0:42:17.025000	0:42:20.121000
@@ -6479,13 +6479,13 @@ der	-	-	-	0:42:24.218000	0:42:25.715000
 ist)	-	-	-	0:42:24.218000	0:42:25.715000
 .	-	-	-	0:42:24.218000	0:42:25.715000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:25.715000" end="0:42:28.786000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:25.715000" end="0:42:28.786000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	-	-	-	0:42:25.715000	0:42:27.360000
 .	-	-	-	0:42:25.715000	0:42:27.360000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:27.360000" end="0:42:30.172000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:27.360000" end="0:42:30.172000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 *bringst*	-	-	-	0:42:28.786000	0:42:30.172000
 mir	-	-	-	0:42:28.786000	0:42:30.172000
@@ -6494,19 +6494,19 @@ Löffel	-	-	-	0:42:28.786000	0:42:30.172000
 mit	-	-	-	0:42:28.786000	0:42:30.172000
 ?	-	-	-	0:42:28.786000	0:42:30.172000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:30.172000" end="0:42:33.928000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:30.172000" end="0:42:33.928000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:30.172000" end="0:42:35.355000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:30.172000" end="0:42:35.355000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,8s"/>
 ja	-	-	-	0:42:33.928000	0:42:34.583000
 ,	-	-	-	0:42:33.928000	0:42:34.583000
 aber	-	-	-	0:42:34.583000	0:42:35.355000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:35.355000" end="0:42:38.279000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:35.355000" end="0:42:38.279000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:35.355000" end="0:42:41.426000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:35.355000" end="0:42:41.426000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 grundsätzlich	-	-	-	0:42:38.279000	0:42:41.426000
 in	-	-	-	0:42:38.279000	0:42:41.426000
@@ -6514,10 +6514,10 @@ in	-	-	-	0:42:38.279000	0:42:41.426000
 ist	-	-	-	0:42:38.279000	0:42:41.426000
 Hochdeutsch	-	-	-	0:42:38.279000	0:42:41.426000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:41.426000" end="0:42:43.426000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:41.426000" end="0:42:43.426000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:41.426000" end="0:42:45.903000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:41.426000" end="0:42:45.903000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 nur	-	-	-	0:42:43.426000	0:42:45.903000
 in	-	-	-	0:42:43.426000	0:42:45.903000
@@ -6531,10 +6531,10 @@ einmal	-	-	-	0:42:43.426000	0:42:45.903000
 sagen	-	-	-	0:42:43.426000	0:42:45.903000
 .	-	-	-	0:42:43.426000	0:42:45.903000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:45.903000" end="0:42:47.771000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:45.903000" end="0:42:47.771000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:45.903000" end="0:42:49.162000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:45.903000" end="0:42:49.162000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 so	-	-	-	0:42:47.771000	0:42:49.162000
 wie	-	-	-	0:42:47.771000	0:42:49.162000
@@ -6542,23 +6542,23 @@ in	-	-	-	0:42:47.771000	0:42:49.162000
 Wien	-	-	-	0:42:47.771000	0:42:49.162000
 oder	-	-	-	0:42:47.771000	0:42:49.162000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:49.162000" end="0:42:51.162000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:49.162000" end="0:42:51.162000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:49.162000" end="0:42:51.659000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:49.162000" end="0:42:51.659000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 ja	-	-	-	0:42:51.162000	0:42:51.659000
 .	-	-	-	0:42:51.162000	0:42:51.659000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:51.634000" end="0:43:05.386000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:51.634000" end="0:43:05.386000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="14,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:51.634000" end="0:43:05.780000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:51.634000" end="0:43:05.780000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="14,0s"/>
 ja	-	-	-	0:43:05.386000	0:43:05.780000
 .	-	-	-	0:43:05.386000	0:43:05.780000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:05.780000" end="0:43:13.623000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:05.780000" end="0:43:13.623000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	-	-	-	0:43:05.780000	0:43:08.394000
 verändern	-	-	-	0:43:05.780000	0:43:08.394000
@@ -6591,19 +6591,19 @@ gar	-	-	-	0:43:11.319000	0:43:13.623000
 nicht	-	-	-	0:43:11.319000	0:43:13.623000
 so	-	-	-	0:43:11.319000	0:43:13.623000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:11.319000" end="0:43:13.623000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:11.319000" end="0:43:13.623000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 was	-	-	-	0:43:11.319000	0:43:13.623000
 ?	-	-	-	0:43:11.319000	0:43:13.623000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:13.623000" end="0:43:20.929000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:13.623000" end="0:43:20.929000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 gescheit	-	-	-	0:43:13.623000	0:43:15.324000
 reden	-	-	-	0:43:13.623000	0:43:15.324000
 .	-	-	-	0:43:13.623000	0:43:15.324000
 <pause duration="5,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:15.325000" end="0:43:21.687000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:15.325000" end="0:43:21.687000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,6s"/>
 was	-	-	-	0:43:20.929000	0:43:21.687000
 hat	-	-	-	0:43:20.929000	0:43:21.687000
@@ -6611,7 +6611,7 @@ sich	-	-	-	0:43:20.929000	0:43:21.687000
 verändert	-	-	-	0:43:20.929000	0:43:21.687000
 ?	-	-	-	0:43:20.929000	0:43:21.687000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:21.687000" end="0:43:27.563000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:21.687000" end="0:43:27.563000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:21.687000	0:43:24.973000
 ,	-	-	-	0:43:21.687000	0:43:24.973000
 meine	-	-	-	0:43:21.687000	0:43:24.973000
@@ -6634,7 +6634,7 @@ Dialekt	-	-	-	0:43:24.973000	0:43:27.563000
 redet	-	-	-	0:43:24.973000	0:43:27.563000
 .	-	-	-	0:43:24.973000	0:43:27.563000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:27.563000" end="0:43:34.211000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:27.563000" end="0:43:34.211000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:43:27.563000	0:43:31.246000
 ,	-	-	-	0:43:27.563000	0:43:31.246000
@@ -6661,13 +6661,13 @@ gehen	-	-	-	0:43:32.497000	0:43:34.211000
 runter"	-	-	-	0:43:32.497000	0:43:34.211000
 .	-	-	-	0:43:32.497000	0:43:34.211000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:34.211000" end="0:43:35.947000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:34.211000" end="0:43:35.947000" project="PP03" age_lower="18" age_upper="35">
 hinunter	-	-	-	0:43:34.211000	0:43:35.947000
 ,	-	-	-	0:43:34.211000	0:43:35.947000
 herunter	-	-	-	0:43:34.211000	0:43:35.947000
 .	-	-	-	0:43:34.211000	0:43:35.947000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:35.947000" end="0:43:42.964000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:35.947000" end="0:43:42.964000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	-	-	-	0:43:35.947000	0:43:37.691000
 .	-	-	-	0:43:35.947000	0:43:37.691000
@@ -6693,20 +6693,20 @@ heißt	-	-	-	0:43:41.889000	0:43:42.964000
 schmutzig	-	-	-	0:43:41.889000	0:43:42.964000
 .	-	-	-	0:43:41.889000	0:43:42.964000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:42.966000" end="0:43:51.162000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:42.966000" end="0:43:51.162000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="8,2s"/>
 <pause duration="essend"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:42.966000" end="0:43:51.743000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:42.966000" end="0:43:51.743000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="8,2s"/>
 <pause duration="essend"/>
 ja	-	-	-	0:43:51.162000	0:43:51.743000
 .	-	-	-	0:43:51.162000	0:43:51.743000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:51.743000" end="0:43:52.858000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:51.743000" end="0:43:52.858000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:51.743000" end="0:43:54.168000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:51.743000" end="0:43:54.168000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 (jö)	-	-	-	0:43:52.858000	0:43:54.168000
 ,	-	-	-	0:43:52.858000	0:43:54.168000
@@ -6714,26 +6714,26 @@ schmeckt	-	-	-	0:43:52.858000	0:43:54.168000
 das	-	-	-	0:43:52.858000	0:43:54.168000
 ?	-	-	-	0:43:52.858000	0:43:54.168000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:54.168000" end="0:43:55.912000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:54.168000" end="0:43:55.912000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:54.168000" end="0:43:56.554000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:54.168000" end="0:43:56.554000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 (na	-	-	-	0:43:55.912000	0:43:56.554000
 ja)	-	-	-	0:43:55.912000	0:43:56.554000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:56.554000" end="0:43:59.486000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:56.554000" end="0:43:59.486000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:56.554000" end="0:43:59.486000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:56.554000" end="0:43:59.486000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:59.486000" end="0:44:01.418000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:59.486000" end="0:44:01.418000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:59.486000	0:44:00.135000
 .	-	-	-	0:43:59.486000	0:44:00.135000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:00.135000" end="0:44:02.520000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:00.135000" end="0:44:02.520000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 war	-	-	-	0:44:01.418000	0:44:02.520000
 das	-	-	-	0:44:01.418000	0:44:02.520000
@@ -6741,12 +6741,12 @@ noch	-	-	-	0:44:01.418000	0:44:02.520000
 zu	-	-	-	0:44:01.418000	0:44:02.520000
 ?	-	-	-	0:44:01.418000	0:44:02.520000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:02.520000" end="0:44:03.574000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:02.520000" end="0:44:03.574000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mm	-	-	-	0:44:02.520000	0:44:03.574000
 .	-	-	-	0:44:02.520000	0:44:03.574000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:03.574000" end="0:44:05.966000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:03.574000" end="0:44:05.966000" project="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:44:03.574000	0:44:04.547000
 .	-	-	-	0:44:03.574000	0:44:04.547000
 hätte	-	-	-	0:44:04.547000	0:44:05.966000
@@ -6755,18 +6755,18 @@ jetzt	-	-	-	0:44:04.547000	0:44:05.966000
 gewundert	-	-	-	0:44:04.547000	0:44:05.966000
 .	-	-	-	0:44:04.547000	0:44:05.966000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:05.968000" end="0:44:17.218000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:05.968000" end="0:44:17.218000" project="PP03" age_lower="18" age_upper="35">
 x((11,3s))	-	-	-	0:44:05.968000	0:44:17.218000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:05.968000" end="0:44:18.210000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:05.968000" end="0:44:18.210000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="11,3s"/>
 ja	-	-	-	0:44:17.218000	0:44:18.210000
 .	-	-	-	0:44:17.218000	0:44:18.210000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:18.210000" end="0:44:22.804000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:18.210000" end="0:44:22.804000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:18.210000" end="0:44:25.039000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:18.210000" end="0:44:25.039000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,6s"/>
 stelle	-	-	-	0:44:22.804000	0:44:25.039000
 dir	-	-	-	0:44:22.804000	0:44:25.039000
@@ -6777,17 +6777,17 @@ bist	-	-	-	0:44:22.804000	0:44:25.039000
 Bundespäsident	-	-	-	0:44:22.804000	0:44:25.039000
 .	-	-	-	0:44:22.804000	0:44:25.039000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:25.039000" end="0:44:33.046000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:25.039000" end="0:44:33.046000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="8,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:25.039000" end="0:44:33.046000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:25.039000" end="0:44:33.046000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="8,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:33.046000" end="0:44:33.742000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:33.046000" end="0:44:33.742000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:33.046000	0:44:33.742000
 .	-	-	-	0:44:33.046000	0:44:33.742000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:33.742000" end="0:44:37.210000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:33.742000" end="0:44:37.210000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 die	-	-	-	0:44:33.742000	0:44:37.210000
 Frage	-	-	-	0:44:33.742000	0:44:37.210000
@@ -6799,18 +6799,18 @@ kreigen	-	-	-	0:44:33.742000	0:44:37.210000
 heute	-	-	-	0:44:33.742000	0:44:37.210000
 .	-	-	-	0:44:33.742000	0:44:37.210000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:37.210000" end="0:44:38.382000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:37.210000" end="0:44:38.382000" project="PP03" age_lower="18" age_upper="35">
 echt	-	-	-	0:44:37.210000	0:44:38.382000
 ?	-	-	-	0:44:37.210000	0:44:38.382000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:38.382000" end="0:44:39.289000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:38.382000" end="0:44:39.289000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:44:38.382000	0:44:39.289000
 .	-	-	-	0:44:38.382000	0:44:39.289000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:39.289000" end="0:44:41.671000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:39.289000" end="0:44:41.671000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:39.289000" end="0:44:42.562000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:39.289000" end="0:44:42.562000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 was	-	-	-	0:44:41.671000	0:44:42.562000
 du	-	-	-	0:44:41.671000	0:44:42.562000
@@ -6818,16 +6818,16 @@ dann	-	-	-	0:44:41.671000	0:44:42.562000
 machst	-	-	-	0:44:41.671000	0:44:42.562000
 .	-	-	-	0:44:41.671000	0:44:42.562000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:42.562000" end="0:44:44.484000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:42.562000" end="0:44:44.484000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:42.562000" end="0:44:45.796000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:42.562000" end="0:44:45.796000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 *musst*	-	-	-	0:44:44.484000	0:44:45.796000
 beantworten	-	-	-	0:44:44.484000	0:44:45.796000
 .	-	-	-	0:44:44.484000	0:44:45.796000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:45.796000" end="0:44:49.617000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:45.796000" end="0:44:49.617000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:45.796000	0:44:47.664000
 ,	-	-	-	0:44:45.796000	0:44:47.664000
 ich	-	-	-	0:44:45.796000	0:44:47.664000
@@ -6839,27 +6839,27 @@ dann	-	-	-	0:44:45.796000	0:44:47.664000
 schon	-	-	-	0:44:45.796000	0:44:47.664000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:47.664000" end="0:44:49.617000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:47.664000" end="0:44:49.617000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:49.617000" end="0:44:51.234000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:49.617000" end="0:44:51.234000" project="PP03" age_lower="18" age_upper="35">
 ein	-	-	-	0:44:49.617000	0:44:51.234000
 guter	-	-	-	0:44:49.617000	0:44:51.234000
 Anschaffer	-	-	-	0:44:49.617000	0:44:51.234000
 .	-	-	-	0:44:49.617000	0:44:51.234000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:51.234000" end="0:44:54.398000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:51.234000" end="0:44:54.398000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 Anschaffer	-	-	-	0:44:51.234000	0:44:54.398000
 ?	-	-	-	0:44:51.234000	0:44:54.398000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:54.398000" end="0:44:58.343000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:54.398000" end="0:44:58.343000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:54.398000" end="0:44:58.343000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:54.398000" end="0:44:58.343000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:58.343000" end="0:45:00.531000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:58.343000" end="0:45:00.531000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:44:58.343000	0:45:00.531000
 ja	-	-	-	0:44:58.343000	0:45:00.531000
 ,	-	-	-	0:44:58.343000	0:45:00.531000
@@ -6873,27 +6873,27 @@ Ziel	-	-	-	0:44:58.343000	0:45:00.531000
 aber	-	-	-	0:44:58.343000	0:45:00.531000
 /.	-	-	-	0:44:58.343000	0:45:00.531000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:00.531000" end="0:45:01.437000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:00.531000" end="0:45:01.437000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:45:00.531000	0:45:01.437000
 .	-	-	-	0:45:00.531000	0:45:01.437000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:01.437000" end="0:45:04.625000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:01.437000" end="0:45:04.625000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:01.437000" end="0:45:04.625000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:01.437000" end="0:45:04.625000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:04.625000" end="0:45:10.171000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:04.625000" end="0:45:10.171000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:45:04.625000	0:45:05.429000
 .	-	-	-	0:45:04.625000	0:45:05.429000
 <pause duration="4,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:05.429000" end="0:45:10.742000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:05.429000" end="0:45:10.742000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,8s"/>
 super	-	-	-	0:45:10.171000	0:45:10.742000
 .	-	-	-	0:45:10.171000	0:45:10.742000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:10.742000" end="0:45:15.500000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:10.742000" end="0:45:15.500000" project="PP03" age_lower="18" age_upper="35">
 (halt)	-	-	-	0:45:10.742000	0:45:12.742000
 ein	-	-	-	0:45:10.742000	0:45:12.742000
 Chef	-	-	-	0:45:10.742000	0:45:12.742000
@@ -6903,7 +6903,7 @@ Regierung	-	-	-	0:45:10.742000	0:45:12.742000
 .	-	-	-	0:45:10.742000	0:45:12.742000
 <pause duration="2,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:12.742000" end="0:45:17.718000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:12.742000" end="0:45:17.718000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 ja	-	-	-	0:45:15.500000	0:45:17.718000
 ,	-	-	-	0:45:15.500000	0:45:17.718000
@@ -6913,10 +6913,10 @@ Veranstaltungen	-	-	-	0:45:15.500000	0:45:17.718000
 reden	-	-	-	0:45:15.500000	0:45:17.718000
 .	-	-	-	0:45:15.500000	0:45:17.718000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:17.718000" end="0:45:21.414000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:17.718000" end="0:45:21.414000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:17.718000" end="0:45:23.031000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:17.718000" end="0:45:23.031000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,7s"/>
 und	-	-	-	0:45:21.414000	0:45:23.031000
 vor	-	-	-	0:45:21.414000	0:45:23.031000
@@ -6925,20 +6925,20 @@ Volk	-	-	-	0:45:21.414000	0:45:23.031000
 sprechen	-	-	-	0:45:21.414000	0:45:23.031000
 .	-	-	-	0:45:21.414000	0:45:23.031000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:23.031000" end="0:45:25.914000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:23.031000" end="0:45:25.914000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:23.031000" end="0:45:27.687000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:23.031000" end="0:45:27.687000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 viel	-	-	-	0:45:25.914000	0:45:27.687000
 Festeln	-	-	-	0:45:25.914000	0:45:27.687000
 besuchen	-	-	-	0:45:25.914000	0:45:27.687000
 ,	-	-	-	0:45:25.914000	0:45:27.687000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:27.687000" end="0:45:29.335000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:27.687000" end="0:45:29.335000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:27.687000" end="0:45:32.210000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:27.687000" end="0:45:32.210000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 nein	-	-	-	0:45:29.335000	0:45:32.210000
 ,	-	-	-	0:45:29.335000	0:45:32.210000
@@ -6948,13 +6948,13 @@ der	-	-	-	0:45:29.335000	0:45:32.210000
 Bundespräsident	-	-	-	0:45:29.335000	0:45:32.210000
 .	-	-	-	0:45:29.335000	0:45:32.210000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:32.210000" end="0:45:34.120000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:32.210000" end="0:45:34.120000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:32.210000	0:45:34.120000
 eh	-	-	-	0:45:32.210000	0:45:34.120000
 .	-	-	-	0:45:32.210000	0:45:34.120000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:34.120000" end="0:45:38.840000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:34.120000" end="0:45:38.840000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:34.120000	0:45:38.840000
 aber	-	-	-	0:45:34.120000	0:45:38.840000
 auch	-	-	-	0:45:34.120000	0:45:38.840000
@@ -6963,7 +6963,7 @@ Kanzler	-	-	-	0:45:34.120000	0:45:38.840000
 .	-	-	-	0:45:34.120000	0:45:38.840000
 <pause duration="3,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:38.840000" end="0:45:43.460000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:38.840000" end="0:45:43.460000" project="PP03" age_lower="18" age_upper="35">
 überall	-	-	-	0:45:38.840000	0:45:40.366000
 *kriegst*	-	-	-	0:45:38.840000	0:45:40.366000
 was	-	-	-	0:45:38.840000	0:45:40.366000
@@ -6976,7 +6976,7 @@ leiwand	-	-	-	0:45:40.366000	0:45:43.460000
 .	-	-	-	0:45:40.366000	0:45:43.460000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:43.460000" end="0:45:55.513000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:43.460000" end="0:45:55.513000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:45:43.460000	0:45:49.306000
 und	-	-	-	0:45:43.460000	0:45:49.306000
 zum	-	-	-	0:45:43.460000	0:45:49.306000
@@ -6997,7 +6997,7 @@ Essen	-	-	-	0:45:51.160000	0:45:55.513000
 .	-	-	-	0:45:51.160000	0:45:55.513000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:55.513000" end="0:45:58.086000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:55.513000" end="0:45:58.086000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:45:55.513000	0:45:58.086000
 es	-	-	-	0:45:55.513000	0:45:58.086000
 ist	-	-	-	0:45:55.513000	0:45:58.086000
@@ -7007,11 +7007,11 @@ Essen	-	-	-	0:45:55.513000	0:45:58.086000
 ,	-	-	-	0:45:55.513000	0:45:58.086000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:58.086000" end="0:45:58.973000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:58.086000" end="0:45:58.973000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:58.086000	0:45:58.973000
 .	-	-	-	0:45:58.086000	0:45:58.973000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:58.973000" end="0:46:09.351000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:58.973000" end="0:46:09.351000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:45:58.973000	0:46:00.280000
 sich	-	-	-	0:45:58.973000	0:46:00.280000
 es	-	-	-	0:45:58.973000	0:46:00.280000
@@ -7033,14 +7033,14 @@ ja	-	-	-	0:46:04.786000	0:46:06.786000
 <pause duration="4,0s"/>
 <pause duration="2,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:06.789000" end="0:46:13.320000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:06.789000" end="0:46:13.320000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 mhm	-	-	-	0:46:09.351000	0:46:13.320000
 ja	-	-	-	0:46:09.351000	0:46:13.320000
 .	-	-	-	0:46:09.351000	0:46:13.320000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:13.320000" end="0:46:15.426000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:13.320000" end="0:46:15.426000" project="PP03" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:46:13.320000	0:46:15.426000
 muss	-	-	-	0:46:13.320000	0:46:15.426000
 ich	-	-	-	0:46:13.320000	0:46:15.426000
@@ -7049,11 +7049,11 @@ Lustiges	-	-	-	0:46:13.320000	0:46:15.426000
 erzählen	-	-	-	0:46:13.320000	0:46:15.426000
 !	-	-	-	0:46:13.320000	0:46:15.426000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:15.426000" end="0:46:16.493000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:15.426000" end="0:46:16.493000" project="PP03" age_lower="18" age_upper="35">
 bitte	-	-	-	0:46:15.426000	0:46:16.493000
 !	-	-	-	0:46:15.426000	0:46:16.493000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:16.493000" end="0:46:28.533000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:16.493000" end="0:46:28.533000" project="PP03" age_lower="18" age_upper="35">
 gestern	-	-	-	0:46:16.493000	0:46:19.933000
 in	-	-	-	0:46:16.493000	0:46:19.933000
 der	-	-	-	0:46:16.493000	0:46:19.933000
@@ -7085,7 +7085,7 @@ _Taufgodel_	-	-	-	0:46:24.513000	0:46:28.533000
 ,	-	-	-	0:46:24.513000	0:46:28.533000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:28.533000" end="0:46:30.133000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:28.533000" end="0:46:30.133000" project="PP03" age_lower="18" age_upper="35">
 sagen	-	-	-	0:46:28.533000	0:46:30.133000
 wir	-	-	-	0:46:28.533000	0:46:30.133000
 hier	-	-	-	0:46:28.533000	0:46:30.133000
@@ -7093,9 +7093,9 @@ hier	-	-	-	0:46:28.533000	0:46:30.133000
 nicht	-	-	-	0:46:28.533000	0:46:30.133000
 .	-	-	-	0:46:28.533000	0:46:30.133000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:30.133000" end="0:46:33.926000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:30.133000" end="0:46:33.926000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:30.133000" end="0:46:33.926000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:30.133000" end="0:46:33.926000" project="PP03" age_lower="18" age_upper="35">
 _Godel_	-	-	-	0:46:30.133000	0:46:33.926000
 sagen	-	-	-	0:46:30.133000	0:46:33.926000
 wir	-	-	-	0:46:30.133000	0:46:33.926000
@@ -7106,7 +7106,7 @@ egal	-	-	-	0:46:30.133000	0:46:33.926000
 .	-	-	-	0:46:30.133000	0:46:33.926000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:33.926000" end="0:46:45.520000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:33.926000" end="0:46:45.520000" project="PP03" age_lower="18" age_upper="35">
 sagt	-	-	-	0:46:33.926000	0:46:38.293000
 zu	-	-	-	0:46:33.926000	0:46:38.293000
 mir	-	-	-	0:46:33.926000	0:46:38.293000
@@ -7134,11 +7134,11 @@ ich	-	-	-	0:46:41.440000	0:46:45.520000
 ein	-	-	-	0:46:41.440000	0:46:45.520000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:45.520000" end="0:46:46.133000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:45.520000" end="0:46:46.133000" project="PP03" age_lower="18" age_upper="35">
 Schmuckstück	-	-	-	0:46:45.520000	0:46:46.133000
 .	-	-	-	0:46:45.520000	0:46:46.133000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:46.133000" end="0:46:50.873000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:46.133000" end="0:46:50.873000" project="PP03" age_lower="18" age_upper="35">
 ein	-	-	-	0:46:46.133000	0:46:47.926000
 Schmuckstück	-	-	-	0:46:46.133000	0:46:47.926000
 haben	-	-	-	0:46:46.133000	0:46:47.926000
@@ -7160,24 +7160,24 @@ nichts	-	-	-	0:46:48.473000	0:46:50.873000
 ."	-	-	-	0:46:48.473000	0:46:50.873000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:50.873000" end="0:46:52.106000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:50.873000" end="0:46:52.106000" project="PP03" age_lower="18" age_upper="35">
 echt	-	-	-	0:46:50.873000	0:46:52.106000
 ?	-	-	-	0:46:50.873000	0:46:52.106000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:52.106000" end="0:46:53.193000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:52.106000" end="0:46:53.193000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:46:52.106000	0:46:53.193000
 dann	-	-	-	0:46:52.106000	0:46:53.193000
 bin	-	-	-	0:46:52.106000	0:46:53.193000
 ich	-	-	-	0:46:52.106000	0:46:53.193000
 halt	-	-	-	0:46:52.106000	0:46:53.193000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:52.106000" end="0:46:53.193000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:52.106000" end="0:46:53.193000" project="PP03" age_lower="18" age_upper="35">
 (was	-	-	-	0:46:52.106000	0:46:53.193000
 zur	-	-	-	0:46:52.106000	0:46:53.193000
 /.)	-	-	-	0:46:52.106000	0:46:53.193000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:53.193000" end="0:47:17.426000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:53.193000" end="0:47:17.426000" project="PP03" age_lower="18" age_upper="35">
 wieder	-	-	-	0:46:53.193000	0:46:57.640000
 gegangen	-	-	-	0:46:53.193000	0:46:57.640000
 <pause duration="1,0s"/>
@@ -7251,9 +7251,9 @@ ihr	-	-	KONJ	0:47:15.426000	0:47:17.426000
 machen	-	-	KONJ	0:47:15.426000	0:47:17.426000
 .	-	-	-	0:47:15.426000	0:47:17.426000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:15.426000" end="0:47:17.426000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:15.426000" end="0:47:17.426000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:17.426000" end="0:47:26.486000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:17.426000" end="0:47:26.486000" project="PP03" age_lower="18" age_upper="35">
 habe	-	-	-	0:47:17.426000	0:47:19.426000
 ich	-	-	-	0:47:17.426000	0:47:19.426000
 natürlich	-	-	-	0:47:17.426000	0:47:19.426000
@@ -7276,7 +7276,7 @@ mit	-	-	-	0:47:24.260000	0:47:26.486000
 ihr	-	-	-	0:47:24.260000	0:47:26.486000
 .	-	-	-	0:47:24.260000	0:47:26.486000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:26.486000" end="0:47:27.960000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:26.486000" end="0:47:27.960000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:47:26.486000	0:47:27.960000
 ist	-	-	-	0:47:26.486000	0:47:27.960000
 schon	-	-	-	0:47:26.486000	0:47:27.960000
@@ -7284,7 +7284,7 @@ nächsten	-	-	-	0:47:26.486000	0:47:27.960000
 Dienstag	-	-	-	0:47:26.486000	0:47:27.960000
 ?	-	-	-	0:47:26.486000	0:47:27.960000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:27.960000" end="0:47:41.626000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:27.960000" end="0:47:41.626000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:47:27.960000	0:47:32.240000
 in	-	-	-	0:47:27.960000	0:47:32.240000
 zwei	-	-	-	0:47:27.960000	0:47:32.240000
@@ -7318,12 +7318,12 @@ ein	-	-	-	0:47:39.673000	0:47:41.626000
 Schmuckstück	-	-	-	0:47:39.673000	0:47:41.626000
 .	-	-	-	0:47:39.673000	0:47:41.626000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:41.626000" end="0:47:44.666000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:41.626000" end="0:47:44.666000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:47:41.626000	0:47:44.666000
 .	-	-	-	0:47:41.626000	0:47:44.666000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:44.666000" end="0:47:49.353000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:44.666000" end="0:47:49.353000" project="PP03" age_lower="18" age_upper="35">
 somit	-	-	-	0:47:44.666000	0:47:49.353000
 ist	-	-	-	0:47:44.666000	0:47:49.353000
 die	-	-	-	0:47:44.666000	0:47:49.353000
@@ -7333,7 +7333,7 @@ Geschichte	-	-	-	0:47:44.666000	0:47:49.353000
 .	-	-	-	0:47:44.666000	0:47:49.353000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:49.353000" end="0:47:54.146000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:49.353000" end="0:47:54.146000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:47:49.353000	0:47:50.186000
 aber	-	-	-	0:47:49.353000	0:47:50.186000
 *weißt*	-	-	-	0:47:49.353000	0:47:50.186000
@@ -7354,7 +7354,7 @@ haben	-	-	-	0:47:50.186000	0:47:54.146000
 ?	-	-	-	0:47:50.186000	0:47:54.146000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:54.146000" end="0:47:58.120000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:54.146000" end="0:47:58.120000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:54.146000	0:47:58.120000
 eh	-	-	-	0:47:54.146000	0:47:58.120000
 ,	-	-	-	0:47:54.146000	0:47:58.120000
@@ -7365,13 +7365,13 @@ dabei	-	-	-	0:47:54.146000	0:47:58.120000
 .	-	-	-	0:47:54.146000	0:47:58.120000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:58.120000" end="0:48:00.720000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:58.120000" end="0:48:00.720000" project="PP03" age_lower="18" age_upper="35">
 wir	-	-	-	0:47:58.120000	0:48:00.720000
 ihr	-	-	-	0:47:58.120000	0:48:00.720000
 .	-	-	-	0:47:58.120000	0:48:00.720000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:00.720000" end="0:48:04.526000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:00.720000" end="0:48:04.526000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:48:00.720000	0:48:04.526000
 so	-	-	-	0:48:00.720000	0:48:04.526000
 ,	-	-	-	0:48:00.720000	0:48:04.526000
@@ -7388,7 +7388,7 @@ gezahlt	-	-	-	0:48:00.720000	0:48:04.526000
 .	-	-	-	0:48:00.720000	0:48:04.526000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:04.526000" end="0:48:07.513000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:04.526000" end="0:48:07.513000" project="PP03" age_lower="18" age_upper="35">
 kann	-	-	-	0:48:04.526000	0:48:07.513000
 man	-	-	-	0:48:04.526000	0:48:07.513000
 si	-	-	-	0:48:04.526000	0:48:07.513000
@@ -7398,12 +7398,12 @@ ja	-	-	-	0:48:04.526000	0:48:07.513000
 .	-	-	-	0:48:04.526000	0:48:07.513000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:07.513000" end="0:48:10.546000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:07.513000" end="0:48:10.546000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:48:07.513000	0:48:10.546000
 .	-	-	-	0:48:07.513000	0:48:10.546000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:10.546000" end="0:48:17.513000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:10.546000" end="0:48:17.513000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:48:10.546000	0:48:14.706000
 auf	-	-	-	0:48:10.546000	0:48:14.706000
 die	-	-	-	0:48:10.546000	0:48:14.706000
@@ -7422,22 +7422,22 @@ Tattoo	-	-	-	0:48:15.186000	0:48:17.513000
 hat	-	-	-	0:48:15.186000	0:48:17.513000
 ?	-	-	-	0:48:15.186000	0:48:17.513000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:17.513000" end="0:48:18.360000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:17.513000" end="0:48:18.360000" project="PP03" age_lower="18" age_upper="35">
 *dass*	-	-	-	0:48:17.513000	0:48:18.360000
 was	-	-	-	0:48:17.513000	0:48:18.360000
 ?	-	-	-	0:48:17.513000	0:48:18.360000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:18.360000" end="0:48:19.553000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:18.360000" end="0:48:19.553000" project="PP03" age_lower="18" age_upper="35">
 ein	-	-	-	0:48:18.360000	0:48:19.553000
 Tattoo	-	-	-	0:48:18.360000	0:48:19.553000
 hat	-	-	-	0:48:18.360000	0:48:19.553000
 .	-	-	-	0:48:18.360000	0:48:19.553000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:19.553000" end="0:48:20.340000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:19.553000" end="0:48:20.340000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:48:19.553000	0:48:20.340000
 ?	-	-	-	0:48:19.553000	0:48:20.340000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:20.340000" end="0:48:27.353000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:20.340000" end="0:48:27.353000" project="PP03" age_lower="18" age_upper="35">
 du	-	-	-	0:48:20.340000	0:48:27.353000
 hast	-	-	-	0:48:20.340000	0:48:27.353000
 das	-	-	-	0:48:20.340000	0:48:27.353000
@@ -7446,12 +7446,12 @@ gewusst	-	-	-	0:48:20.340000	0:48:27.353000
 ?	-	-	-	0:48:20.340000	0:48:27.353000
 <pause duration="5,6s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:27.353000" end="0:48:28.646000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:27.353000" end="0:48:28.646000" project="PP03" age_lower="18" age_upper="35">
 einen	-	-	-	0:48:27.353000	0:48:28.646000
 Scheiß	-	-	-	0:48:27.353000	0:48:28.646000
 !	-	-	-	0:48:27.353000	0:48:28.646000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:28.646000" end="0:48:31" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:28.646000" end="0:48:31" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:28.646000	0:48:31
 da	-	-	-	0:48:28.646000	0:48:31
 da	-	-	-	0:48:28.646000	0:48:31
@@ -7459,23 +7459,23 @@ eine	-	-	-	0:48:28.646000	0:48:31
 Sonne	-	-	-	0:48:28.646000	0:48:31
 .	-	-	-	0:48:28.646000	0:48:31
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:31" end="0:48:32.700000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:31" end="0:48:32.700000" project="PP03" age_lower="18" age_upper="35">
 einen	-	-	-	0:48:31	0:48:32.700000
 Scheiß	-	-	-	0:48:31	0:48:32.700000
 !	-	-	-	0:48:31	0:48:32.700000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:32.700000" end="0:48:33.673000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:32.700000" end="0:48:33.673000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:48:32.700000	0:48:33.673000
 wirklich	-	-	-	0:48:32.700000	0:48:33.673000
 !	-	-	-	0:48:32.700000	0:48:33.673000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:33.673000" end="0:48:35.406000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:33.673000" end="0:48:35.406000" project="PP03" age_lower="18" age_upper="35">
 einen	-	-	-	0:48:33.673000	0:48:35.406000
 Blödsinn	-	-	-	0:48:33.673000	0:48:35.406000
 !	-	-	-	0:48:33.673000	0:48:35.406000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:35.406000" end="0:48:46.333000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:35.406000" end="0:48:46.333000" project="PP03" age_lower="18" age_upper="35">
 du	-	-	-	0:48:35.406000	0:48:37.126000
 kannst	-	-	-	0:48:35.406000	0:48:37.126000
 ihr	-	-	-	0:48:35.406000	0:48:37.126000
@@ -7517,9 +7517,9 @@ so	-	-	-	0:48:41.813000	0:48:46.333000
 .	-	-	-	0:48:41.813000	0:48:46.333000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:46.333000" end="0:48:48.660000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:46.333000" end="0:48:48.660000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:46.333000" end="0:48:50.053000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:46.333000" end="0:48:50.053000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:48:46.333000	0:48:48.660000
 war	-	-	-	0:48:46.333000	0:48:48.660000
 (die)	-	-	-	0:48:46.333000	0:48:48.660000
@@ -7534,9 +7534,9 @@ hat	-	-	-	0:48:48.660000	0:48:50.053000
 gesagt	-	-	-	0:48:48.660000	0:48:50.053000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:50.053000" end="0:48:52.480000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:50.053000" end="0:48:52.480000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:50.053000" end="0:48:59.486000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:50.053000" end="0:48:59.486000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:48:50.053000	0:48:52.480000
 die	-	-	-	0:48:50.053000	0:48:52.480000
 NAME	NAME	-	-	0:48:50.053000	0:48:52.480000
@@ -7560,7 +7560,7 @@ Tattoo	-	-	-	0:48:56.026000	0:48:59.486000
 ."	-	-	-	0:48:56.026000	0:48:59.486000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:59.486000" end="0:49:02.486000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:59.486000" end="0:49:02.486000" project="PP03" age_lower="18" age_upper="35">
 geh	-	-	-	0:48:59.486000	0:49:02.486000
 was	-	-	-	0:48:59.486000	0:49:02.486000
 hätte	-	-	-	0:48:59.486000	0:49:02.486000
@@ -7571,7 +7571,7 @@ gesagt	-	-	-	0:48:59.486000	0:49:02.486000
 ?	-	-	-	0:48:59.486000	0:49:02.486000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:02.486000" end="0:49:07.246000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:02.486000" end="0:49:07.246000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:02.486000	0:49:03.420000
 sie	-	-	-	0:49:02.486000	0:49:03.420000
 hat	-	-	-	0:49:02.486000	0:49:03.420000
@@ -7592,14 +7592,14 @@ sagen	-	-	-	0:49:04.866000	0:49:07.246000
 ?	-	-	-	0:49:04.866000	0:49:07.246000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:07.246000" end="0:49:09.173000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:07.246000" end="0:49:09.173000" project="PP03" age_lower="18" age_upper="35">
 einen	-	-	-	0:49:07.246000	0:49:08.120000
 Blödsinn	-	-	-	0:49:07.246000	0:49:08.120000
 !	-	-	-	0:49:07.246000	0:49:08.120000
 wirklich	-	-	-	0:49:08.120000	0:49:09.173000
 ?	-	-	-	0:49:08.120000	0:49:09.173000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:08.120000" end="0:49:16.586000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:08.120000" end="0:49:16.586000" project="PP03" age_lower="18" age_upper="35">
 wirklich	-	-	-	0:49:08.120000	0:49:09.173000
 !	-	-	-	0:49:08.120000	0:49:09.173000
 <pause duration="2,1s"/>
@@ -7616,12 +7616,12 @@ stimmt	-	-	-	0:49:12.680000	0:49:16.586000
 .	-	-	-	0:49:12.680000	0:49:16.586000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:16.586000" end="0:49:18.653000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:16.586000" end="0:49:18.653000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:49:16.586000	0:49:18.653000
 ?	-	-	-	0:49:16.586000	0:49:18.653000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:18.653000" end="0:49:21.326000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:18.653000" end="0:49:21.326000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:49:18.653000	0:49:21.326000
 ist	-	-	-	0:49:18.653000	0:49:21.326000
 wirklich	-	-	-	0:49:18.653000	0:49:21.326000
@@ -7629,12 +7629,12 @@ so	-	-	-	0:49:18.653000	0:49:21.326000
 .	-	-	-	0:49:18.653000	0:49:21.326000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:21.326000" end="0:49:23.140000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:21.326000" end="0:49:23.140000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:49:21.326000	0:49:23.140000
 ?	-	-	-	0:49:21.326000	0:49:23.140000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:23.140000" end="0:49:26.033000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:23.140000" end="0:49:26.033000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:49:23.140000	0:49:26.033000
 da	-	-	-	0:49:23.140000	0:49:26.033000
 <pause duration="1,0s"/>
@@ -7643,11 +7643,11 @@ da	-	-	-	0:49:23.140000	0:49:26.033000
 .	-	-	-	0:49:23.140000	0:49:26.033000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:26.033000" end="0:49:26.900000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:26.033000" end="0:49:26.900000" project="PP03" age_lower="18" age_upper="35">
 groß	-	-	-	0:49:26.033000	0:49:26.900000
 ?	-	-	-	0:49:26.033000	0:49:26.900000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:26.900000" end="0:49:30.106000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:26.900000" end="0:49:30.106000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:49:26.900000	0:49:30.106000
 so	-	-	-	0:49:26.900000	0:49:30.106000
 klein	-	-	-	0:49:26.900000	0:49:30.106000
@@ -7657,12 +7657,12 @@ da	-	-	-	0:49:26.900000	0:49:30.106000
 circa	-	-	-	0:49:26.900000	0:49:30.106000
 .	-	-	-	0:49:26.900000	0:49:30.106000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:30.106000" end="0:49:34.300000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:30.106000" end="0:49:34.300000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 warum	-	-	-	0:49:30.106000	0:49:34.300000
 ?	-	-	-	0:49:30.106000	0:49:34.300000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:34.300000" end="0:49:44.120000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:34.300000" end="0:49:44.120000" project="PP03" age_lower="18" age_upper="35">
 eine	-	-	-	0:49:34.300000	0:49:36.586000
 Sonne	-	-	-	0:49:34.300000	0:49:36.586000
 .	-	-	-	0:49:34.300000	0:49:36.586000
@@ -7695,9 +7695,9 @@ was	-	-	-	0:49:43.020000	0:49:44.120000
 tätowiert	-	-	-	0:49:43.020000	0:49:44.120000
 ,	-	-	-	0:49:43.020000	0:49:44.120000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:44.120000" end="0:49:44.926000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:44.120000" end="0:49:44.926000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:44.120000" end="0:49:48.373000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:44.120000" end="0:49:48.373000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:49:44.120000	0:49:44.926000
 sollte	-	-	-	0:49:44.120000	0:49:44.926000
 man	-	-	-	0:49:44.120000	0:49:44.926000
@@ -7713,7 +7713,7 @@ hat	-	-	-	0:49:44.926000	0:49:48.373000
 /.	-	-	-	0:49:44.926000	0:49:48.373000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:48.373000" end="0:49:52.026000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:48.373000" end="0:49:52.026000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:49:48.373000	0:49:52.026000
 <pause duration="2,2s"/>
 verstehe	-	-	-	0:49:48.373000	0:49:52.026000
@@ -7722,7 +7722,7 @@ gerade	-	-	-	0:49:48.373000	0:49:52.026000
 nicht	-	-	-	0:49:48.373000	0:49:52.026000
 .	-	-	-	0:49:48.373000	0:49:52.026000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:52.026000" end="0:49:58.473000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:52.026000" end="0:49:58.473000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:52.026000	0:49:58.473000
 Sonne	-	-	-	0:49:52.026000	0:49:58.473000
 ist	-	-	-	0:49:52.026000	0:49:58.473000
@@ -7740,22 +7740,22 @@ Glück	-	-	-	0:49:52.026000	0:49:58.473000
 Wärme	-	-	-	0:49:52.026000	0:49:58.473000
 .	-	-	-	0:49:52.026000	0:49:58.473000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:58.473000" end="0:50:02.373000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:58.473000" end="0:50:02.373000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 Zufriedenheit	-	-	-	0:49:58.473000	0:50:02.373000
 .	-	-	-	0:49:58.473000	0:50:02.373000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:02.373000" end="0:50:05.673000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:02.373000" end="0:50:05.673000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ja	-	-	-	0:50:02.373000	0:50:05.673000
 .	-	-	-	0:50:02.373000	0:50:05.673000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:05.673000" end="0:50:08.806000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:05.673000" end="0:50:08.806000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:50:05.673000	0:50:08.806000
 .	-	-	-	0:50:05.673000	0:50:08.806000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:08.806000" end="0:50:29.440000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:08.806000" end="0:50:29.440000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:50:08.806000	0:50:12.593000
 <pause duration="0,9s"/>
 das	-	-	-	0:50:08.806000	0:50:12.593000
@@ -7781,7 +7781,7 @@ okay	-	-	-	0:50:21.500000	0:50:29.440000
 .	-	-	-	0:50:21.500000	0:50:29.440000
 <pause duration="3,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:29.440000" end="0:50:33.926000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:29.440000" end="0:50:33.926000" project="PP03" age_lower="18" age_upper="35">
 wir	-	-	-	0:50:29.440000	0:50:33.926000
 haben	-	-	-	0:50:29.440000	0:50:33.926000
 da	-	-	-	0:50:29.440000	0:50:33.926000
@@ -7794,7 +7794,7 @@ liegen	-	-	-	0:50:29.440000	0:50:33.926000
 .	-	-	-	0:50:29.440000	0:50:33.926000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:33.926000" end="0:50:34.906000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:33.926000" end="0:50:34.906000" project="PP03" age_lower="18" age_upper="35">
 boah	-	-	-	0:50:33.926000	0:50:34.906000
 ,	-	-	-	0:50:33.926000	0:50:34.906000
 stelle	-	-	-	0:50:33.926000	0:50:34.906000
@@ -7802,9 +7802,9 @@ dir	-	-	-	0:50:33.926000	0:50:34.906000
 vor	-	-	-	0:50:33.926000	0:50:34.906000
 ,	-	-	-	0:50:33.926000	0:50:34.906000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:34.906000" end="0:50:37.953000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:34.906000" end="0:50:37.953000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:34.906000" end="0:50:37.953000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:34.906000" end="0:50:37.953000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:50:34.906000	0:50:37.953000
 unserem	-	-	-	0:50:34.906000	0:50:37.953000
 Betrieb	-	-	-	0:50:34.906000	0:50:37.953000
@@ -7816,21 +7816,21 @@ eigene	-	-	-	0:50:34.906000	0:50:37.953000
 Fernsehsendung	-	-	-	0:50:34.906000	0:50:37.953000
 machen	-	-	-	0:50:34.906000	0:50:37.953000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:37.953000" end="0:50:39.066000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:37.953000" end="0:50:39.066000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:37.953000" end="0:50:39.066000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:37.953000" end="0:50:39.066000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:50:37.953000	0:50:39.066000
 wäre	-	-	-	0:50:37.953000	0:50:39.066000
 geil	-	-	-	0:50:37.953000	0:50:39.066000
 !	-	-	-	0:50:37.953000	0:50:39.066000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:39.066000" end="0:50:42.673000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:39.066000" end="0:50:42.673000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 mm	-	-	-	0:50:39.066000	0:50:42.673000
 .	-	-	-	0:50:39.066000	0:50:42.673000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:42.673000" end="0:50:49.533000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:42.673000" end="0:50:49.533000" project="PP03" age_lower="18" age_upper="35">
 *hast*	-	-	-	0:50:42.673000	0:50:49.533000
 eine	-	-	-	0:50:42.673000	0:50:49.533000
 andere	-	-	-	0:50:42.673000	0:50:49.533000
@@ -7838,7 +7838,7 @@ Idee	-	-	-	0:50:42.673000	0:50:49.533000
 ?	-	-	-	0:50:42.673000	0:50:49.533000
 <pause duration="5,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:49.533000" end="0:50:56.613000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:49.533000" end="0:50:56.613000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 hm	-	-	-	0:50:49.533000	0:50:56.613000
 einfach	-	-	-	0:50:49.533000	0:50:56.613000
@@ -7849,13 +7849,13 @@ reden	-	-	-	0:50:49.533000	0:50:56.613000
 <pause duration="1,7s"/>
 Fernsehsendung	-	-	-	0:50:49.533000	0:50:56.613000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:56.613000" end="0:50:58.486000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:56.613000" end="0:50:58.486000" project="PP03" age_lower="18" age_upper="35">
 (mit)	-	-	-	0:50:56.613000	0:50:58.486000
 der	-	-	-	0:50:56.613000	0:50:58.486000
 Jugend	-	-	-	0:50:56.613000	0:50:58.486000
 .	-	-	-	0:50:56.613000	0:50:58.486000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:58.486000" end="0:51:06.366000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:58.486000" end="0:51:06.366000" project="PP03" age_lower="18" age_upper="35">
 wäre	-	-	-	0:50:58.486000	0:51:06.366000
 irgendwie	-	-	-	0:50:58.486000	0:51:06.366000
 auch	-	-	-	0:50:58.486000	0:51:06.366000
@@ -7863,7 +7863,7 @@ lustig	-	-	-	0:50:58.486000	0:51:06.366000
 .	-	-	-	0:50:58.486000	0:51:06.366000
 <pause duration="6,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:06.366000" end="0:51:17.693000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:06.366000" end="0:51:17.693000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:51:06.366000	0:51:13.853000
 <pause duration="6,0s"/>
 ja	-	-	-	0:51:06.366000	0:51:13.853000
@@ -7878,25 +7878,25 @@ das	-	-	-	0:51:13.853000	0:51:17.693000
 an	-	-	-	0:51:13.853000	0:51:17.693000
 ?	-	-	-	0:51:13.853000	0:51:17.693000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:17.693000" end="0:51:22.133000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:17.693000" end="0:51:22.133000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:17.693000" end="0:51:22.133000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:17.693000" end="0:51:22.133000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:22.133000" end="0:51:23.953000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:22.133000" end="0:51:23.953000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:51:22.133000	0:51:23.953000
 Gaweinstaler	-	-	-	0:51:22.133000	0:51:23.953000
 .	-	-	-	0:51:22.133000	0:51:23.953000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:22.133000" end="0:51:23.953000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:22.133000" end="0:51:23.953000" project="PP03" age_lower="18" age_upper="35">
 *hast*	-	-	-	0:51:22.133000	0:51:23.953000
 der	-	-	-	0:51:22.133000	0:51:23.953000
 NAME	NAME	-	-	0:51:22.133000	0:51:23.953000
 geschrieben	-	-	-	0:51:22.133000	0:51:23.953000
 ?	-	-	-	0:51:22.133000	0:51:23.953000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:23.953000" end="0:51:31.326000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:23.953000" end="0:51:31.326000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 sonst	-	-	-	0:51:23.953000	0:51:31.326000
 wird	-	-	-	0:51:23.953000	0:51:31.326000
@@ -7912,7 +7912,7 @@ deswegen	-	-	-	0:51:23.953000	0:51:31.326000
 /.	-	-	-	0:51:23.953000	0:51:31.326000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:31.326000" end="0:51:35.413000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:31.326000" end="0:51:35.413000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:51:31.326000	0:51:32.293000
 mit	-	-	-	0:51:31.326000	0:51:32.293000
 gerade	-	-	-	0:51:31.326000	0:51:32.293000
@@ -7930,7 +7930,7 @@ Gaweinstal	-	-	-	0:51:33.693000	0:51:35.413000
 auszumziehen	-	-	-	0:51:33.693000	0:51:35.413000
 ?	-	-	-	0:51:33.693000	0:51:35.413000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:35.413000" end="0:51:46.953000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:35.413000" end="0:51:46.953000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="8,8s"/>
 ähm	-	-	-	0:51:35.413000	0:51:46.953000
 ja	-	-	-	0:51:35.413000	0:51:46.953000
@@ -7939,7 +7939,7 @@ keine	-	-	-	0:51:35.413000	0:51:46.953000
 Ahnung	-	-	-	0:51:35.413000	0:51:46.953000
 .	-	-	-	0:51:35.413000	0:51:46.953000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:46.953000" end="0:51:56.813000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:46.953000" end="0:51:56.813000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,4s"/>
 ich	-	-	-	0:51:46.953000	0:51:53.360000
 kenne	-	-	-	0:51:46.953000	0:51:53.360000
@@ -7958,7 +7958,7 @@ ausziehen	-	-	-	0:51:53.833000	0:51:56.813000
 .	-	-	-	0:51:53.833000	0:51:56.813000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:56.813000" end="0:52:03.233000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:56.813000" end="0:52:03.233000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:51:56.813000	0:51:58.586000
 kann	-	-	-	0:51:56.813000	0:51:58.586000
 mir	-	-	-	0:51:56.813000	0:51:58.586000
@@ -7980,7 +7980,7 @@ zieht	-	-	-	0:51:58.586000	0:52:03.233000
 .	-	-	-	0:51:58.586000	0:52:03.233000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:03.233000" end="0:52:06.720000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:03.233000" end="0:52:06.720000" project="PP03" age_lower="18" age_upper="35">
 warum	-	-	-	0:52:03.233000	0:52:06.720000
 ?	-	-	-	0:52:03.233000	0:52:06.720000
 <pause duration="0,6s"/>
@@ -7994,7 +7994,7 @@ hat	-	-	-	0:52:03.233000	0:52:06.720000
 .	-	-	-	0:52:03.233000	0:52:06.720000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:06.720000" end="0:52:09.680000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:06.720000" end="0:52:09.680000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:52:06.720000	0:52:09.680000
 täte	-	-	-	0:52:06.720000	0:52:09.680000
 der	-	-	-	0:52:06.720000	0:52:09.680000
@@ -8005,7 +8005,7 @@ nein	-	-	-	0:52:06.720000	0:52:09.680000
 !	-	-	-	0:52:06.720000	0:52:09.680000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:09.680000" end="0:52:11.886000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:09.680000" end="0:52:11.886000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:52:09.680000	0:52:11.886000
 eh	-	-	-	0:52:09.680000	0:52:11.886000
 nicht	-	-	-	0:52:09.680000	0:52:11.886000
@@ -8018,19 +8018,19 @@ Grund	-	-	-	0:52:09.680000	0:52:11.886000
 hat	-	-	-	0:52:09.680000	0:52:11.886000
 !	-	-	-	0:52:09.680000	0:52:11.886000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:11.886000" end="0:52:13.113000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:11.886000" end="0:52:13.113000" project="PP03" age_lower="18" age_upper="35">
 eben	-	-	-	0:52:11.886000	0:52:13.113000
 .	-	-	-	0:52:11.886000	0:52:13.113000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:13.113000" end="0:52:13.900000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:13.113000" end="0:52:13.900000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:52:13.113000	0:52:13.900000
 .	-	-	-	0:52:13.113000	0:52:13.900000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:13.900000" end="0:52:24.260000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:13.900000" end="0:52:24.260000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="10,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:13.900000" end="0:52:29.993000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:13.900000" end="0:52:29.993000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="10,8s"/>
 wie	-	-	-	0:52:24.260000	0:52:29.993000
 schaut	-	-	-	0:52:24.260000	0:52:29.993000
@@ -8042,21 +8042,21 @@ aus	-	-	-	0:52:24.260000	0:52:29.993000
 ?	-	-	-	0:52:24.260000	0:52:29.993000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:29.993000" end="0:52:35.333000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:29.993000" end="0:52:35.333000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:29.993000" end="0:52:35.333000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:29.993000" end="0:52:35.333000" project="PP03" age_lower="18" age_upper="35">
 unser	-	-	-	0:52:29.993000	0:52:35.333000
 letztes	-	-	-	0:52:29.993000	0:52:35.333000
 Karterl	-	-	-	0:52:29.993000	0:52:35.333000
 .	-	-	-	0:52:29.993000	0:52:35.333000
 <pause duration="3,8s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:35.333000" end="0:52:38.906000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:35.333000" end="0:52:38.906000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:52:35.333000	0:52:38.906000
 .	-	-	-	0:52:35.333000	0:52:38.906000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:38.906000" end="0:52:40.126000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:38.906000" end="0:52:40.126000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:52:38.906000	0:52:40.126000
 ist	-	-	-	0:52:38.906000	0:52:40.126000
 er	-	-	-	0:52:38.906000	0:52:40.126000
@@ -8064,16 +8064,16 @@ denn	-	-	-	0:52:38.906000	0:52:40.126000
 da	-	-	-	0:52:38.906000	0:52:40.126000
 ?	-	-	-	0:52:38.906000	0:52:40.126000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:40.126000" end="0:52:41.366000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:40.126000" end="0:52:41.366000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:52:40.126000	0:52:41.366000
 .	-	-	-	0:52:40.126000	0:52:41.366000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:41.366000" end="0:52:42.006000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:41.366000" end="0:52:42.006000" project="PP03" age_lower="18" age_upper="35">
 zeig	-	-	-	0:52:41.366000	0:52:42.006000
 einmal	-	-	-	0:52:41.366000	0:52:42.006000
 !	-	-	-	0:52:41.366000	0:52:42.006000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:42.006000" end="0:53:01.206000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:42.006000" end="0:53:01.206000" project="PP03" age_lower="18" age_upper="35">
 Kitzbühel	-	-	-	0:52:42.006000	0:52:44.560000
 .	-	-	-	0:52:42.006000	0:52:44.560000
 <pause duration="1,8s"/>
@@ -8113,7 +8113,7 @@ _a_	-	-	-	0:52:57.880000	0:53:01.206000
 so	-	-	-	0:52:57.880000	0:53:01.206000
 .	-	-	-	0:52:57.880000	0:53:01.206000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:01.206000" end="0:53:26.453000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:01.206000" end="0:53:26.453000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ich	-	-	-	0:53:01.206000	0:53:03.273000
 glaube	-	-	-	0:53:01.206000	0:53:03.273000
@@ -8158,7 +8158,7 @@ nein	-	-	-	0:53:23.040000	0:53:26.453000
 !	-	-	-	0:53:23.040000	0:53:26.453000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:26.453000" end="0:53:38.960000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:26.453000" end="0:53:38.960000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:53:26.453000	0:53:29.786000
 ja	-	-	-	0:53:26.453000	0:53:29.786000
 es	-	-	-	0:53:26.453000	0:53:29.786000
@@ -8194,7 +8194,7 @@ gekauft	-	-	-	0:53:35.940000	0:53:38.960000
 .	-	-	-	0:53:35.940000	0:53:38.960000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:38.960000" end="0:53:41.106000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:38.960000" end="0:53:41.106000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:53:38.960000	0:53:41.106000
 du	-	-	-	0:53:38.960000	0:53:41.106000
 bestellst	-	-	-	0:53:38.960000	0:53:41.106000
@@ -8203,20 +8203,20 @@ ein	-	-	-	0:53:38.960000	0:53:41.106000
 Shampoo	-	-	-	0:53:38.960000	0:53:41.106000
 ?	-	-	-	0:53:38.960000	0:53:41.106000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:41.106000" end="0:53:42.113000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:41.106000" end="0:53:42.113000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:53:41.106000	0:53:42.113000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:42.113000" end="0:53:43.013000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:42.113000" end="0:53:43.013000" project="PP03" age_lower="18" age_upper="35">
 (hm	-	-	-	0:53:42.113000	0:53:43.013000
 von)	-	-	-	0:53:42.113000	0:53:43.013000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:43.013000" end="0:53:43.473000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:43.013000" end="0:53:43.473000" project="PP03" age_lower="18" age_upper="35">
 irgendein	-	-	-	0:53:43.013000	0:53:43.473000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:43.013000" end="0:53:43.473000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:43.013000" end="0:53:43.473000" project="PP03" age_lower="18" age_upper="35">
 (irgendwo)	-	-	-	0:53:43.013000	0:53:43.473000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:43.473000" end="0:53:54.966000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:43.473000" end="0:53:54.966000" project="PP03" age_lower="18" age_upper="35">
 Spiel	-	-	-	0:53:43.473000	0:53:46.846000
 ist	-	-	-	0:53:43.473000	0:53:46.846000
 man	-	-	-	0:53:43.473000	0:53:46.846000
@@ -8263,7 +8263,7 @@ aber	-	-	-	0:53:52.260000	0:53:54.966000
 /.	-	-	-	0:53:52.260000	0:53:54.966000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:54.966000" end="0:54:01.080000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:54.966000" end="0:54:01.080000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:53:54.966000	0:53:56.240000
 ja	-	-	-	0:53:54.966000	0:53:56.240000
 es	-	-	-	0:53:54.966000	0:53:56.240000
@@ -8288,16 +8288,16 @@ was	-	-	-	0:54:00.206000	0:54:01.080000
 ich	-	-	-	0:54:00.206000	0:54:01.080000
 auch	-	-	-	0:54:00.206000	0:54:01.080000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:01.080000" end="0:54:01.660000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:01.080000" end="0:54:01.660000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:54:01.080000	0:54:01.660000
 glaube	-	-	-	0:54:01.080000	0:54:01.660000
 ,	-	-	-	0:54:01.080000	0:54:01.660000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:01.080000" end="0:54:01.660000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:01.080000" end="0:54:01.660000" project="PP03" age_lower="18" age_upper="35">
 finde	-	-	-	0:54:01.080000	0:54:01.660000
 /.	-	-	-	0:54:01.080000	0:54:01.660000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:01.660000" end="0:54:22.326000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:01.660000" end="0:54:22.326000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:54:01.660000	0:54:03.880000
 wird	-	-	-	0:54:01.660000	0:54:03.880000
 noch	-	-	-	0:54:01.660000	0:54:03.880000
@@ -8358,18 +8358,18 @@ mehr	-	-	-	0:54:21.553000	0:54:22.326000
 eine	-	-	-	0:54:21.553000	0:54:22.326000
 Frage	-	-	-	0:54:21.553000	0:54:22.326000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:21.553000" end="0:54:22.326000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:21.553000" end="0:54:22.326000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:54:21.553000	0:54:22.326000
 ?	-	-	-	0:54:21.553000	0:54:22.326000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:22.326000" end="0:54:23.140000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:22.326000" end="0:54:23.140000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:54:22.326000	0:54:23.140000
 Zeit	-	-	-	0:54:22.326000	0:54:23.140000
 ,	-	-	-	0:54:22.326000	0:54:23.140000
 ja	-	-	-	0:54:22.326000	0:54:23.140000
 .	-	-	-	0:54:22.326000	0:54:23.140000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:23.140000" end="0:54:33.626000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:23.140000" end="0:54:33.626000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:54:23.140000	0:54:24.373000
 Billa	-	-	-	0:54:23.140000	0:54:24.373000
 bietet	-	-	-	0:54:23.140000	0:54:24.373000
@@ -8400,7 +8400,7 @@ dann	-	-	-	0:54:29.686000	0:54:33.626000
 ?	-	-	-	0:54:29.686000	0:54:33.626000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:33.626000" end="0:54:35.300000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:33.626000" end="0:54:35.300000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:54:33.626000	0:54:35.300000
 gibt	-	-	-	0:54:33.626000	0:54:35.300000
 einen	-	-	-	0:54:33.626000	0:54:35.300000
@@ -8409,7 +8409,7 @@ online	-	-	-	0:54:33.626000	0:54:35.300000
 Shop	-	-	-	0:54:33.626000	0:54:35.300000
 .	-	-	-	0:54:33.626000	0:54:35.300000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:33.626000" end="0:54:39.753000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:33.626000" end="0:54:39.753000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:54:33.626000	0:54:35.300000
 das	-	-	-	0:54:33.626000	0:54:35.300000
 wi/	-	-	-	0:54:33.626000	0:54:35.300000
@@ -8428,7 +8428,7 @@ wann	-	-	-	0:54:35.300000	0:54:39.753000
 ?	-	-	-	0:54:35.300000	0:54:39.753000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:39.753000" end="0:54:43.453000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:39.753000" end="0:54:43.453000" project="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:54:39.753000	0:54:43.453000
 *siehst*	-	-	-	0:54:39.753000	0:54:43.453000
 eh	-	-	-	0:54:39.753000	0:54:43.453000
@@ -8439,7 +8439,7 @@ Werbung	-	-	-	0:54:39.753000	0:54:43.453000
 .	-	-	-	0:54:39.753000	0:54:43.453000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:43.453000" end="0:54:49.193000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:43.453000" end="0:54:49.193000" project="PP03" age_lower="18" age_upper="35">
 voll	-	-	-	0:54:43.453000	0:54:44.433000
 arg	-	-	-	0:54:43.453000	0:54:44.433000
 eigentlich	-	-	-	0:54:43.453000	0:54:44.433000
@@ -8457,7 +8457,7 @@ geliefert	-	-	-	0:54:44.906000	0:54:49.193000
 .	-	-	-	0:54:44.906000	0:54:49.193000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:49.193000" end="0:54:57.966000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:49.193000" end="0:54:57.966000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:54:49.193000	0:54:49.666000
 ich	-	-	-	0:54:49.193000	0:54:49.666000
 glaube	-	-	-	0:54:49.193000	0:54:49.666000
@@ -8485,17 +8485,17 @@ nicht	-	-	-	0:54:56.973000	0:54:57.966000
 mehr	-	-	-	0:54:56.973000	0:54:57.966000
 große	-	-	-	0:54:56.973000	0:54:57.966000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:56.973000" end="0:54:57.966000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:56.973000" end="0:54:57.966000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:54:56.973000	0:54:57.966000
 das	-	-	-	0:54:56.973000	0:54:57.966000
 /.	-	-	-	0:54:56.973000	0:54:57.966000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:57.966000" end="0:54:59" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:57.966000" end="0:54:59" project="PP03" age_lower="18" age_upper="35">
 Einkaufszentren	-	-	-	0:54:57.966000	0:54:59
 geben	-	-	-	0:54:57.966000	0:54:59
 .	-	-	-	0:54:57.966000	0:54:59
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:59" end="0:55:02.033000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:59" end="0:55:02.033000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:54:59	0:55:00.436000
 kann	-	-	-	0:54:59	0:55:00.436000
 sein	-	-	-	0:54:59	0:55:00.436000
@@ -8506,7 +8506,7 @@ du	-	-	-	0:55:00.436000	0:55:02.033000
 wahnsinnig	-	-	-	0:55:00.436000	0:55:02.033000
 !	-	-	-	0:55:00.436000	0:55:02.033000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:02.033000" end="0:55:08.626000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:02.033000" end="0:55:08.626000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:55:02.033000	0:55:03.513000
 es	-	-	-	0:55:02.033000	0:55:03.513000
 ,	-	-	-	0:55:02.033000	0:55:03.513000
@@ -8540,11 +8540,11 @@ nicht	-	-	-	0:55:07.920000	0:55:08.626000
 vorstellen	-	-	-	0:55:07.920000	0:55:08.626000
 ,	-	-	-	0:55:07.920000	0:55:08.626000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:07.920000" end="0:55:08.626000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:07.920000" end="0:55:08.626000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:55:07.920000	0:55:08.626000
 .	-	-	-	0:55:07.920000	0:55:08.626000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:08.626000" end="0:55:11.766000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:08.626000" end="0:55:11.766000" project="PP03" age_lower="18" age_upper="35">
 *dass*	-	-	-	0:55:08.626000	0:55:11.766000
 das	-	-	-	0:55:08.626000	0:55:11.766000
 zumachen	-	-	-	0:55:08.626000	0:55:11.766000
@@ -8553,13 +8553,13 @@ aber	-	-	-	0:55:08.626000	0:55:11.766000
 /.	-	-	-	0:55:08.626000	0:55:11.766000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:11.766000" end="0:55:13.073000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:11.766000" end="0:55:13.073000" project="PP03" age_lower="18" age_upper="35">
 vom	-	-	-	0:55:11.766000	0:55:13.073000
 Lebensmittelgeschäft	-	-	-	0:55:11.766000	0:55:13.073000
 her	-	-	-	0:55:11.766000	0:55:13.073000
 .	-	-	-	0:55:11.766000	0:55:13.073000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:13.073000" end="0:55:18.760000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:13.073000" end="0:55:18.760000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:55:13.073000	0:55:16.546000
 Konsum	-	-	-	0:55:13.073000	0:55:16.546000
 wird	-	-	-	0:55:13.073000	0:55:16.546000
@@ -8576,7 +8576,7 @@ allen	-	-	-	0:55:16.546000	0:55:18.760000
 Geschäften	-	-	-	0:55:16.546000	0:55:18.760000
 .	-	-	-	0:55:16.546000	0:55:18.760000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:18.760000" end="0:55:33.354000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:18.760000" end="0:55:33.354000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:55:18.760000	0:55:25.420000
 .	-	-	-	0:55:18.760000	0:55:25.420000
 <pause duration="4,8s"/>
@@ -8605,7 +8605,7 @@ trotzdem	-	-	-	0:55:29.916000	0:55:33.354000
 .	-	-	-	0:55:29.916000	0:55:33.354000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:33.354000" end="0:55:39.870000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:33.354000" end="0:55:39.870000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:55:33.354000	0:55:34.129000
 ich	-	-	-	0:55:33.354000	0:55:34.129000
 glaube	-	-	-	0:55:33.354000	0:55:34.129000
@@ -8629,7 +8629,7 @@ kann	-	-	-	0:55:36.032000	0:55:39.870000
 .	-	-	-	0:55:36.032000	0:55:39.870000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:39.870000" end="0:55:43.212000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:39.870000" end="0:55:43.212000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:55:39.870000	0:55:43.212000
 aber	-	-	-	0:55:39.870000	0:55:43.212000
 i/	-	-	-	0:55:39.870000	0:55:43.212000
@@ -8642,7 +8642,7 @@ noch	-	-	-	0:55:39.870000	0:55:43.212000
 hinausholen	-	-	-	0:55:39.870000	0:55:43.212000
 ?	-	-	-	0:55:39.870000	0:55:43.212000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:43.212000" end="0:56:01.709000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:43.212000" end="0:56:01.709000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ich	-	-	-	0:55:43.212000	0:55:49.341000
 glaube	-	-	-	0:55:43.212000	0:55:49.341000
@@ -8679,12 +8679,12 @@ was	-	-	-	0:55:57.916000	0:56:01.709000
 /.	-	-	-	0:55:57.916000	0:56:01.709000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:01.709000" end="0:56:09.187000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:01.709000" end="0:56:09.187000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:56:01.709000	0:56:09.187000
 .	-	-	-	0:56:01.709000	0:56:09.187000
 <pause duration="6,4s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:09.187000" end="0:56:18.264000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:09.187000" end="0:56:18.264000" project="PP03" age_lower="18" age_upper="35">
 ach	-	-	-	0:56:09.187000	0:56:18.264000
 !	-	-	-	0:56:09.187000	0:56:18.264000
 <pause duration="7,1s"/>
@@ -8693,7 +8693,7 @@ dem	-	-	-	0:56:09.187000	0:56:18.264000
 Auto)	-	-	-	0:56:09.187000	0:56:18.264000
 ?	-	-	-	0:56:09.187000	0:56:18.264000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:18.264000" end="0:56:45.483000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:18.264000" end="0:56:45.483000" project="PP03" age_lower="18" age_upper="35">
 mm	-	-	-	0:56:18.264000	0:56:22.574000
 .	-	-	-	0:56:18.264000	0:56:22.574000
 <pause duration="3,6s"/>
@@ -8731,7 +8731,7 @@ eigentlich	-	-	-	0:56:38.574000	0:56:45.483000
 .	-	-	-	0:56:38.574000	0:56:45.483000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:45.483000" end="0:56:52.761000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:45.483000" end="0:56:52.761000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:56:45.483000	0:56:49.432000
 das	-	-	-	0:56:45.483000	0:56:49.432000
 wird	-	-	-	0:56:45.483000	0:56:49.432000
@@ -8741,13 +8741,13 @@ schwerer	-	-	-	0:56:45.483000	0:56:49.432000
 .	-	-	-	0:56:45.483000	0:56:49.432000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:49.432000" end="0:56:52.761000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:49.432000" end="0:56:52.761000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:56:49.432000	0:56:52.761000
 heißt	-	-	-	0:56:49.432000	0:56:52.761000
 schwerer	-	-	-	0:56:49.432000	0:56:52.761000
 ?	-	-	-	0:56:49.432000	0:56:52.761000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:52.761000" end="0:57:03.161000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:52.761000" end="0:57:03.161000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:56:52.761000	0:56:54.774000
 weil	-	-	-	0:56:52.761000	0:56:54.774000
 es	-	-	-	0:56:52.761000	0:56:54.774000
@@ -8764,7 +8764,7 @@ auskennen	-	-	-	0:56:54.774000	0:57:00.070000
 .	-	-	-	0:56:54.774000	0:57:00.070000
 <pause duration="3,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:00.070000" end="0:57:03.161000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:00.070000" end="0:57:03.161000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:00.070000	0:57:03.161000
 aber	-	-	-	0:57:00.070000	0:57:03.161000
 auch	-	-	-	0:57:00.070000	0:57:03.161000
@@ -8777,15 +8777,15 @@ und	-	-	-	0:57:00.070000	0:57:03.161000
 so	-	-	-	0:57:00.070000	0:57:03.161000
 .	-	-	-	0:57:00.070000	0:57:03.161000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:03.161000" end="0:57:09.232000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:03.161000" end="0:57:09.232000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:03.161000" end="0:57:09.232000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:03.161000" end="0:57:09.232000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:09.232000" end="0:57:09.903000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:09.232000" end="0:57:09.903000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:09.232000	0:57:09.903000
 .	-	-	-	0:57:09.232000	0:57:09.903000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:09.232000" end="0:57:13.748000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:09.232000" end="0:57:13.748000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:57:09.232000	0:57:09.903000
 kommen	-	-	-	0:57:09.232000	0:57:09.903000
 fix	-	-	-	0:57:09.903000	0:57:13.748000
@@ -8795,29 +8795,29 @@ Auflagen	-	-	-	0:57:09.903000	0:57:13.748000
 .	-	-	-	0:57:09.903000	0:57:13.748000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:13.748000" end="0:57:16.619000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:13.748000" end="0:57:16.619000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:13.748000	0:57:16.619000
 .	-	-	-	0:57:13.748000	0:57:16.619000
 <pause duration="2,2s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:16.619000" end="0:57:18.045000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:16.619000" end="0:57:18.045000" project="PP03" age_lower="18" age_upper="35">
 *wird*	-	-	-	0:57:16.619000	0:57:18.045000
 eh	-	-	-	0:57:16.619000	0:57:18.045000
 so	-	-	-	0:57:16.619000	0:57:18.045000
 sein	-	-	-	0:57:16.619000	0:57:18.045000
 .	-	-	-	0:57:16.619000	0:57:18.045000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:18.045000" end="0:57:24.490000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:18.045000" end="0:57:24.490000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:18.045000" end="0:57:24.490000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:18.045000" end="0:57:24.490000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:24.490000" end="0:57:30.296000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:24.490000" end="0:57:30.296000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:24.490000	0:57:27.109000
 ist	-	-	-	0:57:24.490000	0:57:27.109000
 so	-	-	-	0:57:24.490000	0:57:27.109000
 .	-	-	-	0:57:24.490000	0:57:27.109000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:27.109000" end="0:57:33.709000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:27.109000" end="0:57:33.709000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:57:30.296000	0:57:31.251000
 jetzt	-	-	-	0:57:30.296000	0:57:31.251000
 merkt	-	-	-	0:57:30.296000	0:57:31.251000
@@ -8833,7 +8833,7 @@ geredet	-	-	-	0:57:31.251000	0:57:33.709000
 haben	-	-	-	0:57:31.251000	0:57:33.709000
 .	-	-	-	0:57:31.251000	0:57:33.709000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:33.709000" end="0:57:43.277000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:33.709000" end="0:57:43.277000" project="PP03" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:57:33.709000	0:57:37.683000
 fehlen	-	-	-	0:57:33.709000	0:57:37.683000
 nur	-	-	-	0:57:33.709000	0:57:37.683000
@@ -8858,9 +8858,9 @@ ziehen	-	-	-	0:57:39.419000	0:57:41.225000
 will	-	-	-	0:57:39.419000	0:57:41.225000
 ,	-	-	-	0:57:39.419000	0:57:41.225000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:41.225000" end="0:57:43.277000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:41.225000" end="0:57:43.277000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:43.277000" end="0:57:49.961000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:43.277000" end="0:57:49.961000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:57:43.277000	0:57:48.070000
 <pause duration="1,3s"/>
 ja	-	-	-	0:57:43.277000	0:57:48.070000
@@ -8872,7 +8872,7 @@ ein	-	-	-	0:57:43.277000	0:57:48.070000
 Mensch	-	-	-	0:57:43.277000	0:57:48.070000
 ,	-	-	-	0:57:43.277000	0:57:48.070000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:48.070000" end="0:57:49.961000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:48.070000" end="0:57:49.961000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:57:48.070000	0:57:49.961000
 *kommst*	-	-	-	0:57:48.070000	0:57:49.961000
 jetzt	-	-	-	0:57:48.070000	0:57:49.961000
@@ -8880,7 +8880,7 @@ auf	-	-	-	0:57:48.070000	0:57:49.961000
 das	-	-	-	0:57:48.070000	0:57:49.961000
 ?	-	-	-	0:57:48.070000	0:57:49.961000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:49.961000" end="0:58:01.838000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:49.961000" end="0:58:01.838000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:49.961000	0:57:53.361000
 weil	-	-	-	0:57:49.961000	0:57:53.361000
 das	-	-	-	0:57:49.961000	0:57:53.361000
@@ -8907,7 +8907,7 @@ zufrieden	-	-	-	0:58:00.587000	0:58:01.838000
 bin	-	-	-	0:58:00.587000	0:58:01.838000
 .	-	-	-	0:58:00.587000	0:58:01.838000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:00.587000" end="0:58:09.135000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:00.587000" end="0:58:09.135000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:58:00.587000	0:58:01.838000
 ,	-	-	-	0:58:00.587000	0:58:01.838000
 ist	-	-	-	0:58:00.587000	0:58:01.838000
@@ -8928,40 +8928,40 @@ so	-	-	-	0:58:08.045000	0:58:09.135000
 viele	-	-	-	0:58:08.045000	0:58:09.135000
 Seen	-	-	-	0:58:08.045000	0:58:09.135000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:09.135000" end="0:58:10.341000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:09.135000" end="0:58:10.341000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:58:09.135000	0:58:10.341000
 kommt	-	-	-	0:58:09.135000	0:58:10.341000
 gleich	-	-	-	0:58:09.135000	0:58:10.341000
 .	-	-	-	0:58:09.135000	0:58:10.341000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:09.135000" end="0:58:10.341000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:09.135000" end="0:58:10.341000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:58:09.135000	0:58:10.341000
 so	-	-	-	0:58:09.135000	0:58:10.341000
 viele	-	-	-	0:58:09.135000	0:58:10.341000
 Berge	-	-	-	0:58:09.135000	0:58:10.341000
 .	-	-	-	0:58:09.135000	0:58:10.341000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:10.341000" end="0:58:19.129000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:10.341000" end="0:58:19.129000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:10.341000" end="0:58:21.825000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:10.341000" end="0:58:21.825000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:58:19.129000	0:58:21.825000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:21.825000" end="0:58:29.670000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:21.825000" end="0:58:29.670000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:21.825000" end="0:58:29.670000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:21.825000" end="0:58:29.670000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:58:21.825000	0:58:29.670000
 ist	-	-	-	0:58:21.825000	0:58:29.670000
 das	-	-	-	0:58:21.825000	0:58:29.670000
 .	-	-	-	0:58:21.825000	0:58:29.670000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:29.670000" end="0:58:34.096000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:29.670000" end="0:58:34.096000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:58:29.670000	0:58:34.096000
 ja	-	-	-	0:58:29.670000	0:58:34.096000
 .	-	-	-	0:58:29.670000	0:58:34.096000
 <pause duration="3,4s"/>
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:34.096000" end="0:58:36.858000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:34.096000" end="0:58:36.858000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:58:34.096000	0:58:36.858000
 wie	-	-	-	0:58:34.096000	0:58:36.858000
 viele	-	-	-	0:58:34.096000	0:58:36.858000
@@ -8972,11 +8972,11 @@ jetzt	-	-	-	0:58:34.096000	0:58:36.858000
 noch	-	-	-	0:58:34.096000	0:58:36.858000
 ?	-	-	-	0:58:34.096000	0:58:36.858000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:36.858000" end="0:58:41.277000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:36.858000" end="0:58:41.277000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:36.858000" end="0:58:41.277000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:36.858000" end="0:58:41.277000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:41.277000" end="0:58:43.587000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:41.277000" end="0:58:43.587000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:58:41.277000	0:58:43.587000
 eine	-	-	-	0:58:41.277000	0:58:43.587000
 Stunde	-	-	-	0:58:41.277000	0:58:43.587000
@@ -8985,9 +8985,9 @@ echt	-	-	-	0:58:41.277000	0:58:43.587000
 anstrengend	-	-	-	0:58:41.277000	0:58:43.587000
 .	-	-	-	0:58:41.277000	0:58:43.587000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:41.277000" end="0:58:43.587000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:41.277000" end="0:58:43.587000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:43.587000" end="0:58:45.438000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:43.587000" end="0:58:45.438000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:58:43.587000	0:58:45.438000
 wir	-	-	-	0:58:43.587000	0:58:45.438000
 haben	-	-	-	0:58:43.587000	0:58:45.438000
@@ -8998,7 +8998,7 @@ gehalten	-	-	-	0:58:43.587000	0:58:45.438000
 eigentlich	-	-	-	0:58:43.587000	0:58:45.438000
 .	-	-	-	0:58:43.587000	0:58:45.438000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:43.587000" end="0:58:46.064000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:43.587000" end="0:58:46.064000" project="PP03" age_lower="18" age_upper="35">
 n	-	-	-	0:58:43.587000	0:58:45.438000
 sich	-	-	-	0:58:43.587000	0:58:45.438000
 ur	-	-	-	0:58:43.587000	0:58:45.438000
@@ -9008,12 +9008,12 @@ finde	-	-	-	0:58:45.438000	0:58:46.064000
 ich	-	-	-	0:58:45.438000	0:58:46.064000
 auch	-	-	-	0:58:45.438000	0:58:46.064000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:46.064000" end="0:58:49.438000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:46.064000" end="0:58:49.438000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:58:46.064000	0:58:49.438000
 die	-	-	-	0:58:46.064000	0:58:49.438000
 Karterl	-	-	-	0:58:46.064000	0:58:49.438000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:46.064000" end="0:58:49.438000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:46.064000" end="0:58:49.438000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:58:46.064000	0:58:49.438000
 die	-	-	-	0:58:46.064000	0:58:49.438000
 Karterl	-	-	-	0:58:46.064000	0:58:49.438000
@@ -9027,7 +9027,7 @@ fertig	-	-	-	0:58:46.064000	0:58:49.438000
 gemacht	-	-	-	0:58:46.064000	0:58:49.438000
 .	-	-	-	0:58:46.064000	0:58:49.438000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:49.438000" end="0:58:59.019000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:49.438000" end="0:58:59.019000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:58:49.438000	0:58:56.812000
 <pause duration="1,5s"/>
 also	-	-	-	0:58:49.438000	0:58:56.812000
@@ -9041,9 +9041,9 @@ gute	-	-	-	0:58:49.438000	0:58:56.812000
 gewesen	-	-	-	0:58:49.438000	0:58:56.812000
 .	-	-	-	0:58:49.438000	0:58:56.812000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:56.812000" end="0:58:59.019000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:56.812000" end="0:58:59.019000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:59.019000" end="0:59:01.864000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:59.019000" end="0:59:01.864000" project="PP03" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:58:59.019000	0:59:00.516000
 läutet	-	-	-	0:58:59.019000	0:59:00.516000
 das	-	-	-	0:58:59.019000	0:59:00.516000
@@ -9055,11 +9055,11 @@ sie	-	-	-	0:59:00.516000	0:59:01.864000
 kommt	-	-	-	0:59:00.516000	0:59:01.864000
 !	-	-	-	0:59:00.516000	0:59:01.864000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:01.864000" end="0:59:02.264000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:01.864000" end="0:59:02.264000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:59:01.864000	0:59:02.264000
 !	-	-	-	0:59:01.864000	0:59:02.264000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:02.264000" end="0:59:09.374000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:02.264000" end="0:59:09.374000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:59:06.722000	0:59:07.922000
 meine	-	-	-	0:59:06.722000	0:59:07.922000
 Schwester	-	-	-	0:59:06.722000	0:59:07.922000
@@ -9071,11 +9071,11 @@ Telefon	-	-	-	0:59:07.922000	0:59:09.374000
 gehen	-	-	-	0:59:07.922000	0:59:09.374000
 .	-	-	-	0:59:07.922000	0:59:09.374000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:07.922000" end="0:59:09.374000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:07.922000" end="0:59:09.374000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:09.374000" end="0:59:21.122000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:09.374000" end="0:59:21.122000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:21.122000" end="0:59:27.567000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:21.122000" end="0:59:27.567000" project="PP03" age_lower="18" age_upper="35">
 d/	-	-	-	0:59:21.122000	0:59:25.438000
 mei/	-	-	-	0:59:21.122000	0:59:25.438000
 u/	-	-	-	0:59:21.122000	0:59:25.438000
@@ -9094,32 +9094,32 @@ arbeiten	-	-	-	0:59:25.438000	0:59:27.567000
 gehen	-	-	-	0:59:25.438000	0:59:27.567000
 .	-	-	-	0:59:25.438000	0:59:27.567000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:27.567000" end="0:59:31.677000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:27.567000" end="0:59:31.677000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:27.567000" end="0:59:31.677000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:27.567000" end="0:59:31.677000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:31.677000" end="0:59:34.354000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:31.677000" end="0:59:34.354000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:59:31.677000	0:59:34.354000
 .	-	-	-	0:59:31.677000	0:59:34.354000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:31.677000" end="0:59:34.354000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:31.677000" end="0:59:34.354000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:34.354000" end="0:59:35.387000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:34.354000" end="0:59:35.387000" age_lower="1" age_upper="999">
 hallo	-	-	-	0:59:34.354000	0:59:35.387000
 !	-	-	-	0:59:34.354000	0:59:35.387000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:35.387000" end="0:59:36.361000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:35.387000" end="0:59:36.361000" project="PP03" age_lower="18" age_upper="35">
 hallo	-	-	-	0:59:35.387000	0:59:36.361000
 !	-	-	-	0:59:35.387000	0:59:36.361000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:36.361000" end="0:59:37.941000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:36.361000" end="0:59:37.941000" age_lower="1" age_upper="999">
 wie	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:59:36.361000	0:59:37.941000
 geht	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:59:36.361000	0:59:37.941000
 es	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:59:36.361000	0:59:37.941000
 Ihnen	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:59:36.361000	0:59:37.941000
 ?	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:59:36.361000	0:59:37.941000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:37.941000" end="0:59:39.561000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:37.941000" end="0:59:39.561000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:59:37.941000	0:59:39.561000
 wir	-	-	-	0:59:37.941000	0:59:39.561000
 sind	-	-	-	0:59:37.941000	0:59:39.561000
@@ -9128,25 +9128,25 @@ f/	-	-	-	0:59:37.941000	0:59:39.561000
 fertig	-	-	-	0:59:37.941000	0:59:39.561000
 .	-	-	-	0:59:37.941000	0:59:39.561000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:39.561000" end="0:59:40.503000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:39.561000" end="0:59:40.503000" age_lower="1" age_upper="999">
 haben	-	-	-	0:59:39.561000	0:59:40.503000
 Sie	-	-	-	0:59:39.561000	0:59:40.503000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:39.561000" end="0:59:40.503000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:39.561000" end="0:59:40.503000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:39.561000" end="0:59:40.503000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:39.561000" end="0:59:40.503000" project="PP03" age_lower="18" age_upper="35">
 (fast)	-	-	-	0:59:39.561000	0:59:40.503000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:40.503000" end="0:59:42.219000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:40.503000" end="0:59:42.219000" age_lower="1" age_upper="999">
 alle	-	-	-	0:59:40.503000	0:59:41.425000
 durch	-	-	-	0:59:40.503000	0:59:41.425000
 ?	-	-	-	0:59:40.503000	0:59:41.425000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:41.425000" end="0:59:42.219000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:41.425000" end="0:59:42.219000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:59:41.425000	0:59:42.219000
 .	-	-	-	0:59:41.425000	0:59:42.219000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:42.219000" end="0:59:45.154000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:42.219000" end="0:59:45.154000" age_lower="1" age_upper="999">
 allen	-	-	-	0:59:42.219000	0:59:44.193000
 zu	-	-	-	0:59:42.219000	0:59:44.193000
 denen	-	-	-	0:59:42.219000	0:59:44.193000
@@ -9157,16 +9157,16 @@ ist	-	-	-	0:59:42.219000	0:59:44.193000
 (zumindest)	-	-	-	0:59:44.193000	0:59:45.154000
 ?	-	-	-	0:59:44.193000	0:59:45.154000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:44.193000" end="0:59:45.154000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:44.193000" end="0:59:45.154000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:59:44.193000	0:59:45.154000
 .	-	-	-	0:59:44.193000	0:59:45.154000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:45.154000" end="0:59:46.148000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:45.154000" end="0:59:46.148000" age_lower="1" age_upper="999">
 ja	-	-	-	0:59:45.154000	0:59:46.148000
 super	-	-	-	0:59:45.154000	0:59:46.148000
 !	-	-	-	0:59:45.154000	0:59:46.148000
 </u>
-<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:45.154000" end="0:59:46.916000" age_lower="18" age_upper="35">
+<u who="spk_525" sex="female" age="jung (18-35) +matura" name="Informant 0543" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:45.154000" end="0:59:46.916000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:59:45.154000	0:59:46.148000
 wir	-	-	-	0:59:45.154000	0:59:46.148000
 haben	-	-	-	0:59:45.154000	0:59:46.148000
@@ -9176,7 +9176,7 @@ alle	-	-	-	0:59:46.148000	0:59:46.916000
 gemacht	-	-	-	0:59:46.148000	0:59:46.916000
 .	-	-	-	0:59:46.148000	0:59:46.916000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:46.916000" end="0:59:50.825000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:46.916000" end="0:59:50.825000" age_lower="1" age_upper="999">
 super	-	-	-	0:59:46.916000	0:59:49.858000
 !	-	-	-	0:59:46.916000	0:59:49.858000
 toll	-	-	-	0:59:46.916000	0:59:49.858000
@@ -9189,9 +9189,9 @@ ja	-	-	-	0:59:49.858000	0:59:50.825000
 bitte	-	-	-	0:59:49.858000	0:59:50.825000
 ,	-	-	-	0:59:49.858000	0:59:50.825000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:49.858000" end="0:59:50.825000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:49.858000" end="0:59:50.825000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:50.825000" end="1:00:01.806000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:50.825000" end="1:00:01.806000" age_lower="1" age_upper="999">
 ja	-	-	-	0:59:50.825000	0:59:54.574000
 das	-	-	-	0:59:50.825000	0:59:54.574000
 wird	-	-	-	0:59:50.825000	0:59:54.574000
@@ -9223,7 +9223,7 @@ ist	-	-	-	0:59:56.574000	1:00:01.806000
 ein	-	-	-	0:59:56.574000	1:00:01.806000
 /.	-	-	-	0:59:56.574000	1:00:01.806000
 </u>
-<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:56.574000" end="1:00:01.806000" age_lower="18" age_upper="35">
+<u who="spk_532" sex="female" age="jung (18-35) +matura" name="Informant 0544" subproject="PP03" standard_competence="3" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:56.574000" end="1:00:01.806000" project="PP03" age_lower="18" age_upper="35">
 </u>
 </file>
 </doc>

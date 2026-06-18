@@ -1,12 +1,12 @@
 <doc id="transcript_543" name="4017_THAL_alt_m_AI" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="543.xml" title="Transcript: Transcript_543">
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:00:00" end="0:03:29.166000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:00:00" end="0:03:29.166000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:00:00" end="0:03:29.166000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:03:29.166000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:00:00" end="0:03:29.166000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:03:29.166000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:03:29.166000" end="0:03:33.379000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:29.166000" end="0:03:33.379000" age_lower="1" age_upper="999">
 und	-	-	-	0:03:29.166000	0:03:30.753000
 ähm	-	-	-	0:03:29.166000	0:03:30.753000
 hier	-	-	-	0:03:29.166000	0:03:30.753000
@@ -24,7 +24,7 @@ ORT	ORT	-	-	0:03:30.753000	0:03:33.379000
 ?	-	-	-	0:03:30.753000	0:03:33.379000
 ORT	ORT	-	-	0:03:30.753000	0:03:33.379000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:03:33.379000" end="0:03:47.353000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:03:33.379000" end="0:03:47.353000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,7s"/>
 wir	-	-	-	0:03:33.379000	0:03:36.339000
 haben	-	-	-	0:03:33.379000	0:03:36.339000
@@ -50,11 +50,11 @@ noch	-	-	-	0:03:41.326000	0:03:45.106000
 davon	-	-	-	0:03:41.326000	0:03:45.106000
 ,	-	-	-	0:03:41.326000	0:03:45.106000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:03:47.353000" end="0:03:47.713000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:47.353000" end="0:03:47.713000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:47.353000	0:03:47.713000
 ?	-	-	-	0:03:47.353000	0:03:47.713000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:03:47.353000" end="0:03:56.893000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:03:47.353000" end="0:03:56.893000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	0int final Int konsak medial PosSatz PosTurn QTForm QTFunk QTNegPart QuestTag RespType rise	0:03:47.353000	0:03:47.639000
 ?	-	-	-	0:03:47.353000	0:03:47.639000
 dass	-	-	-	0:03:47.639000	0:03:48.733000
@@ -84,11 +84,11 @@ haben	-	-	-	0:03:54.826000	0:03:56.666000
 ja	-	-	0int final Int konsak medial PosSatz PosTurn QTAffPart QTForm QTFunk QuestTag RespType rise	0:03:56.666000	0:03:56.893000
 .	-	-	-	0:03:56.666000	0:03:56.893000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:03:56.893000" end="0:03:57.366000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:56.893000" end="0:03:57.366000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:56.893000	0:03:57.366000
 ?	-	-	-	0:03:56.893000	0:03:57.366000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:03:57.366000" end="0:03:59.839000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:03:57.366000" end="0:03:59.839000" project="PP04" age_lower="65" age_upper="999">
 n_	-	-	-	0:03:57.366000	0:03:57.826000
 _ja	-	-	-	0:03:57.366000	0:03:57.826000
 .	-	-	-	0:03:57.366000	0:03:57.826000
@@ -98,7 +98,7 @@ Haus	-	-	-	0:03:57.826000	0:03:59.059000
 .	-	-	-	0:03:57.826000	0:03:59.059000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:03:59.839000" end="0:04:13.453000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:59.839000" end="0:04:13.453000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:59.839000	0:04:01.199000
 und	-	-	-	0:03:59.839000	0:04:01.199000
 ist	-	-	-	0:03:59.839000	0:04:01.199000
@@ -124,7 +124,7 @@ noch	-	-	-	0:04:11.946000	0:04:12.486000
 Mal	-	-	-	0:04:11.946000	0:04:12.486000
 wegzuziehen	-	-	-	0:04:11.946000	0:04:12.486000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:04:12.753000" end="0:04:44.926000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:04:12.753000" end="0:04:44.926000" project="PP04" age_lower="65" age_upper="999">
 generell	-	-	-	0:04:12.753000	0:04:13.453000
 generell	-	-	-	0:04:12.753000	0:04:13.453000
 oder	-	-	-	0:04:20.086000	0:04:22.079000
@@ -181,13 +181,13 @@ da	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:04:41.106000	0:0
 noch	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:04:41.106000	0:04:41.573000
 nicht	-	-	-	0:04:41.106000	0:04:41.573000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:04:44.926000" end="0:04:45.813000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:44.926000" end="0:04:45.813000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 m_	-	-	-	0:04:44.926000	0:04:45.813000
 _h	-	-	-	0:04:44.926000	0:04:45.813000
 .	-	-	-	0:04:44.926000	0:04:45.813000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:04:45.813000" end="0:04:47.846000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:04:45.813000" end="0:04:47.846000" project="PP04" age_lower="65" age_upper="999">
 noch	-	-	-	0:04:45.813000	0:04:47.613000
 Mal	-	-	-	0:04:45.813000	0:04:47.613000
 woanders	-	-	-	0:04:45.813000	0:04:47.613000
@@ -196,7 +196,7 @@ hinzugehen	-	-	-	0:04:45.813000	0:04:47.613000
 ja	-	-	0int final Int konsak PosSatz PosTurn QTAffPart QTForm QTFunk QuestTag RespType rise	0:04:47.613000	0:04:47.846000
 .	-	-	-	0:04:47.613000	0:04:47.846000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:04:47.846000" end="0:04:53.459000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:47.846000" end="0:04:53.459000" age_lower="1" age_upper="999">
 und	-	-	-	0:04:47.846000	0:04:50.786000
 man	-	-	-	0:04:47.846000	0:04:50.786000
 kann	-	-	-	0:04:47.846000	0:04:50.786000
@@ -214,7 +214,7 @@ der	-	-	-	0:04:51.533000	0:04:53.459000
 Gegend	-	-	-	0:04:51.533000	0:04:53.459000
 .	-	-	-	0:04:51.533000	0:04:53.459000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:04:52.593000" end="0:04:56.179000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:04:52.593000" end="0:04:56.179000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:52.593000	0:04:52.953000
 .	-	-	-	0:04:52.593000	0:04:52.953000
 nein	-	-	-	0:04:52.953000	0:04:56.179000
@@ -229,24 +229,24 @@ wir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:04:52.953000	0:04
 regelmäßig	-	-	-	0:04:52.953000	0:04:56.179000
 .	-	-	-	0:04:52.953000	0:04:56.179000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:04:53.459000" end="0:04:54.366000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:53.459000" end="0:04:54.366000" age_lower="1" age_upper="999">
 so	-	-	-	0:04:53.459000	0:04:54.366000
 in	-	-	-	0:04:53.459000	0:04:54.366000
 der	-	-	-	0:04:53.459000	0:04:54.366000
 Natur	-	-	-	0:04:53.459000	0:04:54.366000
 .	-	-	-	0:04:53.459000	0:04:54.366000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:04:56.179000" end="0:04:59.433000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:04:56.179000" end="0:04:59.433000" project="PP04" age_lower="65" age_upper="999">
 wirklich	-	-	-	0:04:56.179000	0:04:56.633000
 <pause duration="0,5s"/>
 direkt	-	-	-	0:04:56.179000	0:04:56.633000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:04:59.433000" end="0:05:00.153000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:59.433000" end="0:05:00.153000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:04:59.433000	0:05:00.153000
 .	-	-	-	0:04:59.433000	0:05:00.153000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:00.153000" end="0:05:01.593000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:00.153000" end="0:05:01.593000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	0:05:00.153000	0:05:01.366000
 zumindest	-	-	-	0:05:00.153000	0:05:01.366000
 nich	-	-	-	0:05:00.153000	0:05:01.366000
@@ -255,7 +255,7 @@ weit	-	-	-	0:05:00.153000	0:05:01.366000
 nicht	-	-	0int final Int konsak PosSatz PosTurn QTForm QTFunk QTNegPart QuestTag RespType rise	0:05:01.366000	0:05:01.593000
 ?	-	-	-	0:05:01.366000	0:05:01.593000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:01.593000" end="0:05:07.699000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:01.593000" end="0:05:07.699000" age_lower="1" age_upper="999">
 jaja	-	-	-	0:05:01.593000	0:05:02.453000
 .	-	-	-	0:05:01.593000	0:05:02.453000
 <pause duration="0,5s"/>
@@ -270,7 +270,7 @@ da	-	-	-	0:05:06.259000	0:05:07.699000
 gern	-	-	-	0:05:06.259000	0:05:07.699000
 ?	-	-	-	0:05:06.259000	0:05:07.699000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:07.699000" end="0:05:13.906000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:07.699000" end="0:05:13.906000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:05:07.699000	0:05:08.406000
 .	-	-	-	0:05:07.699000	0:05:08.406000
 nicht	-	-	-	0:05:08.406000	0:05:09.933000
@@ -291,13 +291,13 @@ Tennisspielen	-	-	-	0:05:11.179000	0:05:12.633000
 mit	-	-	-	0:05:11.179000	0:05:12.633000
 Kollegen.	-	-	-	0:05:11.179000	0:05:12.633000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:12.926000" end="0:05:14.446000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:12.926000" end="0:05:14.446000" age_lower="1" age_upper="999">
 ah	-	-	-	0:05:12.926000	0:05:13.253000
 .	-	-	-	0:05:12.926000	0:05:13.253000
 fein	-	-	-	0:05:13.906000	0:05:14.446000
 .	-	-	-	0:05:13.906000	0:05:14.446000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:14.446000" end="0:05:22.099000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:14.446000" end="0:05:22.099000" project="PP04" age_lower="65" age_upper="999">
 bissel	-	-	-	0:05:14.446000	0:05:15.826000
 lesen	-	-	-	0:05:14.446000	0:05:15.826000
 .	-	-	-	0:05:14.446000	0:05:15.826000
@@ -318,9 +318,9 @@ der	-	-	-	0:05:18.266000	0:05:22.099000
 Gegend	-	-	-	0:05:18.266000	0:05:22.099000
 .	-	-	-	0:05:18.266000	0:05:22.099000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:05:23.686000" end="0:05:25.439000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:23.686000" end="0:05:25.439000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:24.006000" end="0:05:26.633000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:24.006000" end="0:05:26.633000" project="PP04" age_lower="65" age_upper="999">
 mit	-	-	-	0:05:24.006000	0:05:24.906000
 der	-	-	-	0:05:24.006000	0:05:24.906000
 mit	-	-	-	0:05:24.006000	0:05:24.906000
@@ -333,25 +333,25 @@ Schnee	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:05:25.4
 gibt	-	-	-	0:05:25.439000	0:05:26.633000
 .	-	-	-	0:05:25.439000	0:05:26.633000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:25.613000" end="0:05:26.693000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:25.613000" end="0:05:26.693000" age_lower="1" age_upper="999">
 ha	-	-	-	0:05:25.613000	0:05:25.853000
 .	-	-	-	0:05:25.613000	0:05:25.853000
 mhm	-	-	-	0:05:26.373000	0:05:26.693000
 .	-	-	-	0:05:26.373000	0:05:26.693000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:26.633000" end="0:05:27.386000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:26.633000" end="0:05:27.386000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	-	0:05:26.633000	0:05:27.386000
 teilweise/	-	-	-	0:05:26.633000	0:05:27.386000
 .	-	-	-	0:05:26.633000	0:05:27.386000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:05:26.693000" end="0:05:28.299000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:26.693000" end="0:05:28.299000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:28.299000" end="0:05:29.119000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:28.299000" end="0:05:29.119000" age_lower="1" age_upper="999">
 öh	-	-	-	0:05:28.299000	0:05:29.119000
 praktisch	-	-	-	0:05:28.299000	0:05:29.119000
 .	-	-	-	0:05:28.299000	0:05:29.119000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:29.119000" end="0:05:34.686000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:29.119000" end="0:05:34.686000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:05:29.119000	0:05:29.499000
 .	-	-	-	0:05:29.119000	0:05:29.499000
 das	-	-	-	0:05:29.499000	0:05:30.746000
@@ -373,29 +373,29 @@ halt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:05:32.36600
 <pause duration="0,5s"/>
 nicht	-	-	-	0:05:32.366000	0:05:34.686000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:34.686000" end="0:05:36.426000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:34.686000" end="0:05:36.426000" age_lower="1" age_upper="999">
 immer	-	-	-	0:05:34.686000	0:05:36.426000
 schwieriger	-	-	-	0:05:34.686000	0:05:36.426000
 .	-	-	-	0:05:34.686000	0:05:36.426000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:34.686000" end="0:05:36.619000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:34.686000" end="0:05:36.619000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	0int final Int konsak medial PosSatz PosTurn QTForm QTFunk QTNegPart QuestTag RespType rise	0:05:36.426000	0:05:36.619000
 ?	-	-	-	0:05:36.426000	0:05:36.619000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:36.619000" end="0:05:37.386000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:36.619000" end="0:05:37.386000" age_lower="1" age_upper="999">
 jaja	-	-	-	0:05:36.619000	0:05:37.386000
 .	-	-	-	0:05:36.619000	0:05:37.386000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:39.313000" end="0:05:40.446000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:39.313000" end="0:05:40.446000" project="PP04" age_lower="65" age_upper="999">
 Baumschneiden	-	-	-	0:05:39.313000	0:05:40.446000
 darf	-	-	-	0:05:39.313000	0:05:40.446000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:05:39.313000	0:05:40.446000
 nicht	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:05:39.313000	0:05:40.446000
 .	-	-	-	0:05:39.313000	0:05:40.446000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:05:40.446000" end="0:05:42.986000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:40.446000" end="0:05:42.986000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:40.446000" end="0:05:47.439000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:40.446000" end="0:05:47.439000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 Gott	-	-	-	0:05:42.986000	0:05:44.766000
 sei	-	-	-	0:05:42.986000	0:05:44.766000
@@ -406,36 +406,36 @@ Verbot	-	-	-	0:05:44.766000	0:05:46.093000
 die)	-	-	-	0:05:44.766000	0:05:46.093000
 das	-	-	-	0:05:44.766000	0:05:46.093000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:05:47.439000" end="0:05:47.813000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:47.439000" end="0:05:47.813000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:47.813000" end="0:05:48.533000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:47.813000" end="0:05:48.533000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:48.399000" end="0:05:48.939000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:48.399000" end="0:05:48.939000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:48.939000" end="0:05:50.026000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:48.939000" end="0:05:50.026000" project="PP04" age_lower="65" age_upper="999">
 bin	-	-	-	0:05:48.939000	0:05:50.026000
 zu	-	-	-	0:05:48.939000	0:05:50.026000
 radikal	-	-	-	0:05:48.939000	0:05:50.026000
 .	-	-	-	0:05:48.939000	0:05:50.026000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:05:49.199000" end="0:05:49.643000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:49.199000" end="0:05:49.643000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:49.806000" end="0:05:50.026000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:49.806000" end="0:05:50.026000" age_lower="1" age_upper="999">
 wa/	-	-	-	0:05:49.806000	0:05:50.026000
 .	-	-	-	0:05:49.806000	0:05:50.026000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:50.026000" end="0:05:52.243000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:50.026000" end="0:05:52.243000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:05:50.203000" end="0:05:50.555000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:50.203000" end="0:05:50.555000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:50.302000" end="0:05:50.766000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:50.302000" end="0:05:50.766000" age_lower="1" age_upper="999">
 ach	-	-	-	0:05:50.302000	0:05:50.766000
 so	-	-	-	0:05:50.302000	0:05:50.766000
 .	-	-	-	0:05:50.302000	0:05:50.766000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:05:50.555000" end="0:05:53.466000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:50.555000" end="0:05:53.466000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:50.766000" end="0:05:52.243000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:50.766000" end="0:05:52.243000" age_lower="1" age_upper="999">
 ach	-	-	-	0:05:50.766000	0:05:51.135000
 so	-	-	-	0:05:50.766000	0:05:51.135000
 .	-	-	-	0:05:50.766000	0:05:51.135000
@@ -445,17 +445,17 @@ gerade	-	-	-	0:05:51.135000	0:05:52.243000
 fragen	-	-	-	0:05:51.135000	0:05:52.243000
 .	-	-	-	0:05:51.135000	0:05:52.243000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:52.243000" end="0:05:53.466000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:52.243000" end="0:05:53.466000" project="PP04" age_lower="65" age_upper="999">
 Nein	-	-	-	0:05:52.243000	0:05:53.466000
 .	-	-	-	0:05:52.243000	0:05:53.466000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:05:53.466000" end="0:05:56.311000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:53.466000" end="0:05:56.311000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:54.539000" end="0:05:55.987000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:54.539000" end="0:05:55.987000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:56.311000" end="0:05:57.055000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:05:56.311000" end="0:05:57.055000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:57.055000" end="0:06:01.726000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:57.055000" end="0:06:01.726000" age_lower="1" age_upper="999">
 na	-	-	-	0:05:57.055000	0:05:58.427000
 ja	-	-	-	0:05:57.055000	0:05:58.427000
 und	-	-	-	0:05:57.055000	0:05:58.427000
@@ -477,13 +477,13 @@ Tennisspielen	-	-	-	0:05:58.427000	0:06:01.726000
 draußen	-	-	-	0:05:58.427000	0:06:01.726000
 .	-	-	-	0:05:58.427000	0:06:01.726000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:05:58.453000" end="0:05:59.186000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:58.453000" end="0:05:59.186000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:01.726000" end="0:06:02.319000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:01.726000" end="0:06:02.319000" age_lower="1" age_upper="999">
 oder	-	-	-	0:06:01.726000	0:06:02.319000
 ?	-	-	-	0:06:01.726000	0:06:02.319000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:02.319000" end="0:06:05.333000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:02.319000" end="0:06:05.333000" project="PP04" age_lower="65" age_upper="999">
 dann	-	-	-	0:06:02.319000	0:06:02.713000
 .	-	-	-	0:06:02.319000	0:06:02.713000
 also	-	-	-	0:06:02.713000	0:06:03.253000
@@ -500,16 +500,16 @@ dann	-	-	-	0:06:03.253000	0:06:05.333000
 kommt	-	-	-	0:06:03.253000	0:06:05.333000
 schon	-	-	-	0:06:03.253000	0:06:05.333000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:04.679000" end="0:06:05.053000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:04.679000" end="0:06:05.053000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:04.679000	0:06:05.053000
 .	-	-	-	0:06:04.679000	0:06:05.053000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:05.333000" end="0:06:07.073000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:05.333000" end="0:06:07.073000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:06:06.473000	0:06:07.073000
 richtig	-	-	-	0:06:06.473000	0:06:07.073000
 .	-	-	-	0:06:06.473000	0:06:07.073000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:07.073000" end="0:06:11.146000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:07.073000" end="0:06:11.146000" age_lower="1" age_upper="999">
 und	-	-	-	0:06:07.073000	0:06:11.146000
 w	-	-	-	0:06:07.073000	0:06:11.146000
 was	-	-	-	0:06:07.073000	0:06:11.146000
@@ -523,7 +523,7 @@ am	-	-	-	0:06:07.073000	0:06:11.146000
 Tennisspielen	-	-	-	0:06:07.073000	0:06:11.146000
 ?	-	-	-	0:06:07.073000	0:06:11.146000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:11.146000" end="0:06:27.173000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:11.146000" end="0:06:27.173000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 pff	-	-	-	0:06:11.146000	0:06:12.433000
 .	-	-	-	0:06:11.146000	0:06:12.433000
@@ -573,11 +573,11 @@ gut	-	-	-	0:06:24.973000	0:06:26.873000
 nicht	-	-	0int evimark final Int medial PosSatz PosTurn QTForm QTFunk QTNegPart QuestTag RespType rise	0:06:26.873000	0:06:27.173000
 ?	-	-	-	0:06:26.873000	0:06:27.173000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:27.173000" end="0:06:27.926000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:27.173000" end="0:06:27.926000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:27.173000	0:06:27.926000
 .	-	-	-	0:06:27.173000	0:06:27.926000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:27.173000" end="0:06:29.786000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:27.173000" end="0:06:29.786000" project="PP04" age_lower="65" age_upper="999">
 gell	-	-	-	0:06:27.173000	0:06:27.446000
 ?	-	-	0int final Int konsak PosSatz PosTurn QTForm QTFunk QTInterj QuestTag RespType rise	0:06:27.173000	0:06:27.446000
 nein	-	-	-	0:06:27.446000	0:06:27.926000
@@ -590,7 +590,7 @@ hin	-	-	-	0:06:27.926000	0:06:28.959000
 .	-	-	-	0:06:27.926000	0:06:28.959000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:29.786000" end="0:06:37.546000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:29.786000" end="0:06:37.546000" age_lower="1" age_upper="999">
 und	-	-	-	0:06:29.786000	0:06:33.766000
 und	-	-	-	0:06:29.786000	0:06:33.766000
 mit	-	-	-	0:06:29.786000	0:06:33.766000
@@ -615,7 +615,7 @@ Familie	-	-	-	0:06:33.766000	0:06:36.259000
 gemischt	-	-	-	0:06:36.259000	0:06:37.546000
 ?	-	-	-	0:06:36.259000	0:06:37.546000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:37.073000" end="0:06:51.126000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:37.073000" end="0:06:51.126000" project="PP04" age_lower="65" age_upper="999">
 pff	-	-	-	0:06:37.073000	0:06:37.686000
 .	-	-	-	0:06:37.073000	0:06:37.686000
 ja	-	-	-	0:06:37.686000	0:06:38.366000
@@ -664,7 +664,7 @@ hat	-	-	-	0:06:48.113000	0:06:49.499000
 nicht	-	-	0int final Int konsak PosSatz PosTurn QTForm QTFunk QTNegPart QuestTag RespType rise	0:06:49.499000	0:06:49.719000
 ?	-	-	-	0:06:49.499000	0:06:49.719000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:51.126000" end="0:06:55.332000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:51.126000" end="0:06:55.332000" age_lower="1" age_upper="999">
 das	-	-	-	0:06:51.126000	0:06:54.986000
 heißt	-	-	-	0:06:51.126000	0:06:54.986000
 Sie	-	-	-	0:06:51.126000	0:06:54.986000
@@ -681,13 +681,13 @@ Freunden	-	-	-	0:06:51.126000	0:06:54.986000
 und/	-	-	-	0:06:54.986000	0:06:55.332000
 .	-	-	-	0:06:54.986000	0:06:55.332000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:55.332000" end="0:06:55.999000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:55.332000" end="0:06:55.999000" project="PP04" age_lower="65" age_upper="999">
 richtig	-	-	-	0:06:55.332000	0:06:55.794000
 .	-	-	-	0:06:55.332000	0:06:55.794000
 ja	-	-	-	0:06:55.794000	0:06:55.999000
 .	-	-	-	0:06:55.794000	0:06:55.999000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:55.999000" end="0:06:58.679000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:55.999000" end="0:06:58.679000" age_lower="1" age_upper="999">
 aber	-	-	-	0:06:55.999000	0:06:58.679000
 hauptsächlich	-	-	-	0:06:55.999000	0:06:58.679000
 innerhalb	-	-	-	0:06:55.999000	0:06:58.679000
@@ -695,7 +695,7 @@ von	-	-	-	0:06:55.999000	0:06:58.679000
 ORT	ORT	-	-	0:06:55.999000	0:06:58.679000
 ORT	ORT	-	-	0:06:55.999000	0:06:58.679000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:56.499000" end="0:07:07.366000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:06:56.499000" end="0:07:07.366000" project="PP04" age_lower="65" age_upper="999">
 hat	-	-	-	0:06:56.499000	0:06:57.933000
 man	-	-	-	0:06:56.499000	0:06:57.933000
 noch	-	-	-	0:06:56.499000	0:06:57.933000
@@ -719,18 +719,18 @@ ORT	ORT	-	-	0:07:02.406000	0:07:07.126000
 ja	-	-	-	0:07:07.126000	0:07:07.366000
 .	-	-	-	0:07:07.126000	0:07:07.366000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:07.366000" end="0:07:07.939000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:07.366000" end="0:07:07.939000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:07.366000	0:07:07.939000
 .	-	-	-	0:07:07.366000	0:07:07.939000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:07.939000" end="0:07:10.959000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:07.939000" end="0:07:10.959000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 aber	-	-	-	0:07:07.939000	0:07:09.653000
 auch	-	-	-	0:07:07.939000	0:07:09.653000
 auch	-	-	-	0:07:07.939000	0:07:09.653000
 gibt	-	-	-	0:07:07.939000	0:07:09.653000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:10.959000" end="0:07:18.419000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:10.959000" end="0:07:18.419000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:10.959000	0:07:15.106000
 und	-	-	-	0:07:10.959000	0:07:15.106000
 wo	-	-	-	0:07:10.959000	0:07:15.106000
@@ -746,7 +746,7 @@ a/	-	-	-	0:07:15.106000	0:07:15.513000
 sind	-	-	-	0:07:15.106000	0:07:15.513000
 ORT	ORT	-	-	0:07:16.173000	0:07:17.933000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:18.419000" end="0:07:40.073000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:18.419000" end="0:07:40.073000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:18.419000	0:07:19.419000
 gut	-	-	-	0:07:18.419000	0:07:19.419000
 also	-	-	-	0:07:18.419000	0:07:19.419000
@@ -787,22 +787,22 @@ eben	-	-	-	0:07:33.999000	0:07:35.706000
 <pause duration="0,5s"/>
 ORT	ORT	-	-	0:07:35.706000	0:07:40.073000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:40.073000" end="0:07:40.399000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:40.073000" end="0:07:40.399000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:40.073000	0:07:40.399000
 .	-	-	-	0:07:40.073000	0:07:40.399000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:40.073000" end="0:07:40.253000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:40.073000" end="0:07:40.253000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	0int final Int konsak medial PosSatz PosTurn QTForm QTFunk QTNegPart QuestTag RespType rise	0:07:40.073000	0:07:40.253000
 ?	-	-	-	0:07:40.073000	0:07:40.253000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:40.399000" end="0:07:41.779000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:40.399000" end="0:07:41.779000" age_lower="1" age_upper="999">
 also	-	-	-	0:07:40.399000	0:07:41.779000
 von	-	-	-	0:07:40.399000	0:07:41.779000
 Früher	-	-	-	0:07:40.399000	0:07:41.779000
 noch	-	-	-	0:07:40.399000	0:07:41.779000
 .	-	-	-	0:07:40.399000	0:07:41.779000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:40.399000" end="0:07:42.726000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:40.399000" end="0:07:42.726000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:07:40.399000	0:07:42.479000
 man	-	-	-	0:07:40.399000	0:07:42.479000
 von	-	-	-	0:07:40.399000	0:07:42.479000
@@ -814,7 +814,7 @@ kennt	-	-	-	0:07:40.399000	0:07:42.479000
 ja	-	-	-	0:07:42.479000	0:07:42.726000
 .	-	-	-	0:07:42.479000	0:07:42.726000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:44.966000" end="0:07:52.033000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:44.966000" end="0:07:52.033000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:44.966000	0:07:45.639000
 ähm	-	-	-	0:07:44.966000	0:07:45.639000
 <pause duration="0,5s"/>
@@ -826,7 +826,7 @@ Sie	-	-	-	0:07:50.946000	0:07:52.033000
 würden	-	-	-	0:07:50.946000	0:07:52.033000
 ?	-	-	-	0:07:50.946000	0:07:52.033000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:52.033000" end="0:08:12.393000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:07:52.033000" end="0:08:12.393000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,5s"/>
 sch/	-	-	-	0:07:54.533000	0:07:54.726000
 .	-	-	-	0:07:54.533000	0:07:54.726000
@@ -874,11 +874,11 @@ wo	-	-	-	0:08:10.813000	0:08:12.393000
 vorbei	-	-	-	0:08:10.813000	0:08:12.393000
 .	-	-	-	0:08:10.813000	0:08:12.393000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:08:11.326000" end="0:08:11.573000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:11.326000" end="0:08:11.573000" age_lower="1" age_upper="999">
 ah	-	-	-	0:08:11.326000	0:08:11.573000
 .	-	-	-	0:08:11.326000	0:08:11.573000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:08:12.393000" end="0:08:14.306000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:08:12.393000" end="0:08:14.306000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:08:12.393000	0:08:14.306000
 die	-	-	-	0:08:12.393000	0:08:14.306000
 machen	-	-	-	0:08:12.393000	0:08:14.306000
@@ -890,11 +890,11 @@ einen	-	-	-	0:08:12.393000	0:08:14.306000
 <pause duration="0,5s"/>
 schönen	-	-	-	0:08:12.393000	0:08:14.306000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:08:12.533000" end="0:08:13.093000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:12.533000" end="0:08:13.093000" age_lower="1" age_upper="999">
 jaja	-	-	-	0:08:12.533000	0:08:13.093000
 .	-	-	-	0:08:12.533000	0:08:13.093000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:08:14.306000" end="0:08:20.413000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:08:14.306000" end="0:08:20.413000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:08:15.593000	0:08:16.313000
 ?	-	-	-	0:08:15.593000	0:08:16.313000
 aber	-	-	-	0:08:16.313000	0:08:18.293000
@@ -905,7 +905,7 @@ das	-	-	-	0:08:16.313000	0:08:18.293000
 ja	-	-	-	0:08:19.826000	0:08:20.053000
 .	-	-	-	0:08:19.826000	0:08:20.053000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:08:20.413000" end="0:08:29.273000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:20.413000" end="0:08:29.273000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:08:20.413000	0:08:22.653000
 so	-	-	-	0:08:20.413000	0:08:22.653000
@@ -926,7 +926,7 @@ machen	-	-	-	0:08:25.873000	0:08:29.273000
 würden	-	-	-	0:08:25.873000	0:08:29.273000
 ?	-	-	-	0:08:25.873000	0:08:29.273000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:08:29.273000" end="0:09:06.559000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:08:29.273000" end="0:09:06.559000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,7s"/>
 pf	-	-	-	0:08:29.273000	0:08:31.839000
 .	-	-	-	0:08:29.273000	0:08:31.839000
@@ -1015,7 +1015,7 @@ Weg	-	-	-	0:09:02.572000	0:09:06.372000
 ja	-	-	-	0:09:06.372000	0:09:06.559000
 .	-	-	-	0:09:06.372000	0:09:06.559000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:06.559000" end="0:09:15.999000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:06.559000" end="0:09:15.999000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:06.559000	0:09:06.859000
 .	-	-	-	0:09:06.559000	0:09:06.859000
 <pause duration="0,5s"/>
@@ -1032,11 +1032,11 @@ kann	-	-	-	0:09:06.859000	0:09:09.699000
 ahm	-	-	-	0:09:11.886000	0:09:12.339000
 dann	-	-	-	0:09:11.886000	0:09:12.339000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:09:14.546000" end="0:09:15.112000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:09:14.546000" end="0:09:15.112000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:09:14.546000	0:09:15.112000
 ja	-	-	-	0:09:14.546000	0:09:15.112000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:15.999000" end="0:09:19.132000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:15.999000" end="0:09:19.132000" age_lower="1" age_upper="999">
 ahm	-	-	-	0:09:15.999000	0:09:19.132000
 was	-	-	-	0:09:15.999000	0:09:19.132000
 versthene	-	-	-	0:09:15.999000	0:09:19.132000
@@ -1048,7 +1048,7 @@ Begriff	-	-	-	0:09:15.999000	0:09:19.132000
 Dialekt	-	-	-	0:09:15.999000	0:09:19.132000
 ?	-	-	-	0:09:15.999000	0:09:19.132000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:09:19.132000" end="0:09:56.686000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:09:19.132000" end="0:09:56.686000" project="PP04" age_lower="65" age_upper="999">
 na	-	-	-	0:09:22.132000	0:09:26.599000
 gut	-	-	-	0:09:22.132000	0:09:26.599000
 ah	-	-	-	0:09:22.132000	0:09:26.599000
@@ -1138,11 +1138,11 @@ Dialektwörtern	-	-	-	0:09:50.665000	0:09:56.452000
 nicht	-	-	-	0:09:56.452000	0:09:56.686000
 ?	-	-	-	0:09:56.452000	0:09:56.686000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:56.686000" end="0:09:57.039000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:56.686000" end="0:09:57.039000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:56.686000	0:09:57.039000
 .	-	-	-	0:09:56.686000	0:09:57.039000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:09:57.039000" end="0:10:15.319000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:09:57.039000" end="0:10:15.319000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 pff	-	-	-	0:09:57.039000	0:10:00.366000
 es	-	-	-	0:09:57.039000	0:10:00.366000
@@ -1181,19 +1181,19 @@ Sprache	-	-	-	0:10:10.626000	0:10:15.319000
 sind	-	-	-	0:10:10.626000	0:10:15.319000
 .	-	-	-	0:10:10.626000	0:10:15.319000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:14.872000" end="0:10:15.199000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:14.872000" end="0:10:15.199000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:14.872000	0:10:15.199000
 .	-	-	-	0:10:14.872000	0:10:15.199000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:15.319000" end="0:10:15.612000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:15.319000" end="0:10:15.612000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:10:15.319000	0:10:15.612000
 ?	-	-	-	0:10:15.319000	0:10:15.612000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:15.439000" end="0:10:15.999000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:15.439000" end="0:10:15.999000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:15.612000" end="0:10:16.086000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:15.612000" end="0:10:16.086000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:15.999000" end="0:10:21.199000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:15.999000" end="0:10:21.199000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:15.999000	0:10:16.326000
 .	-	-	-	0:10:15.999000	0:10:16.326000
 <pause duration="0,8s"/>
@@ -1201,7 +1201,7 @@ und	-	-	-	0:10:16.326000	0:10:18.039000
 ähm	-	-	-	0:10:16.326000	0:10:18.039000
 wie	-	-	-	0:10:16.326000	0:10:18.039000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:21.199000" end="0:10:23.366000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:21.199000" end="0:10:23.366000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 na	-	-	-	0:10:21.199000	0:10:23.166000
 das	-	-	-	0:10:21.199000	0:10:23.166000
@@ -1212,14 +1212,14 @@ Hochdeutsch	-	-	-	0:10:21.199000	0:10:23.166000
 nicht	-	-	-	0:10:23.166000	0:10:23.366000
 ?	-	-	-	0:10:23.166000	0:10:23.366000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:23.366000" end="0:10:23.699000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:23.366000" end="0:10:23.699000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:23.366000	0:10:23.699000
 .	-	-	-	0:10:23.366000	0:10:23.699000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:23.492000" end="0:10:26.179000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:23.492000" end="0:10:26.179000" project="PP04" age_lower="65" age_upper="999">
 Burgtheaterdeutsch	-	-	-	0:10:23.492000	0:10:24.406000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:26.179000" end="0:10:34.279000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:26.179000" end="0:10:34.279000" age_lower="1" age_upper="999">
 und	-	-	-	0:10:26.179000	0:10:26.872000
 ähm	-	-	-	0:10:26.179000	0:10:26.872000
 wenn	-	-	-	0:10:26.179000	0:10:26.872000
@@ -1234,7 +1234,7 @@ ah	-	-	-	0:10:29.986000	0:10:32.746000
 <pause duration="0,5s"/>
 sprechen	-	-	-	0:10:29.986000	0:10:32.746000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:34.279000" end="0:10:56.172000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:10:34.279000" end="0:10:56.172000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,4s"/>
 also	-	-	-	0:10:36.679000	0:10:40.586000
 ich	-	-	-	0:10:36.679000	0:10:40.586000
@@ -1270,7 +1270,7 @@ die	-	-	-	0:10:50.152000	0:10:51.959000
 die	-	-	-	0:10:50.152000	0:10:51.959000
 normale	-	-	-	0:10:50.152000	0:10:51.959000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:56.172000" end="0:11:00.586000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:56.172000" end="0:11:00.586000" age_lower="1" age_upper="999">
 aber	-	-	-	0:10:56.172000	0:11:00.586000
 das	-	-	-	0:10:56.172000	0:11:00.586000
 heißt	-	-	-	0:10:56.172000	0:11:00.586000
@@ -1285,7 +1285,7 @@ Dialektsprecher	-	-	-	0:10:56.172000	0:11:00.586000
 bezeichnen	-	-	-	0:10:56.172000	0:11:00.586000
 .	-	-	-	0:10:56.172000	0:11:00.586000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:00.586000" end="0:11:03.872000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:00.586000" end="0:11:03.872000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 m/	-	-	-	0:11:00.586000	0:11:03.872000
 glaube	-	-	-	0:11:00.586000	0:11:03.872000
@@ -1299,7 +1299,7 @@ in	-	-	-	0:11:00.586000	0:11:03.872000
 dem	-	-	-	0:11:00.586000	0:11:03.872000
 Fall	-	-	-	0:11:00.586000	0:11:03.872000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:03.366000" end="0:11:04.919000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:03.366000" end="0:11:04.919000" age_lower="1" age_upper="999">
 und	-	-	-	0:11:03.366000	0:11:04.919000
 wenn	-	-	-	0:11:03.366000	0:11:04.919000
 Sie	-	-	-	0:11:03.366000	0:11:04.919000
@@ -1308,7 +1308,7 @@ und	-	-	-	0:11:03.366000	0:11:04.919000
 wenn	-	-	-	0:11:03.366000	0:11:04.919000
 sie/	-	-	-	0:11:03.366000	0:11:04.919000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:03.872000" end="0:11:14.886000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:03.872000" end="0:11:14.886000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:11:03.872000	0:11:04.072000
 ?	-	-	-	0:11:03.872000	0:11:04.072000
 nein	-	-	-	0:11:04.072000	0:11:05.799000
@@ -1327,7 +1327,7 @@ mich	-	-	-	0:11:05.986000	0:11:07.206000
 nicht	-	-	-	0:11:13.826000	0:11:14.039000
 ?	-	-	-	0:11:13.826000	0:11:14.039000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:14.079000" end="0:11:23.139000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:14.079000" end="0:11:23.139000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:14.079000	0:11:14.452000
 .	-	-	-	0:11:14.079000	0:11:14.452000
 das	-	-	-	0:11:16.299000	0:11:23.139000
@@ -1340,7 +1340,7 @@ das	-	-	-	0:11:16.299000	0:11:23.139000
 Gefühl	-	-	-	0:11:16.299000	0:11:23.139000
 ,	-	-	-	0:11:16.299000	0:11:23.139000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:23.139000" end="0:11:28.099000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:23.139000" end="0:11:28.099000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,3s"/>
 wahrscheinlich	-	-	-	0:11:25.439000	0:11:27.019000
 wird	-	-	-	0:11:25.439000	0:11:27.019000
@@ -1355,15 +1355,15 @@ gewissen	-	-	-	0:11:27.019000	0:11:28.099000
 Grad	-	-	-	0:11:27.019000	0:11:28.099000
 .	-	-	-	0:11:27.019000	0:11:28.099000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:27.699000" end="0:11:28.099000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:27.699000" end="0:11:28.099000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:27.699000	0:11:28.099000
 .	-	-	-	0:11:27.699000	0:11:28.099000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:28.099000" end="0:11:28.326000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:28.099000" end="0:11:28.326000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:11:28.099000	0:11:28.326000
 .	-	-	-	0:11:28.099000	0:11:28.326000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:28.326000" end="0:11:30.719000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:28.326000" end="0:11:30.719000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 aber	-	-	-	0:11:28.326000	0:11:30.719000
 nicht	-	-	-	0:11:28.326000	0:11:30.719000
@@ -1371,7 +1371,7 @@ nicht	-	-	-	0:11:28.326000	0:11:30.719000
 bewusst	-	-	-	0:11:28.326000	0:11:30.719000
 .	-	-	-	0:11:28.326000	0:11:30.719000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:29.386000" end="0:11:44.192000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:29.386000" end="0:11:44.192000" project="PP04" age_lower="65" age_upper="999">
 natürlich	-	-	-	0:11:29.386000	0:11:29.979000
 .	-	-	-	0:11:29.386000	0:11:29.979000
 aber	-	-	-	0:11:29.979000	0:11:30.906000
@@ -1406,7 +1406,7 @@ spreche	-	-	-	0:11:38.392000	0:11:40.866000
 .	-	-	-	0:11:38.392000	0:11:40.866000
 nicht	-	-	-	0:11:42.332000	0:11:42.579000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:44.192000" end="0:11:46.092000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:44.192000" end="0:11:46.092000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 das	-	-	-	0:11:44.192000	0:11:46.092000
 heißt	-	-	-	0:11:44.192000	0:11:46.092000
@@ -1417,7 +1417,7 @@ schon	-	-	-	0:11:44.192000	0:11:46.092000
 das/	-	-	-	0:11:44.192000	0:11:46.092000
 .	-	-	-	0:11:44.192000	0:11:46.092000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:45.186000" end="0:11:47.952000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:45.186000" end="0:11:47.952000" project="PP04" age_lower="65" age_upper="999">
 so	-	-	-	0:11:45.186000	0:11:46.272000
 so	-	-	-	0:11:45.186000	0:11:46.272000
 ungefähr	-	-	-	0:11:45.186000	0:11:46.272000
@@ -1425,7 +1425,7 @@ ungefähr	-	-	-	0:11:45.186000	0:11:46.272000
 nicht	-	-	-	0:11:46.272000	0:11:46.452000
 ?	-	-	-	0:11:46.272000	0:11:46.452000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:47.432000" end="0:11:49.419000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:47.432000" end="0:11:49.419000" age_lower="1" age_upper="999">
 dass	-	-	-	0:11:47.432000	0:11:49.419000
 es	-	-	-	0:11:47.432000	0:11:49.419000
 so	-	-	-	0:11:47.432000	0:11:49.419000
@@ -1434,17 +1434,17 @@ Unterschiede	-	-	-	0:11:47.432000	0:11:49.419000
 gibt	-	-	-	0:11:47.432000	0:11:49.419000
 .	-	-	-	0:11:47.432000	0:11:49.419000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:48.832000" end="0:11:49.279000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:48.832000" end="0:11:49.279000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:11:48.832000	0:11:49.279000
 ja	-	-	-	0:11:48.832000	0:11:49.279000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:50.832000" end="0:11:56.639000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:50.832000" end="0:11:56.639000" age_lower="1" age_upper="999">
 und	-	-	-	0:11:50.832000	0:11:51.672000
 ähm	-	-	-	0:11:50.832000	0:11:51.672000
 <pause duration="1,3s"/>
 ORT	ORT	-	-	0:11:53.019000	0:11:56.639000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:56.639000" end="0:12:27.212000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:11:56.639000" end="0:12:27.212000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="3,7s"/>
 ich	-	-	-	0:12:00.339000	0:12:02.446000
 glaube	-	-	-	0:12:00.339000	0:12:02.446000
@@ -1487,11 +1487,11 @@ dadurch	-	-	-	0:12:18.659000	0:12:19.126000
 ORT	ORT	-	-	0:12:19.126000	0:12:21.986000
 ORT	ORT	-	-	0:12:21.986000	0:12:27.212000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:27.212000" end="0:12:27.659000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:27.212000" end="0:12:27.659000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:27.212000	0:12:27.659000
 .	-	-	-	0:12:27.212000	0:12:27.659000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:12:27.659000" end="0:12:31.692000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:12:27.659000" end="0:12:31.692000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 sprechen	-	-	-	0:12:27.659000	0:12:29.272000
 die	-	-	-	0:12:27.659000	0:12:29.272000
@@ -1500,7 +1500,7 @@ eigentlich	-	-	-	0:12:27.659000	0:12:29.272000
 nicht	-	-	-	0:12:31.466000	0:12:31.692000
 ?	-	-	-	0:12:31.466000	0:12:31.692000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:31.692000" end="0:12:45.332000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:31.692000" end="0:12:45.332000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:31.692000	0:12:32.332000
 .	-	-	-	0:12:31.692000	0:12:32.332000
 <pause duration="1,0s"/>
@@ -1541,7 +1541,7 @@ ein	-	-	-	0:12:42.479000	0:12:45.332000
 tieferes	-	-	-	0:12:42.479000	0:12:45.332000
 ?	-	-	-	0:12:42.479000	0:12:45.332000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:12:45.332000" end="0:13:08.312000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:12:45.332000" end="0:13:08.312000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="5,0s"/>
 generell	-	-	-	0:12:50.332000	0:12:53.419000
 glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:12:50.332000	0:12:53.419000
@@ -1581,13 +1581,13 @@ gibt	-	-	-	0:13:05.692000	0:13:06.459000
 nicht	-	-	-	0:13:08.032000	0:13:08.312000
 ?	-	-	-	0:13:08.032000	0:13:08.312000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:08.312000" end="0:13:09.219000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:08.312000" end="0:13:09.219000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:08.312000	0:13:08.712000
 .	-	-	-	0:13:08.312000	0:13:08.712000
 ja	-	-	-	0:13:08.712000	0:13:09.219000
 ja	-	-	-	0:13:08.712000	0:13:09.219000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:13:09.219000" end="0:13:28.126000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:13:09.219000" end="0:13:28.126000" project="PP04" age_lower="65" age_upper="999">
 un/	-	-	-	0:13:09.219000	0:13:11.852000
 und	-	-	-	0:13:09.219000	0:13:11.852000
 diese	-	-	-	0:13:09.219000	0:13:11.852000
@@ -1622,7 +1622,7 @@ ah	-	-	-	0:13:24.559000	0:13:25.672000
 nicht	-	-	-	0:13:27.859000	0:13:28.126000
 ?	-	-	-	0:13:27.859000	0:13:28.126000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:28.079000" end="0:13:34.526000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:28.079000" end="0:13:34.526000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:28.079000	0:13:28.412000
 .	-	-	-	0:13:28.079000	0:13:28.412000
 <pause duration="1,2s"/>
@@ -1631,7 +1631,7 @@ und	-	-	-	0:13:28.412000	0:13:30.152000
 würden	-	-	-	0:13:28.412000	0:13:30.152000
 ORT	ORT	-	-	0:13:30.152000	0:13:34.526000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:13:34.526000" end="0:13:35.772000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:13:34.526000" end="0:13:35.772000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:13:34.526000	0:13:35.772000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:13:34.526000	0:13:35.772000
@@ -1639,7 +1639,7 @@ nicht	-	-	-	0:13:34.526000	0:13:35.772000
 ,	-	-	-	0:13:34.526000	0:13:35.772000
 nein	-	-	-	0:13:34.526000	0:13:35.772000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:35.772000" end="0:13:50.259000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:35.772000" end="0:13:50.259000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:13:37.332000	0:13:38.279000
 ähm	-	-	-	0:13:37.332000	0:13:38.279000
@@ -1665,7 +1665,7 @@ allgemein	-	-	-	0:13:45.572000	0:13:50.259000
 meinen	-	-	-	0:13:45.572000	0:13:50.259000
 ,	-	-	-	0:13:45.572000	0:13:50.259000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:13:50.259000" end="0:13:54.772000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:13:50.259000" end="0:13:54.772000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,4s"/>
 ui	-	-	-	0:13:52.659000	0:13:53.426000
 ui	-	-	-	0:13:52.659000	0:13:53.426000
@@ -1679,11 +1679,11 @@ an	-	-	-	0:13:53.426000	0:13:54.772000
 wo	-	-	-	0:13:53.426000	0:13:54.772000
 .	-	-	-	0:13:53.426000	0:13:54.772000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:54.552000" end="0:13:55.159000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:54.552000" end="0:13:55.159000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:54.552000	0:13:55.159000
 .	-	-	-	0:13:54.552000	0:13:55.159000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:13:54.772000" end="0:14:20.306000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:13:54.772000" end="0:14:20.306000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:13:54.772000	0:13:55.159000
 ?	-	-	-	0:13:54.772000	0:13:55.159000
 meine	-	-	-	0:13:55.159000	0:13:56.186000
@@ -1730,9 +1730,9 @@ kein	-	-	-	0:14:18.519000	0:14:19.046000
 äh	-	-	-	0:14:18.519000	0:14:19.046000
 Mister	-	-	-	0:14:18.519000	0:14:19.046000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:20.306000" end="0:14:21.419000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:20.306000" end="0:14:21.419000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:20.306000" end="0:14:24.759000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:20.306000" end="0:14:24.759000" project="PP04" age_lower="65" age_upper="999">
 dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:14:20.306000	0:14:23.826000
 ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:14:20.306000	0:14:23.826000
 das	-	-	-	0:14:20.306000	0:14:23.826000
@@ -1742,7 +1742,7 @@ zuordnen	-	-	-	0:14:20.306000	0:14:23.826000
 kann	-	-	-	0:14:20.306000	0:14:23.826000
 .	-	-	-	0:14:20.306000	0:14:23.826000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:24.759000" end="0:14:27.566000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:24.759000" end="0:14:27.566000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 de/	-	-	-	0:14:24.759000	0:14:27.566000
 das	-	-	-	0:14:24.759000	0:14:27.566000
@@ -1753,9 +1753,9 @@ meistens	-	-	-	0:14:24.759000	0:14:27.566000
 nicht	-	-	-	0:14:24.759000	0:14:27.566000
 .	-	-	-	0:14:24.759000	0:14:27.566000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:26.932000" end="0:14:29.879000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:26.932000" end="0:14:29.879000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:27.566000" end="0:14:37.512000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:27.566000" end="0:14:37.512000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:14:27.566000	0:14:28.279000
 genau	-	-	-	0:14:27.566000	0:14:28.279000
 und	-	-	-	0:14:29.879000	0:14:33.652000
@@ -1780,7 +1780,7 @@ einem	-	-	-	0:14:33.652000	0:14:37.512000
 Menschen	-	-	-	0:14:33.652000	0:14:37.512000
 ?	-	-	-	0:14:33.652000	0:14:37.512000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:36.572000" end="0:14:41.146000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:36.572000" end="0:14:41.146000" project="PP04" age_lower="65" age_upper="999">
 na	-	-	-	0:14:36.572000	0:14:37.372000
 ja	-	-	-	0:14:36.572000	0:14:37.372000
 na	-	-	-	0:14:36.572000	0:14:37.372000
@@ -1794,11 +1794,11 @@ speziellen	-	-	-	0:14:37.512000	0:14:41.146000
 Ausdrücken	-	-	-	0:14:37.512000	0:14:41.146000
 ,	-	-	-	0:14:37.512000	0:14:41.146000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:41.146000" end="0:14:41.506000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:41.146000" end="0:14:41.506000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:41.146000	0:14:41.506000
 ,	-	-	-	0:14:41.146000	0:14:41.506000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:41.506000" end="0:14:43.999000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:41.506000" end="0:14:43.999000" project="PP04" age_lower="65" age_upper="999">
 als	-	-	-	0:14:41.506000	0:14:43.732000
 einfach	-	-	-	0:14:41.506000	0:14:43.732000
 ah	-	-	-	0:14:41.506000	0:14:43.732000
@@ -1809,7 +1809,7 @@ Sprachmelodie	-	-	-	0:14:41.506000	0:14:43.732000
 nicht	-	-	-	0:14:43.732000	0:14:43.999000
 ?	-	-	-	0:14:43.732000	0:14:43.999000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:43.999000" end="0:14:52.606000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:43.999000" end="0:14:52.606000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:43.999000	0:14:44.346000
 .	-	-	-	0:14:43.999000	0:14:44.346000
 <pause duration="1,0s"/>
@@ -1820,7 +1820,7 @@ und	-	-	-	0:14:45.752000	0:14:47.112000
 ähm	-	-	-	0:14:45.752000	0:14:47.112000
 gibt	-	-	-	0:14:45.752000	0:14:47.112000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:52.606000" end="0:15:12.079000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:14:52.606000" end="0:15:12.079000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,5s"/>
 puh	-	-	-	0:14:52.606000	0:14:55.832000
 .	-	-	-	0:14:52.606000	0:14:55.832000
@@ -1839,13 +1839,13 @@ habe	-	-	-	0:14:57.712000	0:14:59.272000
 nicht	-	-	-	0:15:11.846000	0:15:12.079000
 ?	-	-	-	0:15:11.846000	0:15:12.079000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:12.079000" end="0:15:12.566000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:12.079000" end="0:15:12.566000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:12.079000	0:15:12.566000
 .	-	-	-	0:15:12.079000	0:15:12.566000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:15:12.079000" end="0:15:12.566000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:15:12.079000" end="0:15:12.566000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:12.566000" end="0:15:15.512000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:12.566000" end="0:15:15.512000" age_lower="1" age_upper="999">
 ng	-	-	-	0:15:12.566000	0:15:15.512000
 und	-	-	-	0:15:12.566000	0:15:15.512000
 gibt	-	-	-	0:15:12.566000	0:15:15.512000
@@ -1858,7 +1858,7 @@ nicht	-	-	-	0:15:12.566000	0:15:15.512000
 gefällt	-	-	-	0:15:12.566000	0:15:15.512000
 ?	-	-	-	0:15:12.566000	0:15:15.512000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:15:15.512000" end="0:15:19.299000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:15:15.512000" end="0:15:19.299000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,3s"/>
 auch	-	-	-	0:15:17.812000	0:15:18.999000
 nicht	-	-	-	0:15:17.812000	0:15:18.999000
@@ -1868,7 +1868,7 @@ eigentlich	-	-	-	0:15:17.812000	0:15:18.999000
 nicht	-	-	-	0:15:18.999000	0:15:19.299000
 ?	-	-	-	0:15:18.999000	0:15:19.299000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:19.050000" end="0:15:28.192000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:19.050000" end="0:15:28.192000" age_lower="1" age_upper="999">
 na	-	-	-	0:15:19.050000	0:15:19.506000
 okay	-	-	-	0:15:19.050000	0:15:19.506000
 .	-	-	-	0:15:19.050000	0:15:19.506000
@@ -1892,7 +1892,7 @@ untereinander	-	-	-	0:15:24.426000	0:15:28.192000
 gesprochen	-	-	-	0:15:24.426000	0:15:28.192000
 ?	-	-	-	0:15:24.426000	0:15:28.192000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:15:28.192000" end="0:15:56.492000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:15:28.192000" end="0:15:56.492000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="3,2s"/>
 pff	-	-	-	0:15:28.192000	0:15:31.966000
 .	-	-	-	0:15:28.192000	0:15:31.966000
@@ -1926,17 +1926,17 @@ und	-	-	-	0:15:54.506000	0:15:56.492000
 und	-	-	-	0:15:54.506000	0:15:56.492000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:54.812000" end="0:15:55.186000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:54.812000" end="0:15:55.186000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:54.812000	0:15:55.186000
 .	-	-	-	0:15:54.812000	0:15:55.186000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:15:56.492000" end="0:16:02.712000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:15:56.492000" end="0:16:02.712000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:15:57.826000	0:16:02.472000
 ORT	ORT	-	-	0:15:57.826000	0:16:02.472000
 nicht	-	-	-	0:16:02.472000	0:16:02.712000
 ?	-	-	-	0:16:02.472000	0:16:02.712000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:02.712000" end="0:16:06.519000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:02.712000" end="0:16:06.519000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 und	-	-	-	0:16:02.712000	0:16:06.519000
 wissen	-	-	-	0:16:02.712000	0:16:06.519000
@@ -1950,7 +1950,7 @@ gesprochen	-	-	-	0:16:02.712000	0:16:06.519000
 haben	-	-	-	0:16:02.712000	0:16:06.519000
 ?	-	-	-	0:16:02.712000	0:16:06.519000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:06.519000" end="0:16:18.479000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:06.519000" end="0:16:18.479000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,6s"/>
 na	-	-	-	0:16:08.092000	0:16:10.259000
 ich	-	-	-	0:16:08.092000	0:16:10.259000
@@ -1971,11 +1971,11 @@ oder	-	-	-	0:16:11.399000	0:16:15.126000
 ORT	ORT	-	-	0:16:15.126000	0:16:18.479000
 ORT	ORT	-	-	0:16:15.126000	0:16:18.479000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:18.479000" end="0:16:19.032000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:18.479000" end="0:16:19.032000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:18.479000	0:16:19.032000
 .	-	-	-	0:16:18.479000	0:16:19.032000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:19.032000" end="0:16:21.039000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:19.032000" end="0:16:21.039000" project="PP04" age_lower="65" age_upper="999">
 sondern	-	-	-	0:16:19.032000	0:16:20.759000
 die	-	-	-	0:16:19.032000	0:16:20.759000
 waren	-	-	-	0:16:19.032000	0:16:20.759000
@@ -1987,19 +1987,19 @@ ORT	ORT	-	-	0:16:19.032000	0:16:20.759000
 ja	-	-	-	0:16:20.759000	0:16:21.039000
 .	-	-	-	0:16:20.759000	0:16:21.039000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:21.039000" end="0:16:21.606000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:21.039000" end="0:16:21.606000" age_lower="1" age_upper="999">
 okay	-	-	-	0:16:21.039000	0:16:21.606000
 .	-	-	-	0:16:21.039000	0:16:21.606000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:21.039000" end="0:16:22.259000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:21.039000" end="0:16:22.259000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:21.606000" end="0:16:22.852000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:21.606000" end="0:16:22.852000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:22.259000" end="0:16:22.852000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:22.259000" end="0:16:22.852000" project="PP04" age_lower="65" age_upper="999">
 mhm	-	-	-	0:16:22.259000	0:16:22.852000
 .	-	-	-	0:16:22.259000	0:16:22.852000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:22.852000" end="0:16:28.632000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:22.852000" end="0:16:28.632000" age_lower="1" age_upper="999">
 und	-	-	-	0:16:22.852000	0:16:28.632000
 haben	-	-	-	0:16:22.852000	0:16:28.632000
 sie	-	-	-	0:16:22.852000	0:16:28.632000
@@ -2007,7 +2007,7 @@ den	-	-	-	0:16:22.852000	0:16:28.632000
 eindruck	-	-	-	0:16:22.852000	0:16:28.632000
 ,	-	-	-	0:16:22.852000	0:16:28.632000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:28.632000" end="0:16:38.126000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:28.632000" end="0:16:38.126000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,4s"/>
 glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:16:28.632000	0:16:30.632000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:16:28.632000	0:16:30.632000
@@ -2032,7 +2032,7 @@ in	-	-	-	0:16:35.572000	0:16:36.826000
 der	-	-	-	0:16:35.572000	0:16:36.826000
 Volksschule	-	-	-	0:16:35.572000	0:16:36.826000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:37.572000" end="0:16:42.886000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:37.572000" end="0:16:42.886000" age_lower="1" age_upper="999">
 und	-	-	-	0:16:37.572000	0:16:40.572000
 wie	-	-	-	0:16:37.572000	0:16:40.572000
 ist	-	-	-	0:16:37.572000	0:16:40.572000
@@ -2054,7 +2054,7 @@ gesprochen	-	-	-	0:16:40.572000	0:16:42.886000
 wurde	-	-	-	0:16:40.572000	0:16:42.886000
 ?	-	-	-	0:16:40.572000	0:16:42.886000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:42.886000" end="0:16:59.326000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:16:42.886000" end="0:16:59.326000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,0s"/>
 auf	-	-	-	0:16:42.886000	0:16:44.799000
 alle	-	-	-	0:16:42.886000	0:16:44.799000
@@ -2114,7 +2114,7 @@ gegeben	-	-	-	0:16:56.932000	0:16:59.139000
 nicht	-	-	-	0:16:59.139000	0:16:59.326000
 ?	-	-	-	0:16:59.139000	0:16:59.326000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:59.326000" end="0:17:06.986000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:59.326000" end="0:17:06.986000" age_lower="1" age_upper="999">
 m_	-	-	-	0:16:59.326000	0:17:00.099000
 _ja	-	-	-	0:16:59.326000	0:17:00.099000
 sicher	-	-	-	0:16:59.326000	0:17:00.099000
@@ -2140,7 +2140,7 @@ Deutsch	-	-	-	0:17:05.617000	0:17:06.986000
 sprechen	-	-	-	0:17:05.617000	0:17:06.986000
 ?	-	-	-	0:17:05.617000	0:17:06.986000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:06.986000" end="0:17:24.219000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:06.986000" end="0:17:24.219000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="3,0s"/>
 ja	-	-	-	0:17:10.026000	0:17:10.326000
 .	-	-	-	0:17:10.026000	0:17:10.326000
@@ -2175,24 +2175,24 @@ aus	-	-	-	0:17:19.266000	0:17:22.358000
 nicht	-	-	-	0:17:24.019000	0:17:24.219000
 ?	-	-	-	0:17:24.019000	0:17:24.219000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:24.219000" end="0:17:24.759000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:24.219000" end="0:17:24.759000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:24.219000	0:17:24.759000
 .	-	-	-	0:17:24.219000	0:17:24.759000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:24.219000" end="0:17:24.759000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:24.219000" end="0:17:24.759000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:24.759000" end="0:17:26.679000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:24.759000" end="0:17:26.679000" age_lower="1" age_upper="999">
 wäre	-	-	-	0:17:25.685000	0:17:26.679000
 wünschenswert	-	-	-	0:17:25.685000	0:17:26.679000
 .	-	-	-	0:17:25.685000	0:17:26.679000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:26.679000" end="0:17:28.886000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:26.679000" end="0:17:28.886000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:17:26.679000	0:17:26.906000
 .	-	-	-	0:17:26.679000	0:17:26.906000
 wäre	-	-	-	0:17:26.906000	0:17:27.786000
 wünschenswert	-	-	-	0:17:26.906000	0:17:27.786000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:27.979000" end="0:17:38.859000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:27.979000" end="0:17:38.859000" age_lower="1" age_upper="999">
 äh	-	-	-	0:17:29.292000	0:17:33.346000
 und	-	-	-	0:17:29.292000	0:17:33.346000
 wenn	-	-	-	0:17:29.292000	0:17:33.346000
@@ -2213,7 +2213,7 @@ das	-	-	-	0:17:33.346000	0:17:36.566000
 Gefühl	-	-	-	0:17:33.346000	0:17:36.566000
 ,	-	-	-	0:17:33.346000	0:17:36.566000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:38.859000" end="0:17:47.619000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:38.859000" end="0:17:47.619000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,9s"/>
 nein	-	-	-	0:17:40.805000	0:17:41.799000
 sicherlich	-	-	-	0:17:40.805000	0:17:41.799000
@@ -2235,11 +2235,11 @@ elterlichen	-	-	-	0:17:42.839000	0:17:47.619000
 Betrieb	-	-	-	0:17:42.839000	0:17:47.619000
 .	-	-	-	0:17:42.839000	0:17:47.619000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:47.619000" end="0:17:47.952000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:47.619000" end="0:17:47.952000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:47.619000	0:17:47.952000
 .	-	-	-	0:17:47.619000	0:17:47.952000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:47.952000" end="0:17:57.339000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:47.952000" end="0:17:57.339000" project="PP04" age_lower="65" age_upper="999">
 bin	-	-	-	0:17:47.952000	0:17:50.525000
 dort	-	-	-	0:17:47.952000	0:17:50.525000
 parallel	-	-	-	0:17:47.952000	0:17:50.525000
@@ -2268,25 +2268,25 @@ ORT	ORT	-	-	0:17:55.812000	0:17:56.999000
 Bereich	-	-	-	0:17:55.812000	0:17:56.999000
 also/	-	-	-	0:17:55.812000	0:17:56.999000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:57.339000" end="0:17:57.605000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:57.339000" end="0:17:57.605000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:57.339000	0:17:57.605000
 .	-	-	-	0:17:57.339000	0:17:57.605000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:57.605000" end="0:18:01.185000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:17:57.605000" end="0:18:01.185000" project="PP04" age_lower="65" age_upper="999">
 wirklich	-	-	-	0:17:57.605000	0:17:58.312000
 in	-	-	-	0:17:57.605000	0:17:58.312000
 in	-	-	-	0:17:57.605000	0:17:58.312000
 einer	-	-	-	0:17:57.605000	0:17:58.312000
 Sprache	-	-	-	0:17:57.605000	0:17:58.312000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:59.712000" end="0:18:02.252000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:59.712000" end="0:18:02.252000" age_lower="1" age_upper="999">
 okay	-	-	-	0:18:00.085000	0:18:00.485000
 also	-	-	-	0:18:01.525000	0:18:02.252000
 auch	-	-	-	0:18:01.525000	0:18:02.252000
 kein/	-	-	-	0:18:01.525000	0:18:02.252000
 .	-	-	-	0:18:01.525000	0:18:02.252000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:01.792000" end="0:18:09.905000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:01.792000" end="0:18:09.905000" project="PP04" age_lower="65" age_upper="999">
 vielleicht	-	-	-	0:18:01.792000	0:18:02.539000
 war	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:18:01.792000	0:18:02.539000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:18:01.792000	0:18:02.539000
@@ -2311,11 +2311,11 @@ verstanden	-	-	-	0:18:08.052000	0:18:09.905000
 habe	-	-	-	0:18:08.052000	0:18:09.905000
 ,	-	-	-	0:18:08.052000	0:18:09.905000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:08.772000" end="0:18:09.092000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:08.772000" end="0:18:09.092000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:09.905000" end="0:18:12.739000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:09.905000" end="0:18:12.739000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:10.405000" end="0:18:21.899000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:10.405000" end="0:18:21.899000" age_lower="1" age_upper="999">
 das	-	-	-	0:18:10.405000	0:18:11.999000
 kann	-	-	-	0:18:10.405000	0:18:11.999000
 ich	-	-	-	0:18:10.405000	0:18:11.999000
@@ -2352,9 +2352,9 @@ anders	-	-	-	0:18:18.212000	0:18:21.899000
 eigentlich	-	-	-	0:18:18.212000	0:18:21.899000
 .	-	-	-	0:18:18.212000	0:18:21.899000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:18:21.079000" end="0:18:21.492000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:21.079000" end="0:18:21.492000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:21.292000" end="0:18:37.365000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:21.292000" end="0:18:37.365000" project="PP04" age_lower="65" age_upper="999">
 *das*	-	-	-	0:18:21.292000	0:18:22.072000
 ganz	-	-	-	0:18:21.292000	0:18:22.072000
 anders	-	-	-	0:18:21.292000	0:18:22.072000
@@ -2387,7 +2387,7 @@ ah	-	-	-	0:18:24.825000	0:18:27.045000
 aber	-	-	-	0:18:31.652000	0:18:32.072000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:36.305000" end="0:18:40.832000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:36.305000" end="0:18:40.832000" age_lower="1" age_upper="999">
 v/	-	-	-	0:18:38.212000	0:18:40.459000
 vor	-	-	-	0:18:38.212000	0:18:40.459000
 allem	-	-	-	0:18:38.212000	0:18:40.459000
@@ -2402,7 +2402,7 @@ unterscheidet	-	-	-	0:18:38.212000	0:18:40.459000
 nicht	-	-	-	0:18:40.459000	0:18:40.832000
 ?	-	-	-	0:18:40.459000	0:18:40.832000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:40.832000" end="0:18:45.785000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:40.832000" end="0:18:45.785000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 n	-	-	-	0:18:40.832000	0:18:43.265000
 ja	-	-	-	0:18:40.832000	0:18:43.265000
@@ -2421,44 +2421,44 @@ geredet	-	-	-	0:18:43.265000	0:18:45.785000
 auch	-	-	-	0:18:43.265000	0:18:45.785000
 .	-	-	-	0:18:43.265000	0:18:45.785000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:45.785000" end="0:18:46.212000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:45.785000" end="0:18:46.212000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:45.785000" end="0:18:49.439000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:45.785000" end="0:18:49.439000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:18:45.785000	0:18:46.032000
 ?	-	-	-	0:18:45.785000	0:18:46.032000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:46.212000" end="0:18:48.805000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:46.212000" end="0:18:48.805000" age_lower="1" age_upper="999">
 freilich	-	-	-	0:18:46.212000	0:18:46.879000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:18:47.105000" end="0:18:50.479000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:47.105000" end="0:18:50.479000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:49.439000" end="0:18:58.039000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:49.439000" end="0:18:58.039000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:18:49.439000	0:18:50.925000
 ähm	-	-	-	0:18:49.439000	0:18:50.925000
 haben	-	-	-	0:18:49.439000	0:18:50.925000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:58.039000" end="0:18:59.172000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:58.039000" end="0:18:59.172000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:18:58.039000	0:18:59.172000
 absolut	-	-	-	0:18:58.039000	0:18:59.172000
 nicht	-	-	-	0:18:58.039000	0:18:59.172000
 .	-	-	-	0:18:58.039000	0:18:59.172000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:59.172000" end="0:18:59.559000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:59.172000" end="0:18:59.559000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:59.172000	0:18:59.559000
 .	-	-	-	0:18:59.172000	0:18:59.559000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:59.172000" end="0:18:59.559000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:18:59.172000" end="0:18:59.559000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:18:59.172000	0:18:59.559000
 .	-	-	-	0:18:59.172000	0:18:59.559000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:59.559000" end="0:19:09.699000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:59.559000" end="0:19:09.699000" age_lower="1" age_upper="999">
 <pause duration="1,9s"/>
 und	-	-	-	0:19:01.459000	0:19:02.345000
 äh	-	-	-	0:19:01.459000	0:19:02.345000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:19:09.699000" end="0:19:24.685000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:19:09.699000" end="0:19:24.685000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,5s"/>
 auch	-	-	-	0:19:12.159000	0:19:13.845000
 nicht	-	-	-	0:19:12.159000	0:19:13.845000
@@ -2474,13 +2474,13 @@ Funktionen	-	-	-	0:19:13.845000	0:19:17.192000
 <pause duration="0,5s"/>
 ode	-	-	-	0:19:13.845000	0:19:17.192000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:24.685000" end="0:19:28.985000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:24.685000" end="0:19:28.985000" age_lower="1" age_upper="999">
 und	-	-	-	0:19:24.685000	0:19:25.565000
 sp/	-	-	-	0:19:24.685000	0:19:25.565000
 sprechen	-	-	-	0:19:24.685000	0:19:25.565000
 sie	-	-	-	0:19:24.685000	0:19:25.565000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:19:28.985000" end="0:19:46.125000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:19:28.985000" end="0:19:46.125000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:19:28.985000	0:19:31.385000
 ein	-	-	-	0:19:28.985000	0:19:31.385000
 sch	-	-	-	0:19:28.985000	0:19:31.385000
@@ -2529,11 +2529,11 @@ mehr	-	-	-	0:19:42.539000	0:19:45.759000
 nicht	-	-	-	0:19:45.759000	0:19:46.125000
 ?	-	-	-	0:19:45.759000	0:19:46.125000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:46.125000" end="0:19:46.572000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:46.125000" end="0:19:46.572000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:46.125000	0:19:46.572000
 .	-	-	-	0:19:46.125000	0:19:46.572000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:19:46.572000" end="0:19:55.459000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:19:46.572000" end="0:19:55.459000" project="PP04" age_lower="65" age_upper="999">
 dass	-	-	-	0:19:46.572000	0:19:47.312000
 man	-	-	-	0:19:46.572000	0:19:47.312000
 wieder	-	-	-	0:19:46.572000	0:19:47.312000
@@ -2543,7 +2543,7 @@ generell	-	-	-	0:19:50.645000	0:19:51.992000
 <pause duration="0,8s"/>
 f/	-	-	-	0:19:50.645000	0:19:51.992000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:54.952000" end="0:19:56.559000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:54.952000" end="0:19:56.559000" age_lower="1" age_upper="999">
 okay	-	-	-	0:19:54.952000	0:19:55.459000
 .	-	-	-	0:19:54.952000	0:19:55.459000
 also	-	-	-	0:19:55.459000	0:19:56.559000
@@ -2552,7 +2552,7 @@ auf	-	-	-	0:19:55.459000	0:19:56.559000
 Reisen	-	-	-	0:19:55.459000	0:19:56.559000
 .	-	-	-	0:19:55.459000	0:19:56.559000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:19:56.559000" end="0:20:05.472000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:19:56.559000" end="0:20:05.472000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,2s"/>
 ausschließlich	-	-	-	0:19:56.559000	0:19:58.379000
 .	-	-	-	0:19:56.559000	0:19:58.379000
@@ -2577,11 +2577,11 @@ ein	-	-	-	0:20:01.532000	0:20:03.225000
 Sohn	-	-	-	0:20:01.532000	0:20:03.225000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:04.912000" end="0:20:05.252000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:04.912000" end="0:20:05.252000" age_lower="1" age_upper="999">
 ah	-	-	-	0:20:04.912000	0:20:05.252000
 .	-	-	-	0:20:04.912000	0:20:05.252000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:05.472000" end="0:20:21.672000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:05.472000" end="0:20:21.672000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 aber	-	-	-	0:20:09.912000	0:20:12.232000
 aber	-	-	-	0:20:09.912000	0:20:12.232000
@@ -2606,7 +2606,7 @@ normal	-	-	-	0:20:17.592000	0:20:19.699000
 Deutsch	-	-	-	0:20:17.592000	0:20:19.699000
 .	-	-	-	0:20:17.592000	0:20:19.699000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:19.965000" end="0:20:26.565000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:19.965000" end="0:20:26.565000" age_lower="1" age_upper="999">
 m	-	-	-	0:20:19.965000	0:20:21.259000
 hm	-	-	-	0:20:19.965000	0:20:21.259000
 freilich	-	-	-	0:20:19.965000	0:20:21.259000
@@ -2619,7 +2619,7 @@ froh	-	-	-	0:20:21.672000	0:20:26.565000
 sein	-	-	-	0:20:21.672000	0:20:26.565000
 ,	-	-	-	0:20:21.672000	0:20:26.565000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:26.565000" end="0:20:33.685000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:26.565000" end="0:20:33.685000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 generell	-	-	-	0:20:26.565000	0:20:30.645000
 ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _er klit+	0:20:26.565000	0:20:30.645000
@@ -2643,32 +2643,32 @@ Deutsch	-	-	-	0:20:30.645000	0:20:33.299000
 seine/	-	-	-	0:20:33.299000	0:20:33.685000
 .	-	-	-	0:20:33.299000	0:20:33.685000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:33.685000" end="0:20:34.992000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:33.685000" end="0:20:34.992000" age_lower="1" age_upper="999">
 aha	-	-	-	0:20:33.685000	0:20:34.532000
 okay	-	-	-	0:20:33.685000	0:20:34.532000
 .	-	-	-	0:20:33.685000	0:20:34.532000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:20:34.992000" end="0:20:36.212000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:34.992000" end="0:20:36.212000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:34.992000" end="0:20:36.212000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:34.992000" end="0:20:36.212000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 mit	-	-	-	0:20:34.992000	0:20:36.212000
 seiner	-	-	-	0:20:34.992000	0:20:36.212000
 Frau	-	-	-	0:20:34.992000	0:20:36.212000
 .	-	-	-	0:20:34.992000	0:20:36.212000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:20:36.212000" end="0:20:37.452000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:36.212000" end="0:20:37.452000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:36.212000" end="0:20:36.939000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:36.212000" end="0:20:36.939000" project="PP04" age_lower="65" age_upper="999">
 sie	-	-	-	0:20:36.212000	0:20:36.939000
 sie	-	-	-	0:20:36.212000	0:20:36.939000
 sie	-	-	-	0:20:36.212000	0:20:36.939000
 ist/	-	-	-	0:20:36.212000	0:20:36.939000
 .	-	-	-	0:20:36.212000	0:20:36.939000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:20:37.452000" end="0:20:47.592000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:37.452000" end="0:20:47.592000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:47.592000" end="0:20:48.745000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:47.592000" end="0:20:48.745000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:20:47.592000	0:20:48.399000
 kann	-	-	-	0:20:47.592000	0:20:48.399000
 man	-	-	-	0:20:47.592000	0:20:48.399000
@@ -2677,13 +2677,13 @@ sagen	-	-	-	0:20:47.592000	0:20:48.399000
 ja	-	-	-	0:20:48.399000	0:20:48.745000
 .	-	-	-	0:20:48.399000	0:20:48.745000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:20:48.539000" end="0:20:49.459000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:48.539000" end="0:20:49.459000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:48.745000" end="0:20:49.625000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:20:48.745000" end="0:20:49.625000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:20:49.459000" end="0:20:52.685000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:49.459000" end="0:20:52.685000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:52.685000" end="0:20:54.925000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:52.685000" end="0:20:54.925000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:20:52.685000	0:20:53.765000
 .	-	-	-	0:20:52.685000	0:20:53.765000
@@ -2691,60 +2691,60 @@ hm	-	-	-	0:20:53.765000	0:20:54.925000
 freilich	-	-	-	0:20:53.765000	0:20:54.925000
 .	-	-	-	0:20:53.765000	0:20:54.925000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:20:54.925000" end="0:21:00.479000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:54.925000" end="0:21:00.479000" age_lower="1" age_upper="999">
 NAME	NAME	-	-	0:20:55.265000	0:20:56.719000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:00.479000" end="0:21:01.612000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:00.479000" end="0:21:01.612000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:00.952000" end="0:21:04.792000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:00.952000" end="0:21:04.792000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:21:03.659000" end="0:21:05.299000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:21:03.659000" end="0:21:05.299000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:04.792000" end="0:21:08.132000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:04.792000" end="0:21:08.132000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:08.132000" end="0:21:08.779000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:08.132000" end="0:21:08.779000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:08.672000" end="0:21:20.212000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:08.672000" end="0:21:20.212000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:20.212000" end="0:21:20.572000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:20.212000" end="0:21:20.572000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:20.379000" end="0:21:26.012000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:20.379000" end="0:21:26.012000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:21:26.012000" end="0:21:26.665000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:21:26.012000" end="0:21:26.665000" project="PP04" age_lower="65" age_upper="999">
 na	-	-	-	0:21:26.012000	0:21:26.665000
 ja	-	-	-	0:21:26.012000	0:21:26.665000
 richtig	-	-	-	0:21:26.012000	0:21:26.665000
 .	-	-	-	0:21:26.012000	0:21:26.665000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:26.419000" end="0:21:28.192000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:26.419000" end="0:21:28.192000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:21:26.665000" end="0:21:26.925000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:21:26.665000" end="0:21:26.925000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:21:26.665000	0:21:26.925000
 .	-	-	-	0:21:26.665000	0:21:26.925000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:28.192000" end="0:21:32.219000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:28.192000" end="0:21:32.219000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:32.199000" end="0:21:32.512000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:32.199000" end="0:21:32.512000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:32.219000" end="0:21:36.545000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:32.219000" end="0:21:36.545000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:36.232000" end="0:21:37.925000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:36.232000" end="0:21:37.925000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:37.305000" end="0:21:37.892000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:37.305000" end="0:21:37.892000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:37.925000" end="0:21:39.372000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:37.925000" end="0:21:39.372000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:39.079000" end="0:21:39.952000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:39.079000" end="0:21:39.952000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:39.372000" end="0:21:41.239000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:39.372000" end="0:21:41.239000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:41.239000" end="0:21:42.212000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:41.239000" end="0:21:42.212000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:42.212000" end="0:21:45.045000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:42.212000" end="0:21:45.045000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:21:45.045000" end="0:21:45.365000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:45.045000" end="0:21:45.365000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:45.365000" end="0:21:54.312000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:45.365000" end="0:21:54.312000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 ahm	-	-	-	0:21:45.365000	0:21:46.905000
 ja	-	-	-	0:21:45.365000	0:21:46.905000
@@ -2765,7 +2765,7 @@ klein	-	-	-	0:21:50.205000	0:21:54.312000
 waren	-	-	-	0:21:50.205000	0:21:54.312000
 ?	-	-	-	0:21:50.205000	0:21:54.312000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:21:54.312000" end="0:22:13.105000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:21:54.312000" end="0:22:13.105000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,5s"/>
 ja	-	-	-	0:21:56.845000	0:21:58.705000
 wir	-	-	-	0:21:56.845000	0:21:58.705000
@@ -2804,27 +2804,27 @@ das	-	-	-	0:22:11.605000	0:22:13.105000
 da/	-	-	-	0:22:11.605000	0:22:13.105000
 .	-	-	-	0:22:11.605000	0:22:13.105000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:22:13.105000" end="0:22:15.612000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:13.105000" end="0:22:15.612000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:13.525000" end="0:22:15.085000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:13.525000" end="0:22:15.085000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:13.525000" end="0:22:15.085000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:13.525000" end="0:22:15.085000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:22:15.612000" end="0:22:15.932000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:15.612000" end="0:22:15.932000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:15.612000" end="0:22:16.979000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:15.612000" end="0:22:16.979000" project="PP04" age_lower="65" age_upper="999">
 tu	-	-	-	0:22:15.612000	0:22:16.979000
 tu	-	-	-	0:22:15.612000	0:22:16.979000
 tu	-	-	-	0:22:15.612000	0:22:16.979000
 weiter	-	-	-	0:22:15.612000	0:22:16.979000
 .	-	-	-	0:22:15.612000	0:22:16.979000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:22:15.932000" end="0:22:20.232000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:15.932000" end="0:22:20.232000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:16.979000" end="0:22:21.419000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:16.979000" end="0:22:21.419000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:21.419000" end="0:22:24.192000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:21.419000" end="0:22:24.192000" age_lower="1" age_upper="999">
 das	-	-	-	0:22:21.419000	0:22:24.192000
 b/	-	-	-	0:22:21.419000	0:22:24.192000
 braucht	-	-	-	0:22:21.419000	0:22:24.192000
@@ -2837,31 +2837,31 @@ den	-	-	-	0:22:21.419000	0:22:24.192000
 Kindern	-	-	-	0:22:21.419000	0:22:24.192000
 .	-	-	-	0:22:21.419000	0:22:24.192000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:22:24.012000" end="0:22:28.445000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:24.012000" end="0:22:28.445000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:24.192000" end="0:22:24.805000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:24.192000" end="0:22:24.805000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:24.499000" end="0:22:28.539000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:24.499000" end="0:22:28.539000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:22:28.445000" end="0:22:29.472000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:28.445000" end="0:22:29.472000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:28.445000" end="0:22:29.472000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:28.445000" end="0:22:29.472000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:22:29.472000" end="0:22:30.992000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:29.472000" end="0:22:30.992000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:30.992000" end="0:22:34.945000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:30.992000" end="0:22:34.945000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:22:30.992000	0:22:32.612000
 und	-	-	-	0:22:30.992000	0:22:32.612000
 <pause duration="0,8s"/>
 ich	-	-	-	0:22:30.992000	0:22:32.612000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:34.872000" end="0:22:35.345000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:34.872000" end="0:22:35.345000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:22:34.872000	0:22:35.345000
 ch/	-	-	-	0:22:34.872000	0:22:35.345000
 .	-	-	-	0:22:34.872000	0:22:35.345000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:34.945000" end="0:22:39.065000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:34.945000" end="0:22:39.065000" age_lower="1" age_upper="999">
 weil	-	-	-	0:22:34.945000	0:22:39.065000
 w/	-	-	-	0:22:34.945000	0:22:39.065000
 wie	-	-	-	0:22:34.945000	0:22:39.065000
@@ -2879,12 +2879,12 @@ ORT	ORT	-	-	0:22:34.945000	0:22:39.065000
 ORT	ORT	-	-	0:22:34.945000	0:22:39.065000
 .	-	-	-	0:22:34.945000	0:22:39.065000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:35.345000" end="0:22:35.939000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:35.345000" end="0:22:35.939000" project="PP04" age_lower="65" age_upper="999">
 kein	-	-	-	0:22:35.345000	0:22:35.939000
 Problem	-	-	-	0:22:35.345000	0:22:35.939000
 .	-	-	-	0:22:35.345000	0:22:35.939000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:39.065000" end="0:22:48.652000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:39.065000" end="0:22:48.652000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ahm	-	-	-	0:22:39.065000	0:22:43.065000
 wenn	-	-	-	0:22:39.065000	0:22:43.065000
@@ -2909,7 +2909,7 @@ Eindruck	-	-	-	0:22:43.065000	0:22:48.652000
 ORT	ORT	-	-	0:22:43.065000	0:22:48.652000
 ORT	ORT	-	-	0:22:43.065000	0:22:48.652000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:48.652000" end="0:22:55.825000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:48.652000" end="0:22:55.825000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,8s"/>
 tja	-	-	-	0:22:51.452000	0:22:53.319000
 der	-	-	-	0:22:51.452000	0:22:53.319000
@@ -2933,11 +2933,11 @@ ORT	ORT	-	-	0:22:53.912000	0:22:55.825000
 ORT	ORT	-	-	0:22:53.912000	0:22:55.825000
 .	-	-	-	0:22:53.912000	0:22:55.825000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:55.825000" end="0:22:56.939000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:55.825000" end="0:22:56.939000" age_lower="1" age_upper="999">
 ah	-	-	-	0:22:55.825000	0:22:56.065000
 .	-	-	-	0:22:55.825000	0:22:56.065000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:56.212000" end="0:23:00.439000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:22:56.212000" end="0:23:00.439000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:22:56.492000	0:22:56.939000
 ist	-	-	-	0:22:56.492000	0:22:56.939000
 die	-	-	-	0:22:56.492000	0:22:56.939000
@@ -2949,11 +2949,11 @@ ist	-	-	-	0:22:58.172000	0:23:00.439000
 ORT	ORT	-	-	0:22:58.172000	0:23:00.439000
 .	-	-	-	0:22:58.172000	0:23:00.439000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:00.439000" end="0:23:00.999000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:00.439000" end="0:23:00.999000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:00.439000	0:23:00.999000
 .	-	-	-	0:23:00.439000	0:23:00.999000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:00.999000" end="0:23:10.239000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:00.999000" end="0:23:10.239000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 und/	-	-	-	0:23:00.999000	0:23:02.345000
 und/	-	-	-	0:23:00.999000	0:23:02.345000
@@ -2982,11 +2982,11 @@ Deutsch	-	-	-	0:23:06.699000	0:23:10.239000
 beizubri/	-	-	-	0:23:06.699000	0:23:10.239000
 .	-	-	-	0:23:06.699000	0:23:10.239000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:08.465000" end="0:23:08.779000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:08.465000" end="0:23:08.779000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:09.052000" end="0:23:11.219000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:09.052000" end="0:23:11.219000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:10.239000" end="0:23:12.832000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:10.239000" end="0:23:12.832000" project="PP04" age_lower="65" age_upper="999">
 wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	0:23:10.799000	0:23:11.832000
 er	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	0:23:10.799000	0:23:11.832000
 in	-	-	-	0:23:10.799000	0:23:11.832000
@@ -2999,38 +2999,38 @@ gescheites	-	-	-	0:23:11.832000	0:23:12.832000
 Steirisch	-	-	-	0:23:11.832000	0:23:12.832000
 .	-	-	-	0:23:11.832000	0:23:12.832000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:12.539000" end="0:23:13.525000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:12.539000" end="0:23:13.525000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:12.832000" end="0:23:13.839000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:12.832000" end="0:23:13.839000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:13.525000" end="0:23:13.839000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:13.525000" end="0:23:13.839000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:13.839000" end="0:23:14.619000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:13.839000" end="0:23:14.619000" project="PP04" age_lower="65" age_upper="999">
 wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	0:23:13.839000	0:23:14.619000
 er	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	0:23:13.839000	0:23:14.619000
 da	-	-	-	0:23:13.839000	0:23:14.619000
 ist	-	-	-	0:23:13.839000	0:23:14.619000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:14.419000" end="0:23:17.165000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:14.419000" end="0:23:17.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:14.619000" end="0:23:15.232000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:14.619000" end="0:23:15.232000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:23:14.619000	0:23:14.819000
 ?	-	-	-	0:23:14.619000	0:23:14.819000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:17.165000" end="0:23:17.465000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:17.165000" end="0:23:17.465000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:17.165000" end="0:23:17.932000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:17.165000" end="0:23:17.932000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:23:17.165000	0:23:17.465000
 ?	-	-	-	0:23:17.165000	0:23:17.465000
 ja	-	-	-	0:23:17.739000	0:23:17.932000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:17.779000" end="0:23:18.165000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:17.779000" end="0:23:18.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:17.932000" end="0:23:18.659000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:17.932000" end="0:23:18.659000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:18.165000" end="0:23:19.139000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:18.165000" end="0:23:19.139000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:18.659000" end="0:23:20.092000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:18.659000" end="0:23:20.092000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 nein	-	-	-	0:23:18.659000	0:23:20.092000
 die	-	-	-	0:23:18.659000	0:23:20.092000
@@ -3038,7 +3038,7 @@ sind	-	-	-	0:23:18.659000	0:23:20.092000
 ja/	-	-	-	0:23:18.659000	0:23:20.092000
 .	-	-	-	0:23:18.659000	0:23:20.092000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:19.139000" end="0:23:22.239000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:19.139000" end="0:23:22.239000" age_lower="1" age_upper="999">
 das	-	-	-	0:23:19.139000	0:23:20.245000
 heßt	-	-	-	0:23:19.139000	0:23:20.245000
 er	-	-	-	0:23:19.139000	0:23:20.245000
@@ -3053,9 +3053,9 @@ beides	-	-	-	0:23:20.245000	0:23:22.239000
 beherrscht	-	-	-	0:23:20.245000	0:23:22.239000
 .	-	-	-	0:23:20.245000	0:23:22.239000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:20.912000" end="0:23:22.585000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:20.912000" end="0:23:22.585000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:22.239000" end="0:23:23.905000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:22.239000" end="0:23:23.905000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:23:22.239000	0:23:22.485000
 .	-	-	-	0:23:22.239000	0:23:22.485000
 ja	-	-	-	0:23:22.485000	0:23:23.199000
@@ -3067,9 +3067,9 @@ gut	-	-	-	0:23:22.485000	0:23:23.199000
 beim	-	-	-	0:23:23.199000	0:23:23.905000
 m/des	-	-	-	0:23:23.199000	0:23:23.905000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:23.339000" end="0:23:23.845000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:23.339000" end="0:23:23.845000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:23.905000" end="0:23:24.985000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:23.905000" end="0:23:24.985000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:23:23.905000	0:23:24.985000
 ist	-	-	-	0:23:23.905000	0:23:24.985000
 ja	-	-	-	0:23:23.905000	0:23:24.985000
@@ -3079,9 +3079,9 @@ viel	-	-	-	0:23:23.905000	0:23:24.985000
 so/	-	-	-	0:23:23.905000	0:23:24.985000
 .	-	-	-	0:23:23.905000	0:23:24.985000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:24.065000" end="0:23:26.352000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:24.065000" end="0:23:26.352000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:25.519000" end="0:23:27.612000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:25.519000" end="0:23:27.612000" project="PP04" age_lower="65" age_upper="999">
 so	-	-	-	0:23:25.519000	0:23:27.305000
 ein	-	-	-	0:23:25.519000	0:23:27.305000
 großer	-	-	-	0:23:25.519000	0:23:27.305000
@@ -3095,11 +3095,11 @@ die	-	-	-	0:23:27.305000	0:23:27.612000
 sind/	-	-	-	0:23:27.305000	0:23:27.612000
 .	-	-	-	0:23:27.305000	0:23:27.612000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:27.505000" end="0:23:27.779000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:27.505000" end="0:23:27.779000" age_lower="1" age_upper="999">
 und/	-	-	-	0:23:27.505000	0:23:27.779000
 .	-	-	-	0:23:27.505000	0:23:27.779000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:27.612000" end="0:23:31.025000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:27.612000" end="0:23:31.025000" project="PP04" age_lower="65" age_upper="999">
 es	-	-	-	0:23:27.612000	0:23:29.485000
 ist	-	-	-	0:23:27.612000	0:23:29.485000
 ja	-	-	-	0:23:27.612000	0:23:29.485000
@@ -3117,17 +3117,17 @@ unserem	-	-	-	0:23:29.639000	0:23:31.025000
 Bundespräsidenten	-	-	-	0:23:29.639000	0:23:31.025000
 .	-	-	-	0:23:29.639000	0:23:31.025000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:23:30.319000" end="0:23:31.299000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:30.319000" end="0:23:31.299000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:31.025000" end="0:23:32.092000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:31.025000" end="0:23:32.092000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:23:31.025000	0:23:31.292000
 ?	-	-	-	0:23:31.025000	0:23:31.292000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:31.659000" end="0:23:32.119000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:31.659000" end="0:23:32.119000" age_lower="1" age_upper="999">
 freilich	-	-	-	0:23:31.659000	0:23:32.119000
 .	-	-	-	0:23:31.659000	0:23:32.119000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:32.092000" end="0:23:37.545000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:32.092000" end="0:23:37.545000" project="PP04" age_lower="65" age_upper="999">
 was	-	-	-	0:23:32.092000	0:23:33.459000
 der	-	-	-	0:23:32.092000	0:23:33.459000
 jedes	-	-	-	0:23:32.092000	0:23:33.459000
@@ -3141,7 +3141,7 @@ Ausdrücke	-	-	-	0:23:33.459000	0:23:34.499000
 nicht	-	-	-	0:23:34.499000	0:23:34.759000
 ?	-	-	-	0:23:34.499000	0:23:34.759000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:37.545000" end="0:23:47.259000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:37.545000" end="0:23:47.259000" age_lower="1" age_upper="999">
 und	-	-	-	0:23:37.545000	0:23:43.452000
 ähm	-	-	-	0:23:37.545000	0:23:43.452000
 fallen	-	-	-	0:23:37.545000	0:23:43.452000
@@ -3167,7 +3167,7 @@ typisch	-	-	-	0:23:45.732000	0:23:47.259000
 ORT	ORT	-	-	0:23:45.732000	0:23:47.259000
 ORT	ORT	-	-	0:23:45.732000	0:23:47.259000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:47.259000" end="0:24:39.159000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:23:47.259000" end="0:24:39.159000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,0s"/>
 <pause duration="seufzen"/>
 <pause duration="1,0s"/>
@@ -3295,7 +3295,7 @@ wird	-	-	-	0:24:37.319000	0:24:38.879000
 nicht	-	-	-	0:24:38.879000	0:24:39.159000
 ?	-	-	-	0:24:38.879000	0:24:39.159000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:39.159000" end="0:24:47.319000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:39.159000" end="0:24:47.319000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:39.159000	0:24:39.632000
 .	-	-	-	0:24:39.159000	0:24:39.632000
 und	-	-	-	0:24:40.225000	0:24:42.279000
@@ -3322,7 +3322,7 @@ typischen	-	-	-	0:24:42.279000	0:24:47.319000
 Besondereiten	-	-	-	0:24:42.279000	0:24:47.319000
 gitb	-	-	-	0:24:42.279000	0:24:47.319000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:24:47.319000" end="0:24:59.499000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:24:47.319000" end="0:24:59.499000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="4,4s"/>
 <pause duration="0,5s"/>
 geben	-	-	-	0:24:51.699000	0:24:53.425000
@@ -3349,7 +3349,7 @@ schnell	-	-	-	0:24:55.699000	0:24:58.299000
 erzählen	-	-	-	0:24:55.699000	0:24:58.299000
 ?	-	-	-	0:24:55.699000	0:24:58.299000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:59.499000" end="0:25:13.025000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:59.499000" end="0:25:13.025000" age_lower="1" age_upper="999">
 fällt	-	-	-	0:24:59.499000	0:25:01.399000
 einem	-	-	-	0:24:59.499000	0:25:01.399000
 oft	-	-	-	0:24:59.499000	0:25:01.399000
@@ -3375,7 +3375,7 @@ in	-	-	-	0:25:08.779000	0:25:13.025000
 hat	-	-	-	0:25:08.779000	0:25:13.025000
 ?	-	-	-	0:25:08.779000	0:25:13.025000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:25:13.025000" end="0:25:51.372000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:25:13.025000" end="0:25:51.372000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="7,0s"/>
 generell	-	-	-	0:25:20.065000	0:25:25.352000
 muss	-	-	-	0:25:20.065000	0:25:25.352000
@@ -3477,18 +3477,18 @@ geringer	-	-	-	0:25:46.892000	0:25:51.065000
 nicht	-	-	-	0:25:51.065000	0:25:51.372000
 ?	-	-	-	0:25:51.065000	0:25:51.372000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:51.372000" end="0:25:51.812000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:51.372000" end="0:25:51.812000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:51.372000	0:25:51.812000
 .	-	-	-	0:25:51.372000	0:25:51.812000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:25:51.492000" end="0:25:53.219000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:25:51.492000" end="0:25:53.219000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	0:25:51.492000	0:25:53.219000
 kaum	-	-	-	0:25:51.492000	0:25:53.219000
 kaum	-	-	-	0:25:51.492000	0:25:53.219000
 wahrzunehmen	-	-	-	0:25:51.492000	0:25:53.219000
 .	-	-	-	0:25:51.492000	0:25:53.219000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:53.219000" end="0:25:59.732000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:53.219000" end="0:25:59.732000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 das	-	-	-	0:25:53.219000	0:25:59.732000
 heißt	-	-	-	0:25:53.219000	0:25:59.732000
@@ -3506,7 +3506,7 @@ Sprechweise	-	-	-	0:25:53.219000	0:25:59.732000
 haben	-	-	-	0:25:53.219000	0:25:59.732000
 und/	-	-	-	0:25:53.219000	0:25:59.732000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:25:59.125000" end="0:26:16.572000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:25:59.125000" end="0:26:16.572000" project="PP04" age_lower="65" age_upper="999">
 richtig	-	-	-	0:25:59.125000	0:25:59.732000
 ja	-	-	-	0:25:59.125000	0:25:59.732000
 .	-	-	-	0:25:59.125000	0:25:59.732000
@@ -3571,11 +3571,11 @@ ist	-	-	-	0:26:13.779000	0:26:16.152000
 nicht	-	-	-	0:26:16.152000	0:26:16.572000
 ?	-	-	-	0:26:16.152000	0:26:16.572000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:16.572000" end="0:26:17.119000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:16.572000" end="0:26:17.119000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:26:16.572000	0:26:17.119000
 .	-	-	-	0:26:16.572000	0:26:17.119000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:16.572000" end="0:26:28.718000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:16.572000" end="0:26:28.718000" project="PP04" age_lower="65" age_upper="999">
 gegenüber	-	-	-	0:26:16.572000	0:26:18.185000
 Marmelade	-	-	-	0:26:16.572000	0:26:18.185000
 .	-	-	-	0:26:16.572000	0:26:18.185000
@@ -3602,16 +3602,16 @@ einzel	-	-	-	0:26:24.952000	0:26:28.718000
 Einzelvokabeln	-	-	-	0:26:24.952000	0:26:28.718000
 .	-	-	-	0:26:24.952000	0:26:28.718000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:28.718000" end="0:26:29.825000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:28.718000" end="0:26:29.825000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:26:28.718000	0:26:29.825000
 ja	-	-	-	0:26:28.718000	0:26:29.825000
 .	-	-	-	0:26:28.718000	0:26:29.825000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:28.718000" end="0:26:29.825000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:28.718000" end="0:26:29.825000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:26:28.718000	0:26:28.945000
 ?	-	-	-	0:26:28.718000	0:26:28.945000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:29.825000" end="0:26:40.972000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:29.825000" end="0:26:40.972000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ja	-	-	-	0:26:29.825000	0:26:34.358000
 und	-	-	-	0:26:29.825000	0:26:34.358000
@@ -3642,7 +3642,7 @@ ORT	ORT	-	-	0:26:38.545000	0:26:40.972000
 ORT	ORT	-	-	0:26:38.545000	0:26:40.972000
 ORT	ORT	-	-	0:26:38.545000	0:26:40.972000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:40.972000" end="0:26:45.632000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:40.972000" end="0:26:45.632000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,1s"/>
 kann	-	-	-	0:26:43.038000	0:26:45.632000
 nur	-	-	-	0:26:43.038000	0:26:45.632000
@@ -3656,20 +3656,20 @@ auf	-	-	-	0:26:43.038000	0:26:45.632000
 den	-	-	-	0:26:43.038000	0:26:45.632000
 Enkelbuben	-	-	-	0:26:43.038000	0:26:45.632000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:45.118000" end="0:26:48.318000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:45.118000" end="0:26:48.318000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:45.632000" end="0:26:54.872000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:45.632000" end="0:26:54.872000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:26:48.932000	0:26:49.392000
 g/	-	-	-	0:26:48.932000	0:26:49.392000
 na	-	-	-	0:26:48.932000	0:26:49.392000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:54.272000" end="0:26:54.652000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:54.272000" end="0:26:54.652000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:26:54.272000	0:26:54.652000
 .	-	-	-	0:26:54.272000	0:26:54.652000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:54.872000" end="0:26:55.085000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:54.872000" end="0:26:55.085000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:55.085000" end="0:26:59.825000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:55.085000" end="0:26:59.825000" age_lower="1" age_upper="999">
 also	-	-	-	0:26:55.085000	0:26:59.825000
 das	-	-	-	0:26:55.085000	0:26:59.825000
 heißt	-	-	-	0:26:55.085000	0:26:59.825000
@@ -3681,14 +3681,14 @@ nicht	-	-	-	0:26:55.085000	0:26:59.825000
 denken	-	-	-	0:26:55.085000	0:26:59.825000
 ,	-	-	-	0:26:55.085000	0:26:59.825000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:59.825000" end="0:27:01.125000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:26:59.825000" end="0:27:01.125000" project="PP04" age_lower="65" age_upper="999">
 glaube	-	-	-	0:26:59.825000	0:27:01.125000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:26:59.825000	0:27:01.125000
 weniger	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:26:59.825000	0:27:01.125000
 ja	-	-	-	0:26:59.825000	0:27:01.125000
 .	-	-	-	0:26:59.825000	0:27:01.125000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:04.992000" end="0:27:11.705000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:04.992000" end="0:27:11.705000" age_lower="1" age_upper="999">
 und	-	-	-	0:27:04.992000	0:27:06.132000
 ahm/	-	-	-	0:27:04.992000	0:27:06.132000
 .	-	-	-	0:27:04.992000	0:27:06.132000
@@ -3700,7 +3700,7 @@ sagen	-	-	-	0:27:06.132000	0:27:11.705000
 ORT	ORT	-	-	0:27:06.132000	0:27:11.705000
 ORT	ORT	-	-	0:27:06.132000	0:27:11.705000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:11.705000" end="0:27:40.398000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:11.705000" end="0:27:40.398000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,4s"/>
 kaum	-	-	-	0:27:11.705000	0:27:13.458000
 .	-	-	-	0:27:11.705000	0:27:13.458000
@@ -3788,22 +3788,22 @@ Hausnamen	-	-	-	0:27:36.252000	0:27:40.085000
 nicht	-	-	-	0:27:40.085000	0:27:40.398000
 ?	-	-	-	0:27:40.085000	0:27:40.398000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:40.398000" end="0:27:41.025000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:40.398000" end="0:27:41.025000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:40.398000	0:27:41.025000
 .	-	-	-	0:27:40.398000	0:27:41.025000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:41.025000" end="0:27:43.025000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:41.025000" end="0:27:43.025000" project="PP04" age_lower="65" age_upper="999">
 noch	-	-	-	0:27:41.025000	0:27:43.025000
 noch	-	-	-	0:27:41.025000	0:27:43.025000
 Vulgonamen	-	-	-	0:27:41.025000	0:27:43.025000
 ,	-	-	-	0:27:41.025000	0:27:43.025000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:43.025000" end="0:27:43.692000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:43.025000" end="0:27:43.692000" age_lower="1" age_upper="999">
 wa/	-	-	-	0:27:43.025000	0:27:43.692000
 schön	-	-	-	0:27:43.025000	0:27:43.692000
 .	-	-	-	0:27:43.025000	0:27:43.692000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:43.558000" end="0:27:51.572000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:43.558000" end="0:27:51.572000" project="PP04" age_lower="65" age_upper="999">
 wo	-	-	-	0:27:43.558000	0:27:45.525000
 uns	-	-	-	0:27:43.558000	0:27:45.525000
 unsereiner	-	-	-	0:27:43.558000	0:27:45.525000
@@ -3838,11 +3838,11 @@ Haus	-	-	-	0:27:50.018000	0:27:51.105000
 nicht	-	-	-	0:27:51.105000	0:27:51.572000
 ?	-	-	-	0:27:51.105000	0:27:51.572000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:51.118000" end="0:27:51.385000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:51.118000" end="0:27:51.385000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:51.118000	0:27:51.385000
 .	-	-	-	0:27:51.118000	0:27:51.385000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:51.572000" end="0:27:53.585000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:51.572000" end="0:27:53.585000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:27:51.572000	0:27:53.285000
 f/	-	-	-	0:27:51.572000	0:27:53.285000
 wie	-	-	-	0:27:51.572000	0:27:53.285000
@@ -3854,7 +3854,7 @@ sagt	-	-	-	0:27:51.572000	0:27:53.285000
 nicht	-	-	-	0:27:53.285000	0:27:53.585000
 ?	-	-	-	0:27:53.285000	0:27:53.585000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:53.585000" end="0:27:56.938000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:53.585000" end="0:27:56.938000" age_lower="1" age_upper="999">
 das	-	-	-	0:27:53.585000	0:27:56.785000
 hat	-	-	-	0:27:53.585000	0:27:56.785000
 ja	-	-	-	0:27:53.585000	0:27:56.785000
@@ -3869,7 +3869,7 @@ Geschichte	-	-	-	0:27:53.585000	0:27:56.785000
 nicht	-	-	-	0:27:56.785000	0:27:56.938000
 ?	-	-	-	0:27:56.785000	0:27:56.938000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:56.938000" end="0:28:06.272000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:27:56.938000" end="0:28:06.272000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:27:56.938000	0:27:57.205000
 .	-	-	-	0:27:56.938000	0:27:57.205000
 keine	-	-	-	0:27:57.205000	0:27:58.798000
@@ -3914,21 +3914,21 @@ ist	-	-	-	0:28:02.925000	0:28:05.998000
 nicht	-	-	-	0:28:05.998000	0:28:06.272000
 ?	-	-	-	0:28:05.998000	0:28:06.272000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:06.272000" end="0:28:06.738000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:06.272000" end="0:28:06.738000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:06.272000	0:28:06.738000
 .	-	-	-	0:28:06.272000	0:28:06.738000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:28:07.765000" end="0:28:08.925000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:07.765000" end="0:28:08.925000" age_lower="1" age_upper="999">
 NAME	NAME	-	-	0:28:07.765000	0:28:08.925000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:08.925000" end="0:28:09.485000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:08.925000" end="0:28:09.485000" project="PP04" age_lower="65" age_upper="999">
 was	-	-	-	0:28:08.925000	0:28:09.485000
 ?	-	-	-	0:28:08.925000	0:28:09.485000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:28:09.485000" end="0:28:11.972000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:09.485000" end="0:28:11.972000" age_lower="1" age_upper="999">
 NAME	NAME	-	-	0:28:09.485000	0:28:11.752000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:11.972000" end="0:28:18.618000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:11.972000" end="0:28:18.618000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:28:11.972000	0:28:13.765000
 aber	-	-	-	0:28:11.972000	0:28:13.765000
 die	-	-	-	0:28:11.972000	0:28:13.765000
@@ -3952,18 +3952,18 @@ NAME	NAME	-	-	0:28:14.545000	0:28:18.618000
 .	-	-	-	0:28:14.545000	0:28:18.618000
 NAME	NAME	-	-	0:28:14.545000	0:28:18.618000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:28:17.672000" end="0:28:18.005000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:17.672000" end="0:28:18.005000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:18.618000" end="0:28:19.412000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:18.618000" end="0:28:19.412000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	0:28:18.618000	0:28:19.412000
 oder	-	-	-	0:28:18.618000	0:28:19.412000
 weiß	-	-	*klit KlitBasis KlitPron KlitReal PronForm V+Kl _ich	0:28:18.618000	0:28:19.412000
 ich	-	-	*klit KlitBasis KlitPron KlitReal PronForm V+Kl _ich	0:28:18.618000	0:28:19.412000
 .	-	-	-	0:28:18.618000	0:28:19.412000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:28:18.812000" end="0:28:19.512000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:18.812000" end="0:28:19.512000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:19.412000" end="0:28:23.858000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:19.412000" end="0:28:23.858000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	0:28:19.412000	0:28:21.738000
 da	-	-	-	0:28:19.412000	0:28:21.738000
 g	-	-	-	0:28:19.412000	0:28:21.738000
@@ -3978,9 +3978,9 @@ gewisse	-	-	-	0:28:21.738000	0:28:23.858000
 Bereiche	-	-	-	0:28:21.738000	0:28:23.858000
 ,	-	-	-	0:28:21.738000	0:28:23.858000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:28:23.258000" end="0:28:24.138000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:23.258000" end="0:28:24.138000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:23.858000" end="0:28:26.685000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:23.858000" end="0:28:26.685000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:28:23.858000	0:28:24.272000
 ?	-	-	-	0:28:23.858000	0:28:24.272000
 <pause duration="0,5s"/>
@@ -3993,13 +3993,13 @@ es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:24.272000	
 schon	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:24.272000	0:28:26.685000
 .	-	-	-	0:28:24.272000	0:28:26.685000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:24.792000" end="0:28:25.498000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:24.792000" end="0:28:25.498000" age_lower="1" age_upper="999">
 ja	-	-	-	0:28:24.792000	0:28:25.498000
 da	-	-	-	0:28:24.792000	0:28:25.498000
 haben	-	-	-	0:28:24.792000	0:28:25.498000
 wir/	-	-	-	0:28:24.792000	0:28:25.498000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:26.685000" end="0:28:33.178000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:26.685000" end="0:28:33.178000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:28:26.685000	0:28:31.812000
 aber	-	-	-	0:28:26.685000	0:28:31.812000
 aber	-	-	-	0:28:26.685000	0:28:31.812000
@@ -4029,11 +4029,11 @@ selber	-	-	-	0:28:31.985000	0:28:32.898000
 nicht	-	-	-	0:28:32.898000	0:28:33.178000
 ?	-	-	-	0:28:32.898000	0:28:33.178000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:33.178000" end="0:28:33.765000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:33.178000" end="0:28:33.765000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:33.178000	0:28:33.765000
 .	-	-	-	0:28:33.178000	0:28:33.765000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:33.765000" end="0:28:35.518000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:33.765000" end="0:28:35.518000" project="PP04" age_lower="65" age_upper="999">
 sind	-	-	-	0:28:33.765000	0:28:35.518000
 die	-	-	-	0:28:33.765000	0:28:35.518000
 Begriffe	-	-	-	0:28:33.765000	0:28:35.518000
@@ -4042,7 +4042,7 @@ dort	-	-	-	0:28:33.765000	0:28:35.518000
 aber/	-	-	-	0:28:33.765000	0:28:35.518000
 .	-	-	-	0:28:33.765000	0:28:35.518000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:36.918000" end="0:28:51.092000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:36.918000" end="0:28:51.092000" age_lower="1" age_upper="999">
 und	-	-	-	0:28:36.918000	0:28:43.125000
 ähm	-	-	-	0:28:36.918000	0:28:43.125000
 auch	-	-	-	0:28:36.918000	0:28:43.125000
@@ -4063,7 +4063,7 @@ ORT	ORT	-	-	0:28:43.125000	0:28:51.092000
 ORT	ORT	-	-	0:28:43.125000	0:28:51.092000
 ORT	ORT	-	-	0:28:43.125000	0:28:51.092000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:51.092000" end="0:29:00.178000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:28:51.092000" end="0:29:00.178000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="2,3s"/>
 das	-	-	-	0:28:53.392000	0:28:56.045000
 kann	-	-	-	0:28:53.392000	0:28:56.045000
@@ -4077,9 +4077,9 @@ eben/	-	-	-	0:28:53.392000	0:28:56.045000
 sozusagen	-	-	-	0:28:56.045000	0:28:57.952000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:00.178000" end="0:29:00.605000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:00.178000" end="0:29:00.605000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:00.178000" end="0:29:22.545000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:00.178000" end="0:29:22.545000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:29:00.178000	0:29:00.465000
 und	-	-	-	0:29:00.465000	0:29:02.258000
 die	-	-	-	0:29:00.465000	0:29:02.258000
@@ -4129,25 +4129,25 @@ teilweise	-	-	-	0:29:18.258000	0:29:22.545000
 Schläfergemeinde	-	-	-	0:29:18.258000	0:29:22.545000
 .	-	-	-	0:29:18.258000	0:29:22.545000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:22.545000" end="0:29:23.252000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:22.545000" end="0:29:23.252000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:22.545000	0:29:23.252000
 .	-	-	-	0:29:22.545000	0:29:23.252000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:22.545000" end="0:29:23.252000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:22.545000" end="0:29:23.252000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:29:22.545000	0:29:23.252000
 ORT	ORT	-	-	0:29:22.545000	0:29:23.252000
 nicht	-	-	-	0:29:22.545000	0:29:23.252000
 ?	-	-	-	0:29:22.545000	0:29:23.252000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:23.252000" end="0:29:24.065000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:23.252000" end="0:29:24.065000" age_lower="1" age_upper="999">
 freilich	-	-	-	0:29:23.252000	0:29:24.065000
 .	-	-	-	0:29:23.252000	0:29:24.065000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:24.065000" end="0:29:24.345000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:24.065000" end="0:29:24.345000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:29:24.065000	0:29:24.345000
 .	-	-	-	0:29:24.065000	0:29:24.345000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:24.345000" end="0:29:29.345000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:24.345000" end="0:29:29.345000" age_lower="1" age_upper="999">
 ist	-	-	-	0:29:24.345000	0:29:29.345000
 ja	-	-	-	0:29:24.345000	0:29:29.345000
 auch	-	-	-	0:29:24.345000	0:29:29.345000
@@ -4155,7 +4155,7 @@ irgendwie	-	-	-	0:29:24.345000	0:29:29.345000
 praktisch	-	-	-	0:29:24.345000	0:29:29.345000
 ,	-	-	-	0:29:24.345000	0:29:29.345000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:29.345000" end="0:29:33.985000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:29.345000" end="0:29:33.985000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:29:29.345000	0:29:29.912000
 genau	-	-	-	0:29:29.345000	0:29:29.912000
 .	-	-	-	0:29:29.345000	0:29:29.912000
@@ -4173,10 +4173,10 @@ wieder	-	-	-	0:29:32.112000	0:29:33.985000
 da	-	-	-	0:29:32.112000	0:29:33.985000
 .	-	-	-	0:29:32.112000	0:29:33.985000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:33.985000" end="0:29:35.345000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:33.985000" end="0:29:35.345000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:33.985000" end="0:29:37.332000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:33.985000" end="0:29:37.332000" project="PP04" age_lower="65" age_upper="999">
 alle	-	-	-	0:29:33.985000	0:29:35.345000
 vierzig	-	-	-	0:29:33.985000	0:29:35.345000
 Minuten	-	-	-	0:29:33.985000	0:29:35.345000
@@ -4185,29 +4185,29 @@ der	-	-	-	0:29:35.345000	0:29:36.145000
 Bus	-	-	-	0:29:35.345000	0:29:36.145000
 nicht	-	-	-	0:29:36.145000	0:29:36.438000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:29:38.112000" end="0:29:40.398000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:38.112000" end="0:29:40.398000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:40.398000" end="0:29:41.518000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:40.398000" end="0:29:41.518000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:29:41.085000" end="0:29:41.838000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:41.085000" end="0:29:41.838000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:41.838000" end="0:29:42.225000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:41.838000" end="0:29:42.225000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:29:42.032000" end="0:29:46.532000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:42.032000" end="0:29:46.532000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:29:42.032000	0:29:44.552000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:46.265000" end="0:29:46.412000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:46.265000" end="0:29:46.412000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:29:46.532000" end="0:29:48.418000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:46.532000" end="0:29:48.418000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:48.418000" end="0:29:50.492000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:48.418000" end="0:29:50.492000" age_lower="1" age_upper="999">
 s/	-	-	-	0:29:48.418000	0:29:50.492000
 ja	-	-	-	0:29:48.418000	0:29:50.492000
 sehr	-	-	-	0:29:48.418000	0:29:50.492000
 praktisch	-	-	-	0:29:48.418000	0:29:50.492000
 .	-	-	-	0:29:48.418000	0:29:50.492000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:49.365000" end="0:29:59.745000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:29:49.365000" end="0:29:59.745000" project="PP04" age_lower="65" age_upper="999">
 stört	-	-	-	0:29:49.365000	0:29:50.958000
 stört	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:29:49.365000	0:29:50.958000
 mich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:29:49.365000	0:29:50.958000
@@ -4234,7 +4234,7 @@ Straßenbahn	-	-	-	0:29:53.898000	0:29:57.492000
 hinuntergerumpelt	-	-	-	0:29:53.898000	0:29:57.492000
 .	-	-	-	0:29:53.898000	0:29:57.492000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:58.805000" end="0:30:01.672000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:58.805000" end="0:30:01.672000" age_lower="1" age_upper="999">
 das	-	-	-	0:29:58.805000	0:30:01.672000
 ist	-	-	-	0:29:58.805000	0:30:01.672000
 es	-	-	-	0:29:58.805000	0:30:01.672000
@@ -4247,20 +4247,20 @@ was	-	-	-	0:29:58.805000	0:30:01.672000
 anderes	-	-	-	0:29:58.805000	0:30:01.672000
 .	-	-	-	0:29:58.805000	0:30:01.672000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:01.038000" end="0:30:01.672000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:01.038000" end="0:30:01.672000" project="PP04" age_lower="65" age_upper="999">
 ganz	-	-	-	0:30:01.038000	0:30:01.672000
 ruhig	-	-	-	0:30:01.038000	0:30:01.672000
 .	-	-	-	0:30:01.038000	0:30:01.672000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:01.672000" end="0:30:02.038000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:01.672000" end="0:30:02.038000" age_lower="1" age_upper="999">
 ?	-	-	-	0:30:01.672000	0:30:02.038000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:01.672000" end="0:30:03.372000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:01.672000" end="0:30:03.372000" project="PP04" age_lower="65" age_upper="999">
 ganz	-	-	-	0:30:01.672000	0:30:02.525000
 ruhig	-	-	-	0:30:01.672000	0:30:02.525000
 .	-	-	-	0:30:01.672000	0:30:02.525000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:03.372000" end="0:30:06.025000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:03.372000" end="0:30:06.025000" age_lower="1" age_upper="999">
 und	-	-	-	0:30:03.372000	0:30:06.025000
 der	-	-	-	0:30:03.372000	0:30:06.025000
 fährt	-	-	-	0:30:03.372000	0:30:06.025000
@@ -4273,9 +4273,9 @@ gar	-	-	-	0:30:03.372000	0:30:06.025000
 nicht	-	-	-	0:30:03.372000	0:30:06.025000
 .	-	-	-	0:30:03.372000	0:30:06.025000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:06.025000" end="0:30:07.312000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:06.025000" end="0:30:07.312000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:06.418000" end="0:30:08.838000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:06.418000" end="0:30:08.838000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:30:06.418000	0:30:08.838000
 de/	-	-	-	0:30:06.418000	0:30:08.838000
 das	-	-	-	0:30:06.418000	0:30:08.838000
@@ -4285,9 +4285,9 @@ ein	-	-	-	0:30:06.418000	0:30:08.838000
 Nachteil	-	-	-	0:30:06.418000	0:30:08.838000
 .	-	-	-	0:30:06.418000	0:30:08.838000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:07.312000" end="0:30:07.772000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:07.312000" end="0:30:07.772000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:08.838000" end="0:30:14.878000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:08.838000" end="0:30:14.878000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:30:08.838000	0:30:09.105000
 .	-	-	-	0:30:08.838000	0:30:09.105000
 also	-	-	-	0:30:09.105000	0:30:11.818000
@@ -4313,9 +4313,9 @@ da	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:30:13.15800
 ?	-	-	-	0:30:13.158000	0:30:14.878000
 .	-	-	-	0:30:13.158000	0:30:14.878000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:13.652000" end="0:30:14.972000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:13.652000" end="0:30:14.972000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:14.878000" end="0:30:21.925000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:14.878000" end="0:30:21.925000" project="PP04" age_lower="65" age_upper="999">
 dem	-	-	-	0:30:14.878000	0:30:16.072000
 Herrn	-	-	-	0:30:14.878000	0:30:16.072000
 Bürgermeister	-	-	-	0:30:14.878000	0:30:16.072000
@@ -4343,21 +4343,21 @@ sein	-	-	-	0:30:16.072000	0:30:21.925000
 kann	-	-	-	0:30:16.072000	0:30:21.925000
 .	-	-	-	0:30:16.072000	0:30:21.925000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:16.732000" end="0:30:22.152000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:16.732000" end="0:30:22.152000" age_lower="1" age_upper="999">
 TAxi	-	-	-	0:30:16.732000	0:30:16.972000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:21.925000" end="0:30:22.658000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:21.925000" end="0:30:22.658000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:30:21.925000	0:30:22.278000
 ?	-	-	-	0:30:21.925000	0:30:22.278000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:22.658000" end="0:30:23.678000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:22.658000" end="0:30:23.678000" age_lower="1" age_upper="999">
 ah	-	-	-	0:30:22.658000	0:30:23.678000
 mhm	-	-	-	0:30:22.658000	0:30:23.678000
 .	-	-	-	0:30:22.658000	0:30:23.678000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:23.312000" end="0:30:24.658000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:23.312000" end="0:30:24.658000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:23.418000" end="0:30:29.625000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:23.418000" end="0:30:29.625000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	0:30:23.418000	0:30:28.125000
 oder	-	-	-	0:30:23.418000	0:30:28.125000
 äh	-	-	-	0:30:23.418000	0:30:28.125000
@@ -4379,10 +4379,10 @@ die	-	-	-	0:30:28.125000	0:30:29.625000
 Gemeinde	-	-	-	0:30:28.125000	0:30:29.625000
 .	-	-	-	0:30:28.125000	0:30:29.625000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:28.872000" end="0:30:29.825000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:28.872000" end="0:30:29.825000" age_lower="1" age_upper="999">
 (-)	-	-	-	0:30:29.625000	0:30:29.825000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:29.625000" end="0:30:36.898000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:29.625000" end="0:30:36.898000" project="PP04" age_lower="65" age_upper="999">
 wo	-	-	-	0:30:29.625000	0:30:34.072000
 man	-	-	-	0:30:29.625000	0:30:34.072000
 mit	-	-	-	0:30:29.625000	0:30:34.072000
@@ -4403,7 +4403,7 @@ Bonus	-	-	-	0:30:34.072000	0:30:36.898000
 hat	-	-	-	0:30:34.072000	0:30:36.898000
 .	-	-	-	0:30:34.072000	0:30:36.898000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:36.898000" end="0:30:41.692000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:36.898000" end="0:30:41.692000" age_lower="1" age_upper="999">
 m/	-	-	-	0:30:36.898000	0:30:41.692000
 aha	-	-	-	0:30:36.898000	0:30:41.692000
 aber	-	-	-	0:30:36.898000	0:30:41.692000
@@ -4417,11 +4417,11 @@ darauf	-	-	-	0:30:36.898000	0:30:41.692000
 schauen	-	-	-	0:30:36.898000	0:30:41.692000
 ,	-	-	-	0:30:36.898000	0:30:41.692000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:41.692000" end="0:30:42.158000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:41.692000" end="0:30:42.158000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:30:41.692000	0:30:42.158000
 ja	-	-	-	0:30:41.692000	0:30:42.158000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:42.158000" end="0:30:47.425000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:42.158000" end="0:30:47.425000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 aber	-	-	-	0:30:42.158000	0:30:47.425000
 hat	-	-	-	0:30:42.158000	0:30:47.425000
@@ -4432,24 +4432,24 @@ den	-	-	-	0:30:42.158000	0:30:47.425000
 Vorteil	-	-	-	0:30:42.158000	0:30:47.425000
 ,	-	-	-	0:30:42.158000	0:30:47.425000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:47.425000" end="0:30:49.512000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:47.425000" end="0:30:49.512000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:47.425000" end="0:30:49.512000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:47.425000" end="0:30:49.512000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:48.018000" end="0:30:50.325000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:48.018000" end="0:30:50.325000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:49.952000" end="0:30:51.738000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:49.952000" end="0:30:51.738000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:30:49.952000	0:30:51.738000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:51.738000" end="0:30:52.745000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:51.738000" end="0:30:52.745000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 ah	-	-	-	0:30:51.738000	0:30:52.745000
 ja	-	-	-	0:30:51.738000	0:30:52.745000
 .	-	-	-	0:30:51.738000	0:30:52.745000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:52.745000" end="0:30:52.918000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:52.745000" end="0:30:52.918000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:53.792000" end="0:30:55.912000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:30:53.792000" end="0:30:55.912000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 die	-	-	-	0:30:53.792000	0:30:55.912000
 Pen/	-	-	-	0:30:53.792000	0:30:55.912000
@@ -4460,7 +4460,7 @@ so	-	-	-	0:30:53.792000	0:30:55.912000
 weiter	-	-	-	0:30:53.792000	0:30:55.912000
 .	-	-	-	0:30:53.792000	0:30:55.912000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:54.138000" end="0:30:55.645000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:54.138000" end="0:30:55.645000" age_lower="1" age_upper="999">
 gehört	-	-	-	0:30:54.138000	0:30:55.645000
 noch	-	-	-	0:30:54.138000	0:30:55.645000
 zu	-	-	-	0:30:54.138000	0:30:55.645000
@@ -4469,14 +4469,14 @@ Zone	-	-	-	0:30:54.138000	0:30:55.645000
 dann	-	-	-	0:30:54.138000	0:30:55.645000
 .	-	-	-	0:30:54.138000	0:30:55.645000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:30:55.498000" end="0:31:00.412000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:55.498000" end="0:31:00.412000" age_lower="1" age_upper="999">
 =ja	-	-	-	0:30:58.412000	0:31:00.249000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:00.412000" end="0:31:01.058000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:00.412000" end="0:31:01.058000" age_lower="1" age_upper="999">
 schön	-	-	-	0:31:00.412000	0:31:01.058000
 .	-	-	-	0:31:00.412000	0:31:01.058000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:01.058000" end="0:31:04.558000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:01.058000" end="0:31:04.558000" project="PP04" age_lower="65" age_upper="999">
 gibt	-	-	-	0:31:01.058000	0:31:02.498000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:31:01.058000	0:31:02.498000
 auch	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:31:01.058000	0:31:02.498000
@@ -4489,16 +4489,16 @@ der	-	-	-	0:31:02.725000	0:31:03.798000
 Gemeinde	-	-	-	0:31:02.725000	0:31:03.798000
 .	-	-	-	0:31:02.725000	0:31:03.798000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:04.558000" end="0:31:07.205000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:04.558000" end="0:31:07.205000" age_lower="1" age_upper="999">
 das	-	-	-	0:31:04.558000	0:31:07.205000
 ist	-	-	-	0:31:04.558000	0:31:07.205000
 eh	-	-	-	0:31:04.558000	0:31:07.205000
 gut	-	-	-	0:31:04.558000	0:31:07.205000
 ,	-	-	-	0:31:04.558000	0:31:07.205000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:31:07.205000" end="0:31:11.325000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:07.205000" end="0:31:11.325000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:11.325000" end="0:31:21.418000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:11.325000" end="0:31:21.418000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:11.325000	0:31:11.832000
 .	-	-	-	0:31:11.325000	0:31:11.832000
 <pause duration="1,1s"/>
@@ -4514,11 +4514,11 @@ bezeichnen	-	-	-	0:31:17.572000	0:31:21.418000
 ,	-	-	-	0:31:17.572000	0:31:21.418000
 ORT	ORT	-	-	0:31:17.572000	0:31:21.418000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:21.418000" end="0:31:23.298000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:21.418000" end="0:31:23.298000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 <pause duration="prusten"/>
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:23.298000" end="0:31:26.238000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:23.298000" end="0:31:26.238000" age_lower="1" age_upper="999">
 also	-	-	-	0:31:23.958000	0:31:26.238000
 ich	-	-	-	0:31:23.958000	0:31:26.238000
 weiß	-	-	-	0:31:23.958000	0:31:26.238000
@@ -4527,7 +4527,7 @@ schwe/	-	-	-	0:31:23.958000	0:31:26.238000
 schwierige	-	-	-	0:31:23.958000	0:31:26.238000
 Frage	-	-	-	0:31:23.958000	0:31:26.238000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:24.112000" end="0:31:27.372000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:24.112000" end="0:31:27.372000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:31:25.932000	0:31:27.372000
 ist	-	-	-	0:31:25.932000	0:31:27.372000
 eine	-	-	-	0:31:25.932000	0:31:27.372000
@@ -4535,9 +4535,9 @@ schwierige	-	-	-	0:31:25.932000	0:31:27.372000
 Frage	-	-	-	0:31:25.932000	0:31:27.372000
 .	-	-	-	0:31:25.932000	0:31:27.372000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:26.238000" end="0:31:27.372000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:26.238000" end="0:31:27.372000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:27.372000" end="0:31:37.805000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:27.372000" end="0:31:37.805000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:31:27.372000	0:31:27.732000
 ein	-	-	-	0:31:27.372000	0:31:27.732000
 .	-	-	-	0:31:27.372000	0:31:27.732000
@@ -4562,11 +4562,11 @@ Sicht	-	-	-	0:31:30.812000	0:31:37.805000
 nicht	-	-	-	0:31:30.812000	0:31:37.805000
 ,	-	-	-	0:31:30.812000	0:31:37.805000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:37.805000" end="0:31:38.305000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:37.805000" end="0:31:38.305000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:37.805000	0:31:38.305000
 .	-	-	-	0:31:37.805000	0:31:38.305000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:38.305000" end="0:31:47.298000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:38.305000" end="0:31:47.298000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:31:38.305000	0:31:47.298000
 natürlich	-	-	-	0:31:38.305000	0:31:47.298000
 es	-	-	-	0:31:38.305000	0:31:47.298000
@@ -4578,22 +4578,22 @@ sein	-	-	-	0:31:38.305000	0:31:47.298000
 ,	-	-	-	0:31:38.305000	0:31:47.298000
 ORT	ORT	-	-	0:31:38.305000	0:31:47.298000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:47.298000" end="0:31:47.738000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:47.298000" end="0:31:47.738000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:47.298000	0:31:47.738000
 .	-	-	-	0:31:47.298000	0:31:47.738000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:47.298000" end="0:31:47.738000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:47.298000" end="0:31:47.738000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:31:47.298000	0:31:47.738000
 .	-	-	-	0:31:47.298000	0:31:47.738000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:47.738000" end="0:31:52.845000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:47.738000" end="0:31:52.845000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 das	-	-	-	0:31:47.738000	0:31:49.125000
 äh	-	-	-	0:31:47.738000	0:31:49.125000
 und	-	-	-	0:31:47.738000	0:31:49.125000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:52.845000" end="0:31:58.925000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:52.845000" end="0:31:58.925000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,6s"/>
 ja	-	-	-	0:31:54.512000	0:31:54.965000
 .	-	-	-	0:31:54.512000	0:31:54.965000
@@ -4606,9 +4606,9 @@ wieder	-	-	-	0:31:54.965000	0:31:56.578000
 überfragt	-	-	-	0:31:54.965000	0:31:56.578000
 .	-	-	-	0:31:54.965000	0:31:56.578000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:56.738000" end="0:32:00.405000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:56.738000" end="0:32:00.405000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:58.925000" end="0:32:02.685000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:31:58.925000" end="0:32:02.685000" project="PP04" age_lower="65" age_upper="999">
 de/	-	-	-	0:31:58.925000	0:32:02.685000
 de/	-	-	-	0:31:58.925000	0:32:02.685000
 he	-	-	-	0:31:58.925000	0:32:02.685000
@@ -4618,7 +4618,7 @@ definitiv	-	-	-	0:31:58.925000	0:32:02.685000
 überfragt	-	-	-	0:31:58.925000	0:32:02.685000
 .	-	-	-	0:31:58.925000	0:32:02.685000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:00.578000" end="0:32:03.498000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:00.578000" end="0:32:03.498000" age_lower="1" age_upper="999">
 dann	-	-	-	0:32:00.578000	0:32:01.578000
 dann	-	-	-	0:32:00.578000	0:32:01.578000
 hab	-	-	-	0:32:00.578000	0:32:01.578000
@@ -4627,9 +4627,9 @@ eine	-	-	-	0:32:00.578000	0:32:01.578000
 l/	-	-	-	0:32:00.578000	0:32:01.578000
 .	-	-	-	0:32:00.578000	0:32:01.578000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:02.685000" end="0:32:03.498000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:02.685000" end="0:32:03.498000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:03.498000" end="0:32:05.625000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:03.498000" end="0:32:05.625000" age_lower="1" age_upper="999">
 dann	-	-	-	0:32:03.498000	0:32:05.085000
 habe	-	-	-	0:32:03.498000	0:32:05.085000
 ich	-	-	-	0:32:03.498000	0:32:05.085000
@@ -4638,10 +4638,10 @@ leichtere	-	-	-	0:32:03.498000	0:32:05.085000
 Frage	-	-	-	0:32:03.498000	0:32:05.085000
 .	-	-	-	0:32:03.498000	0:32:05.085000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:05.085000" end="0:32:05.825000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:05.085000" end="0:32:05.825000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:32:05.085000	0:32:05.825000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:05.625000" end="0:32:09.245000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:05.625000" end="0:32:09.245000" age_lower="1" age_upper="999">
 wie	-	-	-	0:32:05.625000	0:32:09.245000
 gefällt	-	-	-	0:32:05.625000	0:32:09.245000
 Ihnen	-	-	-	0:32:05.625000	0:32:09.245000
@@ -4653,7 +4653,7 @@ in	-	-	-	0:32:05.625000	0:32:09.245000
 ORT	ORT	-	-	0:32:05.625000	0:32:09.245000
 ?	-	-	-	0:32:05.625000	0:32:09.245000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:09.245000" end="0:32:12.625000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:09.245000" end="0:32:12.625000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,9s"/>
 ja	-	-	-	0:32:11.145000	0:32:12.625000
 ich	-	-	-	0:32:11.145000	0:32:12.625000
@@ -4664,11 +4664,11 @@ daheim	-	-	-	0:32:11.145000	0:32:12.625000
 jetzt	-	-	-	0:32:11.145000	0:32:12.625000
 .	-	-	-	0:32:11.145000	0:32:12.625000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:12.625000" end="0:32:13.278000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:12.625000" end="0:32:13.278000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:32:12.625000	0:32:13.278000
 .	-	-	-	0:32:12.625000	0:32:13.278000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:12.625000" end="0:32:19.038000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:12.625000" end="0:32:19.038000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:32:12.625000	0:32:13.278000
 wirklich	-	-	-	0:32:12.625000	0:32:13.278000
 .	-	-	-	0:32:12.625000	0:32:13.278000
@@ -4689,17 +4689,17 @@ SONSTIGE	SONSTIGE	-	-	0:32:13.278000	0:32:19.038000
 SONSTIGE	SONSTIGE	-	-	0:32:13.278000	0:32:19.038000
 SONSTIGE	SONSTIGE	-	-	0:32:13.278000	0:32:19.038000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:19.038000" end="0:32:22.465000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:19.038000" end="0:32:22.465000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:19.038000" end="0:32:22.465000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:19.038000" end="0:32:22.465000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:22.465000" end="0:32:23.332000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:22.465000" end="0:32:23.332000" age_lower="1" age_upper="999">
 schön	-	-	-	0:32:22.465000	0:32:23.332000
 .	-	-	-	0:32:22.465000	0:32:23.332000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:23.218000" end="0:32:23.825000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:23.218000" end="0:32:23.825000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:23.332000" end="0:32:28.338000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:23.332000" end="0:32:28.338000" age_lower="1" age_upper="999">
 das	-	-	-	0:32:23.645000	0:32:28.338000
 heißt	-	-	-	0:32:23.645000	0:32:28.338000
 das	-	-	-	0:32:23.645000	0:32:28.338000
@@ -4715,20 +4715,20 @@ Entscheidung	-	-	-	0:32:23.645000	0:32:28.338000
 erwiesen	-	-	-	0:32:23.645000	0:32:28.338000
 ,	-	-	-	0:32:23.645000	0:32:28.338000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:28.132000" end="0:32:28.758000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:28.132000" end="0:32:28.758000" project="PP04" age_lower="65" age_upper="999">
 absolut	-	-	-	0:32:28.132000	0:32:28.758000
 .	-	-	-	0:32:28.132000	0:32:28.758000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:28.338000" end="0:32:29.445000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:28.338000" end="0:32:29.445000" age_lower="1" age_upper="999">
 da	-	-	-	0:32:28.338000	0:32:29.445000
 herzuziehen	-	-	-	0:32:28.338000	0:32:29.445000
 .	-	-	-	0:32:28.338000	0:32:29.445000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:28.758000" end="0:32:29.098000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:28.758000" end="0:32:29.098000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:32:28.758000	0:32:29.098000
 .	-	-	-	0:32:28.758000	0:32:29.098000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:31.845000" end="0:32:48.165000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:31.845000" end="0:32:48.165000" age_lower="1" age_upper="999">
 gut	-	-	-	0:32:31.845000	0:32:32.092000
 .	-	-	-	0:32:31.845000	0:32:32.092000
 ähm	-	-	-	0:32:32.092000	0:32:37.465000
@@ -4783,7 +4783,7 @@ Moment	-	-	-	0:32:44.418000	0:32:48.165000
 verändert	-	-	-	0:32:44.418000	0:32:48.165000
 ?	-	-	-	0:32:44.418000	0:32:48.165000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:48.165000" end="0:33:16.552000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:32:48.165000" end="0:33:16.552000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="3,6s"/>
 f/	-	-	-	0:32:48.165000	0:32:52.938000
 .	-	-	-	0:32:48.165000	0:32:52.938000
@@ -4837,11 +4837,11 @@ auf	-	-	-	0:33:14.345000	0:33:16.552000
 gut	-	-	-	0:33:14.345000	0:33:16.552000
 auf	-	-	-	0:33:14.345000	0:33:16.552000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:16.552000" end="0:33:17.098000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:16.552000" end="0:33:17.098000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:16.552000	0:33:17.098000
 .	-	-	-	0:33:16.552000	0:33:17.098000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:33:16.552000" end="0:33:23.245000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:33:16.552000" end="0:33:23.245000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:33:18.452000	0:33:18.652000
 ?	-	-	-	0:33:18.452000	0:33:18.652000
 dann	-	-	-	0:33:18.652000	0:33:23.245000
@@ -4855,11 +4855,11 @@ höheres	-	-	-	0:33:18.652000	0:33:23.245000
 Deutsch	-	-	-	0:33:18.652000	0:33:23.245000
 .	-	-	-	0:33:18.652000	0:33:23.245000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:23.245000" end="0:33:23.672000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:23.245000" end="0:33:23.672000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:23.245000	0:33:23.672000
 .	-	-	-	0:33:23.245000	0:33:23.672000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:33:23.245000" end="0:33:57.145000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:33:23.245000" end="0:33:57.145000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:33:23.245000	0:33:23.672000
 ?	-	-	-	0:33:23.245000	0:33:23.672000
 dass	-	-	-	0:33:23.672000	0:33:24.538000
@@ -4938,39 +4938,39 @@ a/	-	-	-	0:33:52.392000	0:33:57.145000
 d/	-	-	-	0:33:52.392000	0:33:57.145000
 lernen	-	-	-	0:33:52.392000	0:33:57.145000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:55.785000" end="0:33:56.198000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:55.785000" end="0:33:56.198000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:55.785000	0:33:56.198000
 .	-	-	-	0:33:55.785000	0:33:56.198000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:33:56.772000" end="0:33:57.405000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:56.772000" end="0:33:57.405000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:33:57.145000" end="0:33:59.092000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:33:57.145000" end="0:33:59.092000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:33:57.145000	0:33:57.398000
 ?	-	-	-	0:33:57.145000	0:33:57.398000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:33:59.092000" end="0:34:00.305000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:59.092000" end="0:34:00.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:34:00.305000" end="0:34:00.945000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:34:00.305000" end="0:34:00.945000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:34:00.305000	0:34:00.578000
 ?	-	-	-	0:34:00.305000	0:34:00.578000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:34:00.945000" end="0:34:01.892000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:00.945000" end="0:34:01.892000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:01.892000" end="0:34:02.498000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:01.892000" end="0:34:02.498000" age_lower="1" age_upper="999">
 un/	-	-	-	0:34:01.892000	0:34:02.498000
 .	-	-	-	0:34:01.892000	0:34:02.498000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:34:02.378000" end="0:34:03.992000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:02.378000" end="0:34:03.992000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:34:03.758000" end="0:34:04.892000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:34:03.758000" end="0:34:04.892000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:34:03.992000	0:34:04.892000
 die	-	-	-	0:34:03.992000	0:34:04.892000
 ja	-	-	-	0:34:03.992000	0:34:04.892000
 .	-	-	-	0:34:03.992000	0:34:04.892000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:34:04.445000" end="0:34:09.012000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:04.445000" end="0:34:09.012000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:07.612000" end="0:34:09.851000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:07.612000" end="0:34:09.851000" age_lower="1" age_upper="999">
 das	-	-	-	0:34:07.612000	0:34:09.652000
 ist	-	-	-	0:34:07.612000	0:34:09.652000
 ein	-	-	-	0:34:07.612000	0:34:09.652000
@@ -4982,7 +4982,7 @@ Thema	-	-	-	0:34:07.612000	0:34:09.652000
 ja	-	-	-	0:34:09.652000	0:34:09.851000
 .	-	-	-	0:34:09.652000	0:34:09.851000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:34:09.851000" end="0:34:12.257000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:34:09.851000" end="0:34:12.257000" project="PP04" age_lower="65" age_upper="999">
 na	-	-	-	0:34:09.851000	0:34:12.257000
 ja	-	-	-	0:34:09.851000	0:34:12.257000
 na	-	-	-	0:34:09.851000	0:34:12.257000
@@ -4993,82 +4993,82 @@ aber	-	-	-	0:34:09.851000	0:34:12.257000
 t/	-	-	-	0:34:09.851000	0:34:12.257000
 .	-	-	-	0:34:09.851000	0:34:12.257000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:34:11.485000" end="0:34:14.465000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:11.485000" end="0:34:14.465000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:14.465000" end="0:34:15.252000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:14.465000" end="0:34:15.252000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:34:15.252000" end="0:34:22.112000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:15.252000" end="0:34:22.112000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:22.112000" end="0:34:22.565000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:22.112000" end="0:34:22.565000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:34:22.565000" end="0:34:26.578000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:22.565000" end="0:34:26.578000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:26.205000" end="0:34:26.578000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:26.205000" end="0:34:26.578000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:34:26.578000" end="0:34:37.245000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:26.578000" end="0:34:37.245000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:37.245000" end="0:34:38.172000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:37.245000" end="0:34:38.172000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:34:38.172000" end="0:34:45.665000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:38.172000" end="0:34:45.665000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:45.665000" end="0:34:48.344000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:45.665000" end="0:34:48.344000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:34:46.472000" end="0:35:00.885000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:46.472000" end="0:35:00.885000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:00.885000" end="0:35:01.398000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:00.885000" end="0:35:01.398000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:01.398000" end="0:35:05.658000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:01.398000" end="0:35:05.658000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:05.658000" end="0:35:11.405000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:05.658000" end="0:35:11.405000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:07.478000" end="0:35:11.718000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:07.478000" end="0:35:11.718000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:11.718000" end="0:35:12.692000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:11.718000" end="0:35:12.692000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:12.525000" end="0:35:13.505000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:12.525000" end="0:35:13.505000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:14.078000" end="0:35:14.971000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:14.078000" end="0:35:14.971000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:14.971000" end="0:35:17.738000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:14.971000" end="0:35:17.738000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:16.771000" end="0:35:17.325000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:16.771000" end="0:35:17.325000" age_lower="1" age_upper="999">
 bitte	-	-	-	0:35:16.771000	0:35:17.325000
 gerne	-	-	-	0:35:16.771000	0:35:17.325000
 .	-	-	-	0:35:16.771000	0:35:17.325000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:16.785000" end="0:35:17.145000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:16.785000" end="0:35:17.145000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	0:35:16.785000	0:35:17.145000
 bin/	-	-	-	0:35:16.785000	0:35:17.145000
 .	-	-	-	0:35:16.785000	0:35:17.145000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:17.325000" end="0:35:18.198000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:17.325000" end="0:35:18.198000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:18.078000" end="0:35:18.878000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:18.078000" end="0:35:18.878000" project="PP04" age_lower="65" age_upper="999">
 bin	-	-	-	0:35:18.078000	0:35:18.878000
 vierzig	-	-	-	0:35:18.078000	0:35:18.878000
 vierzig	-	-	-	0:35:18.078000	0:35:18.878000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:18.198000" end="0:35:18.878000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:18.198000" end="0:35:18.878000" age_lower="1" age_upper="999">
 gerne	-	-	-	0:35:18.198000	0:35:18.878000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:18.878000" end="0:35:20.658000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:18.878000" end="0:35:20.658000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:20.131000" end="0:35:21.725000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:20.131000" end="0:35:21.725000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:20.658000" end="0:35:25.911000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:20.658000" end="0:35:25.911000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:21.725000" end="0:35:27.858000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:21.725000" end="0:35:27.858000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:26.791000" end="0:35:27.218000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:26.791000" end="0:35:27.218000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="räuspern"/>
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:27.851000" end="0:35:28.138000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:27.851000" end="0:35:28.138000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:27.858000" end="0:35:31.858000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:27.858000" end="0:35:31.858000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:29.011000" end="0:35:29.385000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:29.011000" end="0:35:29.385000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:30.791000" end="0:35:35.318000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:30.791000" end="0:35:35.318000" age_lower="1" age_upper="999">
 na	-	-	-	0:35:31.858000	0:35:35.318000
 das	-	-	-	0:35:31.858000	0:35:35.318000
 sind	-	-	-	0:35:31.858000	0:35:35.318000
@@ -5077,26 +5077,26 @@ auch	-	-	-	0:35:31.858000	0:35:35.318000
 Themenbereiche	-	-	-	0:35:31.858000	0:35:35.318000
 ,	-	-	-	0:35:31.858000	0:35:35.318000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:35.318000" end="0:35:36.091000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:35.318000" end="0:35:36.091000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:36.091000" end="0:35:36.538000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:36.091000" end="0:35:36.538000" age_lower="1" age_upper="999">
 also/	-	-	-	0:35:36.091000	0:35:36.538000
 .	-	-	-	0:35:36.091000	0:35:36.538000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:36.538000" end="0:35:37.151000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:36.538000" end="0:35:37.151000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:37.151000" end="0:35:38.071000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:37.151000" end="0:35:38.071000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:37.151000	0:35:38.071000
 .	-	-	-	0:35:37.151000	0:35:38.071000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:35:38.071000" end="0:35:38.265000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:38.071000" end="0:35:38.265000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:38.265000" end="0:35:46.185000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:38.265000" end="0:35:46.185000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 ahm	-	-	-	0:35:38.265000	0:35:39.418000
 und	-	-	-	0:35:38.265000	0:35:39.418000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:46.185000" end="0:35:48.278000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:46.185000" end="0:35:48.278000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:35:46.185000	0:35:48.278000
 wenn	-	-	-	0:35:46.185000	0:35:48.278000
 von	-	-	-	0:35:46.185000	0:35:48.278000
@@ -5104,7 +5104,7 @@ von	-	-	-	0:35:46.185000	0:35:48.278000
 von/	-	-	-	0:35:46.185000	0:35:48.278000
 .	-	-	-	0:35:46.185000	0:35:48.278000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:48.278000" end="0:35:52.618000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:48.278000" end="0:35:52.618000" age_lower="1" age_upper="999">
 was	-	-	-	0:35:48.278000	0:35:52.618000
 jetzt	-	-	-	0:35:48.278000	0:35:52.618000
 den	-	-	-	0:35:48.278000	0:35:52.618000
@@ -5118,7 +5118,7 @@ Deutsche	-	-	-	0:35:48.278000	0:35:52.618000
 betrifft	-	-	-	0:35:48.278000	0:35:52.618000
 ?	-	-	-	0:35:48.278000	0:35:52.618000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:52.618000" end="0:36:02.185000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:35:52.618000" end="0:36:02.185000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="3,7s"/>
 Einfluss	-	-	-	0:35:56.318000	0:35:58.705000
 auf	-	-	-	0:35:56.318000	0:35:58.705000
@@ -5142,11 +5142,11 @@ Anglizismen	-	-	-	0:35:58.705000	0:36:01.898000
 nicht	-	-	-	0:36:01.898000	0:36:02.185000
 ?	-	-	-	0:36:01.898000	0:36:02.185000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:02.185000" end="0:36:02.645000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:02.185000" end="0:36:02.645000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:02.185000	0:36:02.645000
 .	-	-	-	0:36:02.185000	0:36:02.645000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:02.645000" end="0:36:22.931000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:02.645000" end="0:36:22.931000" project="PP04" age_lower="65" age_upper="999">
 zum	-	-	-	0:36:02.645000	0:36:04.078000
 zum	-	-	-	0:36:02.645000	0:36:04.078000
 Großteil	-	-	-	0:36:02.645000	0:36:04.078000
@@ -5200,7 +5200,7 @@ verwendet	-	-	-	0:36:14.538000	0:36:20.525000
 nicht	-	-	-	0:36:20.525000	0:36:20.825000
 ?	-	-	-	0:36:20.525000	0:36:20.825000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:22.931000" end="0:36:32.738000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:22.931000" end="0:36:32.738000" age_lower="1" age_upper="999">
 und	-	-	-	0:36:22.931000	0:36:24.858000
 und	-	-	-	0:36:22.931000	0:36:24.858000
 was	-	-	-	0:36:22.931000	0:36:24.858000
@@ -5231,7 +5231,7 @@ dieser	-	-	-	0:36:26.178000	0:36:32.738000
 Einfluss	-	-	-	0:36:26.178000	0:36:32.738000
 ?	-	-	-	0:36:26.178000	0:36:32.738000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:32.738000" end="0:36:46.285000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:32.738000" end="0:36:46.285000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="3,2s"/>
 m_	-	-	-	0:36:35.945000	0:36:36.258000
 _ja	-	-	-	0:36:35.945000	0:36:36.258000
@@ -5271,11 +5271,11 @@ d/	-	-	-	0:36:43.358000	0:36:46.285000
 wos	-	-	-	0:36:43.358000	0:36:46.285000
 .	-	-	-	0:36:43.358000	0:36:46.285000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:45.758000" end="0:36:46.071000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:45.758000" end="0:36:46.071000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:45.758000	0:36:46.071000
 .	-	-	-	0:36:45.758000	0:36:46.071000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:46.285000" end="0:36:54.478000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:46.285000" end="0:36:54.478000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:36:46.285000	0:36:47.751000
 aber	-	-	-	0:36:46.285000	0:36:47.751000
 g/	-	-	-	0:36:46.285000	0:36:47.751000
@@ -5293,15 +5293,15 @@ komplett	-	-	-	0:36:51.485000	0:36:54.478000
 Englisch	-	-	-	0:36:51.485000	0:36:54.478000
 .	-	-	-	0:36:51.485000	0:36:54.478000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:54.478000" end="0:36:54.871000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:54.478000" end="0:36:54.871000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:54.478000	0:36:54.871000
 .	-	-	-	0:36:54.478000	0:36:54.871000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:54.478000" end="0:36:54.871000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:54.478000" end="0:36:54.871000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:36:54.478000	0:36:54.871000
 ?	-	-	-	0:36:54.478000	0:36:54.871000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:54.871000" end="0:36:57.205000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:54.871000" end="0:36:57.205000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 also	-	-	-	0:36:54.871000	0:36:57.205000
 die	-	-	-	0:36:54.871000	0:36:57.205000
@@ -5309,7 +5309,7 @@ Fachsprache	-	-	-	0:36:54.871000	0:36:57.205000
 quasi	-	-	-	0:36:54.871000	0:36:57.205000
 .	-	-	-	0:36:54.871000	0:36:57.205000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:55.938000" end="0:37:03.271000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:36:55.938000" end="0:37:03.271000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 die	-	-	-	0:36:55.938000	0:36:58.805000
 Fachsprache	-	-	-	0:36:55.938000	0:36:58.805000
@@ -5335,9 +5335,9 @@ mehr	-	-	-	0:37:00.645000	0:37:01.851000
 eingreifen	-	-	-	0:37:00.645000	0:37:01.851000
 .	-	-	-	0:37:00.645000	0:37:01.851000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:02.138000" end="0:37:03.405000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:02.138000" end="0:37:03.405000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:03.271000" end="0:37:10.738000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:03.271000" end="0:37:10.738000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:37:03.271000	0:37:10.405000
 gewisse	-	-	-	0:37:03.271000	0:37:10.405000
 gewisse	-	-	-	0:37:03.271000	0:37:10.405000
@@ -5358,16 +5358,16 @@ Tagesgebrauch	-	-	-	0:37:03.271000	0:37:10.405000
 nicht	-	-	-	0:37:10.405000	0:37:10.738000
 ?	-	-	-	0:37:10.405000	0:37:10.738000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:10.738000" end="0:37:11.118000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:10.738000" end="0:37:11.118000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:10.738000	0:37:11.118000
 .	-	-	-	0:37:10.738000	0:37:11.118000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:11.118000" end="0:37:12.045000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:11.118000" end="0:37:12.045000" project="PP04" age_lower="65" age_upper="999">
 immer	-	-	-	0:37:11.118000	0:37:12.045000
 wieder	-	-	-	0:37:11.118000	0:37:12.045000
 .	-	-	-	0:37:11.118000	0:37:12.045000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:12.045000" end="0:37:21.525000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:12.045000" end="0:37:21.525000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:37:12.045000	0:37:16.705000
 wenn	-	-	-	0:37:12.045000	0:37:16.705000
@@ -5384,7 +5384,7 @@ denken	-	-	-	0:37:12.045000	0:37:16.705000
 ahm	-	-	-	0:37:16.705000	0:37:17.451000
 haben	-	-	-	0:37:16.705000	0:37:17.451000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:21.525000" end="0:37:38.171000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:21.525000" end="0:37:38.171000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="3,1s"/>
 tja	-	-	-	0:37:24.638000	0:37:27.705000
 also	-	-	-	0:37:24.638000	0:37:27.705000
@@ -5419,9 +5419,9 @@ englische	-	-	-	0:37:31.125000	0:37:38.171000
 say	-	-	-	0:37:31.125000	0:37:38.171000
 .	-	-	-	0:37:31.125000	0:37:38.171000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:36.885000" end="0:37:37.711000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:36.885000" end="0:37:37.711000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:38.171000" end="0:37:43.271000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:38.171000" end="0:37:43.271000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:37:38.171000	0:37:38.498000
 aber	-	-	-	0:37:39.345000	0:37:41.865000
 das	-	-	-	0:37:39.345000	0:37:41.865000
@@ -5438,29 +5438,29 @@ gegeben	-	-	-	0:37:39.345000	0:37:41.865000
 nicht	-	-	-	0:37:41.865000	0:37:42.098000
 ?	-	-	-	0:37:41.865000	0:37:42.098000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:37:42.571000" end="0:37:44.525000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:42.571000" end="0:37:44.525000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:37:42.571000	0:37:44.525000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:44.525000" end="0:37:45.258000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:44.525000" end="0:37:45.258000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:44.525000" end="0:37:45.538000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:44.525000" end="0:37:45.538000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:37:44.865000" end="0:37:45.538000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:44.865000" end="0:37:45.538000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:45.258000" end="0:37:46.291000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:45.258000" end="0:37:46.291000" age_lower="1" age_upper="999">
 perfektes	-	-	-	0:37:45.258000	0:37:46.291000
 Englisch	-	-	-	0:37:45.258000	0:37:46.291000
 .	-	-	-	0:37:45.258000	0:37:46.291000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:37:45.871000" end="0:37:46.798000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:45.871000" end="0:37:46.798000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:46.511000" end="0:37:47.725000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:46.511000" end="0:37:47.725000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:37:46.798000" end="0:37:47.725000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:46.798000" end="0:37:47.725000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:47.725000" end="0:37:49.051000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:47.725000" end="0:37:49.051000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:47.725000" end="0:37:49.738000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:47.725000" end="0:37:49.738000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:37:47.725000	0:37:49.738000
 nur	-	-	-	0:37:47.725000	0:37:49.738000
 mit	-	-	-	0:37:47.725000	0:37:49.738000
@@ -5470,13 +5470,13 @@ wenigen	-	-	-	0:37:47.725000	0:37:49.738000
 Ausdrücken	-	-	-	0:37:47.725000	0:37:49.738000
 .	-	-	-	0:37:47.725000	0:37:49.738000
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" location="UNK" lat="None" lon="None" start="0:37:49.051000" end="0:37:50.965000" age_lower="1" age_upper="999">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:49.051000" end="0:37:50.965000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:49.738000" end="0:37:50.965000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:37:49.738000" end="0:37:50.965000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:37:49.738000	0:37:49.925000
 ?	-	-	-	0:37:49.738000	0:37:49.925000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:50.965000" end="0:38:03.331000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:50.965000" end="0:38:03.331000" age_lower="1" age_upper="999">
 und	-	-	-	0:37:51.945000	0:38:00.565000
 ähm	-	-	-	0:37:51.945000	0:38:00.565000
 würden	-	-	-	0:37:51.945000	0:38:00.565000
@@ -5493,7 +5493,7 @@ Umland	-	-	-	0:38:00.565000	0:38:03.331000
 hier	-	-	-	0:38:00.565000	0:38:03.331000
 ?	-	-	-	0:38:00.565000	0:38:03.331000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:03.331000" end="0:38:07.571000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:03.331000" end="0:38:07.571000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="3,0s"/>
 im	-	-	-	0:38:06.331000	0:38:07.351000
 Moment	-	-	-	0:38:06.331000	0:38:07.351000
@@ -5505,7 +5505,7 @@ nicht	-	-	-	0:38:06.331000	0:38:07.351000
 nein	-	-	-	0:38:07.351000	0:38:07.571000
 .	-	-	-	0:38:07.351000	0:38:07.571000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:07.571000" end="0:38:24.791000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:07.571000" end="0:38:24.791000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 und	-	-	-	0:38:07.571000	0:38:11.065000
 wenn	-	-	-	0:38:07.571000	0:38:11.065000
@@ -5531,18 +5531,18 @@ historisch	-	-	-	0:38:23.098000	0:38:24.791000
 betrachtet	-	-	-	0:38:23.098000	0:38:24.791000
 .	-	-	-	0:38:23.098000	0:38:24.791000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:24.791000" end="0:38:27.505000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:24.791000" end="0:38:27.505000" project="PP04" age_lower="65" age_upper="999">
 historisch	-	-	-	0:38:24.791000	0:38:26.545000
 betrachtet	-	-	-	0:38:24.791000	0:38:26.545000
 .	-	-	-	0:38:24.791000	0:38:26.545000
 <pause duration="0,5s"/>
 ja	-	-	-	0:38:26.545000	0:38:27.505000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:26.851000" end="0:38:27.505000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:26.851000" end="0:38:27.505000" age_lower="1" age_upper="999">
 welche/	-	-	-	0:38:26.851000	0:38:27.505000
 .	-	-	-	0:38:26.851000	0:38:27.505000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:27.505000" end="0:38:51.665000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:27.505000" end="0:38:51.665000" project="PP04" age_lower="65" age_upper="999">
 ist	-	-	-	0:38:27.505000	0:38:29.658000
 (auch)	-	-	-	0:38:27.505000	0:38:29.658000
 doch	-	-	-	0:38:27.505000	0:38:29.658000
@@ -5611,7 +5611,7 @@ ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:38:50.451000	0:38
 nicht	-	-	-	0:38:50.451000	0:38:51.665000
 .	-	-	-	0:38:50.451000	0:38:51.665000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:51.665000" end="0:38:52.818000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:51.665000" end="0:38:52.818000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:51.665000	0:38:52.198000
 .	-	-	-	0:38:51.665000	0:38:52.198000
 okay	-	-	-	0:38:52.198000	0:38:52.818000
@@ -5619,11 +5619,11 @@ also	-	-	-	0:38:52.198000	0:38:52.818000
 w/	-	-	-	0:38:52.198000	0:38:52.818000
 .	-	-	-	0:38:52.198000	0:38:52.818000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:52.511000" end="0:38:52.818000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:52.511000" end="0:38:52.818000" project="PP04" age_lower="65" age_upper="999">
 und/	-	-	-	0:38:52.511000	0:38:52.818000
 .	-	-	-	0:38:52.511000	0:38:52.818000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:52.818000" end="0:38:56.538000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:52.818000" end="0:38:56.538000" age_lower="1" age_upper="999">
 würden	-	-	-	0:38:52.818000	0:38:56.538000
 Sie	-	-	-	0:38:52.818000	0:38:56.538000
 auch	-	-	-	0:38:52.818000	0:38:56.538000
@@ -5631,7 +5631,7 @@ nicht	-	-	-	0:38:52.818000	0:38:56.538000
 denken	-	-	-	0:38:52.818000	0:38:56.538000
 ,	-	-	-	0:38:52.818000	0:38:56.538000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:54.051000" end="0:39:11.958000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:38:54.051000" end="0:39:11.958000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,6s"/>
 na	-	-	-	0:38:54.051000	0:38:56.731000
 ja	-	-	-	0:38:54.051000	0:38:56.731000
@@ -5676,11 +5676,11 @@ eben	-	-	-	0:39:10.118000	0:39:11.958000
 Slowenisch	-	-	-	0:39:10.118000	0:39:11.958000
 .	-	-	-	0:39:10.118000	0:39:11.958000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:11.958000" end="0:39:12.478000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:11.958000" end="0:39:12.478000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:11.958000	0:39:12.478000
 .	-	-	-	0:39:11.958000	0:39:12.478000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:39:12.478000" end="0:39:23.151000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:39:12.478000" end="0:39:23.151000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 od/	-	-	-	0:39:12.478000	0:39:17.658000
 oder	-	-	-	0:39:12.478000	0:39:17.658000
@@ -5713,14 +5713,14 @@ aber	-	-	-	0:39:20.585000	0:39:21.998000
 <pause duration="0,5s"/>
 ORT	ORT	-	-	0:39:21.998000	0:39:23.151000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:23.151000" end="0:39:24.751000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:23.151000" end="0:39:24.751000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:23.151000	0:39:23.818000
 .	-	-	-	0:39:23.151000	0:39:23.818000
 eher	-	-	-	0:39:23.818000	0:39:24.751000
 nicht	-	-	-	0:39:23.818000	0:39:24.751000
 .	-	-	-	0:39:23.818000	0:39:24.751000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:39:24.251000" end="0:39:30.185000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:39:24.251000" end="0:39:30.185000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	0:39:24.251000	0:39:30.185000
 dass	-	-	-	0:39:24.251000	0:39:30.185000
 ein	-	-	-	0:39:24.251000	0:39:30.185000
@@ -5744,7 +5744,7 @@ ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:39:24.251000	0:39
 weniger	-	-	-	0:39:24.251000	0:39:30.185000
 .	-	-	-	0:39:24.251000	0:39:30.185000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:30.185000" end="0:39:39.945000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:30.185000" end="0:39:39.945000" age_lower="1" age_upper="999">
 okay	-	-	-	0:39:30.185000	0:39:31.051000
 .	-	-	-	0:39:30.185000	0:39:31.051000
 <pause duration="0,5s"/>
@@ -5767,7 +5767,7 @@ denn	-	-	-	0:39:35.498000	0:39:39.945000
 meinen	-	-	-	0:39:35.498000	0:39:39.945000
 ,	-	-	-	0:39:35.498000	0:39:39.945000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:39:39.945000" end="0:39:44.998000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:39:39.945000" end="0:39:44.998000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="3,8s"/>
 glaube	-	-	-	0:39:43.771000	0:39:44.798000
 positiv	-	-	-	0:39:43.771000	0:39:44.798000
@@ -5775,11 +5775,11 @@ positiv	-	-	-	0:39:43.771000	0:39:44.798000
 ja	-	-	-	0:39:44.798000	0:39:44.998000
 .	-	-	-	0:39:44.798000	0:39:44.998000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:44.998000" end="0:39:45.738000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:44.998000" end="0:39:45.738000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:44.998000	0:39:45.738000
 .	-	-	-	0:39:44.998000	0:39:45.738000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:39:44.998000" end="0:40:18.878000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:39:44.998000" end="0:40:18.878000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 ich	-	-	-	0:39:44.998000	0:39:48.018000
 glaube	-	-	-	0:39:44.998000	0:39:48.018000
@@ -5889,18 +5889,18 @@ nicht	-	-	-	0:40:17.918000	0:40:18.118000
 drinnen	-	-	-	0:40:18.118000	0:40:18.878000
 auch	-	-	-	0:40:18.118000	0:40:18.878000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:18.878000" end="0:40:19.878000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:18.878000" end="0:40:19.878000" age_lower="1" age_upper="999">
 jaja	-	-	-	0:40:18.878000	0:40:19.878000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:18.878000" end="0:40:20.525000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:18.878000" end="0:40:20.525000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:40:19.525000	0:40:20.525000
 aber	-	-	-	0:40:19.525000	0:40:20.525000
 äh	-	-	-	0:40:19.525000	0:40:20.525000
 d/	-	-	-	0:40:19.525000	0:40:20.525000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:19.878000" end="0:40:20.525000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:19.878000" end="0:40:20.525000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:20.525000" end="0:40:36.458000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:20.525000" end="0:40:36.458000" project="PP04" age_lower="65" age_upper="999">
 <pause duration="1,2s"/>
 das	-	-	-	0:40:22.365000	0:40:27.025000
 l/	-	-	-	0:40:22.365000	0:40:27.025000
@@ -5938,24 +5938,24 @@ positiv	-	-	-	0:40:34.798000	0:40:36.458000
 sehen	-	-	-	0:40:34.798000	0:40:36.458000
 .	-	-	-	0:40:34.798000	0:40:36.458000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:36.458000" end="0:40:37.171000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:36.458000" end="0:40:37.171000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:36.458000	0:40:37.171000
 .	-	-	-	0:40:36.458000	0:40:37.171000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:36.458000" end="0:40:42.158000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:36.458000" end="0:40:42.158000" project="PP04" age_lower="65" age_upper="999">
 dass	-	-	-	0:40:36.458000	0:40:37.171000
 sowas	-	-	-	0:40:36.458000	0:40:37.171000
 <pause duration="0,5s"/>
 ja	-	-	-	0:40:36.458000	0:40:37.171000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:42.158000" end="0:40:42.458000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:42.158000" end="0:40:42.458000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:42.158000	0:40:42.458000
 .	-	-	-	0:40:42.158000	0:40:42.458000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:42.158000" end="0:40:43.338000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:42.158000" end="0:40:43.338000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:40:42.158000	0:40:42.458000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:43.338000" end="0:40:47.778000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:43.338000" end="0:40:47.778000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 schön	-	-	-	0:40:43.338000	0:40:44.245000
 .	-	-	-	0:40:43.338000	0:40:44.245000
@@ -5968,7 +5968,7 @@ schönes	-	-	-	0:40:44.245000	0:40:46.678000
 Schlusswort	-	-	-	0:40:44.245000	0:40:46.678000
 .	-	-	-	0:40:44.245000	0:40:46.678000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:46.678000" end="0:40:47.778000" age_lower="65" age_upper="999">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" subproject="PP04" standard_competence="6" dialect_competence="4" location="Thal, Graz-Umgebung, Steiermark, Österreich" lat="47.0792405" lon="15.3549817" start="0:40:46.678000" end="0:40:47.778000" project="PP04" age_lower="65" age_upper="999">
 </u>
 </file>
 </doc>

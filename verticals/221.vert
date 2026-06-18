@@ -1,6 +1,6 @@
 <doc id="transcript_221" name="0057_WEIS_alt_f_LESN_Vers11" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="221.xml" title="Transcript: Transcript_221">
-<u who="spk_26" sex="female" age="Alt (65+)" name="Informant 0057" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:00" end="0:01:40.503000" age_lower="65" age_upper="999">
+<u who="spk_26" sex="female" age="Alt (65+)" name="Informant 0057" subproject="PP03" standard_competence="5" dialect_competence="6" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:00" end="0:01:40.503000" project="PP03" age_lower="65" age_upper="999">
 <pause duration="38,9s"/>
 Nordwind	-	-	-	0:00:38.879000	0:00:40.879000
 und	-	-	-	0:00:38.879000	0:00:40.879000

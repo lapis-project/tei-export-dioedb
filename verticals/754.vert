@@ -1,6 +1,6 @@
 <doc id="transcript_754" name="0067_WEISS_jungII_m_INT_2" erhebung="Interview_2_PP0308" erhebungsart="Interview">
 <file id="754.xml" title="Transcript: Transcript_754">
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:01.330000" end="0:00:08.945000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:01.330000" end="0:00:08.945000" age_lower="1" age_upper="999">
 okay	-	-	-	0:00:01.330000	0:00:03.336000
 ,	-	-	-	0:00:01.330000	0:00:03.336000
 läuft	-	-	-	0:00:01.330000	0:00:03.336000
@@ -28,7 +28,7 @@ heute	-	-	-	0:00:06.926000	0:00:08.945000
 funktioniert	-	-	-	0:00:06.926000	0:00:08.945000
 .	-	-	-	0:00:06.926000	0:00:08.945000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:08.945000" end="0:00:11.724000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:08.945000" end="0:00:11.724000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:08.945000	0:00:11.724000
 ,	-	-	-	0:00:08.945000	0:00:11.724000
 sehr	-	-	-	0:00:08.945000	0:00:11.724000
@@ -37,7 +37,7 @@ gern	-	-	-	0:00:08.945000	0:00:11.724000
 ja	-	-	-	0:00:08.945000	0:00:11.724000
 .	-	-	-	0:00:08.945000	0:00:11.724000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:08.945000" end="0:00:21.541000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:08.945000" end="0:00:21.541000" age_lower="1" age_upper="999">
 danke	-	-	-	0:00:08.945000	0:00:11.724000
 ,	-	-	-	0:00:08.945000	0:00:11.724000
 dass	-	-	-	0:00:08.945000	0:00:11.724000
@@ -88,7 +88,7 @@ oder	-	-	-	0:00:18.470000	0:00:21.541000
 "hi"	-	-	-	0:00:18.470000	0:00:21.541000
 .	-	-	-	0:00:18.470000	0:00:21.541000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:21.541000" end="0:00:23.748000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:21.541000" end="0:00:23.748000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	-	-	-	0:00:21.541000	0:00:23.748000
 ,	-	-	-	0:00:21.541000	0:00:23.748000
@@ -99,7 +99,7 @@ beides	-	-	-	0:00:21.541000	0:00:23.748000
 ja	-	-	-	0:00:21.541000	0:00:23.748000
 .	-	-	-	0:00:21.541000	0:00:23.748000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:23.748000" end="0:00:34.060000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:23.748000" end="0:00:34.060000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:00:23.748000	0:00:26.177000
 du	-	-	-	0:00:23.748000	0:00:26.177000
 dich	-	-	-	0:00:23.748000	0:00:26.177000
@@ -131,13 +131,13 @@ in	-	-	-	0:00:30.378000	0:00:34.060000
 Weißbriach	-	-	-	0:00:30.378000	0:00:34.060000
 ?	-	-	-	0:00:30.378000	0:00:34.060000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:34.060000" end="0:00:35.336000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:34.060000" end="0:00:35.336000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:34.060000" end="0:00:35.336000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:34.060000" end="0:00:35.336000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:35.336000" end="0:00:37.090000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:35.336000" end="0:00:37.090000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:00:35.336000	0:00:37.090000
 glaube	-	-	-	0:00:35.336000	0:00:37.090000
 ,	-	-	-	0:00:35.336000	0:00:37.090000
@@ -147,20 +147,20 @@ mit	-	-	-	0:00:35.336000	0:00:37.090000
 "hi"	-	-	-	0:00:35.336000	0:00:37.090000
 .	-	-	-	0:00:35.336000	0:00:37.090000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:37.090000" end="0:00:37.708000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:37.090000" end="0:00:37.708000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:37.090000	0:00:37.708000
 .	-	-	-	0:00:37.090000	0:00:37.708000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:37.708000" end="0:00:41.118000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:37.708000" end="0:00:41.118000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:00:38.408000	0:00:39.582000
 ,	-	-	-	0:00:38.408000	0:00:39.582000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:39.582000" end="0:00:41.118000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:39.582000" end="0:00:41.118000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:41.118000" end="0:00:46.710000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:41.118000" end="0:00:46.710000" project="PP03" age_lower="18" age_upper="35">
 "hallo"	-	-	-	0:00:41.118000	0:00:42.369000
 ist	-	-	-	0:00:41.118000	0:00:42.369000
 okay	-	-	-	0:00:41.118000	0:00:42.369000
@@ -178,11 +178,11 @@ ich	-	-	-	0:00:45.964000	0:00:46.710000
 sagen	-	-	-	0:00:45.964000	0:00:46.710000
 .	-	-	-	0:00:45.964000	0:00:46.710000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:45.964000" end="0:00:46.710000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:45.964000" end="0:00:46.710000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:45.964000	0:00:46.710000
 .	-	-	-	0:00:45.964000	0:00:46.710000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:46.710000" end="0:00:51.612000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:46.710000" end="0:00:51.612000" project="PP03" age_lower="18" age_upper="35">
 "grüß	-	-	-	0:00:46.710000	0:00:48.027000
 dich"	-	-	-	0:00:46.710000	0:00:48.027000
 ist	-	-	-	0:00:46.710000	0:00:48.027000
@@ -198,11 +198,11 @@ es	-	-	-	0:00:49.995000	0:00:51.612000
 mehrere	-	-	-	0:00:49.995000	0:00:51.612000
 sind	-	-	-	0:00:49.995000	0:00:51.612000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:51.612000" end="0:00:52.250000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:51.612000" end="0:00:52.250000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:51.612000	0:00:52.250000
 .	-	-	-	0:00:51.612000	0:00:52.250000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:52.250000" end="0:00:57.551000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:52.250000" end="0:00:57.551000" project="PP03" age_lower="18" age_upper="35">
 "grüß	-	-	-	0:00:52.250000	0:00:53.355000
 euch"	-	-	-	0:00:52.250000	0:00:53.355000
 <pause duration="1,1s"/>
@@ -210,10 +210,10 @@ hm	-	-	-	0:00:53.355000	0:00:55.714000
 ,	-	-	-	0:00:53.355000	0:00:55.714000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:55.714000" end="0:00:57.551000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:55.714000" end="0:00:57.551000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:57.551000" end="0:00:59.357000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:57.551000" end="0:00:59.357000" project="PP03" age_lower="18" age_upper="35">
 "servus"	-	-	-	0:00:57.551000	0:00:59.357000
 würde	-	-	-	0:00:57.551000	0:00:59.357000
 auch	-	-	-	0:00:57.551000	0:00:59.357000
@@ -221,16 +221,16 @@ noch	-	-	-	0:00:57.551000	0:00:59.357000
 gehen	-	-	-	0:00:57.551000	0:00:59.357000
 .	-	-	-	0:00:57.551000	0:00:59.357000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:00:59.357000" end="0:00:59.783000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:59.357000" end="0:00:59.783000" age_lower="1" age_upper="999">
 ja	-	-	-	0:00:59.357000	0:00:59.783000
 .	-	-	-	0:00:59.357000	0:00:59.783000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:59.783000" end="0:01:01.655000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:59.783000" end="0:01:01.655000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:59.783000	0:01:00.209000
 .	-	-	-	0:00:59.783000	0:01:00.209000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:00.209000" end="0:01:06.843000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:00.209000" end="0:01:06.843000" age_lower="1" age_upper="999">
 <pause duration="1,4s"/>
 und	-	-	-	0:01:01.655000	0:01:06.843000
 würde	-	-	-	0:01:01.655000	0:01:06.843000
@@ -251,13 +251,13 @@ du	-	-	-	0:01:01.655000	0:01:06.843000
 begrüßt	-	-	-	0:01:01.655000	0:01:06.843000
 ?	-	-	-	0:01:01.655000	0:01:06.843000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:06.843000" end="0:01:09.374000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:06.843000" end="0:01:09.374000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:06.843000" end="0:01:09.374000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:06.843000" end="0:01:09.374000" age_lower="1" age_upper="999">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:09.374000" end="0:01:13.204000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:09.374000" end="0:01:13.204000" project="PP03" age_lower="18" age_upper="35">
 mitunter	-	-	-	0:01:09.374000	0:01:09.904000
 ?	-	-	-	0:01:09.374000	0:01:09.904000
 ja	-	-	-	0:01:09.904000	0:01:13.204000
@@ -265,7 +265,7 @@ ja	-	-	-	0:01:09.904000	0:01:13.204000
 ja	-	-	-	0:01:09.904000	0:01:13.204000
 .	-	-	-	0:01:09.904000	0:01:13.204000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:09.904000" end="0:01:13.204000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:09.904000" end="0:01:13.204000" age_lower="1" age_upper="999">
 oder	-	-	-	0:01:09.904000	0:01:13.204000
 je	-	-	-	0:01:09.904000	0:01:13.204000
 nachdem	-	-	-	0:01:09.904000	0:01:13.204000
@@ -281,13 +281,13 @@ wenn	-	-	-	0:01:09.904000	0:01:13.204000
 du	-	-	-	0:01:09.904000	0:01:13.204000
 /.	-	-	-	0:01:09.904000	0:01:13.204000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:13.204000" end="0:01:16.096000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:13.204000" end="0:01:16.096000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:13.204000" end="0:01:16.096000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:13.204000" end="0:01:16.096000" age_lower="1" age_upper="999">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:16.096000" end="0:01:27.807000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:16.096000" end="0:01:27.807000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:16.096000	0:01:17.152000
 ,	-	-	-	0:01:16.096000	0:01:17.152000
 schon	-	-	-	0:01:16.096000	0:01:17.152000
@@ -324,13 +324,13 @@ von	-	-	-	0:01:24.990000	0:01:27.807000
 mir	-	-	-	0:01:24.990000	0:01:27.807000
 .	-	-	-	0:01:24.990000	0:01:27.807000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:24.990000" end="0:01:27.807000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:24.990000" end="0:01:27.807000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:24.990000	0:01:27.807000
 ,	-	-	-	0:01:24.990000	0:01:27.807000
 mhm	-	-	-	0:01:24.990000	0:01:27.807000
 .	-	-	-	0:01:24.990000	0:01:27.807000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:27.807000" end="0:01:38.181000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:27.807000" end="0:01:38.181000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:01:27.807000	0:01:28.711000
 ,	-	-	-	0:01:27.807000	0:01:28.711000
 sonst	-	-	-	0:01:27.807000	0:01:28.711000
@@ -363,11 +363,11 @@ Standard	-	-	-	0:01:36.439000	0:01:38.181000
 euch"	-	-	-	0:01:36.439000	0:01:38.181000
 .	-	-	-	0:01:36.439000	0:01:38.181000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:38.181000" end="0:01:38.860000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:38.181000" end="0:01:38.860000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:38.181000	0:01:38.860000
 .	-	-	-	0:01:38.181000	0:01:38.860000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:38.860000" end="0:01:41.858000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:38.860000" end="0:01:41.858000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:38.860000	0:01:39.538000
 .	-	-	-	0:01:38.860000	0:01:39.538000
 <pause duration="0,5s"/>
@@ -375,25 +375,25 @@ ja	-	-	-	0:01:38.860000	0:01:39.538000
 ,	-	-	-	0:01:39.538000	0:01:40.466000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:40.466000" end="0:01:41.858000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:40.466000" end="0:01:41.858000" age_lower="1" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:41.858000" end="0:01:43.574000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:41.858000" end="0:01:43.574000" project="PP03" age_lower="18" age_upper="35">
 "grüß	-	-	-	0:01:41.858000	0:01:43.574000
 dich"	-	-	-	0:01:41.858000	0:01:43.574000
 geht	-	-	-	0:01:41.858000	0:01:43.574000
 auch	-	-	-	0:01:41.858000	0:01:43.574000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:41.858000" end="0:01:43.574000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:41.858000" end="0:01:43.574000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:41.858000	0:01:43.574000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:41.858000" end="0:01:43.574000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:41.858000" end="0:01:43.574000" project="PP03" age_lower="18" age_upper="35">
 ,	-	-	-	0:01:41.858000	0:01:43.574000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:41.858000" end="0:01:43.574000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:41.858000" end="0:01:43.574000" age_lower="1" age_upper="999">
 .	-	-	-	0:01:41.858000	0:01:43.574000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:41.858000" end="0:01:45.556000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:41.858000" end="0:01:45.556000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:01:41.858000	0:01:43.574000
 "grüß	-	-	-	0:01:41.858000	0:01:43.574000
 dich"	-	-	-	0:01:41.858000	0:01:43.574000
@@ -403,10 +403,10 @@ dich"	-	-	-	0:01:43.574000	0:01:45.556000
 machen	-	-	-	0:01:43.574000	0:01:45.556000
 machen	-	-	-	0:01:43.574000	0:01:45.556000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:45.556000" end="0:01:46.259000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:45.556000" end="0:01:46.259000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:45.556000" end="0:01:48.619000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:45.556000" end="0:01:48.619000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 die	-	-	-	0:01:46.259000	0:01:48.619000
 älteren	-	-	-	0:01:46.259000	0:01:48.619000
@@ -414,24 +414,24 @@ Menschen	-	-	-	0:01:46.259000	0:01:48.619000
 zu	-	-	-	0:01:46.259000	0:01:48.619000
 mir	-	-	-	0:01:46.259000	0:01:48.619000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:48.619000" end="0:01:50.151000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:48.619000" end="0:01:50.151000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:48.619000	0:01:50.151000
 .	-	-	-	0:01:48.619000	0:01:50.151000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:48.619000" end="0:01:50.151000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:48.619000" end="0:01:50.151000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:01:48.619000	0:01:50.151000
 weniger	-	-	-	0:01:48.619000	0:01:50.151000
 umgekehrt	-	-	-	0:01:48.619000	0:01:50.151000
 .	-	-	-	0:01:48.619000	0:01:50.151000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:50.151000" end="0:01:54.090000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:50.151000" end="0:01:54.090000" age_lower="1" age_upper="999">
 hat	-	-	-	0:01:50.151000	0:01:54.090000
 sich	-	-	-	0:01:50.151000	0:01:54.090000
 durchgesetzt	-	-	-	0:01:50.151000	0:01:54.090000
 quasi	-	-	-	0:01:50.151000	0:01:54.090000
 ?	-	-	-	0:01:50.151000	0:01:54.090000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:50.151000" end="0:01:54.090000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:50.151000" end="0:01:54.090000" project="PP03" age_lower="18" age_upper="35">
 wahrscheinlich	-	-	-	0:01:50.151000	0:01:54.090000
 "hallo"	-	-	-	0:01:50.151000	0:01:54.090000
 schon	-	-	-	0:01:50.151000	0:01:54.090000
@@ -444,7 +444,7 @@ ja	-	-	-	0:01:50.151000	0:01:54.090000
 ja	-	-	-	0:01:50.151000	0:01:54.090000
 .	-	-	-	0:01:50.151000	0:01:54.090000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:54.090000" end="0:01:58.672000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:54.090000" end="0:01:58.672000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:54.090000	0:01:54.664000
 .	-	-	-	0:01:54.090000	0:01:54.664000
 ähm	-	-	-	0:01:54.664000	0:01:55.683000
@@ -467,24 +467,24 @@ bisschen	-	-	-	0:01:57.354000	0:01:58.672000
 geplaudert	-	-	-	0:01:57.354000	0:01:58.672000
 .	-	-	-	0:01:57.354000	0:01:58.672000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:57.354000" end="0:01:58.672000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:57.354000" end="0:01:58.672000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:01:57.354000	0:01:58.672000
 .	-	-	-	0:01:57.354000	0:01:58.672000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:58.672000" end="0:02:01.157000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:58.672000" end="0:02:01.157000" age_lower="1" age_upper="999">
 es	-	-	-	0:01:58.672000	0:02:01.157000
 hat	-	-	-	0:01:58.672000	0:02:01.157000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:58.672000" end="0:02:01.157000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:58.672000" end="0:02:01.157000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:01:58.672000	0:02:01.157000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:58.672000" end="0:02:01.157000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:58.672000" end="0:02:01.157000" age_lower="1" age_upper="999">
 sich	-	-	-	0:01:58.672000	0:02:01.157000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:58.672000" end="0:02:01.157000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:58.672000" end="0:02:01.157000" project="PP03" age_lower="18" age_upper="35">
 .	-	-	-	0:01:58.672000	0:02:01.157000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:01:58.672000" end="0:02:12.280000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:58.672000" end="0:02:12.280000" age_lower="1" age_upper="999">
 einiges	-	-	-	0:01:58.672000	0:02:01.157000
 getan	-	-	-	0:01:58.672000	0:02:01.157000
 bei	-	-	-	0:01:58.672000	0:02:01.157000
@@ -528,9 +528,9 @@ getan	-	-	-	0:02:07.452000	0:02:12.280000
 hat	-	-	-	0:02:07.452000	0:02:12.280000
 ,	-	-	-	0:02:07.452000	0:02:12.280000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:12.280000" end="0:02:14.970000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:12.280000" end="0:02:14.970000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:02:12.280000" end="0:02:14.970000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:12.280000" end="0:02:14.970000" age_lower="1" age_upper="999">
 außer	-	-	-	0:02:12.280000	0:02:14.970000
 der	-	-	-	0:02:12.280000	0:02:14.970000
 Umzug	-	-	-	0:02:12.280000	0:02:14.970000
@@ -540,7 +540,7 @@ große	-	-	-	0:02:12.280000	0:02:14.970000
 Stadt	-	-	-	0:02:12.280000	0:02:14.970000
 .	-	-	-	0:02:12.280000	0:02:14.970000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:14.970000" end="0:02:39.464000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:14.970000" end="0:02:39.464000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:14.970000	0:02:16.048000
 .	-	-	-	0:02:14.970000	0:02:16.048000
 ja	-	-	-	0:02:16.048000	0:02:21.334000
@@ -591,16 +591,16 @@ meiner	-	-	-	0:02:33.039000	0:02:39.464000
 sehr	-	-	-	0:02:33.039000	0:02:39.464000
 ähm	-	-	-	0:02:33.039000	0:02:39.464000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:02:33.039000" end="0:02:39.464000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:33.039000" end="0:02:39.464000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:33.039000	0:02:39.464000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:33.039000" end="0:02:39.464000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:33.039000" end="0:02:39.464000" project="PP03" age_lower="18" age_upper="35">
 engagierten	-	-	-	0:02:33.039000	0:02:39.464000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:02:33.039000" end="0:02:39.464000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:33.039000" end="0:02:39.464000" age_lower="1" age_upper="999">
 .	-	-	-	0:02:33.039000	0:02:39.464000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:33.039000" end="0:02:44.628000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:33.039000" end="0:02:44.628000" project="PP03" age_lower="18" age_upper="35">
 Gesangslehrerin	-	-	-	0:02:33.039000	0:02:39.464000
 einfach	-	-	-	0:02:33.039000	0:02:39.464000
 gemerkt	-	-	-	0:02:33.039000	0:02:39.464000
@@ -625,11 +625,11 @@ ausbauen	-	-	-	0:02:42.508000	0:02:44.628000
 könnte	-	-	-	0:02:42.508000	0:02:44.628000
 .	-	-	-	0:02:42.508000	0:02:44.628000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:02:44.628000" end="0:02:50.041000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:44.628000" end="0:02:50.041000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:44.628000	0:02:50.041000
 .	-	-	-	0:02:44.628000	0:02:50.041000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:44.628000" end="0:02:56.095000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:44.628000" end="0:02:56.095000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:02:44.628000	0:02:50.041000
 habe	-	-	-	0:02:44.628000	0:02:50.041000
 viel	-	-	-	0:02:44.628000	0:02:50.041000
@@ -663,11 +663,11 @@ mit	-	-	-	0:02:51.649000	0:02:56.095000
 SONSTIGE	SONSTIGE	-	-	0:02:51.649000	0:02:56.095000
 .	-	-	-	0:02:51.649000	0:02:56.095000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:02:56.095000" end="0:02:56.800000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:56.095000" end="0:02:56.800000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:56.095000	0:02:56.800000
 .	-	-	-	0:02:56.095000	0:02:56.800000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:56.800000" end="0:03:02.176000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:56.800000" end="0:03:02.176000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:56.800000	0:02:57.477000
 .	-	-	-	0:02:56.800000	0:02:57.477000
 in	-	-	-	0:02:57.477000	0:03:02.176000
@@ -680,7 +680,7 @@ greifbar	-	-	-	0:02:57.477000	0:03:02.176000
 nahe	-	-	-	0:02:57.477000	0:03:02.176000
 .	-	-	-	0:02:57.477000	0:03:02.176000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:03:02.176000" end="0:03:03.880000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:02.176000" end="0:03:03.880000" age_lower="1" age_upper="999">
 is/	-	-	-	0:03:02.176000	0:03:03.880000
 ist	-	-	-	0:03:02.176000	0:03:03.880000
 das	-	-	-	0:03:02.176000	0:03:03.880000
@@ -688,19 +688,19 @@ ein	-	-	-	0:03:02.176000	0:03:03.880000
 Bachelorstudium	-	-	-	0:03:02.176000	0:03:03.880000
 ?	-	-	-	0:03:02.176000	0:03:03.880000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:02.176000" end="0:03:03.880000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:02.176000" end="0:03:03.880000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:02.176000	0:03:03.880000
 ,	-	-	-	0:03:02.176000	0:03:03.880000
 Bachelor	-	-	-	0:03:02.176000	0:03:03.880000
 .	-	-	-	0:03:02.176000	0:03:03.880000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:03:03.880000" end="0:03:04.509000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:03.880000" end="0:03:04.509000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:03.880000	0:03:04.509000
 ,	-	-	-	0:03:03.880000	0:03:04.509000
 okay	-	-	-	0:03:03.880000	0:03:04.509000
 .	-	-	-	0:03:03.880000	0:03:04.509000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:03.880000" end="0:03:19.828000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:03.880000" end="0:03:19.828000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:03.880000	0:03:04.509000
 ,	-	-	-	0:03:03.880000	0:03:04.509000
 ja	-	-	-	0:03:03.880000	0:03:04.509000
@@ -752,11 +752,11 @@ Zweitfach	-	-	-	0:03:18.213000	0:03:19.828000
 SONSTIGE	SONSTIGE	-	-	0:03:18.213000	0:03:19.828000
 ,	-	-	-	0:03:18.213000	0:03:19.828000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:03:19.828000" end="0:03:21.871000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:19.828000" end="0:03:21.871000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:19.828000	0:03:21.871000
 .	-	-	-	0:03:19.828000	0:03:21.871000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:19.828000" end="0:03:21.871000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:19.828000" end="0:03:21.871000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:03:19.828000	0:03:21.871000
 Lehramtsstudien	-	-	-	0:03:19.828000	0:03:21.871000
 brauchen	-	-	-	0:03:19.828000	0:03:21.871000
@@ -765,13 +765,13 @@ zwei	-	-	-	0:03:19.828000	0:03:21.871000
 Fächer	-	-	-	0:03:19.828000	0:03:21.871000
 ,	-	-	-	0:03:19.828000	0:03:21.871000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:03:21.871000" end="0:03:22.736000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:21.871000" end="0:03:22.736000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:21.871000	0:03:22.736000
 ,	-	-	-	0:03:21.871000	0:03:22.736000
 mhm	-	-	-	0:03:21.871000	0:03:22.736000
 .	-	-	-	0:03:21.871000	0:03:22.736000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:21.871000" end="0:03:29.428000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:21.871000" end="0:03:29.428000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:03:21.871000	0:03:22.736000
 gemeinsam	-	-	-	0:03:22.736000	0:03:24.201000
 zu	-	-	-	0:03:22.736000	0:03:24.201000
@@ -794,11 +794,11 @@ weiterkriegen	-	-	-	0:03:25.361000	0:03:29.428000
 will	-	-	-	0:03:25.361000	0:03:29.428000
 ,	-	-	-	0:03:25.361000	0:03:29.428000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:03:29.428000" end="0:03:33.853000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:29.428000" end="0:03:33.853000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:29.428000	0:03:33.853000
 .	-	-	-	0:03:29.428000	0:03:33.853000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:29.428000" end="0:03:46.795000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:29.428000" end="0:03:46.795000" project="PP03" age_lower="18" age_upper="35">
 im	-	-	-	0:03:29.428000	0:03:33.853000
 Studium	-	-	-	0:03:29.428000	0:03:33.853000
 ,	-	-	-	0:03:29.428000	0:03:33.853000
@@ -862,11 +862,11 @@ zu	-	-	-	0:03:44.997000	0:03:46.795000
 studieren	-	-	-	0:03:44.997000	0:03:46.795000
 ,	-	-	-	0:03:44.997000	0:03:46.795000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:03:46.795000" end="0:03:50.937000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:46.795000" end="0:03:50.937000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:46.795000	0:03:50.937000
 .	-	-	-	0:03:46.795000	0:03:50.937000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:46.795000" end="0:03:57.786000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:46.795000" end="0:03:57.786000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:03:46.795000	0:03:50.937000
 eigentlich	-	-	-	0:03:46.795000	0:03:50.937000
 schon	-	-	-	0:03:46.795000	0:03:50.937000
@@ -896,11 +896,11 @@ viel	-	-	-	0:03:56.348000	0:03:57.786000
 üben	-	-	-	0:03:56.348000	0:03:57.786000
 ,	-	-	-	0:03:56.348000	0:03:57.786000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:03:57.786000" end="0:04:03.107000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:57.786000" end="0:04:03.107000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:57.786000	0:04:03.107000
 .	-	-	-	0:03:57.786000	0:04:03.107000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:57.786000" end="0:04:13.452000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:57.786000" end="0:04:13.452000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:03:57.786000	0:04:03.107000
 weil	-	-	-	0:03:57.786000	0:04:03.107000
 ,	-	-	-	0:03:57.786000	0:04:03.107000
@@ -952,11 +952,11 @@ Technik	-	-	-	0:04:08.572000	0:04:13.452000
 übt	-	-	-	0:04:08.572000	0:04:13.452000
 ,	-	-	-	0:04:08.572000	0:04:13.452000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:13.452000" end="0:04:14.786000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:13.452000" end="0:04:14.786000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:13.452000	0:04:14.786000
 .	-	-	-	0:04:13.452000	0:04:14.786000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:13.452000" end="0:04:21.079000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:13.452000" end="0:04:21.079000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:04:13.452000	0:04:14.786000
 ist	-	-	-	0:04:13.452000	0:04:14.786000
 ,	-	-	-	0:04:13.452000	0:04:14.786000
@@ -987,7 +987,7 @@ ist	-	-	-	0:04:18.565000	0:04:19.493000
 also	-	-	-	0:04:19.493000	0:04:21.079000
 /.	-	-	-	0:04:19.493000	0:04:21.079000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:21.079000" end="0:04:27.489000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:21.079000" end="0:04:27.489000" age_lower="1" age_upper="999">
 aber	-	-	-	0:04:21.079000	0:04:25.065000
 Stimme	-	-	-	0:04:21.079000	0:04:25.065000
 und	-	-	-	0:04:21.079000	0:04:25.065000
@@ -1007,20 +1007,20 @@ quasi	-	-	-	0:04:25.065000	0:04:27.489000
 professioneller	-	-	-	0:04:25.065000	0:04:27.489000
 Stimmenbenutzer	-	-	-	0:04:25.065000	0:04:27.489000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:25.065000" end="0:04:27.489000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:25.065000" end="0:04:27.489000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:04:25.065000	0:04:27.489000
 .	-	-	-	0:04:25.065000	0:04:27.489000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:27.489000" end="0:04:29.102000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:27.489000" end="0:04:29.102000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:04:27.489000	0:04:29.102000
 ,	-	-	-	0:04:27.489000	0:04:29.102000
 und	-	-	-	0:04:27.489000	0:04:29.102000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:27.489000" end="0:04:29.102000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:27.489000" end="0:04:29.102000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:27.489000	0:04:29.102000
 .	-	-	-	0:04:27.489000	0:04:29.102000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:29.102000" end="0:04:34.664000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:29.102000" end="0:04:34.664000" age_lower="1" age_upper="999">
 an	-	-	-	0:04:29.102000	0:04:32.741000
 der	-	-	-	0:04:29.102000	0:04:32.741000
 an	-	-	-	0:04:29.102000	0:04:32.741000
@@ -1038,23 +1038,23 @@ neue	-	-	-	0:04:32.741000	0:04:34.664000
 Menschen	-	-	-	0:04:32.741000	0:04:34.664000
 .	-	-	-	0:04:32.741000	0:04:34.664000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:32.741000" end="0:04:34.664000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:32.741000" end="0:04:34.664000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:04:32.741000	0:04:34.664000
 .	-	-	-	0:04:32.741000	0:04:34.664000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:34.664000" end="0:04:35.804000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:34.664000" end="0:04:35.804000" age_lower="1" age_upper="999">
 wie	-	-	-	0:04:34.664000	0:04:35.804000
 würdest	-	-	-	0:04:34.664000	0:04:35.804000
 du	-	-	-	0:04:34.664000	0:04:35.804000
 jetzt	-	-	-	0:04:34.664000	0:04:35.804000
 ,	-	-	-	0:04:34.664000	0:04:35.804000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:34.664000" end="0:04:35.804000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:34.664000" end="0:04:35.804000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:34.664000	0:04:35.804000
 .	-	-	-	0:04:34.664000	0:04:35.804000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:35.804000" end="0:04:42.033000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:35.804000" end="0:04:42.033000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:04:35.804000	0:04:36.907000
 ,	-	-	-	0:04:35.804000	0:04:36.907000
 <pause duration="0,7s"/>
@@ -1073,11 +1073,11 @@ deinen	-	-	-	0:04:36.907000	0:04:42.033000
 Studienkolleginnen	-	-	-	0:04:36.907000	0:04:42.033000
 ,	-	-	-	0:04:36.907000	0:04:42.033000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:36.907000" end="0:04:42.033000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:36.907000" end="0:04:42.033000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:04:36.907000	0:04:42.033000
 .	-	-	-	0:04:36.907000	0:04:42.033000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:42.033000" end="0:04:43.957000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:42.033000" end="0:04:43.957000" age_lower="1" age_upper="999">
 du	-	-	-	0:04:42.033000	0:04:43.957000
 hast	-	-	-	0:04:42.033000	0:04:43.957000
 viele	-	-	-	0:04:42.033000	0:04:43.957000
@@ -1086,11 +1086,11 @@ Leute	-	-	-	0:04:42.033000	0:04:43.957000
 kennengelernt	-	-	-	0:04:42.033000	0:04:43.957000
 ,	-	-	-	0:04:42.033000	0:04:43.957000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:42.033000" end="0:04:43.957000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:42.033000" end="0:04:43.957000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:04:42.033000	0:04:43.957000
 .	-	-	-	0:04:42.033000	0:04:43.957000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:43.957000" end="0:04:50.522000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:43.957000" end="0:04:50.522000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:04:43.957000	0:04:47.246000
 ,	-	-	-	0:04:43.957000	0:04:47.246000
 sind	-	-	-	0:04:43.957000	0:04:47.246000
@@ -1119,11 +1119,11 @@ sehr	-	-	-	0:04:47.246000	0:04:50.522000
 verändert	-	-	-	0:04:47.246000	0:04:50.522000
 ,	-	-	-	0:04:47.246000	0:04:50.522000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:47.246000" end="0:04:50.522000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:47.246000" end="0:04:50.522000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:47.246000	0:04:50.522000
 .	-	-	-	0:04:47.246000	0:04:50.522000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:50.523000" end="0:04:55.600000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:50.523000" end="0:04:55.600000" age_lower="1" age_upper="999">
 wie	-	-	-	0:04:50.523000	0:04:55.600000
 hat	-	-	-	0:04:50.523000	0:04:55.600000
 sie	-	-	-	0:04:50.523000	0:04:55.600000
@@ -1142,7 +1142,7 @@ auch	-	-	-	0:04:50.523000	0:04:55.600000
 verändert	-	-	-	0:04:50.523000	0:04:55.600000
 ?	-	-	-	0:04:50.523000	0:04:55.600000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:50.523000" end="0:04:58.570000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:50.523000" end="0:04:58.570000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:04:50.523000	0:04:55.600000
 ja	-	-	-	0:04:50.523000	0:04:55.600000
 ,	-	-	-	0:04:50.523000	0:04:55.600000
@@ -1156,11 +1156,11 @@ ziemlich	-	-	-	0:04:55.600000	0:04:58.570000
 drastisch	-	-	-	0:04:55.600000	0:04:58.570000
 ,	-	-	-	0:04:55.600000	0:04:58.570000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:04:58.570000" end="0:04:59.149000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:58.570000" end="0:04:59.149000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:58.570000	0:04:59.149000
 .	-	-	-	0:04:58.570000	0:04:59.149000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:58.570000" end="0:05:05.175000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:58.570000" end="0:05:05.175000" project="PP03" age_lower="18" age_upper="35">
 denke	-	-	-	0:04:58.570000	0:04:59.149000
 ich	-	-	-	0:04:58.570000	0:04:59.149000
 .	-	-	-	0:04:58.570000	0:04:59.149000
@@ -1183,13 +1183,13 @@ daheim	-	-	-	0:05:02.178000	0:05:05.175000
 bin	-	-	-	0:05:02.178000	0:05:05.175000
 ,	-	-	-	0:05:02.178000	0:05:05.175000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:05:05.175000" end="0:05:07.321000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:05.175000" end="0:05:07.321000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:05.175000	0:05:07.321000
 ,	-	-	-	0:05:05.175000	0:05:07.321000
 mhm	-	-	-	0:05:05.175000	0:05:07.321000
 .	-	-	-	0:05:05.175000	0:05:07.321000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:05.175000" end="0:05:07.321000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:05.175000" end="0:05:07.321000" project="PP03" age_lower="18" age_upper="35">
 um	-	-	-	0:05:05.175000	0:05:07.321000
 nicht	-	-	-	0:05:05.175000	0:05:07.321000
 zu	-	-	-	0:05:05.175000	0:05:07.321000
@@ -1198,23 +1198,23 @@ zu	-	-	-	0:05:05.175000	0:05:07.321000
 sagen	-	-	-	0:05:05.175000	0:05:07.321000
 .	-	-	-	0:05:05.175000	0:05:07.321000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:05:07.321000" end="0:05:08.724000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:07.321000" end="0:05:08.724000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:07.321000" end="0:05:08.724000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:07.321000" end="0:05:08.724000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:05:07.321000	0:05:08.724000
 .	-	-	-	0:05:07.321000	0:05:08.724000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:05:08.724000" end="0:05:09.602000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:08.724000" end="0:05:09.602000" age_lower="1" age_upper="999">
 okay	-	-	-	0:05:08.724000	0:05:09.602000
 .	-	-	-	0:05:08.724000	0:05:09.602000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:09.602000" end="0:05:10.444000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:09.602000" end="0:05:10.444000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:05:09.602000	0:05:10.444000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:05:10.444000" end="0:05:11.225000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:10.444000" end="0:05:11.225000" age_lower="1" age_upper="999">
 <pause duration="räuspern"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:11.225000" end="0:05:23.786000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:11.225000" end="0:05:23.786000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 also	-	-	-	0:05:11.225000	0:05:14.381000
 ,	-	-	-	0:05:11.225000	0:05:14.381000
@@ -1259,11 +1259,11 @@ stark	-	-	-	0:05:21.422000	0:05:23.786000
 ist	-	-	-	0:05:21.422000	0:05:23.786000
 ,	-	-	-	0:05:21.422000	0:05:23.786000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:05:23.786000" end="0:05:26.580000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:23.786000" end="0:05:26.580000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:23.786000	0:05:26.580000
 .	-	-	-	0:05:23.786000	0:05:26.580000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:23.786000" end="0:05:26.580000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:23.786000" end="0:05:26.580000" project="PP03" age_lower="18" age_upper="35">
 versuchen	-	-	-	0:05:23.786000	0:05:26.580000
 abzulegen	-	-	-	0:05:23.786000	0:05:26.580000
 und	-	-	-	0:05:23.786000	0:05:26.580000
@@ -1271,11 +1271,11 @@ sich	-	-	-	0:05:23.786000	0:05:26.580000
 bemühen	-	-	-	0:05:23.786000	0:05:26.580000
 ,	-	-	-	0:05:23.786000	0:05:26.580000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:05:26.580000" end="0:05:30.495000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:26.580000" end="0:05:30.495000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:26.580000	0:05:30.495000
 .	-	-	-	0:05:26.580000	0:05:30.495000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:26.580000" end="0:05:37.793000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:26.580000" end="0:05:37.793000" project="PP03" age_lower="18" age_upper="35">
 sich	-	-	-	0:05:26.580000	0:05:30.495000
 einfach	-	-	-	0:05:26.580000	0:05:30.495000
 ein	-	-	-	0:05:26.580000	0:05:30.495000
@@ -1317,11 +1317,11 @@ oder	-	-	-	0:05:32.492000	0:05:37.793000
 nicht	-	-	-	0:05:32.492000	0:05:37.793000
 ,	-	-	-	0:05:32.492000	0:05:37.793000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:05:37.793000" end="0:05:39.297000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:37.793000" end="0:05:39.297000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:37.793000	0:05:39.297000
 .	-	-	-	0:05:37.793000	0:05:39.297000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:37.793000" end="0:05:42.016000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:37.793000" end="0:05:42.016000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:05:37.793000	0:05:39.297000
 sei	-	-	-	0:05:37.793000	0:05:39.297000
 dahingestellt	-	-	-	0:05:37.793000	0:05:39.297000
@@ -1336,11 +1336,11 @@ sich	-	-	-	0:05:39.297000	0:05:42.016000
 anpassen	-	-	-	0:05:39.297000	0:05:42.016000
 ,	-	-	-	0:05:39.297000	0:05:42.016000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:05:42.016000" end="0:05:42.439000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:42.016000" end="0:05:42.439000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:42.016000	0:05:42.439000
 .	-	-	-	0:05:42.016000	0:05:42.439000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:42.439000" end="0:05:47.262000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:42.439000" end="0:05:47.262000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:05:42.439000	0:05:44.457000
 die	-	-	-	0:05:42.439000	0:05:44.457000
 anderen	-	-	-	0:05:42.439000	0:05:44.457000
@@ -1361,11 +1361,11 @@ gewachsen	-	-	-	0:05:44.457000	0:05:47.262000
 ist	-	-	-	0:05:44.457000	0:05:47.262000
 ,	-	-	-	0:05:44.457000	0:05:47.262000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:05:47.262000" end="0:05:48.076000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:47.262000" end="0:05:48.076000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:47.262000	0:05:48.076000
 .	-	-	-	0:05:47.262000	0:05:48.076000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:47.262000" end="0:06:02.797000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:47.262000" end="0:06:02.797000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:05:47.262000	0:05:48.076000
 alles	-	-	-	0:05:47.262000	0:05:48.076000
 wurscht	-	-	-	0:05:47.262000	0:05:48.076000
@@ -1408,11 +1408,11 @@ zu	-	-	-	0:06:00.931000	0:06:02.797000
 entwickeln	-	-	-	0:06:00.931000	0:06:02.797000
 .	-	-	-	0:06:00.931000	0:06:02.797000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:06:02.797000" end="0:06:04.352000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:02.797000" end="0:06:04.352000" age_lower="1" age_upper="999">
 okay	-	-	-	0:06:02.797000	0:06:04.352000
 .	-	-	-	0:06:02.797000	0:06:04.352000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:02.797000" end="0:06:14.593000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:02.797000" end="0:06:14.593000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:06:02.797000	0:06:04.352000
 und	-	-	-	0:06:02.797000	0:06:04.352000
 hab	-	-	-	0:06:02.797000	0:06:04.352000
@@ -1457,11 +1457,11 @@ man	-	-	-	0:06:12.541000	0:06:14.593000
 versucht	-	-	-	0:06:12.541000	0:06:14.593000
 ,	-	-	-	0:06:12.541000	0:06:14.593000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:06:14.593000" end="0:06:19.194000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:14.593000" end="0:06:19.194000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:14.593000	0:06:19.194000
 .	-	-	-	0:06:14.593000	0:06:19.194000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:14.593000" end="0:06:24.298000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:14.593000" end="0:06:24.298000" project="PP03" age_lower="18" age_upper="35">
 sich	-	-	-	0:06:14.593000	0:06:19.194000
 da	-	-	-	0:06:14.593000	0:06:19.194000
 auf	-	-	-	0:06:14.593000	0:06:19.194000
@@ -1494,11 +1494,11 @@ auch	-	-	-	0:06:21.095000	0:06:24.298000
 viele	-	-	-	0:06:21.095000	0:06:24.298000
 ,	-	-	-	0:06:21.095000	0:06:24.298000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:06:24.298000" end="0:06:28.008000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:24.298000" end="0:06:28.008000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:24.298000	0:06:28.008000
 .	-	-	-	0:06:24.298000	0:06:28.008000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:24.298000" end="0:06:32.175000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:24.298000" end="0:06:32.175000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:06:24.298000	0:06:28.008000
 <pause duration="0,7s"/>
 ähm	-	-	-	0:06:24.298000	0:06:28.008000
@@ -1519,11 +1519,11 @@ persönlichen	-	-	-	0:06:30.555000	0:06:32.175000
 Kontext	-	-	-	0:06:30.555000	0:06:32.175000
 ,	-	-	-	0:06:30.555000	0:06:32.175000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:06:32.175000" end="0:06:35.065000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:32.175000" end="0:06:35.065000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:32.175000	0:06:35.065000
 .	-	-	-	0:06:32.175000	0:06:35.065000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:32.175000" end="0:06:35.717000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:32.175000" end="0:06:35.717000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:06:32.175000	0:06:35.065000
 dann	-	-	-	0:06:32.175000	0:06:35.065000
 aber	-	-	-	0:06:32.175000	0:06:35.065000
@@ -1535,10 +1535,10 @@ machen	-	-	-	0:06:32.175000	0:06:35.065000
 und	-	-	-	0:06:35.065000	0:06:35.717000
 das	-	-	-	0:06:35.065000	0:06:35.717000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:06:35.717000" end="0:06:36.736000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:35.717000" end="0:06:36.736000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:35.717000" end="0:06:48.777000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:35.717000" end="0:06:48.777000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 kann	-	-	-	0:06:36.736000	0:06:39.043000
 ich	-	-	-	0:06:36.736000	0:06:39.043000
@@ -1589,11 +1589,11 @@ meistens	-	-	-	0:06:46.516000	0:06:48.777000
 nachgefragt	-	-	-	0:06:46.516000	0:06:48.777000
 ,	-	-	-	0:06:46.516000	0:06:48.777000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:06:48.777000" end="0:06:51.402000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:48.777000" end="0:06:51.402000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:48.777000	0:06:51.402000
 .	-	-	-	0:06:48.777000	0:06:51.402000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:48.777000" end="0:06:58.683000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:48.777000" end="0:06:58.683000" project="PP03" age_lower="18" age_upper="35">
 "wie	-	-	-	0:06:48.777000	0:06:51.402000
 bitte	-	-	-	0:06:48.777000	0:06:51.402000
 ?"	-	-	-	0:06:48.777000	0:06:51.402000
@@ -1631,11 +1631,11 @@ zu	-	-	-	0:06:54.993000	0:06:58.683000
 sprechen	-	-	-	0:06:54.993000	0:06:58.683000
 ,	-	-	-	0:06:54.993000	0:06:58.683000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:06:58.683000" end="0:07:00.830000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:58.683000" end="0:07:00.830000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:58.683000	0:07:00.830000
 .	-	-	-	0:06:58.683000	0:07:00.830000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:58.683000" end="0:07:19.286000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:58.683000" end="0:07:19.286000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:06:58.683000	0:07:00.830000
 das	-	-	-	0:06:58.683000	0:07:00.830000
 wird	-	-	-	0:06:58.683000	0:07:00.830000
@@ -1696,11 +1696,11 @@ davon	-	-	-	0:07:16.870000	0:07:19.286000
 ab	-	-	-	0:07:16.870000	0:07:19.286000
 ,	-	-	-	0:07:16.870000	0:07:19.286000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:07:19.286000" end="0:07:22.718000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:19.286000" end="0:07:22.718000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:19.286000	0:07:22.718000
 .	-	-	-	0:07:19.286000	0:07:22.718000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:19.286000" end="0:07:28.124000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:19.286000" end="0:07:28.124000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:07:19.286000	0:07:22.718000
 gibt	-	-	-	0:07:19.286000	0:07:22.718000
 bei	-	-	-	0:07:19.286000	0:07:22.718000
@@ -1728,7 +1728,7 @@ zu	-	-	-	0:07:25.374000	0:07:28.124000
 sprechen	-	-	-	0:07:25.374000	0:07:28.124000
 .	-	-	-	0:07:25.374000	0:07:28.124000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:07:28.124000" end="0:07:30.370000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:28.124000" end="0:07:30.370000" age_lower="1" age_upper="999">
 sofern	-	-	-	0:07:28.124000	0:07:30.370000
 man	-	-	-	0:07:28.124000	0:07:30.370000
 verstanden	-	-	-	0:07:28.124000	0:07:30.370000
@@ -1736,7 +1736,7 @@ werden	-	-	-	0:07:28.124000	0:07:30.370000
 will	-	-	-	0:07:28.124000	0:07:30.370000
 .	-	-	-	0:07:28.124000	0:07:30.370000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:28.124000" end="0:07:37.127000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:28.124000" end="0:07:37.127000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:07:28.124000	0:07:30.370000
 .	-	-	-	0:07:28.124000	0:07:30.370000
@@ -1765,11 +1765,11 @@ verstanden	-	-	-	0:07:33.707000	0:07:37.127000
 will	-	-	-	0:07:33.707000	0:07:37.127000
 ,	-	-	-	0:07:33.707000	0:07:37.127000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:07:37.127000" end="0:07:39.543000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:37.127000" end="0:07:39.543000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:37.127000	0:07:39.543000
 .	-	-	-	0:07:37.127000	0:07:39.543000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:37.127000" end="0:07:42.428000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:37.127000" end="0:07:42.428000" project="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:07:37.127000	0:07:39.543000
 bietet	-	-	-	0:07:37.127000	0:07:39.543000
 sich	-	-	-	0:07:37.127000	0:07:39.543000
@@ -1787,10 +1787,10 @@ sprechen	-	-	-	0:07:37.127000	0:07:39.543000
 genau	-	-	-	0:07:39.543000	0:07:42.428000
 .	-	-	-	0:07:39.543000	0:07:42.428000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:07:42.428000" end="0:07:43.224000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:42.428000" end="0:07:43.224000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:42.428000	0:07:43.224000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:43.224000" end="0:07:49.161000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:43.224000" end="0:07:49.161000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 was	-	-	-	0:07:43.224000	0:07:44.527000
 (wollte	-	-	-	0:07:43.224000	0:07:44.527000
@@ -1818,11 +1818,11 @@ zum	-	-	-	0:07:44.527000	0:07:49.161000
 Beispiel	-	-	-	0:07:44.527000	0:07:49.161000
 ,	-	-	-	0:07:44.527000	0:07:49.161000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:07:49.161000" end="0:07:53.348000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:49.161000" end="0:07:53.348000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:49.161000	0:07:53.348000
 .	-	-	-	0:07:49.161000	0:07:53.348000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:49.161000" end="0:07:54.299000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:49.161000" end="0:07:54.299000" project="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:07:49.161000	0:07:53.348000
 ja	-	-	-	0:07:49.161000	0:07:53.348000
 gerade	-	-	-	0:07:49.161000	0:07:53.348000
@@ -1837,10 +1837,10 @@ bietet	-	-	-	0:07:53.348000	0:07:54.299000
 sich	-	-	-	0:07:53.348000	0:07:54.299000
 ,	-	-	-	0:07:53.348000	0:07:54.299000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:07:54.299000" end="0:07:55.832000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:54.299000" end="0:07:55.832000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:54.299000" end="0:08:02.523000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:54.299000" end="0:08:02.523000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 viel	-	-	-	0:07:55.832000	0:07:58.662000
 eher	-	-	-	0:07:55.832000	0:07:58.662000
@@ -1866,7 +1866,7 @@ im	-	-	-	0:07:58.662000	0:08:02.523000
 Dialekt	-	-	-	0:07:58.662000	0:08:02.523000
 .	-	-	-	0:07:58.662000	0:08:02.523000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:02.523000" end="0:08:05.138000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:02.523000" end="0:08:05.138000" age_lower="1" age_upper="999">
 stimmt	-	-	-	0:08:02.523000	0:08:05.138000
 ,	-	-	-	0:08:02.523000	0:08:05.138000
 da	-	-	-	0:08:02.523000	0:08:05.138000
@@ -1882,7 +1882,7 @@ sehr	-	-	-	0:08:02.523000	0:08:05.138000
 spannend	-	-	-	0:08:02.523000	0:08:05.138000
 .	-	-	-	0:08:02.523000	0:08:05.138000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:02.523000" end="0:08:11.923000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:02.523000" end="0:08:11.923000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:08:02.523000	0:08:05.138000
 so	-	-	-	0:08:02.523000	0:08:05.138000
 .	-	-	-	0:08:02.523000	0:08:05.138000
@@ -1907,7 +1907,7 @@ an	-	-	-	0:08:08.505000	0:08:11.923000
 irgendwie	-	-	-	0:08:08.505000	0:08:11.923000
 .	-	-	-	0:08:08.505000	0:08:11.923000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:11.923000" end="0:08:13.580000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:11.923000" end="0:08:13.580000" age_lower="1" age_upper="999">
 es	-	-	-	0:08:11.923000	0:08:13.580000
 ist	-	-	-	0:08:11.923000	0:08:13.580000
 in	-	-	-	0:08:11.923000	0:08:13.580000
@@ -1915,21 +1915,21 @@ einem	-	-	-	0:08:11.923000	0:08:13.580000
 bestimmten	-	-	-	0:08:11.923000	0:08:13.580000
 Kontext	-	-	-	0:08:11.923000	0:08:13.580000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:11.923000" end="0:08:13.580000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:11.923000" end="0:08:13.580000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:08:11.923000	0:08:13.580000
 .	-	-	-	0:08:11.923000	0:08:13.580000
 also	-	-	-	0:08:11.923000	0:08:13.580000
 (im)	-	-	-	0:08:11.923000	0:08:13.580000
 /.	-	-	-	0:08:11.923000	0:08:13.580000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:13.580000" end="0:08:16.525000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:13.580000" end="0:08:16.525000" age_lower="1" age_upper="999">
 quasi	-	-	-	0:08:13.580000	0:08:16.525000
 verankert	-	-	-	0:08:13.580000	0:08:16.525000
 ,	-	-	-	0:08:13.580000	0:08:16.525000
 mhm	-	-	-	0:08:13.580000	0:08:16.525000
 .	-	-	-	0:08:13.580000	0:08:16.525000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:13.580000" end="0:08:16.525000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:13.580000" end="0:08:16.525000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:08:13.580000	0:08:16.525000
 ,	-	-	-	0:08:13.580000	0:08:16.525000
 und	-	-	-	0:08:13.580000	0:08:16.525000
@@ -1940,11 +1940,11 @@ diesem	-	-	-	0:08:13.580000	0:08:16.525000
 universitären	-	-	-	0:08:13.580000	0:08:16.525000
 ,	-	-	-	0:08:13.580000	0:08:16.525000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:16.525000" end="0:08:18.705000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:16.525000" end="0:08:18.705000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:16.525000	0:08:18.705000
 .	-	-	-	0:08:16.525000	0:08:18.705000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:16.525000" end="0:08:25.725000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:16.525000" end="0:08:25.725000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 professionellen	-	-	-	0:08:16.525000	0:08:18.705000
 Kontext	-	-	-	0:08:16.525000	0:08:18.705000
@@ -1973,11 +1973,11 @@ auch	-	-	-	0:08:23.622000	0:08:25.725000
 mehr	-	-	-	0:08:23.622000	0:08:25.725000
 Sinn	-	-	-	0:08:23.622000	0:08:25.725000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:25.725000" end="0:08:29.872000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:25.725000" end="0:08:29.872000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:25.725000	0:08:29.872000
 .	-	-	-	0:08:25.725000	0:08:29.872000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:25.725000" end="0:08:42.259000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:25.725000" end="0:08:42.259000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:08:25.725000	0:08:29.872000
 ist	-	-	-	0:08:25.725000	0:08:29.872000
 ist	-	-	-	0:08:25.725000	0:08:29.872000
@@ -2038,13 +2038,13 @@ gebräuchlich	-	-	-	0:08:38.192000	0:08:41.856000
 ja	-	-	-	0:08:41.856000	0:08:42.259000
 .	-	-	-	0:08:41.856000	0:08:42.259000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:42.259000" end="0:08:43.385000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:42.259000" end="0:08:43.385000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:42.259000" end="0:08:43.385000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:42.259000" end="0:08:43.385000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:43.385000" end="0:08:48.349000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:43.385000" end="0:08:48.349000" age_lower="1" age_upper="999">
 okay	-	-	-	0:08:43.385000	0:08:46.030000
 ,	-	-	-	0:08:43.385000	0:08:46.030000
 wir	-	-	-	0:08:43.385000	0:08:46.030000
@@ -2068,17 +2068,17 @@ wieder	-	-	-	0:08:46.030000	0:08:48.349000
 bist	-	-	-	0:08:46.030000	0:08:48.349000
 ,	-	-	-	0:08:46.030000	0:08:48.349000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:46.030000" end="0:08:48.349000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:46.030000" end="0:08:48.349000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:08:46.030000	0:08:48.349000
 .	-	-	-	0:08:46.030000	0:08:48.349000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:48.349000" end="0:08:49.972000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:48.349000" end="0:08:49.972000" age_lower="1" age_upper="999">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:48.349000" end="0:08:49.972000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:48.349000" end="0:08:49.972000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:49.972000" end="0:08:53.746000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:49.972000" end="0:08:53.746000" age_lower="1" age_upper="999">
 switchst	-	-	-	0:08:49.972000	0:08:53.746000
 du	-	-	-	0:08:49.972000	0:08:53.746000
 quasi	-	-	-	0:08:49.972000	0:08:53.746000
@@ -2089,7 +2089,7 @@ is/	-	-	-	0:08:49.972000	0:08:53.746000
 is/	-	-	-	0:08:49.972000	0:08:53.746000
 /?	-	-	-	0:08:49.972000	0:08:53.746000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:49.972000" end="0:08:53.746000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:49.972000" end="0:08:53.746000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:08:49.972000	0:08:53.746000
 ,	-	-	-	0:08:49.972000	0:08:53.746000
 ja	-	-	-	0:08:49.972000	0:08:53.746000
@@ -2104,17 +2104,17 @@ bissi	-	-	-	0:08:49.972000	0:08:53.746000
 Zeit	-	-	-	0:08:49.972000	0:08:53.746000
 .	-	-	-	0:08:49.972000	0:08:53.746000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:53.746000" end="0:08:54.388000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:53.746000" end="0:08:54.388000" age_lower="1" age_upper="999">
 okay	-	-	-	0:08:53.746000	0:08:54.388000
 .	-	-	-	0:08:53.746000	0:08:54.388000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:53.746000" end="0:08:54.388000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:53.746000" end="0:08:54.388000" project="PP03" age_lower="18" age_upper="35">
 (genau)	-	-	-	0:08:53.746000	0:08:54.388000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:54.388000" end="0:08:55.846000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:54.388000" end="0:08:55.846000" age_lower="1" age_upper="999">
 ((0,8s))	-	-	-	0:08:54.388000	0:08:55.846000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:54.388000" end="0:08:59.220000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:54.388000" end="0:08:59.220000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	-	-	-	0:08:54.388000	0:08:55.846000
 es	-	-	-	0:08:55.846000	0:08:57.954000
@@ -2127,11 +2127,11 @@ meinen	-	-	-	0:08:55.846000	0:08:57.954000
 Sprachgebrauch	-	-	-	0:08:57.954000	0:08:59.220000
 jetzt	-	-	-	0:08:57.954000	0:08:59.220000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:08:59.220000" end="0:09:02.520000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:59.220000" end="0:09:02.520000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:59.220000	0:09:02.520000
 .	-	-	-	0:08:59.220000	0:09:02.520000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:59.220000" end="0:09:08.192000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:59.220000" end="0:09:08.192000" project="PP03" age_lower="18" age_upper="35">
 gibt	-	-	-	0:08:59.220000	0:09:02.520000
 es	-	-	-	0:08:59.220000	0:09:02.520000
 quasi	-	-	-	0:08:59.220000	0:09:02.520000
@@ -2161,11 +2161,11 @@ meiner	-	-	-	0:09:05.740000	0:09:08.192000
 Freundin	-	-	-	0:09:05.740000	0:09:08.192000
 ,	-	-	-	0:09:05.740000	0:09:08.192000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:09:08.192000" end="0:09:09.639000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:08.192000" end="0:09:09.639000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:08.192000	0:09:09.639000
 .	-	-	-	0:09:08.192000	0:09:09.639000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:08.192000" end="0:09:09.639000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:08.192000" end="0:09:09.639000" project="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:09:08.192000	0:09:09.639000
 ähm	-	-	-	0:09:08.192000	0:09:09.639000
 aus	-	-	-	0:09:08.192000	0:09:09.639000
@@ -2173,7 +2173,7 @@ Linz	-	-	-	0:09:08.192000	0:09:09.639000
 ist	-	-	-	0:09:08.192000	0:09:09.639000
 .	-	-	-	0:09:08.192000	0:09:09.639000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:09:09.639000" end="0:09:11.760000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:09.639000" end="0:09:11.760000" age_lower="1" age_upper="999">
 ah	-	-	-	0:09:09.639000	0:09:11.760000
 ,	-	-	-	0:09:09.639000	0:09:11.760000
 das	-	-	-	0:09:09.639000	0:09:11.760000
@@ -2185,15 +2185,15 @@ Frage	-	-	-	0:09:09.639000	0:09:11.760000
 gewesen	-	-	-	0:09:09.639000	0:09:11.760000
 .	-	-	-	0:09:09.639000	0:09:11.760000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:09.639000" end="0:09:11.760000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:09.639000" end="0:09:11.760000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:09:09.639000	0:09:11.760000
 ,	-	-	-	0:09:09.639000	0:09:11.760000
 ja	-	-	-	0:09:09.639000	0:09:11.760000
 .	-	-	-	0:09:09.639000	0:09:11.760000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:09:11.760000" end="0:09:12.540000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:11.760000" end="0:09:12.540000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:11.760000" end="0:09:21.428000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:11.760000" end="0:09:21.428000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:09:11.760000	0:09:12.540000
 .	-	-	-	0:09:11.760000	0:09:12.540000
 da	-	-	-	0:09:12.540000	0:09:13.722000
@@ -2226,11 +2226,11 @@ selten	-	-	-	0:09:17.837000	0:09:21.428000
 sagen	-	-	-	0:09:17.837000	0:09:21.428000
 ,	-	-	-	0:09:17.837000	0:09:21.428000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:09:21.428000" end="0:09:22.601000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:21.428000" end="0:09:22.601000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:21.428000	0:09:22.601000
 .	-	-	-	0:09:21.428000	0:09:22.601000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:21.428000" end="0:09:26.840000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:21.428000" end="0:09:26.840000" project="PP03" age_lower="18" age_upper="35">
 sondern	-	-	-	0:09:21.428000	0:09:22.601000
 meistens	-	-	-	0:09:21.428000	0:09:22.601000
 "Gelse"	-	-	-	0:09:21.428000	0:09:22.601000
@@ -2250,13 +2250,13 @@ gesagt	-	-	-	0:09:22.601000	0:09:26.840000
 habe	-	-	-	0:09:22.601000	0:09:26.840000
 .	-	-	-	0:09:22.601000	0:09:26.840000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:09:26.840000" end="0:09:28.982000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:26.840000" end="0:09:28.982000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:26.840000	0:09:27.346000
 .	-	-	-	0:09:26.840000	0:09:27.346000
 _goi_	-	-	-	0:09:27.346000	0:09:28.982000
 .	-	-	-	0:09:27.346000	0:09:28.982000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:27.346000" end="0:09:28.982000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:27.346000" end="0:09:28.982000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:09:27.346000	0:09:28.982000
 wenn	-	-	-	0:09:27.346000	0:09:28.982000
 ich	-	-	-	0:09:27.346000	0:09:28.982000
@@ -2268,15 +2268,15 @@ dann	-	-	-	0:09:27.346000	0:09:28.982000
 wirklich	-	-	-	0:09:27.346000	0:09:28.982000
 /.	-	-	-	0:09:27.346000	0:09:28.982000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:09:28.982000" end="0:09:30.156000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:28.982000" end="0:09:30.156000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:28.982000" end="0:09:30.156000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:28.982000" end="0:09:30.156000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:28.982000	0:09:30.156000
 .	-	-	-	0:09:28.982000	0:09:30.156000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:09:30.156000" end="0:09:31.683000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:30.156000" end="0:09:31.683000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:30.156000" end="0:09:52.937000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:30.156000" end="0:09:52.937000" project="PP03" age_lower="18" age_upper="35">
 (ich	-	-	-	0:09:30.156000	0:09:31.683000
 gönne	-	-	-	0:09:30.156000	0:09:31.683000
 es	-	-	-	0:09:30.156000	0:09:31.683000
@@ -2347,11 +2347,11 @@ ich	-	-	-	0:09:50.520000	0:09:52.937000
 ähm	-	-	-	0:09:50.520000	0:09:52.937000
 da	-	-	-	0:09:50.520000	0:09:52.937000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:09:52.937000" end="0:09:56.031000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:52.937000" end="0:09:56.031000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:52.937000	0:09:56.031000
 .	-	-	-	0:09:52.937000	0:09:56.031000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:52.937000" end="0:10:01.092000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:52.937000" end="0:10:01.092000" project="PP03" age_lower="18" age_upper="35">
 mich	-	-	-	0:09:52.937000	0:09:56.031000
 entferne	-	-	-	0:09:52.937000	0:09:56.031000
 von	-	-	-	0:09:52.937000	0:09:56.031000
@@ -2376,11 +2376,11 @@ quasi	-	-	-	0:09:57.827000	0:10:01.092000
 lernt	-	-	-	0:09:57.827000	0:10:01.092000
 ,	-	-	-	0:09:57.827000	0:10:01.092000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:01.092000" end="0:10:03.649000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:01.092000" end="0:10:03.649000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:01.092000	0:10:03.649000
 .	-	-	-	0:10:01.092000	0:10:03.649000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:01.092000" end="0:10:03.649000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:01.092000" end="0:10:03.649000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:01.092000	0:10:03.649000
 ,	-	-	-	0:10:01.092000	0:10:03.649000
 wenn	-	-	-	0:10:01.092000	0:10:03.649000
@@ -2393,13 +2393,13 @@ daheim	-	-	-	0:10:01.092000	0:10:03.649000
 ist	-	-	-	0:10:01.092000	0:10:03.649000
 .	-	-	-	0:10:01.092000	0:10:03.649000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:03.649000" end="0:10:07.400000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:03.649000" end="0:10:07.400000" age_lower="1" age_upper="999">
 <pause duration="3,7s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:03.649000" end="0:10:07.400000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:03.649000" end="0:10:07.400000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,7s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:07.400000" end="0:10:10.615000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:07.400000" end="0:10:10.615000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:07.400000	0:10:10.615000
 ,	-	-	-	0:10:07.400000	0:10:10.615000
 du	-	-	-	0:10:07.400000	0:10:10.615000
@@ -2415,37 +2415,37 @@ aus	-	-	-	0:10:07.400000	0:10:10.615000
 Linz	-	-	-	0:10:07.400000	0:10:10.615000
 .	-	-	-	0:10:07.400000	0:10:10.615000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:07.400000" end="0:10:10.615000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:07.400000" end="0:10:10.615000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:10:07.400000	0:10:10.615000
 .	-	-	-	0:10:07.400000	0:10:10.615000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:10.615000" end="0:10:12.112000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:10.615000" end="0:10:12.112000" age_lower="1" age_upper="999">
 und	-	-	-	0:10:10.615000	0:10:12.112000
 ,	-	-	-	0:10:10.615000	0:10:12.112000
 ähm	-	-	-	0:10:10.615000	0:10:12.112000
 ,	-	-	-	0:10:10.615000	0:10:12.112000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:10.615000" end="0:10:12.112000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:10.615000" end="0:10:12.112000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:10.615000	0:10:12.112000
 .	-	-	-	0:10:10.615000	0:10:12.112000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:12.112000" end="0:10:13.480000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:12.112000" end="0:10:13.480000" age_lower="1" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:12.112000" end="0:10:13.480000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:12.112000" end="0:10:13.480000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:13.480000" end="0:10:17.092000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:13.480000" end="0:10:17.092000" age_lower="1" age_upper="999">
 weil	-	-	-	0:10:13.480000	0:10:15.169000
 wir	-	-	-	0:10:13.480000	0:10:15.169000
 da	-	-	-	0:10:13.480000	0:10:15.169000
 /.	-	-	-	0:10:13.480000	0:10:15.169000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:15.169000" end="0:10:17.092000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:15.169000" end="0:10:17.092000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:17.092000" end="0:10:18.860000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:17.092000" end="0:10:18.860000" age_lower="1" age_upper="999">
 zweitausendsiebzehn	-	-	-	0:10:17.092000	0:10:18.860000
 war	-	-	-	0:10:17.092000	0:10:18.860000
 der	-	-	-	0:10:17.092000	0:10:18.860000
@@ -2453,11 +2453,11 @@ letzte	-	-	-	0:10:17.092000	0:10:18.860000
 Besuch	-	-	-	0:10:17.092000	0:10:18.860000
 .	-	-	-	0:10:17.092000	0:10:18.860000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:18.860000" end="0:10:19.351000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:18.860000" end="0:10:19.351000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:10:18.860000	0:10:19.351000
 .	-	-	-	0:10:18.860000	0:10:19.351000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:19.351000" end="0:10:21.225000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:19.351000" end="0:10:21.225000" age_lower="1" age_upper="999">
 war	-	-	-	0:10:19.351000	0:10:21.225000
 sie	-	-	-	0:10:19.351000	0:10:21.225000
 da	-	-	-	0:10:19.351000	0:10:21.225000
@@ -2468,11 +2468,11 @@ Freundin	-	-	-	0:10:19.351000	0:10:21.225000
 oder	-	-	-	0:10:19.351000	0:10:21.225000
 /?	-	-	-	0:10:19.351000	0:10:21.225000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:19.351000" end="0:10:21.225000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:19.351000" end="0:10:21.225000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:10:19.351000	0:10:21.225000
 .	-	-	-	0:10:19.351000	0:10:21.225000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:21.225000" end="0:10:25.745000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:21.225000" end="0:10:25.745000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:21.225000	0:10:25.745000
 ,	-	-	-	0:10:21.225000	0:10:25.745000
 das	-	-	-	0:10:21.225000	0:10:25.745000
@@ -2489,17 +2489,17 @@ Einfluss	-	-	-	0:10:21.225000	0:10:25.745000
 quasi	-	-	-	0:10:21.225000	0:10:25.745000
 ?	-	-	-	0:10:21.225000	0:10:25.745000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:21.225000" end="0:10:25.745000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:21.225000" end="0:10:25.745000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:21.225000	0:10:25.745000
 ,	-	-	-	0:10:21.225000	0:10:25.745000
 ja	-	-	-	0:10:21.225000	0:10:25.745000
 .	-	-	-	0:10:21.225000	0:10:25.745000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:25.745000" end="0:10:28.097000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:25.745000" end="0:10:28.097000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:25.745000	0:10:28.097000
 .	-	-	-	0:10:25.745000	0:10:28.097000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:25.745000" end="0:10:28.097000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:25.745000" end="0:10:28.097000" project="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:10:25.745000	0:10:28.097000
 ja	-	-	-	0:10:25.745000	0:10:28.097000
 ,	-	-	-	0:10:25.745000	0:10:28.097000
@@ -2508,18 +2508,18 @@ ZAHL	ZAHL	-	-	0:10:25.745000	0:10:28.097000
 also	-	-	-	0:10:25.745000	0:10:28.097000
 /.	-	-	-	0:10:25.745000	0:10:28.097000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:28.097000" end="0:10:28.420000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:28.097000" end="0:10:28.420000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:28.097000	0:10:28.420000
 .	-	-	-	0:10:28.097000	0:10:28.420000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:28.420000" end="0:10:29.093000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:28.420000" end="0:10:29.093000" project="PP03" age_lower="18" age_upper="35">
 oh	-	-	-	0:10:28.420000	0:10:29.093000
 Gott	-	-	-	0:10:28.420000	0:10:29.093000
 .	-	-	-	0:10:28.420000	0:10:29.093000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:29.093000" end="0:10:30.868000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:29.093000" end="0:10:30.868000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:29.093000" end="0:10:34.076000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:29.093000" end="0:10:34.076000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:10:29.093000	0:10:30.868000
 ist	-	-	-	0:10:29.093000	0:10:30.868000
 ,	-	-	-	0:10:29.093000	0:10:30.868000
@@ -2547,15 +2547,15 @@ Jahre	-	-	-	0:10:32.507000	0:10:34.076000
 her	-	-	-	0:10:32.507000	0:10:34.076000
 .	-	-	-	0:10:32.507000	0:10:34.076000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:34.076000" end="0:10:35.366000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:34.076000" end="0:10:35.366000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:34.076000" end="0:10:35.947000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:34.076000" end="0:10:35.947000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:10:34.076000	0:10:35.366000
 .((lachen))	-	-	-	0:10:34.076000	0:10:35.366000
 mhm	-	-	-	0:10:35.366000	0:10:35.947000
 .	-	-	-	0:10:35.366000	0:10:35.947000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:35.947000" end="0:10:39.779000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:35.947000" end="0:10:39.779000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:35.947000	0:10:36.740000
 .	-	-	-	0:10:35.947000	0:10:36.740000
 und	-	-	-	0:10:36.740000	0:10:39.779000
@@ -2567,7 +2567,7 @@ schon	-	-	-	0:10:36.740000	0:10:39.779000
 Anpassungen	-	-	-	0:10:36.740000	0:10:39.779000
 ?	-	-	-	0:10:36.740000	0:10:39.779000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:36.740000" end="0:10:49.254000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:36.740000" end="0:10:49.254000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:36.740000	0:10:39.779000
 .	-	-	-	0:10:36.740000	0:10:39.779000
 ja	-	-	-	0:10:39.779000	0:10:42.734000
@@ -2599,11 +2599,11 @@ persönlichen	-	-	-	0:10:45.962000	0:10:49.254000
 Sprachgebrauch	-	-	-	0:10:45.962000	0:10:49.254000
 ,	-	-	-	0:10:45.962000	0:10:49.254000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:49.254000" end="0:10:51.682000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:49.254000" end="0:10:51.682000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:49.254000	0:10:51.682000
 .	-	-	-	0:10:49.254000	0:10:51.682000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:49.254000" end="0:10:58.088000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:49.254000" end="0:10:58.088000" project="PP03" age_lower="18" age_upper="35">
 im	-	-	-	0:10:49.254000	0:10:51.682000
 privaten	-	-	-	0:10:49.254000	0:10:51.682000
 Sprachgebrauch	-	-	-	0:10:49.254000	0:10:51.682000
@@ -2628,11 +2628,11 @@ weniger	-	-	-	0:10:51.682000	0:10:58.088000
 äußern	-	-	-	0:10:51.682000	0:10:58.088000
 ,	-	-	-	0:10:51.682000	0:10:58.088000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:10:58.088000" end="0:11:02.779000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:58.088000" end="0:11:02.779000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:58.088000	0:11:02.779000
 .	-	-	-	0:10:58.088000	0:11:02.779000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:58.088000" end="0:11:02.779000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:58.088000" end="0:11:02.779000" project="PP03" age_lower="18" age_upper="35">
 als	-	-	-	0:10:58.088000	0:11:02.779000
 eben	-	-	-	0:10:58.088000	0:11:02.779000
 als	-	-	-	0:10:58.088000	0:11:02.779000
@@ -2647,11 +2647,11 @@ mit	-	-	-	0:10:58.088000	0:11:02.779000
 ihr	-	-	-	0:10:58.088000	0:11:02.779000
 ,	-	-	-	0:10:58.088000	0:11:02.779000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:11:02.779000" end="0:11:05.798000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:02.779000" end="0:11:05.798000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:02.779000	0:11:05.798000
 .	-	-	-	0:11:02.779000	0:11:05.798000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:02.779000" end="0:11:09.233000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:02.779000" end="0:11:09.233000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:11:02.779000	0:11:05.798000
 sie	-	-	-	0:11:02.779000	0:11:05.798000
 auch	-	-	-	0:11:02.779000	0:11:05.798000
@@ -2677,10 +2677,10 @@ ja	-	-	-	0:11:05.798000	0:11:08.052000
 ähm	-	-	-	0:11:08.052000	0:11:09.233000
 .	-	-	-	0:11:08.052000	0:11:09.233000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:11:09.233000" end="0:11:10.500000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:09.233000" end="0:11:10.500000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:09.233000" end="0:11:11.776000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:09.233000" end="0:11:11.776000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	-	-	-	0:11:10.500000	0:11:11.776000
 ,	-	-	-	0:11:10.500000	0:11:11.776000
@@ -2688,7 +2688,7 @@ und	-	-	-	0:11:10.500000	0:11:11.776000
 sonst	-	-	-	0:11:10.500000	0:11:11.776000
 /.	-	-	-	0:11:10.500000	0:11:11.776000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:11:11.776000" end="0:11:17.318000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:11.776000" end="0:11:17.318000" age_lower="1" age_upper="999">
 also	-	-	-	0:11:11.776000	0:11:16.361000
 ihr	-	-	-	0:11:11.776000	0:11:16.361000
 *sprechts*	-	-	-	0:11:11.776000	0:11:16.361000
@@ -2706,7 +2706,7 @@ auf	-	-	-	0:11:11.776000	0:11:16.361000
 okay	-	-	-	0:11:16.361000	0:11:17.318000
 .	-	-	-	0:11:16.361000	0:11:17.318000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:16.361000" end="0:11:17.318000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:16.361000" end="0:11:17.318000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:16.361000	0:11:17.318000
 ,	-	-	-	0:11:16.361000	0:11:17.318000
 ja	-	-	-	0:11:16.361000	0:11:17.318000
@@ -2714,7 +2714,7 @@ ja	-	-	-	0:11:16.361000	0:11:17.318000
 genau	-	-	-	0:11:16.361000	0:11:17.318000
 .	-	-	-	0:11:16.361000	0:11:17.318000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:11:17.318000" end="0:11:20" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:17.318000" end="0:11:20" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:17.318000	0:11:20
 ,	-	-	-	0:11:17.318000	0:11:20
 okay	-	-	-	0:11:17.318000	0:11:20
@@ -2722,7 +2722,7 @@ okay	-	-	-	0:11:17.318000	0:11:20
 mhm	-	-	-	0:11:17.318000	0:11:20
 .	-	-	-	0:11:17.318000	0:11:20
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:17.318000" end="0:11:37.751000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:17.318000" end="0:11:37.751000" project="PP03" age_lower="18" age_upper="35">
 nämlich	-	-	-	0:11:17.318000	0:11:20
 auch	-	-	-	0:11:17.318000	0:11:20
 so	-	-	-	0:11:17.318000	0:11:20
@@ -2789,9 +2789,9 @@ wohl	-	-	-	0:11:36.552000	0:11:37.751000
 _sege_	-	-	-	0:11:36.552000	0:11:37.751000
 ."	-	-	-	0:11:36.552000	0:11:37.751000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:11:37.751000" end="0:11:40.198000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:37.751000" end="0:11:40.198000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:37.751000" end="0:11:40.198000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:37.751000" end="0:11:40.198000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:11:37.751000	0:11:40.198000
 das	-	-	-	0:11:37.751000	0:11:40.198000
 das	-	-	-	0:11:37.751000	0:11:40.198000
@@ -2802,11 +2802,11 @@ sie	-	-	-	0:11:37.751000	0:11:40.198000
 so	-	-	-	0:11:37.751000	0:11:40.198000
 ,	-	-	-	0:11:37.751000	0:11:40.198000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:11:40.198000" end="0:11:43.199000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:40.198000" end="0:11:43.199000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:40.198000	0:11:43.199000
 .	-	-	-	0:11:40.198000	0:11:43.199000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:40.198000" end="0:11:46.793000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:40.198000" end="0:11:46.793000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:11:40.198000	0:11:43.199000
 das	-	-	-	0:11:40.198000	0:11:43.199000
 ist	-	-	-	0:11:40.198000	0:11:43.199000
@@ -2829,17 +2829,17 @@ gern	-	-	-	0:11:43.199000	0:11:46.793000
 her	-	-	-	0:11:43.199000	0:11:46.793000
 .	-	-	-	0:11:43.199000	0:11:46.793000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:11:46.793000" end="0:11:47.648000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:46.793000" end="0:11:47.648000" age_lower="1" age_upper="999">
 hm	-	-	-	0:11:46.793000	0:11:47.648000
 .	-	-	-	0:11:46.793000	0:11:47.648000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:46.793000" end="0:11:48.095000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:46.793000" end="0:11:48.095000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:11:46.793000	0:11:47.648000
 .	-	-	-	0:11:46.793000	0:11:47.648000
 ja	-	-	-	0:11:47.648000	0:11:48.095000
 .	-	-	-	0:11:47.648000	0:11:48.095000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:11:48.095000" end="0:11:59.186000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:48.095000" end="0:11:59.186000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:11:48.095000	0:11:48.985000
 spannend	-	-	-	0:11:48.095000	0:11:48.985000
 .	-	-	-	0:11:48.095000	0:11:48.985000
@@ -2861,9 +2861,9 @@ die	-	-	-	0:11:54.838000	0:11:59.186000
 Sprache	-	-	-	0:11:54.838000	0:11:59.186000
 .	-	-	-	0:11:54.838000	0:11:59.186000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:54.838000" end="0:11:59.186000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:54.838000" end="0:11:59.186000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:11:59.186000" end="0:12:05.370000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:59.186000" end="0:12:05.370000" age_lower="1" age_upper="999">
 also	-	-	-	0:11:59.186000	0:12:02.868000
 in	-	-	-	0:11:59.186000	0:12:02.868000
 der	-	-	-	0:11:59.186000	0:12:02.868000
@@ -2887,11 +2887,11 @@ die	-	-	-	0:12:02.868000	0:12:05.370000
 Sprache	-	-	-	0:12:02.868000	0:12:05.370000
 ?	-	-	-	0:12:02.868000	0:12:05.370000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:02.868000" end="0:12:05.370000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:02.868000" end="0:12:05.370000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:12:02.868000	0:12:05.370000
 .	-	-	-	0:12:02.868000	0:12:05.370000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:12:05.370000" end="0:12:14.294000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:05.370000" end="0:12:14.294000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:12:05.370000	0:12:09.035000
 du	-	-	-	0:12:05.370000	0:12:09.035000
 jetzt	-	-	-	0:12:05.370000	0:12:09.035000
@@ -2915,9 +2915,9 @@ und	-	-	-	0:12:11.843000	0:12:14.294000
 privat	-	-	-	0:12:11.843000	0:12:14.294000
 ,	-	-	-	0:12:11.843000	0:12:14.294000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:11.843000" end="0:12:14.294000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:11.843000" end="0:12:14.294000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:12:14.294000" end="0:12:16.065000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:14.294000" end="0:12:16.065000" age_lower="1" age_upper="999">
 so	-	-	-	0:12:14.294000	0:12:16.065000
 wie	-	-	-	0:12:14.294000	0:12:16.065000
 so	-	-	-	0:12:14.294000	0:12:16.065000
@@ -2927,7 +2927,7 @@ Musiker	-	-	-	0:12:14.294000	0:12:16.065000
 kenne	-	-	-	0:12:14.294000	0:12:16.065000
 .	-	-	-	0:12:14.294000	0:12:16.065000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:14.294000" end="0:12:16.065000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:14.294000" end="0:12:16.065000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:14.294000	0:12:16.065000
 ,	-	-	-	0:12:14.294000	0:12:16.065000
 ja	-	-	-	0:12:14.294000	0:12:16.065000
@@ -2936,15 +2936,15 @@ ja	-	-	-	0:12:14.294000	0:12:16.065000
 ja	-	-	-	0:12:14.294000	0:12:16.065000
 .	-	-	-	0:12:14.294000	0:12:16.065000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:12:16.065000" end="0:12:17.207000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:16.065000" end="0:12:17.207000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:12:16.065000	0:12:17.207000
 ,	-	-	-	0:12:16.065000	0:12:17.207000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:16.065000" end="0:12:17.207000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:16.065000" end="0:12:17.207000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:16.065000	0:12:17.207000
 .	-	-	-	0:12:16.065000	0:12:17.207000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:12:17.207000" end="0:12:25.931000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:17.207000" end="0:12:25.931000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:12:17.207000	0:12:18.820000
 es	-	-	-	0:12:17.207000	0:12:18.820000
 da	-	-	-	0:12:17.207000	0:12:18.820000
@@ -2973,15 +2973,15 @@ gegeben	-	-	-	0:12:23.047000	0:12:25.931000
 hat	-	-	-	0:12:23.047000	0:12:25.931000
 ?	-	-	-	0:12:23.047000	0:12:25.931000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:23.047000" end="0:12:25.931000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:23.047000" end="0:12:25.931000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:12:23.047000	0:12:25.931000
 .	-	-	-	0:12:23.047000	0:12:25.931000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:12:25.931000" end="0:12:27.653000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:25.931000" end="0:12:27.653000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:25.931000" end="0:12:35.986000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:25.931000" end="0:12:35.986000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 mhm	-	-	-	0:12:27.653000	0:12:28.186000
 .	-	-	-	0:12:27.653000	0:12:28.186000
@@ -3005,7 +3005,7 @@ geht	-	-	-	0:12:34.282000	0:12:35.986000
 ja	-	-	-	0:12:34.282000	0:12:35.986000
 .	-	-	-	0:12:34.282000	0:12:35.986000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:12:35.986000" end="0:12:38.220000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:35.986000" end="0:12:38.220000" age_lower="1" age_upper="999">
 ich	-	-	-	0:12:35.986000	0:12:38.220000
 glaube	-	-	-	0:12:35.986000	0:12:38.220000
 ,	-	-	-	0:12:35.986000	0:12:38.220000
@@ -3020,7 +3020,7 @@ mit	-	-	-	0:12:35.986000	0:12:38.220000
 dem	-	-	-	0:12:35.986000	0:12:38.220000
 /.	-	-	-	0:12:35.986000	0:12:38.220000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:35.986000" end="0:12:40.638000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:35.986000" end="0:12:40.638000" project="PP03" age_lower="18" age_upper="35">
 d/	-	-	-	0:12:35.986000	0:12:38.220000
 d/	-	-	-	0:12:35.986000	0:12:38.220000
 d/	-	-	-	0:12:35.986000	0:12:38.220000
@@ -3039,11 +3039,11 @@ ich	-	-	-	0:12:38.220000	0:12:40.638000
 sagen	-	-	-	0:12:38.220000	0:12:40.638000
 ,	-	-	-	0:12:38.220000	0:12:40.638000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:12:40.638000" end="0:12:42.839000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:40.638000" end="0:12:42.839000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:40.638000	0:12:42.839000
 .	-	-	-	0:12:40.638000	0:12:42.839000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:40.638000" end="0:12:52.026000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:40.638000" end="0:12:52.026000" project="PP03" age_lower="18" age_upper="35">
 weil	-	-	-	0:12:40.638000	0:12:42.839000
 einfach	-	-	-	0:12:40.638000	0:12:42.839000
 sehr	-	-	-	0:12:40.638000	0:12:42.839000
@@ -3076,10 +3076,10 @@ zum	-	-	-	0:12:49.232000	0:12:52.026000
 Beispiel	-	-	-	0:12:49.232000	0:12:52.026000
 .	-	-	-	0:12:49.232000	0:12:52.026000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:12:52.026000" end="0:12:52.860000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:52.026000" end="0:12:52.860000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:52.026000" end="0:12:58.287000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:52.026000" end="0:12:58.287000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:12:52.860000	0:12:54.662000
 ,	-	-	-	0:12:52.860000	0:12:54.662000
@@ -3104,11 +3104,11 @@ einem	-	-	-	0:12:54.662000	0:12:58.287000
 neuem	-	-	-	0:12:54.662000	0:12:58.287000
 Ensemble	-	-	-	0:12:54.662000	0:12:58.287000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:12:58.287000" end="0:12:59.365000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:58.287000" end="0:12:59.365000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:58.287000	0:12:59.365000
 .	-	-	-	0:12:58.287000	0:12:59.365000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:58.287000" end="0:13:04.492000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:58.287000" end="0:13:04.492000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:12:58.287000	0:12:59.365000
 so	-	-	-	0:12:58.287000	0:12:59.365000
 ähm	-	-	-	0:12:59.365000	0:13:00.533000
@@ -3127,11 +3127,11 @@ heißt	-	-	-	0:13:03.212000	0:13:04.492000
 möglichst	-	-	-	0:13:03.212000	0:13:04.492000
 ,	-	-	-	0:13:03.212000	0:13:04.492000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:13:04.492000" end="0:13:07.586000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:04.492000" end="0:13:07.586000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:04.492000	0:13:07.586000
 .	-	-	-	0:13:04.492000	0:13:07.586000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:04.492000" end="0:13:15.808000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:04.492000" end="0:13:15.808000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:13:04.492000	0:13:07.586000
 einfach	-	-	-	0:13:04.492000	0:13:07.586000
 einen	-	-	-	0:13:04.492000	0:13:07.586000
@@ -3163,10 +3163,10 @@ plappern	-	-	-	0:13:12.013000	0:13:15.168000
 ähm	-	-	-	0:13:15.168000	0:13:15.808000
 ,	-	-	-	0:13:15.168000	0:13:15.808000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:13:15.808000" end="0:13:17.082000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:15.808000" end="0:13:17.082000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:15.808000" end="0:13:18.809000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:15.808000" end="0:13:18.809000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 das	-	-	-	0:13:17.082000	0:13:18.809000
 (Kommt/)	-	-	-	0:13:17.082000	0:13:18.809000
@@ -3176,11 +3176,11 @@ eben	-	-	-	0:13:17.082000	0:13:18.809000
 später	-	-	-	0:13:17.082000	0:13:18.809000
 ,	-	-	-	0:13:17.082000	0:13:18.809000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:13:18.809000" end="0:13:20.080000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:18.809000" end="0:13:20.080000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:18.809000	0:13:20.080000
 .	-	-	-	0:13:18.809000	0:13:20.080000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:18.809000" end="0:13:20.889000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:18.809000" end="0:13:20.889000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:13:18.809000	0:13:20.080000
 mich	-	-	-	0:13:18.809000	0:13:20.080000
 die	-	-	-	0:13:18.809000	0:13:20.080000
@@ -3192,11 +3192,11 @@ wenn	-	-	-	0:13:20.080000	0:13:20.889000
 so)	-	-	-	0:13:20.080000	0:13:20.889000
 /.	-	-	-	0:13:20.080000	0:13:20.889000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:13:20.889000" end="0:13:21.979000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:20.889000" end="0:13:21.979000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:13:20.889000	0:13:21.979000
 ,	-	-	-	0:13:20.889000	0:13:21.979000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:21.979000" end="0:13:28.298000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:21.979000" end="0:13:28.298000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:13:21.979000	0:13:23.910000
 die	-	-	-	0:13:21.979000	0:13:23.910000
 Pandemie	-	-	-	0:13:21.979000	0:13:23.910000
@@ -3211,11 +3211,11 @@ Beginn	-	-	-	0:13:25.038000	0:13:28.298000
 war	-	-	-	0:13:25.038000	0:13:28.298000
 ja	-	-	-	0:13:25.038000	0:13:28.298000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:13:28.298000" end="0:13:32.084000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:28.298000" end="0:13:32.084000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:28.298000	0:13:32.084000
 .	-	-	-	0:13:28.298000	0:13:32.084000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:28.298000" end="0:13:50.230000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:28.298000" end="0:13:50.230000" project="PP03" age_lower="18" age_upper="35">
 bei	-	-	-	0:13:28.298000	0:13:32.084000
 uns	-	-	-	0:13:28.298000	0:13:32.084000
 auf	-	-	-	0:13:28.298000	0:13:32.084000
@@ -3275,10 +3275,10 @@ mühsamen	-	-	-	0:13:44.477000	0:13:50.230000
 Onlinezeiten	-	-	-	0:13:44.477000	0:13:50.230000
 .	-	-	-	0:13:44.477000	0:13:50.230000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:13:50.230000" end="0:13:51.268000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:50.230000" end="0:13:51.268000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:50.230000" end="0:13:57.435000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:50.230000" end="0:13:57.435000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 und	-	-	-	0:13:51.268000	0:13:53.796000
 da	-	-	-	0:13:51.268000	0:13:53.796000
@@ -3301,11 +3301,11 @@ dann	-	-	-	0:13:55.874000	0:13:57.435000
 immer	-	-	-	0:13:55.874000	0:13:57.435000
 ,	-	-	-	0:13:55.874000	0:13:57.435000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:13:57.435000" end="0:13:59.607000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:57.435000" end="0:13:59.607000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:57.435000	0:13:59.607000
 .	-	-	-	0:13:57.435000	0:13:59.607000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:57.435000" end="0:14:06.097000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:57.435000" end="0:14:06.097000" project="PP03" age_lower="18" age_upper="35">
 finde	-	-	-	0:13:57.435000	0:13:59.607000
 ich	-	-	-	0:13:57.435000	0:13:59.607000
 ,	-	-	-	0:13:57.435000	0:13:59.607000
@@ -3352,11 +3352,11 @@ oder	-	-	-	0:14:04.294000	0:14:06.097000
 vier	-	-	-	0:14:04.294000	0:14:06.097000
 ,	-	-	-	0:14:04.294000	0:14:06.097000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:06.097000" end="0:14:11.778000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:06.097000" end="0:14:11.778000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:06.097000	0:14:11.778000
 .	-	-	-	0:14:06.097000	0:14:11.778000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:06.097000" end="0:14:11.778000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:06.097000" end="0:14:11.778000" project="PP03" age_lower="18" age_upper="35">
 vier	-	-	-	0:14:06.097000	0:14:11.778000
 WG	-	-	-	0:14:06.097000	0:14:11.778000
 gewohnt	-	-	-	0:14:06.097000	0:14:11.778000
@@ -3368,7 +3368,7 @@ anderen	-	-	-	0:14:06.097000	0:14:11.778000
 Kärntnerin	-	-	-	0:14:06.097000	0:14:11.778000
 .	-	-	-	0:14:06.097000	0:14:11.778000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:11.778000" end="0:14:15" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:11.778000" end="0:14:15" age_lower="1" age_upper="999">
 ah	-	-	-	0:14:11.778000	0:14:14.088000
 ja	-	-	-	0:14:11.778000	0:14:14.088000
 ,	-	-	-	0:14:11.778000	0:14:14.088000
@@ -3386,17 +3386,17 @@ kenne	-	-	-	0:14:14.088000	0:14:15
 ich	-	-	-	0:14:14.088000	0:14:15
 .	-	-	-	0:14:14.088000	0:14:15
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:14.088000" end="0:14:15" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:14.088000" end="0:14:15" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:14.088000	0:14:15
 ,	-	-	-	0:14:14.088000	0:14:15
 ja	-	-	-	0:14:14.088000	0:14:15
 .	-	-	-	0:14:14.088000	0:14:15
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:15" end="0:14:15.777000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:15" end="0:14:15.777000" age_lower="1" age_upper="999">
 diese	-	-	-	0:14:15	0:14:15.777000
 /.	-	-	-	0:14:15	0:14:15.777000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:15" end="0:14:20.169000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:15" end="0:14:20.169000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:15	0:14:15.777000
 .	-	-	-	0:14:15	0:14:15.777000
 das	-	-	-	0:14:15.777000	0:14:20.169000
@@ -3414,12 +3414,12 @@ da	-	-	-	0:14:15.777000	0:14:20.169000
 ja	-	-	-	0:14:15.777000	0:14:20.169000
 .	-	-	-	0:14:15.777000	0:14:20.169000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:20.169000" end="0:14:21.600000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:20.169000" end="0:14:21.600000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:14:20.169000	0:14:21.600000
 .	-	-	-	0:14:20.169000	0:14:21.600000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:21.600000" end="0:14:28.687000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:21.600000" end="0:14:28.687000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:14:21.600000	0:14:26.485000
 das	-	-	-	0:14:21.600000	0:14:26.485000
 war	-	-	-	0:14:21.600000	0:14:26.485000
@@ -3441,11 +3441,11 @@ trotzdem	-	-	-	0:14:26.485000	0:14:28.687000
 versuchen	-	-	-	0:14:26.485000	0:14:28.687000
 ,	-	-	-	0:14:26.485000	0:14:28.687000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:28.687000" end="0:14:31.198000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:28.687000" end="0:14:31.198000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:28.687000	0:14:31.198000
 .	-	-	-	0:14:28.687000	0:14:31.198000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:28.687000" end="0:14:33.466000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:28.687000" end="0:14:33.466000" project="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:14:28.687000	0:14:31.198000
 dieses	-	-	-	0:14:28.687000	0:14:31.198000
 professionelle	-	-	-	0:14:28.687000	0:14:31.198000
@@ -3460,11 +3460,11 @@ funktioniert	-	-	-	0:14:31.198000	0:14:33.466000
 dann	-	-	-	0:14:31.198000	0:14:33.466000
 kurz	-	-	-	0:14:31.198000	0:14:33.466000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:33.466000" end="0:14:34.040000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:33.466000" end="0:14:34.040000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:33.466000	0:14:34.040000
 .	-	-	-	0:14:33.466000	0:14:34.040000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:34.040000" end="0:14:45.971000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:34.040000" end="0:14:45.971000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:14:34.040000	0:14:36.110000
 dann	-	-	-	0:14:34.040000	0:14:36.110000
 wieder	-	-	-	0:14:34.040000	0:14:36.110000
@@ -3501,7 +3501,7 @@ immer	-	-	-	0:14:44.836000	0:14:45.971000
 sind	-	-	-	0:14:44.836000	0:14:45.971000
 .	-	-	-	0:14:44.836000	0:14:45.971000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:45.971000" end="0:14:47.592000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:45.971000" end="0:14:47.592000" age_lower="1" age_upper="999">
 ja	-	-	-	0:14:45.971000	0:14:46.762000
 ,	-	-	-	0:14:45.971000	0:14:46.762000
 stimmt	-	-	-	0:14:45.971000	0:14:46.762000
@@ -3512,11 +3512,11 @@ man	-	-	-	0:14:46.762000	0:14:47.592000
 immer	-	-	-	0:14:46.762000	0:14:47.592000
 ,	-	-	-	0:14:46.762000	0:14:47.592000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:46.762000" end="0:14:47.592000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:46.762000" end="0:14:47.592000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:46.762000	0:14:47.592000
 .	-	-	-	0:14:46.762000	0:14:47.592000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:47.592000" end="0:14:48.845000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:47.592000" end="0:14:48.845000" age_lower="1" age_upper="999">
 dass	-	-	-	0:14:47.592000	0:14:48.845000
 es	-	-	-	0:14:47.592000	0:14:48.845000
 ,	-	-	-	0:14:47.592000	0:14:48.845000
@@ -3524,38 +3524,38 @@ also	-	-	-	0:14:47.592000	0:14:48.845000
 i/	-	-	-	0:14:47.592000	0:14:48.845000
 /.	-	-	-	0:14:47.592000	0:14:48.845000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:47.592000" end="0:14:48.845000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:47.592000" end="0:14:48.845000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:14:47.592000	0:14:48.845000
 .	-	-	-	0:14:47.592000	0:14:48.845000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:48.845000" end="0:14:50.289000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:48.845000" end="0:14:50.289000" age_lower="1" age_upper="999">
 hm	-	-	-	0:14:48.845000	0:14:49.220000
 .	-	-	-	0:14:48.845000	0:14:49.220000
 frisch	-	-	-	0:14:49.220000	0:14:50.289000
 genesen	-	-	-	0:14:49.220000	0:14:50.289000
 .	-	-	-	0:14:49.220000	0:14:50.289000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:49.220000" end="0:14:50.289000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:49.220000" end="0:14:50.289000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:14:49.220000	0:14:50.289000
 .	-	-	-	0:14:49.220000	0:14:50.289000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:50.289000" end="0:14:51.506000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:50.289000" end="0:14:51.506000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:50.289000" end="0:14:51.506000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:50.289000" end="0:14:51.506000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:50.289000	0:14:51.506000
 .	-	-	-	0:14:50.289000	0:14:51.506000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:51.506000" end="0:14:55.429000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:51.506000" end="0:14:55.429000" age_lower="1" age_upper="999">
 okay	-	-	-	0:14:51.506000	0:14:52.147000
 .	-	-	-	0:14:51.506000	0:14:52.147000
 ähm	-	-	-	0:14:52.147000	0:14:53.456000
 ,	-	-	-	0:14:52.147000	0:14:53.456000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:53.456000" end="0:14:55.429000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:53.456000" end="0:14:55.429000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:14:55.429000" end="0:15:04.174000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:55.429000" end="0:15:04.174000" age_lower="1" age_upper="999">
 und	-	-	-	0:14:55.429000	0:14:58.786000
 anknüpfend	-	-	-	0:14:55.429000	0:14:58.786000
 an	-	-	-	0:14:55.429000	0:14:58.786000
@@ -3580,7 +3580,7 @@ dir	-	-	-	0:15:01.331000	0:15:02.921000
 ?	-	-	-	0:15:01.331000	0:15:02.921000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:02.921000" end="0:15:07.894000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:02.921000" end="0:15:07.894000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 hm	-	-	-	0:15:04.174000	0:15:04.808000
 ,	-	-	-	0:15:04.174000	0:15:04.808000
@@ -3590,19 +3590,19 @@ Medienkonsum	-	-	-	0:15:04.808000	0:15:07.093000
 .	-	-	-	0:15:04.808000	0:15:07.093000
 also	-	-	-	0:15:07.093000	0:15:07.894000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:15:07.894000" end="0:15:10.114000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:07.894000" end="0:15:10.114000" age_lower="1" age_upper="999">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:07.894000" end="0:15:10.114000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:07.894000" end="0:15:10.114000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:15:10.114000" end="0:15:13.225000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:10.114000" end="0:15:13.225000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:10.114000	0:15:13.225000
 ,	-	-	-	0:15:10.114000	0:15:13.225000
 okay	-	-	-	0:15:10.114000	0:15:13.225000
 .	-	-	-	0:15:10.114000	0:15:13.225000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:10.114000" end="0:15:24.775000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:10.114000" end="0:15:24.775000" project="PP03" age_lower="18" age_upper="35">
 es	-	-	-	0:15:10.114000	0:15:13.225000
 gibt	-	-	-	0:15:10.114000	0:15:13.225000
 nach	-	-	-	0:15:10.114000	0:15:13.225000
@@ -3657,11 +3657,11 @@ ja	-	-	-	0:15:21.399000	0:15:24.775000
 wirklich	-	-	-	0:15:21.399000	0:15:24.775000
 ,	-	-	-	0:15:21.399000	0:15:24.775000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:15:24.775000" end="0:15:26.973000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:24.775000" end="0:15:26.973000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:24.775000	0:15:26.973000
 .	-	-	-	0:15:24.775000	0:15:26.973000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:24.775000" end="0:15:29.197000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:24.775000" end="0:15:29.197000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:15:24.775000	0:15:26.973000
 man	-	-	-	0:15:24.775000	0:15:26.973000
 Musikbeispiele	-	-	-	0:15:24.775000	0:15:26.973000
@@ -3675,11 +3675,11 @@ will	-	-	-	0:15:24.775000	0:15:26.973000
 unpassend	-	-	-	0:15:26.973000	0:15:29.197000
 ,	-	-	-	0:15:26.973000	0:15:29.197000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:15:29.197000" end="0:15:31.902000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:29.197000" end="0:15:31.902000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:29.197000	0:15:31.902000
 .	-	-	-	0:15:29.197000	0:15:31.902000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:29.197000" end="0:15:35.045000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:29.197000" end="0:15:35.045000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:15:29.197000	0:15:31.902000
 dann	-	-	-	0:15:29.197000	0:15:31.902000
 Shampoowerbung	-	-	-	0:15:29.197000	0:15:31.902000
@@ -3703,11 +3703,11 @@ haben	-	-	-	0:15:32.360000	0:15:35.045000
 will	-	-	-	0:15:32.360000	0:15:35.045000
 .	-	-	-	0:15:32.360000	0:15:35.045000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:15:35.045000" end="0:15:38.098000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:35.045000" end="0:15:38.098000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:35.045000	0:15:38.098000
 .	-	-	-	0:15:35.045000	0:15:38.098000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:35.045000" end="0:15:43.939000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:35.045000" end="0:15:43.939000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:15:35.045000	0:15:38.098000
 zahlt	-	-	-	0:15:35.045000	0:15:38.098000
 das	-	-	-	0:15:35.045000	0:15:38.098000
@@ -3737,11 +3737,11 @@ englischen	-	-	-	0:15:38.098000	0:15:43.939000
 Content	-	-	-	0:15:38.098000	0:15:43.939000
 ,	-	-	-	0:15:38.098000	0:15:43.939000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:15:43.939000" end="0:15:44.957000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:43.939000" end="0:15:44.957000" age_lower="1" age_upper="999">
 aha	-	-	-	0:15:43.939000	0:15:44.957000
 .	-	-	-	0:15:43.939000	0:15:44.957000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:43.939000" end="0:15:57.781000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:43.939000" end="0:15:57.781000" project="PP03" age_lower="18" age_upper="35">
 muss	-	-	-	0:15:43.939000	0:15:44.957000
 man	-	-	-	0:15:43.939000	0:15:44.957000
 ja	-	-	-	0:15:43.939000	0:15:44.957000
@@ -3781,11 +3781,11 @@ glaube	-	-	-	0:15:56.520000	0:15:57.781000
 ich	-	-	-	0:15:56.520000	0:15:57.781000
 .	-	-	-	0:15:56.520000	0:15:57.781000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:15:57.781000" end="0:15:59.034000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:57.781000" end="0:15:59.034000" age_lower="1" age_upper="999">
 ui	-	-	-	0:15:57.781000	0:15:59.034000
 .	-	-	-	0:15:57.781000	0:15:59.034000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:57.781000" end="0:16:08.722000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:57.781000" end="0:16:08.722000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:15:57.781000	0:15:59.034000
 ,	-	-	-	0:15:57.781000	0:15:59.034000
 also	-	-	-	0:15:57.781000	0:15:59.034000
@@ -3818,11 +3818,11 @@ ja	-	-	-	0:16:01.915000	0:16:08.722000
 aufbereitet	-	-	-	0:16:01.915000	0:16:08.722000
 .	-	-	-	0:16:01.915000	0:16:08.722000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:16:08.722000" end="0:16:10.070000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:08.722000" end="0:16:10.070000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:08.722000	0:16:10.070000
 .	-	-	-	0:16:08.722000	0:16:10.070000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:08.722000" end="0:16:16.682000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:08.722000" end="0:16:16.682000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:16:08.722000	0:16:10.070000
 das	-	-	-	0:16:08.722000	0:16:10.070000
 ist	-	-	-	0:16:08.722000	0:16:10.070000
@@ -3858,11 +3858,11 @@ ich	-	-	-	0:16:13.565000	0:16:16.682000
 konsumiere	-	-	-	0:16:13.565000	0:16:16.682000
 ,	-	-	-	0:16:13.565000	0:16:16.682000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:16:16.683000" end="0:16:19.318000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:16.683000" end="0:16:19.318000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:16.683000	0:16:19.318000
 .	-	-	-	0:16:16.683000	0:16:19.318000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:16.683000" end="0:16:42.185000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:16.683000" end="0:16:42.185000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:16:16.683000	0:16:19.318000
 halt	-	-	-	0:16:16.683000	0:16:19.318000
 doch	-	-	-	0:16:16.683000	0:16:19.318000
@@ -3950,11 +3950,11 @@ wohl	-	-	-	0:16:40.679000	0:16:42.185000
 oder	-	-	-	0:16:40.679000	0:16:42.185000
 übel	-	-	-	0:16:40.679000	0:16:42.185000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:16:42.185000" end="0:16:45.398000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:42.185000" end="0:16:45.398000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:42.185000	0:16:45.398000
 .	-	-	-	0:16:42.185000	0:16:45.398000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:42.185000" end="0:16:45.398000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:42.185000" end="0:16:45.398000" project="PP03" age_lower="18" age_upper="35">
 wir	-	-	-	0:16:42.185000	0:16:45.398000
 man	-	-	-	0:16:42.185000	0:16:45.398000
 wird	-	-	-	0:16:42.185000	0:16:45.398000
@@ -3966,18 +3966,18 @@ zur	-	-	-	0:16:42.185000	0:16:45.398000
 Sprache	-	-	-	0:16:42.185000	0:16:45.398000
 bekommen	-	-	-	0:16:42.185000	0:16:45.398000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:16:45.398000" end="0:16:47.029000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:45.398000" end="0:16:47.029000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:45.398000	0:16:47.029000
 .	-	-	-	0:16:45.398000	0:16:47.029000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:45.398000" end="0:16:47.029000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:45.398000" end="0:16:47.029000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:16:45.398000	0:16:47.029000
 auch	-	-	-	0:16:45.398000	0:16:47.029000
 zur	-	-	-	0:16:45.398000	0:16:47.029000
 Aussprache	-	-	-	0:16:45.398000	0:16:47.029000
 ,	-	-	-	0:16:45.398000	0:16:47.029000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:16:47.029000" end="0:16:49.237000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:47.029000" end="0:16:49.237000" age_lower="1" age_upper="999">
 vor	-	-	-	0:16:47.029000	0:16:49.237000
 allem	-	-	-	0:16:47.029000	0:16:49.237000
 ,	-	-	-	0:16:47.029000	0:16:49.237000
@@ -3986,7 +3986,7 @@ ja	-	-	-	0:16:47.029000	0:16:49.237000
 mhm	-	-	-	0:16:47.029000	0:16:49.237000
 .	-	-	-	0:16:47.029000	0:16:49.237000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:47.029000" end="0:16:56.270000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:47.029000" end="0:16:56.270000" project="PP03" age_lower="18" age_upper="35">
 als	-	-	-	0:16:47.029000	0:16:49.237000
 ,	-	-	-	0:16:47.029000	0:16:49.237000
 ja	-	-	-	0:16:47.029000	0:16:49.237000
@@ -4012,7 +4012,7 @@ ja	-	-	-	0:16:49.237000	0:16:55.350000
 also	-	-	-	0:16:55.350000	0:16:56.270000
 /.	-	-	-	0:16:55.350000	0:16:56.270000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:16:56.270000" end="0:17:07.335000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:56.270000" end="0:17:07.335000" age_lower="1" age_upper="999">
 aber	-	-	-	0:16:56.270000	0:16:57.159000
 würdest	-	-	-	0:16:56.270000	0:16:57.159000
 du	-	-	-	0:16:56.270000	0:16:57.159000
@@ -4043,10 +4043,10 @@ Sprachgebrauch	-	-	-	0:17:03.423000	0:17:05.762000
 ?	-	-	-	0:17:03.423000	0:17:05.762000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:05.762000" end="0:17:07.335000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:05.762000" end="0:17:07.335000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:07.335000" end="0:17:10.146000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:07.335000" end="0:17:10.146000" age_lower="1" age_upper="999">
 bewusst	-	-	-	0:17:07.335000	0:17:10.146000
 wahrscheinlich	-	-	-	0:17:07.335000	0:17:10.146000
 schwer	-	-	-	0:17:07.335000	0:17:10.146000
@@ -4054,7 +4054,7 @@ zu	-	-	-	0:17:07.335000	0:17:10.146000
 beurteilen	-	-	-	0:17:07.335000	0:17:10.146000
 .	-	-	-	0:17:07.335000	0:17:10.146000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:07.335000" end="0:17:14.442000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:07.335000" end="0:17:14.442000" project="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:17:07.335000	0:17:10.146000
 ,	-	-	-	0:17:07.335000	0:17:10.146000
 wenn	-	-	-	0:17:07.335000	0:17:10.146000
@@ -4079,11 +4079,11 @@ das	-	-	-	0:17:10.146000	0:17:12.896000
 eben	-	-	-	0:17:12.896000	0:17:14.442000
 dieses	-	-	-	0:17:12.896000	0:17:14.442000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:14.442000" end="0:17:19.477000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:14.442000" end="0:17:19.477000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:14.442000	0:17:19.477000
 .	-	-	-	0:17:14.442000	0:17:19.477000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:14.442000" end="0:17:22.104000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:14.442000" end="0:17:22.104000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:17:14.442000	0:17:19.477000
 Professionelle	-	-	-	0:17:14.442000	0:17:19.477000
@@ -4112,11 +4112,11 @@ Grad	-	-	-	0:17:20.406000	0:17:22.104000
 ,	-	-	-	0:17:20.406000	0:17:22.104000
 also	-	-	-	0:17:20.406000	0:17:22.104000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:22.104000" end="0:17:24.565000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:22.104000" end="0:17:24.565000" age_lower="1" age_upper="999">
 ja	-	-	-	0:17:22.104000	0:17:24.565000
 .	-	-	-	0:17:22.104000	0:17:24.565000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:22.104000" end="0:17:28.590000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:22.104000" end="0:17:28.590000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 also	-	-	-	0:17:22.104000	0:17:24.565000
 es	-	-	-	0:17:22.104000	0:17:24.565000
@@ -4142,11 +4142,11 @@ nicht	-	-	-	0:17:26.746000	0:17:28.590000
 genuin	-	-	-	0:17:26.746000	0:17:28.590000
 ,	-	-	-	0:17:26.746000	0:17:28.590000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:28.590000" end="0:17:28.861000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:28.590000" end="0:17:28.861000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:28.590000	0:17:28.861000
 .	-	-	-	0:17:28.590000	0:17:28.861000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:28.861000" end="0:17:32.094000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:28.861000" end="0:17:32.094000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:17:28.861000	0:17:30.138000
 machen	-	-	-	0:17:28.861000	0:17:30.138000
 wir	-	-	-	0:17:28.861000	0:17:30.138000
@@ -4163,16 +4163,16 @@ strange	-	-	-	0:17:30.138000	0:17:32.094000
 ja	-	-	-	0:17:30.138000	0:17:32.094000
 .	-	-	-	0:17:30.138000	0:17:32.094000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:32.094000" end="0:17:32.751000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:32.094000" end="0:17:32.751000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:32.751000" end="0:17:33.338000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:32.751000" end="0:17:33.338000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:17:32.751000	0:17:33.338000
 .	-	-	-	0:17:32.751000	0:17:33.338000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:33.338000" end="0:17:35.472000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:33.338000" end="0:17:35.472000" age_lower="1" age_upper="999">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:33.338000" end="0:17:38.203000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:33.338000" end="0:17:38.203000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 also	-	-	-	0:17:35.472000	0:17:38.203000
 schon	-	-	-	0:17:35.472000	0:17:38.203000
@@ -4186,21 +4186,21 @@ Grad	-	-	-	0:17:35.472000	0:17:38.203000
 ja	-	-	-	0:17:35.472000	0:17:38.203000
 .	-	-	-	0:17:35.472000	0:17:38.203000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:38.203000" end="0:17:39.158000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:38.203000" end="0:17:39.158000" age_lower="1" age_upper="999">
 okay	-	-	-	0:17:38.203000	0:17:39.158000
 .	-	-	-	0:17:38.203000	0:17:39.158000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:39.158000" end="0:17:39.526000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:39.158000" end="0:17:39.526000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:39.158000	0:17:39.526000
 .	-	-	-	0:17:39.158000	0:17:39.526000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:39.526000" end="0:17:40.722000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:39.526000" end="0:17:40.722000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:39.526000" end="0:17:40.722000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:39.526000" end="0:17:40.722000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:40.722000" end="0:17:45.801000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:40.722000" end="0:17:45.801000" age_lower="1" age_upper="999">
 und	-	-	-	0:17:40.722000	0:17:41.528000
 du	-	-	-	0:17:40.722000	0:17:41.528000
 hast	-	-	-	0:17:40.722000	0:17:41.528000
@@ -4227,11 +4227,11 @@ oder	-	-	-	0:17:41.528000	0:17:45.801000
 Nachrichten"	-	-	-	0:17:41.528000	0:17:45.801000
 ,	-	-	-	0:17:41.528000	0:17:45.801000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:41.528000" end="0:17:45.801000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:41.528000" end="0:17:45.801000" project="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:41.528000	0:17:45.801000
 .	-	-	-	0:17:41.528000	0:17:45.801000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:45.801000" end="0:17:48.813000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:45.801000" end="0:17:48.813000" age_lower="1" age_upper="999">
 das	-	-	-	0:17:45.801000	0:17:48.813000
 kommt	-	-	-	0:17:45.801000	0:17:48.813000
 dit	-	-	-	0:17:45.801000	0:17:48.813000
@@ -4245,11 +4245,11 @@ wo	-	-	-	0:17:45.801000	0:17:48.813000
 unter	-	-	-	0:17:45.801000	0:17:48.813000
 .	-	-	-	0:17:45.801000	0:17:48.813000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:48.813000" end="0:17:49.333000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:48.813000" end="0:17:49.333000" project="PP03" age_lower="18" age_upper="35">
 voll	-	-	-	0:17:48.813000	0:17:49.333000
 .	-	-	-	0:17:48.813000	0:17:49.333000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:17:49.333000" end="0:18:05.486000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:49.333000" end="0:18:05.486000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:17:49.333000	0:17:49.980000
 ,	-	-	-	0:17:49.333000	0:17:49.980000
 würdest	-	-	-	0:17:49.980000	0:17:55.933000
@@ -4291,7 +4291,7 @@ Sender	-	-	-	0:18:02.868000	0:18:04.338000
 ?	-	-	-	0:18:02.868000	0:18:04.338000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:04.338000" end="0:18:07.565000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:04.338000" end="0:18:07.565000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 nein	-	-	-	0:18:05.486000	0:18:07.565000
 ,	-	-	-	0:18:05.486000	0:18:07.565000
@@ -4303,12 +4303,12 @@ hat	-	-	-	0:18:05.486000	0:18:07.565000
 ,	-	-	-	0:18:05.486000	0:18:07.565000
 ist	-	-	-	0:18:05.486000	0:18:07.565000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:07.565000" end="0:18:09.128000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:07.565000" end="0:18:09.128000" age_lower="1" age_upper="999">
 oder	-	-	-	0:18:07.565000	0:18:09.128000
 Auffälligkeiten	-	-	-	0:18:07.565000	0:18:09.128000
 .	-	-	-	0:18:07.565000	0:18:09.128000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:07.565000" end="0:18:14.037000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:07.565000" end="0:18:14.037000" project="PP03" age_lower="18" age_upper="35">
 schwer	-	-	-	0:18:07.565000	0:18:09.128000
 zu	-	-	-	0:18:07.565000	0:18:09.128000
 sagen	-	-	-	0:18:07.565000	0:18:09.128000
@@ -4327,11 +4327,11 @@ etwas	-	-	-	0:18:10.206000	0:18:14.037000
 benennen	-	-	-	0:18:10.206000	0:18:14.037000
 ,	-	-	-	0:18:10.206000	0:18:14.037000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:14.037000" end="0:18:15.171000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:14.037000" end="0:18:15.171000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:14.037000	0:18:15.171000
 .	-	-	-	0:18:14.037000	0:18:15.171000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:14.037000" end="0:18:17.208000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:14.037000" end="0:18:17.208000" project="PP03" age_lower="18" age_upper="35">
 etwas	-	-	-	0:18:14.037000	0:18:15.171000
 konkret	-	-	-	0:18:14.037000	0:18:15.171000
 benennen	-	-	-	0:18:14.037000	0:18:15.171000
@@ -4345,17 +4345,17 @@ fürchte	-	-	-	0:18:16.314000	0:18:17.208000
 ich	-	-	-	0:18:16.314000	0:18:17.208000
 .	-	-	-	0:18:16.314000	0:18:17.208000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:17.208000" end="0:18:20.656000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:17.208000" end="0:18:20.656000" age_lower="1" age_upper="999">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:17.208000" end="0:18:20.656000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:17.208000" end="0:18:20.656000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:20.656000" end="0:18:25.726000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:20.656000" end="0:18:25.726000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:20.656000	0:18:25.726000
 .	-	-	-	0:18:20.656000	0:18:25.726000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:20.656000" end="0:18:26.244000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:20.656000" end="0:18:26.244000" project="PP03" age_lower="18" age_upper="35">
 am	-	-	-	0:18:20.656000	0:18:25.726000
 ehesten	-	-	-	0:18:20.656000	0:18:25.726000
 fallen	-	-	-	0:18:20.656000	0:18:25.726000
@@ -4371,13 +4371,13 @@ auf	-	-	-	0:18:20.656000	0:18:25.726000
 die	-	-	-	0:18:25.726000	0:18:26.244000
 man	-	-	-	0:18:25.726000	0:18:26.244000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:26.244000" end="0:18:32.849000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:26.244000" end="0:18:32.849000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:26.244000	0:18:32.849000
 ,	-	-	-	0:18:26.244000	0:18:32.849000
 ja	-	-	-	0:18:26.244000	0:18:32.849000
 .	-	-	-	0:18:26.244000	0:18:32.849000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:26.244000" end="0:18:32.849000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:26.244000" end="0:18:32.849000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:18:26.244000	0:18:32.849000
 eben	-	-	-	0:18:26.244000	0:18:32.849000
 im	-	-	-	0:18:26.244000	0:18:32.849000
@@ -4391,11 +4391,11 @@ Gesangsstudium	-	-	-	0:18:26.244000	0:18:32.849000
 insgesamt	-	-	-	0:18:26.244000	0:18:32.849000
 ,	-	-	-	0:18:26.244000	0:18:32.849000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:32.849000" end="0:18:35.209000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:32.849000" end="0:18:35.209000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:32.849000	0:18:35.209000
 .	-	-	-	0:18:32.849000	0:18:35.209000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:32.849000" end="0:18:37.591000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:32.849000" end="0:18:37.591000" project="PP03" age_lower="18" age_upper="35">
 mit/	-	-	-	0:18:32.849000	0:18:35.209000
 wo	-	-	-	0:18:32.849000	0:18:35.209000
 es	-	-	-	0:18:32.849000	0:18:35.209000
@@ -4416,20 +4416,20 @@ wird	-	-	-	0:18:35.209000	0:18:37.591000
 darauf	-	-	-	0:18:35.209000	0:18:37.591000
 .	-	-	-	0:18:35.209000	0:18:37.591000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:37.591000" end="0:18:40.511000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:37.591000" end="0:18:40.511000" age_lower="1" age_upper="999">
 <pause duration="0,4s"/>
 okay	-	-	-	0:18:37.591000	0:18:38.551000
 .	-	-	-	0:18:37.591000	0:18:38.551000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:38.551000" end="0:18:40.511000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:38.551000" end="0:18:40.511000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:40.511000" end="0:18:43.006000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:40.511000" end="0:18:43.006000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:40.511000	0:18:43.006000
 .	-	-	-	0:18:40.511000	0:18:43.006000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:40.511000" end="0:18:43.006000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:40.511000" end="0:18:43.006000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:18:40.511000	0:18:43.006000
 so	-	-	-	0:18:40.511000	0:18:43.006000
 ,	-	-	-	0:18:40.511000	0:18:43.006000
@@ -4439,21 +4439,21 @@ etwas	-	-	-	0:18:40.511000	0:18:43.006000
 Konkretes	-	-	-	0:18:40.511000	0:18:43.006000
 .	-	-	-	0:18:40.511000	0:18:43.006000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:43.006000" end="0:18:43.529000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:43.006000" end="0:18:43.529000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:43.006000	0:18:43.529000
 .	-	-	-	0:18:43.006000	0:18:43.529000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:43.006000" end="0:18:43.529000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:43.006000" end="0:18:43.529000" project="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:18:43.006000	0:18:43.529000
 .	-	-	-	0:18:43.006000	0:18:43.529000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:43.529000" end="0:18:44.479000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:43.529000" end="0:18:44.479000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:43.529000" end="0:18:44.479000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:43.529000" end="0:18:44.479000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:44.479000" end="0:18:59.260000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:44.479000" end="0:18:59.260000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:18:44.479000	0:18:48.713000
 und	-	-	-	0:18:44.479000	0:18:48.713000
 dann	-	-	-	0:18:44.479000	0:18:48.713000
@@ -4497,10 +4497,10 @@ verändert	-	-	-	0:18:55.547000	0:18:56.850000
 ähm	-	-	-	0:18:56.850000	0:18:58.367000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:58.367000" end="0:18:59.260000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:58.367000" end="0:18:59.260000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:18:59.260000" end="0:19:05.101000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:59.260000" end="0:19:05.101000" age_lower="1" age_upper="999">
 beziehungsweise	-	-	-	0:18:59.260000	0:19:03.993000
 an	-	-	-	0:18:59.260000	0:19:03.993000
 der	-	-	-	0:18:59.260000	0:19:03.993000
@@ -4514,12 +4514,12 @@ Bewohner	-	-	-	0:18:59.260000	0:19:03.993000
 <pause duration="0,5s"/>
 am	-	-	-	0:19:03.993000	0:19:05.101000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:03.993000" end="0:19:05.101000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:03.993000" end="0:19:05.101000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 hm	-	-	-	0:19:03.993000	0:19:05.101000
 .	-	-	-	0:19:03.993000	0:19:05.101000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:05.101000" end="0:19:15.730000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:05.101000" end="0:19:15.730000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 Dialekt	-	-	-	0:19:05.101000	0:19:07.616000
 in	-	-	-	0:19:05.101000	0:19:07.616000
@@ -4554,7 +4554,7 @@ hast	-	-	-	0:19:11.344000	0:19:12.740000
 ?	-	-	-	0:19:11.344000	0:19:12.740000
 <pause duration="3,0s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:12.740000" end="0:19:18.792000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:12.740000" end="0:19:18.792000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 also	-	-	-	0:19:15.730000	0:19:16.255000
 Distanz	-	-	-	0:19:16.255000	0:19:18.792000
@@ -4562,11 +4562,11 @@ Distanz	-	-	-	0:19:16.255000	0:19:18.792000
 ja	-	-	-	0:19:16.255000	0:19:18.792000
 ,	-	-	-	0:19:16.255000	0:19:18.792000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:18.792000" end="0:19:21.560000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:18.792000" end="0:19:21.560000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:18.792000	0:19:21.560000
 .	-	-	-	0:19:18.792000	0:19:21.560000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:18.792000" end="0:19:23.614000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:18.792000" end="0:19:23.614000" project="PP03" age_lower="18" age_upper="35">
 der/	-	-	-	0:19:18.792000	0:19:21.560000
 dieser	-	-	-	0:19:18.792000	0:19:21.560000
 auch	-	-	-	0:19:18.792000	0:19:21.560000
@@ -4578,11 +4578,11 @@ tatsächlich	-	-	-	0:19:21.560000	0:19:23.614000
 sehr	-	-	-	0:19:21.560000	0:19:23.614000
 wenig	-	-	-	0:19:21.560000	0:19:23.614000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:23.614000" end="0:19:25.475000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:23.614000" end="0:19:25.475000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:23.614000	0:19:25.475000
 .	-	-	-	0:19:23.614000	0:19:25.475000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:23.614000" end="0:19:26.302000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:23.614000" end="0:19:26.302000" project="PP03" age_lower="18" age_upper="35">
 zuhause	-	-	-	0:19:23.614000	0:19:25.475000
 in	-	-	-	0:19:23.614000	0:19:25.475000
 Weißbriach	-	-	-	0:19:23.614000	0:19:25.475000
@@ -4590,17 +4590,17 @@ Weißbriach	-	-	-	0:19:23.614000	0:19:25.475000
 ähm	-	-	-	0:19:25.475000	0:19:26.302000
 ,	-	-	-	0:19:25.475000	0:19:26.302000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:26.302000" end="0:19:28.538000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:26.302000" end="0:19:28.538000" age_lower="1" age_upper="999">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:26.302000" end="0:19:28.538000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:26.302000" end="0:19:28.538000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:28.538000" end="0:19:30.230000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:28.538000" end="0:19:30.230000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:28.538000	0:19:30.230000
 .	-	-	-	0:19:28.538000	0:19:30.230000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:28.538000" end="0:19:32.440000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:28.538000" end="0:19:32.440000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:19:28.538000	0:19:30.230000
 merke	-	-	-	0:19:28.538000	0:19:30.230000
 es	-	-	-	0:19:28.538000	0:19:30.230000
@@ -4616,19 +4616,19 @@ das	-	-	-	0:19:30.230000	0:19:32.440000
 also	-	-	-	0:19:30.230000	0:19:32.440000
 die	-	-	-	0:19:30.230000	0:19:32.440000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:32.440000" end="0:19:35.847000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:32.440000" end="0:19:35.847000" age_lower="1" age_upper="999">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:32.440000" end="0:19:35.847000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:32.440000" end="0:19:35.847000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:35.847000" end="0:19:39.077000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:35.847000" end="0:19:39.077000" age_lower="1" age_upper="999">
 er	-	-	-	0:19:35.847000	0:19:39.077000
 ist	-	-	-	0:19:35.847000	0:19:39.077000
 SONSTIGE	SONSTIGE	-	-	0:19:35.847000	0:19:39.077000
 ?	-	-	-	0:19:35.847000	0:19:39.077000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:35.847000" end="0:19:39.077000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:35.847000" end="0:19:39.077000" project="PP03" age_lower="18" age_upper="35">
 sein	-	-	-	0:19:35.847000	0:19:39.077000
 Arbeitsstätte	-	-	-	0:19:35.847000	0:19:39.077000
 ist	-	-	-	0:19:35.847000	0:19:39.077000
@@ -4639,12 +4639,12 @@ in	-	-	-	0:19:35.847000	0:19:39.077000
 Weißbriach	-	-	-	0:19:35.847000	0:19:39.077000
 .	-	-	-	0:19:35.847000	0:19:39.077000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:39.077000" end="0:19:41.968000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:39.077000" end="0:19:41.968000" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:19:39.077000	0:19:41.968000
 mhm	-	-	-	0:19:39.077000	0:19:41.968000
 .	-	-	-	0:19:39.077000	0:19:41.968000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:39.077000" end="0:19:41.968000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:39.077000" end="0:19:41.968000" project="PP03" age_lower="18" age_upper="35">
 genau	-	-	-	0:19:39.077000	0:19:41.968000
 ,	-	-	-	0:19:39.077000	0:19:41.968000
 genau	-	-	-	0:19:39.077000	0:19:41.968000
@@ -4657,13 +4657,13 @@ theoretisch	-	-	-	0:19:39.077000	0:19:41.968000
 Deutsch	-	-	-	0:19:39.077000	0:19:41.968000
 ,	-	-	-	0:19:39.077000	0:19:41.968000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:41.968000" end="0:19:45.650000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:41.968000" end="0:19:45.650000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:41.968000	0:19:42.411000
 .	-	-	-	0:19:41.968000	0:19:42.411000
 mhm	-	-	-	0:19:42.411000	0:19:45.650000
 .	-	-	-	0:19:42.411000	0:19:45.650000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:42.411000" end="0:19:48.420000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:42.411000" end="0:19:48.420000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:19:42.411000	0:19:45.650000
 aber	-	-	-	0:19:42.411000	0:19:45.650000
 er	-	-	-	0:19:42.411000	0:19:45.650000
@@ -4681,11 +4681,11 @@ Stadt	-	-	-	0:19:45.650000	0:19:47.349000
 ähm	-	-	-	0:19:47.349000	0:19:48.420000
 .	-	-	-	0:19:47.349000	0:19:48.420000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:19:48.420000" end="0:19:49.005000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:48.420000" end="0:19:49.005000" age_lower="1" age_upper="999">
 okay	-	-	-	0:19:48.420000	0:19:49.005000
 .	-	-	-	0:19:48.420000	0:19:49.005000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:49.005000" end="0:20:10.800000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:49.005000" end="0:20:10.800000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:19:49.005000	0:19:53.066000
 da	-	-	-	0:19:49.005000	0:19:53.066000
 gibt	-	-	-	0:19:49.005000	0:19:53.066000
@@ -4747,7 +4747,7 @@ Und	-	-	-	0:20:10.240000	0:20:10.800000
 .	-	-	-	0:20:10.240000	0:20:10.800000
 .	-	-	-	0:20:10.240000	0:20:10.800000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:20:10.800000" end="0:20:13.680000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:10.800000" end="0:20:13.680000" age_lower="1" age_upper="999">
 Weil	-	-	-	0:20:10.800000	0:20:12.280000
 die	-	-	-	0:20:10.800000	0:20:12.280000
 quasi	-	-	-	0:20:10.800000	0:20:12.280000
@@ -4764,7 +4764,7 @@ Ja	-	-	-	0:20:12.740000	0:20:13.680000
 ja	-	-	-	0:20:12.740000	0:20:13.680000
 .	-	-	-	0:20:12.740000	0:20:13.680000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:14.140000" end="0:20:49.220000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:14.140000" end="0:20:49.220000" project="PP03" age_lower="18" age_upper="35">
 Und	-	-	-	0:20:14.140000	0:20:21.300000
 deswegen	-	-	-	0:20:14.140000	0:20:21.300000
 gibt	-	-	-	0:20:14.140000	0:20:21.300000
@@ -4870,7 +4870,7 @@ ist	-	-	-	0:20:48.060000	0:20:49.220000
 .	-	-	-	0:20:48.060000	0:20:49.220000
 .	-	-	-	0:20:48.060000	0:20:49.220000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:20:49.220000" end="0:20:50.720000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:49.220000" end="0:20:50.720000" age_lower="1" age_upper="999">
 Ja	-	-	-	0:20:49.220000	0:20:50.220000
 ,	-	-	-	0:20:49.220000	0:20:50.220000
 es	-	-	-	0:20:49.220000	0:20:50.220000
@@ -4890,7 +4890,7 @@ Voll	-	-	-	0:20:50.440000	0:20:50.720000
 voll	-	-	-	0:20:50.440000	0:20:50.720000
 .	-	-	-	0:20:50.440000	0:20:50.720000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:50.860000" end="0:21:54.400000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:50.860000" end="0:21:54.400000" project="PP03" age_lower="18" age_upper="35">
 Sie	-	-	-	0:20:50.860000	0:20:56.720000
 sind	-	-	-	0:20:50.860000	0:20:56.720000
 zu	-	-	-	0:20:50.860000	0:20:56.720000
@@ -5062,7 +5062,7 @@ zum	-	-	-	0:21:50.640000	0:21:54.400000
 Beispiel	-	-	-	0:21:50.640000	0:21:54.400000
 .	-	-	-	0:21:50.640000	0:21:54.400000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:21:56.140000" end="0:22:13.960000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:56.140000" end="0:22:13.960000" age_lower="1" age_upper="999">
 Ist	-	-	-	0:21:56.140000	0:21:59.700000
 das	-	-	-	0:21:56.140000	0:21:59.700000
 ,	-	-	-	0:21:56.140000	0:21:59.700000
@@ -5113,7 +5113,7 @@ Weißbriach_	-	-	-	0:22:08.940000	0:22:13.960000
 _Kernten	-	-	-	0:22:08.940000	0:22:13.960000
 behaupten?	-	-	-	0:22:08.940000	0:22:13.960000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:13.960000" end="0:23:14.680000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:13.960000" end="0:23:14.680000" project="PP03" age_lower="18" age_upper="35">
 Ich	-	-	-	0:22:13.960000	0:22:18.460000
 denke	-	-	-	0:22:13.960000	0:22:18.460000
 nicht	-	-	-	0:22:13.960000	0:22:18.460000
@@ -5270,7 +5270,7 @@ das	-	-	-	0:23:12.480000	0:23:14.680000
 deutsche	-	-	-	0:23:12.480000	0:23:14.680000
 Österreichische?	-	-	-	0:23:12.480000	0:23:14.680000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:23:14.720000" end="0:23:33.320000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:14.720000" end="0:23:33.320000" age_lower="1" age_upper="999">
 Nein	-	-	-	0:23:14.720000	0:23:15.040000
 ,	-	-	-	0:23:14.720000	0:23:15.040000
 leider	-	-	-	0:23:14.720000	0:23:15.040000
@@ -5335,7 +5335,7 @@ erzählen	-	-	-	0:23:30.160000	0:23:32.960000
 Ja	-	-	-	0:23:33.120000	0:23:33.320000
 .	-	-	-	0:23:33.120000	0:23:33.320000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:34.300000" end="0:24:01.300000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:34.300000" end="0:24:01.300000" project="PP03" age_lower="18" age_upper="35">
 Also	-	-	-	0:23:34.300000	0:23:40.260000
 ,	-	-	-	0:23:34.300000	0:23:40.260000
 ich	-	-	-	0:23:34.300000	0:23:40.260000
@@ -5394,13 +5394,13 @@ Sehr	-	-	-	0:24:00.640000	0:24:01.300000
 effizient	-	-	-	0:24:00.640000	0:24:01.300000
 .	-	-	-	0:24:00.640000	0:24:01.300000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:24:01.300000" end="0:24:01.880000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:01.300000" end="0:24:01.880000" age_lower="1" age_upper="999">
 Ja	-	-	-	0:24:01.300000	0:24:01.880000
 ,	-	-	-	0:24:01.300000	0:24:01.880000
 ja	-	-	-	0:24:01.300000	0:24:01.880000
 .	-	-	-	0:24:01.300000	0:24:01.880000
 </u>
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:02.580000" end="0:24:18.080000" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" subproject="PP03" standard_competence="4" dialect_competence="4" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:02.580000" end="0:24:18.080000" project="PP03" age_lower="18" age_upper="35">
 Wenn	-	-	-	0:24:02.580000	0:24:07.620000
 ich	-	-	-	0:24:02.580000	0:24:07.620000
 mich	-	-	-	0:24:02.580000	0:24:07.620000
@@ -5452,7 +5452,7 @@ Weißbriach	-	-	-	0:24:17.240000	0:24:18.080000
 da	-	-	-	0:24:17.240000	0:24:18.080000
 .	-	-	-	0:24:17.240000	0:24:18.080000
 </u>
-<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" location="UNK" lat="None" lon="None" start="0:24:18.340000" end="0:24:18.800000" age_lower="1" age_upper="999">
+<u who="spk_911" sex="female" age="UNK" name="Informant EXP25" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:18.340000" end="0:24:18.800000" age_lower="1" age_upper="999">
 Okay	-	-	-	0:24:18.340000	0:24:18.540000
 .	-	-	-	0:24:18.340000	0:24:18.540000
 Tja	-	-	-	0:24:18.540000	0:24:18.760000

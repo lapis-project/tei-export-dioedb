@@ -1,6 +1,6 @@
 <doc id="transcript_506" name="0004_0008_PIR_GFG" erhebung="Freundesgespräch_PP0308" erhebungsart="Gespräch ohne Explorator/in">
 <file id="506.xml" title="Transcript: Transcript_506">
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:00" end="0:00:12.608000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:00" end="0:00:12.608000" project="PP03" age_lower="65" age_upper="999">
 XXX	-	-	-	0:00:00	0:00:06.317000
 Wie	-	-	-	0:00:06.317000	0:00:07.691000
 schalten	-	-	-	0:00:06.317000	0:00:07.691000
@@ -18,23 +18,23 @@ nicht	-	-	-	0:00:08.995000	0:00:10.608000
 ?	-	-	-	0:00:08.995000	0:00:10.608000
 XXX	-	-	-	0:00:10.608000	0:00:12.608000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:12.608000" end="0:00:13.169000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:12.608000" end="0:00:13.169000" project="PP03" age_lower="65" age_upper="999">
 XXX	-	-	-	0:00:12.608000	0:00:13.169000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:12.608000" end="0:00:13.169000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:12.608000" end="0:00:13.169000" project="PP03" age_lower="65" age_upper="999">
 na	-	-	-	0:00:12.608000	0:00:13.169000
 gut	-	-	-	0:00:12.608000	0:00:13.169000
 .	-	-	-	0:00:12.608000	0:00:13.169000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:13.169000" end="0:00:15.169000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:13.169000" end="0:00:15.169000" project="PP03" age_lower="65" age_upper="999">
 XXX	-	-	-	0:00:13.169000	0:00:15.169000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:15.169000" end="0:00:15.673000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:15.169000" end="0:00:15.673000" project="PP03" age_lower="65" age_upper="999">
 na	-	-	-	0:00:15.169000	0:00:15.673000
 gut	-	-	-	0:00:15.169000	0:00:15.673000
 .	-	-	-	0:00:15.169000	0:00:15.673000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:15.673000" end="0:00:22.443000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:15.673000" end="0:00:22.443000" project="PP03" age_lower="65" age_upper="999">
 XXX	-	-	-	0:00:15.673000	0:00:18.708000
 (lachen)	-	-	-	0:00:18.708000	0:00:20.708000
 dann	-	-	-	0:00:20.708000	0:00:22.443000
@@ -47,7 +47,7 @@ da	-	-	-	0:00:20.708000	0:00:22.443000
 ja	-	-	-	0:00:20.708000	0:00:22.443000
 ?	-	-	-	0:00:20.708000	0:00:22.443000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:22.443000" end="0:00:24.443000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:22.443000" end="0:00:24.443000" project="PP03" age_lower="65" age_upper="999">
 ja	-	-	-	0:00:22.443000	0:00:24.443000
 nimm	-	-	-	0:00:22.443000	0:00:24.443000
 ein	-	-	-	0:00:22.443000	0:00:24.443000
@@ -55,14 +55,14 @@ Salz	-	-	-	0:00:22.443000	0:00:24.443000
 mit	-	-	-	0:00:22.443000	0:00:24.443000
 .	-	-	-	0:00:22.443000	0:00:24.443000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:24.443000" end="0:00:25.873000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:24.443000" end="0:00:25.873000" project="PP03" age_lower="65" age_upper="999">
 ist	-	-	-	0:00:24.443000	0:00:25.873000
 eh	-	-	-	0:00:24.443000	0:00:25.873000
 alles	-	-	-	0:00:24.443000	0:00:25.873000
 da	-	-	-	0:00:24.443000	0:00:25.873000
 .	-	-	-	0:00:24.443000	0:00:25.873000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:25.873000" end="0:00:27.873000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:25.873000" end="0:00:27.873000" project="PP03" age_lower="65" age_upper="999">
 warte	-	-	-	0:00:25.873000	0:00:27.873000
 ich	-	-	-	0:00:25.873000	0:00:27.873000
 bringe	-	-	-	0:00:25.873000	0:00:27.873000
@@ -71,7 +71,7 @@ Glaserl	-	-	-	0:00:25.873000	0:00:27.873000
 Wasser	-	-	-	0:00:25.873000	0:00:27.873000
 .	-	-	-	0:00:25.873000	0:00:27.873000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:27.873000" end="0:00:29.104000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:27.873000" end="0:00:29.104000" project="PP03" age_lower="65" age_upper="999">
 nimmst	-	-	-	0:00:27.873000	0:00:29.104000
 du	-	-	-	0:00:27.873000	0:00:29.104000
 dir	-	-	-	0:00:27.873000	0:00:29.104000
@@ -81,12 +81,12 @@ trinken	-	-	-	0:00:27.873000	0:00:29.104000
 gelt	-	-	-	0:00:27.873000	0:00:29.104000
 .	-	-	-	0:00:27.873000	0:00:29.104000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:29.104000" end="0:00:34.782000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:29.104000" end="0:00:34.782000" project="PP03" age_lower="65" age_upper="999">
 ja	-	-	-	0:00:29.104000	0:00:29.408000
 .	-	-	-	0:00:29.104000	0:00:29.408000
 (5)	-	-	-	0:00:29.408000	0:00:34.782000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:34.782000" end="0:00:53.582000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:34.782000" end="0:00:53.582000" project="PP03" age_lower="65" age_upper="999">
 ich	-	-	-	0:00:34.782000	0:00:36.782000
 komme	-	-	-	0:00:34.782000	0:00:36.782000
 dann	-	-	-	0:00:34.782000	0:00:36.782000
@@ -120,20 +120,20 @@ nein	-	-	-	0:00:50.313000	0:00:51.013000
 .	-	-	-	0:00:50.313000	0:00:51.013000
 (4)	-	-	-	0:00:51.013000	0:00:53.582000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:53.582000" end="0:00:54.430000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:53.582000" end="0:00:54.430000" project="PP03" age_lower="65" age_upper="999">
 wir	-	-	-	0:00:53.582000	0:00:54.430000
 haben	-	-	-	0:00:53.582000	0:00:54.430000
 ja	-	-	-	0:00:53.582000	0:00:54.430000
 keine	-	-	-	0:00:53.582000	0:00:54.430000
 .	-	-	-	0:00:53.582000	0:00:54.430000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:53.582000" end="0:00:54.430000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:53.582000" end="0:00:54.430000" project="PP03" age_lower="65" age_upper="999">
 XX	-	-	-	0:00:53.582000	0:00:54.430000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:54.430000" end="0:00:56.156000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:54.430000" end="0:00:56.156000" project="PP03" age_lower="65" age_upper="999">
 (unverständlich)	-	-	-	0:00:54.430000	0:00:56.156000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:56.156000" end="0:00:57.204000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:56.156000" end="0:00:57.204000" project="PP03" age_lower="65" age_upper="999">
 magst	-	-	-	0:00:56.156000	0:00:57.204000
 du	-	-	-	0:00:56.156000	0:00:57.204000
 ein	-	-	-	0:00:56.156000	0:00:57.204000
@@ -141,7 +141,7 @@ Wasser	-	-	-	0:00:56.156000	0:00:57.204000
 oder	-	-	-	0:00:56.156000	0:00:57.204000
 ?	-	-	-	0:00:56.156000	0:00:57.204000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:57.204000" end="0:00:58.821000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:57.204000" end="0:00:58.821000" project="PP03" age_lower="65" age_upper="999">
 nein	-	-	-	0:00:57.204000	0:00:58.821000
 schütte	-	-	-	0:00:57.204000	0:00:58.821000
 ihm	-	-	-	0:00:57.204000	0:00:58.821000
@@ -150,11 +150,11 @@ Mineral	-	-	-	0:00:57.204000	0:00:58.821000
 ein	-	-	-	0:00:57.204000	0:00:58.821000
 .	-	-	-	0:00:57.204000	0:00:58.821000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:58.821000" end="0:00:59.900000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:58.821000" end="0:00:59.900000" project="PP03" age_lower="65" age_upper="999">
 naja	-	-	-	0:00:58.821000	0:00:59.900000
 .	-	-	-	0:00:58.821000	0:00:59.900000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:59.900000" end="0:01:10.282000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:00:59.900000" end="0:01:10.282000" project="PP03" age_lower="65" age_upper="999">
 normal	-	-	-	0:00:59.900000	0:01:02.526000
 trinke	-	-	-	0:00:59.900000	0:01:02.526000
 ich	-	-	-	0:00:59.900000	0:01:02.526000
@@ -170,7 +170,7 @@ geben	-	-	-	0:01:08.282000	0:01:10.282000
 oder	-	-	-	0:01:08.282000	0:01:10.282000
 ?	-	-	-	0:01:08.282000	0:01:10.282000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:10.282000" end="0:01:12.069000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:10.282000" end="0:01:12.069000" project="PP03" age_lower="65" age_upper="999">
 vier	-	-	-	0:01:10.282000	0:01:12.069000
 gelt	-	-	-	0:01:10.282000	0:01:12.069000
 musst	-	-	-	0:01:10.282000	0:01:12.069000
@@ -178,24 +178,24 @@ du	-	-	-	0:01:10.282000	0:01:12.069000
 auf	-	-	-	0:01:10.282000	0:01:12.069000
 ?	-	-	-	0:01:10.282000	0:01:12.069000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:12.069000" end="0:01:12.500000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:12.069000" end="0:01:12.500000" project="PP03" age_lower="65" age_upper="999">
 mhm	-	-	-	0:01:12.069000	0:01:12.500000
 .	-	-	-	0:01:12.069000	0:01:12.500000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:12.500000" end="0:01:13.604000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:12.500000" end="0:01:13.604000" project="PP03" age_lower="65" age_upper="999">
 ja	-	-	-	0:01:12.500000	0:01:13.604000
 ?	-	-	-	0:01:12.500000	0:01:13.604000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:13.604000" end="0:01:14.743000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:13.604000" end="0:01:14.743000" project="PP03" age_lower="65" age_upper="999">
 das	-	-	-	0:01:13.604000	0:01:14.743000
 was	-	-	-	0:01:13.604000	0:01:14.743000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:13.604000" end="0:01:14.743000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:13.604000" end="0:01:14.743000" project="PP03" age_lower="65" age_upper="999">
 (ganz	-	-	-	0:01:13.604000	0:01:14.743000
 recht	-	-	-	0:01:13.604000	0:01:14.743000
 hast)	-	-	-	0:01:13.604000	0:01:14.743000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:14.743000" end="0:01:20.391000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:14.743000" end="0:01:20.391000" project="PP03" age_lower="65" age_upper="999">
 was	-	-	-	0:01:14.743000	0:01:16.743000
 dann	-	-	-	0:01:14.743000	0:01:16.743000
 nichts	-	-	-	0:01:14.743000	0:01:16.743000
@@ -208,7 +208,7 @@ du	-	-	-	0:01:16.743000	0:01:20.391000
 willst	-	-	-	0:01:16.743000	0:01:20.391000
 .	-	-	-	0:01:16.743000	0:01:20.391000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:20.391000" end="0:01:22.886000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:20.391000" end="0:01:22.886000" project="PP03" age_lower="65" age_upper="999">
 okay	-	-	-	0:01:20.391000	0:01:22.034000
 also	-	-	-	0:01:20.391000	0:01:22.034000
 um	-	-	-	0:01:20.391000	0:01:22.034000
@@ -220,11 +220,11 @@ da	-	-	-	0:01:20.391000	0:01:22.034000
 .	-	-	-	0:01:20.391000	0:01:22.034000
 einfach	-	-	-	0:01:22.034000	0:01:22.886000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:22.886000" end="0:01:23.826000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:22.886000" end="0:01:23.826000" project="PP03" age_lower="65" age_upper="999">
 ja	-	-	-	0:01:22.886000	0:01:23.826000
 .	-	-	-	0:01:22.886000	0:01:23.826000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:22.886000" end="0:01:28.547000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:22.886000" end="0:01:28.547000" project="PP03" age_lower="65" age_upper="999">
 rühren	-	-	-	0:01:22.886000	0:01:23.826000
 .	-	-	-	0:01:22.886000	0:01:23.826000
 sehr	-	-	-	0:01:23.826000	0:01:25.134000
@@ -238,18 +238,18 @@ bis	-	-	-	0:01:27.134000	0:01:28.547000
 nachher	-	-	-	0:01:27.134000	0:01:28.547000
 .	-	-	-	0:01:27.134000	0:01:28.547000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:28.547000" end="0:01:30.786000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:28.547000" end="0:01:30.786000" project="PP03" age_lower="65" age_upper="999">
 XXX	-	-	-	0:01:28.547000	0:01:29.830000
 bis	-	-	-	0:01:29.830000	0:01:30.786000
 später	-	-	-	0:01:29.830000	0:01:30.786000
 .	-	-	-	0:01:29.830000	0:01:30.786000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:30.786000" end="0:01:32.047000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:30.786000" end="0:01:32.047000" project="PP03" age_lower="65" age_upper="999">
 bis	-	-	-	0:01:30.786000	0:01:32.047000
 später	-	-	-	0:01:30.786000	0:01:32.047000
 .	-	-	-	0:01:30.786000	0:01:32.047000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:32.047000" end="0:01:35.213000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:32.047000" end="0:01:35.213000" project="PP03" age_lower="65" age_upper="999">
 das	-	-	-	0:01:33.213000	0:01:35.213000
 ist	-	-	-	0:01:33.213000	0:01:35.213000
 schon	-	-	-	0:01:33.213000	0:01:35.213000
@@ -257,12 +257,12 @@ ORT	ORT	-	-	0:01:33.213000	0:01:35.213000
 gelernt	-	-	-	0:01:33.213000	0:01:35.213000
 .	-	-	-	0:01:33.213000	0:01:35.213000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:35.213000" end="0:01:37.213000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:35.213000" end="0:01:37.213000" project="PP03" age_lower="65" age_upper="999">
 na	-	-	-	0:01:35.213000	0:01:37.213000
 gut	-	-	-	0:01:35.213000	0:01:37.213000
 .	-	-	-	0:01:35.213000	0:01:37.213000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:37.213000" end="0:01:43.569000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:37.213000" end="0:01:43.569000" project="PP03" age_lower="65" age_upper="999">
 <pause duration="2s"/>
 so	-	-	-	0:01:37.213000	0:01:39.843000
 .	-	-	-	0:01:37.213000	0:01:39.843000
@@ -277,14 +277,14 @@ etwas	-	-	-	0:01:42.317000	0:01:43.569000
 sagen	-	-	-	0:01:42.317000	0:01:43.569000
 .	-	-	-	0:01:42.317000	0:01:43.569000
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:43.569000" end="0:01:45.126000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:43.569000" end="0:01:45.126000" project="PP03" age_lower="65" age_upper="999">
 das	-	-	-	0:01:43.569000	0:01:45.126000
 (räuspern)	-	-	-	0:01:43.569000	0:01:45.126000
 ,	-	-	-	0:01:43.569000	0:01:45.126000
 </u>
-<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:45.126000" end="0:01:46.004000" age_lower="65" age_upper="999">
+<u who="spk_59" sex="male" age="Alt (65+)" name="Informant 0004" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:45.126000" end="0:01:46.004000" project="PP03" age_lower="65" age_upper="999">
 </u>
-<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:45.126000" end="0:01:56.786000" age_lower="65" age_upper="999">
+<u who="spk_63" sex="female" age="Alt (65+)" name="Informant 0008" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Piringsdorf, Bezirk Oberpullendorf, Burgenland, 7373, Österreich" lat="47.4486872" lon="16.4158141" start="0:01:45.126000" end="0:01:56.786000" project="PP03" age_lower="65" age_upper="999">
 das	-	-	-	0:01:45.126000	0:01:46.004000
 liebs=	-	-	-	0:01:45.126000	0:01:46.004000
 te	-	-	-	0:01:46.004000	0:01:48.382000

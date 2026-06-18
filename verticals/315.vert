@@ -1,6 +1,6 @@
 <doc id="transcript_315" name="0537_GAWE_jungI_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="315.xml" title="Transcript: Transcript_315">
-<u who="spk_274" sex="male" age="ungeeignet (Mindestanforderungen)" name="Informant 0537" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:26.826000" end="0:00:59.860000" age_lower="1" age_upper="999">
+<u who="spk_274" sex="male" age="ungeeignet (Mindestanforderungen)" name="Informant 0537" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:26.826000" end="0:00:59.860000" project="PP03" age_lower="1" age_upper="999">
 einst	-	-	-	0:00:26.826000	0:00:29.100000
 stritten	-	-	-	0:00:26.826000	0:00:29.100000
 sich	-	-	-	0:00:26.826000	0:00:29.100000
@@ -127,10 +127,10 @@ Stärkere	-	-	-	0:00:57.626000	0:00:59.860000
 war	-	-	-	0:00:57.626000	0:00:59.860000
 .	-	-	-	0:00:57.626000	0:00:59.860000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:59.860000" end="0:01:01.860000" age_lower="1" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:59.860000" end="0:01:01.860000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:59.860000	0:01:01.860000
 </u>
-<u who="spk_274" sex="male" age="ungeeignet (Mindestanforderungen)" name="Informant 0537" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:59.860000" end="0:01:01.860000" age_lower="1" age_upper="999">
+<u who="spk_274" sex="male" age="ungeeignet (Mindestanforderungen)" name="Informant 0537" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:59.860000" end="0:01:01.860000" project="PP03" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:59.860000	0:01:01.860000
 </u>
 </file>

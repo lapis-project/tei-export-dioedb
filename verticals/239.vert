@@ -1,6 +1,6 @@
 <doc id="transcript_239" name="0528_RAGG_alt_m_LESN_Vers5" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="239.xml" title="Transcript: Transcript_239">
-<u who="spk_129" sex="male" age="Alt (65+)" name="Informant 0528" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:00" end="0:01:23.459000" age_lower="65" age_upper="999">
+<u who="spk_129" sex="male" age="Alt (65+)" name="Informant 0528" subproject="PP03" standard_competence="6" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:00" end="0:01:23.459000" project="PP03" age_lower="65" age_upper="999">
 XXX	XXX	PROPN	-	0:00:00	0:00:24.885000
 Nordwind	Nordwind	NOUN	-	0:00:24.885000	0:00:26.610000
 und	und	CCONJ	-	0:00:24.885000	0:00:26.610000

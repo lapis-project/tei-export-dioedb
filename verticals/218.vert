@@ -1,6 +1,6 @@
 <doc id="transcript_218" name="0213_NECK_alt_f_LESN_Vers9" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="218.xml" title="Transcript: Transcript_218">
-<u who="spk_97" sex="female" age="Alt (65+)" name="Informant 0213" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:00" end="0:01:34.860000" age_lower="65" age_upper="999">
+<u who="spk_97" sex="female" age="Alt (65+)" name="Informant 0213" subproject="PP03" standard_competence="5" dialect_competence="5" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:00" end="0:01:34.860000" project="PP03" age_lower="65" age_upper="999">
 <pause duration="41,0s"/>
 XXX	-	-	-	0:00:00	0:00:41.024000
 Nordwind	-	-	-	0:00:41.024000	0:00:43.044000

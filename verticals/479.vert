@@ -1,12 +1,12 @@
 <doc id="transcript_479" name="0614_STEY_alt_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="479.xml" title="Transcript: Transcript_479">
-<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:20.106000" end="0:00:22.106000" age_lower="65" age_upper="999">
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:20.106000" end="0:00:22.106000" project="PP03" age_lower="65" age_upper="999">
 Nordwind	-	-	-	0:00:20.106000	0:00:22.106000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:20.106000" end="0:00:22.106000" age_lower="1" age_upper="999">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:20.106000" end="0:00:22.106000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:20.106000	0:00:22.106000
 </u>
-<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:20.106000" end="0:01:15.266000" age_lower="65" age_upper="999">
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:20.106000" end="0:01:15.266000" project="PP03" age_lower="65" age_upper="999">
 und	-	-	-	0:00:20.106000	0:00:22.106000
 Sonne	-	-	-	0:00:20.106000	0:00:22.106000
 einst	-	-	LautNach LautVor MG Nas Ons Ons- sPal sPal- sPal-t	0:00:22.106000	0:00:25.160000

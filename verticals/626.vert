@@ -1,16 +1,16 @@
 <doc id="transcript_626" name="4081_MÖDL_alt_m_AI" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="626.xml" title="Transcript: Transcript_626">
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:00:00.046000" end="0:05:34.946000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00.046000" end="0:05:34.946000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:00:00.046000" end="0:05:34.946000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:00:00.046000" end="0:05:34.946000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:34.946000" end="0:05:36.286000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:34.946000" end="0:05:36.286000" age_lower="1" age_upper="999">
 Leben	-	-	-	0:05:34.946000	0:05:36.286000
 Sie	-	-	-	0:05:34.946000	0:05:36.286000
 gerne	-	-	-	0:05:34.946000	0:05:36.286000
 hier	-	-	-	0:05:34.946000	0:05:36.286000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:05:36.286000" end="0:05:49.906000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:05:36.286000" end="0:05:49.906000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:05:36.286000	0:05:37.339000
 lebe	-	-	-	0:05:37.339000	0:05:38.526000
 hier	-	-	-	0:05:37.339000	0:05:38.526000
@@ -43,7 +43,7 @@ lass	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:05:47.226000	0:0
 man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:05:47.226000	0:05:49.906000
 dahingestellt	-	-	ge-Prä ge-Prä+ PräfReal	0:05:47.226000	0:05:49.906000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:05:49.906000" end="0:05:53.659000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:49.906000" end="0:05:53.659000" age_lower="1" age_upper="999">
 also	-	-	-	0:05:49.906000	0:05:53.659000
 das	-	-	-	0:05:49.906000	0:05:53.659000
 heißt	-	-	-	0:05:49.906000	0:05:53.659000
@@ -53,7 +53,7 @@ davor	-	-	-	0:05:49.906000	0:05:53.659000
 mehr	-	-	-	0:05:49.906000	0:05:53.659000
 Aussicht	-	-	-	0:05:49.906000	0:05:53.659000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:05:51.019000" end="0:06:06.706000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:05:51.019000" end="0:06:06.706000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:05:51.019000	0:05:51.492000
 nein	-	-	-	0:05:52.632000	0:05:53.419000
 grün	-	-	-	0:05:52.632000	0:05:53.419000
@@ -97,9 +97,9 @@ doch	-	-	-	0:06:03.032000	0:06:06.706000
 auch	-	-	-	0:06:03.032000	0:06:06.706000
 engagiert	-	-	-	0:06:03.032000	0:06:06.706000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:06.706000" end="0:06:07.326000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:06.706000" end="0:06:07.326000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:07.326000" end="0:06:35.372000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:07.326000" end="0:06:35.372000" project="PP04" age_lower="65" age_upper="999">
 jetzt	-	-	-	0:06:07.326000	0:06:10.319000
 ein	-	-	-	0:06:07.326000	0:06:10.319000
 bisschen	-	-	-	0:06:07.326000	0:06:10.319000
@@ -171,9 +171,9 @@ Töchter	-	-	-	0:06:33.839000	0:06:34.326000
 sehr	-	-	-	0:06:34.326000	0:06:35.372000
 wesentlich	-	-	-	0:06:34.326000	0:06:35.372000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:35.372000" end="0:06:35.746000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:35.372000" end="0:06:35.746000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:35.372000" end="0:06:37.719000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:35.372000" end="0:06:37.719000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:06:35.372000	0:06:36.306000
 Sie	-	-	-	0:06:35.372000	0:06:36.306000
 haben	-	-	-	0:06:35.372000	0:06:36.306000
@@ -186,11 +186,11 @@ Töchter	-	-	-	0:06:36.306000	0:06:37.719000
 haben	-	-	-	0:06:36.306000	0:06:37.719000
 wahrscheinlich	-	-	-	0:06:36.306000	0:06:37.719000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:37.719000" end="0:06:38.739000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:37.719000" end="0:06:38.739000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:37.719000	0:06:38.739000
 genau	-	-	-	0:06:37.719000	0:06:38.739000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:37.719000" end="0:06:54.632000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:37.719000" end="0:06:54.632000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:06:38.739000	0:06:42.939000
 die	-	-	-	0:06:38.739000	0:06:42.939000
 also	-	-	-	0:06:38.739000	0:06:42.939000
@@ -235,19 +235,19 @@ ORT	ORT	-	-	0:06:52.692000	0:06:54.079000
 da	-	-	-	0:06:54.079000	0:06:54.632000
 Bus	-	-	-	0:06:54.079000	0:06:54.632000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:54.632000" end="0:06:55.366000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:54.632000" end="0:06:55.366000" age_lower="1" age_upper="999">
 ah	-	-	-	0:06:54.632000	0:06:55.366000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:55.366000" end="0:06:56.286000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:55.366000" end="0:06:56.286000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:06:55.366000	0:06:56.286000
 das	-	-	-	0:06:55.366000	0:06:56.286000
 ist	-	-	-	0:06:55.366000	0:06:56.286000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:06:55.832000" end="0:06:56.286000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:55.832000" end="0:06:56.286000" age_lower="1" age_upper="999">
 das	-	-	-	0:06:55.832000	0:06:56.286000
 ist	-	-	-	0:06:55.832000	0:06:56.286000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:56.286000" end="0:07:01.572000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:06:56.286000" end="0:07:01.572000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:06:56.286000	0:06:58.066000
 bleibt	-	-	-	0:06:56.286000	0:06:58.066000
 vorne	-	-	-	0:06:56.286000	0:06:58.066000
@@ -265,11 +265,11 @@ Nähe	-	-	-	0:06:59.499000	0:07:01.572000
 der	-	-	-	0:06:59.499000	0:07:01.572000
 bahnbrücke	-	-	-	0:06:59.499000	0:07:01.572000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:00.126000" end="0:07:00.699000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:00.126000" end="0:07:00.699000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:07:00.126000	0:07:00.699000
 gut	-	-	-	0:07:00.126000	0:07:00.699000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:01.572000" end="0:07:14.712000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:01.572000" end="0:07:14.712000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:07:01.572000	0:07:03.939000
 öffentliche	-	-	-	0:07:01.572000	0:07:03.939000
 Verkehrsmittel	-	-	-	0:07:01.572000	0:07:03.939000
@@ -306,9 +306,9 @@ NAME	NAME	-	-	0:07:13.632000	0:07:14.712000
 schönberg	-	-	-	0:07:13.632000	0:07:14.712000
 Park	-	-	-	0:07:13.632000	0:07:14.712000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:13.799000" end="0:07:14.206000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:13.799000" end="0:07:14.206000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:14.712000" end="0:07:27.179000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:14.712000" end="0:07:27.179000" project="PP04" age_lower="65" age_upper="999">
 der	-	-	-	0:07:14.712000	0:07:15.986000
 prinzipiell	-	-	-	0:07:15.986000	0:07:18.272000
 auch	-	-	-	0:07:15.986000	0:07:18.272000
@@ -334,9 +334,9 @@ kürzlich	-	-	-	0:07:25.359000	0:07:27.179000
 passiert	-	-	-	0:07:25.359000	0:07:27.179000
 ist	-	-	-	0:07:25.359000	0:07:27.179000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:27.179000" end="0:07:27.612000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:27.179000" end="0:07:27.612000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:27.179000" end="0:07:33.712000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:27.179000" end="0:07:33.712000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:07:27.179000	0:07:27.612000
 es	-	-	-	0:07:27.612000	0:07:29.166000
 ist	-	-	-	0:07:27.612000	0:07:29.166000
@@ -356,7 +356,7 @@ sagen	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:07:32.846000	0:
 man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:07:32.846000	0:07:33.712000
 so	-	-	-	0:07:32.846000	0:07:33.712000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:33.319000" end="0:07:36.139000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:33.319000" end="0:07:36.139000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:33.319000	0:07:36.139000
 der	-	-	-	0:07:33.319000	0:07:36.139000
 Hund	-	-	-	0:07:33.319000	0:07:36.139000
@@ -364,7 +364,7 @@ ist	-	-	-	0:07:33.319000	0:07:36.139000
 wieder	-	-	-	0:07:33.319000	0:07:36.139000
 verwahrt	-	-	-	0:07:33.319000	0:07:36.139000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:36.139000" end="0:07:47.292000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:36.139000" end="0:07:47.292000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	0:07:36.139000	0:07:37.812000
 nehme	-	-	-	0:07:36.139000	0:07:37.812000
 an	-	-	-	0:07:36.139000	0:07:37.812000
@@ -394,7 +394,7 @@ sich	-	-	-	0:07:44.539000	0:07:47.292000
 positiv	-	-	-	0:07:44.539000	0:07:47.292000
 gelöst	-	-	ge-Prä ge-Prä+ PräfReal	0:07:44.539000	0:07:47.292000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:47.292000" end="0:07:55.806000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:47.292000" end="0:07:55.806000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:47.292000	0:07:55.806000
 weil	-	-	-	0:07:47.292000	0:07:55.806000
 Sie	-	-	-	0:07:47.292000	0:07:55.806000
@@ -413,9 +413,9 @@ mit	-	-	-	0:07:47.292000	0:07:55.806000
 den	-	-	-	0:07:47.292000	0:07:55.806000
 Enkelkindern	-	-	-	0:07:47.292000	0:07:55.806000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:55.639000" end="0:07:56.146000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:55.639000" end="0:07:56.146000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:55.806000" end="0:07:58.632000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:55.806000" end="0:07:58.632000" age_lower="1" age_upper="999">
 auch	-	-	-	0:07:55.806000	0:07:58.632000
 viel	-	-	-	0:07:55.806000	0:07:58.632000
 viele	-	-	-	0:07:55.806000	0:07:58.632000
@@ -425,21 +425,21 @@ im	-	-	-	0:07:55.806000	0:07:58.632000
 Ort	-	-	-	0:07:55.806000	0:07:58.632000
 machen	-	-	-	0:07:55.806000	0:07:58.632000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:58.632000" end="0:07:59.926000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:58.632000" end="0:07:59.926000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:07:58.632000	0:07:59.926000
 viele	-	-	-	0:07:58.632000	0:07:59.926000
 nicht	-	-	-	0:07:58.632000	0:07:59.926000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:07:59.152000" end="0:07:59.875000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:59.152000" end="0:07:59.875000" age_lower="1" age_upper="999">
 was	-	-	-	0:07:59.152000	0:07:59.875000
 oder	-	-	-	0:07:59.152000	0:07:59.875000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:59.926000" end="0:08:01.279000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:07:59.926000" end="0:08:01.279000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:07:59.926000	0:08:00.759000
 etliche	-	-	-	0:07:59.926000	0:08:00.759000
 ja	-	-	-	0:08:00.759000	0:08:01.279000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:08:01.279000" end="0:08:06.199000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:01.279000" end="0:08:06.199000" age_lower="1" age_upper="999">
 was	-	-	-	0:08:01.279000	0:08:04.919000
 was	-	-	-	0:08:01.279000	0:08:04.919000
 kann	-	-	-	0:08:01.279000	0:08:04.919000
@@ -455,7 +455,7 @@ Sie	-	-	-	0:08:04.919000	0:08:06.199000
 da	-	-	-	0:08:04.919000	0:08:06.199000
 so	-	-	-	0:08:04.919000	0:08:06.199000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:06.026000" end="0:08:10.159000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:06.026000" end="0:08:10.159000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:08:06.026000	0:08:08.486000
 ist	-	-	-	0:08:06.026000	0:08:08.486000
 sicherlich	-	-	-	0:08:06.026000	0:08:08.486000
@@ -471,9 +471,9 @@ engagiert	-	-	-	0:08:08.486000	0:08:10.159000
 als	-	-	-	0:08:08.486000	0:08:10.159000
 ich	-	-	-	0:08:08.486000	0:08:10.159000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:08:08.812000" end="0:08:09.279000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:08.812000" end="0:08:09.279000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:10.159000" end="0:08:15.072000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:10.159000" end="0:08:15.072000" project="PP04" age_lower="65" age_upper="999">
 wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(f.sg.nom.) klit-	0:08:10.159000	0:08:12.559000
 sie	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(f.sg.nom.) klit-	0:08:10.159000	0:08:12.559000
 vermutlich	-	-	-	0:08:10.159000	0:08:12.559000
@@ -491,10 +491,10 @@ weiß	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:08:13.746000	0:
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:08:13.746000	0:08:15.072000
 nicht	-	-	-	0:08:13.746000	0:08:15.072000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:08:14.586000" end="0:08:15.072000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:14.586000" end="0:08:15.072000" age_lower="1" age_upper="999">
 kurz	-	-	-	0:08:14.586000	0:08:15.072000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:15.072000" end="0:08:25.586000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:15.072000" end="0:08:25.586000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:08:15.072000	0:08:16.926000
 das	-	-	-	0:08:15.072000	0:08:16.926000
 zweite	-	-	-	0:08:15.072000	0:08:16.926000
@@ -527,9 +527,9 @@ NAME	NAME	-	-	0:08:23.219000	0:08:25.586000
 etwas	-	-	-	0:08:23.219000	0:08:25.586000
 sagt	-	-	-	0:08:23.219000	0:08:25.586000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:08:23.672000" end="0:08:24.192000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:23.672000" end="0:08:24.192000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:25.586000" end="0:08:28.819000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:25.586000" end="0:08:28.819000" project="PP04" age_lower="65" age_upper="999">
 nachdem	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _Sie(hon.) klit-	0:08:25.586000	0:08:28.819000
 Sie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _Sie(hon.) klit-	0:08:25.586000	0:08:28.819000
 jenseits	-	-	-	0:08:25.586000	0:08:28.819000
@@ -538,10 +538,10 @@ ORT	ORT	-	-	0:08:25.586000	0:08:28.819000
 daheim	-	-	-	0:08:25.586000	0:08:28.819000
 sind	-	-	-	0:08:25.586000	0:08:28.819000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:08:26.032000" end="0:08:27.532000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:26.032000" end="0:08:27.532000" age_lower="1" age_upper="999">
 nein	-	-	-	0:08:26.032000	0:08:27.532000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:28.819000" end="0:08:52.412000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:28.819000" end="0:08:52.412000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:08:28.819000	0:08:32.152000
 ein	-	-	-	0:08:28.819000	0:08:32.152000
 Bürgermeister	-	-	-	0:08:28.819000	0:08:32.152000
@@ -591,9 +591,9 @@ NAME	NAME	-	-	0:08:50.519000	0:08:52.412000
 das	-	-	-	0:08:50.519000	0:08:52.412000
 NAME	NAME	-	-	0:08:50.519000	0:08:52.412000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:08:52.412000" end="0:08:53.299000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:52.412000" end="0:08:53.299000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:53.112000" end="0:09:07.719000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:08:53.112000" end="0:09:07.719000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:08:53.112000	0:08:53.732000
 das	-	-	-	0:08:53.732000	0:08:56.332000
 heißt	-	-	-	0:08:53.732000	0:08:56.332000
@@ -631,9 +631,9 @@ vierzig	-	-	-	0:09:06.645000	0:09:07.719000
 Jahr	-	-	-	0:09:06.645000	0:09:07.719000
 schon	-	-	-	0:09:06.645000	0:09:07.719000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:06.719000" end="0:09:07.072000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:06.719000" end="0:09:07.072000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:07.719000" end="0:09:41.819000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:07.719000" end="0:09:41.819000" project="PP04" age_lower="65" age_upper="999">
 Zeit	-	-	-	0:09:07.719000	0:09:08.832000
 vergeht	-	-	-	0:09:07.719000	0:09:08.832000
 ah	-	-	-	0:09:08.832000	0:09:09.845000
@@ -706,14 +706,14 @@ die	-	-	-	0:09:37.952000	0:09:41.819000
 <<lachend>	-	-	-	0:09:37.952000	0:09:41.819000
 nerven,>	-	-	-	0:09:37.952000	0:09:41.819000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:41.819000" end="0:09:42.452000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:41.819000" end="0:09:42.452000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:41.819000" end="0:09:42.452000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:41.819000" end="0:09:42.452000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:42.452000" end="0:09:42.912000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:42.452000" end="0:09:42.912000" age_lower="1" age_upper="999">
 das	-	-	-	0:09:42.452000	0:09:42.912000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:42.452000" end="0:09:50.619000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:42.452000" end="0:09:50.619000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	-	0:09:42.452000	0:09:46.172000
 die	-	-	-	0:09:42.452000	0:09:46.172000
 gemeinsamen	-	-	-	0:09:42.452000	0:09:46.172000
@@ -730,9 +730,9 @@ viel	-	-	-	0:09:46.172000	0:09:49.945000
 singen	-	-	-	0:09:46.172000	0:09:49.945000
 jetzt	-	-	-	0:09:49.945000	0:09:50.619000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:50.619000" end="0:09:50.985000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:50.619000" end="0:09:50.985000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:50.619000" end="0:09:57.945000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:50.619000" end="0:09:57.945000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:09:50.619000	0:09:52.252000
 meine	-	-	-	0:09:50.619000	0:09:52.252000
 Frau	-	-	-	0:09:50.619000	0:09:52.252000
@@ -747,9 +747,9 @@ herausgabe	-	-	-	0:09:53.992000	0:09:57.945000
 einer	-	-	-	0:09:53.992000	0:09:57.945000
 Zeitschrift	-	-	-	0:09:53.992000	0:09:57.945000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:57.945000" end="0:09:58.825000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:57.945000" end="0:09:58.825000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:58.659000" end="0:10:03.412000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:09:58.659000" end="0:10:03.412000" project="PP04" age_lower="65" age_upper="999">
 in	-	-	-	0:09:58.659000	0:09:59.505000
 ORT	ORT	-	-	0:09:58.659000	0:09:59.505000
 ah	-	-	-	0:09:59.505000	0:10:03.412000
@@ -762,13 +762,13 @@ mit	-	-	-	0:09:59.505000	0:10:03.412000
 zeitgeschichtlichen	-	-	-	0:09:59.505000	0:10:03.412000
 Aspekten	-	-	-	0:09:59.505000	0:10:03.412000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:03.412000" end="0:10:04.465000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:03.412000" end="0:10:04.465000" age_lower="1" age_upper="999">
 ah	-	-	-	0:10:03.412000	0:10:04.465000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:04.172000" end="0:10:04.905000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:04.172000" end="0:10:04.905000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:10:04.172000	0:10:04.905000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:04.905000" end="0:10:09.419000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:04.905000" end="0:10:09.419000" age_lower="1" age_upper="999">
 aber	-	-	-	0:10:04.905000	0:10:08.352000
 in	-	-	-	0:10:04.905000	0:10:08.352000
 Bezug	-	-	-	0:10:04.905000	0:10:08.352000
@@ -779,7 +779,7 @@ auf	-	-	-	0:10:04.905000	0:10:08.352000
 ORT	ORT	-	-	0:10:04.905000	0:10:08.352000
 allgemeiner	-	-	-	0:10:08.352000	0:10:09.419000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:08.352000" end="0:10:12.625000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:08.352000" end="0:10:12.625000" project="PP04" age_lower="65" age_upper="999">
 auf	-	-	-	0:10:08.352000	0:10:09.252000
 ORT	ORT	-	-	0:10:08.352000	0:10:09.252000
 na	-	-	-	0:10:09.419000	0:10:10.205000
@@ -797,9 +797,9 @@ eine	-	-	-	0:10:10.205000	0:10:12.625000
 ökumenische	-	-	-	0:10:10.205000	0:10:12.625000
 Zeitschrift	-	-	-	0:10:10.205000	0:10:12.625000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:12.439000" end="0:10:12.859000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:12.439000" end="0:10:12.859000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:12.625000" end="0:10:15.585000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:12.625000" end="0:10:15.585000" project="PP04" age_lower="65" age_upper="999">
 dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	0:10:12.625000	0:10:13.992000
 wir	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	0:10:12.625000	0:10:13.992000
 da	-	-	-	0:10:12.625000	0:10:13.992000
@@ -811,10 +811,10 @@ sicher	-	-	-	0:10:13.992000	0:10:15.585000
 schon	-	-	-	0:10:13.992000	0:10:15.585000
 mitbekommen	-	-	-	0:10:13.992000	0:10:15.585000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:15.259000" end="0:10:15.659000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:15.259000" end="0:10:15.659000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:15.259000	0:10:15.659000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:15.585000" end="0:10:26.732000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:15.585000" end="0:10:26.732000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:10:15.585000	0:10:16.105000
 an	-	-	-	0:10:15.585000	0:10:16.105000
 die	-	-	-	0:10:16.105000	0:10:22.272000
@@ -837,9 +837,9 @@ also	-	-	-	0:10:24.072000	0:10:26.732000
 neunzehnachtunddreißig	-	-	-	0:10:24.072000	0:10:26.732000
 eben	-	-	-	0:10:24.072000	0:10:26.732000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:25.965000" end="0:10:26.305000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:25.965000" end="0:10:26.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:26.732000" end="0:11:12.128000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:10:26.732000" end="0:11:12.128000" project="PP04" age_lower="65" age_upper="999">
 wo	-	-	-	0:10:26.732000	0:10:30.119000
 ja	-	-	-	0:10:26.732000	0:10:30.119000
 doch	-	-	-	0:10:26.732000	0:10:30.119000
@@ -951,9 +951,9 @@ röligiösen	-	-	-	0:11:08.893000	0:11:12.128000
 konnex	-	-	-	0:11:08.893000	0:11:12.128000
 haben	-	-	-	0:11:08.893000	0:11:12.128000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:12.128000" end="0:11:13.086000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:12.128000" end="0:11:13.086000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:11:13.086000" end="0:11:21.538000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:11:13.086000" end="0:11:21.538000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	0:11:13.086000	0:11:16.251000
 kontek	-	-	-	0:11:13.086000	0:11:16.251000
 im	-	-	-	0:11:13.086000	0:11:16.251000
@@ -974,11 +974,11 @@ und	-	-	-	0:11:19.654000	0:11:21.538000
 andere	-	-	-	0:11:19.654000	0:11:21.538000
 Sachen	-	-	-	0:11:19.654000	0:11:21.538000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:19.909000" end="0:11:21.344000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:19.909000" end="0:11:21.344000" age_lower="1" age_upper="999">
 ah	-	-	-	0:11:19.909000	0:11:21.344000
 interessant	-	-	-	0:11:19.909000	0:11:21.344000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:11:21.538000" end="0:11:42.825000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:11:21.538000" end="0:11:42.825000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:11:21.538000	0:11:22.238000
 einfach	-	-	-	0:11:22.238000	0:11:24.748000
 den	-	-	-	0:11:22.238000	0:11:24.748000
@@ -1030,7 +1030,7 @@ den	-	-	-	0:11:41.357000	0:11:42.825000
 Film	-	-	-	0:11:41.357000	0:11:42.825000
 kennen	-	-	-	0:11:41.357000	0:11:42.825000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:41.699000" end="0:11:47.305000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:41.699000" end="0:11:47.305000" age_lower="1" age_upper="999">
 Ihre	-	-	-	0:11:42.825000	0:11:47.305000
 Frau	-	-	-	0:11:42.825000	0:11:47.305000
 hat	-	-	-	0:11:42.825000	0:11:47.305000
@@ -1043,7 +1043,7 @@ Film	-	-	-	0:11:42.825000	0:11:47.305000
 auch	-	-	-	0:11:42.825000	0:11:47.305000
 empfohlen	-	-	-	0:11:42.825000	0:11:47.305000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:11:44.699000" end="0:11:55.665000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:11:44.699000" end="0:11:55.665000" project="PP04" age_lower="65" age_upper="999">
 aso	-	-	-	0:11:44.699000	0:11:45.070000
 ja	-	-	-	0:11:46.783000	0:11:47.151000
 ah	-	-	-	0:11:47.305000	0:11:47.945000
@@ -1072,7 +1072,7 @@ letzten	-	-	-	0:11:52.359000	0:11:55.665000
 <<lachend>	-	-	-	0:11:52.359000	0:11:55.665000
 endes,>	-	-	-	0:11:52.359000	0:11:55.665000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:54.372000" end="0:12:04.045000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:54.372000" end="0:12:04.045000" age_lower="1" age_upper="999">
 aber	-	-	-	0:11:55.665000	0:12:04.045000
 das	-	-	-	0:11:55.665000	0:12:04.045000
 heißt	-	-	-	0:11:55.665000	0:12:04.045000
@@ -1089,7 +1089,7 @@ relevante	-	-	-	0:11:55.665000	0:12:04.045000
 Themen	-	-	-	0:11:55.665000	0:12:04.045000
 auf	-	-	-	0:11:55.665000	0:12:04.045000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:03.232000" end="0:12:12.925000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:03.232000" end="0:12:12.925000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:12:03.232000	0:12:05.185000
 wir	-	-	-	0:12:03.232000	0:12:05.185000
 suchen	-	-	-	0:12:03.232000	0:12:05.185000
@@ -1120,10 +1120,10 @@ alle	-	-	-	0:12:09.272000	0:12:12.925000
 ORT	ORT	-	-	0:12:09.272000	0:12:12.925000
 haushalte	-	-	-	0:12:09.272000	0:12:12.925000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:12.925000" end="0:12:13.559000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:12.925000" end="0:12:13.559000" age_lower="1" age_upper="999">
 ah	-	-	-	0:12:12.925000	0:12:13.559000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:13.559000" end="0:12:27.385000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:13.559000" end="0:12:27.385000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	0:12:13.559000	0:12:14.199000
 Sinn	-	-	-	0:12:13.559000	0:12:14.199000
 ist	-	-	-	0:12:13.559000	0:12:14.199000
@@ -1159,9 +1159,9 @@ es	-	-	-	0:12:23.079000	0:12:27.385000
 gibt	-	-	-	0:12:23.079000	0:12:27.385000
 in	-	-	-	0:12:23.079000	0:12:27.385000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:27.385000" end="0:12:27.725000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:27.385000" end="0:12:27.725000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:27.385000" end="0:12:35.639000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:27.385000" end="0:12:35.639000" project="PP04" age_lower="65" age_upper="999">
 wo	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	0:12:27.385000	0:12:30.479000
 wir	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	0:12:27.385000	0:12:30.479000
 in	-	-	-	0:12:27.385000	0:12:30.479000
@@ -1185,9 +1185,9 @@ nehme	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:12:34.265000	0:
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:12:34.265000	0:12:35.639000
 an	-	-	-	0:12:34.265000	0:12:35.639000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:35.639000" end="0:12:36.319000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:35.639000" end="0:12:36.319000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:36.319000" end="0:12:41.072000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:36.319000" end="0:12:41.072000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:12:36.319000	0:12:38.359000
 ja	-	-	-	0:12:36.319000	0:12:38.359000
 duplizierungen	-	-	-	0:12:38.359000	0:12:41.072000
@@ -1197,11 +1197,11 @@ sich	-	-	-	0:12:38.359000	0:12:41.072000
 nicht	-	-	-	0:12:38.359000	0:12:41.072000
 vermeiden	-	-	-	0:12:38.359000	0:12:41.072000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:40.385000" end="0:12:41.685000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:40.385000" end="0:12:41.685000" age_lower="1" age_upper="999">
 nein	-	-	-	0:12:41.072000	0:12:41.685000
 aber	-	-	-	0:12:41.072000	0:12:41.685000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:41.072000" end="0:12:42.919000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:41.072000" end="0:12:42.919000" project="PP04" age_lower="65" age_upper="999">
 wenn	-	-	-	0:12:41.072000	0:12:42.065000
 man	-	-	-	0:12:41.072000	0:12:42.065000
 beisammen	-	-	-	0:12:41.072000	0:12:42.065000
@@ -1209,14 +1209,14 @@ lebt	-	-	-	0:12:41.072000	0:12:42.065000
 miteinander	-	-	-	0:12:42.065000	0:12:42.919000
 lebt,>	-	-	-	0:12:42.065000	0:12:42.919000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:42.919000" end="0:12:45.225000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:42.919000" end="0:12:45.225000" age_lower="1" age_upper="999">
 lassen	-	-	-	0:12:42.919000	0:12:45.225000
 sie	-	-	-	0:12:42.919000	0:12:45.225000
 sich	-	-	-	0:12:42.919000	0:12:45.225000
 nicht	-	-	-	0:12:42.919000	0:12:45.225000
 einschränken	-	-	-	0:12:42.919000	0:12:45.225000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:43.399000" end="0:12:49.519000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:43.399000" end="0:12:49.519000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:12:43.399000	0:12:43.819000
 ja	-	-	-	0:12:44.399000	0:12:44.719000
 und	-	-	-	0:12:45.225000	0:12:46.199000
@@ -1237,12 +1237,12 @@ wird	-	-	-	0:12:48.579000	0:12:49.519000
 immer	-	-	-	0:12:48.579000	0:12:49.519000
 mehr	-	-	-	0:12:48.579000	0:12:49.519000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:49.205000" end="0:12:50.085000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:49.205000" end="0:12:50.085000" age_lower="1" age_upper="999">
 ach	-	-	-	0:12:49.205000	0:12:50.085000
 das	-	-	-	0:12:49.205000	0:12:50.085000
 r	-	-	-	0:12:49.205000	0:12:50.085000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:49.519000" end="0:12:53.499000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:49.519000" end="0:12:53.499000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	0:12:49.519000	0:12:53.499000
 frage	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:49.519000	0:12:53.499000
 mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:49.519000	0:12:53.499000
@@ -1255,9 +1255,9 @@ irgendwie	-	-	-	0:12:49.519000	0:12:53.499000
 besetzt	-	-	-	0:12:49.519000	0:12:53.499000
 ist	-	-	-	0:12:49.519000	0:12:53.499000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:53.292000" end="0:12:53.905000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:53.292000" end="0:12:53.905000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:53.499000" end="0:12:59.745000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:12:53.499000" end="0:12:59.745000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:12:53.499000	0:12:55.432000
 stört	-	-	-	0:12:53.499000	0:12:55.432000
 ja	-	-	-	0:12:53.499000	0:12:55.432000
@@ -1274,13 +1274,13 @@ kinderaufgaben	-	-	-	0:12:55.432000	0:12:58.645000
 und	-	-	-	0:12:58.645000	0:12:59.745000
 Herausforderungen	-	-	-	0:12:58.645000	0:12:59.745000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:59.745000" end="0:13:01.192000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:59.745000" end="0:13:01.192000" age_lower="1" age_upper="999">
 und	-	-	-	0:12:59.745000	0:13:01.192000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:00.845000" end="0:13:02.812000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:00.845000" end="0:13:02.812000" project="PP04" age_lower="65" age_upper="999">
 enkelkinderaufgaben	-	-	-	0:13:00.845000	0:13:01.958000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:02.812000" end="0:13:13.045000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:02.812000" end="0:13:13.045000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:13:02.812000	0:13:08.125000
 Sie	-	-	-	0:13:02.812000	0:13:08.125000
 jetzt	-	-	-	0:13:02.812000	0:13:08.125000
@@ -1305,9 +1305,9 @@ aus	-	-	-	0:13:09.852000	0:13:13.045000
 dem	-	-	-	0:13:09.852000	0:13:13.045000
 Ort	-	-	-	0:13:09.852000	0:13:13.045000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:10.072000" end="0:13:10.518000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:10.072000" end="0:13:10.518000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:13.045000" end="0:13:16.858000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:13.045000" end="0:13:16.858000" age_lower="1" age_upper="999">
 kommen	-	-	-	0:13:14.025000	0:13:16.858000
 die	-	-	-	0:13:14.025000	0:13:16.858000
 auch	-	-	-	0:13:14.025000	0:13:16.858000
@@ -1315,7 +1315,7 @@ wo	-	-	-	0:13:14.025000	0:13:16.858000
 anders	-	-	-	0:13:14.025000	0:13:16.858000
 her	-	-	-	0:13:14.025000	0:13:16.858000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:16.858000" end="0:13:20.545000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:16.858000" end="0:13:20.545000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:13:16.858000	0:13:18.372000
 wir	-	-	-	0:13:16.858000	0:13:18.372000
 haben	-	-	-	0:13:16.858000	0:13:18.372000
@@ -1330,9 +1330,9 @@ zusammen	-	-	-	0:13:18.372000	0:13:20.545000
 setzen	-	-	-	0:13:18.372000	0:13:20.545000
 wollen	-	-	-	0:13:18.372000	0:13:20.545000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:20.545000" end="0:13:21.065000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:20.545000" end="0:13:21.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:20.545000" end="0:13:26.385000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:20.545000" end="0:13:26.385000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:13:20.545000	0:13:21.065000
 sollen	-	-	-	0:13:20.545000	0:13:21.065000
 und	-	-	-	0:13:21.065000	0:13:23.192000
@@ -1353,9 +1353,9 @@ achtzigsten	-	-	-	0:13:24.305000	0:13:26.385000
 Geburtstag	-	-	-	0:13:24.305000	0:13:26.385000
 anrufen	-	-	-	0:13:24.305000	0:13:26.385000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:26.385000" end="0:13:27.125000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:26.385000" end="0:13:27.125000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:26.385000" end="0:13:37.472000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:26.385000" end="0:13:37.472000" project="PP04" age_lower="65" age_upper="999">
 wir	-	-	-	0:13:27.125000	0:13:29.065000
 sind	-	-	-	0:13:27.125000	0:13:29.065000
 in	-	-	-	0:13:27.125000	0:13:29.065000
@@ -1386,9 +1386,9 @@ so	-	-	-	0:13:36.605000	0:13:37.472000
 sagen	-	-	-	0:13:36.605000	0:13:37.472000
 will	-	-	-	0:13:36.605000	0:13:37.472000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:37.472000" end="0:13:37.805000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:37.472000" end="0:13:37.805000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:37.805000" end="0:14:08.245000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:13:37.805000" end="0:14:08.245000" project="PP04" age_lower="65" age_upper="999">
 stimmt	-	-	-	0:13:37.805000	0:13:39.598000
 nicht	-	-	-	0:13:37.805000	0:13:39.598000
 ganz	-	-	-	0:13:37.805000	0:13:39.598000
@@ -1448,9 +1448,9 @@ beziehungsweise	-	-	-	0:14:05.645000	0:14:08.245000
 ORT	ORT	-	-	0:14:05.645000	0:14:08.245000
 ORT	ORT	-	-	0:14:05.645000	0:14:08.245000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:08.245000" end="0:14:08.765000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:08.245000" end="0:14:08.765000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:08.765000" end="0:14:13.025000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:08.765000" end="0:14:13.025000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	0:14:08.765000	0:14:09.678000
 bietet	-	-	-	0:14:08.765000	0:14:09.678000
 sich	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(nom.) klit+	0:14:08.765000	0:14:09.678000
@@ -1468,11 +1468,11 @@ der	-	-	-	0:14:09.678000	0:14:13.025000
 näheren	-	-	-	0:14:09.678000	0:14:13.025000
 Umgebung	-	-	-	0:14:09.678000	0:14:13.025000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:13.025000" end="0:14:13.318000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:13.025000" end="0:14:13.318000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:13.318000" end="0:14:13.925000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:13.318000" end="0:14:13.925000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:13.925000" end="0:14:17.332000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:13.925000" end="0:14:17.332000" age_lower="1" age_upper="999">
 und	-	-	-	0:14:13.925000	0:14:17.332000
 Sie	-	-	-	0:14:13.925000	0:14:17.332000
 selbst	-	-	-	0:14:13.925000	0:14:17.332000
@@ -1485,7 +1485,7 @@ auch	-	-	-	0:14:13.925000	0:14:17.332000
 in	-	-	-	0:14:13.925000	0:14:17.332000
 ORT	ORT	-	-	0:14:13.925000	0:14:17.332000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:17.332000" end="0:14:25.032000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:17.332000" end="0:14:25.032000" project="PP04" age_lower="65" age_upper="999">
 wie	-	-	-	0:14:17.332000	0:14:20.285000
 ja	-	-	-	0:14:17.332000	0:14:20.285000
 prinzipiell	-	-	-	0:14:17.332000	0:14:20.285000
@@ -1506,9 +1506,9 @@ ist	-	-	-	0:14:24.345000	0:14:25.032000
 ein	-	-	-	0:14:24.345000	0:14:25.032000
 Vorteil	-	-	-	0:14:24.345000	0:14:25.032000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:24.898000" end="0:14:25.305000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:24.898000" end="0:14:25.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:25.305000" end="0:14:28.072000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:25.305000" end="0:14:28.072000" project="PP04" age_lower="65" age_upper="999">
 für	-	-	-	0:14:25.305000	0:14:28.072000
 Senioren	-	-	-	0:14:25.305000	0:14:28.072000
 etwas	-	-	-	0:14:25.305000	0:14:28.072000
@@ -1517,12 +1517,12 @@ als	-	-	-	0:14:25.305000	0:14:28.072000
 sonst	-	-	-	0:14:25.305000	0:14:28.072000
 irgendwie	-	-	-	0:14:25.305000	0:14:28.072000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:25.978000" end="0:14:27.218000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:25.978000" end="0:14:27.218000" age_lower="1" age_upper="999">
 das	-	-	-	0:14:25.978000	0:14:26.585000
 ist	-	-	-	0:14:25.978000	0:14:26.585000
 ja	-	-	-	0:14:26.938000	0:14:27.218000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:28.072000" end="0:14:41.812000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:28.072000" end="0:14:41.812000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:14:28.072000	0:14:31.178000
 ah	-	-	-	0:14:28.072000	0:14:31.178000
 f	-	-	-	0:14:28.072000	0:14:31.178000
@@ -1554,9 +1554,9 @@ sich	-	-	-	0:14:40.138000	0:14:41.812000
 eh	-	-	-	0:14:40.138000	0:14:41.812000
 eigentlich	-	-	-	0:14:40.138000	0:14:41.812000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:41.152000" end="0:14:41.812000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:41.152000" end="0:14:41.812000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:41.812000" end="0:14:46.152000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:41.812000" end="0:14:46.152000" project="PP04" age_lower="65" age_upper="999">
 wenn	-	-	-	0:14:41.812000	0:14:43.052000
 man	-	-	-	0:14:41.812000	0:14:43.052000
 so	-	-	-	0:14:41.812000	0:14:43.052000
@@ -1572,9 +1572,9 @@ irgendetwas	-	-	-	0:14:43.052000	0:14:46.152000
 zu	-	-	-	0:14:43.052000	0:14:46.152000
 tun	-	-	-	0:14:43.052000	0:14:46.152000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:46.152000" end="0:14:46.858000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:46.152000" end="0:14:46.858000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:46.858000" end="0:14:50.658000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:46.858000" end="0:14:50.658000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	0:14:46.858000	0:14:50.658000
 weiß	-	-	-	0:14:46.858000	0:14:50.658000
 nicht	-	-	-	0:14:46.858000	0:14:50.658000
@@ -1591,10 +1591,10 @@ schon	-	-	-	0:14:46.858000	0:14:50.658000
 angesprochen	-	-	-	0:14:46.858000	0:14:50.658000
 hat	-	-	-	0:14:46.858000	0:14:50.658000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:50.658000" end="0:14:51.838000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:50.658000" end="0:14:51.838000" age_lower="1" age_upper="999">
 nein	-	-	-	0:14:50.658000	0:14:51.838000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:51.585000" end="0:14:59.325000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:51.585000" end="0:14:59.325000" project="PP04" age_lower="65" age_upper="999">
 über	-	-	-	0:14:51.585000	0:14:53.838000
 über	-	-	-	0:14:51.585000	0:14:53.838000
 türkenopern	-	-	-	0:14:51.585000	0:14:53.838000
@@ -1609,9 +1609,9 @@ negativ	-	-	-	0:14:55.185000	0:14:59.325000
 zu	-	-	-	0:14:55.185000	0:14:59.325000
 verstehen	-	-	-	0:14:55.185000	0:14:59.325000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:59.145000" end="0:14:59.558000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:59.145000" end="0:14:59.558000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:59.325000" end="0:15:11.152000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:14:59.325000" end="0:15:11.152000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	0:14:59.665000	0:15:02.872000
 war	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:14:59.665000	0:15:02.872000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:14:59.665000	0:15:02.872000
@@ -1639,7 +1639,7 @@ zur	-	-	-	0:15:06.825000	0:15:11.152000
 Verfügung	-	-	-	0:15:06.825000	0:15:11.152000
 steht	-	-	-	0:15:06.825000	0:15:11.152000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:07.098000" end="0:15:13.885000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:07.098000" end="0:15:13.885000" age_lower="1" age_upper="999">
 dankeschön	-	-	-	0:15:07.098000	0:15:07.738000
 und	-	-	-	0:15:11.152000	0:15:13.885000
 sie	-	-	-	0:15:11.152000	0:15:13.885000
@@ -1648,7 +1648,7 @@ die	-	-	-	0:15:11.152000	0:15:13.885000
 Ausstellung	-	-	-	0:15:11.152000	0:15:13.885000
 mit	-	-	-	0:15:11.152000	0:15:13.885000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:13.885000" end="0:15:23.485000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:13.885000" end="0:15:23.485000" project="PP04" age_lower="65" age_upper="999">
 mit	-	-	-	0:15:13.885000	0:15:15.018000
 ja	-	-	-	0:15:13.885000	0:15:15.018000
 ja	-	-	-	0:15:15.018000	0:15:16.958000
@@ -1672,9 +1672,9 @@ NAME	NAME	-	-	0:15:19.972000	0:15:23.485000
 in	-	-	-	0:15:19.972000	0:15:23.485000
 ORT	ORT	-	-	0:15:19.972000	0:15:23.485000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:23.485000" end="0:15:24.065000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:23.485000" end="0:15:24.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:24.065000" end="0:15:29.664000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:24.065000" end="0:15:29.664000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:15:24.065000	0:15:26.672000
 barockopern	-	-	-	0:15:24.065000	0:15:26.672000
 aufführen	-	-	-	0:15:24.065000	0:15:26.672000
@@ -1687,12 +1687,12 @@ oder	-	-	-	0:15:26.672000	0:15:29.664000
 auch	-	-	-	0:15:26.672000	0:15:29.664000
 nicht	-	-	-	0:15:26.672000	0:15:29.664000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:29.114000" end="0:15:30.674000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:29.114000" end="0:15:30.674000" age_lower="1" age_upper="999">
 nein	-	-	-	0:15:29.114000	0:15:30.674000
 leider	-	-	-	0:15:29.114000	0:15:30.674000
 nicht	-	-	-	0:15:29.114000	0:15:30.674000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:29.664000" end="0:15:40.669000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:29.664000" end="0:15:40.669000" project="PP04" age_lower="65" age_upper="999">
 muss	-	-	-	0:15:30.674000	0:15:31.994000
 auch	-	-	-	0:15:30.674000	0:15:31.994000
 nicht	-	-	-	0:15:30.674000	0:15:31.994000
@@ -1711,9 +1711,9 @@ in	-	-	-	0:15:37.224000	0:15:38.954000
 von	-	-	-	0:15:38.954000	0:15:40.669000
 Haydn	-	-	-	0:15:38.954000	0:15:40.669000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:40.669000" end="0:15:41.338000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:40.669000" end="0:15:41.338000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:41.338000" end="0:15:44.144000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:41.338000" end="0:15:44.144000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:15:41.338000	0:15:44.144000
 wie	-	-	-	0:15:41.338000	0:15:44.144000
 ähnlich	-	-	-	0:15:41.338000	0:15:44.144000
@@ -1723,9 +1723,9 @@ aus	-	-	-	0:15:41.338000	0:15:44.144000
 dem	-	-	-	0:15:41.338000	0:15:44.144000
 serail	-	-	-	0:15:41.338000	0:15:44.144000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:44.144000" end="0:15:44.509000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:44.144000" end="0:15:44.509000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:44.144000" end="0:16:14.859000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:15:44.144000" end="0:16:14.859000" project="PP04" age_lower="65" age_upper="999">
 eigentlich	-	-	-	0:15:44.144000	0:15:45.974000
 fast	-	-	-	0:15:44.144000	0:15:45.974000
 der	-	-	-	0:15:44.144000	0:15:45.974000
@@ -1796,14 +1796,14 @@ sowas	-	-	-	0:16:10.834000	0:16:14.859000
 zu	-	-	-	0:16:10.834000	0:16:14.859000
 machen	-	-	-	0:16:10.834000	0:16:14.859000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:14.859000" end="0:16:15.564000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:14.859000" end="0:16:15.564000" age_lower="1" age_upper="999">
 spannend	-	-	-	0:16:14.859000	0:16:15.564000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:16:14.859000" end="0:16:15.564000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:16:14.859000" end="0:16:15.564000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:16:14.859000	0:16:15.564000
 sie	-	-	-	0:16:14.859000	0:16:15.564000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:15.564000" end="0:16:21.064000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:15.564000" end="0:16:21.064000" age_lower="1" age_upper="999">
 und	-	-	-	0:16:15.564000	0:16:21.064000
 Sie	-	-	-	0:16:15.564000	0:16:21.064000
 sind	-	-	-	0:16:15.564000	0:16:21.064000
@@ -1818,7 +1818,7 @@ da	-	-	-	0:16:15.564000	0:16:21.064000
 dazu	-	-	-	0:16:15.564000	0:16:21.064000
 gekommen	-	-	-	0:16:15.564000	0:16:21.064000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:16:20.714000" end="0:16:25.339000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:16:20.714000" end="0:16:25.339000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:16:20.714000	0:16:22.264000
 nicht	-	-	-	0:16:20.714000	0:16:22.264000
 ganz	-	-	-	0:16:20.714000	0:16:22.264000
@@ -1833,9 +1833,9 @@ alles	-	-	-	0:16:22.264000	0:16:25.339000
 erzählt	-	-	-	0:16:22.264000	0:16:25.339000
 scheinbar,>	-	-	-	0:16:22.264000	0:16:25.339000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:24.484000" end="0:16:25.339000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:24.484000" end="0:16:25.339000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:16:25.339000" end="0:16:37.419000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:16:25.339000" end="0:16:37.419000" project="PP04" age_lower="65" age_upper="999">
 sonst	-	-	-	0:16:25.904000	0:16:27.829000
 ergeb	-	-	-	0:16:25.904000	0:16:27.829000
 sich	-	-	-	0:16:25.904000	0:16:27.829000
@@ -1870,9 +1870,9 @@ das	-	-	-	0:16:35.469000	0:16:36.714000
 zurück	-	-	-	0:16:35.469000	0:16:36.714000
 hausarbeit	-	-	-	0:16:36.714000	0:16:37.419000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:37.419000" end="0:16:37.959000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:37.419000" end="0:16:37.959000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:16:37.959000" end="0:17:11.304000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:16:37.959000" end="0:17:11.304000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:16:37.959000	0:16:41.914000
 da	-	-	-	0:16:37.959000	0:16:41.914000
 wurde	-	-	-	0:16:37.959000	0:16:41.914000
@@ -1951,9 +1951,9 @@ auch	-	-	-	0:17:08.654000	0:17:11.304000
 ein	-	-	-	0:17:08.654000	0:17:11.304000
 marionettentheater	-	-	-	0:17:08.654000	0:17:11.304000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:11.304000" end="0:17:11.699000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:11.304000" end="0:17:11.699000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:17:11.699000" end="0:17:16.289000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:17:11.699000" end="0:17:16.289000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:17:11.699000	0:17:12.564000
 für	-	-	-	0:17:12.564000	0:17:14.233000
 das	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	0:17:12.564000	0:17:14.233000
@@ -1969,9 +1969,9 @@ opern	-	-	-	0:17:14.233000	0:17:15.367000
 kleine	-	-	-	0:17:15.367000	0:17:16.289000
 Figuren	-	-	-	0:17:15.367000	0:17:16.289000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:16.289000" end="0:17:16.804000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:16.289000" end="0:17:16.804000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:17:16.804000" end="0:17:33.944000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:17:16.804000" end="0:17:33.944000" project="PP04" age_lower="65" age_upper="999">
 mit	-	-	-	0:17:16.804000	0:17:18.512000
 einem	-	-	-	0:17:16.804000	0:17:18.512000
 orchester	-	-	-	0:17:16.804000	0:17:18.512000
@@ -2014,10 +2014,10 @@ bet	-	-	-	0:17:28.549000	0:17:33.944000
 in	-	-	-	0:17:28.549000	0:17:33.944000
 Tätigkeit	-	-	-	0:17:28.549000	0:17:33.944000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:33.944000" end="0:17:34.674000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:33.944000" end="0:17:34.674000" age_lower="1" age_upper="999">
 unglaublich	-	-	-	0:17:33.944000	0:17:34.674000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:17:34.584000" end="0:18:12.163000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:17:34.584000" end="0:18:12.163000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:17:34.584000	0:17:35.504000
 das	-	-	-	0:17:34.584000	0:17:35.504000
 ist	-	-	-	0:17:34.584000	0:17:35.504000
@@ -2111,13 +2111,13 @@ also	-	-	-	0:18:10.838000	0:18:12.163000
 Papier	-	-	-	0:18:10.838000	0:18:12.163000
 stehend	-	-	-	0:18:10.838000	0:18:12.163000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:12.163000" end="0:18:13.113000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:12.163000" end="0:18:13.113000" age_lower="1" age_upper="999">
 auf	-	-	-	0:18:12.163000	0:18:13.113000
 jeden	-	-	-	0:18:12.163000	0:18:13.113000
 Fall	-	-	-	0:18:12.163000	0:18:13.113000
 viel	-	-	-	0:18:12.163000	0:18:13.113000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:13.113000" end="0:18:27.368000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:13.113000" end="0:18:27.368000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:18:13.113000	0:18:14.478000
 nebeneinander	-	-	-	0:18:13.113000	0:18:14.478000
 gelegt	-	-	-	0:18:13.113000	0:18:14.478000
@@ -2155,11 +2155,11 @@ siebenhundertsechzig	-	-	-	0:18:25.488000	0:18:27.368000
 <<lachend>	-	-	-	0:18:25.488000	0:18:27.368000
 seiten,>	-	-	-	0:18:25.488000	0:18:27.368000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:25.803000" end="0:18:28.578000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:25.803000" end="0:18:28.578000" age_lower="1" age_upper="999">
 ah	-	-	-	0:18:25.803000	0:18:26.288000
 unglaublich	-	-	-	0:18:27.368000	0:18:28.578000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:28.578000" end="0:18:43.765000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:28.578000" end="0:18:43.765000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	0:18:28.578000	0:18:30.073000
 und	-	-	-	0:18:28.578000	0:18:30.073000
 das	-	-	-	0:18:30.073000	0:18:32.038000
@@ -2196,7 +2196,7 @@ gern	-	-	-	0:18:41.068000	0:18:43.765000
 dann	-	-	-	0:18:41.068000	0:18:43.765000
 herüberbringen	-	-	-	0:18:41.068000	0:18:43.765000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:41.458000" end="0:18:44.391000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:41.458000" end="0:18:44.391000" age_lower="1" age_upper="999">
 aha	-	-	-	0:18:41.458000	0:18:43.558000
 das	-	-	-	0:18:41.458000	0:18:43.558000
 heißt	-	-	-	0:18:41.458000	0:18:43.558000
@@ -2208,7 +2208,7 @@ quasi	-	-	-	0:18:41.458000	0:18:43.558000
 ja	-	-	-	0:18:43.558000	0:18:44.391000
 gerne	-	-	-	0:18:43.558000	0:18:44.391000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:43.765000" end="0:18:45.171000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:43.765000" end="0:18:45.171000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:18:43.765000	0:18:45.171000
 ich	-	-	-	0:18:43.765000	0:18:45.171000
 mag	-	-	-	0:18:43.765000	0:18:45.171000
@@ -2216,7 +2216,7 @@ jetzt	-	-	-	0:18:43.765000	0:18:45.171000
 nicht	-	-	-	0:18:43.765000	0:18:45.171000
 vom	-	-	-	0:18:43.765000	0:18:45.171000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:45.171000" end="0:18:48.885000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:45.171000" end="0:18:48.885000" age_lower="1" age_upper="999">
 sich	-	-	-	0:18:45.171000	0:18:48.058000
 Sie	-	-	-	0:18:45.171000	0:18:48.058000
 sind	-	-	-	0:18:45.171000	0:18:48.058000
@@ -2228,7 +2228,7 @@ der	-	-	-	0:18:48.058000	0:18:48.885000
 da	-	-	-	0:18:48.058000	0:18:48.885000
 jetzt	-	-	-	0:18:48.058000	0:18:48.885000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:48.765000" end="0:18:52.685000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:48.765000" end="0:18:52.685000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:18:48.765000	0:18:49.825000
 klingt	-	-	-	0:18:48.765000	0:18:49.825000
 gut	-	-	-	0:18:48.765000	0:18:49.825000
@@ -2238,13 +2238,13 @@ gibt	-	-	-	0:18:49.825000	0:18:52.685000
 kaum	-	-	-	0:18:49.825000	0:18:52.685000
 jemanden	-	-	-	0:18:49.825000	0:18:52.685000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:50.825000" end="0:18:51.698000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:50.825000" end="0:18:51.698000" age_lower="1" age_upper="999">
 weil	-	-	-	0:18:50.825000	0:18:51.698000
 dann	-	-	-	0:18:50.825000	0:18:51.698000
 ja	-	-	-	0:18:50.825000	0:18:51.698000
 un	-	-	-	0:18:50.825000	0:18:51.698000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:52.685000" end="0:18:54.831000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:52.685000" end="0:18:54.831000" project="PP04" age_lower="65" age_upper="999">
 der	-	-	-	0:18:52.685000	0:18:54.418000
 sich	-	-	-	0:18:52.685000	0:18:54.418000
 so	-	-	-	0:18:52.685000	0:18:54.418000
@@ -2255,13 +2255,13 @@ getan	-	-	-	0:18:52.685000	0:18:54.418000
 hat	-	-	-	0:18:52.685000	0:18:54.418000
 ja	-	-	-	0:18:54.418000	0:18:54.831000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:54.831000" end="0:18:56.018000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:54.831000" end="0:18:56.018000" age_lower="1" age_upper="999">
 dann	-	-	-	0:18:54.831000	0:18:56.018000
 also	-	-	-	0:18:54.831000	0:18:56.018000
 ja	-	-	-	0:18:54.831000	0:18:56.018000
 ja	-	-	-	0:18:54.831000	0:18:56.018000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:55.431000" end="0:18:58.105000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:55.431000" end="0:18:58.105000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:18:55.431000	0:18:55.745000
 also	-	-	-	0:18:56.018000	0:18:58.105000
 man	-	-	-	0:18:56.018000	0:18:58.105000
@@ -2273,10 +2273,10 @@ die	-	-	-	0:18:56.018000	0:18:58.105000
 man	-	-	-	0:18:56.018000	0:18:58.105000
 hat	-	-	-	0:18:56.018000	0:18:58.105000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:56.665000" end="0:18:56.925000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:56.665000" end="0:18:56.925000" age_lower="1" age_upper="999">
 und	-	-	-	0:18:56.665000	0:18:56.925000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:58.105000" end="0:19:02.585000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:18:58.105000" end="0:19:02.585000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	0:18:58.105000	0:18:59.365000
 ich	-	-	-	0:18:58.105000	0:18:59.365000
 weiß	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(pl.akk.) klit-	0:18:58.105000	0:18:59.365000
@@ -2288,7 +2288,7 @@ nicht	-	-	-	0:19:00.431000	0:19:02.585000
 allen	-	-	-	0:19:00.431000	0:19:02.585000
 weiter	-	-	-	0:19:00.431000	0:19:02.585000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:00.765000" end="0:19:02.898000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:00.765000" end="0:19:02.898000" age_lower="1" age_upper="999">
 aber	-	-	-	0:19:00.765000	0:19:02.898000
 Sie	-	-	-	0:19:00.765000	0:19:02.898000
 sind	-	-	-	0:19:00.765000	0:19:02.898000
@@ -2296,12 +2296,12 @@ wahrscheinlich	-	-	-	0:19:00.765000	0:19:02.898000
 der	-	-	-	0:19:00.765000	0:19:02.898000
 einzige	-	-	-	0:19:00.765000	0:19:02.898000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:02.585000" end="0:19:02.898000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:02.585000" end="0:19:02.898000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:19:02.585000	0:19:02.898000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:02.898000" end="0:19:04.005000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:02.898000" end="0:19:04.005000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:04.005000" end="0:19:14.198000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:04.005000" end="0:19:14.198000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:19:04.005000	0:19:05.098000
 ich	-	-	-	0:19:04.005000	0:19:05.098000
 bin	-	-	-	0:19:04.005000	0:19:05.098000
@@ -2329,9 +2329,9 @@ damit	-	-	-	0:19:09.911000	0:19:14.198000
 auch	-	-	-	0:19:09.911000	0:19:14.198000
 beschäftige	-	-	-	0:19:09.911000	0:19:14.198000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:12.505000" end="0:19:12.845000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:12.505000" end="0:19:12.845000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:14.198000" end="0:19:42.771000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:14.198000" end="0:19:42.771000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:19:14.198000	0:19:15.691000
 heißt	-	-	-	0:19:14.198000	0:19:15.691000
 eher	-	-	-	0:19:14.198000	0:19:15.691000
@@ -2407,19 +2407,19 @@ paar	-	-	-	0:19:40.638000	0:19:42.771000
 Seiten	-	-	-	0:19:40.638000	0:19:42.771000
 mehr	-	-	-	0:19:40.638000	0:19:42.771000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:42.771000" end="0:19:44.231000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:42.771000" end="0:19:44.231000" age_lower="1" age_upper="999">
 <<lachend>	-	-	-	0:19:42.771000	0:19:44.231000
 ein	-	-	-	0:19:42.771000	0:19:44.231000
 paar	-	-	-	0:19:42.771000	0:19:44.231000
 ja,>	-	-	-	0:19:42.771000	0:19:44.231000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:43.351000" end="0:19:43.938000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:43.351000" end="0:19:43.938000" project="PP04" age_lower="65" age_upper="999">
 dem	-	-	-	0:19:43.351000	0:19:43.938000
 Fall	-	-	-	0:19:43.351000	0:19:43.938000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:44.231000" end="0:19:44.658000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:44.231000" end="0:19:44.658000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:44.231000" end="0:20:05.958000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:19:44.231000" end="0:20:05.958000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:19:44.231000	0:19:46.351000
 das	-	-	-	0:19:44.231000	0:19:46.351000
 hat	-	-	-	0:19:44.231000	0:19:46.351000
@@ -2487,9 +2487,9 @@ da	-	-	-	0:20:04.771000	0:20:05.958000
 Sinn	-	-	-	0:20:04.771000	0:20:05.958000
 ist	-	-	-	0:20:04.771000	0:20:05.958000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:04.905000" end="0:20:05.265000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:04.905000" end="0:20:05.265000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:05.958000" end="0:20:24.758000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:05.958000" end="0:20:24.758000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:20:05.958000	0:20:09.551000
 es	-	-	-	0:20:05.958000	0:20:09.551000
 gibt	-	-	-	0:20:05.958000	0:20:09.551000
@@ -2536,7 +2536,7 @@ nicht	-	-	-	0:20:23.931000	0:20:24.758000
 so	-	-	-	0:20:23.931000	0:20:24.758000
 wesentlich	-	-	-	0:20:23.931000	0:20:24.758000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:24.758000" end="0:20:27.818000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:24.758000" end="0:20:27.818000" age_lower="1" age_upper="999">
 na	-	-	-	0:20:24.758000	0:20:27.818000
 ja	-	-	-	0:20:24.758000	0:20:27.818000
 je	-	-	-	0:20:24.758000	0:20:27.818000
@@ -2547,7 +2547,7 @@ man	-	-	-	0:20:24.758000	0:20:27.818000
 stellt	-	-	-	0:20:24.758000	0:20:27.818000
 wahrscheinlich	-	-	-	0:20:24.758000	0:20:27.818000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:27.418000" end="0:20:33.271000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:27.418000" end="0:20:33.271000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	0:20:27.418000	0:20:29.451000
 ja	-	-	-	0:20:27.418000	0:20:29.451000
 ch	-	-	-	0:20:27.418000	0:20:29.451000
@@ -2565,7 +2565,7 @@ eher	-	-	-	0:20:29.451000	0:20:32.171000
 sekundär	-	-	-	0:20:29.451000	0:20:32.171000
 daher	-	-	-	0:20:32.171000	0:20:33.271000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:33.271000" end="0:20:41.945000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:33.271000" end="0:20:41.945000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:33.271000	0:20:41.945000
 und	-	-	-	0:20:33.271000	0:20:41.945000
 und	-	-	-	0:20:33.271000	0:20:41.945000
@@ -2580,10 +2580,10 @@ sozusagen	-	-	-	0:20:33.271000	0:20:41.945000
 im	-	-	-	0:20:33.271000	0:20:41.945000
 Hintergrund	-	-	-	0:20:33.271000	0:20:41.945000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:35.065000" end="0:20:42.125000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:35.065000" end="0:20:42.125000" project="PP04" age_lower="65" age_upper="999">
 ges	-	-	-	0:20:35.065000	0:20:35.465000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:41.945000" end="0:20:47.918000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:41.945000" end="0:20:47.918000" age_lower="1" age_upper="999">
 sind	-	-	-	0:20:41.945000	0:20:45.311000
 Sie	-	-	-	0:20:41.945000	0:20:45.311000
 jetzt	-	-	-	0:20:41.945000	0:20:45.311000
@@ -2599,7 +2599,7 @@ oder	-	-	-	0:20:45.311000	0:20:47.918000
 können	-	-	-	0:20:45.311000	0:20:47.918000
 da	-	-	-	0:20:45.311000	0:20:47.918000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:46.511000" end="0:20:56.585000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:46.511000" end="0:20:56.585000" project="PP04" age_lower="65" age_upper="999">
 würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:20:46.511000	0:20:47.818000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:20:46.511000	0:20:47.818000
 angesprochen	-	-	-	0:20:46.511000	0:20:47.818000
@@ -2634,9 +2634,9 @@ ein	-	-	-	0:20:55.638000	0:20:56.585000
 sujet	-	-	-	0:20:55.638000	0:20:56.585000
 sind	-	-	-	0:20:55.638000	0:20:56.585000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:56.585000" end="0:20:57.191000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:56.585000" end="0:20:57.191000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:57.191000" end="0:21:02.645000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:20:57.191000" end="0:21:02.645000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:20:57.191000	0:21:02.645000
 damals	-	-	-	0:20:57.191000	0:21:02.645000
 ah	-	-	-	0:20:57.191000	0:21:02.645000
@@ -2649,10 +2649,10 @@ nicht	-	-	-	0:20:57.191000	0:21:02.645000
 werden	-	-	-	0:20:57.191000	0:21:02.645000
 kann	-	-	-	0:20:57.191000	0:21:02.645000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:57.511000" end="0:20:58.138000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:57.511000" end="0:20:58.138000" age_lower="1" age_upper="999">
 natürlich	-	-	-	0:20:57.511000	0:20:58.138000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:21:02.645000" end="0:21:14.711000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:21:02.645000" end="0:21:14.711000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:21:02.645000	0:21:04.378000
 das	-	-	-	0:21:02.645000	0:21:04.378000
 war	-	-	-	0:21:02.645000	0:21:04.378000
@@ -2686,9 +2686,9 @@ man	-	-	-	0:21:11.105000	0:21:14.711000
 kaum	-	-	-	0:21:11.105000	0:21:14.711000
 überschätzen	-	-	-	0:21:11.105000	0:21:14.711000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:14.498000" end="0:21:14.858000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:14.498000" end="0:21:14.858000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:21:14.858000" end="0:21:35.584000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:21:14.858000" end="0:21:35.584000" project="PP04" age_lower="65" age_upper="999">
 wenn	-	-	-	0:21:14.858000	0:21:16.211000
 man	-	-	-	0:21:14.858000	0:21:16.211000
 überlegt	-	-	-	0:21:14.858000	0:21:16.211000
@@ -2739,9 +2739,9 @@ wieder	-	-	-	0:21:30.218000	0:21:35.584000
 verboten	-	-	-	0:21:30.218000	0:21:35.584000
 wurde	-	-	-	0:21:30.218000	0:21:35.584000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:35.584000" end="0:21:36.064000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:35.584000" end="0:21:36.064000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:21:36.064000" end="0:21:51.964000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:21:36.064000" end="0:21:51.964000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	-	0:21:36.064000	0:21:39.578000
 überwachung	-	-	-	0:21:36.064000	0:21:39.578000
 durch	-	-	-	0:21:36.064000	0:21:39.578000
@@ -2787,9 +2787,9 @@ ist	-	-	-	0:21:49.671000	0:21:51.964000
 auch	-	-	-	0:21:49.671000	0:21:51.964000
 begrenzt	-	-	-	0:21:49.671000	0:21:51.964000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:51.964000" end="0:21:52.384000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:51.964000" end="0:21:52.384000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:21:52.384000" end="0:22:04.098000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:21:52.384000" end="0:22:04.098000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	-	0:21:52.384000	0:21:54.804000
 das	-	-	-	0:21:52.384000	0:21:54.804000
 ja	-	-	-	0:21:52.384000	0:21:54.804000
@@ -2820,10 +2820,10 @@ Germanistik	-	-	-	0:22:01.318000	0:22:04.098000
 was	-	-	-	0:22:01.318000	0:22:04.098000
 sagt	-	-	-	0:22:01.318000	0:22:04.098000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:02.891000" end="0:22:04.571000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:02.891000" end="0:22:04.571000" age_lower="1" age_upper="999">
 jaja	-	-	-	0:22:04.098000	0:22:04.571000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:04.571000" end="0:22:22.477000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:04.571000" end="0:22:22.477000" project="PP04" age_lower="65" age_upper="999">
 der	-	-	-	0:22:04.571000	0:22:07.504000
 war	-	-	-	0:22:04.571000	0:22:07.504000
 ja	-	-	-	0:22:04.571000	0:22:07.504000
@@ -2867,7 +2867,7 @@ marionettenspiel	-	-	-	0:22:18.899000	0:22:22.477000
 abdecken	-	-	-	0:22:18.899000	0:22:22.477000
 können	-	-	-	0:22:18.899000	0:22:22.477000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:22.290000" end="0:22:24.051000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:22.290000" end="0:22:24.051000" age_lower="1" age_upper="999">
 ach	-	-	-	0:22:22.290000	0:22:22.668000
 das	-	-	-	0:22:22.668000	0:22:24.051000
 habe	-	-	-	0:22:22.668000	0:22:24.051000
@@ -2876,17 +2876,17 @@ gar	-	-	-	0:22:22.668000	0:22:24.051000
 nicht	-	-	-	0:22:22.668000	0:22:24.051000
 gewusst	-	-	-	0:22:22.668000	0:22:24.051000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:23.764000" end="0:22:25.820000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:23.764000" end="0:22:25.820000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:22:23.764000	0:22:25.820000
 auch	-	-	-	0:22:23.764000	0:22:25.820000
 eigentlich	-	-	-	0:22:23.764000	0:22:25.820000
 ganz	-	-	-	0:22:23.764000	0:22:25.820000
 konträr	-	-	-	0:22:23.764000	0:22:25.820000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:24.051000" end="0:22:24.268000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:24.051000" end="0:22:24.268000" age_lower="1" age_upper="999">
 ja	-	-	-	0:22:24.051000	0:22:24.268000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:25.820000" end="0:22:29.642000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:25.820000" end="0:22:29.642000" project="PP04" age_lower="65" age_upper="999">
 was	-	-	-	0:22:25.820000	0:22:27.055000
 man	-	-	-	0:22:25.820000	0:22:27.055000
 normalerweise	-	-	-	0:22:25.820000	0:22:27.055000
@@ -2902,9 +2902,9 @@ in	-	-	-	0:22:27.055000	0:22:29.642000
 der	-	-	-	0:22:27.055000	0:22:29.642000
 Hofburg	-	-	-	0:22:27.055000	0:22:29.642000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:29.642000" end="0:22:30.077000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:29.642000" end="0:22:30.077000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:30.077000" end="0:22:48.716000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:30.077000" end="0:22:48.716000" project="PP04" age_lower="65" age_upper="999">
 in	-	-	-	0:22:30.077000	0:22:31.686000
 ORT	ORT	-	-	0:22:30.077000	0:22:31.686000
 ganz	-	-	-	0:22:30.077000	0:22:31.686000
@@ -2956,10 +2956,10 @@ was	-	-	-	0:22:46.564000	0:22:48.716000
 gegessen	-	-	-	0:22:46.564000	0:22:48.716000
 wurde	-	-	-	0:22:46.564000	0:22:48.716000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:46.729000" end="0:22:47.099000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:46.729000" end="0:22:47.099000" age_lower="1" age_upper="999">
 ja	-	-	-	0:22:46.729000	0:22:47.099000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:48.716000" end="0:22:59.316000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:22:48.716000" end="0:22:59.316000" project="PP04" age_lower="65" age_upper="999">
 wo	-	-	-	0:22:48.716000	0:22:51.725000
 em	-	-	-	0:22:48.716000	0:22:51.725000
 wie	-	-	-	0:22:48.716000	0:22:51.725000
@@ -2985,7 +2985,7 @@ zu	-	-	-	0:22:54.086000	0:22:57.851000
 bringen	-	-	-	0:22:54.086000	0:22:57.851000
 gut	-	-	-	0:22:57.851000	0:22:58.855000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:59.316000" end="0:23:06.955000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:59.316000" end="0:23:06.955000" age_lower="1" age_upper="999">
 ja	-	-	-	0:22:59.316000	0:23:02.016000
 schon	-	-	-	0:22:59.316000	0:23:02.016000
 sehr	-	-	-	0:22:59.316000	0:23:02.016000
@@ -3003,7 +3003,7 @@ ihren	-	-	-	0:23:02.016000	0:23:06.955000
 Band	-	-	-	0:23:02.016000	0:23:06.955000
 werfen	-	-	-	0:23:02.016000	0:23:06.955000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:06.064000" end="0:23:07.586000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:06.064000" end="0:23:07.586000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	0:23:06.064000	0:23:07.586000
 kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:23:06.064000	0:23:07.586000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:23:06.064000	0:23:07.586000
@@ -3013,25 +3013,25 @@ gleich	-	-	-	0:23:06.064000	0:23:07.586000
 <<lachend>	-	-	-	0:23:06.064000	0:23:07.586000
 holen	-	-	-	0:23:06.064000	0:23:07.586000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:06.955000" end="0:23:08.825000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:06.955000" end="0:23:08.825000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:07.586000" end="0:23:08.825000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:07.586000" end="0:23:08.825000" project="PP04" age_lower="65" age_upper="999">
 oiso>	-	-	-	0:23:07.586000	0:23:08.096000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:08.825000" end="0:23:11.464000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:08.825000" end="0:23:11.464000" age_lower="1" age_upper="999">
 wahrscheinlich	-	-	-	0:23:08.825000	0:23:11.464000
 besser	-	-	-	0:23:08.825000	0:23:11.464000
 nachher	-	-	-	0:23:08.825000	0:23:11.464000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:10.903000" end="0:23:11.333000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:10.903000" end="0:23:11.333000" project="PP04" age_lower="65" age_upper="999">
 nachher	-	-	-	0:23:10.903000	0:23:11.333000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:11.464000" end="0:23:12.607000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:11.464000" end="0:23:12.607000" age_lower="1" age_upper="999">
 danke	-	-	-	0:23:11.464000	0:23:12.607000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:11.464000" end="0:23:12.607000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:11.464000" end="0:23:12.607000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:12.607000" end="0:23:15.873000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:12.607000" end="0:23:15.873000" age_lower="1" age_upper="999">
 und	-	-	-	0:23:13.273000	0:23:15.873000
 würde	-	-	-	0:23:13.273000	0:23:15.873000
 dann	-	-	-	0:23:13.273000	0:23:15.873000
@@ -3039,7 +3039,7 @@ aber	-	-	-	0:23:13.273000	0:23:15.873000
 jetzt	-	-	-	0:23:13.273000	0:23:15.873000
 nochmal	-	-	-	0:23:13.273000	0:23:15.873000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:15.068000" end="0:23:25.720000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:15.068000" end="0:23:25.720000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:23:15.068000	0:23:16.668000
 wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _Sie(hon.) klit-	0:23:15.068000	0:23:16.668000
 Sie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _Sie(hon.) klit-	0:23:15.068000	0:23:16.668000
@@ -3074,7 +3074,7 @@ nächsten	-	-	-	0:23:24.181000	0:23:25.720000
 Frage	-	-	-	0:23:24.181000	0:23:25.720000
 über	-	-	-	0:23:24.181000	0:23:25.720000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:24.477000" end="0:23:28.886000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:24.477000" end="0:23:28.886000" age_lower="1" age_upper="999">
 aber	-	-	-	0:23:26.116000	0:23:28.886000
 ich	-	-	-	0:23:26.116000	0:23:28.886000
 würde	-	-	-	0:23:26.116000	0:23:28.886000
@@ -3084,16 +3084,16 @@ zum	-	-	-	0:23:26.116000	0:23:28.886000
 Ort	-	-	-	0:23:26.116000	0:23:28.886000
 hier	-	-	-	0:23:26.116000	0:23:28.886000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:26.359000" end="0:23:26.886000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:26.359000" end="0:23:26.886000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:28.886000" end="0:23:29.459000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:28.886000" end="0:23:29.459000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:29.459000" end="0:23:30.264000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:29.459000" end="0:23:30.264000" project="PP04" age_lower="65" age_upper="999">
 zu	-	-	-	0:23:29.459000	0:23:30.264000
 ORT	ORT	-	-	0:23:29.459000	0:23:30.264000
 ja	-	-	-	0:23:29.459000	0:23:30.264000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:29.755000" end="0:23:33.103000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:29.755000" end="0:23:33.103000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:23:29.755000	0:23:31.964000
 haben	-	-	-	0:23:29.755000	0:23:31.964000
 schon	-	-	-	0:23:29.755000	0:23:31.964000
@@ -3108,9 +3108,9 @@ gefällt	-	-	-	0:23:31.964000	0:23:33.103000
 Ihnen	-	-	-	0:23:31.964000	0:23:33.103000
 gut	-	-	-	0:23:31.964000	0:23:33.103000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:32.359000" end="0:23:32.777000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:32.359000" end="0:23:32.777000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:33.103000" end="0:23:36.329000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:33.103000" end="0:23:36.329000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:23:33.103000	0:23:36.329000
 es	-	-	-	0:23:33.103000	0:23:36.329000
 denn	-	-	-	0:23:33.103000	0:23:36.329000
@@ -3122,7 +3122,7 @@ Sie	-	-	-	0:23:33.103000	0:23:36.329000
 oder	-	-	-	0:23:33.103000	0:23:36.329000
 stört	-	-	-	0:23:33.103000	0:23:36.329000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:36.329000" end="0:23:43.151000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:36.329000" end="0:23:43.151000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:23:38.946000	0:23:42.259000
 dass	-	-	-	0:23:38.946000	0:23:42.259000
 die	-	-	-	0:23:38.946000	0:23:42.259000
@@ -3133,9 +3133,9 @@ garten<<lachend>zaun	-	-	-	0:23:38.946000	0:23:42.259000
 sind,>	-	-	-	0:23:38.946000	0:23:42.259000
 ah	-	-	-	0:23:42.259000	0:23:43.151000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:42.668000" end="0:23:43.151000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:42.668000" end="0:23:43.151000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:43.151000" end="0:24:02.103000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:23:43.151000" end="0:24:02.103000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:23:43.151000	0:23:45.294000
 muss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:43.151000	0:23:45.294000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:43.151000	0:23:45.294000
@@ -3180,9 +3180,9 @@ so	-	-	-	0:23:59.394000	0:24:02.103000
 posi<<lachend>tiver	-	-	-	0:23:59.394000	0:24:02.103000
 erfahrungen,>	-	-	-	0:23:59.394000	0:24:02.103000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:02.103000" end="0:24:02.533000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:02.103000" end="0:24:02.533000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:24:02.533000" end="0:24:54.841000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:24:02.533000" end="0:24:54.841000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	-	0:24:02.533000	0:24:08.459000
 einfach	-	-	-	0:24:02.533000	0:24:08.459000
 damals	-	-	-	0:24:02.533000	0:24:08.459000
@@ -3312,16 +3312,16 @@ ein	-	-	-	0:24:53.657000	0:24:54.841000
 Zug	-	-	-	0:24:53.657000	0:24:54.841000
 da	-	-	-	0:24:53.657000	0:24:54.841000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:54.841000" end="0:24:55.291000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:54.841000" end="0:24:55.291000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:24:54.841000" end="0:24:55.580000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:24:54.841000" end="0:24:55.580000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	0:24:54.841000	0:24:55.291000
 ja	-	-	-	0:24:55.291000	0:24:55.580000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:55.580000" end="0:24:55.995000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:55.580000" end="0:24:55.995000" age_lower="1" age_upper="999">
 genau	-	-	-	0:24:55.580000	0:24:55.995000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:24:55.995000" end="0:24:59.145000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:24:55.995000" end="0:24:59.145000" project="PP04" age_lower="65" age_upper="999">
 durchgefahren	-	-	-	0:24:55.995000	0:24:56.914000
 sind	-	-	-	0:24:55.995000	0:24:56.914000
 dort	-	-	-	0:24:56.914000	0:24:59.145000
@@ -3335,9 +3335,9 @@ Ort	-	-	-	0:24:56.914000	0:24:59.145000
 als	-	-	-	0:24:56.914000	0:24:59.145000
 Einwohner	-	-	-	0:24:56.914000	0:24:59.145000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:59.145000" end="0:24:59.841000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:59.145000" end="0:24:59.841000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:24:59.622000" end="0:25:27.168000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:24:59.622000" end="0:25:27.168000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:24:59.622000	0:25:01.799000
 ist	-	-	-	0:24:59.622000	0:25:01.799000
 bei	-	-	-	0:24:59.622000	0:25:01.799000
@@ -3398,9 +3398,9 @@ manchmal	-	-	-	0:25:22.587000	0:25:27.168000
 verkauft	-	-	-	0:25:22.587000	0:25:27.168000
 werden	-	-	-	0:25:22.587000	0:25:27.168000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:27.168000" end="0:25:27.714000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:27.168000" end="0:25:27.714000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:25:27.714000" end="0:25:48.991000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:25:27.714000" end="0:25:48.991000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:25:27.714000	0:25:32.510000
 ich	-	-	-	0:25:27.714000	0:25:32.510000
 hoffe	-	-	-	0:25:27.714000	0:25:32.510000
@@ -3452,9 +3452,9 @@ gemeindebesitz	-	-	-	0:25:45.398000	0:25:48.991000
 geblieben	-	-	-	0:25:45.398000	0:25:48.991000
 wäre	-	-	-	0:25:45.398000	0:25:48.991000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:48.804000" end="0:25:49.297000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:48.804000" end="0:25:49.297000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:25:48.991000" end="0:26:18.144000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:25:48.991000" end="0:26:18.144000" project="PP04" age_lower="65" age_upper="999">
 von	-	-	-	0:25:48.991000	0:25:50.344000
 der	-	-	-	0:25:48.991000	0:25:50.344000
 verfügbarkeit	-	-	-	0:25:48.991000	0:25:50.344000
@@ -3531,9 +3531,9 @@ Bedarf	-	-	-	0:26:16.097000	0:26:18.144000
 gegeben	-	-	-	0:26:16.097000	0:26:18.144000
 wäre	-	-	-	0:26:16.097000	0:26:18.144000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:18.144000" end="0:26:18.604000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:18.144000" end="0:26:18.604000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:26:18.604000" end="0:26:51.134000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:26:18.604000" end="0:26:51.134000" project="PP04" age_lower="65" age_upper="999">
 wenn	-	-	-	0:26:18.604000	0:26:19.777000
 man	-	-	-	0:26:18.604000	0:26:19.777000
 dran	-	-	-	0:26:18.604000	0:26:19.777000
@@ -3618,10 +3618,10 @@ nicht	-	-	-	0:26:48.234000	0:26:51.134000
 ganz	-	-	-	0:26:48.234000	0:26:51.134000
 optimal	-	-	-	0:26:48.234000	0:26:51.134000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:48.827000" end="0:26:49.392000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:48.827000" end="0:26:49.392000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:48.827000	0:26:49.392000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:26:51.134000" end="0:27:20.884000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:26:51.134000" end="0:27:20.884000" project="PP04" age_lower="65" age_upper="999">
 weniger	-	-	-	0:26:51.134000	0:26:53.249000
 wegen	-	-	-	0:26:51.134000	0:26:53.249000
 der	-	-	-	0:26:51.134000	0:26:53.249000
@@ -3679,21 +3679,21 @@ ohne	-	-	-	0:27:19.613000	0:27:20.884000
 zusätzliche	-	-	-	0:27:19.613000	0:27:20.884000
 zahlung	-	-	-	0:27:19.613000	0:27:20.884000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:20.884000" end="0:27:21.513000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:20.884000" end="0:27:21.513000" age_lower="1" age_upper="999">
 aha	-	-	-	0:27:20.884000	0:27:21.513000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:27:21.363000" end="0:27:22.377000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:27:21.363000" end="0:27:22.377000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:27:21.363000	0:27:22.377000
 ist	-	-	-	0:27:21.363000	0:27:22.377000
 sehr	-	-	-	0:27:21.363000	0:27:22.377000
 angenehm	-	-	-	0:27:21.363000	0:27:22.377000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:22.377000" end="0:27:23.120000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:22.377000" end="0:27:23.120000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:27:22.377000	0:27:23.120000
 gut	-	-	-	0:27:22.377000	0:27:23.120000
 ja	-	-	-	0:27:22.377000	0:27:23.120000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:27:22.956000" end="0:27:48.242000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:27:22.956000" end="0:27:48.242000" project="PP04" age_lower="65" age_upper="999">
 für	-	-	-	0:27:22.956000	0:27:25.006000
 das	-	-	-	0:27:22.956000	0:27:25.006000
 Stadtgebiet	-	-	-	0:27:22.956000	0:27:25.006000
@@ -3752,9 +3752,9 @@ youtube	-	-	-	0:27:47.006000	0:27:48.242000
 zu	-	-	-	0:27:47.006000	0:27:48.242000
 sehen	-	-	-	0:27:47.006000	0:27:48.242000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:47.742000" end="0:27:48.242000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:47.742000" end="0:27:48.242000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:27:48.242000" end="0:27:54.842000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:27:48.242000" end="0:27:54.842000" project="PP04" age_lower="65" age_upper="999">
 wie	-	-	-	0:27:48.242000	0:27:51.099000
 demoliert	-	-	-	0:27:48.242000	0:27:51.099000
 man	-	-	-	0:27:48.242000	0:27:51.099000
@@ -3777,10 +3777,10 @@ hinüber	-	-	-	0:27:52.613000	0:27:54.842000
 transportiert	-	-	-	0:27:52.613000	0:27:54.842000
 werden	-	-	-	0:27:52.613000	0:27:54.842000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:54.842000" end="0:27:55.334000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:54.842000" end="0:27:55.334000" age_lower="1" age_upper="999">
 ach	-	-	-	0:27:54.842000	0:27:55.334000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:27:54.842000" end="0:28:08.634000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:27:54.842000" end="0:28:08.634000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:27:54.842000	0:27:56.370000
 sie	-	-	-	0:27:54.842000	0:27:56.370000
 fahren	-	-	-	0:27:54.842000	0:27:56.370000
@@ -3826,9 +3826,9 @@ blutabnahme	-	-	-	0:28:06.063000	0:28:08.634000
 heute	-	-	-	0:28:06.063000	0:28:08.634000
 hatte	-	-	-	0:28:06.063000	0:28:08.634000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:08.634000" end="0:28:09.127000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:08.634000" end="0:28:09.127000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:09.127000" end="0:28:24.913000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:09.127000" end="0:28:24.913000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:28:09.127000	0:28:13.963000
 heißt	-	-	-	0:28:09.127000	0:28:13.963000
 deswegen	-	-	-	0:28:09.127000	0:28:13.963000
@@ -3859,9 +3859,9 @@ die	-	-	-	0:28:20.113000	0:28:24.913000
 vier	-	-	-	0:28:20.113000	0:28:24.913000
 Euro	-	-	-	0:28:20.113000	0:28:24.913000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:24.913000" end="0:28:25.570000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:24.913000" end="0:28:25.570000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:25.234000" end="0:28:27.506000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:25.234000" end="0:28:27.506000" project="PP04" age_lower="65" age_upper="999">
 zu	-	-	-	0:28:25.234000	0:28:25.984000
 jedem	-	-	-	0:28:25.234000	0:28:25.984000
 Ort	-	-	-	0:28:25.234000	0:28:25.984000
@@ -3871,7 +3871,7 @@ geht	-	-	-	0:28:25.984000	0:28:27.506000
 eigentlich	-	-	-	0:28:25.984000	0:28:27.506000
 auch	-	-	-	0:28:25.984000	0:28:27.506000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:27.506000" end="0:28:31.477000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:27.506000" end="0:28:31.477000" age_lower="1" age_upper="999">
 aber	-	-	-	0:28:27.506000	0:28:31.477000
 das	-	-	-	0:28:27.506000	0:28:31.477000
 würd	-	-	-	0:28:27.506000	0:28:31.477000
@@ -3884,11 +3884,11 @@ in	-	-	-	0:28:27.506000	0:28:31.477000
 Anspruch	-	-	-	0:28:27.506000	0:28:31.477000
 nehmen	-	-	-	0:28:27.506000	0:28:31.477000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:31.042000" end="0:28:32.599000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:31.042000" end="0:28:32.599000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:28:31.042000	0:28:32.599000
 aber	-	-	-	0:28:31.042000	0:28:32.599000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:31.477000" end="0:28:33.542000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:31.477000" end="0:28:33.542000" age_lower="1" age_upper="999">
 aber	-	-	-	0:28:31.477000	0:28:33.542000
 f	-	-	-	0:28:31.477000	0:28:33.542000
 für	-	-	-	0:28:31.477000	0:28:33.542000
@@ -3896,7 +3896,7 @@ hin	-	-	-	0:28:31.477000	0:28:33.542000
 und	-	-	-	0:28:31.477000	0:28:33.542000
 wieder	-	-	-	0:28:31.477000	0:28:33.542000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:33.027000" end="0:28:42.334000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:33.027000" end="0:28:42.334000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:28:33.027000	0:28:34.842000
 wesentliche	-	-	-	0:28:33.027000	0:28:34.842000
 einwände	-	-	-	0:28:33.027000	0:28:34.842000
@@ -3916,9 +3916,9 @@ anderen	-	-	-	0:28:35.934000	0:28:42.334000
 Akzent	-	-	-	0:28:35.934000	0:28:42.334000
 setzen	-	-	-	0:28:35.934000	0:28:42.334000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:42.334000" end="0:28:43.084000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:42.334000" end="0:28:43.084000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:43.084000" end="0:28:55.377000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:43.084000" end="0:28:55.377000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:28:43.084000	0:28:44.156000
 das	-	-	-	0:28:44.156000	0:28:46.499000
 ist	-	-	-	0:28:44.156000	0:28:46.499000
@@ -3948,7 +3948,7 @@ eine	-	-	-	0:28:52.234000	0:28:55.377000
 persönliche	-	-	-	0:28:52.234000	0:28:55.377000
 spinnerei	-	-	-	0:28:52.234000	0:28:55.377000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:55.377000" end="0:28:59.734000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:55.377000" end="0:28:59.734000" age_lower="1" age_upper="999">
 na	-	-	-	0:28:55.377000	0:28:59.734000
 ja	-	-	-	0:28:55.377000	0:28:59.734000
 oder	-	-	-	0:28:55.377000	0:28:59.734000
@@ -3959,17 +3959,17 @@ sönliche	-	-	-	0:28:55.377000	0:28:59.734000
 Perspektive	-	-	-	0:28:55.377000	0:28:59.734000
 eben	-	-	-	0:28:55.377000	0:28:59.734000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:55.727000" end="0:28:57.484000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:55.727000" end="0:28:57.484000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:59.734000" end="0:29:02.534000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:59.734000" end="0:29:02.534000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:59.734000" end="0:29:02.534000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:28:59.734000" end="0:29:02.534000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:28:59.734000	0:29:01.527000
 oder	-	-	-	0:28:59.734000	0:29:01.527000
 eine	-	-	-	0:28:59.734000	0:29:01.527000
 priorität	-	-	-	0:28:59.734000	0:29:01.527000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:02.534000" end="0:29:06.334000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:02.534000" end="0:29:06.334000" age_lower="1" age_upper="999">
 und	-	-	-	0:29:02.534000	0:29:06.334000
 äh	-	-	-	0:29:02.534000	0:29:06.334000
 wenn	-	-	-	0:29:02.534000	0:29:06.334000
@@ -3983,10 +3983,10 @@ Bürgermeister	-	-	-	0:29:02.534000	0:29:06.334000
 hier	-	-	-	0:29:02.534000	0:29:06.334000
 wären	-	-	-	0:29:02.534000	0:29:06.334000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:29:06.334000" end="0:29:06.863000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:29:06.334000" end="0:29:06.863000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:29:06.334000	0:29:06.863000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:06.863000" end="0:29:10.684000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:06.863000" end="0:29:10.684000" age_lower="1" age_upper="999">
 wäre	-	-	-	0:29:06.863000	0:29:10.684000
 das	-	-	-	0:29:06.863000	0:29:10.684000
 vielleicht	-	-	-	0:29:06.863000	0:29:10.684000
@@ -3996,7 +3996,7 @@ Sie	-	-	-	0:29:06.863000	0:29:10.684000
 angreifen	-	-	-	0:29:06.863000	0:29:10.684000
 würden	-	-	-	0:29:06.863000	0:29:10.684000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:29:08.813000" end="0:29:16.570000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:29:08.813000" end="0:29:16.570000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:29:10.684000	0:29:16.570000
 ich	-	-	-	0:29:10.684000	0:29:16.570000
 glaube	-	-	-	0:29:10.684000	0:29:16.570000
@@ -4012,9 +4012,9 @@ manches	-	-	-	0:29:10.684000	0:29:16.570000
 machen	-	-	-	0:29:10.684000	0:29:16.570000
 könnte	-	-	-	0:29:10.684000	0:29:16.570000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:15.384000" end="0:29:15.841000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:15.384000" end="0:29:15.841000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:29:16.570000" end="0:29:30.184000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:29:16.570000" end="0:29:30.184000" project="PP04" age_lower="65" age_upper="999">
 Politik	-	-	-	0:29:16.570000	0:29:18.541000
 ist	-	-	-	0:29:16.570000	0:29:18.541000
 die	-	-	-	0:29:16.570000	0:29:18.541000
@@ -4049,11 +4049,11 @@ finanziell	-	-	-	0:29:27.684000	0:29:30.184000
 also	-	-	-	0:29:27.684000	0:29:30.184000
 vertretbar	-	-	-	0:29:27.684000	0:29:30.184000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:30.184000" end="0:29:31.720000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:30.184000" end="0:29:31.720000" age_lower="1" age_upper="999">
 natürlich	-	-	-	0:29:30.791000	0:29:31.720000
 ja	-	-	-	0:29:30.791000	0:29:31.720000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:29:31.191000" end="0:30:10.599000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:29:31.191000" end="0:30:10.599000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:29:31.191000	0:29:32.241000
 das	-	-	-	0:29:31.191000	0:29:32.241000
 ist	-	-	-	0:29:31.191000	0:29:32.241000
@@ -4153,11 +4153,11 @@ demonstrieren	-	-	-	0:30:07.291000	0:30:10.599000
 viel	-	-	-	0:30:07.291000	0:30:10.599000
 geholfen	-	-	-	0:30:07.291000	0:30:10.599000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:10.599000" end="0:30:11.077000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:10.599000" end="0:30:11.077000" age_lower="1" age_upper="999">
 na	-	-	-	0:30:10.599000	0:30:11.077000
 ja	-	-	-	0:30:10.599000	0:30:11.077000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:30:11.077000" end="0:30:19.997000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:30:11.077000" end="0:30:19.997000" project="PP04" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:30:11.077000	0:30:11.799000
 in	-	-	-	0:30:11.077000	0:30:11.799000
 ORT	ORT	-	-	0:30:11.077000	0:30:11.799000
@@ -4176,14 +4176,14 @@ ist	-	-	-	0:30:17.764000	0:30:19.477000
 gut	-	-	-	0:30:17.764000	0:30:19.477000
 und	-	-	-	0:30:19.477000	0:30:19.997000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:19.997000" end="0:30:24.210000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:19.997000" end="0:30:24.210000" age_lower="1" age_upper="999">
 ja	-	-	-	0:30:19.997000	0:30:24.210000
 schön	-	-	-	0:30:19.997000	0:30:24.210000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:30:23.457000" end="0:30:25.517000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:30:23.457000" end="0:30:25.517000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:30:23.457000	0:30:23.684000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:24.210000" end="0:30:27.690000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:24.210000" end="0:30:27.690000" age_lower="1" age_upper="999">
 also	-	-	-	0:30:24.210000	0:30:27.690000
 es	-	-	-	0:30:24.210000	0:30:27.690000
 Sie	-	-	-	0:30:24.210000	0:30:27.690000
@@ -4196,7 +4196,7 @@ Bild	-	-	-	0:30:24.210000	0:30:27.690000
 vom	-	-	-	0:30:24.210000	0:30:27.690000
 Ort	-	-	-	0:30:24.210000	0:30:27.690000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:30:27.690000" end="0:30:52.817000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:30:27.690000" end="0:30:52.817000" project="PP04" age_lower="65" age_upper="999">
 prinzipiell	-	-	-	0:30:27.690000	0:30:29.390000
 ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:27.690000	0:30:29.390000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:27.690000	0:30:29.390000
@@ -4253,10 +4253,10 @@ passt	-	-	-	0:30:50.184000	0:30:52.817000
 schon	-	-	-	0:30:50.184000	0:30:52.817000
 irgendwie	-	-	-	0:30:50.184000	0:30:52.817000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:52.370000" end="0:30:52.817000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:52.370000" end="0:30:52.817000" age_lower="1" age_upper="999">
 tja	-	-	-	0:30:52.370000	0:30:52.817000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:30:52.817000" end="0:31:06.957000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:30:52.817000" end="0:31:06.957000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:30:52.817000	0:30:56.604000
 positiv	-	-	-	0:30:52.817000	0:30:56.604000
 muss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:30:52.817000	0:30:56.604000
@@ -4293,9 +4293,9 @@ relativ	-	-	-	0:31:05.517000	0:31:06.957000
 aufwendich	-	-	-	0:31:05.517000	0:31:06.957000
 ist	-	-	-	0:31:05.517000	0:31:06.957000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:06.957000" end="0:31:07.490000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:06.957000" end="0:31:07.490000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:07.490000" end="0:31:18.122000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:07.490000" end="0:31:18.122000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:31:07.490000	0:31:09.370000
 war	-	-	-	0:31:07.490000	0:31:09.370000
 einmal	-	-	-	0:31:07.490000	0:31:09.370000
@@ -4324,10 +4324,10 @@ da	-	-	-	0:31:15.218000	0:31:18.122000
 NAME	NAME	-	-	0:31:15.218000	0:31:18.122000
 besprochen	-	-	-	0:31:15.218000	0:31:18.122000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:18.122000" end="0:31:18.798000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:18.122000" end="0:31:18.798000" age_lower="1" age_upper="999">
 ah	-	-	-	0:31:18.122000	0:31:18.798000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:18.122000" end="0:31:35.358000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:18.122000" end="0:31:35.358000" project="PP04" age_lower="65" age_upper="999">
 NAME	NAME	-	-	0:31:18.122000	0:31:19.310000
 Teil	-	-	-	0:31:18.122000	0:31:19.310000
 und	-	-	-	0:31:19.310000	0:31:19.602000
@@ -4369,10 +4369,10 @@ also	-	-	-	0:31:33.886000	0:31:35.358000
 wesentliche	-	-	-	0:31:33.886000	0:31:35.358000
 Teile	-	-	-	0:31:33.886000	0:31:35.358000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:34.078000" end="0:31:35.358000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:34.078000" end="0:31:35.358000" age_lower="1" age_upper="999">
 ach	-	-	-	0:31:34.078000	0:31:34.442000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:35.358000" end="0:31:53.904000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:35.358000" end="0:31:53.904000" project="PP04" age_lower="65" age_upper="999">
 nie	-	-	-	0:31:35.358000	0:31:37.254000
 alles	-	-	-	0:31:35.358000	0:31:37.254000
 auf	-	-	-	0:31:35.358000	0:31:37.254000
@@ -4415,24 +4415,24 @@ NAME	NAME	-	-	0:31:49.210000	0:31:53.904000
 Nachhilfe	-	-	-	0:31:49.210000	0:31:53.904000
 gegeben	-	-	-	0:31:49.210000	0:31:53.904000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:53.904000" end="0:31:54.724000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:53.904000" end="0:31:54.724000" age_lower="1" age_upper="999">
 ah	-	-	-	0:31:53.904000	0:31:54.724000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:54.437000" end="0:31:57.310000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:54.437000" end="0:31:57.310000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:31:54.724000	0:31:57.310000
 ich	-	-	-	0:31:54.724000	0:31:57.310000
 weiß	-	-	-	0:31:54.724000	0:31:57.310000
 nicht	-	-	-	0:31:54.724000	0:31:57.310000
 wem	-	-	-	0:31:54.724000	0:31:57.310000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:56.437000" end="0:31:57.984000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:56.437000" end="0:31:57.984000" age_lower="1" age_upper="999">
 also	-	-	-	0:31:56.437000	0:31:57.984000
 ist	-	-	-	0:31:56.437000	0:31:57.984000
 ja	-	-	-	0:31:56.437000	0:31:57.984000
 doch	-	-	-	0:31:56.437000	0:31:57.984000
 wirklich	-	-	-	0:31:56.437000	0:31:57.984000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:57.310000" end="0:31:59.244000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:57.310000" end="0:31:59.244000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:31:57.310000	0:31:59.244000
 es	-	-	-	0:31:57.310000	0:31:59.244000
 gibt	-	-	-	0:31:57.310000	0:31:59.244000
@@ -4440,29 +4440,29 @@ keine	-	-	-	0:31:57.310000	0:31:59.244000
 abrechnungszettel	-	-	-	0:31:57.310000	0:31:59.244000
 mehr	-	-	-	0:31:57.310000	0:31:59.244000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:31:59.070000" end="0:32:00.324000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:59.070000" end="0:32:00.324000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:59.244000" end="0:32:01.577000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:31:59.244000" end="0:32:01.577000" project="PP04" age_lower="65" age_upper="999">
 leider	-	-	-	0:32:00.324000	0:32:00.710000
 eine	-	-	-	0:32:00.710000	0:32:01.577000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:01.577000" end="0:32:03.510000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:01.577000" end="0:32:03.510000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:32:01.577000	0:32:03.510000
 spannend	-	-	-	0:32:01.577000	0:32:03.510000
 historisch	-	-	-	0:32:01.577000	0:32:03.510000
 auch	-	-	-	0:32:01.577000	0:32:03.510000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:03.510000" end="0:32:06.084000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:03.510000" end="0:32:06.084000" project="PP04" age_lower="65" age_upper="999">
 prinzipiell	-	-	-	0:32:03.510000	0:32:06.084000
 ORT	ORT	-	-	0:32:03.510000	0:32:06.084000
 schon	-	-	-	0:32:03.510000	0:32:06.084000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:04.484000" end="0:32:06.450000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:04.484000" end="0:32:06.450000" age_lower="1" age_upper="999">
 aber	-	-	-	0:32:04.484000	0:32:05.064000
 ja	-	-	-	0:32:04.484000	0:32:05.064000
 ja	-	-	-	0:32:06.084000	0:32:06.450000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:06.450000" end="0:32:11.604000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:06.450000" end="0:32:11.604000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	-	0:32:06.450000	0:32:08.130000
 ja	-	-	-	0:32:06.450000	0:32:08.130000
 ORT	ORT	-	-	0:32:06.450000	0:32:08.130000
@@ -4480,17 +4480,17 @@ zu	-	-	-	0:32:08.130000	0:32:11.604000
 gehen	-	-	-	0:32:08.130000	0:32:11.604000
 langsam,>	-	-	-	0:32:08.130000	0:32:11.604000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:11.364000" end="0:32:11.970000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:11.364000" end="0:32:11.970000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:11.970000" end="0:32:12.690000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:11.970000" end="0:32:12.690000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:12.690000" end="0:32:13.777000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:12.690000" end="0:32:13.777000" age_lower="1" age_upper="999">
 tut	-	-	-	0:32:12.690000	0:32:13.777000
 es	-	-	-	0:32:12.690000	0:32:13.777000
 gar	-	-	-	0:32:12.690000	0:32:13.777000
 nicht	-	-	-	0:32:12.690000	0:32:13.777000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:12.690000" end="0:32:14.950000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:12.690000" end="0:32:14.950000" project="PP04" age_lower="65" age_upper="999">
 Mittelalter	-	-	-	0:32:12.690000	0:32:14.950000
 den	-	-	-	0:32:12.690000	0:32:14.950000
 gleich	-	-	-	0:32:12.690000	0:32:14.950000
@@ -4498,9 +4498,9 @@ ist	-	-	-	0:32:12.690000	0:32:14.950000
 wie	-	-	-	0:32:12.690000	0:32:14.950000
 ORT	ORT	-	-	0:32:12.690000	0:32:14.950000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:14.950000" end="0:32:15.884000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:14.950000" end="0:32:15.884000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:15.757000" end="0:32:20.097000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:15.757000" end="0:32:20.097000" project="PP04" age_lower="65" age_upper="999">
 dieses	-	-	-	0:32:15.757000	0:32:17.284000
 NAME	NAME	-	-	0:32:15.757000	0:32:17.284000
 NAME	NAME	-	-	0:32:15.757000	0:32:17.284000
@@ -4510,10 +4510,10 @@ eine	-	-	-	0:32:17.284000	0:32:20.097000
 ORT	ORT	-	-	0:32:17.284000	0:32:20.097000
 Institution	-	-	-	0:32:17.284000	0:32:20.097000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:20.097000" end="0:32:20.790000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:20.097000" end="0:32:20.790000" age_lower="1" age_upper="999">
 aha	-	-	-	0:32:20.097000	0:32:20.790000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:20.604000" end="0:32:28.284000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:20.604000" end="0:32:28.284000" project="PP04" age_lower="65" age_upper="999">
 jetzt	-	-	-	0:32:20.604000	0:32:22.617000
 dreißig	-	-	-	0:32:20.604000	0:32:22.617000
 vierzig	-	-	-	0:32:20.604000	0:32:22.617000
@@ -4541,10 +4541,10 @@ vollkommen	-	-	-	0:32:27.130000	0:32:28.284000
 falsch	-	-	-	0:32:27.130000	0:32:28.284000
 ist	-	-	-	0:32:27.130000	0:32:28.284000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:28.284000" end="0:32:29.050000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:28.284000" end="0:32:29.050000" age_lower="1" age_upper="999">
 ach	-	-	-	0:32:28.284000	0:32:29.050000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:29.050000" end="0:32:47.250000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:29.050000" end="0:32:47.250000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:32:29.050000	0:32:30.777000
 heißt	-	-	-	0:32:29.050000	0:32:30.777000
 man	-	-	-	0:32:29.050000	0:32:30.777000
@@ -4588,11 +4588,11 @@ ein	-	-	-	0:32:45.557000	0:32:47.250000
 gewisses	-	-	-	0:32:45.557000	0:32:47.250000
 Alter	-	-	-	0:32:45.557000	0:32:47.250000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:47.250000" end="0:32:48.257000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:47.250000" end="0:32:48.257000" age_lower="1" age_upper="999">
 allerdings	-	-	-	0:32:47.250000	0:32:48.257000
 ja	-	-	-	0:32:47.250000	0:32:48.257000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:47.950000" end="0:33:02.217000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:32:47.950000" end="0:33:02.217000" project="PP04" age_lower="65" age_upper="999">
 müsste	-	-	-	0:32:47.950000	0:32:49.317000
 man	-	-	-	0:32:47.950000	0:32:49.317000
 schon	-	-	-	0:32:47.950000	0:32:49.317000
@@ -4624,10 +4624,10 @@ einer	-	-	-	0:32:57.610000	0:33:02.217000
 ORT	ORT	-	-	0:32:57.610000	0:33:02.217000
 grabbeigabe	-	-	-	0:32:57.610000	0:33:02.217000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:02.217000" end="0:33:02.577000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:02.217000" end="0:33:02.577000" age_lower="1" age_upper="999">
 ach	-	-	-	0:33:02.217000	0:33:02.577000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:02.217000" end="0:33:06.637000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:02.217000" end="0:33:06.637000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	0:33:02.217000	0:33:04.144000
 aus	-	-	-	0:33:02.217000	0:33:04.144000
 einem	-	-	-	0:33:02.217000	0:33:04.144000
@@ -4636,11 +4636,11 @@ grab	-	-	-	0:33:02.217000	0:33:04.144000
 war	-	-	-	0:33:04.144000	0:33:06.637000
 eine	-	-	-	0:33:04.144000	0:33:06.637000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:06.637000" end="0:33:08.517000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:06.637000" end="0:33:08.517000" age_lower="1" age_upper="999">
 aber	-	-	-	0:33:06.637000	0:33:08.517000
 das	-	-	-	0:33:06.637000	0:33:08.517000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:08.197000" end="0:33:16.937000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:08.197000" end="0:33:16.937000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:33:08.197000	0:33:08.517000
 da	-	-	-	0:33:08.197000	0:33:08.517000
 könnte	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:33:08.517000	0:33:09.950000
@@ -4669,7 +4669,7 @@ auch	-	-	-	0:33:15.190000	0:33:16.937000
 ORT	ORT	-	-	0:33:15.190000	0:33:16.937000
 herzogstadt	-	-	-	0:33:15.190000	0:33:16.937000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:16.050000" end="0:33:18.530000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:16.050000" end="0:33:18.530000" age_lower="1" age_upper="999">
 aha	-	-	-	0:33:16.050000	0:33:18.057000
 das	-	-	-	0:33:16.050000	0:33:18.057000
 das	-	-	-	0:33:16.050000	0:33:18.057000
@@ -4679,7 +4679,7 @@ auch	-	-	-	0:33:16.050000	0:33:18.057000
 nicht	-	-	-	0:33:16.050000	0:33:18.057000
 gewusst	-	-	-	0:33:16.050000	0:33:18.057000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:18.057000" end="0:33:24.204000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:18.057000" end="0:33:24.204000" project="PP04" age_lower="65" age_upper="999">
 tja	-	-	-	0:33:18.057000	0:33:18.530000
 und	-	-	-	0:33:18.530000	0:33:20.470000
 ja	-	-	-	0:33:20.470000	0:33:24.204000
@@ -4693,9 +4693,9 @@ Wappen	-	-	-	0:33:20.470000	0:33:24.204000
 im	-	-	-	0:33:20.470000	0:33:24.204000
 Wappen	-	-	-	0:33:20.470000	0:33:24.204000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:24.204000" end="0:33:25.070000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:24.204000" end="0:33:25.070000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:25.070000" end="0:33:33.050000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:25.070000" end="0:33:33.050000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:33:25.070000	0:33:28.644000
 heißt	-	-	-	0:33:25.070000	0:33:28.644000
 da	-	-	-	0:33:25.070000	0:33:28.644000
@@ -4716,10 +4716,10 @@ das	-	-	-	0:33:31.550000	0:33:33.050000
 ORT	ORT	-	-	0:33:31.550000	0:33:33.050000
 Wappen	-	-	-	0:33:31.550000	0:33:33.050000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:33.050000" end="0:33:33.837000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:33.050000" end="0:33:33.837000" age_lower="1" age_upper="999">
 ach	-	-	-	0:33:33.050000	0:33:33.837000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:33.837000" end="0:33:37.964000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:33.837000" end="0:33:37.964000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:33:33.837000	0:33:36.124000
 äh	-	-	-	0:33:33.837000	0:33:36.124000
 f	-	-	-	0:33:33.837000	0:33:36.124000
@@ -4731,7 +4731,7 @@ halt	-	-	-	0:33:36.124000	0:33:37.964000
 einfach	-	-	-	0:33:36.124000	0:33:37.964000
 weiter,>	-	-	-	0:33:36.124000	0:33:37.964000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:36.530000" end="0:33:42.284000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:36.530000" end="0:33:42.284000" age_lower="1" age_upper="999">
 ja	-	-	-	0:33:36.530000	0:33:40.550000
 das	-	-	-	0:33:36.530000	0:33:40.550000
 ist	-	-	-	0:33:36.530000	0:33:40.550000
@@ -4747,7 +4747,7 @@ lerne	-	-	-	0:33:36.530000	0:33:40.550000
 bei	-	-	-	0:33:36.530000	0:33:40.550000
 Ihnen	-	-	-	0:33:36.530000	0:33:40.550000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:40.550000" end="0:33:50.050000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:40.550000" end="0:33:50.050000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:33:41.137000	0:33:42.284000
 darum	-	-	-	0:33:41.137000	0:33:42.284000
 geht	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:33:41.137000	0:33:42.284000
@@ -4777,9 +4777,9 @@ auch	-	-	-	0:33:46.204000	0:33:50.050000
 wichtige	-	-	-	0:33:46.204000	0:33:50.050000
 Stadt	-	-	-	0:33:46.204000	0:33:50.050000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:49.690000" end="0:33:50.050000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:49.690000" end="0:33:50.050000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:50.050000" end="0:34:25.523000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:33:50.050000" end="0:34:25.523000" project="PP04" age_lower="65" age_upper="999">
 sonst	-	-	-	0:33:50.050000	0:33:51.304000
 hätten	-	-	-	0:33:50.050000	0:33:51.304000
 nicht	-	-	-	0:33:50.050000	0:33:51.304000
@@ -4867,9 +4867,9 @@ ja	-	-	-	0:34:21.737000	0:34:25.523000
 aufgeforstet	-	-	-	0:34:21.737000	0:34:25.523000
 wieder	-	-	-	0:34:21.737000	0:34:25.523000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:25.523000" end="0:34:26.097000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:25.523000" end="0:34:26.097000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:34:26.097000" end="0:34:58.691000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:34:26.097000" end="0:34:58.691000" project="PP04" age_lower="65" age_upper="999">
 schreckliches	-	-	-	0:34:26.097000	0:34:26.976000
 Wort	-	-	-	0:34:26.097000	0:34:26.976000
 nämlich	-	-	-	0:34:26.976000	0:34:27.777000
@@ -4948,10 +4948,10 @@ um	-	-	-	0:34:55.895000	0:34:58.691000
 siebzehnhundert	-	-	-	0:34:55.895000	0:34:58.691000
 herum	-	-	-	0:34:55.895000	0:34:58.691000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:58.691000" end="0:34:59.495000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:58.691000" end="0:34:59.495000" age_lower="1" age_upper="999">
 aha	-	-	-	0:34:58.691000	0:34:59.495000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:34:59.495000" end="0:35:03.714000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:34:59.495000" end="0:35:03.714000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:34:59.495000	0:35:03.714000
 und	-	-	-	0:34:59.495000	0:35:03.714000
 damit	-	-	-	0:34:59.495000	0:35:03.714000
@@ -4965,23 +4965,23 @@ Steiermark	-	-	-	0:34:59.495000	0:35:03.714000
 und	-	-	-	0:34:59.495000	0:35:03.714000
 ORT	ORT	-	-	0:34:59.495000	0:35:03.714000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:02.256000" end="0:35:04.957000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:02.256000" end="0:35:04.957000" age_lower="1" age_upper="999">
 jaja	-	-	-	0:35:02.256000	0:35:02.876000
 natürlich	-	-	-	0:35:03.714000	0:35:04.957000
 ah	-	-	-	0:35:03.714000	0:35:04.957000
 das	-	-	-	0:35:03.714000	0:35:04.957000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:04.503000" end="0:35:05.657000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:04.503000" end="0:35:05.657000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	0:35:04.503000	0:35:05.657000
 nur	-	-	-	0:35:04.503000	0:35:05.657000
 die	-	-	-	0:35:04.503000	0:35:05.657000
 eisen<<lachend>bahn,>	-	-	-	0:35:04.503000	0:35:05.657000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:05.657000" end="0:35:06.717000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:05.657000" end="0:35:06.717000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:05.657000" end="0:35:06.717000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:05.657000" end="0:35:06.717000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:06.717000" end="0:35:09.823000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:06.717000" end="0:35:09.823000" age_lower="1" age_upper="999">
 war	-	-	-	0:35:06.717000	0:35:08.790000
 mir	-	-	-	0:35:06.717000	0:35:08.790000
 so	-	-	-	0:35:06.717000	0:35:08.790000
@@ -4994,7 +4994,7 @@ ich	-	-	-	0:35:08.790000	0:35:09.823000
 Ihnen	-	-	-	0:35:08.790000	0:35:09.823000
 gestehen	-	-	-	0:35:08.790000	0:35:09.823000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:09.823000" end="0:35:11.810000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:09.823000" end="0:35:11.810000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:35:09.823000	0:35:11.383000
 das	-	-	-	0:35:09.823000	0:35:11.383000
 ist	-	-	-	0:35:09.823000	0:35:11.383000
@@ -5005,7 +5005,7 @@ speziell	-	-	-	0:35:09.823000	0:35:11.383000
 glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:35:11.383000	0:35:11.810000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:35:11.383000	0:35:11.810000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:11.810000" end="0:35:16.590000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:11.810000" end="0:35:16.590000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:11.810000	0:35:14.657000
 aber	-	-	-	0:35:11.810000	0:35:14.657000
 dann	-	-	-	0:35:11.810000	0:35:14.657000
@@ -5020,17 +5020,17 @@ da	-	-	-	0:35:14.657000	0:35:16.590000
 da	-	-	-	0:35:14.657000	0:35:16.590000
 schon	-	-	-	0:35:14.657000	0:35:16.590000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:16.017000" end="0:35:17.677000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:16.017000" end="0:35:17.677000" project="PP04" age_lower="65" age_upper="999">
 prinzipiell	-	-	-	0:35:16.017000	0:35:17.677000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:16.590000" end="0:35:17.677000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:16.590000" end="0:35:17.677000" age_lower="1" age_upper="999">
 dass	-	-	-	0:35:16.590000	0:35:17.677000
 ist	-	-	-	0:35:16.590000	0:35:17.677000
 ja	-	-	-	0:35:16.590000	0:35:17.677000
 jetzt	-	-	-	0:35:16.590000	0:35:17.677000
 nicht	-	-	-	0:35:16.590000	0:35:17.677000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:17.677000" end="0:35:28.083000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:17.677000" end="0:35:28.083000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:35:17.677000	0:35:19.817000
 also	-	-	-	0:35:17.677000	0:35:19.817000
 von	-	-	-	0:35:17.677000	0:35:19.817000
@@ -5055,9 +5055,9 @@ türkenkriege	-	-	-	0:35:21.157000	0:35:28.083000
 überlebt	-	-	-	0:35:21.157000	0:35:28.083000
 haben	-	-	-	0:35:21.157000	0:35:28.083000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:28.083000" end="0:35:28.850000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:28.083000" end="0:35:28.850000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:28.850000" end="0:35:30.823000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:28.850000" end="0:35:30.823000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:35:28.850000	0:35:30.130000
 ja	-	-	-	0:35:28.850000	0:35:30.130000
 nicht	-	-	-	0:35:28.850000	0:35:30.130000
@@ -5067,10 +5067,10 @@ würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:35:30.130000	0
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:35:30.130000	0:35:30.823000
 sagen	-	-	-	0:35:30.130000	0:35:30.823000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:30.423000" end="0:35:30.823000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:30.423000" end="0:35:30.823000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:30.423000	0:35:30.823000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:30.823000" end="0:35:36.523000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:30.823000" end="0:35:36.523000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:35:30.823000	0:35:32.590000
 gut	-	-	-	0:35:32.590000	0:35:36.523000
 aber	-	-	-	0:35:32.590000	0:35:36.523000
@@ -5083,11 +5083,11 @@ traurigen	-	-	-	0:35:32.590000	0:35:36.523000
 hängen	-	-	-	0:35:32.590000	0:35:36.523000
 bleiben	-	-	-	0:35:32.590000	0:35:36.523000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:35.383000" end="0:35:37.103000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:35.383000" end="0:35:37.103000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:36.523000" end="0:35:37.883000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:36.523000" end="0:35:37.883000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:37.103000" end="0:35:42.383000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:37.103000" end="0:35:42.383000" age_lower="1" age_upper="999">
 na	-	-	-	0:35:37.103000	0:35:40.357000
 dann	-	-	-	0:35:37.103000	0:35:40.357000
 ah	-	-	-	0:35:37.103000	0:35:40.357000
@@ -5105,7 +5105,7 @@ zum	-	-	-	0:35:40.357000	0:35:42.383000
 Thema	-	-	-	0:35:40.357000	0:35:42.383000
 Sprache	-	-	-	0:35:40.357000	0:35:42.383000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:40.357000" end="0:35:45.643000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:40.357000" end="0:35:45.643000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:35:40.357000	0:35:42.857000
 Sie	-	-	-	0:35:40.357000	0:35:42.857000
 haben	-	-	-	0:35:40.357000	0:35:42.857000
@@ -5121,7 +5121,7 @@ der	-	-	-	0:35:43.483000	0:35:45.643000
 Wortschatz	-	-	-	0:35:43.483000	0:35:45.643000
 vorkommt	-	-	-	0:35:43.483000	0:35:45.643000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:44.810000" end="0:35:48.170000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:44.810000" end="0:35:48.170000" age_lower="1" age_upper="999">
 damit	-	-	-	0:35:44.810000	0:35:47.183000
 ich	-	-	-	0:35:44.810000	0:35:47.183000
 mich	-	-	-	0:35:44.810000	0:35:47.183000
@@ -5129,7 +5129,7 @@ etwas	-	-	-	0:35:44.810000	0:35:47.183000
 festhalten	-	-	-	0:35:44.810000	0:35:47.183000
 kann	-	-	-	0:35:44.810000	0:35:47.183000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:47.390000" end="0:35:48.950000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:47.390000" end="0:35:48.950000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:35:47.390000	0:35:47.717000
 das	-	-	-	0:35:48.170000	0:35:48.950000
 ist	-	-	-	0:35:48.170000	0:35:48.950000
@@ -5137,11 +5137,11 @@ schon	-	-	-	0:35:48.170000	0:35:48.950000
 gut	-	-	-	0:35:48.170000	0:35:48.950000
 so	-	-	-	0:35:48.170000	0:35:48.950000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:48.950000" end="0:35:49.777000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:48.950000" end="0:35:49.777000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:49.230000" end="0:35:49.777000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:49.230000" end="0:35:49.777000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:49.777000" end="0:35:57.097000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:49.777000" end="0:35:57.097000" age_lower="1" age_upper="999">
 äh	-	-	-	0:35:49.777000	0:35:53.457000
 dann	-	-	-	0:35:49.777000	0:35:53.457000
 springen	-	-	-	0:35:49.777000	0:35:53.457000
@@ -5163,7 +5163,7 @@ dem	-	-	-	0:35:54.530000	0:35:57.097000
 Begriff	-	-	-	0:35:54.530000	0:35:57.097000
 Dialekt	-	-	-	0:35:54.530000	0:35:57.097000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:57.097000" end="0:36:19.850000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:35:57.097000" end="0:36:19.850000" project="PP04" age_lower="65" age_upper="999">
 Lokal	-	-	-	0:35:59.783000	0:36:03.503000
 ausgeformte	-	-	-	0:35:59.783000	0:36:03.503000
 einer	-	-	-	0:36:03.503000	0:36:07.310000
@@ -5190,9 +5190,9 @@ in	-	-	-	0:36:16.030000	0:36:19.850000
 sich	-	-	-	0:36:16.030000	0:36:19.850000
 trägt	-	-	-	0:36:16.030000	0:36:19.850000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:19.850000" end="0:36:20.257000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:19.850000" end="0:36:20.257000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:20.257000" end="0:36:29.983000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:20.257000" end="0:36:29.983000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:36:20.257000	0:36:26.837000
 eher	-	-	-	0:36:20.257000	0:36:26.837000
 auf	-	-	-	0:36:20.257000	0:36:26.837000
@@ -5206,9 +5206,9 @@ kommuniktationsbereich	-	-	-	0:36:26.837000	0:36:29.983000
 bezogen	-	-	-	0:36:26.837000	0:36:29.983000
 ist	-	-	-	0:36:26.837000	0:36:29.983000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:29.983000" end="0:36:30.617000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:29.983000" end="0:36:30.617000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:30.617000" end="0:36:35.197000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:30.617000" end="0:36:35.197000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:36:30.617000	0:36:35.197000
 ich	-	-	-	0:36:30.617000	0:36:35.197000
 f	-	-	-	0:36:30.617000	0:36:35.197000
@@ -5220,7 +5220,7 @@ definitionsfragen	-	-	-	0:36:30.617000	0:36:35.197000
 <<lachend>	-	-	-	0:36:30.617000	0:36:35.197000
 kommen,>	-	-	-	0:36:30.617000	0:36:35.197000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:33.403000" end="0:36:35.337000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:33.403000" end="0:36:35.337000" age_lower="1" age_upper="999">
 ja	-	-	-	0:36:33.403000	0:36:33.597000
 also	-	-	-	0:36:34.137000	0:36:35.337000
 aso	-	-	-	0:36:34.137000	0:36:35.337000
@@ -5228,9 +5228,9 @@ nein	-	-	-	0:36:34.137000	0:36:35.337000
 das	-	-	-	0:36:34.137000	0:36:35.337000
 ist	-	-	-	0:36:34.137000	0:36:35.337000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:35.197000" end="0:36:36.197000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:35.197000" end="0:36:36.197000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:35.337000" end="0:36:41.410000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:35.337000" end="0:36:41.410000" age_lower="1" age_upper="999">
 so	-	-	-	0:36:36.883000	0:36:41.410000
 eine	-	-	-	0:36:36.883000	0:36:41.410000
 elaborierte	-	-	-	0:36:36.883000	0:36:41.410000
@@ -5244,21 +5244,21 @@ noch	-	-	-	0:36:36.883000	0:36:41.410000
 nicht	-	-	-	0:36:36.883000	0:36:41.410000
 gehört	-	-	-	0:36:36.883000	0:36:41.410000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:36.883000" end="0:36:37.690000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:36.883000" end="0:36:37.690000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:36:36.883000	0:36:37.690000
 eben	-	-	-	0:36:36.883000	0:36:37.690000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:41.410000" end="0:36:41.923000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:41.410000" end="0:36:41.923000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:41.410000" end="0:36:41.923000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:41.410000" end="0:36:41.923000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:36:41.410000	0:36:41.923000
 so	-	-	-	0:36:41.410000	0:36:41.923000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:41.923000" end="0:36:42.397000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:41.923000" end="0:36:42.397000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:36:41.923000	0:36:42.397000
 schön	-	-	-	0:36:41.923000	0:36:42.397000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:42.397000" end="0:36:44.443000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:42.397000" end="0:36:44.443000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _Sie(hon.) klit-	0:36:42.397000	0:36:44.443000
 sie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _Sie(hon.) klit-	0:36:42.397000	0:36:44.443000
 so	-	-	-	0:36:42.397000	0:36:44.443000
@@ -5268,15 +5268,15 @@ jetzt	-	-	-	0:36:42.397000	0:36:44.443000
 also	-	-	-	0:36:42.397000	0:36:44.443000
 der	-	-	-	0:36:42.397000	0:36:44.443000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:43.503000" end="0:36:45.157000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:43.503000" end="0:36:45.157000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:36:43.503000	0:36:43.823000
 sehr	-	-	-	0:36:44.197000	0:36:45.157000
 schön	-	-	-	0:36:44.197000	0:36:45.157000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:45.157000" end="0:36:45.477000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:45.157000" end="0:36:45.477000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	0:36:45.157000	0:36:45.477000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:45.477000" end="0:36:49.777000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:45.477000" end="0:36:49.777000" age_lower="1" age_upper="999">
 und	-	-	-	0:36:45.477000	0:36:49.777000
 wie	-	-	-	0:36:45.477000	0:36:49.777000
 würden	-	-	-	0:36:45.477000	0:36:49.777000
@@ -5287,29 +5287,29 @@ von	-	-	-	0:36:45.477000	0:36:49.777000
 Dialekt	-	-	-	0:36:45.477000	0:36:49.777000
 bezeichnen	-	-	-	0:36:45.477000	0:36:49.777000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:49.777000" end="0:36:52.277000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:49.777000" end="0:36:52.277000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	0:36:49.777000	0:36:52.277000
 gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:36:49.777000	0:36:52.277000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:36:49.777000	0:36:52.277000
 mehrere	-	-	-	0:36:49.777000	0:36:52.277000
 gegenteilchen	-	-	-	0:36:49.777000	0:36:52.277000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:52.023000" end="0:36:53.037000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:52.023000" end="0:36:53.037000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:36:52.023000	0:36:53.037000
 ja>	-	-	-	0:36:52.023000	0:36:53.037000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:52.277000" end="0:36:55.330000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:52.277000" end="0:36:55.330000" project="PP04" age_lower="65" age_upper="999">
 Teile	-	-	-	0:36:52.277000	0:36:53.037000
 ich	-	-	-	0:36:54.017000	0:36:55.330000
 merke	-	-	-	0:36:54.017000	0:36:55.330000
 das	-	-	-	0:36:54.017000	0:36:55.330000
 frühe	-	-	-	0:36:54.017000	0:36:55.330000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:54.143000" end="0:36:54.890000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:54.143000" end="0:36:54.890000" age_lower="1" age_upper="999">
 zum	-	-	-	0:36:54.143000	0:36:54.890000
 Beispiel	-	-	-	0:36:54.143000	0:36:54.890000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:55.330000" end="0:37:02.017000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:36:55.330000" end="0:37:02.017000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:36:55.330000	0:36:57.837000
 halb	-	-	-	0:36:55.330000	0:36:57.837000
 sechs	-	-	-	0:36:55.330000	0:36:57.837000
@@ -5344,16 +5344,16 @@ einmal	-	-	-	0:37:00.543000	0:37:01.617000
 das	-	-	-	0:37:01.617000	0:37:02.017000
 ist	-	-	-	0:37:01.617000	0:37:02.017000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:02.017000" end="0:37:02.323000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:02.017000" end="0:37:02.323000" age_lower="1" age_upper="999">
 ach	-	-	-	0:37:02.017000	0:37:02.323000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:02.017000" end="0:37:02.937000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:02.017000" end="0:37:02.937000" project="PP04" age_lower="65" age_upper="999">
 ergibt	-	-	-	0:37:02.017000	0:37:02.937000
 sich	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(nom.) klit+	0:37:02.017000	0:37:02.937000
 es	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(nom.) klit+	0:37:02.017000	0:37:02.937000
 daraus	-	-	-	0:37:02.017000	0:37:02.937000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:02.937000" end="0:37:04.790000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:02.937000" end="0:37:04.790000" age_lower="1" age_upper="999">
 es	-	-	-	0:37:02.937000	0:37:04.790000
 geht	-	-	-	0:37:02.937000	0:37:04.790000
 ja	-	-	-	0:37:02.937000	0:37:04.790000
@@ -5363,7 +5363,7 @@ plaudern	-	-	-	0:37:02.937000	0:37:04.790000
 und	-	-	-	0:37:02.937000	0:37:04.790000
 nicht	-	-	-	0:37:02.937000	0:37:04.790000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:03.750000" end="0:37:07.343000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:03.750000" end="0:37:07.343000" project="PP04" age_lower="65" age_upper="999">
 gut	-	-	-	0:37:03.750000	0:37:04.197000
 na	-	-	-	0:37:04.403000	0:37:06.423000
 ja	-	-	-	0:37:04.403000	0:37:06.423000
@@ -5374,9 +5374,9 @@ eben	-	-	-	0:37:04.403000	0:37:06.423000
 stanndardsprache	-	-	-	0:37:04.403000	0:37:06.423000
 Umgangssprache	-	-	-	0:37:06.423000	0:37:07.343000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:06.663000" end="0:37:06.977000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:06.663000" end="0:37:06.977000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:07.343000" end="0:37:15.823000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:07.343000" end="0:37:15.823000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:37:07.343000	0:37:08.703000
 über	-	-	-	0:37:07.343000	0:37:08.703000
 einen	-	-	-	0:37:07.343000	0:37:08.703000
@@ -5397,9 +5397,9 @@ nachdem	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:37:14.45000
 ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:37:14.450000	0:37:15.823000
 meine	-	-	-	0:37:14.450000	0:37:15.823000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:14.883000" end="0:37:15.243000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:14.883000" end="0:37:15.243000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:15.823000" end="0:37:48.023000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:15.823000" end="0:37:48.023000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	0:37:15.823000	0:37:20.003000
 Duden	-	-	-	0:37:15.823000	0:37:20.003000
 ist	-	-	-	0:37:15.823000	0:37:20.003000
@@ -5464,9 +5464,9 @@ würde	-	-	-	0:37:44.990000	0:37:46.837000
 sonst	-	-	-	0:37:46.837000	0:37:48.023000
 irgendwie	-	-	-	0:37:46.837000	0:37:48.023000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:47.657000" end="0:37:48.023000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:47.657000" end="0:37:48.023000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:48.023000" end="0:37:50.143000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:48.023000" end="0:37:50.143000" project="PP04" age_lower="65" age_upper="999">
 gut	-	-	-	0:37:48.023000	0:37:50.143000
 aber	-	-	-	0:37:48.023000	0:37:50.143000
 auch	-	-	-	0:37:48.023000	0:37:50.143000
@@ -5474,9 +5474,9 @@ Teile	-	-	-	0:37:48.023000	0:37:50.143000
 der	-	-	-	0:37:48.023000	0:37:50.143000
 Jugendsprache	-	-	-	0:37:48.023000	0:37:50.143000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:50.143000" end="0:37:50.910000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:50.143000" end="0:37:50.910000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:50.910000" end="0:37:55.030000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:50.910000" end="0:37:55.030000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:37:50.910000	0:37:52.503000
 man	-	-	-	0:37:50.910000	0:37:52.503000
 zwar	-	-	-	0:37:50.910000	0:37:52.503000
@@ -5493,9 +5493,9 @@ Alter	-	-	-	0:37:52.503000	0:37:55.030000
 vergessen	-	-	-	0:37:52.503000	0:37:55.030000
 hat	-	-	-	0:37:52.503000	0:37:55.030000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:55.030000" end="0:37:56.017000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:55.030000" end="0:37:56.017000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:55.030000" end="0:38:02.543000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:37:55.030000" end="0:38:02.543000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:37:55.030000	0:37:56.017000
 ch	-	-	-	0:37:56.017000	0:37:56.990000
 da	-	-	-	0:37:56.017000	0:37:56.990000
@@ -5510,16 +5510,16 @@ Umgangsprache	-	-	-	0:37:56.990000	0:38:01.563000
 so	-	-	-	0:38:01.563000	0:38:02.543000
 weiter	-	-	-	0:38:01.563000	0:38:02.543000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:02.543000" end="0:38:03.123000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:02.543000" end="0:38:03.123000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:03.123000" end="0:38:05.130000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:03.123000" end="0:38:05.130000" project="PP04" age_lower="65" age_upper="999">
 sogenannte	-	-	-	0:38:03.123000	0:38:05.130000
 Hochdeutsch	-	-	-	0:38:03.123000	0:38:05.130000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:03.723000" end="0:38:04.243000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:03.723000" end="0:38:04.243000" age_lower="1" age_upper="999">
 und	-	-	-	0:38:03.723000	0:38:04.243000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:05.130000" end="0:38:07.710000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:05.130000" end="0:38:07.710000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:38:05.130000	0:38:07.710000
 ja	-	-	-	0:38:05.130000	0:38:07.710000
 bisschen	-	-	-	0:38:05.130000	0:38:07.710000
@@ -5530,7 +5530,7 @@ da	-	-	-	0:38:05.130000	0:38:07.710000
 Bezeichnung	-	-	-	0:38:05.130000	0:38:07.710000
 her	-	-	-	0:38:05.130000	0:38:07.710000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:07.710000" end="0:38:13.723000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:07.710000" end="0:38:13.723000" age_lower="1" age_upper="999">
 genau	-	-	-	0:38:07.710000	0:38:09.097000
 jaja	-	-	-	0:38:07.710000	0:38:09.097000
 und	-	-	-	0:38:09.097000	0:38:13.723000
@@ -5542,18 +5542,18 @@ selbst	-	-	-	0:38:09.097000	0:38:13.723000
 sprechen	-	-	-	0:38:09.097000	0:38:13.723000
 beides	-	-	-	0:38:09.097000	0:38:13.723000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:13.723000" end="0:38:16.817000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:13.723000" end="0:38:16.817000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:38:13.723000	0:38:16.817000
 ich	-	-	-	0:38:13.723000	0:38:16.817000
 glaube	-	-	-	0:38:13.723000	0:38:16.817000
 schon	-	-	-	0:38:13.723000	0:38:16.817000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:16.303000" end="0:38:17.577000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:16.303000" end="0:38:17.577000" age_lower="1" age_upper="999">
 Standard	-	-	-	0:38:16.303000	0:38:17.577000
 und	-	-	-	0:38:16.303000	0:38:17.577000
 Dialekt	-	-	-	0:38:16.303000	0:38:17.577000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:17.577000" end="0:38:20.810000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:17.577000" end="0:38:20.810000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	0:38:17.577000	0:38:20.810000
 glaube	-	-	-	0:38:17.577000	0:38:20.810000
 schon	-	-	-	0:38:17.577000	0:38:20.810000
@@ -5565,9 +5565,9 @@ ebenen	-	-	-	0:38:17.577000	0:38:20.810000
 f	-	-	-	0:38:17.577000	0:38:20.810000
 beherrsche	-	-	-	0:38:17.577000	0:38:20.810000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:19.357000" end="0:38:19.697000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:19.357000" end="0:38:19.697000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:20.810000" end="0:38:23.750000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:20.810000" end="0:38:23.750000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:38:20.810000	0:38:23.750000
 ich	-	-	-	0:38:20.810000	0:38:23.750000
 kommt	-	-	-	0:38:20.810000	0:38:23.750000
@@ -5578,9 +5578,9 @@ die	-	-	-	0:38:20.810000	0:38:23.750000
 Situation	-	-	-	0:38:20.810000	0:38:23.750000
 an	-	-	-	0:38:20.810000	0:38:23.750000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:23.650000" end="0:38:24.043000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:23.650000" end="0:38:24.043000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:23.750000" end="0:39:17.403000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:38:23.750000" end="0:39:17.403000" project="PP04" age_lower="65" age_upper="999">
 der	-	-	-	0:38:23.750000	0:38:24.283000
 man	-	-	-	0:38:23.750000	0:38:24.283000
 ist	-	-	-	0:38:23.750000	0:38:24.283000
@@ -5713,9 +5713,9 @@ mit	-	-	-	0:39:16.176000	0:39:17.403000
 den	-	-	-	0:39:16.176000	0:39:17.403000
 Ausdrücken	-	-	-	0:39:16.176000	0:39:17.403000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:16.443000" end="0:39:16.830000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:16.443000" end="0:39:16.830000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:39:17.403000" end="0:39:51.116000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:39:17.403000" end="0:39:51.116000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:39:17.403000	0:39:20.003000
 ich	-	-	-	0:39:17.403000	0:39:20.003000
 freue	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:39:17.403000	0:39:20.003000
@@ -5797,9 +5797,9 @@ sprachlichen	-	-	-	0:39:47.870000	0:39:51.116000
 Umgebung	-	-	-	0:39:47.870000	0:39:51.116000
 lebe	-	-	-	0:39:47.870000	0:39:51.116000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:51.116000" end="0:39:52.083000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:51.116000" end="0:39:52.083000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:39:52.083000" end="0:40:07.930000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:39:52.083000" end="0:40:07.930000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:39:52.083000	0:39:54.436000
 wie	-	-	-	0:39:52.083000	0:39:54.436000
 die	-	-	-	0:39:52.083000	0:39:54.436000
@@ -5844,7 +5844,7 @@ dann	-	-	-	0:40:05.183000	0:40:07.930000
 zu	-	-	-	0:40:05.183000	0:40:07.930000
 beherrschen	-	-	-	0:40:05.183000	0:40:07.930000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:07.930000" end="0:40:11.196000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:07.930000" end="0:40:11.196000" age_lower="1" age_upper="999">
 es	-	-	-	0:40:07.930000	0:40:10.230000
 heißt	-	-	-	0:40:07.930000	0:40:10.230000
 es	-	-	-	0:40:07.930000	0:40:10.230000
@@ -5858,13 +5858,13 @@ und	-	-	-	0:40:10.230000	0:40:11.196000
 dann	-	-	-	0:40:10.230000	0:40:11.196000
 sind	-	-	-	0:40:10.230000	0:40:11.196000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:11.196000" end="0:40:13.190000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:11.196000" end="0:40:13.190000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:40:11.196000	0:40:13.190000
 es	-	-	-	0:40:11.196000	0:40:13.190000
 wird	-	-	-	0:40:11.196000	0:40:13.190000
 irgendein	-	-	-	0:40:11.196000	0:40:13.190000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:12.463000" end="0:40:13.856000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:12.463000" end="0:40:13.856000" age_lower="1" age_upper="999">
 und	-	-	-	0:40:12.463000	0:40:13.856000
 es	-	-	-	0:40:12.463000	0:40:13.856000
 ist	-	-	-	0:40:12.463000	0:40:13.856000
@@ -5872,7 +5872,7 @@ fern	-	-	-	0:40:12.463000	0:40:13.856000
 wieder	-	-	-	0:40:12.463000	0:40:13.856000
 da	-	-	-	0:40:12.463000	0:40:13.856000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:13.190000" end="0:40:19.270000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:13.190000" end="0:40:19.270000" project="PP04" age_lower="65" age_upper="999">
 im	-	-	-	0:40:13.190000	0:40:15.983000
 Hirn	-	-	-	0:40:13.190000	0:40:15.983000
 irgendwelche	-	-	-	0:40:13.190000	0:40:15.983000
@@ -5887,7 +5887,7 @@ sind	-	-	-	0:40:15.983000	0:40:17.936000
 und	-	-	-	0:40:17.936000	0:40:19.270000
 daher	-	-	-	0:40:17.936000	0:40:19.270000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:19.270000" end="0:40:26.090000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:19.270000" end="0:40:26.090000" age_lower="1" age_upper="999">
 und	-	-	-	0:40:19.270000	0:40:24.076000
 äh	-	-	-	0:40:19.270000	0:40:24.076000
 würden	-	-	-	0:40:19.270000	0:40:24.076000
@@ -5903,7 +5903,7 @@ Dialekt	-	-	-	0:40:24.076000	0:40:26.090000
 oder	-	-	-	0:40:24.076000	0:40:26.090000
 Standardsprache	-	-	-	0:40:24.076000	0:40:26.090000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:26.090000" end="0:40:34.470000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:26.090000" end="0:40:34.470000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:40:26.090000	0:40:28.203000
 bleiben	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit-	0:40:26.090000	0:40:28.203000
 wir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit-	0:40:26.090000	0:40:28.203000
@@ -5922,9 +5922,9 @@ mit	-	-	-	0:40:28.203000	0:40:34.470000
 Lokalen	-	-	-	0:40:28.203000	0:40:34.470000
 anwanderungen	-	-	-	0:40:28.203000	0:40:34.470000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:34.470000" end="0:40:34.950000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:34.470000" end="0:40:34.950000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:34.950000" end="0:40:46.956000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:34.950000" end="0:40:46.956000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:40:34.950000	0:40:36.210000
 wobei	-	-	-	0:40:36.210000	0:40:38.103000
 wenn	-	-	-	0:40:36.210000	0:40:38.103000
@@ -5957,9 +5957,9 @@ da	-	-	-	0:40:45.683000	0:40:46.956000
 doppelten	-	-	-	0:40:45.683000	0:40:46.956000
 Verneinung	-	-	-	0:40:45.683000	0:40:46.956000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:46.956000" end="0:40:47.736000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:46.956000" end="0:40:47.736000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:47.736000" end="0:41:02.656000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:40:47.736000" end="0:41:02.656000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:40:47.736000	0:40:48.476000
 so	-	-	-	0:40:47.736000	0:40:48.476000
 weiter	-	-	-	0:40:47.736000	0:40:48.476000
@@ -6006,9 +6006,9 @@ einmal	-	-	-	0:40:59.443000	0:41:02.656000
 die	-	-	-	0:40:59.443000	0:41:02.656000
 Ausdrücke	-	-	-	0:40:59.443000	0:41:02.656000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:02.656000" end="0:41:03.170000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:02.656000" end="0:41:03.170000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:03.170000" end="0:41:16.643000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:03.170000" end="0:41:16.643000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:41:03.170000	0:41:05.096000
 äh	-	-	-	0:41:03.170000	0:41:05.096000
 ja	-	-	-	0:41:05.096000	0:41:08.036000
@@ -6047,10 +6047,10 @@ mal	-	-	-	0:41:14.643000	0:41:16.643000
 gelesen	-	-	-	0:41:14.643000	0:41:16.643000
 hat	-	-	-	0:41:14.643000	0:41:16.643000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:16.643000" end="0:41:16.903000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:16.643000" end="0:41:16.903000" age_lower="1" age_upper="999">
 aha	-	-	-	0:41:16.643000	0:41:16.903000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:16.643000" end="0:41:32.223000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:16.643000" end="0:41:32.223000" project="PP04" age_lower="65" age_upper="999">
 wahrscheinlich	-	-	-	0:41:16.643000	0:41:18.276000
 nicht	-	-	-	0:41:16.643000	0:41:18.276000
 alle	-	-	-	0:41:16.643000	0:41:18.276000
@@ -6100,9 +6100,9 @@ Frau	-	-	-	0:41:30.510000	0:41:32.223000
 stark	-	-	-	0:41:30.510000	0:41:32.223000
 weiter	-	-	-	0:41:30.510000	0:41:32.223000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:32.223000" end="0:41:33.030000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:32.223000" end="0:41:33.030000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:33.030000" end="0:41:44.943000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:33.030000" end="0:41:44.943000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:41:33.030000	0:41:36.636000
 da	-	-	-	0:41:33.030000	0:41:36.636000
 muss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:41:33.030000	0:41:36.636000
@@ -6133,7 +6133,7 @@ verstehen	-	-	-	0:41:42.503000	0:41:44.110000
 den	-	-	-	0:41:44.110000	0:41:44.943000
 Ausdruck	-	-	-	0:41:44.110000	0:41:44.943000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:44.943000" end="0:41:48.696000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:44.943000" end="0:41:48.696000" age_lower="1" age_upper="999">
 weil	-	-	-	0:41:44.943000	0:41:48.696000
 Sie	-	-	-	0:41:44.943000	0:41:48.696000
 mit	-	-	-	0:41:44.943000	0:41:48.696000
@@ -6145,16 +6145,16 @@ mehr	-	-	-	0:41:44.943000	0:41:48.696000
 anfangen	-	-	-	0:41:44.943000	0:41:48.696000
 können	-	-	-	0:41:44.943000	0:41:48.696000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:48.696000" end="0:41:49.830000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:48.696000" end="0:41:49.830000" project="PP04" age_lower="65" age_upper="999">
 mit	-	-	-	0:41:48.696000	0:41:49.830000
 dem	-	-	-	0:41:48.696000	0:41:49.830000
 Begriff	-	-	-	0:41:48.696000	0:41:49.830000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:49.023000" end="0:41:50.070000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:49.023000" end="0:41:50.070000" age_lower="1" age_upper="999">
 wahrscheinlich	-	-	-	0:41:49.023000	0:41:49.830000
 ja	-	-	-	0:41:49.830000	0:41:50.070000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:50.070000" end="0:42:11.423000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:41:50.070000" end="0:42:11.423000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:41:50.070000	0:41:50.496000
 berühmte	-	-	-	0:41:50.496000	0:41:51.983000
 Geschichte	-	-	-	0:41:50.496000	0:41:51.983000
@@ -6221,9 +6221,9 @@ ist	-	-	-	0:42:10.416000	0:42:11.423000
 ein	-	-	-	0:42:10.416000	0:42:11.423000
 stecknadel	-	-	-	0:42:10.416000	0:42:11.423000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:42:11.423000" end="0:42:12.430000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:11.423000" end="0:42:12.430000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:42:12.430000" end="0:42:30.896000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:42:12.430000" end="0:42:30.896000" project="PP04" age_lower="65" age_upper="999">
 kam	-	-	-	0:42:12.430000	0:42:15.610000
 dann	-	-	-	0:42:12.430000	0:42:15.610000
 mit	-	-	-	0:42:12.430000	0:42:15.610000
@@ -6273,9 +6273,9 @@ Ihre	-	-	-	0:42:28.563000	0:42:30.123000
 Kollegin	-	-	-	0:42:28.563000	0:42:30.123000
 NAME	NAME	-	-	0:42:30.123000	0:42:30.896000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:42:30.896000" end="0:42:31.536000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:30.896000" end="0:42:31.536000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:42:30.896000" end="0:42:42.063000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:42:30.896000" end="0:42:42.063000" project="PP04" age_lower="65" age_upper="999">
 irgendwie	-	-	-	0:42:30.896000	0:42:31.536000
 äh	-	-	-	0:42:31.536000	0:42:33.956000
 in	-	-	-	0:42:31.536000	0:42:33.956000
@@ -6308,10 +6308,10 @@ jedenfalls	-	-	-	0:42:40.996000	0:42:41.483000
 oder	-	-	-	0:42:41.483000	0:42:42.063000
 nicht	-	-	-	0:42:41.483000	0:42:42.063000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:42:42.063000" end="0:42:42.743000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:42.063000" end="0:42:42.743000" age_lower="1" age_upper="999">
 nein	-	-	-	0:42:42.063000	0:42:42.743000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:42:42.063000" end="0:43:04.296000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:42:42.063000" end="0:43:04.296000" project="PP04" age_lower="65" age_upper="999">
 weiss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:42:42.063000	0:42:42.496000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:42:42.063000	0:42:42.496000
 nicht	-	-	-	0:42:42.063000	0:42:42.496000
@@ -6380,18 +6380,18 @@ Schule	-	-	-	0:43:02.203000	0:43:04.296000
 einmal	-	-	-	0:43:02.203000	0:43:04.296000
 gelesen	-	-	-	0:43:02.203000	0:43:04.296000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:04.296000" end="0:43:05.003000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:04.296000" end="0:43:05.003000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:04.296000" end="0:43:05.003000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:04.296000" end="0:43:05.003000" project="PP04" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:43:04.296000	0:43:05.003000
 nehme	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:43:04.296000	0:43:05.003000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:43:04.296000	0:43:05.003000
 an,>	-	-	-	0:43:04.296000	0:43:05.003000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:05.003000" end="0:43:05.596000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:05.003000" end="0:43:05.596000" age_lower="1" age_upper="999">
 wahrscheinlich	-	-	-	0:43:05.003000	0:43:05.596000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:05.596000" end="0:43:17.103000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:05.596000" end="0:43:17.103000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:43:05.596000	0:43:06.356000
 das	-	-	-	0:43:07.476000	0:43:09.416000
 heißt	-	-	-	0:43:07.476000	0:43:09.416000
@@ -6421,10 +6421,10 @@ schulbibliothek	-	-	-	0:43:14.029000	0:43:17.103000
 ein	-	-	-	0:43:14.029000	0:43:17.103000
 aussortiertes	-	-	-	0:43:14.029000	0:43:17.103000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:17.103000" end="0:43:17.436000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:17.103000" end="0:43:17.436000" age_lower="1" age_upper="999">
 ach	-	-	-	0:43:17.103000	0:43:17.436000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:17.436000" end="0:43:22.783000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:17.436000" end="0:43:22.783000" project="PP04" age_lower="65" age_upper="999">
 denke	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:43:17.436000	0:43:22.783000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+|KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:43:17.436000	0:43:22.783000
 mir	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:43:17.436000	0:43:22.783000
@@ -6436,7 +6436,7 @@ ein	-	-	-	0:43:17.436000	0:43:22.783000
 bedenklicher	-	-	-	0:43:17.436000	0:43:22.783000
 Wandel	-	-	-	0:43:17.436000	0:43:22.783000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:17.649000" end="0:43:28.343000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:17.649000" end="0:43:28.343000" age_lower="1" age_upper="999">
 weil	-	-	-	0:43:23.256000	0:43:28.343000
 diese	-	-	-	0:43:23.256000	0:43:28.343000
 äh	-	-	-	0:43:23.256000	0:43:28.343000
@@ -6451,17 +6451,17 @@ mehr	-	-	-	0:43:23.256000	0:43:28.343000
 zugänglich	-	-	-	0:43:23.256000	0:43:28.343000
 sind	-	-	-	0:43:23.256000	0:43:28.343000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:24.389000" end="0:43:28.343000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:24.389000" end="0:43:28.343000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:43:27.043000	0:43:28.343000
 spielen	-	-	-	0:43:27.043000	0:43:28.343000
 kein	-	-	-	0:43:27.043000	0:43:28.343000
 Rolle	-	-	-	0:43:27.043000	0:43:28.343000
 mehr	-	-	-	0:43:27.043000	0:43:28.343000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:28.343000" end="0:43:28.603000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:28.343000" end="0:43:28.603000" age_lower="1" age_upper="999">
 ja	-	-	-	0:43:28.343000	0:43:28.603000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:28.343000" end="0:43:38.003000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:28.343000" end="0:43:38.003000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:43:28.343000	0:43:29.383000
 sind	-	-	-	0:43:28.343000	0:43:29.383000
 nicht	-	-	-	0:43:28.343000	0:43:29.383000
@@ -6498,10 +6498,10 @@ sehr	-	-	-	0:43:35.836000	0:43:38.003000
 viel	-	-	-	0:43:35.836000	0:43:38.003000
 vergessen	-	-	-	0:43:35.836000	0:43:38.003000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:38.003000" end="0:43:38.656000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:38.003000" end="0:43:38.656000" age_lower="1" age_upper="999">
 ja	-	-	-	0:43:38.003000	0:43:38.656000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:38.656000" end="0:43:44.056000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:38.656000" end="0:43:44.056000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:43:38.656000	0:43:39.396000
 und	-	-	-	0:43:39.396000	0:43:42.303000
 dachte	-	-	-	0:43:39.396000	0:43:42.303000
@@ -6519,13 +6519,13 @@ in	-	-	-	0:43:42.303000	0:43:44.056000
 der	-	-	-	0:43:42.303000	0:43:44.056000
 Schnellbahn	-	-	-	0:43:42.303000	0:43:44.056000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:42.489000" end="0:43:45.829000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:42.489000" end="0:43:45.829000" age_lower="1" age_upper="999">
 das	-	-	-	0:43:44.056000	0:43:45.829000
 macht	-	-	-	0:43:44.056000	0:43:45.829000
 doch	-	-	-	0:43:44.056000	0:43:45.829000
 nichts	-	-	-	0:43:44.056000	0:43:45.829000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:45.829000" end="0:43:48.509000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:45.829000" end="0:43:48.509000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:43:45.829000	0:43:46.683000
 stört	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:43:45.829000	0:43:46.683000
 mich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:43:45.829000	0:43:46.683000
@@ -6536,14 +6536,14 @@ habe	-	-	-	0:43:46.683000	0:43:48.509000
 genügend	-	-	-	0:43:46.683000	0:43:48.509000
 überwertigkeitsgefühl	-	-	-	0:43:46.683000	0:43:48.509000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:46.769000" end="0:43:47.936000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:46.769000" end="0:43:47.936000" age_lower="1" age_upper="999">
 ja	-	-	-	0:43:46.769000	0:43:47.936000
 schlimmstenfalls	-	-	-	0:43:46.769000	0:43:47.936000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:48.509000" end="0:43:48.789000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:48.509000" end="0:43:48.789000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:43:48.509000	0:43:48.789000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:48.683000" end="0:43:51.849000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:48.683000" end="0:43:51.849000" age_lower="1" age_upper="999">
 na	-	-	-	0:43:48.683000	0:43:50.869000
 und	-	-	-	0:43:48.683000	0:43:50.869000
 schlimmstenfalls	-	-	-	0:43:48.683000	0:43:50.869000
@@ -6556,35 +6556,35 @@ was	-	-	-	0:43:50.869000	0:43:51.849000
 ist	-	-	-	0:43:50.869000	0:43:51.849000
 das	-	-	-	0:43:50.869000	0:43:51.849000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:51.383000" end="0:43:52.069000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:51.383000" end="0:43:52.069000" project="PP04" age_lower="65" age_upper="999">
 was	-	-	-	0:43:51.383000	0:43:52.069000
 ist	-	-	-	0:43:51.383000	0:43:52.069000
 das	-	-	-	0:43:51.383000	0:43:52.069000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:51.849000" end="0:43:52.363000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:51.849000" end="0:43:52.363000" age_lower="1" age_upper="999">
 und	-	-	-	0:43:51.849000	0:43:52.363000
 dann	-	-	-	0:43:51.849000	0:43:52.363000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:52.363000" end="0:43:54.156000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:52.363000" end="0:43:54.156000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:43:52.363000	0:43:54.156000
 passiert	-	-	-	0:43:52.363000	0:43:54.156000
 schon	-	-	-	0:43:52.363000	0:43:54.156000
 im	-	-	-	0:43:52.363000	0:43:54.156000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:53.736000" end="0:43:55.116000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:53.736000" end="0:43:55.116000" age_lower="1" age_upper="999">
 also	-	-	-	0:43:53.736000	0:43:55.116000
 nein	-	-	-	0:43:53.736000	0:43:55.116000
 nicht	-	-	-	0:43:53.736000	0:43:55.116000
 schlimmstenfalls	-	-	-	0:43:53.736000	0:43:55.116000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:54.156000" end="0:43:54.363000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:54.156000" end="0:43:54.363000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:43:54.156000	0:43:54.363000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:55.116000" end="0:43:55.996000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:55.116000" end="0:43:55.996000" age_lower="1" age_upper="999">
 sondern	-	-	-	0:43:55.116000	0:43:55.996000
 bestenfalls	-	-	-	0:43:55.116000	0:43:55.996000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:55.996000" end="0:44:40.836000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:43:55.996000" end="0:44:40.836000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:43:55.996000	0:43:56.236000
 nein	-	-	-	0:43:56.236000	0:43:58.016000
 das	-	-	-	0:43:56.236000	0:43:58.016000
@@ -6710,11 +6710,11 @@ die	-	-	-	0:44:40.003000	0:44:40.836000
 Hand	-	-	-	0:44:40.003000	0:44:40.836000
 gedrückt,>	-	-	-	0:44:40.003000	0:44:40.836000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:44:40.429000" end="0:44:41.223000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:40.429000" end="0:44:41.223000" age_lower="1" age_upper="999">
 nein	-	-	-	0:44:40.429000	0:44:41.223000
 leider	-	-	-	0:44:40.429000	0:44:41.223000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:44:41.223000" end="0:44:43.083000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:44:41.223000" end="0:44:43.083000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:44:41.223000	0:44:43.083000
 ist	-	-	-	0:44:41.223000	0:44:43.083000
 jetzt	-	-	-	0:44:41.223000	0:44:43.083000
@@ -6722,9 +6722,9 @@ die	-	-	-	0:44:41.223000	0:44:43.083000
 unbezahlte	-	-	-	0:44:41.223000	0:44:43.083000
 werbeeinschaltung	-	-	-	0:44:41.223000	0:44:43.083000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:44:43.083000" end="0:44:43.516000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:43.083000" end="0:44:43.516000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:44:43.516000" end="0:44:50.316000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:44:43.516000" end="0:44:50.316000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:44:43.516000	0:44:46.716000
 nein	-	-	-	0:44:43.516000	0:44:46.716000
 NAME	NAME	-	-	0:44:43.516000	0:44:46.716000
@@ -6741,9 +6741,9 @@ Autor	-	-	-	0:44:46.716000	0:44:48.849000
 Deutsche	-	-	-	0:44:48.849000	0:44:50.316000
 Autor	-	-	-	0:44:48.849000	0:44:50.316000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:44:49.156000" end="0:44:49.569000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:49.156000" end="0:44:49.569000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:44:50.316000" end="0:45:13.649000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:44:50.316000" end="0:45:13.649000" project="PP04" age_lower="65" age_upper="999">
 übrigens	-	-	-	0:44:50.316000	0:44:52.036000
 auch	-	-	-	0:44:50.316000	0:44:52.036000
 sehr	-	-	-	0:44:50.316000	0:44:52.036000
@@ -6808,7 +6808,7 @@ noch	-	-	-	0:45:12.536000	0:45:13.649000
 darauf	-	-	-	0:45:12.536000	0:45:13.649000
 haben	-	-	-	0:45:12.536000	0:45:13.649000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:13.649000" end="0:45:15.609000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:13.649000" end="0:45:15.609000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:45:13.649000	0:45:15.609000
 wie	-	-	-	0:45:13.649000	0:45:15.609000
 sie	-	-	-	0:45:13.649000	0:45:15.609000
@@ -6816,7 +6816,7 @@ sich	-	-	-	0:45:13.649000	0:45:15.609000
 wohlfühlen	-	-	-	0:45:13.649000	0:45:15.609000
 bitte	-	-	-	0:45:13.649000	0:45:15.609000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:45:14.109000" end="0:45:38.029000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:45:14.109000" end="0:45:38.029000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:45:14.109000	0:45:14.416000
 bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:45:14.723000	0:45:16.436000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:45:14.723000	0:45:16.436000
@@ -6894,13 +6894,13 @@ andere	-	-	-	0:45:36.863000	0:45:38.029000
 darauf	-	-	-	0:45:36.863000	0:45:38.029000
 hinzuweisen	-	-	-	0:45:36.863000	0:45:38.029000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:38.029000" end="0:45:40.149000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:38.029000" end="0:45:40.149000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:38.029000	0:45:38.483000
 denke	-	-	-	0:45:38.483000	0:45:40.149000
 ich	-	-	-	0:45:38.483000	0:45:40.149000
 auch	-	-	-	0:45:38.483000	0:45:40.149000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:45:39.889000" end="0:45:49.976000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:45:39.889000" end="0:45:49.976000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:45:39.889000	0:45:40.683000
 die	-	-	-	0:45:39.889000	0:45:40.683000
 Freude	-	-	-	0:45:39.889000	0:45:40.683000
@@ -6936,9 +6936,9 @@ eigentlich>	-	-	-	0:45:46.349000	0:45:49.976000
 aufgelöst	-	-	-	0:45:46.349000	0:45:49.976000
 hat	-	-	-	0:45:46.349000	0:45:49.976000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:49.529000" end="0:45:49.976000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:49.529000" end="0:45:49.976000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:45:49.976000" end="0:46:04.756000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:45:49.976000" end="0:46:04.756000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:45:49.976000	0:45:53.563000
 da	-	-	-	0:45:49.976000	0:45:53.563000
 nachlass	-	-	-	0:45:49.976000	0:45:53.563000
@@ -6981,9 +6981,9 @@ soll	-	-	-	0:46:03.269000	0:46:04.756000
 gesagt	-	-	-	0:46:03.269000	0:46:04.756000
 haben	-	-	-	0:46:03.269000	0:46:04.756000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:03.796000" end="0:46:04.229000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:03.796000" end="0:46:04.229000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:04.756000" end="0:46:15.103000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:04.756000" end="0:46:15.103000" project="PP04" age_lower="65" age_upper="999">
 dort	-	-	-	0:46:04.756000	0:46:06.756000
 wo	-	-	-	0:46:04.756000	0:46:06.756000
 NAME	NAME	-	-	0:46:04.756000	0:46:06.756000
@@ -7006,9 +7006,9 @@ seiner	-	-	-	0:46:09.289000	0:46:15.103000
 direkten	-	-	-	0:46:09.289000	0:46:15.103000
 einflussnahme	-	-	-	0:46:09.289000	0:46:15.103000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:15.103000" end="0:46:15.789000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:15.103000" end="0:46:15.789000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:15.789000" end="0:46:26.463000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:15.789000" end="0:46:26.463000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit+	0:46:15.789000	0:46:19.229000
 auch	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit+	0:46:15.789000	0:46:19.229000
 in	-	-	-	0:46:15.789000	0:46:19.229000
@@ -7040,32 +7040,32 @@ jetzt	-	-	-	0:46:22.629000	0:46:26.463000
 nicht	-	-	-	0:46:22.629000	0:46:26.463000
 auf	-	-	-	0:46:22.629000	0:46:26.463000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:26.463000" end="0:46:26.956000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:26.463000" end="0:46:26.956000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:26.956000" end="0:46:27.249000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:26.956000" end="0:46:27.249000" project="PP04" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:46:26.956000	0:46:27.249000
 ja,>	-	-	-	0:46:26.956000	0:46:27.249000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:27.249000" end="0:46:31.949000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:27.249000" end="0:46:31.949000" age_lower="1" age_upper="999">
 können	-	-	-	0:46:27.249000	0:46:30.389000
 Sie	-	-	-	0:46:27.249000	0:46:30.389000
 gern	-	-	-	0:46:27.249000	0:46:30.389000
 nachher	-	-	-	0:46:27.249000	0:46:30.389000
 noch	-	-	-	0:46:27.249000	0:46:30.389000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:30.389000" end="0:46:31.949000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:30.389000" end="0:46:31.949000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:46:30.389000	0:46:31.283000
 nein	-	-	-	0:46:30.389000	0:46:31.283000
 nein	-	-	-	0:46:30.389000	0:46:31.283000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:31.949000" end="0:46:33.223000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:31.949000" end="0:46:33.223000" age_lower="1" age_upper="999">
 oder	-	-	-	0:46:31.949000	0:46:33.223000
 ich	-	-	-	0:46:31.949000	0:46:33.223000
 lese	-	-	-	0:46:31.949000	0:46:33.223000
 mal	-	-	-	0:46:31.949000	0:46:33.223000
 nach	-	-	-	0:46:31.949000	0:46:33.223000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:31.949000" end="0:46:43.209000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:31.949000" end="0:46:43.209000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:46:31.949000	0:46:32.589000
 es	-	-	-	0:46:31.949000	0:46:32.589000
 nein	-	-	-	0:46:32.923000	0:46:33.476000
@@ -7098,9 +7098,9 @@ als	-	-	-	0:46:38.909000	0:46:43.209000
 wehrkraftzersetzend	-	-	-	0:46:38.909000	0:46:43.209000
 eingestuft	-	-	-	0:46:38.909000	0:46:43.209000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:43.209000" end="0:46:43.636000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:43.209000" end="0:46:43.636000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:43.209000" end="0:47:11.396000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:46:43.209000" end="0:47:11.396000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:46:43.209000	0:46:43.636000
 eine	-	-	-	0:46:43.636000	0:46:45.976000
 Kollegin	-	-	-	0:46:43.636000	0:46:45.976000
@@ -7156,10 +7156,10 @@ mich	-	-	-	0:47:09.396000	0:47:11.396000
 ein	-	-	-	0:47:09.396000	0:47:11.396000
 Krankenhaus	-	-	-	0:47:09.396000	0:47:11.396000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:10.536000" end="0:47:11.703000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:10.536000" end="0:47:11.703000" age_lower="1" age_upper="999">
 ja	-	-	-	0:47:11.396000	0:47:11.703000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:11.703000" end="0:47:19.516000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:11.703000" end="0:47:19.516000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	0:47:11.703000	0:47:14.249000
 ja	-	-	-	0:47:11.703000	0:47:14.249000
 wegen	-	-	-	0:47:11.703000	0:47:14.249000
@@ -7183,10 +7183,10 @@ hingerichtet	-	-	-	0:47:16.463000	0:47:19.516000
 worden	-	-	-	0:47:16.463000	0:47:19.516000
 ist	-	-	-	0:47:16.463000	0:47:19.516000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:19.516000" end="0:47:19.982000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:19.516000" end="0:47:19.982000" age_lower="1" age_upper="999">
 ach	-	-	-	0:47:19.516000	0:47:19.982000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:19.982000" end="0:47:33.482000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:19.982000" end="0:47:33.482000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:47:19.982000	0:47:23.696000
 heißt	-	-	-	0:47:19.982000	0:47:23.696000
 ein	-	-	-	0:47:19.982000	0:47:23.696000
@@ -7215,7 +7215,7 @@ eine	-	-	-	0:47:31.596000	0:47:33.482000
 andere	-	-	-	0:47:31.596000	0:47:33.482000
 Zeit	-	-	-	0:47:31.596000	0:47:33.482000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:33.482000" end="0:47:41.816000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:33.482000" end="0:47:41.816000" age_lower="1" age_upper="999">
 ja	-	-	-	0:47:33.482000	0:47:34.496000
 ja	-	-	-	0:47:33.482000	0:47:34.496000
 aber	-	-	-	0:47:34.496000	0:47:39.062000
@@ -7234,7 +7234,7 @@ die	-	-	-	0:47:39.062000	0:47:41.816000
 Zusammenhänge	-	-	-	0:47:39.062000	0:47:41.816000
 sieht	-	-	-	0:47:39.062000	0:47:41.816000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:41.036000" end="0:47:44.042000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:41.036000" end="0:47:44.042000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:47:41.036000	0:47:44.042000
 r	-	-	-	0:47:41.036000	0:47:44.042000
 w	-	-	-	0:47:41.036000	0:47:44.042000
@@ -7245,10 +7245,10 @@ also	-	-	-	0:47:41.036000	0:47:44.042000
 eben	-	-	-	0:47:41.036000	0:47:44.042000
 gelebt	-	-	-	0:47:41.036000	0:47:44.042000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:42.502000" end="0:47:42.922000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:42.502000" end="0:47:42.922000" age_lower="1" age_upper="999">
 also	-	-	-	0:47:42.502000	0:47:42.922000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:44.042000" end="0:47:51.482000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:44.042000" end="0:47:51.482000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:47:44.042000	0:47:48.922000
 wir	-	-	-	0:47:44.042000	0:47:48.922000
 haben	-	-	-	0:47:44.042000	0:47:48.922000
@@ -7275,9 +7275,9 @@ Sie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _sie(f.sg.akk.) klit-	0:47:5
 gekannt	-	-	-	0:47:50.009000	0:47:51.482000
 haben	-	-	-	0:47:50.009000	0:47:51.482000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:51.482000" end="0:47:51.889000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:51.482000" end="0:47:51.889000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:51.889000" end="0:48:26.529000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:47:51.889000" end="0:48:26.529000" project="PP04" age_lower="65" age_upper="999">
 vierundvierzig	-	-	-	0:47:51.889000	0:47:56.296000
 ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(f.sg.nom.) klit-	0:47:51.889000	0:47:56.296000
 sie	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(f.sg.nom.) klit-	0:47:51.889000	0:47:56.296000
@@ -7344,9 +7344,9 @@ Spital	-	-	-	0:48:22.176000	0:48:26.529000
 aufgetreten	-	-	-	0:48:22.176000	0:48:26.529000
 ist	-	-	-	0:48:22.176000	0:48:26.529000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:22.882000" end="0:48:26.342000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:22.882000" end="0:48:26.342000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:48:26.529000" end="0:48:47.409000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:48:26.529000" end="0:48:47.409000" project="PP04" age_lower="65" age_upper="999">
 auch	-	-	-	0:48:26.529000	0:48:30.756000
 manchen	-	-	-	0:48:26.529000	0:48:30.756000
 vermutlich	-	-	-	0:48:26.529000	0:48:30.756000
@@ -7401,9 +7401,9 @@ nach	-	-	-	0:48:45.156000	0:48:47.409000
 ORT	ORT	-	-	0:48:45.156000	0:48:47.409000
 kommen	-	-	-	0:48:45.156000	0:48:47.409000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:47.409000" end="0:48:47.836000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:47.409000" end="0:48:47.836000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:48:47.409000" end="0:49:10.576000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:48:47.409000" end="0:49:10.576000" project="PP04" age_lower="65" age_upper="999">
 in	-	-	-	0:48:47.836000	0:48:49.856000
 die	-	-	-	0:48:47.836000	0:48:49.856000
 NAME	NAME	-	-	0:48:47.836000	0:48:49.856000
@@ -7463,22 +7463,22 @@ etwas	-	-	-	0:49:07.542000	0:49:10.576000
 eher	-	-	-	0:49:07.542000	0:49:10.576000
 ungewöhnliches	-	-	-	0:49:07.542000	0:49:10.576000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:07.796000" end="0:49:11.656000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:07.796000" end="0:49:11.656000" age_lower="1" age_upper="999">
 ah	-	-	-	0:49:07.796000	0:49:08.422000
 aha	-	-	-	0:49:08.422000	0:49:08.876000
 jaja	-	-	-	0:49:10.296000	0:49:11.656000
 allerdings	-	-	-	0:49:10.296000	0:49:11.656000
 ja	-	-	-	0:49:10.296000	0:49:11.656000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:11.656000" end="0:49:15.069000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:11.656000" end="0:49:15.069000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:49:11.656000	0:49:11.929000
 aber	-	-	-	0:49:11.929000	0:49:14.449000
 gut	-	-	-	0:49:14.449000	0:49:15.069000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:15.069000" end="0:49:17.269000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:15.069000" end="0:49:17.269000" age_lower="1" age_upper="999">
 spannend	-	-	-	0:49:15.069000	0:49:16.769000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:16.769000" end="0:49:19.249000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:16.769000" end="0:49:19.249000" project="PP04" age_lower="65" age_upper="999">
 was	-	-	-	0:49:16.769000	0:49:19.249000
 bietet	-	-	-	0:49:16.769000	0:49:19.249000
 nach	-	-	-	0:49:16.769000	0:49:19.249000
@@ -7488,9 +7488,9 @@ fundus	-	-	-	0:49:16.769000	0:49:19.249000
 Ihrer	-	-	-	0:49:16.769000	0:49:19.249000
 Fragen	-	-	-	0:49:16.769000	0:49:19.249000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:17.836000" end="0:49:20.469000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:17.836000" end="0:49:20.469000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:19.662000" end="0:49:22.616000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:19.662000" end="0:49:22.616000" project="PP04" age_lower="65" age_upper="999">
 man	-	-	-	0:49:20.469000	0:49:22.616000
 könnte	-	-	-	0:49:20.469000	0:49:22.616000
 über	-	-	-	0:49:20.469000	0:49:22.616000
@@ -7499,10 +7499,10 @@ relativ	-	-	-	0:49:20.469000	0:49:22.616000
 lange	-	-	-	0:49:20.469000	0:49:22.616000
 reden	-	-	-	0:49:20.469000	0:49:22.616000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:22.616000" end="0:49:22.989000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:22.616000" end="0:49:22.989000" age_lower="1" age_upper="999">
 ja	-	-	-	0:49:22.616000	0:49:22.989000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:22.989000" end="0:49:32.249000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:22.989000" end="0:49:32.249000" project="PP04" age_lower="65" age_upper="999">
 i	-	-	-	0:49:23.549000	0:49:24.716000
 hab	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:49:23.549000	0:49:24.716000
 mi	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:49:23.549000	0:49:24.716000
@@ -7538,9 +7538,9 @@ geredet	-	-	-	0:49:29.409000	0:49:32.249000
 worden	-	-	-	0:49:29.409000	0:49:32.249000
 ist	-	-	-	0:49:29.409000	0:49:32.249000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:32.042000" end="0:49:33.316000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:32.042000" end="0:49:33.316000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:32.249000" end="0:49:39.142000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:32.249000" end="0:49:39.142000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:49:32.249000	0:49:33.316000
 in	-	-	-	0:49:32.249000	0:49:33.316000
 welcher	-	-	-	0:49:32.249000	0:49:33.316000
@@ -7560,11 +7560,11 @@ für	-	-	-	0:49:37.809000	0:49:39.142000
 Fragen	-	-	-	0:49:37.809000	0:49:39.142000
 haben	-	-	-	0:49:37.809000	0:49:39.142000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:39.142000" end="0:49:41.142000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:39.142000" end="0:49:41.142000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:39.142000" end="0:49:40.516000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:39.142000" end="0:49:40.516000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:41.142000" end="0:49:48.776000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:41.142000" end="0:49:48.776000" age_lower="1" age_upper="999">
 ja	-	-	-	0:49:41.142000	0:49:45.156000
 äh	-	-	-	0:49:41.142000	0:49:45.156000
 als	-	-	-	0:49:41.142000	0:49:45.156000
@@ -7583,10 +7583,10 @@ blicken	-	-	-	0:49:45.156000	0:49:47.222000
 lassen	-	-	-	0:49:45.156000	0:49:47.222000
 sozusagen	-	-	-	0:49:47.222000	0:49:47.729000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:47.729000" end="0:49:48.209000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:47.729000" end="0:49:48.209000" project="PP04" age_lower="65" age_upper="999">
 aha	-	-	-	0:49:47.729000	0:49:48.209000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:48.776000" end="0:49:53.956000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:48.776000" end="0:49:53.956000" age_lower="1" age_upper="999">
 können	-	-	-	0:49:48.776000	0:49:52.762000
 Sie	-	-	-	0:49:48.776000	0:49:52.762000
 sich	-	-	-	0:49:48.776000	0:49:52.762000
@@ -7603,7 +7603,7 @@ auch	-	-	-	0:49:52.762000	0:49:53.956000
 mit	-	-	-	0:49:52.762000	0:49:53.956000
 Ihnen	-	-	-	0:49:52.762000	0:49:53.956000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:53.956000" end="0:50:01.776000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:49:53.956000" end="0:50:01.776000" project="PP04" age_lower="65" age_upper="999">
 prinzipiell	-	-	-	0:49:53.956000	0:49:56.442000
 ja	-	-	-	0:49:53.956000	0:49:56.442000
 also	-	-	-	0:49:56.442000	0:49:57.936000
@@ -7619,21 +7619,21 @@ darauf	-	-	-	0:49:57.936000	0:50:01.022000
 also	-	-	-	0:50:01.022000	0:50:01.776000
 vorher	-	-	-	0:50:01.022000	0:50:01.776000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:50:01.169000" end="0:50:04.282000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:01.169000" end="0:50:04.282000" age_lower="1" age_upper="999">
 haben	-	-	-	0:50:01.776000	0:50:04.282000
 die	-	-	-	0:50:01.776000	0:50:04.282000
 Dialekt	-	-	-	0:50:01.776000	0:50:04.282000
 mit	-	-	-	0:50:01.776000	0:50:04.282000
 Ihnen	-	-	-	0:50:01.776000	0:50:04.282000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:02.576000" end="0:50:03.976000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:02.576000" end="0:50:03.976000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:50:03.602000	0:50:03.976000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:50:04.282000" end="0:50:06.076000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:04.282000" end="0:50:06.076000" age_lower="1" age_upper="999">
 oder	-	-	-	0:50:04.282000	0:50:06.076000
 Standarddeutsch	-	-	-	0:50:04.282000	0:50:06.076000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:04.762000" end="0:50:07.429000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:04.762000" end="0:50:07.429000" project="PP04" age_lower="65" age_upper="999">
 aso	-	-	-	0:50:04.762000	0:50:05.049000
 ich	-	-	-	0:50:06.076000	0:50:07.429000
 war	-	-	-	0:50:06.076000	0:50:07.429000
@@ -7643,19 +7643,19 @@ ganz	-	-	-	0:50:06.076000	0:50:07.429000
 anderen	-	-	-	0:50:06.076000	0:50:07.429000
 Ehe	-	-	-	0:50:06.076000	0:50:07.429000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:50:06.836000" end="0:50:07.429000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:06.836000" end="0:50:07.429000" age_lower="1" age_upper="999">
 gesprochen	-	-	-	0:50:06.836000	0:50:07.429000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:07.429000" end="0:50:09.049000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:07.429000" end="0:50:09.049000" project="PP04" age_lower="65" age_upper="999">
 nämlich	-	-	-	0:50:07.429000	0:50:09.049000
 auf	-	-	-	0:50:07.429000	0:50:09.049000
 der	-	-	-	0:50:07.429000	0:50:09.049000
 emotionalen	-	-	-	0:50:07.429000	0:50:09.049000
 Ebene	-	-	-	0:50:07.429000	0:50:09.049000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:50:09.049000" end="0:50:09.522000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:09.049000" end="0:50:09.522000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:09.522000" end="0:50:11.556000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:09.522000" end="0:50:11.556000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:50:09.522000	0:50:11.556000
 war	-	-	-	0:50:09.522000	0:50:11.556000
 jetzt	-	-	-	0:50:09.522000	0:50:11.556000
@@ -7663,7 +7663,7 @@ jetzt	-	-	-	0:50:09.522000	0:50:11.556000
 auf	-	-	-	0:50:09.522000	0:50:11.556000
 darauf	-	-	-	0:50:09.522000	0:50:11.556000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:50:10.189000" end="0:50:13.022000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:10.189000" end="0:50:13.022000" age_lower="1" age_upper="999">
 aber	-	-	-	0:50:11.242000	0:50:13.022000
 das	-	-	-	0:50:11.242000	0:50:13.022000
 hängt	-	-	-	0:50:11.242000	0:50:13.022000
@@ -7671,7 +7671,7 @@ vielleicht	-	-	-	0:50:11.242000	0:50:13.022000
 auch	-	-	-	0:50:11.242000	0:50:13.022000
 zusammen	-	-	-	0:50:11.242000	0:50:13.022000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:13.022000" end="0:50:35.222000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:13.022000" end="0:50:35.222000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:50:13.022000	0:50:14.489000
 sie	-	-	-	0:50:13.022000	0:50:14.489000
 haben	-	-	-	0:50:13.022000	0:50:14.489000
@@ -7719,7 +7719,7 @@ Sie	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _Sie(hon.) klit-	0:50:34.38900
 den	-	-	-	0:50:34.389000	0:50:35.222000
 Namen	-	-	-	0:50:34.389000	0:50:35.222000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:50:34.556000" end="0:50:36.856000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:34.556000" end="0:50:36.856000" age_lower="1" age_upper="999">
 aha	-	-	-	0:50:34.556000	0:50:36.042000
 den	-	-	-	0:50:34.556000	0:50:36.042000
 kenne	-	-	-	0:50:34.556000	0:50:36.042000
@@ -7728,7 +7728,7 @@ nicht	-	-	-	0:50:34.556000	0:50:36.042000
 nein	-	-	-	0:50:34.556000	0:50:36.042000
 leider	-	-	-	0:50:36.042000	0:50:36.856000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:36.856000" end="0:50:51.722000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:36.856000" end="0:50:51.722000" project="PP04" age_lower="65" age_upper="999">
 der	-	-	-	0:50:36.856000	0:50:37.316000
 ch	-	-	-	0:50:37.316000	0:50:39.469000
 glaube	-	-	-	0:50:37.316000	0:50:39.469000
@@ -7775,10 +7775,10 @@ klingt	-	-	-	0:50:49.789000	0:50:51.722000
 eher	-	-	-	0:50:49.789000	0:50:51.722000
 Chinesisch	-	-	-	0:50:49.789000	0:50:51.722000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:50:50.316000" end="0:50:50.742000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:50.316000" end="0:50:50.742000" age_lower="1" age_upper="999">
 ah	-	-	-	0:50:50.316000	0:50:50.742000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:51.722000" end="0:51:06.336000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:50:51.722000" end="0:51:06.336000" project="PP04" age_lower="65" age_upper="999">
 was	-	-	-	0:50:51.722000	0:50:52.496000
 klingt	-	-	-	0:50:51.722000	0:50:52.496000
 eher	-	-	-	0:50:51.722000	0:50:52.496000
@@ -7815,16 +7815,16 @@ habe	-	-	-	0:51:02.569000	0:51:06.336000
 als	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _Sie(hon.) klit-	0:51:02.569000	0:51:06.336000
 Sie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _Sie(hon.) klit-	0:51:02.569000	0:51:06.336000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:05.909000" end="0:51:06.549000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:05.909000" end="0:51:06.549000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:51:06.549000" end="0:51:07.449000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:51:06.549000" end="0:51:07.449000" project="PP04" age_lower="65" age_upper="999">
 gemeint	-	-	-	0:51:06.549000	0:51:07.449000
 haben	-	-	-	0:51:06.549000	0:51:07.449000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:06.809000" end="0:51:07.196000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:06.809000" end="0:51:07.196000" age_lower="1" age_upper="999">
 aha	-	-	-	0:51:06.809000	0:51:07.196000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:51:07.449000" end="0:51:21.962000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:51:07.449000" end="0:51:21.962000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:51:07.449000	0:51:08.576000
 f	-	-	-	0:51:07.449000	0:51:08.576000
 also	-	-	-	0:51:08.576000	0:51:11.536000
@@ -7860,17 +7860,17 @@ vierzig	-	-	-	0:51:19.836000	0:51:21.962000
 fünfzig	-	-	-	0:51:19.836000	0:51:21.962000
 Jahren	-	-	-	0:51:19.836000	0:51:21.962000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:21.782000" end="0:51:22.269000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:21.782000" end="0:51:22.269000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:51:21.962000" end="0:51:23.142000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:51:21.962000" end="0:51:23.142000" project="PP04" age_lower="65" age_upper="999">
 ist	-	-	-	0:51:21.962000	0:51:23.142000
 bewusst	-	-	-	0:51:21.962000	0:51:23.142000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:22.689000" end="0:51:23.462000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:22.689000" end="0:51:23.462000" age_lower="1" age_upper="999">
 wahrscheinlich	-	-	-	0:51:22.689000	0:51:23.462000
 ja	-	-	-	0:51:22.689000	0:51:23.462000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:51:23.142000" end="0:52:12.409000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:51:23.142000" end="0:52:12.409000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:51:23.142000	0:51:23.462000
 länger	-	-	-	0:51:23.462000	0:51:24.822000
 noch	-	-	-	0:51:23.462000	0:51:24.822000
@@ -7980,9 +7980,9 @@ jetzt	-	-	-	0:52:11.362000	0:52:12.409000
 ein	-	-	-	0:52:11.362000	0:52:12.409000
 bisschen	-	-	-	0:52:11.362000	0:52:12.409000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:12.409000" end="0:52:13.295000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:12.409000" end="0:52:13.295000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:12.409000" end="0:52:15.455000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:12.409000" end="0:52:15.455000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:52:12.409000	0:52:13.295000
 also	-	-	-	0:52:13.295000	0:52:15.455000
 die	-	-	-	0:52:13.295000	0:52:15.455000
@@ -7991,7 +7991,7 @@ zum	-	-	-	0:52:13.295000	0:52:15.455000
 präsent	-	-	-	0:52:13.295000	0:52:15.455000
 waren	-	-	-	0:52:13.295000	0:52:15.455000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:15.222000" end="0:52:19.349000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:15.222000" end="0:52:19.349000" age_lower="1" age_upper="999">
 und	-	-	-	0:52:15.549000	0:52:19.349000
 mich	-	-	-	0:52:15.549000	0:52:19.349000
 mit	-	-	-	0:52:15.549000	0:52:19.349000
@@ -8004,18 +8004,18 @@ wahrscheinlich	-	-	-	0:52:15.549000	0:52:19.349000
 anders	-	-	-	0:52:15.549000	0:52:19.349000
 gesprochen	-	-	-	0:52:15.549000	0:52:19.349000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:16.115000" end="0:52:19.842000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:16.115000" end="0:52:19.842000" project="PP04" age_lower="65" age_upper="999">
 un	-	-	-	0:52:16.115000	0:52:16.555000
 nein	-	-	-	0:52:18.962000	0:52:19.842000
 das	-	-	-	0:52:18.962000	0:52:19.842000
 war	-	-	-	0:52:18.962000	0:52:19.842000
 eine	-	-	-	0:52:18.962000	0:52:19.842000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:19.349000" end="0:52:20.135000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:19.349000" end="0:52:20.135000" age_lower="1" age_upper="999">
 auch	-	-	-	0:52:19.349000	0:52:20.135000
 gleich	-	-	-	0:52:19.349000	0:52:20.135000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:19.982000" end="0:52:40.929000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:19.982000" end="0:52:40.929000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	0:52:19.982000	0:52:21.515000
 war	-	-	-	0:52:19.982000	0:52:21.515000
 ganz	-	-	-	0:52:19.982000	0:52:21.515000
@@ -8054,17 +8054,17 @@ mehr	-	-	-	0:52:36.009000	0:52:40.929000
 eingedrungen	-	-	-	0:52:36.009000	0:52:40.929000
 ist	-	-	-	0:52:36.009000	0:52:40.929000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:40.929000" end="0:52:43.035000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:40.929000" end="0:52:43.035000" age_lower="1" age_upper="999">
 und	-	-	-	0:52:40.929000	0:52:43.035000
 für	-	-	-	0:52:40.929000	0:52:43.035000
 sie	-	-	-	0:52:40.929000	0:52:43.035000
 als	-	-	-	0:52:40.929000	0:52:43.035000
 Kind	-	-	-	0:52:40.929000	0:52:43.035000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:41.922000" end="0:52:42.362000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:41.922000" end="0:52:42.362000" project="PP04" age_lower="65" age_upper="999">
 Sie	-	-	-	0:52:41.922000	0:52:42.362000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:43.035000" end="0:52:54.975000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:43.035000" end="0:52:54.975000" age_lower="1" age_upper="999">
 haben	-	-	-	0:52:43.035000	0:52:49.889000
 Sie	-	-	-	0:52:43.035000	0:52:49.889000
 da	-	-	-	0:52:43.035000	0:52:49.889000
@@ -8096,7 +8096,7 @@ die	-	-	-	0:52:53.475000	0:52:54.975000
 Schule	-	-	-	0:52:53.475000	0:52:54.975000
 vielleicht	-	-	-	0:52:53.475000	0:52:54.975000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:54.975000" end="0:52:59.922000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:54.975000" end="0:52:59.922000" project="PP04" age_lower="65" age_upper="999">
 w	-	-	-	0:52:54.975000	0:52:59.922000
 weiß	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:52:54.975000	0:52:59.922000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:52:54.975000	0:52:59.922000
@@ -8106,20 +8106,20 @@ Moment	-	-	-	0:52:54.975000	0:52:59.922000
 nicht	-	-	-	0:52:54.975000	0:52:59.922000
 genau	-	-	-	0:52:54.975000	0:52:59.922000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:58.469000" end="0:53:00.149000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:58.469000" end="0:53:00.149000" age_lower="1" age_upper="999">
 schwer	-	-	-	0:52:58.469000	0:53:00.149000
 zu	-	-	-	0:52:58.469000	0:53:00.149000
 sagen	-	-	-	0:52:58.469000	0:53:00.149000
 wahrscheinlich	-	-	-	0:52:58.469000	0:53:00.149000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:59.922000" end="0:53:00.362000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:52:59.922000" end="0:53:00.362000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	-	0:52:59.922000	0:53:00.362000
 d	-	-	-	0:52:59.922000	0:53:00.362000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:53:00.149000" end="0:53:00.362000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:53:00.149000" end="0:53:00.362000" age_lower="1" age_upper="999">
 ja	-	-	-	0:53:00.149000	0:53:00.362000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:53:00.362000" end="0:53:40.755000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:53:00.362000" end="0:53:40.755000" project="PP04" age_lower="65" age_upper="999">
 könnte	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:53:00.362000	0:53:02.015000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:53:00.362000	0:53:02.015000
 jetzt	-	-	-	0:53:00.362000	0:53:02.015000
@@ -8194,9 +8194,9 @@ eine	-	-	-	0:53:34.702000	0:53:39.042000
 Rolle	-	-	-	0:53:34.702000	0:53:39.042000
 Bücher	-	-	-	0:53:39.042000	0:53:40.755000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:53:40.755000" end="0:53:41.615000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:53:40.755000" end="0:53:41.615000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:53:41.615000" end="0:54:46.115000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:53:41.615000" end="0:54:46.115000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:53:41.615000	0:53:46.675000
 mein	-	-	-	0:53:41.615000	0:53:46.675000
 Vater	-	-	-	0:53:41.615000	0:53:46.675000
@@ -8370,9 +8370,9 @@ Wahrscheinlichkeit	-	-	-	0:54:43.449000	0:54:46.115000
 eine	-	-	-	0:54:43.449000	0:54:46.115000
 Rolle	-	-	-	0:54:43.449000	0:54:46.115000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:44.969000" end="0:54:45.342000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:54:44.969000" end="0:54:45.342000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:54:46.115000" end="0:55:01.282000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:54:46.115000" end="0:55:01.282000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	0:54:46.115000	0:54:49.922000
 von	-	-	-	0:54:46.115000	0:54:49.922000
 den	-	-	-	0:54:46.115000	0:54:49.922000
@@ -8412,19 +8412,19 @@ anders	-	-	-	0:54:59.595000	0:55:01.282000
 zu	-	-	-	0:54:59.595000	0:55:01.282000
 formulieren	-	-	-	0:54:59.595000	0:55:01.282000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:59.949000" end="0:55:01.282000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:54:59.949000" end="0:55:01.282000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:01.282000" end="0:55:04.129000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:01.282000" end="0:55:04.129000" project="PP04" age_lower="65" age_upper="999">
 damit	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:55:02.135000	0:55:04.129000
 man	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:55:02.135000	0:55:04.129000
 beim	-	-	-	0:55:02.135000	0:55:04.129000
 perfekt	-	-	-	0:55:02.135000	0:55:04.129000
 bleiben	-	-	-	0:55:02.135000	0:55:04.129000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:02.635000" end="0:55:03.295000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:02.635000" end="0:55:03.295000" age_lower="1" age_upper="999">
 und	-	-	-	0:55:02.635000	0:55:03.295000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:04.129000" end="0:55:07.142000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:04.129000" end="0:55:07.142000" project="PP04" age_lower="65" age_upper="999">
 wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:55:04.129000	0:55:04.455000
 man	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:55:04.129000	0:55:04.455000
 das	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:55:04.455000	0:55:05.542000
@@ -8441,13 +8441,13 @@ im	-	-	-	0:55:05.542000	0:55:07.142000
 perfekt	-	-	-	0:55:05.542000	0:55:07.142000
 reden	-	-	-	0:55:05.542000	0:55:07.142000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:07.142000" end="0:55:07.975000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:07.142000" end="0:55:07.975000" age_lower="1" age_upper="999">
 ja	-	-	-	0:55:07.142000	0:55:07.975000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:07.142000" end="0:55:08.989000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:07.142000" end="0:55:08.989000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	0:55:08.529000	0:55:08.989000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:08.989000" end="0:55:13.089000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:08.989000" end="0:55:13.089000" age_lower="1" age_upper="999">
 is	-	-	-	0:55:08.989000	0:55:12.035000
 ihnen	-	-	-	0:55:08.989000	0:55:12.035000
 das	-	-	-	0:55:08.989000	0:55:12.035000
@@ -8459,20 +8459,20 @@ angenehmer	-	-	-	0:55:08.989000	0:55:12.035000
 oder	-	-	-	0:55:12.035000	0:55:13.089000
 weil	-	-	-	0:55:12.035000	0:55:13.089000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:12.929000" end="0:55:13.942000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:12.929000" end="0:55:13.942000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:55:12.929000	0:55:13.942000
 es	-	-	-	0:55:12.929000	0:55:13.942000
 ist	-	-	-	0:55:12.929000	0:55:13.942000
 glaubwürdiger	-	-	-	0:55:12.929000	0:55:13.942000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:13.089000" end="0:55:14.975000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:13.089000" end="0:55:14.975000" age_lower="1" age_upper="999">
 was	-	-	-	0:55:13.089000	0:55:13.942000
 ist	-	-	-	0:55:13.089000	0:55:13.942000
 da	-	-	-	0:55:13.089000	0:55:13.942000
 der	-	-	-	0:55:13.089000	0:55:13.942000
 okay	-	-	-	0:55:14.415000	0:55:14.975000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:14.975000" end="0:55:41.069000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:14.975000" end="0:55:41.069000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:55:14.975000	0:55:17.095000
 wenn	-	-	-	0:55:14.975000	0:55:17.095000
 man	-	-	-	0:55:14.975000	0:55:17.095000
@@ -8538,9 +8538,9 @@ sinnvoller	-	-	-	0:55:37.115000	0:55:40.775000
 natürlich	-	-	-	0:55:37.115000	0:55:40.775000
 ja	-	-	-	0:55:40.775000	0:55:41.069000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:41.069000" end="0:55:41.435000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:41.069000" end="0:55:41.435000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:41.435000" end="0:55:44.609000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:41.435000" end="0:55:44.609000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	0:55:41.435000	0:55:42.382000
 bin	-	-	-	0:55:41.435000	0:55:42.382000
 ich	-	-	-	0:55:42.382000	0:55:42.875000
@@ -8549,7 +8549,7 @@ und	-	-	-	0:55:42.875000	0:55:44.609000
 so	-	-	-	0:55:42.875000	0:55:44.609000
 weiter	-	-	-	0:55:42.875000	0:55:44.609000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:44.609000" end="0:55:51.302000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:44.609000" end="0:55:51.302000" age_lower="1" age_upper="999">
 also	-	-	-	0:55:44.609000	0:55:48.009000
 vom	-	-	-	0:55:44.609000	0:55:48.009000
 was	-	-	-	0:55:44.609000	0:55:48.009000
@@ -8561,7 +8561,7 @@ auch	-	-	-	0:55:48.009000	0:55:51.302000
 die	-	-	-	0:55:48.009000	0:55:51.302000
 sozusagen	-	-	-	0:55:48.009000	0:55:51.302000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:50.329000" end="0:56:05.982000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:55:50.329000" end="0:56:05.982000" project="PP04" age_lower="65" age_upper="999">
 authentizität	-	-	-	0:55:50.329000	0:55:51.302000
 sicherlich	-	-	-	0:55:51.302000	0:55:52.282000
 ja	-	-	-	0:55:51.302000	0:55:52.282000
@@ -8606,17 +8606,17 @@ affektiv	-	-	-	0:56:02.268000	0:56:05.982000
 bedeutsames	-	-	-	0:56:02.268000	0:56:05.982000
 beredet	-	-	-	0:56:02.268000	0:56:05.982000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:02.488000" end="0:56:02.748000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:56:02.488000" end="0:56:02.748000" age_lower="1" age_upper="999">
 ja	-	-	-	0:56:02.488000	0:56:02.748000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:56:05.982000" end="0:56:07.382000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:56:05.982000" end="0:56:07.382000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	0:56:05.982000	0:56:07.382000
 auch	-	-	-	0:56:05.982000	0:56:07.382000
 nicht	-	-	-	0:56:05.982000	0:56:07.382000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:07.382000" end="0:56:08.475000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:56:07.382000" end="0:56:08.475000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:56:07.382000" end="0:56:19.075000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:56:07.382000" end="0:56:19.075000" project="PP04" age_lower="65" age_upper="999">
 na	-	-	-	0:56:08.475000	0:56:08.948000
 ja	-	-	-	0:56:08.475000	0:56:08.948000
 aber	-	-	-	0:56:08.948000	0:56:12.448000
@@ -8649,11 +8649,11 @@ jetzt	-	-	-	0:56:16.868000	0:56:19.075000
 spontan	-	-	-	0:56:16.868000	0:56:19.075000
 ein	-	-	-	0:56:16.868000	0:56:19.075000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:18.442000" end="0:56:19.742000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:56:18.442000" end="0:56:19.742000" age_lower="1" age_upper="999">
 ah	-	-	-	0:56:18.442000	0:56:19.075000
 nein	-	-	-	0:56:18.442000	0:56:19.075000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:56:19.742000" end="0:56:48.668000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:56:19.742000" end="0:56:48.668000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	0:56:19.742000	0:56:20.688000
 das	-	-	-	0:56:19.742000	0:56:20.688000
 so	-	-	-	0:56:19.742000	0:56:20.688000
@@ -8716,7 +8716,7 @@ es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:56:47.635000	
 sehr	-	-	-	0:56:47.635000	0:56:48.668000
 viele	-	-	-	0:56:47.635000	0:56:48.668000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:48.668000" end="0:56:58.568000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:56:48.668000" end="0:56:58.568000" age_lower="1" age_upper="999">
 und	-	-	-	0:56:48.668000	0:56:54.095000
 wenn	-	-	-	0:56:48.668000	0:56:54.095000
 Sie	-	-	-	0:56:48.668000	0:56:54.095000
@@ -8739,14 +8739,14 @@ mit	-	-	-	0:56:54.095000	0:56:58.568000
 ihrem	-	-	-	0:56:54.095000	0:56:58.568000
 Studium	-	-	-	0:56:54.095000	0:56:58.568000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:56:54.528000" end="0:56:55.735000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:56:54.528000" end="0:56:55.735000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:56:54.528000	0:56:55.735000
 sie	-	-	-	0:56:54.528000	0:56:55.735000
 spielten	-	-	-	0:56:54.528000	0:56:55.735000
 eine	-	-	-	0:56:54.528000	0:56:55.735000
 Rolle	-	-	-	0:56:54.528000	0:56:55.735000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:58.568000" end="0:57:10.122000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:56:58.568000" end="0:57:10.122000" age_lower="1" age_upper="999">
 auch	-	-	-	0:56:58.568000	0:57:00.868000
 mit	-	-	-	0:56:58.568000	0:57:00.868000
 dem	-	-	-	0:56:58.568000	0:57:00.868000
@@ -8784,7 +8784,7 @@ eine	-	-	-	0:57:07.195000	0:57:10.122000
 Entwicklung	-	-	-	0:57:07.195000	0:57:10.122000
 ist	-	-	-	0:57:07.195000	0:57:10.122000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:57:08.528000" end="0:57:16.375000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:57:08.528000" end="0:57:16.375000" project="PP04" age_lower="65" age_upper="999">
 oh	-	-	-	0:57:08.528000	0:57:09.142000
 ja	-	-	-	0:57:08.528000	0:57:09.142000
 schon	-	-	-	0:57:08.528000	0:57:09.142000
@@ -8808,9 +8808,9 @@ sprachebenen	-	-	-	0:57:11.388000	0:57:16.375000
 zu	-	-	-	0:57:11.388000	0:57:16.375000
 switchen	-	-	-	0:57:11.388000	0:57:16.375000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:16.375000" end="0:57:17.962000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:57:16.375000" end="0:57:17.962000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:57:16.375000" end="0:57:32.508000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:57:16.375000" end="0:57:32.508000" project="PP04" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:57:16.375000	0:57:17.962000
 es	-	-	-	0:57:16.375000	0:57:17.962000
 gelingt	-	-	-	0:57:16.375000	0:57:17.962000
@@ -8869,10 +8869,10 @@ waren	-	-	-	0:57:29.735000	0:57:31.982000
 alle	-	-	-	0:57:31.982000	0:57:32.508000
 on>	-	-	-	0:57:31.982000	0:57:32.508000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:32.508000" end="0:57:32.895000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:57:32.508000" end="0:57:32.895000" age_lower="1" age_upper="999">
 und	-	-	-	0:57:32.508000	0:57:32.895000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:57:32.508000" end="0:57:36.435000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:57:32.508000" end="0:57:36.435000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:57:32.508000	0:57:33.655000
 ich	-	-	-	0:57:32.508000	0:57:33.655000
 war	-	-	-	0:57:32.508000	0:57:33.655000
@@ -8891,10 +8891,10 @@ nicht	-	-	-	0:57:35.202000	0:57:36.435000
 zwei	-	-	-	0:57:35.202000	0:57:36.435000
 mal	-	-	-	0:57:35.202000	0:57:36.435000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:35.588000" end="0:57:35.715000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:57:35.588000" end="0:57:35.715000" age_lower="1" age_upper="999">
 ha	-	-	-	0:57:35.588000	0:57:35.715000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:57:36.435000" end="0:58:07.282000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:57:36.435000" end="0:58:07.282000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:57:36.435000	0:57:37.868000
 das	-	-	-	0:57:36.435000	0:57:37.868000
 geht	-	-	-	0:57:36.435000	0:57:37.868000
@@ -8956,9 +8956,9 @@ man	-	-	-	0:58:01.902000	0:58:07.282000
 Beziehung	-	-	-	0:58:01.902000	0:58:07.282000
 aufgebaut	-	-	-	0:58:01.902000	0:58:07.282000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:07.282000" end="0:58:07.635000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:58:07.282000" end="0:58:07.635000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:58:07.282000" end="0:58:24.015000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:58:07.282000" end="0:58:24.015000" project="PP04" age_lower="65" age_upper="999">
 Erziehung	-	-	-	0:58:07.282000	0:58:08.548000
 ist	-	-	-	0:58:07.282000	0:58:08.548000
 Beziehung	-	-	-	0:58:07.282000	0:58:08.548000
@@ -8994,9 +8994,9 @@ dann	-	-	-	0:58:21.208000	0:58:24.015000
 kognitiv	-	-	-	0:58:21.208000	0:58:24.015000
 orientiert	-	-	-	0:58:21.208000	0:58:24.015000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:22.342000" end="0:58:22.795000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:58:22.342000" end="0:58:22.795000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:58:24.015000" end="0:58:31.815000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:58:24.015000" end="0:58:31.815000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	0:58:24.015000	0:58:26.128000
 gut	-	-	-	0:58:24.015000	0:58:26.128000
 das	-	-	-	0:58:24.015000	0:58:26.128000
@@ -9024,7 +9024,7 @@ zu	-	-	-	0:58:30.328000	0:58:31.815000
 reden	-	-	-	0:58:30.328000	0:58:31.815000
 miteinander	-	-	-	0:58:30.328000	0:58:31.815000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:31.815000" end="0:58:42.588000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:58:31.815000" end="0:58:42.588000" age_lower="1" age_upper="999">
 also	-	-	-	0:58:31.815000	0:58:36.528000
 das	-	-	-	0:58:31.815000	0:58:36.528000
 heißt	-	-	-	0:58:31.815000	0:58:36.528000
@@ -9055,7 +9055,7 @@ angemessen	-	-	-	0:58:40.008000	0:58:42.588000
 gehalten	-	-	-	0:58:40.008000	0:58:42.588000
 hatten	-	-	-	0:58:40.008000	0:58:42.588000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:58:40.728000" end="0:58:57.075000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:58:40.728000" end="0:58:57.075000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	0:58:40.728000	0:58:42.588000
 ja	-	-	-	0:58:40.728000	0:58:42.588000
 also	-	-	-	0:58:40.728000	0:58:42.588000
@@ -9103,9 +9103,9 @@ irgendwie	-	-	-	0:58:55.828000	0:58:57.075000
 heisst	-	-	-	0:58:55.828000	0:58:57.075000
 die	-	-	-	0:58:55.828000	0:58:57.075000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:56.648000" end="0:58:57.075000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:58:56.648000" end="0:58:57.075000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:58:57.075000" end="0:59:46.835000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:58:57.075000" end="0:59:46.835000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	0:58:57.075000	0:58:59.502000
 ich	-	-	-	0:58:57.075000	0:58:59.502000
 habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(f.sg.akk.) klit+	0:58:57.075000	0:58:59.502000
@@ -9256,9 +9256,9 @@ den	-	-	-	0:59:44.835000	0:59:46.835000
 eigentlich	-	-	-	0:59:44.835000	0:59:46.835000
 wirklich	-	-	-	0:59:44.835000	0:59:46.835000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:46.835000" end="0:59:47.362000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:46.835000" end="0:59:47.362000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:59:47.362000" end="0:59:55.155000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:59:47.362000" end="0:59:55.155000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	0:59:47.362000	0:59:49.342000
 das	-	-	-	0:59:47.362000	0:59:49.342000
 zeigt	-	-	-	0:59:47.362000	0:59:49.342000
@@ -9281,9 +9281,9 @@ der	-	-	-	0:59:54.335000	0:59:55.155000
 man	-	-	-	0:59:54.335000	0:59:55.155000
 ist	-	-	-	0:59:54.335000	0:59:55.155000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:54.775000" end="0:59:55.155000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:54.775000" end="0:59:55.155000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:59:55.155000" end="1:00:00.568000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="0:59:55.155000" end="1:00:00.568000" project="PP04" age_lower="65" age_upper="999">
 Zahnarzt	-	-	-	0:59:55.155000	0:59:57.655000
 wechselt	-	-	-	0:59:55.155000	0:59:57.655000
 ja	-	-	-	0:59:55.155000	0:59:57.655000
@@ -9300,7 +9300,7 @@ sitzt	-	-	-	0:59:57.655000	0:59:59.742000
 sonst	-	-	-	0:59:59.742000	1:00:00.568000
 irgendwo	-	-	-	0:59:59.742000	1:00:00.568000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:00.568000" end="1:00:02.808000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:00.568000" end="1:00:02.808000" age_lower="1" age_upper="999">
 finde	-	-	-	1:00:00.568000	1:00:02.808000
 ich	-	-	-	1:00:00.568000	1:00:02.808000
 aber	-	-	-	1:00:00.568000	1:00:02.808000
@@ -9309,10 +9309,10 @@ sehr	-	-	-	1:00:00.568000	1:00:02.808000
 schönen	-	-	-	1:00:00.568000	1:00:02.808000
 Text	-	-	-	1:00:00.568000	1:00:02.808000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:01.548000" end="1:00:01.908000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:01.548000" end="1:00:01.908000" project="PP04" age_lower="65" age_upper="999">
 es	-	-	-	1:00:01.548000	1:00:01.908000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:02.808000" end="1:00:07.835000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:02.808000" end="1:00:07.835000" age_lower="1" age_upper="999">
 für	-	-	-	1:00:02.808000	1:00:04.042000
 den	-	-	-	1:00:02.808000	1:00:04.042000
 schulkontext	-	-	-	1:00:02.808000	1:00:04.042000
@@ -9325,7 +9325,7 @@ anschaulich	-	-	-	1:00:04.042000	1:00:07.835000
 eben	-	-	-	1:00:04.042000	1:00:07.835000
 vermittelt	-	-	-	1:00:04.042000	1:00:07.835000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:05.802000" end="1:00:10.422000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:05.802000" end="1:00:10.422000" project="PP04" age_lower="65" age_upper="999">
 deswe	-	-	-	1:00:05.802000	1:00:06.155000
 ich	-	-	-	1:00:06.155000	1:00:07.835000
 habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ihn klit-	1:00:06.155000	1:00:07.835000
@@ -9345,10 +9345,10 @@ ein	-	-	-	1:00:07.835000	1:00:10.422000
 bisschen	-	-	-	1:00:07.835000	1:00:10.422000
 raussuchen	-	-	-	1:00:07.835000	1:00:10.422000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:08.115000" end="1:00:08.408000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:08.115000" end="1:00:08.408000" age_lower="1" age_upper="999">
 ja	-	-	-	1:00:08.115000	1:00:08.408000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:10.422000" end="1:00:13.088000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:10.422000" end="1:00:13.088000" project="PP04" age_lower="65" age_upper="999">
 ich	-	-	-	1:00:10.422000	1:00:13.088000
 habe	-	-	-	1:00:10.422000	1:00:13.088000
 auch	-	-	-	1:00:10.422000	1:00:13.088000
@@ -9357,7 +9357,7 @@ alle	-	-	-	1:00:10.422000	1:00:13.088000
 Fotos	-	-	-	1:00:10.422000	1:00:13.088000
 herausgesucht	-	-	-	1:00:10.422000	1:00:13.088000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:12.668000" end="1:00:15.261000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:12.668000" end="1:00:15.261000" age_lower="1" age_upper="999">
 ach	-	-	-	1:00:12.668000	1:00:13.088000
 machen	-	-	-	1:00:13.088000	1:00:15.261000
 Sie	-	-	-	1:00:13.088000	1:00:15.261000
@@ -9365,7 +9365,7 @@ sich	-	-	-	1:00:13.088000	1:00:15.261000
 keine	-	-	-	1:00:13.088000	1:00:15.261000
 Mühe	-	-	-	1:00:13.088000	1:00:15.261000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:13.088000" end="1:00:16.595000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:13.088000" end="1:00:16.595000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	1:00:13.088000	1:00:14.881000
 gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:00:13.088000	1:00:14.881000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:00:13.088000	1:00:14.881000
@@ -9378,10 +9378,10 @@ aber	-	-	-	1:00:15.261000	1:00:16.595000
 aber	-	-	-	1:00:15.261000	1:00:16.595000
 der	-	-	-	1:00:15.261000	1:00:16.595000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:15.761000" end="1:00:16.235000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:15.761000" end="1:00:16.235000" age_lower="1" age_upper="999">
 aber	-	-	-	1:00:15.761000	1:00:16.235000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:16.595000" end="1:00:35.035000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:16.595000" end="1:00:35.035000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:00:16.595000	1:00:18.688000
 da	-	-	-	1:00:16.595000	1:00:18.688000
 gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:00:16.595000	1:00:18.688000
@@ -9434,9 +9434,9 @@ bei	-	-	-	1:00:33.081000	1:00:35.035000
 Ihnen	-	-	-	1:00:33.081000	1:00:35.035000
 hinein	-	-	-	1:00:33.081000	1:00:35.035000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:35.035000" end="1:00:35.488000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:35.035000" end="1:00:35.488000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:35.488000" end="1:00:41.321000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:35.488000" end="1:00:41.321000" project="PP04" age_lower="65" age_upper="999">
 wie	-	-	-	1:00:35.488000	1:00:37.095000
 sind	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	1:00:35.488000	1:00:37.095000
 man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	1:00:35.488000	1:00:37.095000
@@ -9453,13 +9453,13 @@ anpassen	-	-	-	1:00:37.095000	1:00:41.321000
 der	-	-	-	1:00:37.095000	1:00:41.321000
 Sprache	-	-	-	1:00:37.095000	1:00:41.321000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:37.908000" end="1:00:42.421000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:37.908000" end="1:00:42.421000" age_lower="1" age_upper="999">
 über	-	-	-	1:00:37.908000	1:00:39.008000
 die	-	-	-	1:00:37.908000	1:00:39.008000
 genau	-	-	-	1:00:41.321000	1:00:41.968000
 genau	-	-	-	1:00:41.968000	1:00:42.421000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:41.968000" end="1:00:45.201000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:41.968000" end="1:00:45.201000" project="PP04" age_lower="65" age_upper="999">
 übrigens	-	-	-	1:00:41.968000	1:00:45.201000
 ein	-	-	-	1:00:41.968000	1:00:45.201000
 oder	-	-	-	1:00:41.968000	1:00:45.201000
@@ -9474,10 +9474,10 @@ ui	-	-	-	1:00:41.968000	1:00:45.201000
 Mundart	-	-	-	1:00:41.968000	1:00:45.201000
 noch	-	-	-	1:00:41.968000	1:00:45.201000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:44.995000" end="1:00:46.275000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:44.995000" end="1:00:46.275000" age_lower="1" age_upper="999">
 wirklich	-	-	-	1:00:44.995000	1:00:46.275000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:45.201000" end="1:00:48.035000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:45.201000" end="1:00:48.035000" project="PP04" age_lower="65" age_upper="999">
 bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:00:45.201000	1:00:46.275000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:00:45.201000	1:00:46.275000
 sehr	-	-	-	1:00:45.201000	1:00:46.275000
@@ -9492,11 +9492,11 @@ die	-	-	-	1:00:46.275000	1:00:48.035000
 etwas	-	-	-	1:00:46.275000	1:00:48.035000
 sagt	-	-	-	1:00:46.275000	1:00:48.035000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:47.641000" end="1:00:48.715000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:47.641000" end="1:00:48.715000" age_lower="1" age_upper="999">
 jaja	-	-	-	1:00:47.641000	1:00:48.715000
 natürlich	-	-	-	1:00:47.641000	1:00:48.715000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:48.281000" end="1:00:58.281000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:48.281000" end="1:00:58.281000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:00:48.281000	1:00:48.521000
 also	-	-	-	1:00:48.715000	1:00:53.848000
 die	-	-	-	1:00:48.715000	1:00:53.848000
@@ -9523,9 +9523,9 @@ ist	-	-	-	1:00:55.935000	1:00:58.281000
 ist	-	-	-	1:00:55.935000	1:00:58.281000
 epos	-	-	-	1:00:55.935000	1:00:58.281000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:58.281000" end="1:00:58.901000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:58.281000" end="1:00:58.901000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:58.901000" end="1:01:02.395000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:00:58.901000" end="1:01:02.395000" project="PP04" age_lower="65" age_upper="999">
 B	-	-	-	1:00:58.901000	1:00:59.915000
 bisson	-	-	-	1:00:58.901000	1:00:59.915000
 ein	-	-	-	1:00:59.915000	1:01:02.128000
@@ -9536,10 +9536,10 @@ ein	-	-	-	1:00:59.915000	1:01:02.128000
 Begriff	-	-	-	1:00:59.915000	1:01:02.128000
 oder	-	-	-	1:01:02.128000	1:01:02.395000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:02.395000" end="1:01:02.875000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:02.395000" end="1:01:02.875000" age_lower="1" age_upper="999">
 nh	-	-	-	1:01:02.395000	1:01:02.875000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:02.875000" end="1:01:12.368000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:02.875000" end="1:01:12.368000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	1:01:02.875000	1:01:03.241000
 piaristenpater	-	-	-	1:01:03.241000	1:01:09.255000
 der	-	-	-	1:01:03.241000	1:01:09.255000
@@ -9563,15 +9563,15 @@ zurück	-	-	-	1:01:09.255000	1:01:11.408000
 der	-	-	-	1:01:11.408000	1:01:12.368000
 Nazi	-	-	-	1:01:11.408000	1:01:12.368000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:12.368000" end="1:01:13.255000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:12.368000" end="1:01:13.255000" age_lower="1" age_upper="999">
 ach	-	-	-	1:01:12.368000	1:01:13.255000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:12.908000" end="1:01:14.181000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:12.908000" end="1:01:14.181000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:01:12.908000	1:01:14.181000
 das	-	-	-	1:01:12.908000	1:01:14.181000
 wurde	-	-	-	1:01:12.908000	1:01:14.181000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:13.255000" end="1:01:16.241000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:13.255000" end="1:01:16.241000" age_lower="1" age_upper="999">
 doch	-	-	-	1:01:13.255000	1:01:14.181000
 doch	-	-	-	1:01:13.255000	1:01:14.181000
 das	-	-	-	1:01:13.255000	1:01:14.181000
@@ -9584,7 +9584,7 @@ mir	-	-	-	1:01:14.181000	1:01:16.241000
 doch	-	-	-	1:01:14.181000	1:01:16.241000
 was	-	-	-	1:01:14.181000	1:01:16.241000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:16.241000" end="1:01:23.708000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:16.241000" end="1:01:23.708000" project="PP04" age_lower="65" age_upper="999">
 irgendwo	-	-	-	1:01:16.241000	1:01:18.175000
 haben	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	1:01:16.241000	1:01:18.175000
 man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+|KlitBasis KlitPron KlitReal PronForm _es(akk.) klPron+Kl klit+	1:01:16.241000	1:01:18.175000
@@ -9612,9 +9612,9 @@ weiß	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:01:22.508000	1:
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:01:22.508000	1:01:23.708000
 nicht	-	-	-	1:01:22.508000	1:01:23.708000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:23.708000" end="1:01:25.021000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:23.708000" end="1:01:25.021000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:23.708000" end="1:01:30.161000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:23.708000" end="1:01:30.161000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:01:25.775000	1:01:30.161000
 prinzipiell	-	-	-	1:01:25.775000	1:01:30.161000
 schon	-	-	-	1:01:25.775000	1:01:30.161000
@@ -9624,9 +9624,9 @@ einen	-	-	-	1:01:25.775000	1:01:30.161000
 die	-	-	-	1:01:25.775000	1:01:30.161000
 Situation	-	-	-	1:01:25.775000	1:01:30.161000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:29.488000" end="1:01:29.795000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:29.488000" end="1:01:29.795000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:30.161000" end="1:02:06.141000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:01:30.161000" end="1:02:06.141000" project="PP04" age_lower="65" age_upper="999">
 auch	-	-	-	1:01:30.161000	1:01:31.741000
 vom	-	-	-	1:01:30.161000	1:01:31.741000
 spreche	-	-	-	1:01:30.161000	1:01:31.741000
@@ -9715,17 +9715,17 @@ ein	-	-	-	1:02:01.815000	1:02:06.141000
 bisschen	-	-	-	1:02:01.815000	1:02:06.141000
 eigenartig	-	-	-	1:02:01.815000	1:02:06.141000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:06.141000" end="1:02:07.421000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:02:06.141000" end="1:02:07.421000" age_lower="1" age_upper="999">
 jaja	-	-	-	1:02:06.141000	1:02:07.421000
 freilich	-	-	-	1:02:06.141000	1:02:07.421000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:06.141000" end="1:02:07.421000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:06.141000" end="1:02:07.421000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:02:06.141000	1:02:07.421000
 sagen	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	1:02:06.141000	1:02:07.421000
 man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	1:02:06.141000	1:02:07.421000
 so	-	-	-	1:02:06.141000	1:02:07.421000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:07.421000" end="1:02:12.888000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:02:07.421000" end="1:02:12.888000" age_lower="1" age_upper="999">
 das	-	-	-	1:02:07.421000	1:02:09.628000
 sind	-	-	-	1:02:07.421000	1:02:09.628000
 auch	-	-	-	1:02:07.421000	1:02:09.628000
@@ -9745,7 +9745,7 @@ zu	-	-	-	1:02:09.628000	1:02:12.888000
 tun	-	-	-	1:02:09.628000	1:02:12.888000
 hat	-	-	-	1:02:09.628000	1:02:12.888000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:12.888000" end="1:02:16.855000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:12.888000" end="1:02:16.855000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:02:12.888000	1:02:16.855000
 also	-	-	-	1:02:12.888000	1:02:16.855000
 ich	-	-	-	1:02:12.888000	1:02:16.855000
@@ -9760,12 +9760,12 @@ muss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:02:12.888000	1:0
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:02:12.888000	1:02:16.855000
 sagen	-	-	-	1:02:12.888000	1:02:16.855000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:13.335000" end="1:02:15.421000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:02:13.335000" end="1:02:15.421000" age_lower="1" age_upper="999">
 also	-	-	-	1:02:13.335000	1:02:15.421000
 auch	-	-	-	1:02:13.335000	1:02:15.421000
 zwischenmenschlichen	-	-	-	1:02:13.335000	1:02:15.421000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:16.855000" end="1:02:36.655000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:16.855000" end="1:02:36.655000" project="PP04" age_lower="65" age_upper="999">
 manchmal	-	-	-	1:02:16.855000	1:02:20.188000
 einen	-	-	-	1:02:16.855000	1:02:20.188000
 großen	-	-	-	1:02:16.855000	1:02:20.188000
@@ -9815,9 +9815,9 @@ großen	-	-	-	1:02:30.955000	1:02:36.655000
 kirchlichen	-	-	-	1:02:30.955000	1:02:36.655000
 Hochzeit	-	-	-	1:02:30.955000	1:02:36.655000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:36.655000" end="1:02:37.355000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:02:36.655000" end="1:02:37.355000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:37.355000" end="1:02:40.368000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:37.355000" end="1:02:40.368000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	1:02:37.355000	1:02:38.215000
 denke	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:02:37.355000	1:02:38.215000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+|KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:02:37.355000	1:02:38.215000
@@ -9828,9 +9828,9 @@ ORT	ORT	-	-	1:02:38.215000	1:02:40.035000
 ORT	ORT	-	-	1:02:38.215000	1:02:40.035000
 übrigens	-	-	-	1:02:38.215000	1:02:40.035000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:40.141000" end="1:02:40.541000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:02:40.141000" end="1:02:40.541000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:40.368000" end="1:02:57.748000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:40.368000" end="1:02:57.748000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:02:40.368000	1:02:41.881000
 erstaunt	-	-	-	1:02:41.881000	1:02:43.621000
 man	-	-	-	1:02:41.881000	1:02:43.621000
@@ -9868,9 +9868,9 @@ diese	-	-	-	1:02:55.868000	1:02:57.501000
 dialektale	-	-	-	1:02:55.868000	1:02:57.501000
 Wortschatz	-	-	-	1:02:55.868000	1:02:57.501000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:57.748000" end="1:02:58.195000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:02:57.748000" end="1:02:58.195000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:58.195000" end="1:03:02.028000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:02:58.195000" end="1:03:02.028000" project="PP04" age_lower="65" age_upper="999">
 von	-	-	-	1:02:58.195000	1:02:59.721000
 omper	-	-	-	1:02:58.195000	1:02:59.721000
 angefangen	-	-	-	1:02:58.195000	1:02:59.721000
@@ -9885,9 +9885,9 @@ glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	1:03:00.288000	1
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	1:03:00.288000	1:03:02.028000
 auch	-	-	-	1:03:00.288000	1:03:02.028000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:02.028000" end="1:03:02.575000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:03:02.028000" end="1:03:02.575000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:03:02.575000" end="1:03:26.735000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:03:02.575000" end="1:03:26.735000" project="PP04" age_lower="65" age_upper="999">
 war	-	-	-	1:03:02.575000	1:03:04.048000
 übrigens	-	-	-	1:03:02.575000	1:03:04.048000
 sehr	-	-	-	1:03:02.575000	1:03:04.048000
@@ -9946,10 +9946,10 @@ gehören	-	-	-	1:03:21.921000	1:03:25.675000
 feuerlöscheimer	-	-	-	1:03:21.921000	1:03:25.675000
 logischerweise	-	-	-	1:03:25.675000	1:03:26.735000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:26.361000" end="1:03:26.735000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:03:26.361000" end="1:03:26.735000" age_lower="1" age_upper="999">
 ja	-	-	-	1:03:26.361000	1:03:26.735000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:03:26.735000" end="1:03:30.495000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:03:26.735000" end="1:03:30.495000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	1:03:26.735000	1:03:28.008000
 Schloss	-	-	-	1:03:26.735000	1:03:28.008000
 ist	-	-	-	1:03:26.735000	1:03:28.008000
@@ -9961,10 +9961,10 @@ abgebrannt	-	-	-	1:03:28.008000	1:03:30.495000
 auch	-	-	-	1:03:28.008000	1:03:30.495000
 ZAHL	ZAHL	-	-	1:03:28.008000	1:03:30.495000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:29.708000" end="1:03:30.281000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:03:29.708000" end="1:03:30.281000" age_lower="1" age_upper="999">
 ach	-	-	-	1:03:29.708000	1:03:30.281000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:03:30.495000" end="1:03:38.401000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:03:30.495000" end="1:03:38.401000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:03:30.495000	1:03:34.975000
 nein	-	-	-	1:03:30.495000	1:03:34.975000
 ja	-	-	-	1:03:30.495000	1:03:34.975000
@@ -9985,10 +9985,10 @@ Zeit	-	-	-	1:03:34.975000	1:03:38.401000
 ist	-	-	-	1:03:34.975000	1:03:38.401000
 abgebrannt	-	-	-	1:03:34.975000	1:03:38.401000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:38.401000" end="1:03:39.048000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:03:38.401000" end="1:03:39.048000" age_lower="1" age_upper="999">
 ach	-	-	-	1:03:38.401000	1:03:39.048000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:03:38.401000" end="1:04:11.955000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:03:38.401000" end="1:04:11.955000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:03:38.401000	1:03:39.048000
 verbrannt	-	-	-	1:03:38.401000	1:03:39.048000
 oder	-	-	-	1:03:39.048000	1:03:40.808000
@@ -10062,7 +10062,7 @@ Notwendigkeit	-	-	-	1:04:06.321000	1:04:09.521000
 daher	-	-	-	1:04:09.521000	1:04:11.955000
 fehlen	-	-	-	1:04:09.521000	1:04:11.955000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:10.221000" end="1:04:11.955000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:10.221000" end="1:04:11.955000" age_lower="1" age_upper="999">
 aha	-	-	-	1:04:10.221000	1:04:11.955000
 das	-	-	-	1:04:10.221000	1:04:11.955000
 heißt	-	-	-	1:04:10.221000	1:04:11.955000
@@ -10071,7 +10071,7 @@ sind	-	-	-	1:04:10.221000	1:04:11.955000
 wirklich	-	-	-	1:04:10.221000	1:04:11.955000
 verschollen	-	-	-	1:04:10.221000	1:04:11.955000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:11.955000" end="1:04:14.421000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:11.955000" end="1:04:14.421000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:04:11.955000	1:04:14.421000
 die	-	-	-	1:04:11.955000	1:04:14.421000
 gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:04:11.955000	1:04:14.421000
@@ -10080,10 +10080,10 @@ zum	-	-	-	1:04:11.955000	1:04:14.421000
 grossteil	-	-	-	1:04:11.955000	1:04:14.421000
 nicht	-	-	-	1:04:11.955000	1:04:14.421000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:13.555000" end="1:04:13.821000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:13.555000" end="1:04:13.821000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:13.555000	1:04:13.821000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:14.421000" end="1:04:20.041000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:14.421000" end="1:04:20.041000" project="PP04" age_lower="65" age_upper="999">
 es	-	-	-	1:04:14.421000	1:04:15.701000
 gab	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:04:14.421000	1:04:15.701000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:04:14.421000	1:04:15.701000
@@ -10097,25 +10097,25 @@ mal	-	-	-	1:04:15.701000	1:04:20.041000
 in	-	-	-	1:04:15.701000	1:04:20.041000
 ORT	ORT	-	-	1:04:15.701000	1:04:20.041000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:19.908000" end="1:04:20.521000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:19.908000" end="1:04:20.521000" age_lower="1" age_upper="999">
 nein	-	-	-	1:04:19.908000	1:04:20.521000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:20.041000" end="1:04:20.521000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:20.041000" end="1:04:20.521000" project="PP04" age_lower="65" age_upper="999">
 dadada	-	-	-	1:04:20.041000	1:04:20.521000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:20.521000" end="1:04:21.168000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:20.521000" end="1:04:21.168000" age_lower="1" age_upper="999">
 nein	-	-	-	1:04:20.521000	1:04:21.168000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:21.168000" end="1:04:22.181000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:21.168000" end="1:04:22.181000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:04:21.168000	1:04:22.181000
 es	-	-	-	1:04:21.168000	1:04:22.181000
 liegt	-	-	-	1:04:21.168000	1:04:22.181000
 sehr	-	-	-	1:04:21.168000	1:04:22.181000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:21.921000" end="1:04:22.415000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:21.921000" end="1:04:22.415000" age_lower="1" age_upper="999">
 xxx	-	-	-	1:04:21.921000	1:04:22.415000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:22.415000" end="1:04:24.955000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:22.415000" end="1:04:24.955000" project="PP04" age_lower="65" age_upper="999">
 wie	-	-	-	1:04:22.415000	1:04:24.148000
 schreibt	-	-	-	1:04:22.415000	1:04:24.148000
 jemand	-	-	-	1:04:22.415000	1:04:24.148000
@@ -10125,9 +10125,9 @@ in	-	-	-	1:04:24.148000	1:04:24.955000
 der	-	-	-	1:04:24.148000	1:04:24.955000
 Pampa	-	-	-	1:04:24.148000	1:04:24.955000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:24.955000" end="1:04:26.028000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:24.955000" end="1:04:26.028000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:24.955000" end="1:04:38.928000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:24.955000" end="1:04:38.928000" project="PP04" age_lower="65" age_upper="999">
 ist	-	-	-	1:04:24.955000	1:04:26.028000
 nicht	-	-	-	1:04:24.955000	1:04:26.028000
 ganz	-	-	-	1:04:24.955000	1:04:26.028000
@@ -10175,13 +10175,13 @@ nicht	-	-	-	1:04:34.421000	1:04:38.928000
 ganz	-	-	-	1:04:34.421000	1:04:38.928000
 genau	-	-	-	1:04:34.421000	1:04:38.928000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:37.808000" end="1:04:39.448000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:37.808000" end="1:04:39.448000" age_lower="1" age_upper="999">
 über	-	-	-	1:04:37.808000	1:04:39.448000
 die	-	-	-	1:04:37.808000	1:04:39.448000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:38.928000" end="1:04:40.168000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:38.928000" end="1:04:40.168000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:40.168000" end="1:04:49.174000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:40.168000" end="1:04:49.174000" age_lower="1" age_upper="999">
 dass	-	-	-	1:04:40.168000	1:04:45.641000
 einem	-	-	-	1:04:40.168000	1:04:45.641000
 die	-	-	-	1:04:40.168000	1:04:45.641000
@@ -10196,7 +10196,7 @@ historischen	-	-	-	1:04:45.641000	1:04:49.174000
 Texten	-	-	-	1:04:45.641000	1:04:49.174000
 helfen	-	-	-	1:04:45.641000	1:04:49.174000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:46.001000" end="1:04:49.621000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:46.001000" end="1:04:49.621000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _mir klit-	1:04:46.001000	1:04:47.594000
 mir	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _mir klit-	1:04:46.001000	1:04:47.594000
 nicht	-	-	-	1:04:46.001000	1:04:47.594000
@@ -10207,21 +10207,21 @@ ja	-	-	-	1:04:47.594000	1:04:48.308000
 geholfen	-	-	-	1:04:48.694000	1:04:49.394000
 haben	-	-	-	1:04:48.694000	1:04:49.394000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:49.621000" end="1:04:50.414000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:49.621000" end="1:04:50.414000" age_lower="1" age_upper="999">
 so	-	-	-	1:04:49.621000	1:04:50.414000
 jaja	-	-	-	1:04:49.621000	1:04:50.414000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:50.414000" end="1:04:52.208000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:50.414000" end="1:04:52.208000" project="PP04" age_lower="65" age_upper="999">
 gab	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:04:50.414000	1:04:52.208000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:04:50.414000	1:04:52.208000
 also	-	-	-	1:04:50.414000	1:04:52.208000
 etliche	-	-	-	1:04:50.414000	1:04:52.208000
 Ausdrücke	-	-	-	1:04:50.414000	1:04:52.208000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:51.594000" end="1:04:52.208000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:51.594000" end="1:04:52.208000" age_lower="1" age_upper="999">
 jaja	-	-	-	1:04:51.594000	1:04:52.208000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:52.208000" end="1:04:55.188000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:52.208000" end="1:04:55.188000" project="PP04" age_lower="65" age_upper="999">
 die	-	-	-	1:04:52.208000	1:04:55.188000
 sind	-	-	-	1:04:52.208000	1:04:55.188000
 ja	-	-	-	1:04:52.208000	1:04:55.188000
@@ -10230,10 +10230,10 @@ doch	-	-	-	1:04:52.208000	1:04:55.188000
 phonetisch	-	-	-	1:04:52.208000	1:04:55.188000
 notiert	-	-	-	1:04:52.208000	1:04:55.188000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:55.188000" end="1:04:55.801000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:04:55.188000" end="1:04:55.801000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:55.188000	1:04:55.801000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:55.801000" end="1:05:15.601000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:04:55.801000" end="1:05:15.601000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:04:55.801000	1:04:57.634000
 es	-	-	-	1:04:55.801000	1:04:57.634000
 waren	-	-	-	1:04:55.801000	1:04:57.634000
@@ -10290,17 +10290,17 @@ wosseromper	-	-	-	1:05:12.341000	1:05:15.601000
 geschrieben	-	-	-	1:05:12.341000	1:05:15.601000
 war	-	-	-	1:05:12.341000	1:05:15.601000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:13.194000" end="1:05:14.001000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:05:13.194000" end="1:05:14.001000" age_lower="1" age_upper="999">
 was	-	-	-	1:05:13.194000	1:05:14.001000
 das	-	-	-	1:05:13.194000	1:05:14.001000
 ist	-	-	-	1:05:13.194000	1:05:14.001000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:15.601000" end="1:05:17.101000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:15.601000" end="1:05:17.101000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	1:05:15.601000	1:05:17.101000
 war	-	-	-	1:05:15.601000	1:05:17.101000
 so	-	-	-	1:05:15.601000	1:05:17.101000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:16.274000" end="1:05:19.048000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:05:16.274000" end="1:05:19.048000" age_lower="1" age_upper="999">
 und	-	-	-	1:05:16.274000	1:05:19.048000
 auch	-	-	-	1:05:16.274000	1:05:19.048000
 die	-	-	-	1:05:16.274000	1:05:19.048000
@@ -10309,11 +10309,11 @@ fünf	-	-	-	1:05:16.274000	1:05:19.048000
 mal	-	-	-	1:05:16.274000	1:05:19.048000
 anders	-	-	-	1:05:16.274000	1:05:19.048000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:19.048000" end="1:05:19.814000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:19.048000" end="1:05:19.814000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:05:19.048000	1:05:19.814000
 eh	-	-	-	1:05:19.048000	1:05:19.814000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:19.334000" end="1:05:21.268000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:05:19.334000" end="1:05:21.268000" age_lower="1" age_upper="999">
 innerhalb	-	-	-	1:05:19.334000	1:05:21.268000
 v	-	-	-	1:05:19.334000	1:05:21.268000
 von	-	-	-	1:05:19.334000	1:05:21.268000
@@ -10321,7 +10321,7 @@ ein	-	-	-	1:05:19.334000	1:05:21.268000
 paar	-	-	-	1:05:19.334000	1:05:21.268000
 Seiten	-	-	-	1:05:19.334000	1:05:21.268000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:20.888000" end="1:05:21.788000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:20.888000" end="1:05:21.788000" project="PP04" age_lower="65" age_upper="999">
 na	-	-	-	1:05:20.888000	1:05:21.788000
 ja	-	-	-	1:05:20.888000	1:05:21.788000
 da	-	-	-	1:05:20.888000	1:05:21.788000
@@ -10330,10 +10330,10 @@ es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:05:20.888000	
 ja	-	-	-	1:05:20.888000	1:05:21.788000
 auch	-	-	-	1:05:20.888000	1:05:21.788000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:21.788000" end="1:05:22.161000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:05:21.788000" end="1:05:22.161000" age_lower="1" age_upper="999">
 ja	-	-	-	1:05:21.788000	1:05:22.161000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:21.788000" end="1:05:25.254000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:21.788000" end="1:05:25.254000" project="PP04" age_lower="65" age_upper="999">
 bezahlt	-	-	-	1:05:21.788000	1:05:25.254000
 ist	-	-	-	1:05:21.788000	1:05:25.254000
 mir	-	-	-	1:05:21.788000	1:05:25.254000
@@ -10346,9 +10346,9 @@ nach	-	-	-	1:05:21.788000	1:05:25.254000
 Buchstaben	-	-	-	1:05:21.788000	1:05:25.254000
 worden	-	-	-	1:05:21.788000	1:05:25.254000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:24.908000" end="1:05:25.748000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:05:24.908000" end="1:05:25.748000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:25.748000" end="1:05:30.021000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:25.748000" end="1:05:30.021000" project="PP04" age_lower="65" age_upper="999">
 da	-	-	-	1:05:25.748000	1:05:27.661000
 gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:05:25.748000	1:05:27.661000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:05:25.748000	1:05:27.661000
@@ -10365,9 +10365,9 @@ mit	-	-	-	1:05:27.661000	1:05:30.021000
 vierzehn	-	-	-	1:05:27.661000	1:05:30.021000
 Buchstaben	-	-	-	1:05:27.661000	1:05:30.021000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:30.021000" end="1:05:31.761000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:05:30.021000" end="1:05:31.761000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:30.514000" end="1:05:38.821000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:30.514000" end="1:05:38.821000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:05:30.514000	1:05:30.801000
 aber	-	-	-	1:05:31.761000	1:05:32.574000
 wobei	-	-	-	1:05:32.574000	1:05:34.374000
@@ -10386,14 +10386,14 @@ war	-	-	-	1:05:37.708000	1:05:38.821000
 nicht	-	-	-	1:05:37.708000	1:05:38.821000
 gegeben	-	-	-	1:05:37.708000	1:05:38.821000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:38.821000" end="1:05:42.108000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:05:38.821000" end="1:05:42.108000" age_lower="1" age_upper="999">
 ja	-	-	-	1:05:38.821000	1:05:39.468000
 aber	-	-	-	1:05:39.468000	1:05:42.108000
 auch	-	-	-	1:05:39.468000	1:05:42.108000
 nicht	-	-	-	1:05:39.468000	1:05:42.108000
 notwendig	-	-	-	1:05:39.468000	1:05:42.108000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:40.188000" end="1:05:54.474000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:40.188000" end="1:05:54.474000" project="PP04" age_lower="65" age_upper="999">
 gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:05:40.188000	1:05:41.681000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	1:05:40.188000	1:05:41.681000
 halt	-	-	-	1:05:40.188000	1:05:41.681000
@@ -10438,9 +10438,9 @@ briefwechsel	-	-	-	1:05:52.701000	1:05:54.474000
 erhalten	-	-	-	1:05:52.701000	1:05:54.474000
 geblieben	-	-	-	1:05:52.701000	1:05:54.474000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:54.474000" end="1:05:54.814000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:05:54.474000" end="1:05:54.814000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:54.814000" end="1:06:22.001000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:05:54.814000" end="1:06:22.001000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:05:54.814000	1:05:57.354000
 wenn	-	-	-	1:05:54.814000	1:05:57.354000
 etwas	-	-	-	1:05:54.814000	1:05:57.354000
@@ -10515,9 +10515,9 @@ den	-	-	-	1:06:19.881000	1:06:22.001000
 namenstag	-	-	-	1:06:19.881000	1:06:22.001000
 gefeiert	-	-	-	1:06:19.881000	1:06:22.001000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:20.654000" end="1:06:21.068000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:06:20.654000" end="1:06:21.068000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:06:22.001000" end="1:07:14.794000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:06:22.001000" end="1:07:14.794000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:06:22.001000	1:06:23.948000
 da	-	-	-	1:06:22.001000	1:06:23.948000
 merkt	-	-	-	1:06:22.001000	1:06:23.948000
@@ -10643,9 +10643,9 @@ Tisch	-	-	-	1:07:10.214000	1:07:14.794000
 äußerst	-	-	-	1:07:10.214000	1:07:14.794000
 bemerkenswert	-	-	-	1:07:10.214000	1:07:14.794000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:14.794000" end="1:07:15.734000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:07:14.794000" end="1:07:15.734000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:15.734000" end="1:07:30.861000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:15.734000" end="1:07:30.861000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:07:15.734000	1:07:16.021000
 gut	-	-	-	1:07:16.021000	1:07:16.548000
 aber	-	-	-	1:07:16.548000	1:07:16.841000
@@ -10700,10 +10700,10 @@ der	-	-	-	1:07:28.148000	1:07:30.861000
 kaiserlichen	-	-	-	1:07:28.148000	1:07:30.861000
 hofkanzlei	-	-	-	1:07:28.148000	1:07:30.861000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:30.401000" end="1:07:31.008000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:07:30.401000" end="1:07:31.008000" age_lower="1" age_upper="999">
 ah	-	-	-	1:07:30.401000	1:07:31.008000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:31.008000" end="1:07:45.134000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:31.008000" end="1:07:45.134000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:07:31.008000	1:07:34.034000
 da	-	-	-	1:07:31.008000	1:07:34.034000
 löschsand	-	-	-	1:07:31.008000	1:07:34.034000
@@ -10744,19 +10744,19 @@ goldstaub	-	-	-	1:07:41.914000	1:07:45.134000
 zu	-	-	-	1:07:41.914000	1:07:45.134000
 sammeln	-	-	-	1:07:41.914000	1:07:45.134000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:45.134000" end="1:07:46.321000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:07:45.134000" end="1:07:46.321000" age_lower="1" age_upper="999">
 <<lachend>	-	-	-	1:07:46.028000	1:07:46.321000
 na	-	-	-	1:07:46.028000	1:07:46.321000
 ja	-	-	-	1:07:46.028000	1:07:46.321000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:46.028000" end="1:07:46.321000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:46.028000" end="1:07:46.321000" project="PP04" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	1:07:46.028000	1:07:46.321000
 na,>	-	-	-	1:07:46.028000	1:07:46.321000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:46.321000" end="1:07:47.408000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:07:46.321000" end="1:07:47.408000" age_lower="1" age_upper="999">
 ja>	-	-	-	1:07:46.321000	1:07:46.734000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:47.408000" end="1:07:49.168000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:47.408000" end="1:07:49.168000" project="PP04" age_lower="65" age_upper="999">
 gut	-	-	-	1:07:47.408000	1:07:49.168000
 jetzt	-	-	-	1:07:47.408000	1:07:49.168000
 sind	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	1:07:47.408000	1:07:49.168000
@@ -10766,7 +10766,7 @@ vom	-	-	-	1:07:47.408000	1:07:49.168000
 Thema	-	-	-	1:07:47.408000	1:07:49.168000
 obgekommen	-	-	-	1:07:47.408000	1:07:49.168000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:49.168000" end="1:07:51.168000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:07:49.168000" end="1:07:51.168000" age_lower="1" age_upper="999">
 nein	-	-	-	1:07:49.168000	1:07:51.168000
 das	-	-	-	1:07:49.168000	1:07:51.168000
 ist	-	-	-	1:07:49.168000	1:07:51.168000
@@ -10775,13 +10775,13 @@ auch	-	-	-	1:07:49.168000	1:07:51.168000
 sehr	-	-	-	1:07:49.168000	1:07:51.168000
 schön	-	-	-	1:07:49.168000	1:07:51.168000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:49.168000" end="1:07:51.168000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:49.168000" end="1:07:51.168000" project="PP04" age_lower="65" age_upper="999">
 Ausdrücke	-	-	-	1:07:49.168000	1:07:50.294000
 ja	-	-	-	1:07:50.841000	1:07:51.168000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:51.168000" end="1:07:52.074000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:07:51.168000" end="1:07:52.074000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:52.074000" end="1:07:56.121000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:52.074000" end="1:07:56.121000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:07:52.074000	1:07:56.121000
 manches	-	-	-	1:07:52.074000	1:07:56.121000
 NAME	NAME	-	-	1:07:52.074000	1:07:56.121000
@@ -10796,9 +10796,9 @@ eben	-	-	-	1:07:52.074000	1:07:56.121000
 erhalten	-	-	-	1:07:52.074000	1:07:56.121000
 bleibt	-	-	-	1:07:52.074000	1:07:56.121000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:52.281000" end="1:07:56.421000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:07:52.281000" end="1:07:56.421000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:56.121000" end="1:08:30.779000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:07:56.121000" end="1:08:30.779000" project="PP04" age_lower="65" age_upper="999">
 es	-	-	-	1:07:56.121000	1:07:56.421000
 fällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	1:07:56.421000	1:07:59.628000
 mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	1:07:56.421000	1:07:59.628000
@@ -10890,9 +10890,9 @@ wirklich	-	-	-	1:08:27.981000	1:08:30.779000
 originell	-	-	-	1:08:27.981000	1:08:30.779000
 schreiben	-	-	-	1:08:27.981000	1:08:30.779000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:30.064000" end="1:08:30.417000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:08:30.064000" end="1:08:30.417000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:30.779000" end="1:08:35.225000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:30.779000" end="1:08:35.225000" project="PP04" age_lower="65" age_upper="999">
 manchmal	-	-	-	1:08:30.779000	1:08:34.651000
 ist	-	-	-	1:08:30.779000	1:08:34.651000
 halt	-	-	-	1:08:30.779000	1:08:34.651000
@@ -10903,7 +10903,7 @@ kommt	-	-	-	1:08:30.779000	1:08:34.651000
 <<lachend>	-	-	-	1:08:34.651000	1:08:35.225000
 ower>	-	-	-	1:08:34.651000	1:08:35.225000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:35.225000" end="1:08:39.349000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:08:35.225000" end="1:08:39.349000" age_lower="1" age_upper="999">
 ja	-	-	-	1:08:35.225000	1:08:39.349000
 vor	-	-	-	1:08:35.225000	1:08:39.349000
 allem	-	-	-	1:08:35.225000	1:08:39.349000
@@ -10911,7 +10911,7 @@ thematisch	-	-	-	1:08:35.225000	1:08:39.349000
 wahrscheinlich	-	-	-	1:08:35.225000	1:08:39.349000
 ähnlich	-	-	-	1:08:35.225000	1:08:39.349000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:37.716000" end="1:08:40.772000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:37.716000" end="1:08:40.772000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:08:37.716000	1:08:39.349000
 ch	-	-	-	1:08:37.716000	1:08:39.349000
 ja	-	-	-	1:08:37.716000	1:08:39.349000
@@ -10924,9 +10924,9 @@ bisschen	-	-	-	1:08:39.349000	1:08:40.772000
 im	-	-	-	1:08:39.349000	1:08:40.772000
 Kreis	-	-	-	1:08:39.349000	1:08:40.772000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:40.772000" end="1:08:41.804000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:08:40.772000" end="1:08:41.804000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:41.804000" end="1:08:43.404000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:41.804000" end="1:08:43.404000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	1:08:41.804000	1:08:43.404000
 irgendwann	-	-	-	1:08:41.804000	1:08:43.404000
 ist	-	-	-	1:08:41.804000	1:08:43.404000
@@ -10935,7 +10935,7 @@ in	-	-	-	1:08:41.804000	1:08:43.404000
 dem	-	-	-	1:08:41.804000	1:08:43.404000
 alter	-	-	-	1:08:41.804000	1:08:43.404000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:42.126000" end="1:08:44.026000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:08:42.126000" end="1:08:44.026000" age_lower="1" age_upper="999">
 nein	-	-	-	1:08:42.126000	1:08:44.026000
 ja	-	-	-	1:08:42.126000	1:08:44.026000
 aber	-	-	-	1:08:42.126000	1:08:44.026000
@@ -10945,7 +10945,7 @@ eben	-	-	-	1:08:42.126000	1:08:44.026000
 die	-	-	-	1:08:42.126000	1:08:44.026000
 Tradition	-	-	-	1:08:42.126000	1:08:44.026000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:43.404000" end="1:08:46.790000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:43.404000" end="1:08:46.790000" project="PP04" age_lower="65" age_upper="999">
 wo	-	-	-	1:08:43.404000	1:08:44.404000
 man	-	-	-	1:08:43.404000	1:08:44.404000
 das	-	-	-	1:08:43.404000	1:08:44.404000
@@ -10964,14 +10964,14 @@ neu	-	-	-	1:08:45.203000	1:08:46.790000
 wieder	-	-	-	1:08:45.203000	1:08:46.790000
 darüber	-	-	-	1:08:45.203000	1:08:46.790000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:45.928000" end="1:08:47.225000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:08:45.928000" end="1:08:47.225000" age_lower="1" age_upper="999">
 das	-	-	-	1:08:45.928000	1:08:47.225000
 ist	-	-	-	1:08:45.928000	1:08:47.225000
 ja	-	-	-	1:08:45.928000	1:08:47.225000
 auch	-	-	-	1:08:45.928000	1:08:47.225000
 praktisch	-	-	-	1:08:45.928000	1:08:47.225000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:46.790000" end="1:08:48.261000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:46.790000" end="1:08:48.261000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	1:08:46.790000	1:08:48.261000
 ist	-	-	-	1:08:46.790000	1:08:48.261000
 der	-	-	-	1:08:46.790000	1:08:48.261000
@@ -10979,9 +10979,9 @@ Vorteil	-	-	-	1:08:46.790000	1:08:48.261000
 des	-	-	-	1:08:46.790000	1:08:48.261000
 Alters	-	-	-	1:08:46.790000	1:08:48.261000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:47.225000" end="1:08:49.189000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:08:47.225000" end="1:08:49.189000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:49.189000" end="1:08:51.581000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:49.189000" end="1:08:51.581000" project="PP04" age_lower="65" age_upper="999">
 das	-	-	-	1:08:49.189000	1:08:51.581000
 macht	-	-	-	1:08:49.189000	1:08:51.581000
 das	-	-	-	1:08:49.189000	1:08:51.581000
@@ -10989,9 +10989,9 @@ irgendwie	-	-	-	1:08:49.189000	1:08:51.581000
 sympathischer	-	-	-	1:08:49.189000	1:08:51.581000
 sozusagen	-	-	-	1:08:49.189000	1:08:51.581000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:50.899000" end="1:08:51.175000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:08:50.899000" end="1:08:51.175000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:51.581000" end="1:09:03.167000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:08:51.581000" end="1:09:03.167000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:08:51.581000	1:08:52.852000
 auch	-	-	-	1:08:51.581000	1:08:52.852000
 also	-	-	-	1:08:52.852000	1:08:54.930000
@@ -11023,13 +11023,13 @@ oder	-	-	-	1:09:02.060000	1:09:03.167000
 österreichisches	-	-	-	1:09:02.060000	1:09:03.167000
 Deutsch	-	-	-	1:09:02.060000	1:09:03.167000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:02.447000" end="1:09:04.620000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:09:02.447000" end="1:09:04.620000" age_lower="1" age_upper="999">
 Deutsch	-	-	-	1:09:03.167000	1:09:04.620000
 in	-	-	-	1:09:03.167000	1:09:04.620000
 Österreich	-	-	-	1:09:03.167000	1:09:04.620000
 genau	-	-	-	1:09:03.167000	1:09:04.620000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:09:03.944000" end="1:09:34.840000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:09:03.944000" end="1:09:34.840000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	-	1:09:03.944000	1:09:06.004000
 es	-	-	-	1:09:03.944000	1:09:06.004000
 gibt	-	-	-	1:09:03.944000	1:09:06.004000
@@ -11102,9 +11102,9 @@ NAME	NAME	-	-	1:09:31.477000	1:09:34.840000
 mitherausgeberin	-	-	-	1:09:31.477000	1:09:34.840000
 war	-	-	-	1:09:31.477000	1:09:34.840000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:32.210000" end="1:09:32.514000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:09:32.210000" end="1:09:32.514000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:09:34.840000" end="1:09:49.040000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:09:34.840000" end="1:09:49.040000" project="PP04" age_lower="65" age_upper="999">
 jetzt	-	-	-	1:09:34.840000	1:09:37.059000
 ist	-	-	-	1:09:34.840000	1:09:37.059000
 beethovenhaus	-	-	-	1:09:34.840000	1:09:37.059000
@@ -11139,9 +11139,9 @@ NAME	NAME	-	-	1:09:45.731000	1:09:49.040000
 schworzenberg]op	-	-	-	1:09:45.731000	1:09:49.040000
 gestritten	-	-	-	1:09:45.731000	1:09:49.040000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:49.040000" end="1:09:50.912000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:09:49.040000" end="1:09:50.912000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:09:49.040000" end="1:10:06.727000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:09:49.040000" end="1:10:06.727000" project="PP04" age_lower="65" age_upper="999">
 schreiben	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	1:09:49.040000	1:09:50.912000
 mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	1:09:49.040000	1:09:50.912000
 jetzt	-	-	-	1:09:49.040000	1:09:50.912000
@@ -11200,12 +11200,12 @@ es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	1:10:05.49400
 dort	-	-	-	1:10:05.494000	1:10:06.727000
 auch	-	-	-	1:10:05.494000	1:10:06.727000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:10:06.727000" end="1:10:07.774000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:10:06.727000" end="1:10:07.774000" age_lower="1" age_upper="999">
 nein	-	-	-	1:10:06.727000	1:10:07.774000
 ja	-	-	-	1:10:06.727000	1:10:07.774000
 natürlich	-	-	-	1:10:06.727000	1:10:07.774000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:07.641000" end="1:10:14.714000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:07.641000" end="1:10:14.714000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	1:10:07.641000	1:10:09.234000
 sie	-	-	-	1:10:07.641000	1:10:09.234000
 ist	-	-	-	1:10:07.641000	1:10:09.234000
@@ -11230,9 +11230,9 @@ wieder	-	-	-	1:10:11.567000	1:10:14.714000
 Jänner	-	-	-	1:10:11.567000	1:10:14.714000
 hinein<<lachend>zuschreiben;>	-	-	-	1:10:11.567000	1:10:14.714000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:10:13.394000" end="1:10:15.534000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:10:13.394000" end="1:10:15.534000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:15.534000" end="1:10:19.661000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:15.534000" end="1:10:19.661000" project="PP04" age_lower="65" age_upper="999">
 erscheint	-	-	-	1:10:15.534000	1:10:17.427000
 in	-	-	-	1:10:15.534000	1:10:17.427000
 einem	-	-	-	1:10:15.534000	1:10:17.427000
@@ -11249,10 +11249,10 @@ verlag	-	-	-	1:10:17.427000	1:10:19.661000
 eben	-	-	-	1:10:17.427000	1:10:19.661000
 erschienen	-	-	-	1:10:17.427000	1:10:19.661000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:10:17.741000" end="1:10:18.041000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:10:17.741000" end="1:10:18.041000" age_lower="1" age_upper="999">
 ja	-	-	-	1:10:17.741000	1:10:18.041000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:19.661000" end="1:10:43.421000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:19.661000" end="1:10:43.421000" project="PP04" age_lower="65" age_upper="999">
 der	-	-	-	1:10:21.241000	1:10:24.721000
 Chef	-	-	-	1:10:21.241000	1:10:24.721000
 das	-	-	-	1:10:21.241000	1:10:24.721000
@@ -11316,9 +11316,9 @@ ein	-	-	-	1:10:38.661000	1:10:43.421000
 österreichischer	-	-	-	1:10:38.661000	1:10:43.421000
 verlag	-	-	-	1:10:38.661000	1:10:43.421000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:10:39.061000" end="1:10:39.401000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:10:39.061000" end="1:10:39.401000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:43.421000" end="1:10:48.441000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:43.421000" end="1:10:48.441000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:10:43.421000	1:10:48.441000
 der	-	-	-	1:10:43.421000	1:10:48.441000
 auch	-	-	-	1:10:43.421000	1:10:48.441000
@@ -11331,9 +11331,9 @@ zu	-	-	-	1:10:43.421000	1:10:48.441000
 tun	-	-	-	1:10:43.421000	1:10:48.441000
 hat	-	-	-	1:10:43.421000	1:10:48.441000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:10:48.441000" end="1:10:49.001000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:10:48.441000" end="1:10:49.001000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:48.441000" end="1:11:07.227000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:10:48.441000" end="1:11:07.227000" project="PP04" age_lower="65" age_upper="999">
 immer	-	-	-	1:10:48.441000	1:10:49.001000
 wieder	-	-	-	1:10:48.441000	1:10:49.001000
 also	-	-	-	1:10:49.001000	1:10:50.881000
@@ -11379,30 +11379,30 @@ seinen	-	-	-	1:11:04.507000	1:11:07.227000
 verschiedenen	-	-	-	1:11:04.507000	1:11:07.227000
 textvarianten	-	-	-	1:11:04.507000	1:11:07.227000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:11:06.554000" end="1:11:07.354000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:11:06.554000" end="1:11:07.354000" age_lower="1" age_upper="999">
 ah	-	-	-	1:11:06.554000	1:11:07.354000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:07.227000" end="1:11:07.967000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:07.227000" end="1:11:07.967000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:11:07.227000	1:11:07.967000
 so	-	-	-	1:11:07.227000	1:11:07.967000
 weiter	-	-	-	1:11:07.227000	1:11:07.967000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:11:07.581000" end="1:11:07.967000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:11:07.581000" end="1:11:07.967000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:07.967000" end="1:11:10.941000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:07.967000" end="1:11:10.941000" project="PP04" age_lower="65" age_upper="999">
 gut	-	-	-	1:11:07.967000	1:11:10.941000
 das	-	-	-	1:11:07.967000	1:11:10.941000
 erfundenes	-	-	-	1:11:07.967000	1:11:10.941000
 Österreichisch	-	-	-	1:11:07.967000	1:11:10.941000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:11:10.941000" end="1:11:12.754000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:11:10.941000" end="1:11:12.754000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:10.941000" end="1:11:12.754000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:10.941000" end="1:11:12.754000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	1:11:10.941000	1:11:12.754000
 trotzdem	-	-	-	1:11:10.941000	1:11:12.754000
 faszinierend	-	-	-	1:11:10.941000	1:11:12.754000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:11:12.754000" end="1:11:21.174000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:11:12.754000" end="1:11:21.174000" age_lower="1" age_upper="999">
 nein	-	-	-	1:11:12.754000	1:11:15.334000
 aber	-	-	-	1:11:12.754000	1:11:15.334000
 NAME	NAME	-	-	1:11:12.754000	1:11:15.334000
@@ -11426,7 +11426,7 @@ sprachwissenschaftlichen	-	-	-	1:11:15.334000	1:11:21.174000
 Bereich	-	-	-	1:11:15.334000	1:11:21.174000
 unterwegs	-	-	-	1:11:15.334000	1:11:21.174000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:15.334000" end="1:11:24.107000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:15.334000" end="1:11:24.107000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:11:15.334000	1:11:15.607000
 äh	-	-	-	1:11:20.767000	1:11:24.107000
 ist	-	-	-	1:11:20.767000	1:11:24.107000
@@ -11439,13 +11439,13 @@ musikverlag	-	-	-	1:11:20.767000	1:11:24.107000
 Österreichs	-	-	-	1:11:20.767000	1:11:24.107000
 geworden	-	-	-	1:11:20.767000	1:11:24.107000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:11:21.174000" end="1:11:24.474000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:11:21.174000" end="1:11:24.474000" age_lower="1" age_upper="999">
 halt	-	-	-	1:11:21.174000	1:11:24.474000
 natürlich	-	-	-	1:11:21.174000	1:11:24.474000
 historisch	-	-	-	1:11:21.174000	1:11:24.474000
 auch	-	-	-	1:11:21.174000	1:11:24.474000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:24.107000" end="1:11:29.787000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:24.107000" end="1:11:29.787000" project="PP04" age_lower="65" age_upper="999">
 weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	1:11:24.107000	1:11:29.787000
 er	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	1:11:24.107000	1:11:29.787000
 eben	-	-	-	1:11:24.107000	1:11:29.787000
@@ -11459,9 +11459,9 @@ Reihen	-	-	-	1:11:24.107000	1:11:29.787000
 übernommen	-	-	-	1:11:24.107000	1:11:29.787000
 hat	-	-	-	1:11:24.107000	1:11:29.787000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:11:29.787000" end="1:11:30.114000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:11:29.787000" end="1:11:30.114000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:29.787000" end="1:11:35.307000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:29.787000" end="1:11:35.307000" project="PP04" age_lower="65" age_upper="999">
 ein	-	-	-	1:11:29.787000	1:11:31.841000
 Reihe	-	-	-	1:11:29.787000	1:11:31.841000
 von	-	-	-	1:11:29.787000	1:11:31.841000
@@ -11472,10 +11472,10 @@ eigentlich	-	-	-	1:11:31.841000	1:11:35.307000
 ein	-	-	-	1:11:31.841000	1:11:35.307000
 baustoffunternehmen	-	-	-	1:11:31.841000	1:11:35.307000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:11:35.307000" end="1:11:36.867000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:11:35.307000" end="1:11:36.867000" age_lower="1" age_upper="999">
 ah	-	-	-	1:11:35.307000	1:11:36.087000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:36.087000" end="1:12:08.714000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:11:36.087000" end="1:12:08.714000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:11:36.087000	1:11:36.867000
 nein	-	-	-	1:11:36.867000	1:11:38.761000
 ja	-	-	-	1:11:36.867000	1:11:38.761000
@@ -11579,9 +11579,9 @@ für	-	-	-	1:12:06.367000	1:12:08.714000
 die	-	-	-	1:12:06.367000	1:12:08.714000
 fachzeitschrift	-	-	-	1:12:06.367000	1:12:08.714000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:12:08.714000" end="1:12:09.301000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:12:08.714000" end="1:12:09.301000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:12:09.301000" end="1:12:22.387000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:12:09.301000" end="1:12:22.387000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:12:09.301000	1:12:12.194000
 über	-	-	-	1:12:09.301000	1:12:12.194000
 den	-	-	-	1:12:09.301000	1:12:12.194000
@@ -11618,11 +11618,11 @@ in	-	-	-	1:12:20.481000	1:12:22.387000
 das	-	-	-	1:12:20.481000	1:12:22.387000
 Verlagswesen	-	-	-	1:12:20.481000	1:12:22.387000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:12:22.387000" end="1:12:23.554000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:12:22.387000" end="1:12:23.554000" age_lower="1" age_upper="999">
 ha	-	-	-	1:12:22.387000	1:12:23.554000
 interessant	-	-	-	1:12:22.387000	1:12:23.554000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:12:23.554000" end="1:12:25.281000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:12:23.554000" end="1:12:25.281000" project="PP04" age_lower="65" age_upper="999">
 wobei	-	-	-	1:12:23.554000	1:12:25.281000
 da	-	-	-	1:12:23.554000	1:12:25.281000
 verlag	-	-	-	1:12:23.554000	1:12:25.281000
@@ -11632,10 +11632,10 @@ schon	-	-	-	1:12:23.554000	1:12:25.281000
 etabliert	-	-	-	1:12:23.554000	1:12:25.281000
 ist	-	-	-	1:12:23.554000	1:12:25.281000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:12:25.281000" end="1:12:26.301000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:12:25.281000" end="1:12:26.301000" age_lower="1" age_upper="999">
 jaja	-	-	-	1:12:25.281000	1:12:26.301000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:12:25.281000" end="1:12:41.754000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:12:25.281000" end="1:12:41.754000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:12:25.281000	1:12:25.681000
 und	-	-	-	1:12:26.301000	1:12:28.234000
 nachdem	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit+	1:12:26.301000	1:12:28.234000
@@ -11671,9 +11671,9 @@ NAME	NAME	-	-	1:12:37.581000	1:12:40.581000
 NAME	NAME	-	-	1:12:40.581000	1:12:41.754000
 NAME	NAME	-	-	1:12:40.581000	1:12:41.754000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:12:40.774000" end="1:12:41.127000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:12:40.774000" end="1:12:41.127000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:12:41.754000" end="1:13:04.747000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:12:41.754000" end="1:13:04.747000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:12:41.754000	1:12:45.994000
 nachdem	-	-	-	1:12:41.754000	1:12:45.994000
 die	-	-	-	1:12:41.754000	1:12:45.994000
@@ -11727,7 +11727,7 @@ in	-	-	-	1:13:02.941000	1:13:04.547000
 Zukunft	-	-	-	1:13:02.941000	1:13:04.547000
 entwickelt	-	-	-	1:13:02.941000	1:13:04.547000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:13:04.747000" end="1:13:06.834000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:13:04.747000" end="1:13:06.834000" age_lower="1" age_upper="999">
 ja	-	-	-	1:13:04.747000	1:13:05.421000
 schön	-	-	-	1:13:04.747000	1:13:05.421000
 weil	-	-	-	1:13:05.421000	1:13:06.834000
@@ -11738,10 +11738,10 @@ ist	-	-	-	1:13:05.421000	1:13:06.834000
 ja	-	-	-	1:13:05.421000	1:13:06.834000
 schon	-	-	-	1:13:05.421000	1:13:06.834000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:05.634000" end="1:13:05.847000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:05.634000" end="1:13:05.847000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:13:05.634000	1:13:05.847000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:13:06.834000" end="1:13:09.280000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:13:06.834000" end="1:13:09.280000" age_lower="1" age_upper="999">
 also	-	-	-	1:13:06.834000	1:13:09.280000
 ich	-	-	-	1:13:06.834000	1:13:09.280000
 weiß	-	-	-	1:13:06.834000	1:13:09.280000
@@ -11751,7 +11751,7 @@ Arbeit	-	-	-	1:13:06.834000	1:13:09.280000
 dahinter	-	-	-	1:13:06.834000	1:13:09.280000
 steckt	-	-	-	1:13:06.834000	1:13:09.280000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:09.280000" end="1:13:12.267000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:09.280000" end="1:13:12.267000" project="PP04" age_lower="65" age_upper="999">
 es	-	-	-	1:13:09.280000	1:13:10.940000
 steckt	-	-	-	1:13:09.280000	1:13:10.940000
 ein	-	-	-	1:13:09.280000	1:13:10.940000
@@ -11759,7 +11759,7 @@ bisschen	-	-	-	1:13:09.280000	1:13:10.940000
 Arbeit	-	-	-	1:13:09.280000	1:13:10.940000
 dahinter	-	-	-	1:13:09.280000	1:13:10.940000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:13:12.267000" end="1:13:23.007000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:13:12.267000" end="1:13:23.007000" age_lower="1" age_upper="999">
 was	-	-	-	1:13:12.267000	1:13:16.060000
 sich	-	-	-	1:13:12.267000	1:13:16.060000
 ja	-	-	-	1:13:12.267000	1:13:16.060000
@@ -11788,7 +11788,7 @@ auch	-	-	-	1:13:20.367000	1:13:23.007000
 Jahre	-	-	-	1:13:20.367000	1:13:23.007000
 ziehen	-	-	-	1:13:20.367000	1:13:23.007000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:21.320000" end="1:13:27.047000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:21.320000" end="1:13:27.047000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:13:22.507000	1:13:24.054000
 es	-	-	-	1:13:22.507000	1:13:24.054000
 war	-	-	-	1:13:22.507000	1:13:24.054000
@@ -11810,11 +11810,11 @@ es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	1:13:25.767000	
 etwas	-	-	-	1:13:25.767000	1:13:27.047000
 einfacher	-	-	-	1:13:25.767000	1:13:27.047000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:13:27.047000" end="1:13:28" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:13:27.047000" end="1:13:28" age_lower="1" age_upper="999">
 ja	-	-	-	1:13:27.047000	1:13:28
 jaja	-	-	-	1:13:27.047000	1:13:28
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:28" end="1:13:35.260000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:28" end="1:13:35.260000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:13:28	1:13:29.580000
 das	-	-	-	1:13:28	1:13:29.580000
 war	-	-	-	1:13:28	1:13:29.580000
@@ -11845,12 +11845,12 @@ vorne	-	-	-	1:13:33.900000	1:13:35.260000
 genannt	-	-	-	1:13:33.900000	1:13:35.260000
 sein	-	-	-	1:13:33.900000	1:13:35.260000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:13:34.774000" end="1:13:35.707000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:13:34.774000" end="1:13:35.707000" age_lower="1" age_upper="999">
 nicht	-	-	-	1:13:34.774000	1:13:35.707000
 als	-	-	-	1:13:34.774000	1:13:35.707000
 Autor	-	-	-	1:13:34.774000	1:13:35.707000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:35.707000" end="1:13:47.760000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:35.707000" end="1:13:47.760000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:13:35.707000	1:13:39.507000
 allein	-	-	-	1:13:35.707000	1:13:39.507000
 also	-	-	-	1:13:35.707000	1:13:39.507000
@@ -11878,20 +11878,20 @@ niemand	-	-	-	1:13:46.420000	1:13:47.760000
 daraufkommen	-	-	-	1:13:46.420000	1:13:47.760000
 ist	-	-	-	1:13:46.420000	1:13:47.760000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:13:47.760000" end="1:13:49.347000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:13:47.760000" end="1:13:49.347000" age_lower="1" age_upper="999">
 die	-	-	-	1:13:47.760000	1:13:49.347000
 Fehler	-	-	-	1:13:47.760000	1:13:49.347000
 bleiben	-	-	-	1:13:47.760000	1:13:49.347000
 immer	-	-	-	1:13:47.760000	1:13:49.347000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:49.347000" end="1:13:50.340000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:49.347000" end="1:13:50.340000" project="PP04" age_lower="65" age_upper="999">
 darf	-	-	-	1:13:49.347000	1:13:50.340000
 auch	-	-	-	1:13:49.347000	1:13:50.340000
 sein	-	-	-	1:13:49.347000	1:13:50.340000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:13:50.340000" end="1:13:51.340000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:13:50.340000" end="1:13:51.340000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:50.340000" end="1:13:58.507000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:50.340000" end="1:13:58.507000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:13:50.340000	1:13:50.860000
 nein	-	-	-	1:13:50.860000	1:13:52.314000
 es	-	-	-	1:13:50.860000	1:13:52.314000
@@ -11911,15 +11911,15 @@ ein	-	-	-	1:13:55.707000	1:13:58.507000
 Freude	-	-	-	1:13:55.707000	1:13:58.507000
 lassen	-	-	-	1:13:55.707000	1:13:58.507000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:13:58.507000" end="1:13:59.534000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:13:58.507000" end="1:13:59.534000" age_lower="1" age_upper="999">
 genau	-	-	-	1:13:58.507000	1:13:59.534000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:59.254000" end="1:13:59.640000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:59.254000" end="1:13:59.640000" project="PP04" age_lower="65" age_upper="999">
 daher	-	-	-	1:13:59.254000	1:13:59.640000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:13:59.640000" end="1:14:00.594000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:13:59.640000" end="1:14:00.594000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:59.640000" end="1:14:27.740000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:13:59.640000" end="1:14:27.740000" project="PP04" age_lower="65" age_upper="999">
 aber	-	-	-	1:14:00.594000	1:14:01.294000
 nein	-	-	-	1:14:01.294000	1:14:03.900000
 aber	-	-	-	1:14:01.294000	1:14:03.900000
@@ -11996,18 +11996,18 @@ liegen	-	-	-	1:14:24.907000	1:14:27.060000
 diesen	-	-	-	1:14:27.060000	1:14:27.740000
 Band	-	-	-	1:14:27.060000	1:14:27.740000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:14:27.740000" end="1:14:29.054000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:14:27.740000" end="1:14:29.054000" age_lower="1" age_upper="999">
 tatsächlich	-	-	-	1:14:27.740000	1:14:29.054000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:14:28.280000" end="1:14:30.120000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:14:28.280000" end="1:14:30.120000" project="PP04" age_lower="65" age_upper="999">
 habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:14:28.280000	1:14:28.860000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	1:14:28.280000	1:14:28.860000
 gedacht	-	-	-	1:14:28.280000	1:14:28.860000
 eigentlich	-	-	-	1:14:28.860000	1:14:30.120000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:14:29.054000" end="1:14:30.120000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:14:29.054000" end="1:14:30.120000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:14:30.120000" end="1:14:56.980000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:14:30.120000" end="1:14:56.980000" project="PP04" age_lower="65" age_upper="999">
 ersch	-	-	-	1:14:30.120000	1:14:30.400000
 ich	-	-	-	1:14:30.400000	1:14:31.740000
 habe	-	-	-	1:14:30.400000	1:14:31.740000
@@ -12077,9 +12077,9 @@ Nation	-	-	-	1:14:50.600000	1:14:56.980000
 sehr	-	-	-	1:14:50.600000	1:14:56.980000
 wichtig	-	-	-	1:14:50.600000	1:14:56.980000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:14:56.507000" end="1:14:56.980000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:14:56.507000" end="1:14:56.980000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:14:56.980000" end="1:15:05.787000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:14:56.980000" end="1:15:05.787000" project="PP04" age_lower="65" age_upper="999">
 und	-	-	-	1:14:56.980000	1:15:00.047000
 jetzt	-	-	-	1:14:56.980000	1:15:00.047000
 richten	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(pl.nom.) klit+	1:14:56.980000	1:15:00.047000
@@ -12108,9 +12108,9 @@ her	-	-	-	1:15:04.400000	1:15:05.254000
 dreißig	-	-	-	1:15:05.254000	1:15:05.787000
 Jahr	-	-	-	1:15:05.254000	1:15:05.787000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:15:05.787000" end="1:15:06.327000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:15:05.787000" end="1:15:06.327000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:06.327000" end="1:15:23.640000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:06.327000" end="1:15:23.640000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:15:06.327000	1:15:07.140000
 wie	-	-	-	1:15:07.140000	1:15:09.527000
 gesagt	-	-	-	1:15:07.140000	1:15:09.527000
@@ -12146,11 +12146,11 @@ ein	-	-	-	1:15:21.987000	1:15:23.640000
 Gemeindebau	-	-	-	1:15:21.987000	1:15:23.640000
 dort	-	-	-	1:15:21.987000	1:15:23.640000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:15:23.640000" end="1:15:26.120000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:15:23.640000" end="1:15:26.120000" age_lower="1" age_upper="999">
 ja	-	-	-	1:15:23.640000	1:15:26.120000
 das	-	-	-	1:15:23.640000	1:15:26.120000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:26.120000" end="1:15:29.974000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:26.120000" end="1:15:29.974000" project="PP04" age_lower="65" age_upper="999">
 gut	-	-	-	1:15:26.120000	1:15:27.700000
 aber	-	-	-	1:15:27.700000	1:15:29.974000
 kehren	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit-	1:15:27.700000	1:15:29.974000
@@ -12161,15 +12161,15 @@ tollen	-	-	-	1:15:27.700000	1:15:29.974000
 fragenkatalog	-	-	-	1:15:27.700000	1:15:29.974000
 zurück	-	-	-	1:15:27.700000	1:15:29.974000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:15:29.254000" end="1:15:31.354000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:15:29.254000" end="1:15:31.354000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:29.974000" end="1:15:31.354000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:29.974000" end="1:15:31.354000" project="PP04" age_lower="65" age_upper="999">
 bevor	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	1:15:29.974000	1:15:31.354000
 wir	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	1:15:29.974000	1:15:31.354000
 da	-	-	-	1:15:29.974000	1:15:31.354000
 jetzt	-	-	-	1:15:29.974000	1:15:31.354000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:15:31.354000" end="1:15:40.067000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:15:31.354000" end="1:15:40.067000" age_lower="1" age_upper="999">
 ja	-	-	-	1:15:31.354000	1:15:36.854000
 dann	-	-	-	1:15:31.354000	1:15:36.854000
 würde	-	-	-	1:15:31.354000	1:15:36.854000
@@ -12199,9 +12199,9 @@ die	-	-	-	1:15:36.854000	1:15:40.067000
 Städte	-	-	-	1:15:36.854000	1:15:40.067000
 interessieren	-	-	-	1:15:36.854000	1:15:40.067000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:36.854000" end="1:15:40.447000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:36.854000" end="1:15:40.447000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:15:40.447000" end="1:15:49.234000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:15:40.447000" end="1:15:49.234000" age_lower="1" age_upper="999">
 ah	-	-	-	1:15:40.447000	1:15:43.040000
 würden	-	-	-	1:15:40.447000	1:15:43.040000
 Sie	-	-	-	1:15:40.447000	1:15:43.040000
@@ -12221,7 +12221,7 @@ auf	-	-	-	1:15:46.154000	1:15:49.234000
 sprachlicher	-	-	-	1:15:46.154000	1:15:49.234000
 Ebene	-	-	-	1:15:46.154000	1:15:49.234000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:49.014000" end="1:15:56.120000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:49.014000" end="1:15:56.120000" project="PP04" age_lower="65" age_upper="999">
 ja	-	-	-	1:15:49.014000	1:15:49.234000
 also	-	-	-	1:15:49.234000	1:15:53.154000
 ich	-	-	-	1:15:49.234000	1:15:53.154000
@@ -12248,28 +12248,28 @@ nicht	-	-	-	1:15:54.760000	1:15:56.120000
 so	-	-	-	1:15:54.760000	1:15:56.120000
 sicher	-	-	-	1:15:54.760000	1:15:56.120000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:15:56.120000" end="1:15:57.820000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:15:56.120000" end="1:15:57.820000" age_lower="1" age_upper="999">
 ein	-	-	-	1:15:56.120000	1:15:57.820000
 all	-	-	-	1:15:56.120000	1:15:57.820000
 die	-	-	-	1:15:56.120000	1:15:57.820000
 perspektiven	-	-	-	1:15:56.120000	1:15:57.820000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:57.319000" end="1:15:57.820000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:57.319000" end="1:15:57.820000" project="PP04" age_lower="65" age_upper="999">
 d	-	-	-	1:15:57.319000	1:15:57.820000
 ja	-	-	-	1:15:57.319000	1:15:57.820000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:15:57.820000" end="1:15:58.727000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:15:57.820000" end="1:15:58.727000" age_lower="1" age_upper="999">
 die	-	-	-	1:15:57.820000	1:15:58.727000
 wir	-	-	-	1:15:57.820000	1:15:58.727000
 bekommen	-	-	-	1:15:57.820000	1:15:58.727000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:58.314000" end="1:15:58.503000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:58.314000" end="1:15:58.503000" project="PP04" age_lower="65" age_upper="999">
 gut	-	-	-	1:15:58.314000	1:15:58.503000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:15:58.727000" end="1:15:59.614000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:15:58.727000" end="1:15:59.614000" age_lower="1" age_upper="999">
 interessant	-	-	-	1:15:58.727000	1:15:59.614000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:58.977000" end="1:16:01.877000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:15:58.977000" end="1:16:01.877000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:15:58.977000	1:15:59.314000
 den	-	-	-	1:15:59.540000	1:16:01.877000
 Unterschied	-	-	-	1:15:59.540000	1:16:01.877000
@@ -12277,9 +12277,9 @@ merke	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	1:15:59.540000	1:
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	1:15:59.540000	1:16:01.877000
 schon	-	-	-	1:15:59.540000	1:16:01.877000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:16:01.877000" end="1:16:02.324000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:16:01.877000" end="1:16:02.324000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:16:02.324000" end="1:16:07.040000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:16:02.324000" end="1:16:07.040000" project="PP04" age_lower="65" age_upper="999">
 also	-	-	-	1:16:02.324000	1:16:05.035000
 wir	-	-	-	1:16:02.324000	1:16:05.035000
 haben	-	-	-	1:16:02.324000	1:16:05.035000
@@ -12299,9 +12299,9 @@ haßt	-	-	-	1:16:05.035000	1:16:07.040000
 die	-	-	-	1:16:05.035000	1:16:07.040000
 da	-	-	-	1:16:05.035000	1:16:07.040000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:16:07.040000" end="1:16:07.566000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:16:07.040000" end="1:16:07.566000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:16:07.566000" end="1:16:15.687000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:16:07.566000" end="1:16:15.687000" project="PP04" age_lower="65" age_upper="999">
 wie	-	-	-	1:16:07.566000	1:16:08.366000
 heisst	-	-	-	1:16:07.566000	1:16:08.366000
 die	-	-	-	1:16:07.566000	1:16:08.366000
@@ -12325,7 +12325,7 @@ pädagogische	-	-	-	1:16:12.619000	1:16:14.277000
 Institut	-	-	-	1:16:12.619000	1:16:14.277000
 äh	-	-	-	1:16:14.277000	1:16:15.687000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:16:15.687000" end="1:16:18.140000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:16:15.687000" end="1:16:18.140000" age_lower="1" age_upper="999">
 eh	-	-	-	1:16:15.687000	1:16:18.140000
 in	-	-	-	1:16:15.687000	1:16:18.140000
 der	-	-	-	1:16:15.687000	1:16:18.140000
@@ -12333,7 +12333,7 @@ ORT	ORT	-	-	1:16:15.687000	1:16:18.140000
 glaube	-	-	-	1:16:15.687000	1:16:18.140000
 ich	-	-	-	1:16:15.687000	1:16:18.140000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:16:16.208000" end="1:16:49.324000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:16:16.208000" end="1:16:49.324000" project="PP04" age_lower="65" age_upper="999">
 sagen	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _Sie(hon.) klit+	1:16:16.208000	1:16:16.851000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _Sie(hon.) klit+	1:16:16.208000	1:16:16.851000
 an	-	-	-	1:16:16.208000	1:16:16.851000
@@ -12418,9 +12418,9 @@ der	-	-	-	1:16:46.787000	1:16:49.324000
 artikulation	-	-	-	1:16:46.787000	1:16:49.324000
 her	-	-	-	1:16:46.787000	1:16:49.324000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:16:49.324000" end="1:16:50.008000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:16:49.324000" end="1:16:50.008000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:16:50.008000" end="1:17:04.919000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:16:50.008000" end="1:17:04.919000" project="PP04" age_lower="65" age_upper="999">
 bei	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	1:16:50.008000	1:16:51.708000
 ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	1:16:50.008000	1:16:51.708000
 natürlich	-	-	-	1:16:50.008000	1:16:51.708000
@@ -12462,9 +12462,9 @@ Verwandte	-	-	-	1:17:03.124000	1:17:04.919000
 von	-	-	-	1:17:03.124000	1:17:04.919000
 uns	-	-	-	1:17:03.124000	1:17:04.919000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:17:04.561000" end="1:17:04.919000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:17:04.561000" end="1:17:04.919000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:04.919000" end="1:17:08.330000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:04.919000" end="1:17:08.330000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	1:17:04.919000	1:17:06.408000
 so	-	-	-	1:17:06.408000	1:17:08.330000
 so	-	-	-	1:17:06.408000	1:17:08.330000
@@ -12475,14 +12475,14 @@ neue	-	-	-	1:17:06.408000	1:17:08.330000
 siedlung	-	-	-	1:17:06.408000	1:17:08.330000
 irgendwie	-	-	-	1:17:06.408000	1:17:08.330000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:17:08.330000" end="1:17:11.508000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:17:08.330000" end="1:17:11.508000" age_lower="1" age_upper="999">
 weiß	-	-	-	1:17:08.330000	1:17:11.508000
 ich	-	-	-	1:17:08.330000	1:17:11.508000
 leider	-	-	-	1:17:08.330000	1:17:11.508000
 auch	-	-	-	1:17:08.330000	1:17:11.508000
 nicht	-	-	-	1:17:08.330000	1:17:11.508000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:10.577000" end="1:17:13.224000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:10.577000" end="1:17:13.224000" project="PP04" age_lower="65" age_upper="999">
 im	-	-	-	1:17:10.577000	1:17:11.166000
 Norden	-	-	-	1:17:10.577000	1:17:11.166000
 d	-	-	-	1:17:11.166000	1:17:13.224000
@@ -12493,13 +12493,13 @@ kennen	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _Sie(hon.) klit-	1:17:11.16
 Sie	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _Sie(hon.) klit-	1:17:11.166000	1:17:13.224000
 sicher	-	-	-	1:17:11.166000	1:17:13.224000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:17:12.872000" end="1:17:14.008000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:17:12.872000" end="1:17:14.008000" age_lower="1" age_upper="999">
 jaja	-	-	-	1:17:12.872000	1:17:14.008000
 den	-	-	-	1:17:12.872000	1:17:14.008000
 kenne	-	-	-	1:17:12.872000	1:17:14.008000
 ich	-	-	-	1:17:12.872000	1:17:14.008000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:14.008000" end="1:17:16.493000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:14.008000" end="1:17:16.493000" project="PP04" age_lower="65" age_upper="999">
 international	-	-	-	1:17:14.008000	1:17:16.493000
 taucht	-	-	-	1:17:14.008000	1:17:16.493000
 der	-	-	-	1:17:14.008000	1:17:16.493000
@@ -12507,7 +12507,7 @@ immer	-	-	-	1:17:14.008000	1:17:16.493000
 wieder	-	-	-	1:17:14.008000	1:17:16.493000
 auf	-	-	-	1:17:14.008000	1:17:16.493000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:17:14.298000" end="1:17:16.840000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:17:14.298000" end="1:17:16.840000" age_lower="1" age_upper="999">
 den	-	-	-	1:17:14.298000	1:17:14.766000
 kenne	-	-	-	1:17:14.298000	1:17:14.766000
 ich	-	-	-	1:17:14.298000	1:17:14.766000
@@ -12519,7 +12519,7 @@ mir	-	-	-	1:17:15.751000	1:17:16.840000
 leider	-	-	-	1:17:15.751000	1:17:16.840000
 nichts	-	-	-	1:17:15.751000	1:17:16.840000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:16.493000" end="1:17:29.582000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:16.493000" end="1:17:29.582000" project="PP04" age_lower="65" age_upper="999">
 in	-	-	-	1:17:16.493000	1:17:16.840000
 den	-	-	-	1:17:16.493000	1:17:16.840000
 auf	-	-	-	1:17:16.840000	1:17:18.393000
@@ -12552,9 +12552,9 @@ zumindestens	-	-	-	1:17:28.177000	1:17:29.582000
 grossraum	-	-	-	1:17:28.177000	1:17:29.582000
 ORT	ORT	-	-	1:17:28.177000	1:17:29.582000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:17:29.230000" end="1:17:29.582000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:17:29.230000" end="1:17:29.582000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:29.582000" end="1:17:44.477000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:29.582000" end="1:17:44.477000" project="PP04" age_lower="65" age_upper="999">
 ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	1:17:29.582000	1:17:30.498000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	1:17:29.582000	1:17:30.498000
 auf	-	-	-	1:17:29.582000	1:17:30.498000
@@ -12602,14 +12602,14 @@ Sprache	-	-	-	1:17:41.840000	1:17:44.477000
 schon	-	-	-	1:17:41.840000	1:17:44.477000
 auf	-	-	-	1:17:41.840000	1:17:44.477000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:17:44.477000" end="1:17:45.745000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:17:44.477000" end="1:17:45.745000" age_lower="1" age_upper="999">
 und	-	-	-	1:17:44.477000	1:17:45.745000
 eher	-	-	-	1:17:44.477000	1:17:45.745000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:45.530000" end="1:17:45.919000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:45.530000" end="1:17:45.919000" project="PP04" age_lower="65" age_upper="999">
 in	-	-	-	1:17:45.530000	1:17:45.919000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:17:45.745000" end="1:17:50.045000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:17:45.745000" end="1:17:50.045000" age_lower="1" age_upper="999">
 Sie	-	-	-	1:17:45.745000	1:17:48.082000
 haben	-	-	-	1:17:45.745000	1:17:48.082000
 schon	-	-	-	1:17:45.745000	1:17:48.082000
@@ -12622,7 +12622,7 @@ auf	-	-	-	1:17:48.082000	1:17:50.045000
 lautlicher	-	-	-	1:17:48.082000	1:17:50.045000
 Ebene	-	-	-	1:17:48.082000	1:17:50.045000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:49.482000" end="1:17:59.461000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:49.482000" end="1:17:59.461000" project="PP04" age_lower="65" age_upper="999">
 auf	-	-	-	1:17:49.482000	1:17:50.172000
 lautli	-	-	-	1:17:49.482000	1:17:50.172000
 in	-	-	-	1:17:50.172000	1:17:52.451000
@@ -12660,9 +12660,9 @@ Ganzen	-	-	-	1:17:57.051000	1:17:59.461000
 zu	-	-	-	1:17:57.051000	1:17:59.461000
 vermeiden	-	-	-	1:17:57.051000	1:17:59.461000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:17:59.461000" end="1:17:59.814000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:17:59.461000" end="1:17:59.814000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:59.814000" end="1:18:18.133000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:17:59.814000" end="1:18:18.133000" project="PP04" age_lower="65" age_upper="999">
 nicht	-	-	-	1:17:59.814000	1:18:01.182000
 unbedingt	-	-	-	1:17:59.814000	1:18:01.182000
 also	-	-	-	1:18:01.182000	1:18:05.230000
@@ -12710,9 +12710,9 @@ ORT	ORT	-	-	1:18:16.367000	1:18:18.133000
 ORT	ORT	-	-	1:18:16.367000	1:18:18.133000
 übersiedelt	-	-	-	1:18:16.367000	1:18:18.133000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:18:18.133000" end="1:18:18.613000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:18:18.133000" end="1:18:18.613000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:18:18.613000" end="1:18:31.253000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:18:18.613000" end="1:18:31.253000" project="PP04" age_lower="65" age_upper="999">
 woher	-	-	-	1:18:18.613000	1:18:20.260000
 seine	-	-	-	1:18:18.613000	1:18:20.260000
 Frau	-	-	-	1:18:18.613000	1:18:20.260000
@@ -12756,9 +12756,9 @@ eine	-	-	-	1:18:29.107000	1:18:31.253000
 lange	-	-	-	1:18:29.107000	1:18:31.253000
 Frage	-	-	-	1:18:29.107000	1:18:31.253000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:18:29.433000" end="1:18:30.927000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:18:29.433000" end="1:18:30.927000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:18:31.253000" end="1:18:41.487000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:18:31.253000" end="1:18:41.487000" project="PP04" age_lower="65" age_upper="999">
 oder	-	-	-	1:18:31.253000	1:18:33.533000
 lange	-	-	-	1:18:31.253000	1:18:33.533000
 Antwort	-	-	-	1:18:31.253000	1:18:33.533000
@@ -12792,9 +12792,9 @@ oft	-	-	-	1:18:40.233000	1:18:41.487000
 recht	-	-	-	1:18:40.233000	1:18:41.487000
 daneben	-	-	-	1:18:40.233000	1:18:41.487000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:18:40.367000" end="1:18:40.747000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:18:40.367000" end="1:18:40.747000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:18:41.487000" end="1:19:02.973000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:18:41.487000" end="1:19:02.973000" project="PP04" age_lower="65" age_upper="999">
 ah	-	-	-	1:18:41.487000	1:18:42.933000
 letzten	-	-	-	1:18:42.933000	1:18:44.893000
 Montag	-	-	-	1:18:42.933000	1:18:44.893000
@@ -12842,9 +12842,9 @@ zum	-	-	-	1:18:59.367000	1:19:02.973000
 kulturerbe	-	-	-	1:18:59.367000	1:19:02.973000
 ernannt	-	-	-	1:18:59.367000	1:19:02.973000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:18:59.567000" end="1:18:59.953000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:18:59.567000" end="1:18:59.953000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:19:02.973000" end="1:19:17.420000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:19:02.973000" end="1:19:17.420000" project="PP04" age_lower="65" age_upper="999">
 unesco	-	-	-	1:19:02.973000	1:19:04.040000
 kulturerbe	-	-	-	1:19:02.973000	1:19:04.040000
 ernannt	-	-	-	1:19:04.587000	1:19:07.013000
@@ -12884,7 +12884,7 @@ Magen	-	-	-	1:19:15.360000	1:19:17.420000
 <<lachend>	-	-	-	1:19:15.360000	1:19:17.420000
 knurrt,>	-	-	-	1:19:15.360000	1:19:17.420000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:19:17.033000" end="1:19:19.327000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:19:17.033000" end="1:19:19.327000" age_lower="1" age_upper="999">
 <<lachend>	-	-	-	1:19:17.033000	1:19:17.420000
 oje	-	-	-	1:19:17.033000	1:19:17.420000
 ja	-	-	-	1:19:17.420000	1:19:19.327000
@@ -12894,11 +12894,11 @@ meine	-	-	-	1:19:17.420000	1:19:19.327000
 Schuld	-	-	-	1:19:17.420000	1:19:19.327000
 jetzt,>	-	-	-	1:19:17.420000	1:19:19.327000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:19:17.420000" end="1:19:19.327000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:19:17.420000" end="1:19:19.327000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:19:19.327000" end="1:19:20.907000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:19:19.327000" end="1:19:20.907000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:19:19.327000" end="1:19:28.353000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:19:19.327000" end="1:19:28.353000" project="PP04" age_lower="65" age_upper="999">
 nana	-	-	-	1:19:20	1:19:20.907000
 das	-	-	-	1:19:20	1:19:20.907000
 passt	-	-	-	1:19:20	1:19:20.907000
@@ -12920,14 +12920,14 @@ in	-	-	-	1:19:25.087000	1:19:28.353000
 zeitliche	-	-	-	1:19:25.087000	1:19:28.353000
 Panik	-	-	-	1:19:25.087000	1:19:28.353000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:19:28" end="1:19:29.320000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:19:28" end="1:19:29.320000" age_lower="1" age_upper="999">
 ija	-	-	-	1:19:28	1:19:29.320000
 jetzt	-	-	-	1:19:28	1:19:29.320000
 </u>
-<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:19:28.353000" end="1:19:28.713000" age_lower="65" age_upper="999">
+<u who="spk_709" sex="male" age="alt (65+) männlich" name="Informant 4081" subproject="PP04" standard_competence="7" dialect_competence="5" location="Gemeinde Mödling, Bezirk Mödling, Niederösterreich, 2340, Österreich" lat="48.0782179" lon="16.2770714942827" start="1:19:28.353000" end="1:19:28.713000" project="PP04" age_lower="65" age_upper="999">
 nein	-	-	-	1:19:28.353000	1:19:28.713000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:19:29.320000" end="1:19:31.933000" age_lower="1" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:19:29.320000" end="1:19:31.933000" age_lower="1" age_upper="999">
 ich	-	-	-	1:19:29.940000	1:19:31.933000
 bre	-	-	-	1:19:29.940000	1:19:31.933000
 äh	-	-	-	1:19:29.940000	1:19:31.933000

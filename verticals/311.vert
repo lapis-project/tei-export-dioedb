@@ -1,6 +1,6 @@
 <doc id="transcript_311" name="0207_NMYB_jungI_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="311.xml" title="Transcript: Transcript_311">
-<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:54.553000" end="0:02:58.266000" age_lower="18" age_upper="35">
+<u who="spk_46" sex="female" age="jung (18-35) -matura" name="Informant 0207" subproject="PP03" standard_competence="2" dialect_competence="5" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:54.553000" end="0:02:58.266000" project="PP03" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:01:54.553000	0:01:56.553000
 und	-	-	-	0:01:54.553000	0:01:56.553000
 Sonne	-	-	-	0:01:54.553000	0:01:56.553000
@@ -145,7 +145,7 @@ Stärkere	-	-	-	0:02:55.446000	0:02:58.266000
 war	-	-	-	0:02:55.446000	0:02:58.266000
 .	-	-	-	0:02:55.446000	0:02:58.266000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:02:58.266000" end="0:03:00.266000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:58.266000" end="0:03:00.266000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:02:58.266000	0:03:00.266000
 </u>
 </file>

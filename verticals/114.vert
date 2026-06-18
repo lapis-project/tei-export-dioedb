@@ -1,6 +1,6 @@
 <doc id="transcript_114" name="0283_0291_TUXT_GFG" erhebung="Freundesgespräch_PP0308" erhebungsart="Gespräch ohne Explorator/in">
 <file id="114.xml" title="Transcript: Transcript_114">
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:00:00.046000" end="0:00:05.333000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00.046000" end="0:00:05.333000" age_lower="1" age_upper="999">
 dann	dann	ADV	-	0:00:00.046000	0:00:02.159000
 läuft	laufen	VERB	-	0:00:00.046000	0:00:02.159000
 das	der	DET	-	0:00:00.046000	0:00:02.159000
@@ -16,11 +16,11 @@ viel	viel	DET	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp 
 Vergnügen	Vergnügen	NOUN	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:02.159000	0:00:05.333000
 .	-	-	-	0:00:02.159000	0:00:05.333000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:05.333000" end="0:00:06.033000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:05.333000" end="0:00:06.033000" project="PP03" age_lower="18" age_upper="35">
 danke	danke	PART	-	0:00:05.333000	0:00:06.033000
 .	-	-	-	0:00:05.333000	0:00:06.033000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:06.033000" end="0:00:09.813000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:06.033000" end="0:00:09.813000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 bis	bis	ADP	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:06.033000	0:00:09.813000
 in	in	ADP	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:06.033000	0:00:09.813000
@@ -29,38 +29,38 @@ eine	einen	DET	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp
 Stunde	Stunde	NOUN	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:06.033000	0:00:09.813000
 .	-	-	-	0:00:06.033000	0:00:09.813000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:00:09.813000" end="0:00:10.086000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:09.813000" end="0:00:10.086000" age_lower="1" age_upper="999">
 genau	genau	ADJ	-	0:00:09.813000	0:00:10.086000
 .	-	-	-	0:00:09.813000	0:00:10.086000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:10.086000" end="0:00:11.159000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:10.086000" end="0:00:11.159000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:00:11.159000" end="0:00:12.639000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:11.159000" end="0:00:12.639000" age_lower="1" age_upper="999">
 gut	gut	ADJ	-	0:00:11.159000	0:00:11.713000
 .	-	-	-	0:00:11.159000	0:00:11.713000
 bis	bis	ADP	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:11.713000	0:00:12.639000
 später	spät	ADJ	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:11.713000	0:00:12.639000
 .	-	-	-	0:00:11.713000	0:00:12.639000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:12.639000" end="0:00:13.846000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:12.639000" end="0:00:13.846000" project="PP03" age_lower="18" age_upper="35">
 möchtest	mögen	NOUN	ad+ circum Kambig KForm KKon KKt KLaut KMark KONJ Ksynth KVerb ModK MV stdL-	0:00:12.639000	0:00:13.846000
 du	du	PRON	-	0:00:12.639000	0:00:13.846000
 anfangen	anfangen	VERB	-	0:00:12.639000	0:00:13.846000
 ?	-	-	-	0:00:12.639000	0:00:13.846000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:13.846000" end="0:00:14.473000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:13.846000" end="0:00:14.473000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:00:13.846000	0:00:14.473000
 ?	-	-	-	0:00:13.846000	0:00:14.473000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:14.473000" end="0:00:14.919000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:14.473000" end="0:00:14.919000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:14.473000	0:00:14.919000
 .	-	-	-	0:00:14.473000	0:00:14.919000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:14.919000" end="0:00:15.426000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:14.919000" end="0:00:15.426000" project="PP03" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:00:14.919000	0:00:15.426000
 ?	-	-	-	0:00:14.919000	0:00:15.426000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:15.426000" end="0:00:17.299000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:15.426000" end="0:00:17.299000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:15.426000	0:00:16.053000
 ,	-	-	-	0:00:15.426000	0:00:16.053000
 sicher	sichern	ADJ	-	0:00:15.426000	0:00:16.053000
@@ -72,7 +72,7 @@ näher	nähern	ADJ	-	0:00:16.053000	0:00:17.299000
 dran	dran	ADV	-	0:00:16.053000	0:00:17.299000
 .	-	-	-	0:00:16.053000	0:00:17.299000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:17.299000" end="0:00:18.239000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:17.299000" end="0:00:18.239000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:00:17.299000	0:00:17.766000
 bin	sein	AUX	-	0:00:17.299000	0:00:17.766000
 nä=	nähern	ADJ	-	0:00:17.299000	0:00:17.766000
@@ -80,7 +80,7 @@ her	-	SPACE	-	0:00:17.766000	0:00:18.239000
 dran	dran	ADV	-	0:00:17.766000	0:00:18.239000
 ?	-	-	-	0:00:17.766000	0:00:18.239000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:17.766000" end="0:00:18.846000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:17.766000" end="0:00:18.846000" project="PP03" age_lower="18" age_upper="35">
 du	du	PRON	-	0:00:17.766000	0:00:18.239000
 hockst	hocken	VERB	-	0:00:17.766000	0:00:18.239000
 nä=	nähern	PROPN	-	0:00:17.766000	0:00:18.239000
@@ -90,7 +90,7 @@ dran	dran	ADV	-	0:00:18.239000	0:00:18.846000
 echt	echt	ADJ	-	0:00:18.239000	0:00:18.846000
 .	-	-	-	0:00:18.239000	0:00:18.846000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:18.846000" end="0:00:20.206000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:18.846000" end="0:00:20.206000" project="PP03" age_lower="18" age_upper="35">
 fangen	fangen	VERB	-	0:00:18.846000	0:00:20.206000
 wir	ich	PRON	-	0:00:18.846000	0:00:20.206000
 mit	mit	ADP	-	0:00:18.846000	0:00:20.206000
@@ -101,11 +101,11 @@ oder	oder	CCONJ	-	0:00:18.846000	0:00:20.206000
 wie	wie	ADV	-	0:00:18.846000	0:00:20.206000
 ?	-	-	-	0:00:18.846000	0:00:20.206000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:20.206000" end="0:00:20.533000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:20.206000" end="0:00:20.533000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:20.206000	0:00:20.533000
 .	-	-	-	0:00:20.206000	0:00:20.533000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:20.533000" end="0:00:32.906000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:20.533000" end="0:00:32.906000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 rede	rede	NOUN	-	0:00:20.533000	0:00:22.459000
 über	über	ADP	-	0:00:20.533000	0:00:22.459000
@@ -136,7 +136,7 @@ erst	erst	ADV	LautNach LautVor Ons Ons- P sPal sPal+ sPal-t Vvel	0:00:31.726000	
 reinkommen	reinkommen	VERB	k kReal kVar LautNach LautVor MG Ons Ons+ Vpal	0:00:31.726000	0:00:32.906000
 .	-	-	-	0:00:31.726000	0:00:32.906000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:32.906000" end="0:00:35.759000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:32.906000" end="0:00:35.759000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:32.906000	0:00:33.559000
 .	-	-	-	0:00:32.906000	0:00:33.559000
 ähm	ähm	PROPN	-	0:00:33.559000	0:00:35.759000
@@ -150,11 +150,11 @@ nicht	nicht	PART	-	0:00:33.559000	0:00:35.759000
 schwierig	schwierig	ADJ	-	0:00:33.559000	0:00:35.759000
 ,	-	-	-	0:00:33.559000	0:00:35.759000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:35.759000" end="0:00:36.339000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:35.759000" end="0:00:36.339000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:35.759000	0:00:36.339000
 .	-	-	-	0:00:35.759000	0:00:36.339000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:36.339000" end="0:00:42.586000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:36.339000" end="0:00:42.586000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:00:36.339000	0:00:40.959000
 weil	weil	SCONJ	-	0:00:36.339000	0:00:40.959000
 über	über	ADP	-	0:00:36.339000	0:00:40.959000
@@ -175,11 +175,11 @@ da	da	ADP	-	0:00:40.959000	0:00:42.586000
 ,	-	-	-	0:00:40.959000	0:00:42.586000
 aber	aber	CCONJ	aReal aVar dumpf+ LautNach LautVor MG mhd. /a/ offeno P Wurzel	0:00:40.959000	0:00:42.586000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:42.586000" end="0:00:43.226000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:42.586000" end="0:00:43.226000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:42.586000	0:00:43.226000
 .	-	-	-	0:00:42.586000	0:00:43.226000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:43.226000" end="0:00:50.039000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:43.226000" end="0:00:50.039000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	ADV	-	0:00:43.226000	0:00:44.486000
 .	-	-	-	0:00:43.226000	0:00:44.486000
 da	da	ADV	-	0:00:44.486000	0:00:49.299000
@@ -198,12 +198,12 @@ gegeben	geben	VERB	-	0:00:44.486000	0:00:49.299000
 die	-	-	-	0:00:49.299000	0:00:50.039000
 war	-	-	-	0:00:49.299000	0:00:50.039000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:50.039000" end="0:00:51.773000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:50.039000" end="0:00:51.773000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	PART	-	0:00:50.039000	0:00:51.773000
 .	-	-	-	0:00:50.039000	0:00:51.773000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:50.039000" end="0:01:27.866000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:50.039000" end="0:01:27.866000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 im	-	-	-	0:00:50.039000	0:00:51.773000
 Tu=	-	-	-	0:00:50.039000	0:00:51.773000
@@ -301,12 +301,12 @@ du	du	PRON	-	0:01:24.059000	0:01:27.866000
 vertraust	vertrauen	VERB	au/aoDiph au/ao-Diph auReal auVar F L LautNach LautVor mhd. /û/ Wurzel	0:01:24.059000	0:01:27.866000
 .	-	-	-	0:01:24.059000	0:01:27.866000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:27.866000" end="0:01:28.966000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:27.866000" end="0:01:28.966000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 mhm	mhm	PROPN	-	0:01:27.866000	0:01:28.966000
 .	-	-	-	0:01:27.866000	0:01:28.966000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:28.966000" end="0:01:30.999000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:28.966000" end="0:01:30.999000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:01:28.966000	0:01:30.999000
 sprich	sprechen	ADV	-	0:01:28.966000	0:01:30.999000
 deine	mein	DET	ae-Diph äeDiph iReal LautNach LautVor MG mhd. /î/ P	0:01:28.966000	0:01:30.999000
@@ -314,11 +314,11 @@ Familie	Familie	NOUN	-	0:01:28.966000	0:01:30.999000
 in	in	ADP	-	0:01:28.966000	0:01:30.999000
 mei/	-	-	-	0:01:28.966000	0:01:30.999000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:30.999000" end="0:01:31.346000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:30.999000" end="0:01:31.346000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:30.999000	0:01:31.346000
 .	-	-	-	0:01:30.999000	0:01:31.346000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:30.999000" end="0:01:42.506000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:30.999000" end="0:01:42.506000" project="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:01:30.999000	0:01:31.346000
 den	der	DET	-	0:01:30.999000	0:01:31.346000
 mei=	meist	DET	aeDiph ae-Diph eiReal F LautNach LautVor mhd. /ei/ Nas	0:01:30.999000	0:01:31.346000
@@ -357,11 +357,11 @@ sein	mein	DET	aeDiph ae-Diph F iReal LautNach LautVor mhd. /î/ Nas	0:01:39.3260
 muss	muss	NOUN	-	0:01:39.326000	0:01:42.506000
 .	-	-	-	0:01:39.326000	0:01:42.506000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:42.506000" end="0:01:42.853000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:42.506000" end="0:01:42.853000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:01:42.506000	0:01:42.853000
 .	-	-	-	0:01:42.506000	0:01:42.853000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:42.853000" end="0:01:45.513000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:42.853000" end="0:01:45.513000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 siehst	sehen	VERB	LautNach LautVor MG Ons Ons- P sPal sPal+ sPal-t	0:01:42.853000	0:01:45.513000
 du	du	PRON	-	0:01:42.853000	0:01:45.513000
@@ -370,7 +370,7 @@ auch	auch	ADV	-	0:01:42.853000	0:01:45.513000
 so	so	ADV	-	0:01:42.853000	0:01:45.513000
 ?	-	-	-	0:01:42.853000	0:01:45.513000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:45.513000" end="0:01:48.606000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:45.513000" end="0:01:48.606000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:45.513000	0:01:47.939000
 ,	-	-	-	0:01:45.513000	0:01:47.939000
 das	der	PRON	-	0:01:45.513000	0:01:47.939000
@@ -382,11 +382,11 @@ Familie	Familie	NOUN	-	0:01:45.513000	0:01:47.939000
 ,	-	-	-	0:01:45.513000	0:01:47.939000
 Freunde	Freund	NOUN	euReal euVar L LautNach LautVor mhd. /iu/ Nas oe-Diph Wurzel	0:01:47.939000	0:01:48.606000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:47.939000" end="0:01:48.606000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:47.939000" end="0:01:48.606000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:47.939000	0:01:48.606000
 .	-	-	-	0:01:47.939000	0:01:48.606000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:48.606000" end="0:01:51.545000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:48.606000" end="0:01:51.545000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:01:48.606000	0:01:50.726000
 <pause duration="0,7s"/>
@@ -396,17 +396,17 @@ wo	wo	ADV	-	0:01:50.726000	0:01:51.545000
 man	man	PRON	-	0:01:50.726000	0:01:51.545000
 sich	sich	PRON	??	0:01:50.726000	0:01:51.545000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:50.726000" end="0:01:51.545000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:50.726000" end="0:01:51.545000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	aReal aVar dumpf+ LautNach LautVor MG mhd. /a/ offeno P Wurzel	0:01:50.726000	0:01:51.545000
 es	ich	PRON	-	0:01:50.726000	0:01:51.545000
 m/	-	-	-	0:01:50.726000	0:01:51.545000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:51.545000" end="0:01:52.246000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:51.545000" end="0:01:52.246000" project="PP03" age_lower="18" age_upper="35">
 halt	halt	ADV	-	0:01:51.545000	0:01:52.246000
 wohlfühlt	wohlfühlt	VERB	F L LautNach LautVor mhd. /üe/ SF üeReal ü-Mono	0:01:51.545000	0:01:52.246000
 .	-	-	-	0:01:51.545000	0:01:52.246000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:52.246000" end="0:01:55.799000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:52.246000" end="0:01:55.799000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	ADV	-	0:01:52.246000	0:01:55.799000
 es	ich	PRON	-	0:01:52.246000	0:01:55.799000
 muss	muss	VERB	-	0:01:52.246000	0:01:55.799000
@@ -420,7 +420,7 @@ Ort	Ort	NOUN	-	0:01:52.246000	0:01:55.799000
 sein	mein	AUX	aeDiph ae-Diph F iReal LautNach LautVor mhd. /î/ Nas	0:01:52.246000	0:01:55.799000
 .	-	-	-	0:01:52.246000	0:01:55.799000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:55.799000" end="0:01:57.639000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:55.799000" end="0:01:57.639000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 es	ich	PRON	-	0:01:55.799000	0:01:57.279000
 muss	muss	VERB	-	0:01:55.799000	0:01:57.279000
@@ -431,7 +431,7 @@ sei=	mein	AUX	-	0:01:55.799000	0:01:57.279000
 n	-	SPACE	-	0:01:57.279000	0:01:57.639000
 .	-	-	-	0:01:57.279000	0:01:57.639000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:57.279000" end="0:02:00.099000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:57.279000" end="0:02:00.099000" project="PP03" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:01:57.279000	0:01:57.639000
 ist	sein	AUX	-	0:01:57.279000	0:01:57.639000
 meistens	meistens	ADV	aeDiph ae-Diph eiReal F LautNach LautVor mhd. /ei/ Nas Ons Ons- P sPal sPal+ sPal-t Vpal	0:01:57.639000	0:01:58.839000
@@ -444,18 +444,18 @@ dort	dort	ADV	-	0:01:58.839000	0:02:00.099000
 halt	halt	ADV	-	0:01:58.839000	0:02:00.099000
 einfach	einfach	ADJ	eiReal LautNach LautVor MG mhd. /ei/ Nas oa-Diph	0:01:58.839000	0:02:00.099000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:00.099000" end="0:02:00.419000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:00.099000" end="0:02:00.419000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:02:00.099000	0:02:00.419000
 .	-	-	-	0:02:00.099000	0:02:00.419000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:00.419000" end="0:02:01.619000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:00.419000" end="0:02:01.619000" project="PP03" age_lower="18" age_upper="35">
 beieinander	beieinander	ADJ	-	0:02:00.419000	0:02:01.619000
 ist	sein	AUX	-	0:02:00.419000	0:02:01.619000
 ,	-	-	-	0:02:00.419000	0:02:01.619000
 aber/	-	-	-	0:02:00.419000	0:02:01.619000
 .	-	-	-	0:02:00.419000	0:02:01.619000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:01.619000" end="0:02:03.479000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:01.619000" end="0:02:03.479000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:02:01.619000	0:02:03.479000
 so	so	ADV	-	0:02:01.619000	0:02:03.479000
 wie	wie	CCONJ	-	0:02:01.619000	0:02:03.479000
@@ -468,11 +468,11 @@ Bruder	Bruder	NOUN	??	0:02:01.619000	0:02:03.479000
 fliege	fliege	VERB	-	0:02:01.619000	0:02:03.479000
 ,	-	-	-	0:02:01.619000	0:02:03.479000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:03.479000" end="0:02:03.766000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:03.479000" end="0:02:03.766000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:02:03.479000	0:02:03.766000
 .	-	-	-	0:02:03.479000	0:02:03.766000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:03.766000" end="0:02:05.419000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:03.766000" end="0:02:05.419000" project="PP03" age_lower="18" age_upper="35">
 _oftang_	-	-	-	0:02:03.766000	0:02:05.419000
 bin	-	-	-	0:02:03.766000	0:02:05.419000
 ich	-	-	-	0:02:03.766000	0:02:05.419000
@@ -481,28 +481,28 @@ auch	-	-	a-Mono (bair.) auReal auVar LautNach LautVor MG mhd. /ou/ Wurzel	0:02:0
 daheim	-	-	eiReal F LautNach LautVor mhd. /ei/ Nas oaDiph oa-Diph	0:02:03.766000	0:02:05.419000
 .	-	-	-	0:02:03.766000	0:02:05.419000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:05.419000" end="0:02:05.966000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:05.419000" end="0:02:05.966000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:02:05.419000	0:02:05.966000
 .	-	-	-	0:02:05.419000	0:02:05.966000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:05.966000" end="0:02:06.779000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:05.966000" end="0:02:06.779000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 eigentlich	eigentlich	ADV	-	0:02:05.966000	0:02:06.779000
 .	-	-	-	0:02:05.966000	0:02:06.779000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:06.779000" end="0:02:07.486000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:06.779000" end="0:02:07.486000" project="PP03" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:02:06.779000	0:02:07.486000
 ist	sein	AUX	-	0:02:06.779000	0:02:07.486000
 der	der	PRON	-	0:02:06.779000	0:02:07.486000
 jetzt	jetzt	ADV	-	0:02:06.779000	0:02:07.486000
 ?	-	-	-	0:02:06.779000	0:02:07.486000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:07.486000" end="0:02:08.205000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:07.486000" end="0:02:08.205000" project="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:02:07.486000	0:02:08.205000
 ORT	ORT	PROPN	-	0:02:07.486000	0:02:08.205000
 .	-	-	-	0:02:07.486000	0:02:08.205000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:08.205000" end="0:02:12.693000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:08.205000" end="0:02:12.693000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:02:08.205000	0:02:09.233000
 ,	-	-	-	0:02:08.205000	0:02:09.233000
 in	in	ADP	-	0:02:08.205000	0:02:09.233000
@@ -517,11 +517,11 @@ wir	ich	PRON	-	0:02:12.159000	0:02:12.693000
 weiter	weit	ADV	ae-Diph äeDiph F iReal LautNach LautVor mhd. /î/ P	0:02:12.159000	0:02:12.693000
 .	-	-	-	0:02:12.159000	0:02:12.693000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:12.693000" end="0:02:13.193000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:12.693000" end="0:02:13.193000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:02:12.693000	0:02:13.193000
 .	-	-	-	0:02:12.693000	0:02:13.193000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:13.193000" end="0:02:18.093000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:13.193000" end="0:02:18.093000" project="PP03" age_lower="18" age_upper="35">
 stell	stell	ADJ	-	0:02:13.193000	0:02:18.093000
 dir	sich	PRON	??	0:02:13.193000	0:02:18.093000
 vor	vor	ADP	-	0:02:13.193000	0:02:18.093000
@@ -532,7 +532,7 @@ drei	drei	NUM	-	0:02:13.193000	0:02:18.093000
 Wünschen"	Wunsch	NOUN	-	0:02:13.193000	0:02:18.093000
 .	-	-	-	0:02:13.193000	0:02:18.093000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:18.093000" end="0:02:36.786000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:18.093000" end="0:02:36.786000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 ja	ja	PART	-	0:02:18.093000	0:02:22.213000
 .	-	-	-	0:02:18.093000	0:02:22.213000
@@ -571,11 +571,11 @@ was	-	-	-	0:02:34.533000	0:02:36.786000
 machen	-	-	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno Wurzel	0:02:34.533000	0:02:36.786000
 .	-	-	-	0:02:34.533000	0:02:36.786000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:36.786000" end="0:02:37.553000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:36.786000" end="0:02:37.553000" project="PP03" age_lower="18" age_upper="35">
 aha	aha	X	-	0:02:36.786000	0:02:37.553000
 .	-	-	-	0:02:36.786000	0:02:37.553000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:37.553000" end="0:02:42.899000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:37.553000" end="0:02:42.899000" project="PP03" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:02:37.553000	0:02:42.899000
 <pause duration="0,5s"/>
 mein	meinen	DET	??|aeDiph ae-Diph iReal LautNach LautVor MG mhd. /î/ Nas	0:02:37.553000	0:02:42.899000
@@ -587,7 +587,7 @@ einmal	einmal	ADV	-	0:02:37.553000	0:02:42.899000
 ausziehen	ausziehen	VERB	au/aoDiph au/ao-Diph auReal auVar F LautNach LautVor MG mhd. /û/ Wurzel	0:02:37.553000	0:02:42.899000
 .	-	-	-	0:02:37.553000	0:02:42.899000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:42.899000" end="0:02:44.406000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:42.899000" end="0:02:44.406000" project="PP03" age_lower="18" age_upper="35">
 tätest	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:02:42.899000	0:02:44.406000
 du	-	-	-	0:02:42.899000	0:02:44.406000
 das	-	-	-	0:02:42.899000	0:02:44.406000
@@ -599,7 +599,7 @@ oder	oder	CCONJ	-	0:02:42.899000	0:02:44.406000
 wie	wie	ADV	-	0:02:42.899000	0:02:44.406000
 ?	-	-	-	0:02:42.899000	0:02:44.406000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:44.406000" end="0:02:53.599000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:44.406000" end="0:02:53.599000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:02:44.406000	0:02:44.999000
 weiß	weiß	VERB	eiReal F LautNach LautVor mhd. /ei/ oaDiph oa-Diph	0:02:44.406000	0:02:44.999000
 es/	-	-	-	0:02:44.406000	0:02:44.999000
@@ -639,19 +639,19 @@ irgendwo	irgendwo	ADV	-	0:02:50.799000	0:02:52.273000
 irgendwas	irgendwas	PRON	-	0:02:52.273000	0:02:53.599000
 .	-	-	-	0:02:52.273000	0:02:53.599000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:52.273000" end="0:02:53.599000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:52.273000" end="0:02:53.599000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	PART	-	0:02:52.273000	0:02:53.599000
 .	-	-	-	0:02:52.273000	0:02:53.599000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:53.599000" end="0:02:56.293000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:53.599000" end="0:02:56.293000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 wenn	wenn	SCONJ	-	0:02:53.599000	0:02:55.886000
 es	ich	PRON	-	0:02:53.599000	0:02:55.886000
 geht	gehen	VERB	-	0:02:55.886000	0:02:56.293000
 .	-	-	-	0:02:55.886000	0:02:56.293000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:55.886000" end="0:02:57.418000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:55.886000" end="0:02:57.418000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:02:55.886000	0:02:56.293000
 das	der	PRON	-	0:02:55.886000	0:02:56.293000
 wäre	sein	AUX	circum KForm KKon KKt KLaut KMark KONJ KPrät Ksynth KVerb ModK seinVV std stdL- VV	0:02:56.293000	0:02:57.418000
@@ -660,26 +660,26 @@ jetzt	jetzt	ADV	-	0:02:56.293000	0:02:57.418000
 ein	einen	DET	-	0:02:56.293000	0:02:57.418000
 Ei=	Eigenheim	NOUN	-	0:02:56.293000	0:02:57.418000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:57.418000" end="0:02:57.918000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:57.418000" end="0:02:57.918000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:02:57.418000	0:02:57.918000
 .	-	-	-	0:02:57.418000	0:02:57.918000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:57.418000" end="0:02:59.179000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:57.418000" end="0:02:59.179000" project="PP03" age_lower="18" age_upper="35">
 genheim	-	SPACE	-	0:02:57.418000	0:02:57.918000
 <pause duration="0,9s"/>
 oder	oder	CCONJ	-	0:02:57.918000	0:02:59.179000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:59.179000" end="0:02:59.626000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:59.179000" end="0:02:59.626000" project="PP03" age_lower="18" age_upper="35">
 halt	halt	ADV	-	0:02:59.179000	0:02:59.626000
 ja	ja	PART	-	0:02:59.179000	0:02:59.626000
 ,	-	-	-	0:02:59.179000	0:02:59.626000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:59.626000" end="0:03:00.553000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:02:59.626000" end="0:03:00.553000" project="PP03" age_lower="18" age_upper="35">
 ein	einen	ADP	-	0:02:59.626000	0:03:00.553000
 eigenes/	-	-	-	0:02:59.626000	0:03:00.553000
 .	-	-	-	0:02:59.626000	0:03:00.553000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:00.553000" end="0:03:03.639000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:00.553000" end="0:03:03.639000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 einen	ein	DET	-	0:03:00.553000	0:03:02.913000
 Besitz	Besitz	NOUN	-	0:03:00.553000	0:03:02.913000
@@ -690,29 +690,29 @@ sagt	sagen	VERB	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ offeno P Wurzel	0:
 man	man	PRON	-	0:03:02.913000	0:03:03.639000
 .	-	-	-	0:03:02.913000	0:03:03.639000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:03.639000" end="0:03:04.666000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:03.639000" end="0:03:04.666000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 pass=	passt	PROPN	-	0:03:03.639000	0:03:04.666000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:04.666000" end="0:03:04.973000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:04.666000" end="0:03:04.973000" project="PP03" age_lower="18" age_upper="35">
 passt	passt	PROPN	-	0:03:04.666000	0:03:04.973000
 .	-	-	-	0:03:04.666000	0:03:04.973000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:04.666000" end="0:03:05.746000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:04.666000" end="0:03:05.746000" project="PP03" age_lower="18" age_upper="35">
 t	-	SPACE	-	0:03:04.666000	0:03:04.973000
 .	-	-	-	0:03:04.666000	0:03:04.973000
 verstehe	verstehen	VERB	-	0:03:04.973000	0:03:05.746000
 ,	-	-	-	0:03:04.973000	0:03:05.746000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:05.746000" end="0:03:06.299000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:05.746000" end="0:03:06.299000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:03:05.746000	0:03:06.299000
 .	-	-	-	0:03:05.746000	0:03:06.299000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:05.746000" end="0:03:06.299000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:05.746000" end="0:03:06.299000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:03:05.746000	0:03:06.299000
 .	-	-	-	0:03:05.746000	0:03:06.299000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:06.299000" end="0:03:13.073000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:06.299000" end="0:03:13.073000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	X	-	0:03:06.299000	0:03:08.599000
 Wunsch	Wunsch	NOUN	-	0:03:06.299000	0:03:08.599000
@@ -735,12 +735,12 @@ ich	ich	PRON	-	0:03:11.559000	0:03:13.073000
 kenne	kennen	VERB	k kReal kVar LautNach LautVor MG Ons Ons+ Vpal	0:03:11.559000	0:03:13.073000
 .	-	-	-	0:03:11.559000	0:03:13.073000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:13.073000" end="0:03:14.199000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:13.073000" end="0:03:14.199000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 okay	okay	NOUN	-	0:03:13.073000	0:03:14.199000
 .	-	-	-	0:03:13.073000	0:03:14.199000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:14.199000" end="0:03:25.466000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:14.199000" end="0:03:25.466000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:03:14.199000	0:03:17.633000
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:03:14.199000	0:03:17.633000
@@ -770,16 +770,16 @@ Asienrundreise	Asienrundreise	NOUN	ae-Diph äeDiph eiReal F L LautNach LautVor m
 mache	machen	VERB	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno Wurzel	0:03:22.899000	0:03:25.466000
 .	-	-	-	0:03:22.899000	0:03:25.466000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:25.466000" end="0:03:26.573000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:25.466000" end="0:03:26.573000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 achso	achso	NOUN	-	0:03:25.466000	0:03:26.573000
 .	-	-	-	0:03:25.466000	0:03:26.573000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:26.573000" end="0:03:27.119000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:26.573000" end="0:03:27.119000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:03:26.573000	0:03:27.119000
 .	-	-	-	0:03:26.573000	0:03:27.119000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:27.119000" end="0:03:33.753000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:27.119000" end="0:03:33.753000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 aha	aha	X	-	0:03:27.119000	0:03:28.526000
 .	-	-	-	0:03:27.119000	0:03:28.526000
@@ -792,7 +792,7 @@ die	-	-	-	0:03:28.526000	0:03:33.753000
 Länder	-	-	-	0:03:28.526000	0:03:33.753000
 ?	-	-	-	0:03:28.526000	0:03:33.753000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:33.753000" end="0:03:37.359000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:33.753000" end="0:03:37.359000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 nein	nein	PART	-	0:03:33.753000	0:03:37.359000
 ,	-	-	-	0:03:33.753000	0:03:37.359000
@@ -806,7 +806,7 @@ einmal	einmal	ADV	-	0:03:33.753000	0:03:37.359000
 so/	-	-	-	0:03:33.753000	0:03:37.359000
 .)	-	-	-	0:03:33.753000	0:03:37.359000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:37.359000" end="0:03:39.319000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:37.359000" end="0:03:39.319000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 warst	sein	AUX	-	0:03:37.359000	0:03:39.319000
 du	du	PRON	-	0:03:37.359000	0:03:39.319000
@@ -816,7 +816,7 @@ in	in	ADP	-	0:03:37.359000	0:03:39.319000
 Asien	Asien	PROPN	-	0:03:37.359000	0:03:39.319000
 ?	-	-	-	0:03:37.359000	0:03:39.319000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:39.319000" end="0:03:40.613000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:39.319000" end="0:03:40.613000" project="PP03" age_lower="18" age_upper="35">
 Asien	Asien	PROPN	-	0:03:39.319000	0:03:40.199000
 war	sein	AUX	-	0:03:39.319000	0:03:40.199000
 ich	ich	PRON	-	0:03:39.319000	0:03:40.199000
@@ -826,16 +826,16 @@ nie	nie	ADV	-	0:03:39.319000	0:03:40.199000
 nein	nein	PART	-	0:03:40.199000	0:03:40.613000
 .	-	-	-	0:03:40.199000	0:03:40.613000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:40.199000" end="0:03:40.613000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:40.199000" end="0:03:40.613000" project="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:03:40.199000	0:03:40.613000
 nicht	nicht	PART	-	0:03:40.199000	0:03:40.613000
 .	-	-	-	0:03:40.199000	0:03:40.613000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:40.613000" end="0:03:41.106000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:40.613000" end="0:03:41.106000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:03:40.613000	0:03:41.106000
 .	-	-	-	0:03:40.613000	0:03:41.106000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:41.106000" end="0:03:46.826000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:41.106000" end="0:03:46.826000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	ja	PART	-	0:03:41.106000	0:03:43.406000
 ich	ich	PRON	-	0:03:41.106000	0:03:43.406000
@@ -854,7 +854,7 @@ nach	nach	ADP	aReal aVar dumpf+ F LautNach LautVor mhd. /â/ Nas offeno Wurzel	0
 Asien	Asien	PROPN	-	0:03:43.406000	0:03:46.826000
 .	-	-	-	0:03:43.406000	0:03:46.826000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:46.826000" end="0:03:54.513000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:46.826000" end="0:03:54.513000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 Thailand	Thailand	PROPN	-	0:03:46.826000	0:03:54.019000
 reizt	reizen	VERB	-	0:03:46.826000	0:03:54.019000
@@ -876,11 +876,11 @@ irgendwie	irgendwie	ADV	-	0:03:46.826000	0:03:54.019000
 nicht	nicht	PART	-	0:03:54.019000	0:03:54.513000
 ger=	gerade	ADV	-	0:03:54.019000	0:03:54.513000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:54.019000" end="0:03:54.513000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:54.019000" end="0:03:54.513000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:54.019000	0:03:54.513000
 .	-	-	-	0:03:54.019000	0:03:54.513000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:54.513000" end="0:03:58.533000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:54.513000" end="0:03:58.533000" project="PP03" age_lower="18" age_upper="35">
 ade	-	SPACE	-	0:03:54.513000	0:03:58.533000
 <pause duration="0,6s"/>
 Strandurlaub	Strandurlaub	PROPN	au/ao-Diph auReal auVar L LautNach LautVor mhd. /ou/ ɑɔDiph P Wurzel	0:03:54.513000	0:03:58.533000
@@ -892,7 +892,7 @@ oder	oder	CCONJ	-	0:03:54.513000	0:03:58.533000
 so	so	ADV	-	0:03:54.513000	0:03:58.533000
 .	-	-	-	0:03:54.513000	0:03:58.533000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:58.533000" end="0:04:08.033000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:03:58.533000" end="0:04:08.033000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:58.533000	0:03:59.653000
 ,	-	-	-	0:03:58.533000	0:03:59.653000
 m/	-	-	-	0:03:58.533000	0:03:59.653000
@@ -924,11 +924,11 @@ weiter	weit	ADV	? F iReal LautNach LautVor mhd. /î/ P	0:04:06.999000	0:04:08.03
 (anfangen)	anfangen	VERB	-	0:04:06.999000	0:04:08.033000
 .	-	-	-	0:04:06.999000	0:04:08.033000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:08.033000" end="0:04:08.486000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:08.033000" end="0:04:08.486000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:04:08.033000	0:04:08.486000
 .	-	-	-	0:04:08.033000	0:04:08.486000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:08.486000" end="0:04:15.186000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:08.486000" end="0:04:15.186000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:04:08.486000	0:04:09.913000
 täte	tun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL- tunK	0:04:08.486000	0:04:09.913000
 mit	mit	ADP	-	0:04:08.486000	0:04:09.913000
@@ -962,11 +962,11 @@ gerne	gerne	ADV	-	0:04:14.393000	0:04:15.186000
 reisen	reisen	VERB	Prog ProgKon tunP|aeDiph ae-Diph eiReal F L LautNach LautVor mhd. /ei/	0:04:14.393000	0:04:15.186000
 .	-	-	-	0:04:14.393000	0:04:15.186000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:15.186000" end="0:04:15.466000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:15.186000" end="0:04:15.466000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:04:15.186000	0:04:15.466000
 .	-	-	-	0:04:15.186000	0:04:15.466000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:15.466000" end="0:04:47.599000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:15.466000" end="0:04:47.599000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:04:15.466000	0:04:18.593000
 ich	ich	PRON	-	0:04:15.466000	0:04:18.593000
 täte	tun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:04:15.466000	0:04:18.593000
@@ -1014,9 +1014,9 @@ gescheite	-	-	aeDiph ae-Diph eiReal F LautNach LautVor mhd. /ei/ P	0:04:35.17900
 _gsellin_	-	-	-	0:04:35.179000	0:04:47.599000
 ,	-	-	-	0:04:35.179000	0:04:47.599000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:47.599000" end="0:04:50.853000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:47.599000" end="0:04:50.853000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:47.599000" end="0:05:06.539000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:04:47.599000" end="0:05:06.539000" project="PP03" age_lower="18" age_upper="35">
 die	der	DET	-	0:04:50.853000	0:04:55.513000
 was	was	PRON	-	0:04:50.853000	0:04:55.513000
 in	in	ADP	-	0:04:50.853000	0:04:55.513000
@@ -1060,9 +1060,9 @@ und	und	CCONJ	-	0:05:05.739000	0:05:06.539000
 dort	dort	ADV	-	0:05:05.739000	0:05:06.539000
 auch	auch	ADV	-	0:05:05.739000	0:05:06.539000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:06.539000" end="0:05:07.353000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:06.539000" end="0:05:07.353000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:06.539000" end="0:05:08.459000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:06.539000" end="0:05:08.459000" project="PP03" age_lower="18" age_upper="35">
 mitmacht	mitmachen	VERB	-	0:05:06.539000	0:05:07.353000
 ,	-	-	-	0:05:06.539000	0:05:07.353000
 dass	dass	SCONJ	-	0:05:07.353000	0:05:08.193000
@@ -1073,11 +1073,11 @@ mitmacht	mitmachen	VERB	-	0:05:07.353000	0:05:08.193000
 *weißt*	-	-	2 eiReal EnKl F imp Klitik KlPos LautNach LautVor mhd. /ei/ Num oa-Diph Pers Pronom sg	0:05:08.193000	0:05:08.459000
 ?	-	-	-	0:05:08.193000	0:05:08.459000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:08.459000" end="0:05:08.713000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:08.459000" end="0:05:08.713000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:05:08.459000	0:05:08.713000
 .	-	-	-	0:05:08.459000	0:05:08.713000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:08.713000" end="0:05:38.499000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:08.713000" end="0:05:38.499000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 und	und	CCONJ	-	0:05:08.713000	0:05:12.786000
 das	der	DET	-	0:05:08.713000	0:05:12.786000
@@ -1155,12 +1155,12 @@ ich	ich	PRON	-	0:05:37.293000	0:05:38.499000
 mache	machen	VERB	-	0:05:37.293000	0:05:38.499000
 .	-	-	-	0:05:37.293000	0:05:38.499000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:38.499000" end="0:05:39.979000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:38.499000" end="0:05:39.979000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 mhm	mhm	PROPN	-	0:05:38.499000	0:05:39.979000
 .	-	-	-	0:05:38.499000	0:05:39.979000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:39.979000" end="0:05:41.053000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:39.979000" end="0:05:41.053000" project="PP03" age_lower="18" age_upper="35">
 *weißt*	-	-	-	0:05:39.979000	0:05:41.053000
 ,	-	-	-	0:05:39.979000	0:05:41.053000
 was	was	PRON	-	0:05:39.979000	0:05:41.053000
@@ -1168,7 +1168,7 @@ ich	ich	PRON	-	0:05:39.979000	0:05:41.053000
 so/	-	-	-	0:05:39.979000	0:05:41.053000
 .	-	-	-	0:05:39.979000	0:05:41.053000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:41.053000" end="0:05:43.259000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:41.053000" end="0:05:43.259000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:05:41.053000	0:05:42.153000
 ,	-	-	-	0:05:41.053000	0:05:42.153000
 als	als	ADP	-	0:05:41.053000	0:05:42.153000
@@ -1179,7 +1179,7 @@ sozusagen	sozusagen	ADV	-	0:05:42.153000	0:05:43.259000
 oder	oder	CCONJ	-	0:05:42.153000	0:05:43.259000
 ?	-	-	-	0:05:42.153000	0:05:43.259000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:42.153000" end="0:05:48.253000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:42.153000" end="0:05:48.253000" project="PP03" age_lower="18" age_upper="35">
 als	als	ADP	-	0:05:42.153000	0:05:43.259000
 SONSTIGE	SONSTIGE	NOUN	LautNach LautVor Ons Ons- P sPal sPal+ sPal-t Vpal	0:05:42.153000	0:05:43.259000
 in	in	ADP	-	0:05:42.153000	0:05:43.259000
@@ -1203,21 +1203,21 @@ ja	ja	PART	-	0:05:45.846000	0:05:48.253000
 auch	-	-	-	0:05:45.846000	0:05:48.253000
 ,	-	-	-	0:05:45.846000	0:05:48.253000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:48.253000" end="0:05:48.719000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:48.253000" end="0:05:48.719000" project="PP03" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:05:48.253000	0:05:48.719000
 die	der	DET	-	0:05:48.253000	0:05:48.719000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:48.253000" end="0:05:48.719000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:48.253000" end="0:05:48.719000" project="PP03" age_lower="18" age_upper="35">
 jeden/	-	-	-	0:05:48.253000	0:05:48.719000
 .	-	-	-	0:05:48.253000	0:05:48.719000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:48.719000" end="0:05:49.646000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:48.719000" end="0:05:49.646000" project="PP03" age_lower="18" age_upper="35">
 Gemeinde	Gemeinde	NOUN	-	0:05:48.719000	0:05:49.646000
 zufrieden	zufrieden	ADJ	-	0:05:48.719000	0:05:49.646000
 ist	sein	AUX	-	0:05:48.719000	0:05:49.646000
 .	-	-	-	0:05:48.719000	0:05:49.646000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:49.646000" end="0:05:56.659000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:49.646000" end="0:05:56.659000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 d/	-	-	-	0:05:49.646000	0:05:51.986000
 dass	dass	SCONJ	-	0:05:49.646000	0:05:51.986000
@@ -1249,7 +1249,7 @@ weiterhin	weiterhin	ADV	-	0:05:54.553000	0:05:56.659000
 haben	haben	AUX	-	0:05:54.553000	0:05:56.659000
 .	-	-	-	0:05:54.553000	0:05:56.659000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:56.659000" end="0:06:01.486000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:05:56.659000" end="0:06:01.486000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ich	ich	PRON	-	0:05:56.659000	0:05:58.499000
 glaube	glauben	VERB	-	0:05:56.659000	0:05:58.499000
@@ -1268,36 +1268,36 @@ so	so	ADV	-	0:05:59.766000	0:06:00.919000
 höre	hören	VERB	-	0:05:59.766000	0:06:00.919000
 und	und	CCONJ	-	0:06:00.919000	0:06:01.486000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:00.919000" end="0:06:01.486000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:00.919000" end="0:06:01.486000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:06:00.919000	0:06:01.486000
 .	-	-	-	0:06:00.919000	0:06:01.486000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:01.486000" end="0:06:03.826000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:01.486000" end="0:06:03.826000" project="PP03" age_lower="18" age_upper="35">
 befinde	befinden	VERB	-	0:06:01.486000	0:06:02.033000
 .	-	-	-	0:06:01.486000	0:06:02.033000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:02.799000" end="0:06:03.826000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:02.799000" end="0:06:03.826000" project="PP03" age_lower="18" age_upper="35">
 gut	gut	ADJ	-	0:06:02.799000	0:06:03.826000
 ,	-	-	-	0:06:02.799000	0:06:03.826000
 danke	danke	PART	-	0:06:02.799000	0:06:03.826000
 .	-	-	-	0:06:02.799000	0:06:03.826000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:03.826000" end="0:06:04.506000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:03.826000" end="0:06:04.506000" project="PP03" age_lower="18" age_upper="35">
 bitte	bitte	PART	-	0:06:03.826000	0:06:04.506000
 .	-	-	-	0:06:03.826000	0:06:04.506000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:04.506000" end="0:06:06.093000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:04.506000" end="0:06:06.093000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:06:04.506000	0:06:06.093000
 gibt	geben	VERB	-	0:06:04.506000	0:06:06.093000
 natürlich	natürlich	ADV	-	0:06:04.506000	0:06:06.093000
 auch	auch	ADV	-	0:06:04.506000	0:06:06.093000
 imm=	immer	ADV	-	0:06:04.506000	0:06:06.093000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:06.093000" end="0:06:06.526000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:06.093000" end="0:06:06.526000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:06.093000	0:06:06.526000
 .	-	-	-	0:06:06.093000	0:06:06.526000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:06.093000" end="0:06:07.513000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:06.093000" end="0:06:07.513000" project="PP03" age_lower="18" age_upper="35">
 er	-	SPACE	-	0:06:06.093000	0:06:06.526000
 wieder	wieder	ADV	-	0:06:06.093000	0:06:06.526000
 so	so	ADV	-	0:06:06.526000	0:06:07.213000
@@ -1306,12 +1306,12 @@ Geschichten	Geschichte	NOUN	-	0:06:06.526000	0:06:07.213000
 wo	-	-	-	0:06:07.213000	0:06:07.513000
 ich	-	-	-	0:06:07.213000	0:06:07.513000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:07.513000" end="0:06:09.673000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:07.513000" end="0:06:09.673000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 okay	okay	NOUN	-	0:06:07.513000	0:06:09.673000
 .	-	-	-	0:06:07.513000	0:06:09.673000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:09.673000" end="0:06:10.646000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:09.673000" end="0:06:10.646000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:06:09.673000	0:06:10.646000
 nicht	-	-	-	0:06:09.673000	0:06:10.646000
 alle	-	-	-	0:06:09.673000	0:06:10.646000
@@ -1319,11 +1319,11 @@ glücklich	-	-	-	0:06:09.673000	0:06:10.646000
 _henn_	-	-	-	0:06:09.673000	0:06:10.646000
 mit	-	-	-	0:06:09.673000	0:06:10.646000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:10.646000" end="0:06:11.019000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:10.646000" end="0:06:11.019000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:10.646000	0:06:11.019000
 .	-	-	-	0:06:10.646000	0:06:11.019000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:10.646000" end="0:06:16.673000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:10.646000" end="0:06:16.673000" project="PP03" age_lower="18" age_upper="35">
 mir	-	-	-	0:06:10.646000	0:06:11.019000
 .	-	-	-	0:06:10.646000	0:06:11.019000
 gut	gut	ADJ	-	0:06:12.213000	0:06:12.666000
@@ -1338,7 +1338,7 @@ wieder	wieder	ADV	-	0:06:14.219000	0:06:16.673000
 dran	dran	ADV	-	0:06:14.219000	0:06:16.673000
 .	-	-	-	0:06:14.219000	0:06:16.673000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:16.673000" end="0:06:19.093000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:16.673000" end="0:06:19.093000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:06:16.673000	0:06:17.719000
 bin	sein	AUX	-	0:06:16.673000	0:06:17.719000
 wieder	wieder	ADV	-	0:06:16.673000	0:06:17.719000
@@ -1349,7 +1349,7 @@ ich	ich	PRON	-	0:06:17.719000	0:06:18.519000
 anfangen	anfangen	VERB	-	0:06:17.719000	0:06:18.519000
 ?	-	-	-	0:06:17.719000	0:06:18.519000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:18.519000" end="0:06:30.853000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:18.519000" end="0:06:30.853000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:06:18.519000	0:06:19.093000
 nein	nein	PART	-	0:06:18.519000	0:06:19.093000
 ,	-	-	-	0:06:18.519000	0:06:19.093000
@@ -1381,7 +1381,7 @@ Ort	Ort	NOUN	-	0:06:27.359000	0:06:30.853000
 früher	früh	ADJ	-	0:06:27.359000	0:06:30.853000
 .	-	-	-	0:06:27.359000	0:06:30.853000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:30.853000" end="0:06:34.573000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:30.853000" end="0:06:34.573000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	ADV	-	0:06:30.853000	0:06:33.766000
 da	da	ADV	-	0:06:30.853000	0:06:33.766000
@@ -1395,22 +1395,22 @@ mit	mit	ADP	-	0:06:33.766000	0:06:34.573000
 dem	der	DET	-	0:06:33.766000	0:06:34.573000
 Tennisver=	Tennisverein	NOUN	-	0:06:33.766000	0:06:34.573000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:33.766000" end="0:06:34.573000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:33.766000" end="0:06:34.573000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:33.766000	0:06:34.573000
 ,	-	-	-	0:06:33.766000	0:06:34.573000
 super	super	PROPN	-	0:06:33.766000	0:06:34.573000
 .	-	-	-	0:06:33.766000	0:06:34.573000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:34.573000" end="0:06:35.279000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:34.573000" end="0:06:35.279000" project="PP03" age_lower="18" age_upper="35">
 ein	-	SPACE	-	0:06:34.573000	0:06:35.279000
 anfangen	-	-	-	0:06:34.573000	0:06:35.279000
 .	-	-	-	0:06:34.573000	0:06:35.279000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:35.279000" end="0:06:35.799000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:35.279000" end="0:06:35.799000" project="PP03" age_lower="18" age_upper="35">
 bravo	bravo	PROPN	-	0:06:35.279000	0:06:35.799000
 .	-	-	-	0:06:35.279000	0:06:35.799000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:35.799000" end="0:06:42.926000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:35.799000" end="0:06:42.926000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 wie	wie	ADV	-	0:06:35.799000	0:06:38.826000
 ich	ich	PRON	-	0:06:35.799000	0:06:38.826000
@@ -1439,12 +1439,12 @@ Festchen	Festchen	NOUN	-	0:06:41.526000	0:06:42.926000
 hatten	haben	AUX	-	0:06:41.526000	0:06:42.926000
 .	-	-	-	0:06:41.526000	0:06:42.926000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:42.926000" end="0:06:43.986000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:42.926000" end="0:06:43.986000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 mhm	mhm	PROPN	-	0:06:42.926000	0:06:43.986000
 .	-	-	-	0:06:42.926000	0:06:43.986000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:43.986000" end="0:06:45.439000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:43.986000" end="0:06:45.439000" project="PP03" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:06:43.986000	0:06:45.439000
 der	der	DET	-	0:06:43.986000	0:06:45.439000
 NAME	NAME	NOUN	-	0:06:43.986000	0:06:45.439000
@@ -1453,11 +1453,11 @@ Obmann	Obmann	NOUN	-	0:06:43.986000	0:06:45.439000
 war	sein	AUX	-	0:06:43.986000	0:06:45.439000
 ,	-	-	-	0:06:43.986000	0:06:45.439000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:45.439000" end="0:06:45.893000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:45.439000" end="0:06:45.893000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:06:45.439000	0:06:45.893000
 .	-	-	-	0:06:45.439000	0:06:45.893000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:45.893000" end="0:06:54.086000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:45.893000" end="0:06:54.086000" project="PP03" age_lower="18" age_upper="35">
 hatten	haben	AUX	-	0:06:45.893000	0:06:50.386000
 wir	ich	PRON	-	0:06:45.893000	0:06:50.386000
 öfter	öfter	ADV	-	0:06:45.893000	0:06:50.386000
@@ -1483,11 +1483,11 @@ Spieler	-	-	-	0:06:50.386000	0:06:53.293000
 wo	-	-	-	0:06:53.293000	0:06:54.086000
 oft	-	-	-	0:06:53.293000	0:06:54.086000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:53.293000" end="0:06:54.086000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:53.293000" end="0:06:54.086000" project="PP03" age_lower="18" age_upper="35">
 aha	aha	X	-	0:06:53.293000	0:06:54.086000
 .	-	-	-	0:06:53.293000	0:06:54.086000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:54.086000" end="0:07:03.453000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:54.086000" end="0:07:03.453000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:06:54.086000	0:06:56.106000
 tirolweit	-	-	-	0:06:54.086000	0:06:56.106000
 Spieler	-	-	-	0:06:54.086000	0:06:56.106000
@@ -1511,7 +1511,7 @@ war	sein	AUX	-	0:07:01.686000	0:07:03.453000
 und/	-	-	-	0:07:01.686000	0:07:03.453000
 .	-	-	-	0:07:01.686000	0:07:03.453000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:03.453000" end="0:07:04.893000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:03.453000" end="0:07:04.893000" project="PP03" age_lower="18" age_upper="35">
 du	du	PRON	-	0:07:03.453000	0:07:04.893000
 bist	sein	AUX	-	0:07:03.453000	0:07:04.893000
 jetzt	etzt	VERB	-	0:07:03.453000	0:07:04.893000
@@ -1520,14 +1520,14 @@ neue	neue	ADJ	-	0:07:03.453000	0:07:04.893000
 SONSTIGE	SONSTIGE	NOUN	-	0:07:03.453000	0:07:04.893000
 ?	-	-	-	0:07:03.453000	0:07:04.893000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:04.893000" end="0:07:06.753000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:04.893000" end="0:07:06.753000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:04.893000	0:07:05.653000
 .	-	-	-	0:07:04.893000	0:07:05.653000
 <pause duration="0,7s"/>
 genau	genau	ADJ	-	0:07:05.653000	0:07:06.753000
 .	-	-	-	0:07:05.653000	0:07:06.753000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:05.653000" end="0:07:09.593000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:05.653000" end="0:07:09.593000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ist	sein	AUX	-	0:07:05.653000	0:07:06.753000
 es	ich	PRON	-	0:07:05.653000	0:07:06.753000
@@ -1543,7 +1543,7 @@ wieder	wieder	ADV	-	0:07:07.493000	0:07:09.593000
 aufzuziehen	aufziehen	VERB	-	0:07:07.493000	0:07:09.593000
 ?	-	-	-	0:07:07.493000	0:07:09.593000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:09.593000" end="0:07:12.079000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:09.593000" end="0:07:12.079000" project="PP03" age_lower="18" age_upper="35">
 einmal	einmal	ADV	-	0:07:09.593000	0:07:10.419000
 schauen	schauen	VERB	-	0:07:09.593000	0:07:10.419000
 ,	-	-	-	0:07:09.593000	0:07:10.419000
@@ -1554,11 +1554,11 @@ hinkriegen	hinkriegen	NOUN	-	0:07:10.419000	0:07:11.486000
 .	-	-	-	0:07:10.419000	0:07:11.486000
 also	also	ADV	-	0:07:11.486000	0:07:12.079000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:11.486000" end="0:07:12.079000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:11.486000" end="0:07:12.079000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:11.486000	0:07:12.079000
 .	-	-	-	0:07:11.486000	0:07:12.079000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:12.079000" end="0:07:15.039000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:12.079000" end="0:07:15.039000" project="PP03" age_lower="18" age_upper="35">
 Festchen	Festchen	NOUN	-	0:07:12.079000	0:07:14.566000
 oder	oder	CCONJ	-	0:07:12.079000	0:07:14.566000
 so	so	ADV	-	0:07:12.079000	0:07:14.566000
@@ -1571,11 +1571,11 @@ rentiert	rentieren	VERB	-	0:07:12.079000	0:07:14.566000
 ,	-	-	-	0:07:12.079000	0:07:14.566000
 weil	weil	SCONJ	-	0:07:14.566000	0:07:15.039000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:15.039000" end="0:07:15.393000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:15.039000" end="0:07:15.393000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:15.039000	0:07:15.393000
 .	-	-	-	0:07:15.039000	0:07:15.393000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:15.393000" end="0:07:28.793000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:15.393000" end="0:07:28.793000" project="PP03" age_lower="18" age_upper="35">
 relativ	relativ	ADJ	-	0:07:15.393000	0:07:16.719000
 viele	viel	PRON	-	0:07:15.393000	0:07:16.719000
 waren	sein	AUX	-	0:07:15.393000	0:07:16.719000
@@ -1620,11 +1620,11 @@ zusammen=	zusammenkriegen	VERB	-	0:07:25.859000	0:07:28.393000
 kriegen	-	SPACE	-	0:07:28.393000	0:07:28.793000
 ,	-	-	-	0:07:28.393000	0:07:28.793000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:28.393000" end="0:07:28.793000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:28.393000" end="0:07:28.793000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:28.393000	0:07:28.793000
 .	-	-	-	0:07:28.393000	0:07:28.793000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:28.793000" end="0:07:30.259000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:28.793000" end="0:07:30.259000" project="PP03" age_lower="18" age_upper="35">
 täte	tun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:07:28.793000	0:07:30.259000
 ich	ich	PRON	-	0:07:28.793000	0:07:30.259000
 schon	schon	ADV	-	0:07:28.793000	0:07:30.259000
@@ -1633,7 +1633,7 @@ gerne	gerne	ADV	-	0:07:28.793000	0:07:30.259000
 erreichen	erreichen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:07:28.793000	0:07:30.259000
 .	-	-	-	0:07:28.793000	0:07:30.259000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:30.259000" end="0:07:35.819000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:30.259000" end="0:07:35.819000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 (meine	meinen	DET	-	0:07:30.259000	0:07:31.839000
 ich)	ich	PRON	-	0:07:30.259000	0:07:31.839000
@@ -1657,15 +1657,15 @@ kriegen	kriegen	VERB	-	0:07:34.399000	0:07:35.819000
 einen	ein	DET	-	0:07:34.399000	0:07:35.819000
 neuen	neu	ADJ	-	0:07:34.399000	0:07:35.819000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:35.819000" end="0:07:36.513000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:35.819000" end="0:07:36.513000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:35.819000	0:07:36.513000
 .	-	-	-	0:07:35.819000	0:07:36.513000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:35.819000" end="0:07:36.513000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:35.819000" end="0:07:36.513000" project="PP03" age_lower="18" age_upper="35">
 Tennisplatz	Tennisplatz	NOUN	-	0:07:35.819000	0:07:36.513000
 .	-	-	-	0:07:35.819000	0:07:36.513000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:36.513000" end="0:07:38.046000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:36.513000" end="0:07:38.046000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:07:36.513000	0:07:38.046000
 uns	sich	PRON	-	0:07:36.513000	0:07:38.046000
 wollen	wollen	VERB	-	0:07:36.513000	0:07:38.046000
@@ -1674,12 +1674,12 @@ einen	ein	DET	-	0:07:36.513000	0:07:38.046000
 nehmen	nehmen	VERB	-	0:07:36.513000	0:07:38.046000
 .	-	-	-	0:07:36.513000	0:07:38.046000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:38.046000" end="0:07:39.566000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:38.046000" end="0:07:39.566000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 wieso	wieso	ADV	-	0:07:38.046000	0:07:39.566000
 ?	-	-	-	0:07:38.046000	0:07:39.566000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:39.566000" end="0:07:41.073000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:39.566000" end="0:07:41.073000" project="PP03" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:07:39.566000	0:07:41.073000
 der	der	DET	-	0:07:39.566000	0:07:41.073000
 NAME	NAME	NOUN	-	0:07:39.566000	0:07:41.073000
@@ -1687,13 +1687,13 @@ jetzt	jetzt	ADV	-	0:07:39.566000	0:07:41.073000
 erzählt	erzählen	VERB	-	0:07:39.566000	0:07:41.073000
 .	-	-	-	0:07:39.566000	0:07:41.073000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:41.073000" end="0:07:42.313000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:41.073000" end="0:07:42.313000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 wer	wer	PRON	-	0:07:41.073000	0:07:42.313000
 sie	ich	PRON	-	0:07:41.073000	0:07:42.313000
 ?	-	-	-	0:07:41.073000	0:07:42.313000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:42.313000" end="0:07:44.326000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:42.313000" end="0:07:44.326000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	X	-	0:07:42.313000	0:07:43.586000
 die	der	DET	-	0:07:42.313000	0:07:43.586000
@@ -1701,21 +1701,21 @@ SONSTIGE	SONSTIGE	PROPN	-	0:07:42.313000	0:07:43.586000
 will	wollen	VERB	-	0:07:43.586000	0:07:44.326000
 einen	ein	DET	-	0:07:43.586000	0:07:44.326000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:43.586000" end="0:07:44.326000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:43.586000" end="0:07:44.326000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:07:43.586000	0:07:44.326000
 .	-	-	-	0:07:43.586000	0:07:44.326000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:44.326000" end="0:07:45.399000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:44.326000" end="0:07:45.399000" project="PP03" age_lower="18" age_upper="35">
 Tennisplatz	Tennisplatz	NOUN	-	0:07:44.326000	0:07:45.399000
 wegtun	wegtun	VERB	-	0:07:44.326000	0:07:45.399000
 .	-	-	-	0:07:44.326000	0:07:45.399000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:45.399000" end="0:07:46.679000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:45.399000" end="0:07:46.679000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 aha	aha	X	-	0:07:45.399000	0:07:46.679000
 .	-	-	-	0:07:45.399000	0:07:46.679000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:46.679000" end="0:07:49.206000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:46.679000" end="0:07:49.206000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 aber	aber	CCONJ	-	0:07:46.679000	0:07:49.206000
 es	ich	PRON	-	0:07:46.679000	0:07:49.206000
@@ -1725,7 +1725,7 @@ nicht	nicht	PART	-	0:07:46.679000	0:07:49.206000
 fix	fixen	ADJ	-	0:07:46.679000	0:07:49.206000
 .	-	-	-	0:07:46.679000	0:07:49.206000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:49.206000" end="0:07:54.066000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:49.206000" end="0:07:54.066000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ol/	-	-	-	0:07:49.206000	0:07:54.066000
 ol/	-	-	-	0:07:49.206000	0:07:54.066000
@@ -1744,24 +1744,24 @@ einen	ein	DET	2ArtSPE AKon DArt EAdj EPart ESubj IRR dopp spe+ spe-	0:07:49.2060
 Mehrzweckplatz	Mehrzweckplatz	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj IRR dopp spe+ spe-	0:07:49.206000	0:07:54.066000
 ma=	machen	VERB	-	0:07:49.206000	0:07:54.066000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:54.066000" end="0:07:54.406000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:54.066000" end="0:07:54.406000" project="PP03" age_lower="18" age_upper="35">
 einen	ein	DET	-	0:07:54.066000	0:07:54.406000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:54.066000" end="0:07:54.406000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:54.066000" end="0:07:54.406000" project="PP03" age_lower="18" age_upper="35">
 chen	-	SPACE	-	0:07:54.066000	0:07:54.406000
 .	-	-	-	0:07:54.066000	0:07:54.406000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:54.406000" end="0:07:57.013000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:54.406000" end="0:07:57.013000" project="PP03" age_lower="18" age_upper="35">
 Skateboard(())platz	Skateboard()platz	NOUN	-	0:07:54.406000	0:07:56.513000
 .	-	-	-	0:07:54.406000	0:07:56.513000
 wo	wo	ADV	-	0:07:56.513000	0:07:57.013000
 ich	ich	PRON	-	0:07:56.513000	0:07:57.013000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:56.513000" end="0:07:57.013000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:56.513000" end="0:07:57.013000" project="PP03" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:07:56.513000	0:07:57.013000
 ?	-	-	-	0:07:56.513000	0:07:57.013000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:57.013000" end="0:08:01.359000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:57.013000" end="0:08:01.359000" project="PP03" age_lower="18" age_upper="35">
 (so	so	ADV	-	0:07:57.013000	0:07:58.246000
 nicht	nicht	PART	-	0:07:57.013000	0:07:58.246000
 will)	wollen	VERB	-	0:07:57.013000	0:07:58.246000
@@ -1782,7 +1782,7 @@ der	der	DET	-	0:07:59.986000	0:08:01.359000
 eine	einen	PRON	-	0:07:59.986000	0:08:01.359000
 war	sein	AUX	-	0:07:59.986000	0:08:01.359000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:59.986000" end="0:08:01.359000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:07:59.986000" end="0:08:01.359000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 das	-	-	-	0:07:59.986000	0:08:01.359000
 habe	-	-	-	0:07:59.986000	0:08:01.359000
@@ -1791,16 +1791,16 @@ gar	-	-	-	0:07:59.986000	0:08:01.359000
 nicht	-	-	-	0:07:59.986000	0:08:01.359000
 ge/	-	-	-	0:07:59.986000	0:08:01.359000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:01.359000" end="0:08:02.339000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:01.359000" end="0:08:02.339000" project="PP03" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:08:01.359000	0:08:01.813000
 nicht	nicht	PART	-	0:08:01.359000	0:08:01.813000
 so	so	ADV	-	0:08:01.813000	0:08:02.339000
 wir=	wirklich	ADJ	-	0:08:01.813000	0:08:02.339000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:01.813000" end="0:08:02.339000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:01.813000" end="0:08:02.339000" project="PP03" age_lower="18" age_upper="35">
 (ich/.)	-	-	-	0:08:01.813000	0:08:02.339000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:02.339000" end="0:08:06.253000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:02.339000" end="0:08:06.253000" project="PP03" age_lower="18" age_upper="35">
 klich	-	SPACE	-	0:08:02.339000	0:08:03.626000
 <pause duration="0,8s"/>
 super	super	PROPN	-	0:08:02.339000	0:08:03.626000
@@ -1817,7 +1817,7 @@ ich	ich	PRON	-	0:08:05.533000	0:08:06.253000
 einmal	einmal	ADV	-	0:08:05.533000	0:08:06.253000
 .	-	-	-	0:08:05.533000	0:08:06.253000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:05.533000" end="0:08:14.893000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:05.533000" end="0:08:14.893000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:08:05.533000	0:08:06.253000
 habe	-	-	-	0:08:05.533000	0:08:06.253000
 ich	-	-	-	0:08:05.533000	0:08:06.253000
@@ -1865,16 +1865,16 @@ halt	halt	VERB	-	0:08:13.746000	0:08:14.893000
 nicht	nicht	PART	-	0:08:13.746000	0:08:14.893000
 .	-	-	-	0:08:13.746000	0:08:14.893000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:14.893000" end="0:08:16.266000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:14.893000" end="0:08:16.266000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 also	also	ADV	-	0:08:14.893000	0:08:16.266000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:14.893000" end="0:08:16.266000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:14.893000" end="0:08:16.266000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 halt/	-	-	-	0:08:14.893000	0:08:16.266000
 .	-	-	-	0:08:14.893000	0:08:16.266000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:16.266000" end="0:08:23.059000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:16.266000" end="0:08:23.059000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:08:16.266000	0:08:17.419000
 ich	ich	PRON	-	0:08:16.266000	0:08:17.419000
 finde	finden	VERB	-	0:08:16.266000	0:08:17.419000
@@ -1903,20 +1903,20 @@ Schlüssel	-	-	-	0:08:21.153000	0:08:23.059000
 *hast*	-	-	-	0:08:21.153000	0:08:23.059000
 .	-	-	-	0:08:21.153000	0:08:23.059000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:23.059000" end="0:08:23.759000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:23.059000" end="0:08:23.759000" project="PP03" age_lower="18" age_upper="35">
 (nicht	nicht	PART	-	0:08:23.059000	0:08:23.759000
 mehr	mehr	ADV	-	0:08:23.059000	0:08:23.759000
 hin	hin	ADV	-	0:08:23.059000	0:08:23.759000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:23.759000" end="0:08:24.059000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:23.759000" end="0:08:24.059000" project="PP03" age_lower="18" age_upper="35">
 danach	danach	ADV	-	0:08:23.759000	0:08:24.059000
 w=	wollen	VERB	-	0:08:23.759000	0:08:24.059000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:23.759000" end="0:08:24.059000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:23.759000" end="0:08:24.059000" project="PP03" age_lower="18" age_upper="35">
 ein	einen	ADP	-	0:08:23.759000	0:08:24.059000
 .)	-	-	-	0:08:23.759000	0:08:24.059000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:24.059000" end="0:08:29.566000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:24.059000" end="0:08:29.566000" project="PP03" age_lower="18" age_upper="35">
 ollen	-	SPACE	-	0:08:24.059000	0:08:27.066000
 sie	ich	PRON	-	0:08:24.059000	0:08:27.066000
 wieder	wieder	ADV	-	0:08:24.059000	0:08:27.066000
@@ -1937,18 +1937,18 @@ hinein	hinein	ADV	-	0:08:27.066000	0:08:29.566000
 kommt	kommen	VERB	-	0:08:27.066000	0:08:29.566000
 .	-	-	-	0:08:27.066000	0:08:29.566000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:29.566000" end="0:08:30.219000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:29.566000" end="0:08:30.219000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:29.566000	0:08:30.219000
 .	-	-	-	0:08:29.566000	0:08:30.219000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:30.219000" end="0:08:31.593000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:30.219000" end="0:08:31.593000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 aber	aber	CCONJ	-	0:08:30.219000	0:08:31.593000
 mal	mal	ADV	-	0:08:30.219000	0:08:31.593000
 schauen	schauen	VERB	-	0:08:30.219000	0:08:31.593000
 .	-	-	-	0:08:30.219000	0:08:31.593000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:31.593000" end="0:08:35.885000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:31.593000" end="0:08:35.885000" project="PP03" age_lower="18" age_upper="35">
 die	der	DET	-	0:08:31.593000	0:08:35.885000
 die	der	DET	-	0:08:31.593000	0:08:35.885000
 die	der	DET	-	0:08:31.593000	0:08:35.885000
@@ -1966,13 +1966,13 @@ Nachbarn	Nachbar	NOUN	-	0:08:31.593000	0:08:35.885000
 zusammen	zusammen	ADP	-	0:08:31.593000	0:08:35.885000
 ,	-	-	-	0:08:31.593000	0:08:35.885000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:35.885000" end="0:08:37.253000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:35.885000" end="0:08:37.253000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:08:35.885000	0:08:37.253000
 ,	-	-	-	0:08:35.885000	0:08:37.253000
 ja	ja	PART	-	0:08:35.885000	0:08:37.253000
 .	-	-	-	0:08:35.885000	0:08:37.253000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:35.885000" end="0:08:42.332000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:35.885000" end="0:08:42.332000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:08:35.885000	0:08:37.253000
 kann	können	VERB	-	0:08:35.885000	0:08:37.253000
 dir	sich	PRON	-	0:08:35.885000	0:08:37.253000
@@ -1993,7 +1993,7 @@ unkontrolliert	unkontrolliert	NOUN	-	0:08:39.253000	0:08:42.332000
 der	der	DET	-	0:08:39.253000	0:08:42.332000
 (al/)	al	X	-	0:08:39.253000	0:08:42.332000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:42.332000" end="0:08:43.578000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:42.332000" end="0:08:43.578000" project="PP03" age_lower="18" age_upper="35">
 zu	zu	PART	-	0:08:42.332000	0:08:43.578000
 laut	laut	ADJ	-	0:08:42.332000	0:08:43.578000
 war	sein	AUX	-	0:08:42.332000	0:08:43.578000
@@ -2001,7 +2001,7 @@ war	sein	AUX	-	0:08:42.332000	0:08:43.578000
 oder	oder	CCONJ	-	0:08:42.332000	0:08:43.578000
 .	-	-	-	0:08:42.332000	0:08:43.578000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:42.332000" end="0:08:45.999000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:42.332000" end="0:08:45.999000" project="PP03" age_lower="18" age_upper="35">
 (da)	da	ADV	-	0:08:42.332000	0:08:43.578000
 ,	-	-	-	0:08:42.332000	0:08:43.578000
 ja	ja	PART	-	0:08:42.332000	0:08:43.578000
@@ -2015,11 +2015,11 @@ Namen	Name	NOUN	-	0:08:43.578000	0:08:45.999000
 nennen	nennen	VERB	-	0:08:43.578000	0:08:45.999000
 ,	-	-	-	0:08:43.578000	0:08:45.999000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:45.999000" end="0:08:47.559000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:45.999000" end="0:08:47.559000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:08:45.999000	0:08:47.559000
 .	-	-	-	0:08:45.999000	0:08:47.559000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:47.559000" end="0:08:52.333000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:47.559000" end="0:08:52.333000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:08:47.559000	0:08:48.026000
 ich	ich	PRON	-	0:08:47.559000	0:08:48.026000
 glaube	glauben	VERB	-	0:08:47.559000	0:08:48.026000
@@ -2039,7 +2039,7 @@ oder	oder	CCONJ	-	0:08:50.046000	0:08:52.333000
 bald	bald	ADV	-	0:08:50.046000	0:08:52.333000
 .	-	-	-	0:08:50.046000	0:08:52.333000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:52.333000" end="0:08:58.759000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:52.333000" end="0:08:58.759000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:08:52.333000	0:08:52.846000
 .	-	-	-	0:08:52.333000	0:08:52.846000
 <pause duration="1,4s"/>
@@ -2049,7 +2049,7 @@ klar	klaren	ADJ	-	0:08:57.626000	0:08:58.759000
 ja	ja	PART	-	0:08:57.626000	0:08:58.759000
 .	-	-	-	0:08:57.626000	0:08:58.759000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:58.759000" end="0:09:07.406000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:08:58.759000" end="0:09:07.406000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 na	na	X	-	0:08:58.759000	0:09:00.066000
 gut	gut	ADJ	-	0:08:58.759000	0:09:00.066000
@@ -2067,7 +2067,7 @@ darüber	-	-	-	0:09:03.146000	0:09:07.406000
 reden	-	-	-	0:09:03.146000	0:09:07.406000
 ?	-	-	-	0:09:03.146000	0:09:07.406000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:07.406000" end="0:09:12.139000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:07.406000" end="0:09:12.139000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:09:07.406000	0:09:11.139000
 halt	halt	ADV	-	0:09:07.406000	0:09:11.139000
 <pause duration="1,7s"/>
@@ -2082,7 +2082,7 @@ das	der	PRON	-	0:09:07.406000	0:09:11.139000
 ja	ja	PART	-	0:09:11.139000	0:09:12.139000
 .	-	-	-	0:09:11.139000	0:09:12.139000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:12.139000" end="0:09:23.146000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:12.139000" end="0:09:23.146000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:12.139000	0:09:13.446000
 ,	-	-	-	0:09:12.139000	0:09:13.446000
 und	und	CCONJ	-	0:09:12.139000	0:09:13.446000
@@ -2105,9 +2105,9 @@ SONSTIGE	SONSTIGE	PROPN	-	0:09:13.446000	0:09:23.146000
 Zeiten	Zeit	NOUN	-	0:09:13.446000	0:09:23.146000
 ,	-	-	-	0:09:13.446000	0:09:23.146000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:23.146000" end="0:09:24.126000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:23.146000" end="0:09:24.126000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:24.126000" end="0:09:33.613000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:24.126000" end="0:09:33.613000" project="PP03" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:09:24.126000	0:09:25.086000
 ich	ich	PRON	-	0:09:24.126000	0:09:25.086000
 dabei	dabei	ADV	-	0:09:24.126000	0:09:25.086000
@@ -2138,11 +2138,11 @@ ZAHL	ZAHL	NUM	-	0:09:31.933000	0:09:33.613000
 ZAHL	ZAHL	NUM	-	0:09:31.933000	0:09:33.613000
 ,	-	-	-	0:09:31.933000	0:09:33.613000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:33.613000" end="0:09:34.253000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:33.613000" end="0:09:34.253000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:33.613000	0:09:34.253000
 .	-	-	-	0:09:33.613000	0:09:34.253000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:34.253000" end="0:09:48.186000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:34.253000" end="0:09:48.186000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 da	da	ADV	-	0:09:34.253000	0:09:37.439000
 <pause duration="0,9s"/>
@@ -2188,12 +2188,12 @@ gegeben	geben	VERB	-	0:09:43.086000	0:09:48.186000
 hat	haben	AUX	-	0:09:43.086000	0:09:48.186000
 .	-	-	-	0:09:43.086000	0:09:48.186000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:48.186000" end="0:09:52.165000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:48.186000" end="0:09:52.165000" project="PP03" age_lower="18" age_upper="35">
 bessere	gut	ADJ	-	0:09:48.186000	0:09:49.679000
 Spieler	Spieler	NOUN	-	0:09:48.186000	0:09:49.679000
 .	-	-	-	0:09:48.186000	0:09:49.679000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:49.679000" end="0:10:02.392000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:09:49.679000" end="0:10:02.392000" project="PP03" age_lower="18" age_upper="35">
 besser	gut	ADJ	-	0:09:49.679000	0:09:52.165000
 Spieler	Spieler	NOUN	-	0:09:49.679000	0:09:52.165000
 ,	-	-	-	0:09:49.679000	0:09:52.165000
@@ -2245,7 +2245,7 @@ dürfen	dürfen	VERB	-	0:10:01.112000	0:10:02.392000
 nicht	nicht	PART	-	0:10:01.112000	0:10:02.392000
 ?	-	-	-	0:10:01.112000	0:10:02.392000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:02.392000" end="0:10:06.012000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:02.392000" end="0:10:06.012000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:10:02.392000	0:10:03.492000
 ist	sein	AUX	-	0:10:02.392000	0:10:03.492000
 es	ich	PRON	-	0:10:02.392000	0:10:03.492000
@@ -2261,7 +2261,7 @@ Fußball	Fußball	NOUN	-	0:10:03.492000	0:10:06.012000
 gespielt	spielen	VERB	-	0:10:03.492000	0:10:06.012000
 .	-	-	-	0:10:03.492000	0:10:06.012000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:06.012000" end="0:10:07.746000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:06.012000" end="0:10:07.746000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:10:06.012000	0:10:07.746000
 _oft_	-	-	-	0:10:06.012000	0:10:07.746000
 hatte	-	-	-	0:10:06.012000	0:10:07.746000
@@ -2271,11 +2271,11 @@ Schnauze	-	-	-	0:10:06.012000	0:10:07.746000
 voll	-	-	-	0:10:06.012000	0:10:07.746000
 .	-	-	-	0:10:06.012000	0:10:07.746000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:07.746000" end="0:10:08.386000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:07.746000" end="0:10:08.386000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:10:07.746000	0:10:08.386000
 .	-	-	-	0:10:07.746000	0:10:08.386000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:08.386000" end="0:10:09.979000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:08.386000" end="0:10:09.979000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 da	da	ADV	-	0:10:08.386000	0:10:09.979000
 hatte	haben	AUX	-	0:10:08.386000	0:10:09.979000
@@ -2285,11 +2285,11 @@ Gaudi	Gaudi	NOUN	-	0:10:08.386000	0:10:09.979000
 mehr	mehr	ADV	-	0:10:08.386000	0:10:09.979000
 .	-	-	-	0:10:08.386000	0:10:09.979000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:09.979000" end="0:10:10.266000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:09.979000" end="0:10:10.266000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:10:09.979000	0:10:10.266000
 .	-	-	-	0:10:09.979000	0:10:10.266000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:10.266000" end="0:10:30.072000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:10.266000" end="0:10:30.072000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 und	-	-	-	0:10:10.266000	0:10:11.886000
 _oft_	-	-	-	0:10:10.266000	0:10:11.886000
@@ -2349,7 +2349,7 @@ Zeit	-	-	-	0:10:22.532000	0:10:30.072000
 _boise_	-	-	-	0:10:22.532000	0:10:30.072000
 ,	-	-	-	0:10:22.532000	0:10:30.072000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:30.072000" end="0:10:33.626000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:30.072000" end="0:10:33.626000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	-	-	-	0:10:30.072000	0:10:31.719000
 da	-	-	-	0:10:30.072000	0:10:31.719000
@@ -2358,27 +2358,27 @@ dürfen	-	-	-	0:10:30.072000	0:10:31.719000
 mitspielen	-	-	-	0:10:30.072000	0:10:31.719000
 ?	-	-	-	0:10:30.072000	0:10:31.719000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:33.626000" end="0:10:35.826000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:33.626000" end="0:10:35.826000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 SONSTIGE	SONSTIGE	PROPN	-	0:10:33.626000	0:10:35.826000
 Vorderlaners=	Vorderlanersbach	PROPN	-	0:10:33.626000	0:10:35.826000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:35.826000" end="0:10:36.086000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:35.826000" end="0:10:36.086000" project="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:10:35.826000	0:10:36.086000
 ja	ja	PART	-	0:10:35.826000	0:10:36.086000
 ,	-	-	-	0:10:35.826000	0:10:36.086000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:35.826000" end="0:10:36.086000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:35.826000" end="0:10:36.086000" project="PP03" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	SPACE	-	0:10:35.826000	0:10:36.086000
 .	-	-	-	0:10:35.826000	0:10:36.086000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:36.086000" end="0:10:37.079000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:36.086000" end="0:10:37.079000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:10:36.086000	0:10:36.519000
 .	-	-	-	0:10:36.086000	0:10:36.519000
 beim/	-	-	-	0:10:36.519000	0:10:37.079000
 .	-	-	-	0:10:36.519000	0:10:37.079000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:36.519000" end="0:10:42.472000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:36.519000" end="0:10:42.472000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:10:36.519000	0:10:37.079000
 war	sein	AUX	-	0:10:36.519000	0:10:37.079000
 ich	ich	PRON	-	0:10:37.079000	0:10:38.439000
@@ -2407,13 +2407,13 @@ schon	schon	ADV	-	0:10:41.239000	0:10:42.472000
 getaugt	taugen	VERB	-	0:10:41.239000	0:10:42.472000
 .	-	-	-	0:10:41.239000	0:10:42.472000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:42.472000" end="0:10:44.626000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:42.472000" end="0:10:44.626000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 hat	haben	AUX	-	0:10:42.472000	0:10:44.626000
 der/	-	-	-	0:10:42.472000	0:10:44.626000
 .	-	-	-	0:10:42.472000	0:10:44.626000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:42.472000" end="0:10:46.579000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:42.472000" end="0:10:46.579000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 und	und	CCONJ	-	0:10:42.472000	0:10:44.626000
 heute	heute	ADV	-	0:10:42.472000	0:10:44.626000
@@ -2430,7 +2430,7 @@ jeden	jed	DET	-	0:10:45.266000	0:10:46.579000
 Spieler	Spieler	NOUN	-	0:10:45.266000	0:10:46.579000
 .	-	-	-	0:10:45.266000	0:10:46.579000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:46.579000" end="0:10:50.172000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:46.579000" end="0:10:50.172000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:10:46.579000	0:10:48.506000
 ,	-	-	-	0:10:46.579000	0:10:48.506000
@@ -2449,14 +2449,14 @@ beim	beim	ADP	-	0:10:48.506000	0:10:50.172000
 Tennis	Tennis	NOUN	-	0:10:48.506000	0:10:50.172000
 .	-	-	-	0:10:48.506000	0:10:50.172000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:50.172000" end="0:10:50.512000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:50.172000" end="0:10:50.512000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:10:50.172000	0:10:50.512000
 .	-	-	-	0:10:50.172000	0:10:50.512000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:50.512000" end="0:10:52.052000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:50.512000" end="0:10:52.052000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:52.052000" end="0:10:54.926000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:52.052000" end="0:10:54.926000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:10:52.052000	0:10:54.926000
 zu	zu	ADP	-	0:10:52.052000	0:10:54.926000
 zu	zu	ADP	-	0:10:52.052000	0:10:54.926000
@@ -2467,12 +2467,12 @@ haben	haben	AUX	-	0:10:52.052000	0:10:54.926000
 sie	ich	PRON	-	0:10:52.052000	0:10:54.926000
 die	der	PRON	-	0:10:52.052000	0:10:54.926000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:54.926000" end="0:10:56.472000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:54.926000" end="0:10:56.472000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 mhm	mhm	PROPN	-	0:10:54.926000	0:10:56.472000
 .	-	-	-	0:10:54.926000	0:10:56.472000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:56.472000" end="0:10:57.932000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:56.472000" end="0:10:57.932000" project="PP03" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:10:56.472000	0:10:57.932000
 sie	ich	PRON	-	0:10:56.472000	0:10:57.932000
 die	der	DET	-	0:10:56.472000	0:10:57.932000
@@ -2482,7 +2482,7 @@ gehabt	haben	AUX	-	0:10:56.472000	0:10:57.932000
 nicht	nicht	PART	-	0:10:56.472000	0:10:57.932000
 .	-	-	-	0:10:56.472000	0:10:57.932000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:57.932000" end="0:11:06.672000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:10:57.932000" end="0:11:06.672000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 und	-	-	-	0:10:57.932000	0:11:01.846000
 bei	-	-	-	0:10:57.932000	0:11:01.846000
@@ -2511,28 +2511,28 @@ was	was	PRON	-	0:11:06.006000	0:11:06.672000
 ihr	mein	PRON	-	0:11:06.006000	0:11:06.672000
 so	so	ADV	-	0:11:06.006000	0:11:06.672000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:06.006000" end="0:11:06.672000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:06.006000" end="0:11:06.672000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:11:06.006000	0:11:06.672000
 .	-	-	-	0:11:06.006000	0:11:06.672000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:06.672000" end="0:11:07.779000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:06.672000" end="0:11:07.779000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 gemacht	machen	VERB	-	0:11:06.672000	0:11:07.779000
 haben	haben	AUX	-	0:11:06.672000	0:11:07.779000
 .	-	-	-	0:11:06.672000	0:11:07.779000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:07.779000" end="0:11:08.059000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:07.779000" end="0:11:08.059000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:11:07.779000	0:11:08.059000
 nein	nein	PART	-	0:11:07.779000	0:11:08.059000
 ,	-	-	-	0:11:07.779000	0:11:08.059000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:08.059000" end="0:11:08.986000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:08.059000" end="0:11:08.986000" project="PP03" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:11:08.059000	0:11:08.986000
 schon	schon	ADV	-	0:11:08.059000	0:11:08.986000
 sta/	-	-	-	0:11:08.059000	0:11:08.986000
 ,	-	-	-	0:11:08.059000	0:11:08.986000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:08.059000" end="0:11:09.359000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:08.059000" end="0:11:09.359000" project="PP03" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:11:08.059000	0:11:08.986000
 starten	starten	VERB	-	0:11:08.059000	0:11:08.986000
 ,	-	-	-	0:11:08.059000	0:11:08.986000
@@ -2540,19 +2540,19 @@ habe	habe	AUX	-	0:11:08.059000	0:11:08.986000
 regel=	regelmäßig	ADJ	-	0:11:08.059000	0:11:08.986000
 mäßig	-	SPACE	-	0:11:08.986000	0:11:09.359000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:09.359000" end="0:11:09.659000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:09.359000" end="0:11:09.659000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:11:09.359000	0:11:09.659000
 ,	-	-	-	0:11:09.359000	0:11:09.659000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:09.359000" end="0:11:09.659000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:09.359000" end="0:11:09.659000" project="PP03" age_lower="18" age_upper="35">
 gespielt	spielen	VERB	-	0:11:09.359000	0:11:09.659000
 .	-	-	-	0:11:09.359000	0:11:09.659000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:09.659000" end="0:11:09.979000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:09.659000" end="0:11:09.979000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:11:09.659000	0:11:09.979000
 .	-	-	-	0:11:09.659000	0:11:09.979000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:09.979000" end="0:11:12.579000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:09.979000" end="0:11:12.579000" project="PP03" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:11:09.979000	0:11:12.579000
 gibt	geben	VERB	-	0:11:09.979000	0:11:12.579000
 viele	viel	DET	-	0:11:09.979000	0:11:12.579000
@@ -2561,11 +2561,11 @@ im	im	ADP	-	0:11:09.979000	0:11:12.579000
 Zillertal	Zillertal	PROPN	-	0:11:09.979000	0:11:12.579000
 .	-	-	-	0:11:09.979000	0:11:12.579000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:12.579000" end="0:11:13.032000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:12.579000" end="0:11:13.032000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:11:12.579000	0:11:13.032000
 .	-	-	-	0:11:12.579000	0:11:13.032000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:13.032000" end="0:11:19.846000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:13.032000" end="0:11:19.846000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:11:13.032000	0:11:14.546000
 haben	haben	AUX	-	0:11:13.032000	0:11:14.546000
 wir	ich	PRON	-	0:11:13.032000	0:11:14.546000
@@ -2602,11 +2602,11 @@ haben	haben	AUX	-	0:11:18.966000	0:11:19.846000
 sie	ich	PRON	-	0:11:18.966000	0:11:19.846000
 einen	ein	DET	-	0:11:18.966000	0:11:19.846000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:19.846000" end="0:11:20.426000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:19.846000" end="0:11:20.426000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:11:19.846000	0:11:20.426000
 .	-	-	-	0:11:19.846000	0:11:20.426000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:19.846000" end="0:11:22.932000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:19.846000" end="0:11:22.932000" project="PP03" age_lower="18" age_upper="35">
 Hobbyclub	Hobbyclub	NOUN	-	0:11:19.846000	0:11:20.426000
 .	-	-	-	0:11:19.846000	0:11:20.426000
 <pause duration="1,8s"/>
@@ -2614,7 +2614,7 @@ in	in	ADP	-	0:11:20.426000	0:11:22.932000
 (Hocht)	Hocht	PROPN	-	0:11:20.426000	0:11:22.932000
 .	-	-	-	0:11:20.426000	0:11:22.932000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:22.932000" end="0:11:24.586000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:22.932000" end="0:11:24.586000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 das	der	PRON	-	0:11:22.932000	0:11:24.586000
 habe	habe	AUX	-	0:11:22.932000	0:11:24.586000
@@ -2625,7 +2625,7 @@ nicht	nicht	PART	-	0:11:22.932000	0:11:24.586000
 gewusst	gewusst	VERB	-	0:11:22.932000	0:11:24.586000
 .	-	-	-	0:11:22.932000	0:11:24.586000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:24.586000" end="0:11:26.599000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:24.586000" end="0:11:26.599000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 also	also	ADV	-	0:11:24.586000	0:11:26.599000
 es	ich	PRON	-	0:11:24.586000	0:11:26.599000
@@ -2635,11 +2635,11 @@ so	so	ADV	-	0:11:24.586000	0:11:26.599000
 Hobbyclubs	Hobbyclubs	PROPN	-	0:11:24.586000	0:11:26.599000
 auch	auch	ADV	-	0:11:24.586000	0:11:26.599000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:26.599000" end="0:11:26.919000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:26.599000" end="0:11:26.919000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:11:26.599000	0:11:26.919000
 .	-	-	-	0:11:26.599000	0:11:26.919000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:26.599000" end="0:11:30.392000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:26.599000" end="0:11:30.392000" project="PP03" age_lower="18" age_upper="35">
 gerade	gerade	ADV	-	0:11:26.599000	0:11:26.919000
 im	im	ADP	-	0:11:26.599000	0:11:26.919000
 Z=	Zillertal	NOUN	-	0:11:26.599000	0:11:26.919000
@@ -2659,12 +2659,12 @@ auswärts	auswärts	NOUN	-	0:11:27.306000	0:11:30.392000
 gespielt	spielen	VERB	-	0:11:27.306000	0:11:30.392000
 .	-	-	-	0:11:27.306000	0:11:30.392000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:30.392000" end="0:11:31.246000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:30.392000" end="0:11:31.246000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:11:30.392000	0:11:31.246000
 .	-	-	-	0:11:30.392000	0:11:31.246000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:31.246000" end="0:11:38.792000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:31.246000" end="0:11:38.792000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 aber	aber	CCONJ	-	0:11:31.246000	0:11:34.592000
 es	ich	PRON	-	0:11:31.246000	0:11:34.592000
@@ -2692,11 +2692,11 @@ Fußball	-	-	-	0:11:34.592000	0:11:38.792000
 spielen	-	-	-	0:11:34.592000	0:11:38.792000
 .	-	-	-	0:11:34.592000	0:11:38.792000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:38.792000" end="0:11:39.359000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:38.792000" end="0:11:39.359000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:11:38.792000	0:11:39.359000
 .	-	-	-	0:11:38.792000	0:11:39.359000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:39.359000" end="0:11:45.806000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:39.359000" end="0:11:45.806000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	-	-	-	0:11:39.359000	0:11:42.252000
 und	-	-	-	0:11:39.359000	0:11:42.252000
@@ -2718,7 +2718,7 @@ angenehm	-	-	-	0:11:42.252000	0:11:45.806000
 so	-	-	-	0:11:42.252000	0:11:45.806000
 .	-	-	-	0:11:42.252000	0:11:45.806000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:45.806000" end="0:11:49.406000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:45.806000" end="0:11:49.406000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:11:45.806000	0:11:48.199000
 .	-	-	-	0:11:45.806000	0:11:48.199000
 <pause duration="0,6s"/>
@@ -2726,26 +2726,26 @@ halt	halt	ADV	-	0:11:48.199000	0:11:48.959000
 kein	kein	DET	-	0:11:48.959000	0:11:49.406000
 Traini=	Training	NOUN	-	0:11:48.959000	0:11:49.406000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:48.959000" end="0:11:49.406000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:48.959000" end="0:11:49.406000" project="PP03" age_lower="18" age_upper="35">
 guat	guat	NOUN	-	0:11:48.959000	0:11:49.406000
 .	-	-	-	0:11:48.959000	0:11:49.406000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:49.406000" end="0:11:50.812000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:49.406000" end="0:11:50.812000" project="PP03" age_lower="18" age_upper="35">
 ng	-	SPACE	-	0:11:49.406000	0:11:49.972000
 oder	oder	CCONJ	-	0:11:49.406000	0:11:49.972000
 ?	-	-	-	0:11:49.406000	0:11:49.972000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:49.972000" end="0:11:50.812000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:49.972000" end="0:11:50.812000" project="PP03" age_lower="18" age_upper="35">
 kein	kein	DET	-	0:11:49.972000	0:11:50.812000
 Training	Training	NOUN	-	0:11:49.972000	0:11:50.812000
 .	-	-	-	0:11:49.972000	0:11:50.812000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:50.812000" end="0:11:53.772000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:50.812000" end="0:11:53.772000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 okay	okay	NOUN	-	0:11:52.212000	0:11:53.772000
 .	-	-	-	0:11:52.212000	0:11:53.772000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:53.772000" end="0:12:06.366000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:11:53.772000" end="0:12:06.366000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:11:53.772000	0:11:54.886000
 wenn	wenn	SCONJ	-	0:11:53.772000	0:11:54.886000
 ein	einen	DET	-	0:11:53.772000	0:11:54.886000
@@ -2784,7 +2784,7 @@ nein	nein	PART	-	0:12:05.419000	0:12:06.366000
 Blödsinn	Blödsinn	NOUN	-	0:12:05.419000	0:12:06.366000
 .	-	-	-	0:12:05.419000	0:12:06.366000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:06.366000" end="0:12:10.352000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:06.366000" end="0:12:10.352000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 rede	rede	NOUN	-	0:12:06.366000	0:12:10.352000
 über	über	ADP	-	0:12:06.366000	0:12:10.352000
@@ -2795,7 +2795,7 @@ im	im	ADP	-	0:12:06.366000	0:12:10.352000
 Dialekt"	Dialekt	NOUN	-	0:12:06.366000	0:12:10.352000
 .	-	-	-	0:12:06.366000	0:12:10.352000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:10.352000" end="0:12:13.046000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:10.352000" end="0:12:13.046000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	ADV	-	0:12:10.352000	0:12:12.166000
 super	super	PROPN	-	0:12:10.352000	0:12:12.166000
@@ -2813,24 +2813,24 @@ das	der	DET	-	0:12:12.166000	0:12:13.046000
 Thema	Thema	NOUN	-	0:12:12.166000	0:12:13.046000
 .	-	-	-	0:12:12.166000	0:12:13.046000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:13.046000" end="0:12:16.192000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:13.046000" end="0:12:16.192000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 „_oft_“	-	-	-	0:12:13.046000	0:12:16.192000
 haben	-	-	-	0:12:13.046000	0:12:16.192000
 wir	-	-	-	0:12:13.046000	0:12:16.192000
 .	-	-	-	0:12:13.046000	0:12:16.192000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:16.192000" end="0:12:17.966000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:16.192000" end="0:12:17.966000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 „_feacht_“	-	-	-	0:12:16.192000	0:12:17.966000
 .	-	-	-	0:12:16.192000	0:12:17.966000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:17.966000" end="0:12:19.486000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:17.966000" end="0:12:19.486000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	ja	PART	-	0:12:17.966000	0:12:19.486000
 .	-	-	-	0:12:17.966000	0:12:19.486000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:17.966000" end="0:12:20.226000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:17.966000" end="0:12:20.226000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 gefäll/	-	-	-	0:12:17.966000	0:12:19.486000
 gefällt	gefallen	VERB	-	0:12:19.486000	0:12:20.226000
@@ -2838,11 +2838,11 @@ mir	sich	PRON	-	0:12:19.486000	0:12:20.226000
 gut	gut	ADJ	-	0:12:19.486000	0:12:20.226000
 .	-	-	-	0:12:19.486000	0:12:20.226000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:20.226000" end="0:12:20.592000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:20.226000" end="0:12:20.592000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:20.226000	0:12:20.592000
 .	-	-	-	0:12:20.226000	0:12:20.592000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:20.592000" end="0:12:30.399000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:20.592000" end="0:12:30.399000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 schönes	schön	ADJ	-	0:12:20.592000	0:12:22.299000
 Wort	Wort	NOUN	-	0:12:20.592000	0:12:22.299000
@@ -2861,12 +2861,12 @@ einmal	-	-	-	0:12:28.579000	0:12:30.399000
 (_iwach_)	-	-	-	0:12:28.579000	0:12:30.399000
 .	-	-	-	0:12:28.579000	0:12:30.399000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:30.399000" end="0:12:32.246000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:30.399000" end="0:12:32.246000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:30.399000	0:12:30.812000
 .	-	-	-	0:12:30.399000	0:12:30.812000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:30.812000" end="0:12:32.246000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:30.812000" end="0:12:32.246000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ist	sein	AUX	-	0:12:30.812000	0:12:32.246000
 auch	auch	ADV	-	0:12:30.812000	0:12:32.246000
@@ -2875,11 +2875,11 @@ nett	nett	ADJ	-	0:12:30.812000	0:12:32.246000
 nicht	nicht	PART	-	0:12:30.812000	0:12:32.246000
 ?	-	-	-	0:12:30.812000	0:12:32.246000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:32.246000" end="0:12:32.879000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:32.246000" end="0:12:32.879000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:32.246000	0:12:32.879000
 .	-	-	-	0:12:32.246000	0:12:32.879000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:32.879000" end="0:12:39.032000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:32.879000" end="0:12:39.032000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 _oftang_	-	-	-	0:12:32.879000	0:12:36.132000
 .	-	-	-	0:12:32.879000	0:12:36.132000
@@ -2890,7 +2890,7 @@ nichts	nichts	PRON	-	0:12:36.132000	0:12:39.032000
 ein	einen	ADP	-	0:12:36.132000	0:12:39.032000
 ?	-	-	-	0:12:36.132000	0:12:39.032000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:39.032000" end="0:12:44.399000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:39.032000" end="0:12:44.399000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:12:39.032000	0:12:43.412000
 also	-	-	-	0:12:39.032000	0:12:43.412000
 mir	-	-	-	0:12:39.032000	0:12:43.412000
@@ -2903,26 +2903,26 @@ eben	eben	ADV	-	0:12:43.412000	0:12:43.906000
 bei	bei	ADP	-	0:12:43.906000	0:12:44.399000
 die	der	DET	-	0:12:43.906000	0:12:44.399000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:43.906000" end="0:12:44.399000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:43.906000" end="0:12:44.399000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:43.906000	0:12:44.399000
 .	-	-	-	0:12:43.906000	0:12:44.399000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:44.399000" end="0:12:46.512000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:44.399000" end="0:12:46.512000" project="PP03" age_lower="18" age_upper="35">
 deutschen	deutsch	ADJ	-	0:12:44.399000	0:12:45.559000
 Gäste	Gast	NOUN	-	0:12:44.399000	0:12:45.559000
 .	-	-	-	0:12:44.399000	0:12:45.559000
 .	-	-	-	0:12:45.559000	0:12:46.512000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:45.559000" end="0:12:46.512000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:45.559000" end="0:12:46.512000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:45.559000	0:12:46.512000
 .	-	-	-	0:12:45.559000	0:12:46.512000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:46.512000" end="0:12:47.952000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:46.512000" end="0:12:47.952000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 so	so	ADV	-	0:12:46.512000	0:12:47.952000
 .	-	-	-	0:12:46.512000	0:12:47.952000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:47.952000" end="0:12:54.712000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:47.952000" end="0:12:54.712000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:12:47.952000	0:12:49.339000
 .	-	-	-	0:12:47.952000	0:12:49.339000
@@ -2946,11 +2946,11 @@ den	der	DET	-	0:12:49.339000	0:12:54.712000
 Dialekt	Dialekt	NOUN	-	0:12:49.339000	0:12:54.712000
 ,	-	-	-	0:12:49.339000	0:12:54.712000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:54.712000" end="0:12:55.139000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:54.712000" end="0:12:55.139000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:54.712000	0:12:55.139000
 .	-	-	-	0:12:54.712000	0:12:55.139000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:54.712000" end="0:12:59.179000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:54.712000" end="0:12:59.179000" project="PP03" age_lower="18" age_upper="35">
 d/	-	-	-	0:12:54.712000	0:12:55.139000
 das	der	DET	-	0:12:55.139000	0:12:59.179000
 Wort	Wort	NOUN	-	0:12:55.139000	0:12:59.179000
@@ -2965,12 +2965,12 @@ verwenden	verwenden	VERB	Prog ProgKon tunP	0:12:55.139000	0:12:59.179000
 als	als	ADP	-	0:12:55.139000	0:12:59.179000
 Beispiel	Beispiel	NOUN	-	0:12:55.139000	0:12:59.179000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:59.179000" end="0:13:00.406000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:12:59.179000" end="0:13:00.406000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 genau	genau	ADJ	-	0:12:59.179000	0:13:00.406000
 .	-	-	-	0:12:59.179000	0:13:00.406000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:00.406000" end="0:13:02.466000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:00.406000" end="0:13:02.466000" project="PP03" age_lower="18" age_upper="35">
 für	für	ADP	-	0:13:00.406000	0:13:01.346000
 so	so	ADV	-	0:13:00.406000	0:13:01.346000
 den	der	DET	-	0:13:00.406000	0:13:01.346000
@@ -2980,14 +2980,14 @@ Dialekt	Dialekt	NOUN	-	0:13:00.406000	0:13:01.346000
 gell	gell	ADJ	-	0:13:01.346000	0:13:02.466000
 ?	-	-	-	0:13:01.346000	0:13:02.466000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:02.466000" end="0:13:03.839000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:02.466000" end="0:13:03.839000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:13:02.466000	0:13:03.839000
 ,	-	-	-	0:13:02.466000	0:13:03.839000
 <pause duration="0,6s"/>
 stimmt	stimmen	VERB	-	0:13:02.466000	0:13:03.839000
 .	-	-	-	0:13:02.466000	0:13:03.839000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:03.839000" end="0:13:06.179000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:03.839000" end="0:13:06.179000" project="PP03" age_lower="18" age_upper="35">
 ste/	-	-	-	0:13:03.839000	0:13:06.179000
 stellvertretend	stellvertretend	ADJ	-	0:13:03.839000	0:13:06.179000
 für	für	ADP	-	0:13:03.839000	0:13:06.179000
@@ -2995,15 +2995,15 @@ die	der	DET	-	0:13:03.839000	0:13:06.179000
 Dialektwörter	Dialektwörter	NOUN	-	0:13:03.839000	0:13:06.179000
 .	-	-	-	0:13:03.839000	0:13:06.179000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:06.179000" end="0:13:07.099000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:06.179000" end="0:13:07.099000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:06.179000" end="0:13:07.099000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:06.179000" end="0:13:07.099000" project="PP03" age_lower="18" age_upper="35">
 (sagt	sagen	VERB	-	0:13:06.179000	0:13:07.099000
 man	man	PRON	-	0:13:06.179000	0:13:07.099000
 viel)	viel	PRON	-	0:13:06.179000	0:13:07.099000
 .	-	-	-	0:13:06.179000	0:13:07.099000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:07.099000" end="0:13:13.252000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:07.099000" end="0:13:13.252000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ähm	ähm	PROPN	-	0:13:08.666000	0:13:10.546000
 .	-	-	-	0:13:08.666000	0:13:10.546000
@@ -3015,7 +3015,7 @@ denn	denn	ADV	-	0:13:10.546000	0:13:13.252000
 noch	noch	ADV	-	0:13:10.546000	0:13:13.252000
 .	-	-	-	0:13:10.546000	0:13:13.252000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:13.252000" end="0:13:29.466000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:13.252000" end="0:13:29.466000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,2s"/>
 ja	ja	PART	-	0:13:13.252000	0:13:20.846000
 ,	-	-	-	0:13:13.252000	0:13:20.846000
@@ -3054,11 +3054,11 @@ verwendet	verwenden	VERB	-	0:13:27.299000	0:13:29.079000
 *weißt*	-	-	-	0:13:29.079000	0:13:29.466000
 .	-	-	-	0:13:29.079000	0:13:29.466000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:29.466000" end="0:13:29.892000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:29.466000" end="0:13:29.892000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:13:29.466000	0:13:29.892000
 .	-	-	-	0:13:29.466000	0:13:29.892000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:29.892000" end="0:13:33.406000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:29.892000" end="0:13:33.406000" project="PP03" age_lower="18" age_upper="35">
 die	der	DET	-	0:13:29.892000	0:13:31.839000
 was	was	PRON	-	0:13:29.892000	0:13:31.839000
 wirklich	wirklich	ADJ	-	0:13:29.892000	0:13:31.839000
@@ -3074,7 +3074,7 @@ nicht	nicht	PART	-	0:13:31.839000	0:13:33.406000
 auf	auf	ADP	-	0:13:31.839000	0:13:33.406000
 .	-	-	-	0:13:31.839000	0:13:33.406000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:33.406000" end="0:13:38.146000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:33.406000" end="0:13:38.146000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:13:33.406000	0:13:33.899000
 .	-	-	-	0:13:33.406000	0:13:33.899000
 <pause duration="1,3s"/>
@@ -3094,27 +3094,27 @@ nicht	nicht	PART	-	0:13:36.546000	0:13:38.146000
 ein	einen	ADP	-	0:13:36.546000	0:13:38.146000
 .	-	-	-	0:13:36.546000	0:13:38.146000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:38.146000" end="0:13:38.972000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:38.146000" end="0:13:38.972000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:13:38.146000	0:13:38.972000
 .	-	-	-	0:13:38.146000	0:13:38.972000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:38.972000" end="0:13:40.672000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:38.972000" end="0:13:40.672000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 so	so	ADV	-	0:13:38.972000	0:13:40.672000
 geht	gehen	VERB	-	0:13:38.972000	0:13:40.672000
 es	ich	PRON	-	0:13:38.972000	0:13:40.672000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:38.972000" end="0:13:40.672000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:38.972000" end="0:13:40.672000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 nein	nein	PART	-	0:13:38.972000	0:13:40.672000
 aber	aber	ADV	-	0:13:38.972000	0:13:40.672000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:40.672000" end="0:13:41.126000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:40.672000" end="0:13:41.126000" project="PP03" age_lower="18" age_upper="35">
 mir	sich	PRON	-	0:13:40.672000	0:13:41.126000
 (mal)	mal	ADV	-	0:13:40.672000	0:13:41.126000
 .	-	-	-	0:13:40.672000	0:13:41.126000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:41.126000" end="0:13:54.346000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:41.126000" end="0:13:54.346000" project="PP03" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:13:41.126000	0:13:42.206000
 war	sein	AUX	-	0:13:41.126000	0:13:42.206000
 das	der	PRON	-	0:13:41.126000	0:13:42.206000
@@ -3154,12 +3154,12 @@ nicht	nicht	PART	-	0:13:53.226000	0:13:54.346000
 ein	einen	ADP	-	0:13:53.226000	0:13:54.346000
 .	-	-	-	0:13:53.226000	0:13:54.346000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:54.346000" end="0:14:00.632000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:13:54.346000" end="0:14:00.632000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,2s"/>
 ähm	ähm	PROPN	-	0:13:55.992000	0:14:00.632000
 .	-	-	-	0:13:55.992000	0:14:00.632000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:00.632000" end="0:14:07.946000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:00.632000" end="0:14:07.946000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:14:00.632000	0:14:01.699000
 ,	-	-	-	0:14:00.632000	0:14:01.699000
 "_aniedr_"	-	-	-	0:14:00.632000	0:14:01.699000
@@ -3189,22 +3189,22 @@ es	ich	PRON	-	0:14:06.692000	0:14:07.946000
 selber	selber	ADV	-	0:14:06.692000	0:14:07.946000
 .	-	-	-	0:14:06.692000	0:14:07.946000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:07.946000" end="0:14:09.132000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:07.946000" end="0:14:09.132000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 „_aniedr_“	-	-	-	0:14:07.946000	0:14:09.132000
 ?	-	-	-	0:14:07.946000	0:14:09.132000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:09.132000" end="0:14:09.759000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:09.132000" end="0:14:09.759000" project="PP03" age_lower="18" age_upper="35">
 „_aniedr_“	-	-	-	0:14:09.132000	0:14:09.759000
 .	-	-	-	0:14:09.132000	0:14:09.759000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:09.759000" end="0:14:11.979000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:09.759000" end="0:14:11.979000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ähm	ähm	PROPN	-	0:14:09.759000	0:14:11.606000
 jetzt/	-	-	-	0:14:11.606000	0:14:11.979000
 .	-	-	-	0:14:11.606000	0:14:11.979000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:11.606000" end="0:14:14.012000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:11.606000" end="0:14:14.012000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:14:11.606000	0:14:11.979000
 und	und	CCONJ	-	0:14:11.606000	0:14:11.979000
 das	der	PRON	-	0:14:11.979000	0:14:14.012000
@@ -3218,7 +3218,7 @@ alleweil	alleweil	VERB	-	0:14:11.979000	0:14:14.012000
 nicht	nicht	PART	-	0:14:11.979000	0:14:14.012000
 ?	-	-	-	0:14:11.979000	0:14:14.012000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:14.012000" end="0:14:16.812000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:14.012000" end="0:14:16.812000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 ach	ach	X	-	0:14:14.012000	0:14:16.812000
 ,	-	-	-	0:14:14.012000	0:14:16.812000
@@ -3228,28 +3228,28 @@ oder	oder	CCONJ	-	0:14:14.012000	0:14:16.812000
 was	was	PRON	-	0:14:14.012000	0:14:16.812000
 ?	-	-	-	0:14:14.012000	0:14:16.812000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:16.812000" end="0:14:17.412000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:16.812000" end="0:14:17.412000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:16.812000	0:14:17.412000
 .	-	-	-	0:14:16.812000	0:14:17.412000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:17.412000" end="0:14:18.032000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:17.412000" end="0:14:18.032000" project="PP03" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:14:17.412000	0:14:18.032000
 oder	oder	CCONJ	-	0:14:17.412000	0:14:18.032000
 ?	-	-	-	0:14:17.412000	0:14:18.032000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:18.032000" end="0:14:18.712000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:18.032000" end="0:14:18.712000" project="PP03" age_lower="18" age_upper="35">
 "einjeder"	-	-	-	0:14:18.032000	0:14:18.712000
 .	-	-	-	0:14:18.032000	0:14:18.712000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:18.712000" end="0:14:20.679000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:18.712000" end="0:14:20.679000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:20.026000" end="0:14:21.352000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:20.026000" end="0:14:21.352000" project="PP03" age_lower="18" age_upper="35">
 "einjeder"	-	-	-	0:14:20.026000	0:14:20.679000
 heißt	-	-	-	0:14:20.679000	0:14:21.352000
 "_aniedr_"	-	-	-	0:14:20.679000	0:14:21.352000
 .	-	-	-	0:14:20.679000	0:14:21.352000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:21.352000" end="0:14:23.146000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:21.352000" end="0:14:23.146000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 das	der	PRON	-	0:14:21.352000	0:14:23.146000
 habe	habe	AUX	-	0:14:21.352000	0:14:23.146000
@@ -3259,20 +3259,20 @@ auch	auch	ADV	-	0:14:21.352000	0:14:23.146000
 nicht/	-	-	-	0:14:21.352000	0:14:23.146000
 .	-	-	-	0:14:21.352000	0:14:23.146000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:23.146000" end="0:14:23.892000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:23.146000" end="0:14:23.892000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:23.146000	0:14:23.892000
 ,	-	-	-	0:14:23.146000	0:14:23.892000
 ab=	ab	ADP	-	0:14:23.146000	0:14:23.892000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:23.892000" end="0:14:24.172000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:23.892000" end="0:14:24.172000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:14:23.892000	0:14:24.172000
 es	ich	PRON	-	0:14:23.892000	0:14:24.172000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:23.892000" end="0:14:24.172000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:23.892000" end="0:14:24.172000" project="PP03" age_lower="18" age_upper="35">
 er/	-	-	-	0:14:23.892000	0:14:24.172000
 .	-	-	-	0:14:23.892000	0:14:24.172000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:24.172000" end="0:14:25.526000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:24.172000" end="0:14:25.526000" project="PP03" age_lower="18" age_upper="35">
 fällt	fällen	VERB	-	0:14:24.172000	0:14:24.946000
 mir	sich	PRON	-	0:14:24.172000	0:14:24.946000
 vielleicht	vielleicht	ADV	-	0:14:24.172000	0:14:24.946000
@@ -3285,7 +3285,7 @@ das	der	PRON	-	0:14:24.946000	0:14:25.526000
 sagst	sagen	VERB	-	0:14:24.946000	0:14:25.526000
 .	-	-	-	0:14:24.946000	0:14:25.526000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:25.526000" end="0:14:26.446000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:25.526000" end="0:14:26.446000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:14:25.526000	0:14:26.446000
 fällt	fällen	VERB	-	0:14:25.526000	0:14:26.446000
 dir	sich	PRON	-	0:14:25.526000	0:14:26.446000
@@ -3294,11 +3294,11 @@ nicht	nicht	PART	-	0:14:25.526000	0:14:26.446000
 auf	auf	ADP	-	0:14:25.526000	0:14:26.446000
 ,	-	-	-	0:14:25.526000	0:14:26.446000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:26.446000" end="0:14:26.792000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:26.446000" end="0:14:26.792000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:26.446000	0:14:26.792000
 .	-	-	-	0:14:26.446000	0:14:26.792000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:26.446000" end="0:14:30.446000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:26.446000" end="0:14:30.446000" project="PP03" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:14:26.446000	0:14:26.792000
 man	man	PRON	-	0:14:26.446000	0:14:26.792000
 wenn	wenn	SCONJ	-	0:14:26.792000	0:14:27.386000
@@ -3317,7 +3317,7 @@ ja	-	-	-	0:14:27.386000	0:14:30.446000
 kommen	-	-	-	0:14:27.386000	0:14:30.446000
 .	-	-	-	0:14:27.386000	0:14:30.446000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:30.446000" end="0:14:37.966000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:30.446000" end="0:14:37.966000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:30.446000	0:14:31.166000
 .	-	-	-	0:14:30.446000	0:14:31.166000
 <pause duration="1,4s"/>
@@ -3344,19 +3344,19 @@ weiß	weiß	VERB	-	0:14:34.672000	0:14:36.179000
 "jeder"	-	-	-	0:14:36.179000	0:14:37.966000
 .	-	-	-	0:14:36.179000	0:14:37.966000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:36.179000" end="0:14:37.966000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:36.179000" end="0:14:37.966000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	PART	-	0:14:36.179000	0:14:37.966000
 .	-	-	-	0:14:36.179000	0:14:37.966000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:37.966000" end="0:14:39.806000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:37.966000" end="0:14:39.806000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 "einjeder"	-	-	-	0:14:37.966000	0:14:39.046000
 .	-	-	-	0:14:37.966000	0:14:39.046000
 "_aniedr_"	-	-	-	0:14:39.046000	0:14:39.806000
 .	-	-	-	0:14:39.046000	0:14:39.806000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:39.806000" end="0:14:44.132000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:39.806000" end="0:14:44.132000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 im	im	ADP	-	0:14:39.806000	0:14:44.132000
 Zusammenhang	Zusammenhang	NOUN	-	0:14:39.806000	0:14:44.132000
@@ -3370,11 +3370,11 @@ auch	auch	ADV	-	0:14:39.806000	0:14:44.132000
 verstehen	verstehen	VERB	Prog ProgKon tunP	0:14:39.806000	0:14:44.132000
 .	-	-	-	0:14:39.806000	0:14:44.132000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:44.132000" end="0:14:44.732000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:44.132000" end="0:14:44.732000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:44.132000	0:14:44.732000
 .	-	-	-	0:14:44.132000	0:14:44.732000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:44.732000" end="0:14:53.139000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:44.732000" end="0:14:53.139000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	ähm	PROPN	-	0:14:44.732000	0:14:46.926000
 ,	-	-	-	0:14:44.732000	0:14:46.926000
@@ -3403,42 +3403,42 @@ die	der	DET	-	0:14:51.026000	0:14:53.139000
 Wörter	Wort	NOUN	-	0:14:51.026000	0:14:53.139000
 .	-	-	-	0:14:51.026000	0:14:53.139000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:53.139000" end="0:14:53.939000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:53.139000" end="0:14:53.939000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mhm	mhm	PROPN	-	0:14:53.139000	0:14:53.939000
 .	-	-	-	0:14:53.139000	0:14:53.939000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:53.939000" end="0:14:57.199000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:53.939000" end="0:14:57.199000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 die	-	-	-	0:14:53.939000	0:14:57.199000
 "Leite"	-	-	-	0:14:53.939000	0:14:57.199000
 .	-	-	-	0:14:53.939000	0:14:57.199000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:57.199000" end="0:14:58.926000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:57.199000" end="0:14:58.926000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:14:57.199000	0:14:58.926000
 .	-	-	-	0:14:57.199000	0:14:58.926000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:58.926000" end="0:15:02.639000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:14:58.926000" end="0:15:02.639000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 wenn	-	-	-	0:14:58.926000	0:15:02.639000
 ein	-	-	-	0:14:58.926000	0:15:02.639000
 "_steckl_"	-	-	-	0:14:58.926000	0:15:02.639000
 /.	-	-	-	0:14:58.926000	0:15:02.639000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:02.639000" end="0:15:03.599000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:02.639000" end="0:15:03.599000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:15:02.639000	0:15:03.599000
 .	-	-	-	0:15:02.639000	0:15:03.599000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:03.599000" end="0:15:05.712000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:03.599000" end="0:15:05.712000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 an	-	-	-	0:15:03.599000	0:15:05.712000
 der	-	-	-	0:15:03.599000	0:15:05.712000
 "Leite"	-	-	-	0:15:03.599000	0:15:05.712000
 .	-	-	-	0:15:03.599000	0:15:05.712000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:05.712000" end="0:15:11.999000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:05.712000" end="0:15:11.999000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 mei	mei	PROPN	-	0:15:07.432000	0:15:11.146000
 ,	-	-	-	0:15:07.432000	0:15:11.146000
@@ -3449,31 +3449,31 @@ die	-	-	-	0:15:07.432000	0:15:11.146000
 (_Sase_)	-	-	-	0:15:07.432000	0:15:11.146000
 .	-	-	-	0:15:07.432000	0:15:11.146000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:11.999000" end="0:15:12.399000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:11.999000" end="0:15:12.399000" project="PP03" age_lower="18" age_upper="35">
 j=	ja	PART	-	0:15:11.999000	0:15:12.399000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:12.399000" end="0:15:12.806000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:12.399000" end="0:15:12.806000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:15:12.399000	0:15:12.806000
 ?	-	-	-	0:15:12.399000	0:15:12.806000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:12.399000" end="0:15:13.492000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:12.399000" end="0:15:13.492000" project="PP03" age_lower="18" age_upper="35">
 a	-	SPACE	-	0:15:12.399000	0:15:12.806000
 .	-	-	-	0:15:12.399000	0:15:12.806000
 ja	ja	PART	-	0:15:12.806000	0:15:13.492000
 .	-	-	-	0:15:12.806000	0:15:13.492000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:13.492000" end="0:15:18.106000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:13.492000" end="0:15:18.106000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,7s"/>
 „[_Fachtltroger_]S“	-	-	-	0:15:13.492000	0:15:18.106000
 .	-	-	-	0:15:13.492000	0:15:18.106000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:18.106000" end="0:15:19.219000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:18.106000" end="0:15:19.219000" project="PP03" age_lower="18" age_upper="35">
 „[_Fachtltroger_]S“	-	-	-	0:15:18.106000	0:15:19.219000
 .	-	-	-	0:15:18.106000	0:15:19.219000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:19.219000" end="0:15:21.479000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:19.219000" end="0:15:21.479000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:19.912000" end="0:15:25.786000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:19.912000" end="0:15:25.786000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:15:19.912000	0:15:21.479000
 ,	-	-	-	0:15:19.912000	0:15:21.479000
 der	-	-	-	0:15:19.912000	0:15:21.479000
@@ -3486,12 +3486,12 @@ allerweil	-	-	-	0:15:21.479000	0:15:25.786000
 „_Tatte_“	-	-	-	0:15:21.479000	0:15:25.786000
 .	-	-	-	0:15:21.479000	0:15:25.786000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:25.786000" end="0:15:26.526000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:25.786000" end="0:15:26.526000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:15:25.786000	0:15:26.526000
 .	-	-	-	0:15:25.786000	0:15:26.526000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:26.526000" end="0:15:28.432000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:26.526000" end="0:15:28.432000" project="PP03" age_lower="18" age_upper="35">
 ich	-	-	-	0:15:26.526000	0:15:27.432000
 sage	-	-	-	0:15:26.526000	0:15:27.432000
 nicht	-	-	-	0:15:26.526000	0:15:27.432000
@@ -3503,11 +3503,11 @@ meistens	-	-	-	0:15:27.432000	0:15:28.432000
 „_Tatte_“	-	-	-	0:15:27.432000	0:15:28.432000
 .	-	-	-	0:15:27.432000	0:15:28.432000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:28.432000" end="0:15:28.999000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:28.432000" end="0:15:28.999000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:15:28.432000	0:15:28.999000
 .	-	-	-	0:15:28.432000	0:15:28.999000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:28.999000" end="0:15:32.412000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:28.999000" end="0:15:32.412000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 der	-	-	-	0:15:28.999000	0:15:32.412000
 "Nene"	-	-	-	0:15:28.999000	0:15:32.412000
@@ -3516,13 +3516,13 @@ das	-	-	-	0:15:28.999000	0:15:32.412000
 "Naadl"	-	-	-	0:15:28.999000	0:15:32.412000
 .	-	-	-	0:15:28.999000	0:15:32.412000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:32.412000" end="0:15:33.799000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:32.412000" end="0:15:33.799000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 die	-	-	-	0:15:32.412000	0:15:33.799000
 „_Mamme_“	-	-	-	0:15:32.412000	0:15:33.799000
 .	-	-	-	0:15:32.412000	0:15:33.799000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:33.799000" end="0:15:40.332000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:33.799000" end="0:15:40.332000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 die	-	-	-	0:15:33.799000	0:15:34.999000
 „_Mamme_“	-	-	-	0:15:33.799000	0:15:34.999000
@@ -3531,7 +3531,7 @@ die	-	-	-	0:15:33.799000	0:15:34.999000
 ja	ja	PART	-	0:15:34.999000	0:15:40.332000
 .	-	-	-	0:15:34.999000	0:15:40.332000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:40.332000" end="0:15:45.539000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:40.332000" end="0:15:45.539000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 ich	ich	PRON	-	0:15:40.332000	0:15:44.032000
 glaube	glauben	VERB	-	0:15:40.332000	0:15:44.032000
@@ -3545,7 +3545,7 @@ kompliziert	komplizieren	ADJ	-	0:15:44.032000	0:15:45.539000
 denken	denken	VERB	-	0:15:44.032000	0:15:45.539000
 .	-	-	-	0:15:44.032000	0:15:45.539000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:45.539000" end="0:15:50.959000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:45.539000" end="0:15:50.959000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:15:45.539000	0:15:47.206000
 nein	nein	PART	-	0:15:45.539000	0:15:47.206000
 ,	-	-	-	0:15:45.539000	0:15:47.206000
@@ -3558,11 +3558,11 @@ ja	ja	ADV	-	0:15:47.206000	0:15:50.959000
 solche	solche	DET	-	0:15:47.206000	0:15:50.959000
 Sachen	Sache	NOUN	-	0:15:47.206000	0:15:50.959000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:50.959000" end="0:15:51.526000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:50.959000" end="0:15:51.526000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:15:50.959000	0:15:51.526000
 .	-	-	-	0:15:50.959000	0:15:51.526000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:50.959000" end="0:15:54.939000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:50.959000" end="0:15:54.939000" project="PP03" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:15:50.959000	0:15:51.526000
 wir	ich	PRON	-	0:15:50.959000	0:15:51.526000
 halt	halt	ADV	-	0:15:50.959000	0:15:51.526000
@@ -3577,9 +3577,9 @@ das	der	PRON	-	0:15:54.372000	0:15:54.939000
 reicht	reichen	VERB	-	0:15:54.372000	0:15:54.939000
 .	-	-	-	0:15:54.372000	0:15:54.939000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:54.939000" end="0:15:56.392000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:54.939000" end="0:15:56.392000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:56.392000" end="0:16:01.626000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:15:56.392000" end="0:16:01.626000" project="PP03" age_lower="18" age_upper="35">
 stell	stell	ADJ	-	0:15:56.392000	0:16:01.626000
 dir	sich	PRON	-	0:15:56.392000	0:16:01.626000
 vor	vor	ADP	-	0:15:56.392000	0:16:01.626000
@@ -3589,7 +3589,7 @@ fünfzig	fünfzig	NUM	-	0:15:56.392000	0:16:01.626000
 Jahren"	Jahr	NOUN	-	0:15:56.392000	0:16:01.626000
 .	-	-	-	0:15:56.392000	0:16:01.626000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:01.626000" end="0:16:18.019000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:01.626000" end="0:16:18.019000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 ich	ich	PRON	-	0:16:01.626000	0:16:07.439000
 ?	-	-	-	0:16:01.626000	0:16:07.439000
@@ -3620,7 +3620,7 @@ selber	selber	ADV	-	0:16:17.226000	0:16:18.019000
 fahren	fahren	VERB	-	0:16:17.226000	0:16:18.019000
 .	-	-	-	0:16:17.226000	0:16:18.019000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:18.019000" end="0:16:19.612000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:18.019000" end="0:16:19.612000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:18.019000	0:16:19.612000
 ,	-	-	-	0:16:18.019000	0:16:19.612000
 ganz	ganz	ADV	-	0:16:18.019000	0:16:19.612000
@@ -3628,11 +3628,11 @@ sicher	sichern	ADV	-	0:16:18.019000	0:16:19.612000
 sogar	sogar	ADV	-	0:16:18.019000	0:16:19.612000
 .	-	-	-	0:16:18.019000	0:16:19.612000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:19.612000" end="0:16:20.079000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:19.612000" end="0:16:20.079000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:16:19.612000	0:16:20.079000
 .	-	-	-	0:16:19.612000	0:16:20.079000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:20.079000" end="0:16:21.326000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:20.079000" end="0:16:21.326000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:16:20.079000	0:16:21.326000
 bin	sein	AUX	-	0:16:20.079000	0:16:21.326000
 ich	ich	PRON	-	0:16:20.079000	0:16:21.326000
@@ -3641,11 +3641,11 @@ Prozent	Prozent	NOUN	-	0:16:20.079000	0:16:21.326000
 sicher	sichern	ADJ	-	0:16:20.079000	0:16:21.326000
 .	-	-	-	0:16:20.079000	0:16:21.326000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:21.326000" end="0:16:21.792000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:21.326000" end="0:16:21.792000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:21.326000	0:16:21.792000
 .	-	-	-	0:16:21.326000	0:16:21.792000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:21.326000" end="0:16:24.092000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:21.326000" end="0:16:24.092000" project="PP03" age_lower="18" age_upper="35">
 sogar	sogar	ADV	-	0:16:21.326000	0:16:21.792000
 auf	auf	ADP	-	0:16:21.326000	0:16:21.792000
 ,	-	-	-	0:16:21.326000	0:16:21.792000
@@ -3665,7 +3665,7 @@ Jahren	Jahr	NOUN	-	0:16:22.092000	0:16:24.092000
 so	so	ADV	-	0:16:22.092000	0:16:24.092000
 .	-	-	-	0:16:22.092000	0:16:24.092000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:24.092000" end="0:16:27.052000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:24.092000" end="0:16:27.052000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 weniger	wenig	PRON	-	0:16:24.092000	0:16:27.052000
 als	als	CCONJ	-	0:16:24.092000	0:16:27.052000
@@ -3678,23 +3678,23 @@ zehn	zehn	NUM	-	0:16:24.092000	0:16:27.052000
 Jahren	Jahr	NOUN	-	0:16:24.092000	0:16:27.052000
 ?	-	-	-	0:16:24.092000	0:16:27.052000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:27.052000" end="0:16:27.472000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:27.052000" end="0:16:27.472000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:16:27.052000	0:16:27.472000
 glaube	glauben	VERB	-	0:16:27.052000	0:16:27.472000
 we=	wenig	DET	-	0:16:27.052000	0:16:27.472000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:27.472000" end="0:16:28.146000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:27.472000" end="0:16:28.146000" project="PP03" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:16:27.472000	0:16:28.146000
 ?	-	-	-	0:16:27.472000	0:16:28.146000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:27.472000" end="0:16:28.146000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:27.472000" end="0:16:28.146000" project="PP03" age_lower="18" age_upper="35">
 niger	-	SPACE	-	0:16:27.472000	0:16:28.146000
 wie	wie	CCONJ	-	0:16:27.472000	0:16:28.146000
 zehn	zehn	NUM	-	0:16:27.472000	0:16:28.146000
 Jahre	Jahr	NOUN	-	0:16:27.472000	0:16:28.146000
 .	-	-	-	0:16:27.472000	0:16:28.146000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:28.146000" end="0:16:29.726000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:28.146000" end="0:16:29.726000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 da	da	SCONJ	-	0:16:28.146000	0:16:29.726000
 bei	bei	ADP	-	0:16:28.146000	0:16:29.726000
@@ -3705,7 +3705,7 @@ Land	Land	NOUN	-	0:16:28.146000	0:16:29.726000
 auch	auch	ADV	-	0:16:28.146000	0:16:29.726000
 ?	-	-	-	0:16:28.146000	0:16:29.726000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:29.726000" end="0:16:32.046000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:29.726000" end="0:16:32.046000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:29.726000	0:16:30.146000
 .	-	-	-	0:16:29.726000	0:16:30.146000
 <pause duration="1,0s"/>
@@ -3716,11 +3716,11 @@ einmal	einmal	ADV	-	0:16:30.146000	0:16:32.046000
 so	so	ADV	-	0:16:30.146000	0:16:32.046000
 .	-	-	-	0:16:30.146000	0:16:32.046000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:32.046000" end="0:16:32.766000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:32.046000" end="0:16:32.766000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:16:32.046000	0:16:32.766000
 .	-	-	-	0:16:32.046000	0:16:32.766000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:32.766000" end="0:16:44.466000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:32.766000" end="0:16:44.466000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ku/	-	-	-	0:16:32.766000	0:16:37.592000
 weil	weil	SCONJ	-	0:16:32.766000	0:16:37.592000
@@ -3757,27 +3757,27 @@ unter	unter	ADP	-	0:16:43.759000	0:16:44.466000
 zehn	zehn	NUM	-	0:16:43.759000	0:16:44.466000
 Jahren	Jahr	NOUN	-	0:16:43.759000	0:16:44.466000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:44.466000" end="0:16:45.532000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:44.466000" end="0:16:45.532000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ok=	okay	NOUN	-	0:16:44.466000	0:16:45.232000
 ay	-	SPACE	-	0:16:45.232000	0:16:45.532000
 .	-	-	-	0:16:45.232000	0:16:45.532000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:45.232000" end="0:16:45.819000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:45.232000" end="0:16:45.819000" project="PP03" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:16:45.232000	0:16:45.532000
 wir	ich	PRON	-	0:16:45.232000	0:16:45.532000
 gesagt	sagen	VERB	-	0:16:45.532000	0:16:45.819000
 .	-	-	-	0:16:45.532000	0:16:45.819000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:45.819000" end="0:16:48.612000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:45.819000" end="0:16:48.612000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:16:45.819000	0:16:46.506000
 .	-	-	-	0:16:45.819000	0:16:46.506000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:46.506000" end="0:16:48.612000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:46.506000" end="0:16:48.612000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:48.612000" end="0:16:50.606000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:48.612000" end="0:16:50.606000" project="PP03" age_lower="18" age_upper="35">
 (das	der	PRON	-	0:16:48.612000	0:16:49.526000
 wäre	sein	AUX	-	0:16:48.612000	0:16:49.526000
 jetzt	jetzt	ADV	-	0:16:48.612000	0:16:49.526000
@@ -3789,22 +3789,22 @@ fünfzig	fünfzig	NUM	-	0:16:49.526000	0:16:50.606000
 Jahren	Jahr	NOUN	-	0:16:49.526000	0:16:50.606000
 .	-	-	-	0:16:49.526000	0:16:50.606000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:49.526000" end="0:16:50.606000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:49.526000" end="0:16:50.606000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:50.606000" end="0:16:52.172000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:50.606000" end="0:16:52.172000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:52.172000" end="0:16:52.665000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:52.172000" end="0:16:52.665000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:16:52.172000	0:16:52.665000
 ,	-	-	-	0:16:52.172000	0:16:52.665000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:52.665000" end="0:16:53.346000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:52.665000" end="0:16:53.346000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:16:52.665000	0:16:53.346000
 .	-	-	-	0:16:52.665000	0:16:53.346000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:52.665000" end="0:16:53.346000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:52.665000" end="0:16:53.346000" project="PP03" age_lower="18" age_upper="35">
 (es/.)	-	-	-	0:16:52.665000	0:16:53.346000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:53.346000" end="0:16:59.332000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:53.346000" end="0:16:59.332000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	ja	ADV	-	0:16:53.346000	0:16:57.566000
 NAME	NAME	PROPN	-	0:16:53.346000	0:16:57.566000
@@ -3815,7 +3815,7 @@ oder	oder	CCONJ	-	0:16:53.346000	0:16:57.566000
 wie	wie	ADV	-	0:16:53.346000	0:16:57.566000
 .	-	-	-	0:16:53.346000	0:16:57.566000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:57.566000" end="0:17:02.672000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:16:57.566000" end="0:17:02.672000" project="PP03" age_lower="18" age_upper="35">
 (in	-	-	-	0:16:57.566000	0:16:59.332000
 hundert	-	-	-	0:16:57.566000	0:16:59.332000
 Jahren)	-	-	-	0:16:57.566000	0:16:59.332000
@@ -3834,7 +3834,7 @@ ich	ich	PRON	-	0:17:02.052000	0:17:02.672000
 nicht	nicht	PART	-	0:17:02.052000	0:17:02.672000
 .	-	-	-	0:17:02.052000	0:17:02.672000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:02.672000" end="0:17:06.132000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:02.672000" end="0:17:06.132000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ah	ah	X	-	0:17:02.672000	0:17:06.132000
 ,	-	-	-	0:17:02.672000	0:17:06.132000
@@ -3846,18 +3846,18 @@ Jahre	Jahr	NOUN	-	0:17:02.672000	0:17:06.132000
 Entschuldigung	Entschuldigung	NOUN	-	0:17:02.672000	0:17:06.132000
 .	-	-	-	0:17:02.672000	0:17:06.132000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:06.132000" end="0:17:07.259000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:06.132000" end="0:17:07.259000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 gewesen	sein	AUX	-	0:17:06.132000	0:17:07.259000
 .	-	-	-	0:17:06.132000	0:17:07.259000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:07.259000" end="0:17:09.319000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:07.259000" end="0:17:09.319000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ach	ach	X	-	0:17:07.259000	0:17:09.319000
 ja	ja	PART	-	0:17:07.259000	0:17:09.319000
 .	-	-	-	0:17:07.259000	0:17:09.319000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:09.319000" end="0:17:10.919000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:09.319000" end="0:17:10.919000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:17:09.319000	0:17:10.137000
 bin	sein	AUX	-	0:17:09.319000	0:17:10.137000
 in	in	ADP	-	0:17:09.319000	0:17:10.137000
@@ -3870,9 +3870,9 @@ _oft_	-	-	-	0:17:10.137000	0:17:10.919000
 gewesen	-	-	-	0:17:10.137000	0:17:10.919000
 .	-	-	-	0:17:10.137000	0:17:10.919000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:10.919000" end="0:17:13.219000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:10.919000" end="0:17:13.219000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:10.919000" end="0:17:13.219000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:10.919000" end="0:17:13.219000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 nein	nein	PART	-	0:17:10.919000	0:17:13.219000
 ,	-	-	-	0:17:10.919000	0:17:13.219000
@@ -3882,7 +3882,7 @@ keine	kein	DET	-	0:17:10.919000	0:17:13.219000
 Ambitionen	Ambition	NOUN	-	0:17:10.919000	0:17:13.219000
 .	-	-	-	0:17:10.919000	0:17:13.219000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:13.219000" end="0:17:27.185000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:13.219000" end="0:17:27.185000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	PROPN	-	0:17:14.199000	0:17:15.352000
 .	-	-	-	0:17:14.199000	0:17:15.352000
@@ -3905,12 +3905,12 @@ haben	haben	AUX	-	0:17:24.719000	0:17:27.185000
 als	als	CCONJ	-	0:17:24.719000	0:17:27.185000
 wie	wie	CCONJ	-	0:17:24.719000	0:17:27.185000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:27.185000" end="0:17:28.286000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:27.185000" end="0:17:28.286000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 achso	achso	NOUN	-	0:17:27.185000	0:17:28.286000
 .	-	-	-	0:17:27.185000	0:17:28.286000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:28.286000" end="0:17:30.952000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:28.286000" end="0:17:30.952000" project="PP03" age_lower="18" age_upper="35">
 momentan	momentan	ADJ	-	0:17:28.286000	0:17:28.899000
 .	-	-	-	0:17:28.286000	0:17:28.899000
 <pause duration="1,3s"/>
@@ -3919,7 +3919,7 @@ ja	ja	ADV	-	0:17:28.899000	0:17:30.952000
 die/	-	-	-	0:17:28.899000	0:17:30.952000
 .	-	-	-	0:17:28.899000	0:17:30.952000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:28.899000" end="0:17:32.726000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:28.899000" end="0:17:32.726000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 also	also	ADV	-	0:17:28.899000	0:17:30.952000
 <pause duration="0,5s"/>
@@ -3931,11 +3931,11 @@ wieder	wieder	ADV	-	0:17:30.952000	0:17:32.726000
 wachsen	wachsen	VERB	-	0:17:30.952000	0:17:32.726000
 ?	-	-	-	0:17:30.952000	0:17:32.726000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:32.726000" end="0:17:33.226000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:32.726000" end="0:17:33.226000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:32.726000	0:17:33.226000
 .	-	-	-	0:17:32.726000	0:17:33.226000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:33.226000" end="0:17:39.352000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:33.226000" end="0:17:39.352000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:17:33.226000	0:17:34.106000
 ja	ja	PART	-	0:17:33.226000	0:17:34.106000
 ,	-	-	-	0:17:33.226000	0:17:34.106000
@@ -3956,11 +3956,11 @@ meinst	meinen	PROPN	-	0:17:38.966000	0:17:39.352000
 du	du	PRON	-	0:17:38.966000	0:17:39.352000
 ?	-	-	-	0:17:38.966000	0:17:39.352000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:39.352000" end="0:17:39.646000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:39.352000" end="0:17:39.646000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:39.352000	0:17:39.646000
 .	-	-	-	0:17:39.352000	0:17:39.646000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:39.646000" end="0:17:41.619000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:39.646000" end="0:17:41.619000" project="PP03" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:17:39.646000	0:17:41.619000
 das	der	PRON	-	0:17:39.646000	0:17:41.619000
 dass	dass	SCONJ	-	0:17:39.646000	0:17:41.619000
@@ -3970,21 +3970,21 @@ wieder	wieder	ADV	-	0:17:39.646000	0:17:41.619000
 kälter	kalt	ADJ	-	0:17:39.646000	0:17:41.619000
 i=	sein	AUX	-	0:17:39.646000	0:17:41.619000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:41.619000" end="0:17:41.892000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:41.619000" end="0:17:41.892000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:41.619000	0:17:41.892000
 .	-	-	-	0:17:41.619000	0:17:41.892000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:41.619000" end="0:17:42.252000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:41.619000" end="0:17:42.252000" project="PP03" age_lower="18" age_upper="35">
 st	-	SPACE	-	0:17:41.619000	0:17:41.892000
 wie	wie	CCONJ	-	0:17:41.619000	0:17:41.892000
 heute	heute	ADV	-	0:17:41.892000	0:17:42.252000
 ?	-	-	-	0:17:41.892000	0:17:42.252000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:42.252000" end="0:17:42.812000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:42.252000" end="0:17:42.812000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:17:42.252000	0:17:42.812000
 .	-	-	-	0:17:42.252000	0:17:42.812000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:42.812000" end="0:17:45.039000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:42.812000" end="0:17:45.039000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 fünfzig	fünfzig	NUM	-	0:17:42.812000	0:17:43.959000
 Jahren	Jahr	NOUN	-	0:17:42.812000	0:17:43.959000
@@ -3996,7 +3996,7 @@ schon	schon	ADV	-	0:17:43.959000	0:17:45.039000
 sein	mein	AUX	-	0:17:43.959000	0:17:45.039000
 .	-	-	-	0:17:43.959000	0:17:45.039000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:45.039000" end="0:17:47.699000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:45.039000" end="0:17:47.699000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 was	was	PRON	-	0:17:45.039000	0:17:46.619000
 wäre	sein	AUX	-	0:17:45.039000	0:17:46.619000
@@ -4009,7 +4009,7 @@ einmal	einmal	ADV	-	0:17:46.619000	0:17:47.699000
 was	was	PRON	-	0:17:46.619000	0:17:47.699000
 .	-	-	-	0:17:46.619000	0:17:47.699000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:47.699000" end="0:17:51.012000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:47.699000" end="0:17:51.012000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	ähm	PROPN	-	0:17:47.699000	0:17:49.839000
 ,	-	-	-	0:17:47.699000	0:17:49.839000
@@ -4025,9 +4025,9 @@ fünfzig	fünfzig	NUM	-	0:17:49.839000	0:17:51.012000
 Jahren	Jahr	NOUN	-	0:17:49.839000	0:17:51.012000
 .	-	-	-	0:17:49.839000	0:17:51.012000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:51.012000" end="0:17:52.332000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:51.012000" end="0:17:52.332000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:52.332000" end="0:17:56.926000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:52.332000" end="0:17:56.926000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:17:52.332000	0:17:54.172000
 denke	denken	VERB	-	0:17:52.332000	0:17:54.172000
 zuerst	zuerst	ADV	-	0:17:52.332000	0:17:54.172000
@@ -4045,19 +4045,19 @@ achteinhalb	achteinhalb	ADJ	-	0:17:54.172000	0:17:56.926000
 Millionen	Million	NOUN	-	0:17:54.172000	0:17:56.926000
 Einwohn=	Einwohner	NOUN	-	0:17:54.172000	0:17:56.926000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:56.926000" end="0:17:57.252000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:56.926000" end="0:17:57.252000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:17:56.926000	0:17:57.252000
 .	-	-	-	0:17:56.926000	0:17:57.252000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:56.926000" end="0:17:57.252000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:56.926000" end="0:17:57.252000" project="PP03" age_lower="18" age_upper="35">
 er	-	SPACE	-	0:17:56.926000	0:17:57.252000
 ,	-	-	-	0:17:56.926000	0:17:57.252000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:57.252000" end="0:17:57.599000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:57.252000" end="0:17:57.599000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:17:57.252000	0:17:57.599000
 .	-	-	-	0:17:57.252000	0:17:57.599000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:57.599000" end="0:17:58.866000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:57.599000" end="0:17:58.866000" project="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:17:57.599000	0:17:58.866000
 viele	-	-	-	0:17:57.599000	0:17:58.866000
 Einwohner	-	-	-	0:17:57.599000	0:17:58.866000
@@ -4067,24 +4067,24 @@ _oft_	-	-	-	0:17:57.599000	0:17:58.866000
 haben	-	-	-	0:17:57.599000	0:17:58.866000
 ?	-	-	-	0:17:57.599000	0:17:58.866000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:58.866000" end="0:18:03.392000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:58.866000" end="0:18:03.392000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 wie/	-	-	-	0:17:58.866000	0:18:03.392000
 .	-	-	-	0:17:58.866000	0:18:03.392000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:58.866000" end="0:18:03.392000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:17:58.866000" end="0:18:03.392000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 verdoppelt	verdoppeln	VERB	-	0:17:58.866000	0:18:03.392000
 .	-	-	-	0:17:58.866000	0:18:03.392000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:03.392000" end="0:18:04.966000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:03.392000" end="0:18:04.966000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 doppelt	doppeln	ADJ	-	0:18:03.392000	0:18:04.966000
 ,	-	-	-	0:18:03.392000	0:18:04.966000
 schon	schon	ADV	-	0:18:03.392000	0:18:04.966000
 ?	-	-	-	0:18:03.392000	0:18:04.966000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:04.966000" end="0:18:06.046000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:04.966000" end="0:18:06.046000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:18:04.966000	0:18:06.046000
 ich	ich	PRON	-	0:18:04.966000	0:18:06.046000
 weiß	weiß	VERB	-	0:18:04.966000	0:18:06.046000
@@ -4092,7 +4092,7 @@ es	ich	PRON	-	0:18:04.966000	0:18:06.046000
 nicht	nicht	PART	-	0:18:04.966000	0:18:06.046000
 .	-	-	-	0:18:04.966000	0:18:06.046000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:06.046000" end="0:18:09.412000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:06.046000" end="0:18:09.412000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:18:06.046000	0:18:06.946000
 ,	-	-	-	0:18:06.046000	0:18:06.946000
 glaube	glauben	VERB	-	0:18:06.046000	0:18:06.946000
@@ -4106,7 +4106,7 @@ die	der	DET	-	0:18:06.946000	0:18:08.952000
 ganzen	ganz	ADJ	-	0:18:06.946000	0:18:08.952000
 Asylanten	zenAsylanten	ADJ	-	0:18:08.952000	0:18:09.412000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:08.952000" end="0:18:10.439000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:08.952000" end="0:18:10.439000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:18:08.952000	0:18:09.412000
 ,	-	-	-	0:18:08.952000	0:18:09.412000
 do=	doppeln	ADJ	-	0:18:08.952000	0:18:09.412000
@@ -4118,14 +4118,14 @@ gell	gell	ADJ	-	0:18:09.412000	0:18:10.059000
 ,	-	-	-	0:18:09.412000	0:18:10.059000
 aber	aber	CCONJ	-	0:18:10.059000	0:18:10.439000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:10.439000" end="0:18:13.506000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:10.439000" end="0:18:13.506000" project="PP03" age_lower="18" age_upper="35">
 Asylanten	Asylant	NOUN	-	0:18:10.439000	0:18:13.506000
 ,	-	-	-	0:18:10.439000	0:18:13.506000
 was	was	PRON	-	0:18:10.439000	0:18:13.506000
 k/	-	-	-	0:18:10.439000	0:18:13.506000
 .	-	-	-	0:18:10.439000	0:18:13.506000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:10.439000" end="0:18:13.506000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:10.439000" end="0:18:13.506000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:18:10.439000	0:18:13.506000
 glaube	glauben	VERB	-	0:18:10.439000	0:18:13.506000
 ,	-	-	-	0:18:10.439000	0:18:13.506000
@@ -4138,7 +4138,7 @@ weniger	wenig	ADV	-	0:18:10.439000	0:18:13.506000
 nicht	nicht	PART	-	0:18:10.439000	0:18:13.506000
 ?	-	-	-	0:18:10.439000	0:18:13.506000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:13.506000" end="0:18:15.112000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:13.506000" end="0:18:15.112000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:18:13.506000	0:18:15.112000
 mehr	mehr	PRON	-	0:18:13.506000	0:18:15.112000
@@ -4148,17 +4148,17 @@ schon	schon	ADV	-	0:18:13.506000	0:18:15.112000
 werden	werden	AUX	-	0:18:13.506000	0:18:15.112000
 .	-	-	-	0:18:13.506000	0:18:15.112000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:15.112000" end="0:18:15.572000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:15.112000" end="0:18:15.572000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:15.112000	0:18:15.572000
 ,	-	-	-	0:18:15.112000	0:18:15.572000
 also	also	ADV	-	0:18:15.112000	0:18:15.572000
 we=	wenig	ADV	-	0:18:15.112000	0:18:15.572000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:15.572000" end="0:18:16.192000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:15.572000" end="0:18:16.192000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:15.572000	0:18:16.192000
 .	-	-	-	0:18:15.572000	0:18:16.192000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:15.572000" end="0:18:16.452000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:15.572000" end="0:18:16.452000" project="PP03" age_lower="18" age_upper="35">
 niger	-	SPACE	-	0:18:15.572000	0:18:16.192000
 werden	werden	AUX	-	0:18:15.572000	0:18:16.192000
 wir	ich	PRON	-	0:18:15.572000	0:18:16.192000
@@ -4168,11 +4168,11 @@ denke	denken	VERB	-	0:18:16.192000	0:18:16.452000
 ich	ich	PRON	-	0:18:16.192000	0:18:16.452000
 .	-	-	-	0:18:16.192000	0:18:16.452000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:16.452000" end="0:18:16.712000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:16.452000" end="0:18:16.712000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:18:16.452000	0:18:16.712000
 .	-	-	-	0:18:16.452000	0:18:16.712000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:16.712000" end="0:18:31.579000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:16.712000" end="0:18:31.579000" project="PP03" age_lower="18" age_upper="35">
 _oft_	-	-	-	0:18:16.712000	0:18:21.639000
 sagen	-	-	-	0:18:16.712000	0:18:21.639000
 wir	-	-	-	0:18:16.712000	0:18:21.639000
@@ -4213,7 +4213,7 @@ fünfundzwanzig	-	-	-	0:18:26.512000	0:18:31.579000
 Millionen	-	-	-	0:18:26.512000	0:18:31.579000
 .	-	-	-	0:18:26.512000	0:18:31.579000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:31.579000" end="0:18:35.906000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:31.579000" end="0:18:35.906000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 boa	boa	X	-	0:18:31.579000	0:18:33.606000
 ,	-	-	-	0:18:31.579000	0:18:33.606000
@@ -4223,16 +4223,16 @@ viel	viel	PRON	-	0:18:31.579000	0:18:33.606000
 .	-	-	-	0:18:31.579000	0:18:33.606000
 ähm	ähm	X	-	0:18:35.612000	0:18:35.906000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:35.612000" end="0:18:35.906000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:35.612000" end="0:18:35.906000" project="PP03" age_lower="18" age_upper="35">
 (ich	ich	PRON	-	0:18:35.612000	0:18:35.906000
 glaube)	glauben	VERB	-	0:18:35.612000	0:18:35.906000
 ,	-	-	-	0:18:35.612000	0:18:35.906000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:35.906000" end="0:18:36.392000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:35.906000" end="0:18:36.392000" project="PP03" age_lower="18" age_upper="35">
 hm	hm	X	-	0:18:35.906000	0:18:36.392000
 .	-	-	-	0:18:35.906000	0:18:36.392000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:35.906000" end="0:18:39.959000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:35.906000" end="0:18:39.959000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:18:35.906000	0:18:36.392000
 müssen	müssen	VERB	-	0:18:35.906000	0:18:36.392000
 wir	ich	PRON	-	0:18:35.906000	0:18:36.392000
@@ -4249,12 +4249,12 @@ hunderttausend	hunderttausend	NUM	-	0:18:37.979000	0:18:39.959000
 dazu	dazu	ADV	-	0:18:37.979000	0:18:39.959000
 .	-	-	-	0:18:37.979000	0:18:39.959000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:39.959000" end="0:18:41.379000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:39.959000" end="0:18:41.379000" project="PP03" age_lower="18" age_upper="35">
 hunderttausend	hunderttausend	NUM	-	0:18:39.959000	0:18:41.379000
 mal/	-	-	-	0:18:39.959000	0:18:41.379000
 .	-	-	-	0:18:39.959000	0:18:41.379000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:41.379000" end="0:18:45.072000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:41.379000" end="0:18:45.072000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 auf	auf	ADP	-	0:18:41.379000	0:18:44.606000
 das	der	DET	-	0:18:41.379000	0:18:44.606000
@@ -4271,22 +4271,22 @@ mehr	mehr	ADV	-	0:18:41.379000	0:18:44.606000
 ja	ja	ADV	-	0:18:44.606000	0:18:45.072000
 das	der	PRON	-	0:18:44.606000	0:18:45.072000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:45.072000" end="0:18:45.692000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:45.072000" end="0:18:45.692000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:45.072000	0:18:45.692000
 .	-	-	-	0:18:45.072000	0:18:45.692000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:45.072000" end="0:18:45.692000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:45.072000" end="0:18:45.692000" project="PP03" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:18:45.072000	0:18:45.692000
 möglich	möglich	ADJ	-	0:18:45.072000	0:18:45.692000
 .	-	-	-	0:18:45.072000	0:18:45.692000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:45.692000" end="0:18:47.166000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:45.692000" end="0:18:47.166000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 dreizehn	dreizehn	NUM	-	0:18:45.692000	0:18:46.692000
 Millionen	Million	NOUN	-	0:18:46.692000	0:18:47.166000
 .	-	-	-	0:18:46.692000	0:18:47.166000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:47.166000" end="0:18:48.386000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:47.166000" end="0:18:48.386000" project="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:18:47.166000	0:18:48.386000
 dreizehn	-	-	-	0:18:47.166000	0:18:48.386000
 ,	-	-	-	0:18:47.166000	0:18:48.386000
@@ -4297,11 +4297,11 @@ schon	schon	ADV	-	0:18:47.166000	0:18:48.386000
 sein	mein	AUX	-	0:18:47.166000	0:18:48.386000
 ,	-	-	-	0:18:47.166000	0:18:48.386000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:48.386000" end="0:18:48.826000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:48.386000" end="0:18:48.826000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:48.386000	0:18:48.826000
 .	-	-	-	0:18:48.386000	0:18:48.826000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:48.386000" end="0:18:52.279000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:48.386000" end="0:18:52.279000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:48.386000	0:18:48.826000
 .	-	-	-	0:18:48.386000	0:18:48.826000
 <pause duration="2,0s"/>
@@ -4313,7 +4313,7 @@ in	in	ADP	-	0:18:48.826000	0:18:52.279000
 Österreich	Österreich	PROPN	-	0:18:48.826000	0:18:52.279000
 .	-	-	-	0:18:48.826000	0:18:52.279000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:52.279000" end="0:18:53.966000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:52.279000" end="0:18:53.966000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 das	der	PRON	-	0:18:52.279000	0:18:53.966000
 ist	sein	AUX	-	0:18:52.279000	0:18:53.966000
@@ -4322,9 +4322,9 @@ andere	ander	ADJ	-	0:18:52.279000	0:18:53.966000
 Frage	Frage	NOUN	-	0:18:52.279000	0:18:53.966000
 .	-	-	-	0:18:52.279000	0:18:53.966000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:53.966000" end="0:18:54.926000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:53.966000" end="0:18:54.926000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:54.926000" end="0:18:57.292000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:54.926000" end="0:18:57.292000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 aber	aber	CCONJ	-	0:18:54.926000	0:18:57.292000
 älter	alt	ADJ	-	0:18:54.926000	0:18:57.292000
@@ -4334,7 +4334,7 @@ werden	werden	AUX	-	0:18:54.926000	0:18:57.292000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:18:54.926000	0:18:57.292000
 .	-	-	-	0:18:54.926000	0:18:57.292000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:57.292000" end="0:19:00.472000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:18:57.292000" end="0:19:00.472000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 älter	alt	ADJ	-	0:18:57.292000	0:19:00.472000
 werden	werden	AUX	-	0:18:57.292000	0:19:00.472000
@@ -4344,7 +4344,7 @@ werden	werden	AUX	-	0:18:57.292000	0:19:00.472000
 ja	ja	PART	-	0:18:57.292000	0:19:00.472000
 .	-	-	-	0:18:57.292000	0:19:00.472000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:00.472000" end="0:19:05.019000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:00.472000" end="0:19:05.019000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 länger	lang	ADJ	-	0:19:00.472000	0:19:03.666000
 arbeiten	arbeiten	VERB	-	0:19:00.472000	0:19:03.666000
@@ -4353,7 +4353,7 @@ wir	ich	PRON	-	0:19:00.472000	0:19:03.666000
 müssen	müssen	VERB	-	0:19:00.472000	0:19:03.666000
 .	-	-	-	0:19:00.472000	0:19:03.666000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:05.019000" end="0:19:10.652000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:05.019000" end="0:19:10.652000" project="PP03" age_lower="18" age_upper="35">
 wahrscheinlich	wahrscheinlich	ADJ	-	0:19:05.019000	0:19:06.579000
 auch	auch	ADV	-	0:19:05.019000	0:19:06.579000
 das	der	PRON	-	0:19:05.019000	0:19:06.579000
@@ -4373,7 +4373,7 @@ arbeiten	arbeiten	VERB	-	0:19:06.579000	0:19:10.652000
 nicht	nicht	PART	-	0:19:06.579000	0:19:10.652000
 .	-	-	-	0:19:06.579000	0:19:10.652000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:10.652000" end="0:19:12.586000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:10.652000" end="0:19:12.586000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 gar	gar	ADV	-	0:19:10.652000	0:19:12.586000
 nicht	nicht	PART	-	0:19:10.652000	0:19:12.586000
@@ -4381,7 +4381,7 @@ mehr	mehr	ADV	-	0:19:10.652000	0:19:12.586000
 arbeiten	arbeiten	VERB	-	0:19:10.652000	0:19:12.586000
 .	-	-	-	0:19:10.652000	0:19:12.586000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:10.652000" end="0:19:13.772000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:10.652000" end="0:19:13.772000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 es	ich	PRON	-	0:19:10.652000	0:19:12.586000
 gibt	geben	VERB	-	0:19:10.652000	0:19:12.586000
@@ -4391,12 +4391,12 @@ lose	-	SPACE	-	0:19:12.586000	0:19:13.772000
 Grundeinkommen	Grundeinkommen	PROPN	-	0:19:12.586000	0:19:13.772000
 .	-	-	-	0:19:12.586000	0:19:13.772000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:13.772000" end="0:19:14.692000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:13.772000" end="0:19:14.692000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 okay	okay	NOUN	-	0:19:13.772000	0:19:14.692000
 .	-	-	-	0:19:13.772000	0:19:14.692000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:14.692000" end="0:19:31.325000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:14.692000" end="0:19:31.325000" project="PP03" age_lower="18" age_upper="35">
 jeder	jed	PRON	-	0:19:14.692000	0:19:17.799000
 ,	-	-	-	0:19:14.692000	0:19:17.799000
 <pause duration="0,6s"/>
@@ -4447,7 +4447,7 @@ dann	dann	ADV	-	0:19:29.919000	0:19:31.325000
 sein	mein	AUX	-	0:19:29.919000	0:19:31.325000
 .	-	-	-	0:19:29.919000	0:19:31.325000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:31.325000" end="0:19:32.972000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:31.325000" end="0:19:32.972000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:19:31.325000	0:19:32.972000
 woher	woher	ADV	-	0:19:31.325000	0:19:32.972000
 nimmt	nehmen	VERB	-	0:19:31.325000	0:19:32.972000
@@ -4457,7 +4457,7 @@ das	der	DET	-	0:19:31.325000	0:19:32.972000
 Geld	Geld	NOUN	-	0:19:31.325000	0:19:32.972000
 ?	-	-	-	0:19:31.325000	0:19:32.972000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:32.972000" end="0:19:36.959000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:32.972000" end="0:19:36.959000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 ja	ja	PART	-	0:19:32.972000	0:19:36.959000
 wir	ich	PRON	-	0:19:32.972000	0:19:36.959000
@@ -4468,7 +4468,7 @@ viel	viel	DET	-	0:19:32.972000	0:19:36.959000
 Geld	Geld	NOUN	-	0:19:32.972000	0:19:36.959000
 .	-	-	-	0:19:32.972000	0:19:36.959000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:36.959000" end="0:19:38.839000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:36.959000" end="0:19:38.839000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 achso	achso	NOUN	-	0:19:36.959000	0:19:37.832000
 .	-	-	-	0:19:36.959000	0:19:37.832000
@@ -4478,7 +4478,7 @@ ah	ah	X	-	0:19:37.832000	0:19:38.839000
 okay	okay	NOUN	-	0:19:37.832000	0:19:38.839000
 .	-	-	-	0:19:37.832000	0:19:38.839000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:38.839000" end="0:19:43.239000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:38.839000" end="0:19:43.239000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 w/	-	-	-	0:19:38.839000	0:19:43.239000
 weil	weil	SCONJ	-	0:19:38.839000	0:19:43.239000
@@ -4492,20 +4492,20 @@ Förderungen	Förderungen	NOUN	-	0:19:38.839000	0:19:43.239000
 nicht	nicht	PART	-	0:19:38.839000	0:19:43.239000
 ?	-	-	-	0:19:38.839000	0:19:43.239000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:43.239000" end="0:19:43.619000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:43.239000" end="0:19:43.619000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:19:43.239000	0:19:43.619000
 .	-	-	-	0:19:43.239000	0:19:43.619000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:43.619000" end="0:19:45.819000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:43.619000" end="0:19:45.819000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 Kinderbeihilfe	Kinderbeihilfe	NOUN	-	0:19:43.619000	0:19:45.819000
 .	-	-	-	0:19:43.619000	0:19:45.819000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:45.819000" end="0:19:46.265000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:45.819000" end="0:19:46.265000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:19:45.819000	0:19:46.265000
 .	-	-	-	0:19:45.819000	0:19:46.265000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:46.265000" end="0:19:53.452000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:46.265000" end="0:19:53.452000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 die	der	DET	-	0:19:46.265000	0:19:53.452000
 ganzen	ganz	ADJ	-	0:19:46.265000	0:19:53.452000
@@ -4522,12 +4522,12 @@ ganzen	ganz	ADJ	-	0:19:46.265000	0:19:53.452000
 Pensionen	Pension	NOUN	-	0:19:46.265000	0:19:53.452000
 .	-	-	-	0:19:46.265000	0:19:53.452000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:53.452000" end="0:19:54.332000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:53.452000" end="0:19:54.332000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 mhm	mhm	PROPN	-	0:19:53.452000	0:19:54.332000
 .	-	-	-	0:19:53.452000	0:19:54.332000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:54.332000" end="0:19:57.245000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:54.332000" end="0:19:57.245000" project="PP03" age_lower="18" age_upper="35">
 Pensionen	Pension	NOUN	-	0:19:54.332000	0:19:55.845000
 ,	-	-	-	0:19:54.332000	0:19:55.845000
 wo	wo	ADV	-	0:19:54.332000	0:19:55.845000
@@ -4544,25 +4544,25 @@ das	der	PRON	-	0:19:55.845000	0:19:57.245000
 schon	schon	ADV	-	0:19:55.845000	0:19:57.245000
 .	-	-	-	0:19:55.845000	0:19:57.245000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:57.245000" end="0:19:58.692000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:57.245000" end="0:19:58.692000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:19:57.245000	0:19:58.025000
 .	-	-	-	0:19:57.245000	0:19:58.025000
 und	und	CCONJ	-	0:19:58.025000	0:19:58.692000
 die	der	DET	-	0:19:58.025000	0:19:58.692000
 Ro=	Roboter	NOUN	-	0:19:58.025000	0:19:58.692000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:58.025000" end="0:19:58.692000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:58.025000" end="0:19:58.692000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:19:58.025000	0:19:58.692000
 ?	-	-	-	0:19:58.025000	0:19:58.692000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:58.692000" end="0:19:59.672000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:58.692000" end="0:19:59.672000" project="PP03" age_lower="18" age_upper="35">
 boter	-	SPACE	-	0:19:58.692000	0:19:59.672000
 machen	machen	VERB	-	0:19:58.692000	0:19:59.672000
 die	der	DET	-	0:19:58.692000	0:19:59.672000
 Arbeit	Arbeit	NOUN	-	0:19:58.692000	0:19:59.672000
 .	-	-	-	0:19:58.692000	0:19:59.672000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:59.672000" end="0:20:01.752000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:19:59.672000" end="0:20:01.752000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:19:59.672000	0:20:01.752000
 die	der	DET	-	0:19:59.672000	0:20:01.752000
@@ -4571,9 +4571,9 @@ machen	machen	VERB	-	0:19:59.672000	0:20:01.752000
 die	der	DET	-	0:19:59.672000	0:20:01.752000
 Arbeit	Arbeit	NOUN	-	0:19:59.672000	0:20:01.752000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:01.752000" end="0:20:02.519000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:01.752000" end="0:20:02.519000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:02.519000" end="0:20:08.852000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:02.519000" end="0:20:08.852000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:20:02.519000	0:20:08.852000
 der	der	DET	-	0:20:02.519000	0:20:08.852000
 Mensch	Mensch	NOUN	-	0:20:02.519000	0:20:08.852000
@@ -4590,11 +4590,11 @@ Projekte	Projekt	NOUN	-	0:20:02.519000	0:20:08.852000
 begleiten	begleiten	VERB	-	0:20:02.519000	0:20:08.852000
 .	-	-	-	0:20:02.519000	0:20:08.852000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:08.852000" end="0:20:09.525000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:08.852000" end="0:20:09.525000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:20:08.852000	0:20:09.525000
 .	-	-	-	0:20:08.852000	0:20:09.525000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:09.525000" end="0:20:13.152000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:09.525000" end="0:20:13.152000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:20:09.525000	0:20:10.752000
 stelle	stelle	VERB	-	0:20:09.525000	0:20:10.752000
 ich	ich	PRON	-	0:20:09.525000	0:20:10.752000
@@ -4611,28 +4611,28 @@ jeder	jed	PRON	-	0:20:10.752000	0:20:13.152000
 ist	sein	AUX	-	0:20:10.752000	0:20:13.152000
 ein	einen	DET	-	0:20:10.752000	0:20:13.152000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:13.152000" end="0:20:14.312000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:13.152000" end="0:20:14.312000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ein	einen	DET	-	0:20:13.152000	0:20:14.312000
 Projekt	Projekt	NOUN	-	0:20:13.152000	0:20:14.312000
 .	-	-	-	0:20:13.152000	0:20:14.312000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:13.152000" end="0:20:14.312000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:13.152000" end="0:20:14.312000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ein	einen	DET	-	0:20:13.152000	0:20:14.312000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:14.312000" end="0:20:15.572000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:14.312000" end="0:20:15.572000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:14.312000" end="0:20:15.572000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:14.312000" end="0:20:15.572000" project="PP03" age_lower="18" age_upper="35">
 ein	einen	DET	-	0:20:14.312000	0:20:15.572000
 Projektarbeiter	Projektarbeiter	NOUN	-	0:20:14.312000	0:20:15.572000
 .	-	-	-	0:20:14.312000	0:20:15.572000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:15.572000" end="0:20:16.085000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:15.572000" end="0:20:16.085000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:15.572000	0:20:16.085000
 .	-	-	-	0:20:15.572000	0:20:16.085000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:16.085000" end="0:20:27.305000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:16.085000" end="0:20:27.305000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:20:16.085000	0:20:16.912000
 heißt	heißen	VERB	-	0:20:16.085000	0:20:16.912000
@@ -4684,11 +4684,11 @@ m/	-	-	-	0:20:26.492000	0:20:27.305000
 mit	mit	ADP	-	0:20:26.492000	0:20:27.305000
 der	der	DET	-	0:20:26.492000	0:20:27.305000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:27.305000" end="0:20:27.705000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:27.305000" end="0:20:27.705000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:27.305000	0:20:27.705000
 .	-	-	-	0:20:27.305000	0:20:27.705000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:27.305000" end="0:20:28.652000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:27.305000" end="0:20:28.652000" project="PP03" age_lower="18" age_upper="35">
 Quali=	Qualifikation	NOUN	-	0:20:27.305000	0:20:27.705000
 fikation	-	SPACE	-	0:20:27.705000	0:20:28.652000
 ,	-	-	-	0:20:27.705000	0:20:28.652000
@@ -4696,11 +4696,11 @@ was	was	PRON	-	0:20:27.705000	0:20:28.652000
 man	man	PRON	-	0:20:27.705000	0:20:28.652000
 halt	halt	ADV	-	0:20:27.705000	0:20:28.652000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:28.652000" end="0:20:29.032000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:28.652000" end="0:20:29.032000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:28.652000	0:20:29.032000
 .	-	-	-	0:20:28.652000	0:20:29.032000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:28.652000" end="0:20:37.792000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:28.652000" end="0:20:37.792000" project="PP03" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:20:28.652000	0:20:29.032000
 .	-	-	-	0:20:28.652000	0:20:29.032000
 <pause duration="2,3s"/>
@@ -4723,7 +4723,7 @@ wieder	-	-	-	0:20:33.985000	0:20:37.792000
 fertig	-	-	-	0:20:33.985000	0:20:37.792000
 .	-	-	-	0:20:33.985000	0:20:37.792000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:37.792000" end="0:20:41.972000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:37.792000" end="0:20:41.972000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 okay	okay	NOUN	-	0:20:37.792000	0:20:38.805000
 .	-	-	-	0:20:37.792000	0:20:38.805000
@@ -4731,13 +4731,13 @@ okay	okay	NOUN	-	0:20:37.792000	0:20:38.805000
 interessant	interessant	ADJ	-	0:20:40.959000	0:20:41.972000
 .	-	-	-	0:20:40.959000	0:20:41.972000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:40.959000" end="0:20:41.972000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:40.959000" end="0:20:41.972000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:20:40.959000	0:20:41.972000
 ungefähr	ungefähr	ADJ	-	0:20:40.959000	0:20:41.972000
 ste/	-	-	-	0:20:40.959000	0:20:41.972000
 .	-	-	-	0:20:40.959000	0:20:41.972000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:41.972000" end="0:20:46.752000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:41.972000" end="0:20:46.752000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:20:44.052000	0:20:45.432000
 glaube	glauben	VERB	-	0:20:44.052000	0:20:45.432000
 ich	ich	PRON	-	0:20:44.052000	0:20:45.432000
@@ -4745,7 +4745,7 @@ mir	sich	PRON	-	0:20:44.052000	0:20:45.432000
 nicht	nicht	PART	-	0:20:44.052000	0:20:45.432000
 .	-	-	-	0:20:44.052000	0:20:45.432000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:45.432000" end="0:20:47.225000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:45.432000" end="0:20:47.225000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:20:45.432000	0:20:46.752000
 ,	-	-	-	0:20:45.432000	0:20:46.752000
 aber	aber	CCONJ	-	0:20:45.432000	0:20:46.752000
@@ -4754,22 +4754,22 @@ da/	-	-	-	0:20:45.432000	0:20:46.752000
 nicht	nicht	PART	-	0:20:46.752000	0:20:47.225000
 ?	-	-	-	0:20:46.752000	0:20:47.225000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:47.225000" end="0:20:47.845000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:47.225000" end="0:20:47.845000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:20:47.225000	0:20:47.845000
 .	-	-	-	0:20:47.225000	0:20:47.845000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:47.845000" end="0:20:48.099000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:47.845000" end="0:20:48.099000" project="PP03" age_lower="18" age_upper="35">
 waru=	warum	ADV	-	0:20:47.845000	0:20:48.099000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:48.099000" end="0:20:48.412000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:48.099000" end="0:20:48.412000" project="PP03" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:20:48.099000	0:20:48.412000
 du	du	PRON	-	0:20:48.099000	0:20:48.412000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:48.099000" end="0:20:48.412000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:48.099000" end="0:20:48.412000" project="PP03" age_lower="18" age_upper="35">
 m	-	SPACE	-	0:20:48.099000	0:20:48.412000
 ?	-	-	-	0:20:48.099000	0:20:48.412000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:48.412000" end="0:20:49.805000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:48.412000" end="0:20:49.805000" project="PP03" age_lower="18" age_upper="35">
 gar	gar	ADV	-	0:20:48.412000	0:20:49.805000
 nicht	nicht	PART	-	0:20:48.412000	0:20:49.805000
 mehr	mehr	ADV	-	0:20:48.412000	0:20:49.805000
@@ -4777,7 +4777,7 @@ arbeiten	arbeiten	VERB	-	0:20:48.412000	0:20:49.805000
 musst	musst	PROPN	-	0:20:48.412000	0:20:49.805000
 .	-	-	-	0:20:48.412000	0:20:49.805000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:49.805000" end="0:20:51.819000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:49.805000" end="0:20:51.819000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:20:49.805000	0:20:50.679000
 ,	-	-	-	0:20:49.805000	0:20:50.679000
 müssen	müssen	VERB	-	0:20:49.805000	0:20:50.679000
@@ -4787,14 +4787,14 @@ aber	aber	CCONJ	-	0:20:50.679000	0:20:51.819000
 aber	aber	ADV	-	0:20:50.679000	0:20:51.819000
 die	der	DET	-	0:20:50.679000	0:20:51.819000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:51.819000" end="0:20:52.392000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:51.819000" end="0:20:52.392000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:51.819000	0:20:52.392000
 ,	-	-	-	0:20:51.819000	0:20:52.392000
 oft	oft	ADV	-	0:20:51.819000	0:20:52.392000
 dann/	-	-	-	0:20:51.819000	0:20:52.392000
 .	-	-	-	0:20:51.819000	0:20:52.392000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:51.819000" end="0:20:52.992000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:51.819000" end="0:20:52.992000" project="PP03" age_lower="18" age_upper="35">
 Meisten	Meiste	NOUN	-	0:20:51.819000	0:20:52.392000
 mögen	mögen	VERB	-	0:20:51.819000	0:20:52.392000
 es	ich	PRON	-	0:20:51.819000	0:20:52.392000
@@ -4805,11 +4805,11 @@ tun	tun	VERB	-	0:20:52.392000	0:20:52.992000
 nicht	nicht	PART	-	0:20:52.392000	0:20:52.992000
 ?	-	-	-	0:20:52.392000	0:20:52.992000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:52.992000" end="0:20:53.745000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:52.992000" end="0:20:53.745000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:52.992000	0:20:53.745000
 .	-	-	-	0:20:52.992000	0:20:53.745000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:53.745000" end="0:20:54.872000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:53.745000" end="0:20:54.872000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:20:53.745000	0:20:54.872000
 ist	sein	AUX	-	0:20:53.745000	0:20:54.872000
 ja	ja	ADV	-	0:20:53.745000	0:20:54.872000
@@ -4817,7 +4817,7 @@ ganz	ganz	ADV	-	0:20:53.745000	0:20:54.872000
 recht	recht	NOUN	-	0:20:53.745000	0:20:54.872000
 .	-	-	-	0:20:53.745000	0:20:54.872000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:54.872000" end="0:20:56.079000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:54.872000" end="0:20:56.079000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:20:54.872000	0:20:56.079000
 ,	-	-	-	0:20:54.872000	0:20:56.079000
@@ -4825,7 +4825,7 @@ das	der	PRON	-	0:20:54.872000	0:20:56.079000
 schon	schon	ADV	-	0:20:54.872000	0:20:56.079000
 .	-	-	-	0:20:54.872000	0:20:56.079000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:56.079000" end="0:20:57.779000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:56.079000" end="0:20:57.779000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:20:56.079000	0:20:57.779000
 werden	werden	AUX	-	0:20:56.079000	0:20:57.779000
 sie	ich	PRON	-	0:20:56.079000	0:20:57.779000
@@ -4835,12 +4835,12 @@ um	um	ADP	-	0:20:56.079000	0:20:57.779000
 die	der	DET	-	0:20:56.079000	0:20:57.779000
 Projekte	Projekt	NOUN	-	0:20:56.079000	0:20:57.779000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:57.779000" end="0:20:58.905000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:57.779000" end="0:20:58.905000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 reißen	reißen	VERB	-	0:20:57.779000	0:20:58.905000
 .	-	-	-	0:20:57.779000	0:20:58.905000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:57.779000" end="0:21:00.245000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:20:57.779000" end="0:21:00.245000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 zerren	zerren	VERB	-	0:20:57.779000	0:20:58.905000
 .	-	-	-	0:20:57.779000	0:20:58.905000
@@ -4848,7 +4848,7 @@ zerren	zerren	VERB	-	0:20:57.779000	0:20:58.905000
 ja	ja	PART	-	0:20:58.905000	0:21:00.245000
 .	-	-	-	0:20:58.905000	0:21:00.245000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:00.245000" end="0:21:02.105000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:00.245000" end="0:21:02.105000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 aber	aber	CCONJ	-	0:21:00.245000	0:21:02.105000
 ich	ich	PRON	-	0:21:00.245000	0:21:02.105000
@@ -4865,13 +4865,13 @@ operiert	operieren	VERB	-	0:21:00.245000	0:21:02.105000
 werden	werden	AUX	-	0:21:00.245000	0:21:02.105000
 .	-	-	-	0:21:00.245000	0:21:02.105000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:02.105000" end="0:21:06.365000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:02.105000" end="0:21:06.365000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 wieso	wieso	ADV	-	0:21:02.105000	0:21:06.365000
 nicht	nicht	PART	-	0:21:02.105000	0:21:06.365000
 ?	-	-	-	0:21:02.105000	0:21:06.365000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:06.365000" end="0:21:12.659000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:06.365000" end="0:21:12.659000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	PART	-	0:21:06.365000	0:21:09.232000
 ich	ich	PRON	-	0:21:06.365000	0:21:09.232000
@@ -4888,13 +4888,13 @@ ist	sein	AUX	-	0:21:09.232000	0:21:11.512000
 und/	-	-	-	0:21:09.232000	0:21:11.512000
 .	-	-	-	0:21:09.232000	0:21:11.512000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:12.659000" end="0:21:13.245000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:12.659000" end="0:21:13.245000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:21:12.659000	0:21:13.245000
 .	-	-	-	0:21:12.659000	0:21:13.245000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:13.245000" end="0:21:14.485000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:13.245000" end="0:21:14.485000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:14.485000" end="0:21:21.852000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:14.485000" end="0:21:21.852000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	PART	-	0:21:14.485000	0:21:16.179000
 .	-	-	-	0:21:14.485000	0:21:16.179000
@@ -4918,14 +4918,14 @@ Fehler	-	-	-	0:21:18.345000	0:21:21.852000
 machen	-	-	-	0:21:18.345000	0:21:21.852000
 .	-	-	-	0:21:18.345000	0:21:21.852000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:21.852000" end="0:21:22.839000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:21.852000" end="0:21:22.839000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:21.852000	0:21:22.839000
 ,	-	-	-	0:21:21.852000	0:21:22.839000
 das	der	PRON	-	0:21:21.852000	0:21:22.839000
 stimmt	stimmen	VERB	-	0:21:21.852000	0:21:22.839000
 .	-	-	-	0:21:21.852000	0:21:22.839000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:22.839000" end="0:21:25.745000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:22.839000" end="0:21:25.745000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 und	und	CCONJ	-	0:21:22.839000	0:21:25.745000
 wegen	wegen	ADP	-	0:21:22.839000	0:21:25.745000
@@ -4940,14 +4940,14 @@ hoffentlich	hoffentlich	ADV	-	0:21:22.839000	0:21:25.745000
 eben	eben	ADV	-	0:21:22.839000	0:21:25.745000
 Ge	Ge	PROPN	-	0:21:22.839000	0:21:25.745000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:25.745000" end="0:21:26.519000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:25.745000" end="0:21:26.519000" project="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:21:25.745000	0:21:26.519000
 ja	ja	PART	-	0:21:25.745000	0:21:26.519000
 ,	-	-	-	0:21:25.745000	0:21:26.519000
 genau	genau	ADJ	-	0:21:25.745000	0:21:26.519000
 .	-	-	-	0:21:25.745000	0:21:26.519000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:25.745000" end="0:21:28.545000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:25.745000" end="0:21:28.545000" project="PP03" age_lower="18" age_upper="35">
 danken	danken	VERB	-	0:21:25.745000	0:21:26.519000
 gemacht	machen	VERB	-	0:21:25.745000	0:21:26.519000
 haben	haben	AUX	-	0:21:25.745000	0:21:26.519000
@@ -4967,7 +4967,7 @@ gibt	geben	VERB	-	0:21:26.519000	0:21:28.545000
 nicht	nicht	PART	-	0:21:26.519000	0:21:28.545000
 .	-	-	-	0:21:26.519000	0:21:28.545000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:28.545000" end="0:21:34.805000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:28.545000" end="0:21:34.805000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:21:28.545000	0:21:30.619000
 .	-	-	-	0:21:28.545000	0:21:30.619000
@@ -4981,7 +4981,7 @@ fünfzig	fünfzig	NUM	-	0:21:30.619000	0:21:33.059000
 Jahren	Jahr	NOUN	-	0:21:30.619000	0:21:33.059000
 .	-	-	-	0:21:30.619000	0:21:33.059000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:33.059000" end="0:21:38.052000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:33.059000" end="0:21:38.052000" project="PP03" age_lower="18" age_upper="35">
 eine	einen	DET	-	0:21:33.059000	0:21:34.805000
 spannende	spannend	ADJ	-	0:21:33.059000	0:21:34.805000
 Zeit	Zeit	NOUN	-	0:21:33.059000	0:21:34.805000
@@ -4998,7 +4998,7 @@ spannende)	spannend	NOUN	-	0:21:34.805000	0:21:37.179000
 gut	gut	ADJ	-	0:21:37.179000	0:21:38.052000
 .	-	-	-	0:21:37.179000	0:21:38.052000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:38.052000" end="0:21:43.579000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:38.052000" end="0:21:43.579000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 du	du	PRON	-	0:21:38.052000	0:21:42.592000
 hast	haben	AUX	-	0:21:38.052000	0:21:42.592000
@@ -5013,7 +5013,7 @@ fünfzig	fünfzig	NUM	-	0:21:42.592000	0:21:43.579000
 Jahren	Jahr	NOUN	-	0:21:42.592000	0:21:43.579000
 .	-	-	-	0:21:42.592000	0:21:43.579000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:42.592000" end="0:21:52.872000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:42.592000" end="0:21:52.872000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:21:42.592000	0:21:43.579000
 ,	-	-	-	0:21:42.592000	0:21:43.579000
 ja	ja	PART	-	0:21:42.592000	0:21:43.579000
@@ -5056,11 +5056,11 @@ sich	sich	PRON	-	0:21:49.212000	0:21:52.872000
 entwickelt	entwickeln	VERB	-	0:21:49.212000	0:21:52.872000
 ,	-	-	-	0:21:49.212000	0:21:52.872000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:52.872000" end="0:21:53.365000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:52.872000" end="0:21:53.365000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:52.872000	0:21:53.365000
 .	-	-	-	0:21:52.872000	0:21:53.365000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:52.872000" end="0:21:54.745000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:52.872000" end="0:21:54.745000" project="PP03" age_lower="18" age_upper="35">
 was	was	PRON	-	0:21:52.872000	0:21:53.365000
 da	da	ADV	-	0:21:52.872000	0:21:53.365000
 jetzt	jetzt	ADV	-	0:21:52.872000	0:21:53.365000
@@ -5072,19 +5072,19 @@ uns	sich	PRON	-	0:21:53.365000	0:21:54.745000
 zukommt	zukommen	VERB	-	0:21:53.365000	0:21:54.745000
 ,	-	-	-	0:21:53.365000	0:21:54.745000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:54.745000" end="0:21:55.199000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:54.745000" end="0:21:55.199000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:54.745000	0:21:55.199000
 .	-	-	-	0:21:54.745000	0:21:55.199000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:55.199000" end="0:21:55.912000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:55.199000" end="0:21:55.912000" project="PP03" age_lower="18" age_upper="35">
 Wahnsinn	Wahnsinn	NOUN	-	0:21:55.199000	0:21:55.912000
 .	-	-	-	0:21:55.199000	0:21:55.912000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:55.912000" end="0:21:56.385000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:55.912000" end="0:21:56.385000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:21:55.912000	0:21:56.385000
 .	-	-	-	0:21:55.912000	0:21:56.385000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:56.385000" end="0:21:58.685000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:56.385000" end="0:21:58.685000" project="PP03" age_lower="18" age_upper="35">
 wir	-	-	-	0:21:56.385000	0:21:58.685000
 haben	-	-	-	0:21:56.385000	0:21:58.685000
 (eher)	-	-	-	0:21:56.385000	0:21:58.685000
@@ -5100,12 +5100,12 @@ spannenden	-	-	-	0:21:56.385000	0:21:58.685000
 Zeit	-	-	-	0:21:56.385000	0:21:58.685000
 .	-	-	-	0:21:56.385000	0:21:58.685000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:58.685000" end="0:21:59.745000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:58.685000" end="0:21:59.745000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 stimmt	stimmen	VERB	-	0:21:58.685000	0:21:59.745000
 .	-	-	-	0:21:58.685000	0:21:59.745000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:59.745000" end="0:22:01.185000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:21:59.745000" end="0:22:01.185000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:21:59.745000	0:22:01.185000
 du	du	PRON	-	0:21:59.745000	0:22:01.185000
 musst	musst	X	-	0:21:59.745000	0:22:01.185000
@@ -5114,12 +5114,12 @@ halt	halt	ADV	-	0:21:59.745000	0:22:01.185000
 auch	auch	ADV	-	0:21:59.745000	0:22:01.185000
 verkraften	verkraften	VERB	-	0:21:59.745000	0:22:01.185000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:01.185000" end="0:22:03.259000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:01.185000" end="0:22:03.259000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:01.185000	0:22:01.839000
 .	-	-	-	0:22:01.185000	0:22:01.839000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:01.839000" end="0:22:09.825000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:01.839000" end="0:22:09.825000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 diese	dies	DET	-	0:22:01.839000	0:22:03.259000
 <pause duration="0,6s"/>
@@ -5141,11 +5141,11 @@ den	der	DET	-	0:22:04.232000	0:22:09.825000
 Menschen	Mensch	NOUN	-	0:22:04.232000	0:22:09.825000
 .	-	-	-	0:22:04.232000	0:22:09.825000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:09.825000" end="0:22:10.225000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:09.825000" end="0:22:10.225000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:09.825000	0:22:10.225000
 .	-	-	-	0:22:09.825000	0:22:10.225000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:10.225000" end="0:22:13.019000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:10.225000" end="0:22:13.019000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:22:10.225000	0:22:13.019000
 der	der	DET	-	0:22:10.225000	0:22:13.019000
 muss	muss	NOUN	-	0:22:10.225000	0:22:13.019000
@@ -5158,12 +5158,12 @@ das	der	DET	-	0:22:10.225000	0:22:13.019000
 (Revier)	Revier	NOUN	-	0:22:10.225000	0:22:13.019000
 .	-	-	-	0:22:10.225000	0:22:13.019000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:13.019000" end="0:22:13.912000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:13.019000" end="0:22:13.912000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:22:13.019000	0:22:13.912000
 stimmt	stimmen	VERB	-	0:22:13.019000	0:22:13.912000
 .	-	-	-	0:22:13.019000	0:22:13.912000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:13.912000" end="0:22:19.685000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:13.912000" end="0:22:19.685000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:22:13.912000	0:22:14.305000
 .	-	-	-	0:22:13.912000	0:22:14.305000
 <pause duration="0,8s"/>
@@ -5178,7 +5178,7 @@ NAME	NAME	PROPN	-	0:22:14.305000	0:22:19.685000
 bitte	bitte	PART	-	0:22:14.305000	0:22:19.685000
 .	-	-	-	0:22:14.305000	0:22:19.685000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:19.685000" end="0:22:25.399000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:19.685000" end="0:22:25.399000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 Dialekt	Dialekt	NOUN	-	0:22:19.685000	0:22:21.765000
 der	der	DET	-	0:22:19.685000	0:22:21.765000
@@ -5197,22 +5197,22 @@ von	von	ADP	-	0:22:24.852000	0:22:25.399000
 dem	der	PRON	-	0:22:24.852000	0:22:25.399000
 ha=	habe	AUX	-	0:22:24.852000	0:22:25.399000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:24.852000" end="0:22:25.399000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:24.852000" end="0:22:25.399000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:22:24.852000	0:22:25.399000
 .	-	-	-	0:22:24.852000	0:22:25.399000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:25.399000" end="0:22:26.319000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:25.399000" end="0:22:26.319000" project="PP03" age_lower="18" age_upper="35">
 be	-	SPACE	-	0:22:25.399000	0:22:26.319000
 ich	ich	PRON	-	0:22:25.399000	0:22:26.319000
 ein	einen	DET	-	0:22:25.399000	0:22:26.319000
 bisschen	bisschen	NOUN	-	0:22:25.399000	0:22:26.319000
 was	was	PRON	-	0:22:25.399000	0:22:26.319000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:26.319000" end="0:22:26.712000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:26.319000" end="0:22:26.712000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:26.319000	0:22:26.712000
 .	-	-	-	0:22:26.319000	0:22:26.712000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:26.712000" end="0:22:37.505000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:26.712000" end="0:22:37.505000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 angenommen	annehmen	VERB	-	0:22:26.712000	0:22:28.212000
 und	und	CCONJ	-	0:22:28.212000	0:22:33.299000
@@ -5242,11 +5242,11 @@ miteinander	miteinander	ADV	-	0:22:34.852000	0:22:36.805000
 reden	reden	VERB	-	0:22:34.852000	0:22:36.805000
 und	und	CCONJ	-	0:22:36.805000	0:22:37.505000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:36.805000" end="0:22:37.505000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:36.805000" end="0:22:37.505000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:36.805000	0:22:37.505000
 .	-	-	-	0:22:36.805000	0:22:37.505000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:37.505000" end="0:22:48.465000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:37.505000" end="0:22:48.465000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:22:37.505000	0:22:40.465000
 ,	-	-	-	0:22:37.505000	0:22:40.465000
@@ -5275,18 +5275,18 @@ als	als	CCONJ	-	0:22:40.465000	0:22:48.465000
 wie	wie	CCONJ	-	0:22:40.465000	0:22:48.465000
 heutzutage	heutzutage	ADV	-	0:22:40.465000	0:22:48.465000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:48.465000" end="0:22:49.012000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:48.465000" end="0:22:49.012000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:48.465000	0:22:49.012000
 .	-	-	-	0:22:48.465000	0:22:49.012000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:49.012000" end="0:22:51.139000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:49.012000" end="0:22:51.139000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:22:49.012000	0:22:50.432000
 oder	oder	CCONJ	-	0:22:49.012000	0:22:50.432000
 du	du	PRON	-	0:22:49.012000	0:22:50.432000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:22:50.432000	0:22:51.139000
 .	-	-	-	0:22:50.432000	0:22:51.139000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:50.432000" end="0:22:52.005000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:50.432000" end="0:22:52.005000" project="PP03" age_lower="18" age_upper="35">
 ganz	ganz	ADV	-	0:22:50.432000	0:22:51.139000
 sicher	sichern	ADJ	-	0:22:50.432000	0:22:51.139000
 .	-	-	-	0:22:50.432000	0:22:51.139000
@@ -5296,7 +5296,7 @@ ich	ich	PRON	-	0:22:51.139000	0:22:52.005000
 auch	auch	ADV	-	0:22:51.139000	0:22:52.005000
 .	-	-	-	0:22:51.139000	0:22:52.005000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:52.005000" end="0:22:55.092000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:52.005000" end="0:22:55.092000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 also	also	ADV	-	0:22:52.005000	0:22:55.092000
 ,	-	-	-	0:22:52.005000	0:22:55.092000
@@ -5304,7 +5304,7 @@ also	also	ADV	-	0:22:52.005000	0:22:55.092000
 ja	ja	PART	-	0:22:52.005000	0:22:55.092000
 .	-	-	-	0:22:52.005000	0:22:55.092000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:55.092000" end="0:22:57.919000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:55.092000" end="0:22:57.919000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 wo	wo	ADV	-	0:22:55.092000	0:22:57.919000
 i/	-	-	-	0:22:55.092000	0:22:57.919000
@@ -5316,14 +5316,14 @@ Mama	Mama	NOUN	??	0:22:55.092000	0:22:57.919000
 her	her	ADP	-	0:22:55.092000	0:22:57.919000
 ?	-	-	-	0:22:55.092000	0:22:57.919000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:57.919000" end="0:22:59.305000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:57.919000" end="0:22:59.305000" project="PP03" age_lower="18" age_upper="35">
 ORT	ORT	NOUN	-	0:22:57.919000	0:22:59.305000
 ,	-	-	-	0:22:57.919000	0:22:59.305000
 also	also	ADV	-	0:22:57.919000	0:22:59.305000
 ORT	ORT	NOUN	-	0:22:57.919000	0:22:59.305000
 .	-	-	-	0:22:57.919000	0:22:59.305000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:59.305000" end="0:23:06.132000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:22:59.305000" end="0:23:06.132000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ORT	ORT	NOUN	-	0:22:59.305000	0:23:00.619000
 .	-	-	-	0:22:59.305000	0:23:00.619000
@@ -5339,11 +5339,11 @@ wo	-	-	-	0:23:02.119000	0:23:06.132000
 aufgewachsen	-	-	-	0:23:02.119000	0:23:06.132000
 ?	-	-	-	0:23:02.119000	0:23:06.132000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:06.132000" end="0:23:06.892000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:06.132000" end="0:23:06.892000" project="PP03" age_lower="18" age_upper="35">
 (drüben)	drüben	ADV	-	0:23:06.132000	0:23:06.892000
 .	-	-	-	0:23:06.132000	0:23:06.892000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:06.132000" end="0:23:09.739000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:06.132000" end="0:23:09.739000" project="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:23:06.132000	0:23:06.892000
 dem	der	DET	-	0:23:06.132000	0:23:06.892000
 glei=	gleich	ADJ	-	0:23:06.132000	0:23:06.892000
@@ -5361,11 +5361,11 @@ also	also	ADV	-	0:23:07.885000	0:23:09.739000
 das	der	DET	-	0:23:07.885000	0:23:09.739000
 Haus	Haus	NOUN	-	0:23:07.885000	0:23:09.739000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:09.739000" end="0:23:10.205000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:09.739000" end="0:23:10.205000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:09.739000	0:23:10.205000
 .	-	-	-	0:23:09.739000	0:23:10.205000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:09.739000" end="0:23:11.312000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:09.739000" end="0:23:11.312000" project="PP03" age_lower="18" age_upper="35">
 gibt	geben	VERB	-	0:23:09.739000	0:23:10.205000
 es	ich	PRON	-	0:23:09.739000	0:23:10.205000
 ,	-	-	-	0:23:09.739000	0:23:10.205000
@@ -5380,14 +5380,14 @@ geboren	gebären	VERB	-	0:23:10.579000	0:23:11.312000
 ist	sein	AUX	-	0:23:10.579000	0:23:11.312000
 ?	-	-	-	0:23:10.579000	0:23:11.312000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:11.312000" end="0:23:13.965000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:11.312000" end="0:23:13.965000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:11.312000	0:23:11.719000
 .	-	-	-	0:23:11.312000	0:23:11.719000
 <pause duration="1,9s"/>
 genau	genau	ADJ	-	0:23:11.719000	0:23:13.965000
 .	-	-	-	0:23:11.719000	0:23:13.965000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:13.965000" end="0:23:16.919000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:13.965000" end="0:23:16.919000" project="PP03" age_lower="18" age_upper="35">
 jetzt	jetzt	ADV	-	0:23:13.965000	0:23:16.919000
 wer	wer	PRON	-	0:23:13.965000	0:23:16.919000
 waren	sein	AUX	-	0:23:13.965000	0:23:16.919000
@@ -5399,14 +5399,14 @@ deinem	mein	DET	??	0:23:13.965000	0:23:16.919000
 Papa	Papa	NOUN	??	0:23:13.965000	0:23:16.919000
 ?	-	-	-	0:23:13.965000	0:23:16.919000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:16.919000" end="0:23:19.112000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:16.919000" end="0:23:19.112000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	ähm	PROPN	-	0:23:16.919000	0:23:17.965000
 .	-	-	-	0:23:16.919000	0:23:17.965000
 der/	-	-	-	0:23:17.965000	0:23:19.112000
 .	-	-	-	0:23:17.965000	0:23:19.112000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:17.965000" end="0:23:20.059000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:17.965000" end="0:23:20.059000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 deine	mein	DET	??	0:23:17.965000	0:23:19.112000
 Oma	Oma	NOUN	??	0:23:17.965000	0:23:19.112000
@@ -5418,31 +5418,31 @@ ja	ja	ADV	-	0:23:19.112000	0:23:20.059000
 gekannt	kennen	VERB	-	0:23:19.112000	0:23:20.059000
 .	-	-	-	0:23:19.112000	0:23:20.059000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:20.059000" end="0:23:21.785000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:20.059000" end="0:23:21.785000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:20.059000	0:23:20.325000
 .	-	-	-	0:23:20.059000	0:23:20.325000
 <pause duration="1,0s"/>
 ([Tenner=	TennerGottlieb	NOUN	-	0:23:20.325000	0:23:21.785000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:20.325000" end="0:23:21.785000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:20.325000" end="0:23:21.785000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ko/	-	-	-	0:23:20.325000	0:23:21.785000
 .	-	-	-	0:23:20.325000	0:23:21.785000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:21.785000" end="0:23:23.705000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:21.785000" end="0:23:23.705000" project="PP03" age_lower="18" age_upper="35">
 Gottlieb]N)	-	SPACE	??	0:23:21.785000	0:23:22.485000
 <pause duration="0,6s"/>
 war	sein	AUX	-	0:23:22.485000	0:23:23.705000
 .	-	-	-	0:23:22.485000	0:23:23.705000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:22.485000" end="0:23:23.705000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:22.485000" end="0:23:23.705000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 wer	wer	PRON	-	0:23:22.485000	0:23:23.705000
 ist	sein	AUX	-	0:23:22.485000	0:23:23.705000
 das	der	PRON	-	0:23:22.485000	0:23:23.705000
 ?	-	-	-	0:23:22.485000	0:23:23.705000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:23.705000" end="0:23:32.405000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:23.705000" end="0:23:32.405000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 von	von	ADP	??	0:23:23.705000	0:23:25.612000
 ([Tenner]O)	Tenner	PROPN	??	0:23:23.705000	0:23:25.612000
@@ -5465,12 +5465,12 @@ NAME	NAME	PROPN	-	0:23:28.425000	0:23:31.259000
 NAME	NAME	PROPN	-	0:23:31.259000	0:23:32.405000
 ,	-	-	-	0:23:31.259000	0:23:32.405000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:31.259000" end="0:23:32.405000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:31.259000" end="0:23:32.405000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 aha	aha	X	-	0:23:31.259000	0:23:32.405000
 .	-	-	-	0:23:31.259000	0:23:32.405000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:32.405000" end="0:23:36.299000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:32.405000" end="0:23:36.299000" project="PP03" age_lower="18" age_upper="35">
 der	der	DET	-	0:23:32.405000	0:23:35.099000
 alte	alt	ADJ	-	0:23:32.405000	0:23:35.099000
 <pause duration="0,6s"/>
@@ -5482,7 +5482,7 @@ der	der	DET	??	0:23:35.099000	0:23:36.299000
 Oma	Oma	NOUN	??	0:23:35.099000	0:23:36.299000
 .	-	-	-	0:23:35.099000	0:23:36.299000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:35.099000" end="0:23:37.239000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:35.099000" end="0:23:37.239000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:23:35.099000	0:23:36.299000
 ,	-	-	-	0:23:35.099000	0:23:36.299000
 okay	okay	NOUN	-	0:23:35.099000	0:23:36.299000
@@ -5491,7 +5491,7 @@ okay	okay	NOUN	-	0:23:35.099000	0:23:36.299000
 ja	ja	PART	-	0:23:36.299000	0:23:37.239000
 .	-	-	-	0:23:36.299000	0:23:37.239000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:37.239000" end="0:23:41.632000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:37.239000" end="0:23:41.632000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:23:37.239000	0:23:39.312000
 der	der	DET	-	0:23:37.239000	0:23:39.312000
 Opa	Opa	NOUN	??	0:23:37.239000	0:23:39.312000
@@ -5503,7 +5503,7 @@ von	von	ADP	??	0:23:37.239000	0:23:39.312000
 also/	-	-	-	0:23:39.312000	0:23:41.632000
 .	-	-	-	0:23:39.312000	0:23:41.632000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:41.632000" end="0:23:45.859000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:41.632000" end="0:23:45.859000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 von	von	ADP	-	0:23:41.632000	0:23:45.112000
 dem	der	PRON	-	0:23:41.632000	0:23:45.112000
@@ -5517,17 +5517,17 @@ dem	der	PRON	-	0:23:45.112000	0:23:45.859000
 ,	-	-	-	0:23:45.112000	0:23:45.859000
 wo	wo	ADV	-	0:23:45.112000	0:23:45.859000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:45.859000" end="0:23:46.772000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:45.859000" end="0:23:46.772000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:23:45.859000	0:23:46.772000
 .	-	-	-	0:23:45.859000	0:23:46.772000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:45.859000" end="0:23:46.772000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:45.859000" end="0:23:46.772000" project="PP03" age_lower="18" age_upper="35">
 das	der	DET	-	0:23:45.859000	0:23:46.772000
 (Siegel)	Siegel	NOUN	-	0:23:45.859000	0:23:46.772000
 ist	sein	AUX	-	0:23:45.859000	0:23:46.772000
 ?	-	-	-	0:23:45.859000	0:23:46.772000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:46.772000" end="0:23:48.612000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:46.772000" end="0:23:48.612000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:23:46.772000	0:23:48.612000
 genau	genau	ADJ	-	0:23:46.772000	0:23:48.612000
@@ -5537,16 +5537,16 @@ genau	genau	ADJ	-	0:23:46.772000	0:23:48.612000
 genau	genau	ADJ	-	0:23:46.772000	0:23:48.612000
 .	-	-	-	0:23:46.772000	0:23:48.612000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:48.612000" end="0:23:50.225000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:48.612000" end="0:23:50.225000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 okay	okay	NOUN	-	0:23:48.612000	0:23:50.225000
 .	-	-	-	0:23:48.612000	0:23:50.225000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:50.225000" end="0:23:50.792000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:50.225000" end="0:23:50.792000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:50.225000	0:23:50.792000
 .	-	-	-	0:23:50.225000	0:23:50.792000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:50.225000" end="0:23:51.559000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:50.225000" end="0:23:51.559000" project="PP03" age_lower="18" age_upper="35">
 von	von	ADP	??	0:23:50.225000	0:23:50.792000
 dem	der	DET	??	0:23:50.225000	0:23:50.792000
 Haus	Haus	NOUN	??	0:23:50.792000	0:23:51.559000
@@ -5554,11 +5554,11 @@ da	da	ADV	-	0:23:50.792000	0:23:51.559000
 innen	innen	ADV	-	0:23:50.792000	0:23:51.559000
 ,	-	-	-	0:23:50.792000	0:23:51.559000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:51.559000" end="0:23:52.179000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:51.559000" end="0:23:52.179000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:23:51.559000	0:23:52.179000
 .	-	-	-	0:23:51.559000	0:23:52.179000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:51.559000" end="0:23:58.045000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:51.559000" end="0:23:58.045000" project="PP03" age_lower="18" age_upper="35">
 dem	der	DET	-	0:23:51.559000	0:23:52.179000
 alten	alt	ADJ	-	0:23:51.559000	0:23:52.179000
 ?	-	-	-	0:23:51.559000	0:23:52.179000
@@ -5577,11 +5577,11 @@ Opa	Opa	NOUN	??	0:23:52.179000	0:23:58.045000
 her	her	ADV	-	0:23:52.179000	0:23:58.045000
 .	-	-	-	0:23:52.179000	0:23:58.045000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:58.045000" end="0:23:58.645000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:58.045000" end="0:23:58.645000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:23:58.045000	0:23:58.645000
 .	-	-	-	0:23:58.045000	0:23:58.645000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:58.645000" end="0:24:00.645000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:23:58.645000" end="0:24:00.645000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:23:58.645000	0:24:00.645000
 der	-	-	-	0:23:58.645000	0:24:00.645000
 hat	-	-	-	0:23:58.645000	0:24:00.645000
@@ -5592,7 +5592,7 @@ Haus	-	-	-	0:23:58.645000	0:24:00.645000
 gebaut	-	-	-	0:23:58.645000	0:24:00.645000
 .	-	-	-	0:23:58.645000	0:24:00.645000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:00.645000" end="0:24:02.919000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:00.645000" end="0:24:02.919000" project="PP03" age_lower="18" age_upper="35">
 der	der	PRON	-	0:24:00.645000	0:24:01.845000
 hat	haben	AUX	-	0:24:00.645000	0:24:01.845000
 da	da	ADV	-	0:24:00.645000	0:24:01.845000
@@ -5604,30 +5604,30 @@ gebaut	bauen	VERB	-	0:24:01.845000	0:24:02.919000
 ja	ja	PART	-	0:24:01.845000	0:24:02.919000
 .	-	-	-	0:24:01.845000	0:24:02.919000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:01.845000" end="0:24:02.919000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:01.845000" end="0:24:02.919000" project="PP03" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:24:01.845000	0:24:02.919000
 der	der	DET	-	0:24:01.845000	0:24:02.919000
 angefangen	anfangen	NOUN	-	0:24:01.845000	0:24:02.919000
 bauen	bauen	VERB	-	0:24:01.845000	0:24:02.919000
 .	-	-	-	0:24:01.845000	0:24:02.919000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:02.919000" end="0:24:04.165000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:02.919000" end="0:24:04.165000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:02.919000	0:24:04.165000
 <pause duration="0,6s"/>
 genau	genau	ADJ	-	0:24:02.919000	0:24:04.165000
 .	-	-	-	0:24:02.919000	0:24:04.165000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:04.165000" end="0:24:08.532000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:04.165000" end="0:24:08.532000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 aha	aha	X	-	0:24:04.165000	0:24:08.532000
 .	-	-	-	0:24:04.165000	0:24:08.532000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:08.532000" end="0:24:16.872000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:08.532000" end="0:24:16.872000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,6s"/>
 okay	okay	NOUN	-	0:24:15.652000	0:24:16.872000
 .	-	-	-	0:24:15.652000	0:24:16.872000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:16.872000" end="0:24:21.972000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:16.872000" end="0:24:21.972000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:24:16.872000	0:24:20.332000
 nein	nein	PART	-	0:24:16.872000	0:24:20.332000
 ,	-	-	-	0:24:16.872000	0:24:20.332000
@@ -5651,12 +5651,12 @@ abläuft	ablaufen	VERB	-	0:24:20.332000	0:24:21.972000
 da	da	ADV	-	0:24:20.332000	0:24:21.972000
 .	-	-	-	0:24:20.332000	0:24:21.972000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:21.972000" end="0:24:22.739000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:21.972000" end="0:24:22.739000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 achso	achso	NOUN	-	0:24:21.972000	0:24:22.739000
 ?	-	-	-	0:24:21.972000	0:24:22.739000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:22.739000" end="0:24:25.465000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:22.739000" end="0:24:25.465000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:22.739000	0:24:25.465000
 ,	-	-	-	0:24:22.739000	0:24:25.465000
 nein	nein	PART	-	0:24:22.739000	0:24:25.465000
@@ -5673,7 +5673,7 @@ nicht	nicht	PART	-	0:24:22.739000	0:24:25.465000
 kenne	kennen	VERB	-	0:24:22.739000	0:24:25.465000
 .	-	-	-	0:24:22.739000	0:24:25.465000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:25.465000" end="0:24:27.779000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:25.465000" end="0:24:27.779000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:25.465000	0:24:27.465000
 ,	-	-	-	0:24:25.465000	0:24:27.465000
 der	der	DET	-	0:24:25.465000	0:24:27.465000
@@ -5689,17 +5689,17 @@ gest=	sterben	ADJ	-	0:24:25.465000	0:24:27.465000
 orben	-	SPACE	-	0:24:27.465000	0:24:27.779000
 .	-	-	-	0:24:27.465000	0:24:27.779000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:27.465000" end="0:24:28.039000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:27.465000" end="0:24:28.039000" project="PP03" age_lower="18" age_upper="35">
 vor	vor	ADP	-	0:24:27.465000	0:24:27.779000
 zehn	zehn	NUM	-	0:24:27.465000	0:24:27.779000
 Jahren	Jahr	NOUN	-	0:24:27.779000	0:24:28.039000
 ?	-	-	-	0:24:27.779000	0:24:28.039000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:28.039000" end="0:24:28.445000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:28.039000" end="0:24:28.445000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:28.039000	0:24:28.445000
 .	-	-	-	0:24:28.039000	0:24:28.445000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:28.039000" end="0:24:29.352000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:28.039000" end="0:24:29.352000" project="PP03" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:24:28.039000	0:24:28.445000
 eigentlich	eigentlich	ADV	-	0:24:28.039000	0:24:28.445000
 gar	gar	ADV	-	0:24:28.445000	0:24:29.352000
@@ -5709,11 +5709,11 @@ lange	lang	ADV	-	0:24:28.445000	0:24:29.352000
 her	her	ADP	-	0:24:28.445000	0:24:29.352000
 .	-	-	-	0:24:28.445000	0:24:29.352000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:29.352000" end="0:24:29.665000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:29.352000" end="0:24:29.665000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:24:29.352000	0:24:29.665000
 .	-	-	-	0:24:29.352000	0:24:29.665000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:29.665000" end="0:24:34.639000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:29.665000" end="0:24:34.639000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 aber	aber	CCONJ	-	0:24:29.665000	0:24:31.805000
 ich	ich	PRON	-	0:24:29.665000	0:24:31.805000
@@ -5735,28 +5735,28 @@ irgendwie	irgendwie	ADV	-	0:24:31.805000	0:24:34.639000
 nicht	nicht	PART	-	0:24:31.805000	0:24:34.639000
 (durch=	durchschauen	VERB	-	0:24:31.805000	0:24:34.639000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:34.639000" end="0:24:35.119000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:34.639000" end="0:24:35.119000" project="PP03" age_lower="18" age_upper="35">
 er	ich	PRON	-	0:24:34.639000	0:24:35.119000
 hat	haben	AUX	-	0:24:34.639000	0:24:35.119000
 auch	auch	ADV	-	0:24:34.639000	0:24:35.119000
 einen	ein	DET	-	0:24:34.639000	0:24:35.119000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:34.639000" end="0:24:35.119000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:34.639000" end="0:24:35.119000" project="PP03" age_lower="18" age_upper="35">
 schaut)	-	SPACE	-	0:24:34.639000	0:24:35.119000
 .	-	-	-	0:24:34.639000	0:24:35.119000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:35.119000" end="0:24:36.505000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:35.119000" end="0:24:36.505000" project="PP03" age_lower="18" age_upper="35">
 kür/	-	-	-	0:24:35.119000	0:24:36.505000
 kürzeren	kurz	ADJ	-	0:24:35.119000	0:24:36.505000
 SONSTIGE	SONSTIGE	NOUN	-	0:24:35.119000	0:24:36.505000
 .	-	-	-	0:24:35.119000	0:24:36.505000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:36.505000" end="0:24:37.452000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:36.505000" end="0:24:37.452000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 achso	achso	NOUN	-	0:24:36.505000	0:24:37.452000
 ?	-	-	-	0:24:36.505000	0:24:37.452000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:37.452000" end="0:24:46.672000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:37.452000" end="0:24:46.672000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:37.452000	0:24:41.485000
 ,	-	-	-	0:24:37.452000	0:24:41.485000
 weil	weil	SCONJ	-	0:24:37.452000	0:24:41.485000
@@ -5784,14 +5784,14 @@ schon	schon	ADV	-	0:24:46.105000	0:24:46.672000
 mitge/	-	-	-	0:24:46.105000	0:24:46.672000
 ,	-	-	-	0:24:46.105000	0:24:46.672000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:46.105000" end="0:24:46.672000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:46.105000" end="0:24:46.672000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:46.105000	0:24:46.672000
 ,	-	-	-	0:24:46.105000	0:24:46.672000
 ich	ich	PRON	-	0:24:46.105000	0:24:46.672000
 weiß	weiß	VERB	-	0:24:46.105000	0:24:46.672000
 .	-	-	-	0:24:46.105000	0:24:46.672000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:46.672000" end="0:24:48.292000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:46.672000" end="0:24:48.292000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:24:46.672000	0:24:47.572000
 nicht	nicht	PART	-	0:24:46.672000	0:24:47.572000
 mehr	mehr	ADV	-	0:24:46.672000	0:24:47.572000
@@ -5803,7 +5803,7 @@ der	der	DET	-	0:24:47.572000	0:24:48.292000
 andere	ander	PRON	-	0:24:47.572000	0:24:48.292000
 .	-	-	-	0:24:47.572000	0:24:48.292000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:47.572000" end="0:24:49.365000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:47.572000" end="0:24:49.365000" project="PP03" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:24:47.572000	0:24:48.292000
 wie	wie	ADV	-	0:24:47.572000	0:24:48.292000
 aber	aber	ADV	-	0:24:47.572000	0:24:48.292000
@@ -5814,7 +5814,7 @@ viel	viel	ADV	-	0:24:48.292000	0:24:49.365000
 kürzer	kurz	ADJ	-	0:24:48.292000	0:24:49.365000
 ?	-	-	-	0:24:48.292000	0:24:49.365000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:49.365000" end="0:24:51.179000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:49.365000" end="0:24:51.179000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:24:49.365000	0:24:51.179000
 ,	-	-	-	0:24:49.365000	0:24:51.179000
@@ -5824,15 +5824,15 @@ so	so	ADV	-	0:24:49.365000	0:24:51.179000
 sowas	sowas	PROPN	-	0:24:49.365000	0:24:51.179000
 .	-	-	-	0:24:49.365000	0:24:51.179000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:51.179000" end="0:24:51.879000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:51.179000" end="0:24:51.879000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:24:51.179000	0:24:51.879000
 groß	groß	ADJ	-	0:24:51.179000	0:24:51.879000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:51.879000" end="0:24:52.592000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:51.879000" end="0:24:52.592000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:51.879000	0:24:52.592000
 .	-	-	-	0:24:51.879000	0:24:52.592000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:51.879000" end="0:24:55.779000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:51.879000" end="0:24:55.779000" project="PP03" age_lower="18" age_upper="35">
 Unterschied	Unterschied	NOUN	-	0:24:51.879000	0:24:52.592000
 ?	-	-	-	0:24:51.879000	0:24:52.592000
 <pause duration="2,2s"/>
@@ -5840,48 +5840,48 @@ fünf	fünf	NUM	-	0:24:52.592000	0:24:55.779000
 Zentimeter	Zentimeter	NOUN	-	0:24:52.592000	0:24:55.779000
 .	-	-	-	0:24:52.592000	0:24:55.779000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:55.779000" end="0:24:56.225000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:55.779000" end="0:24:56.225000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:55.779000	0:24:56.225000
 .	-	-	-	0:24:55.779000	0:24:56.225000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:56.225000" end="0:24:56.619000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:56.225000" end="0:24:56.619000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:56.225000	0:24:56.619000
 .	-	-	-	0:24:56.225000	0:24:56.619000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:56.619000" end="0:24:58.045000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:56.619000" end="0:24:58.045000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 (ist	sein	AUX	-	0:24:56.619000	0:24:58.045000
 so)	so	ADV	-	0:24:56.619000	0:24:58.045000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:58.045000" end="0:24:58.565000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:58.045000" end="0:24:58.565000" project="PP03" age_lower="18" age_upper="35">
 (vielleicht	vielleicht	ADV	-	0:24:58.045000	0:24:58.565000
 war	sein	AUX	-	0:24:58.045000	0:24:58.565000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:58.565000" end="0:24:59.265000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:58.565000" end="0:24:59.265000" project="PP03" age_lower="18" age_upper="35">
 circa	circa	ADV	-	0:24:58.565000	0:24:59.265000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:58.565000" end="0:24:59.265000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:58.565000" end="0:24:59.265000" project="PP03" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:24:58.565000	0:24:59.265000
 mehr	mehr	ADV	-	0:24:58.565000	0:24:59.265000
 .)	-	-	-	0:24:58.565000	0:24:59.265000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:59.265000" end="0:25:00.012000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:24:59.265000" end="0:25:00.012000" project="PP03" age_lower="18" age_upper="35">
 fünf	fünf	NUM	-	0:24:59.265000	0:25:00.012000
 (oder)	oder	CCONJ	-	0:24:59.265000	0:25:00.012000
 .	-	-	-	0:24:59.265000	0:25:00.012000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:00.012000" end="0:25:01.285000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:00.012000" end="0:25:01.285000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:25:00.012000	0:25:01.285000
 ja	ja	PART	-	0:25:00.012000	0:25:01.285000
 .	-	-	-	0:25:00.012000	0:25:01.285000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:01.285000" end="0:25:03.925000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:01.285000" end="0:25:03.925000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ein	einen	DET	-	0:25:01.285000	0:25:03.925000
 Magne=	Magnesitwerk	NOUN	-	0:25:01.285000	0:25:03.925000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:01.285000" end="0:25:03.925000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:01.285000" end="0:25:03.925000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 nein	nein	PART	-	0:25:01.285000	0:25:03.925000
 gut	gut	ADJ	-	0:25:01.285000	0:25:03.925000
@@ -5889,22 +5889,22 @@ war	sein	AUX	-	0:25:01.285000	0:25:03.925000
 k/	-	-	-	0:25:01.285000	0:25:03.925000
 .	-	-	-	0:25:01.285000	0:25:03.925000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:03.925000" end="0:25:04.699000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:03.925000" end="0:25:04.699000" project="PP03" age_lower="18" age_upper="35">
 sitwerk	-	SPACE	-	0:25:03.925000	0:25:04.699000
 war	sein	AUX	-	0:25:03.925000	0:25:04.699000
 da	da	ADV	-	0:25:03.925000	0:25:04.699000
 oben	oben	ADV	-	0:25:03.925000	0:25:04.699000
 .	-	-	-	0:25:03.925000	0:25:04.699000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:04.699000" end="0:25:05.199000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:04.699000" end="0:25:05.199000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:25:04.699000	0:25:05.199000
 .	-	-	-	0:25:04.699000	0:25:05.199000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:05.199000" end="0:25:06.245000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:05.199000" end="0:25:06.245000" project="PP03" age_lower="18" age_upper="35">
 aber/	-	-	-	0:25:05.199000	0:25:06.245000
 .	-	-	-	0:25:05.199000	0:25:06.245000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:06.245000" end="0:25:12.632000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:06.245000" end="0:25:12.632000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 kann	können	VERB	-	0:25:06.245000	0:25:07.879000
 ich	ich	PRON	-	0:25:06.245000	0:25:07.879000
@@ -5930,22 +5930,22 @@ gestorben	sterben	VERB	-	0:25:07.879000	0:25:12.632000
 ist	sein	AUX	-	0:25:07.879000	0:25:12.632000
 .	-	-	-	0:25:07.879000	0:25:12.632000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:12.632000" end="0:25:14.625000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:12.632000" end="0:25:14.625000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ja	ja	PART	-	0:25:12.632000	0:25:14.625000
 .	-	-	-	0:25:12.632000	0:25:14.625000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:14.625000" end="0:25:15.752000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:14.625000" end="0:25:15.752000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 mhm	mhm	PROPN	-	0:25:14.625000	0:25:15.752000
 .	-	-	-	0:25:14.625000	0:25:15.752000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:15.752000" end="0:25:16.792000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:15.752000" end="0:25:16.792000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 mhm	mhm	PROPN	-	0:25:15.752000	0:25:16.792000
 .	-	-	-	0:25:15.752000	0:25:16.792000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:16.792000" end="0:25:25.679000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:16.792000" end="0:25:25.679000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 na	na	X	-	0:25:16.792000	0:25:18.132000
 gut	gut	ADJ	-	0:25:16.792000	0:25:18.132000
@@ -5969,9 +5969,9 @@ _Tatte_	-	-	??|??	0:25:23.072000	0:25:25.679000
 von	-	-	??	0:25:23.072000	0:25:25.679000
 ORT	ORT	-	??	0:25:23.072000	0:25:25.679000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:25.679000" end="0:25:26.145000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:25.679000" end="0:25:26.145000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:25.679000" end="0:25:33.459000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:25.679000" end="0:25:33.459000" project="PP03" age_lower="18" age_upper="35">
 kommt	-	-	-	0:25:25.679000	0:25:26.145000
 ,	-	-	-	0:25:25.679000	0:25:26.145000
 von	von	ADP	??	0:25:26.145000	0:25:28.132000
@@ -5990,11 +5990,11 @@ das	der	DET	-	0:25:28.132000	0:25:33.459000
 ORT	ORT	NOUN	-	0:25:28.132000	0:25:33.459000
 ,	-	-	-	0:25:28.132000	0:25:33.459000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:33.459000" end="0:25:34.012000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:33.459000" end="0:25:34.012000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:33.459000	0:25:34.012000
 .	-	-	-	0:25:33.459000	0:25:34.012000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:34.012000" end="0:25:43.632000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:34.012000" end="0:25:43.632000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:25:34.012000	0:25:37.145000
 der	der	PRON	-	0:25:34.012000	0:25:37.145000
 und	und	CCONJ	-	0:25:34.012000	0:25:37.145000
@@ -6023,11 +6023,11 @@ ZAHL	ZAHL	PROPN	-	0:25:41.105000	0:25:43.632000
 seit	seit	ADP	-	0:25:41.105000	0:25:43.632000
 ZAHL	ZAHL	NUM	-	0:25:41.105000	0:25:43.632000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:43.632000" end="0:25:44.085000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:43.632000" end="0:25:44.085000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:43.632000	0:25:44.085000
 .	-	-	-	0:25:43.632000	0:25:44.085000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:43.632000" end="0:25:48.292000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:43.632000" end="0:25:48.292000" project="PP03" age_lower="18" age_upper="35">
 ZAHL	ZAHL	SPACE	-	0:25:43.632000	0:25:44.085000
 ist	sein	AUX	-	0:25:43.632000	0:25:44.085000
 der	der	PRON	-	0:25:44.085000	0:25:44.419000
@@ -6045,11 +6045,11 @@ ZAHL	ZAHL	NUM	-	0:25:44.419000	0:25:48.292000
 Jahre	Jahr	NOUN	-	0:25:44.419000	0:25:48.292000
 ?	-	-	-	0:25:44.419000	0:25:48.292000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:48.292000" end="0:25:48.805000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:48.292000" end="0:25:48.805000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:48.292000	0:25:48.805000
 .	-	-	-	0:25:48.292000	0:25:48.805000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:48.805000" end="0:25:51.632000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:48.805000" end="0:25:51.632000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:25:48.805000	0:25:51.632000
 er	ich	PRON	-	0:25:48.805000	0:25:51.632000
@@ -6059,9 +6059,9 @@ noch	noch	ADV	-	0:25:48.805000	0:25:51.632000
 so	so	ADV	-	0:25:48.805000	0:25:51.632000
 .	-	-	-	0:25:48.805000	0:25:51.632000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:51.632000" end="0:25:53.619000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:51.632000" end="0:25:53.619000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:51.632000" end="0:25:53.619000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:51.632000" end="0:25:53.619000" project="PP03" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:25:51.632000	0:25:53.619000
 nichts	nichts	PRON	-	0:25:51.632000	0:25:53.619000
 angenommen	annehmen	VERB	-	0:25:51.632000	0:25:53.619000
@@ -6069,31 +6069,31 @@ angenommen	annehmen	VERB	-	0:25:51.632000	0:25:53.619000
 gell	gell	ADJ	-	0:25:51.632000	0:25:53.619000
 ?	-	-	-	0:25:51.632000	0:25:53.619000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:53.619000" end="0:25:54.225000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:53.619000" end="0:25:54.225000" project="PP03" age_lower="18" age_upper="35">
 überhaupt	überhaupt	ADV	-	0:25:53.619000	0:25:54.225000
 nicht	nicht	PART	-	0:25:53.619000	0:25:54.225000
 .	-	-	-	0:25:53.619000	0:25:54.225000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:54.225000" end="0:25:54.939000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:54.225000" end="0:25:54.939000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:25:54.225000	0:25:54.939000
 ?	-	-	-	0:25:54.225000	0:25:54.939000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:54.939000" end="0:25:56.299000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:54.939000" end="0:25:56.299000" project="PP03" age_lower="18" age_upper="35">
 eine	einen	DET	-	0:25:54.939000	0:25:56.299000
 Kleinigkeit	Kleinigkeit	NOUN	-	0:25:54.939000	0:25:56.299000
 schon	schon	ADV	-	0:25:54.939000	0:25:56.299000
 .	-	-	-	0:25:54.939000	0:25:56.299000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:56.299000" end="0:25:57.112000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:56.299000" end="0:25:57.112000" project="PP03" age_lower="18" age_upper="35">
 bisschen	bisschen	NOUN	-	0:25:56.299000	0:25:57.112000
 vielleicht	vielleicht	ADV	-	0:25:56.299000	0:25:57.112000
 .	-	-	-	0:25:56.299000	0:25:57.112000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:57.112000" end="0:25:57.565000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:57.112000" end="0:25:57.565000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:57.112000	0:25:57.565000
 .	-	-	-	0:25:57.112000	0:25:57.565000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:57.565000" end="0:25:59.792000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:57.565000" end="0:25:59.792000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 vielleicht	vielleicht	ADV	-	0:25:57.565000	0:25:59.792000
 in	in	ADP	-	0:25:57.565000	0:25:59.792000
@@ -6104,7 +6104,7 @@ aber	aber	CCONJ	-	0:25:57.565000	0:25:59.792000
 so/	-	-	-	0:25:57.565000	0:25:59.792000
 .	-	-	-	0:25:57.565000	0:25:59.792000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:59.792000" end="0:26:02.939000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:25:59.792000" end="0:26:02.939000" project="PP03" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:25:59.792000	0:26:00.972000
 die	der	DET	-	0:25:59.792000	0:26:00.972000
 Mama	Mama	NOUN	-	0:25:59.792000	0:26:00.972000
@@ -6122,21 +6122,21 @@ halt	halt	ADV	-	0:26:02.005000	0:26:02.939000
 einen	ein	DET	-	0:26:02.005000	0:26:02.939000
 ORT	ORT	NOUN	-	0:26:02.005000	0:26:02.939000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:02.005000" end="0:26:02.939000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:02.005000" end="0:26:02.939000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:26:02.005000	0:26:02.939000
 .	-	-	-	0:26:02.005000	0:26:02.939000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:02.939000" end="0:26:04.105000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:02.939000" end="0:26:04.105000" project="PP03" age_lower="18" age_upper="35">
 ORT	ORT	SPACE	-	0:26:02.939000	0:26:04.105000
 Dialekt	Dialekt	PROPN	-	0:26:02.939000	0:26:04.105000
 .	-	-	-	0:26:02.939000	0:26:04.105000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:04.105000" end="0:26:04.565000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:04.105000" end="0:26:04.565000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:04.105000	0:26:04.565000
 .	-	-	-	0:26:04.105000	0:26:04.565000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:04.565000" end="0:26:07.199000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:04.565000" end="0:26:07.199000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:26:04.565000	0:26:05.105000
 <pause duration="1,1s"/>
 redet	reden	VERB	-	0:26:05.105000	0:26:07.199000
@@ -6144,20 +6144,20 @@ auch	auch	ADV	-	0:26:05.105000	0:26:07.199000
 fast	fast	ADV	-	0:26:05.105000	0:26:07.199000
 nichts	nichts	PRON	-	0:26:05.105000	0:26:07.199000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:05.105000" end="0:26:07.199000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:05.105000" end="0:26:07.199000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 halt	halt	ADV	-	0:26:05.105000	0:26:07.199000
 ,	-	-	-	0:26:05.105000	0:26:07.199000
 ja	ja	PART	-	0:26:05.105000	0:26:07.199000
 .	-	-	-	0:26:05.105000	0:26:07.199000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:07.199000" end="0:26:08.525000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:07.199000" end="0:26:08.525000" project="PP03" age_lower="18" age_upper="35">
 Tuxerisch	Tuxerisch	NOUN	-	0:26:07.199000	0:26:08.525000
 ,	-	-	-	0:26:07.199000	0:26:08.525000
 oder/	-	-	-	0:26:07.199000	0:26:08.525000
 .	-	-	-	0:26:07.199000	0:26:08.525000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:08.525000" end="0:26:09.839000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:08.525000" end="0:26:09.839000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 hat	haben	AUX	-	0:26:08.525000	0:26:09.839000
 sie	ich	PRON	-	0:26:08.525000	0:26:09.839000
@@ -6166,11 +6166,11 @@ nicht	nicht	PART	-	0:26:08.525000	0:26:09.839000
 ja	ja	PART	-	0:26:08.525000	0:26:09.839000
 .	-	-	-	0:26:08.525000	0:26:09.839000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:09.839000" end="0:26:10.279000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:09.839000" end="0:26:10.279000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:09.839000	0:26:10.279000
 .	-	-	-	0:26:09.839000	0:26:10.279000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:10.279000" end="0:26:12.152000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:10.279000" end="0:26:12.152000" project="PP03" age_lower="18" age_upper="35">
 da	da	SCONJ	-	0:26:10.279000	0:26:12.152000
 da	da	ADV	-	0:26:10.279000	0:26:12.152000
 gibt	geben	VERB	-	0:26:10.279000	0:26:12.152000
@@ -6179,11 +6179,11 @@ eben	eben	ADV	-	0:26:10.279000	0:26:12.152000
 Unterschiedliche	Unterschiedliche	NOUN	-	0:26:10.279000	0:26:12.152000
 .	-	-	-	0:26:10.279000	0:26:12.152000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:12.152000" end="0:26:12.752000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:12.152000" end="0:26:12.752000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:12.152000	0:26:12.752000
 .	-	-	-	0:26:12.152000	0:26:12.752000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:12.752000" end="0:26:15.685000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:12.752000" end="0:26:15.685000" project="PP03" age_lower="18" age_upper="35">
 eine	einen	PRON	-	0:26:12.752000	0:26:15.685000
 ,	-	-	-	0:26:12.752000	0:26:15.685000
 die	der	PRON	-	0:26:12.752000	0:26:15.685000
@@ -6196,7 +6196,7 @@ oft	oft	ADV	-	0:26:12.752000	0:26:15.685000
 dann/	-	-	-	0:26:12.752000	0:26:15.685000
 .	-	-	-	0:26:12.752000	0:26:15.685000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:15.685000" end="0:26:19.372000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:15.685000" end="0:26:19.372000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:15.685000	0:26:18.045000
 ,	-	-	-	0:26:15.685000	0:26:18.045000
 du	du	PRON	-	0:26:15.685000	0:26:18.045000
@@ -6210,7 +6210,7 @@ anpassen	anpassen	VERB	-	0:26:15.685000	0:26:18.045000
 oder	oder	CCONJ	-	0:26:15.685000	0:26:18.045000
 ?	-	-	-	0:26:15.685000	0:26:18.045000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:18.045000" end="0:26:24.559000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:18.045000" end="0:26:24.559000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:26:18.045000	0:26:19.372000
 passe	passe	VERB	-	0:26:18.045000	0:26:19.372000
 mich	sich	PRON	-	0:26:18.045000	0:26:19.372000
@@ -6235,11 +6235,11 @@ ihrer	sich	DET	-	0:26:19.372000	0:26:24.559000
 <pause duration="0,5s"/>
 Sprache	Sprache	NOUN	-	0:26:19.372000	0:26:24.559000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:24.559000" end="0:26:24.979000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:24.559000" end="0:26:24.979000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:24.559000	0:26:24.979000
 .	-	-	-	0:26:24.559000	0:26:24.979000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:24.559000" end="0:26:37.372000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:24.559000" end="0:26:37.372000" project="PP03" age_lower="18" age_upper="35">
 treu	treu	ADJ	-	0:26:24.559000	0:26:24.979000
 .	-	-	-	0:26:24.559000	0:26:24.979000
 <pause duration="4,0s"/>
@@ -6264,7 +6264,7 @@ Tuxerisch	Tuxerisch	ADJ	-	0:26:34.752000	0:26:37.372000
 oder	oder	CCONJ	-	0:26:34.752000	0:26:37.372000
 .	-	-	-	0:26:34.752000	0:26:37.372000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:37.372000" end="0:26:41.039000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:37.372000" end="0:26:41.039000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:37.372000	0:26:37.945000
 .	-	-	-	0:26:37.372000	0:26:37.945000
 <pause duration="1,5s"/>
@@ -6277,7 +6277,7 @@ anderes	ander	PRON	-	0:26:37.945000	0:26:41.039000
 sagen	sagen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:26:37.945000	0:26:41.039000
 .	-	-	-	0:26:37.945000	0:26:41.039000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:41.039000" end="0:26:45.419000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:41.039000" end="0:26:45.419000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:41.039000	0:26:41.399000
 .	-	-	-	0:26:41.039000	0:26:41.399000
 <pause duration="0,9s"/>
@@ -6297,11 +6297,11 @@ nicht	nicht	PART	-	0:26:41.399000	0:26:45.045000
 eh	-	-	-	0:26:45.045000	0:26:45.419000
 ,	-	-	-	0:26:45.045000	0:26:45.419000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:45.419000" end="0:26:45.905000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:45.419000" end="0:26:45.905000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:45.419000	0:26:45.905000
 .	-	-	-	0:26:45.419000	0:26:45.905000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:45.419000" end="0:26:48.325000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:45.419000" end="0:26:48.325000" project="PP03" age_lower="18" age_upper="35">
 sowas	sowas	PROPN	-	0:26:45.419000	0:26:45.905000
 ,	-	-	-	0:26:45.419000	0:26:45.905000
 gibt	geben	VERB	-	0:26:45.905000	0:26:47.539000
@@ -6317,7 +6317,7 @@ was	was	PRON	-	0:26:47.539000	0:26:48.325000
 richtig/	-	-	-	0:26:47.539000	0:26:48.325000
 .	-	-	-	0:26:47.539000	0:26:48.325000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:48.325000" end="0:26:52.112000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:48.325000" end="0:26:52.112000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:48.325000	0:26:48.739000
 .	-	-	-	0:26:48.325000	0:26:48.739000
 <pause duration="0,6s"/>
@@ -6331,7 +6331,7 @@ no/	-	-	-	0:26:50.045000	0:26:52.112000
 ja	ja	PART	-	0:26:50.045000	0:26:52.112000
 .	-	-	-	0:26:50.045000	0:26:52.112000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:50.045000" end="0:26:52.112000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:50.045000" end="0:26:52.112000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:26:50.045000	0:26:52.112000
 ,	-	-	-	0:26:50.045000	0:26:52.112000
@@ -6339,11 +6339,11 @@ wir	ich	PRON	-	0:26:50.045000	0:26:52.112000
 halt	halt	VERB	-	0:26:50.045000	0:26:52.112000
 .	-	-	-	0:26:50.045000	0:26:52.112000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:52.112000" end="0:26:53.072000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:52.112000" end="0:26:53.072000" project="PP03" age_lower="18" age_upper="35">
 also/	-	-	-	0:26:52.112000	0:26:53.072000
 .	-	-	-	0:26:52.112000	0:26:53.072000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:52.112000" end="0:27:01.399000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:26:52.112000" end="0:27:01.399000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 meinst	meinen	PROPN	-	0:26:53.072000	0:26:54.919000
 du	du	PROPN	-	0:26:53.072000	0:26:54.919000
@@ -6380,19 +6380,19 @@ sich	-	-	-	0:26:59.345000	0:27:01.399000
 verändert	-	-	-	0:26:59.345000	0:27:01.399000
 ?	-	-	-	0:26:59.345000	0:27:01.399000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:01.399000" end="0:27:04.725000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:01.399000" end="0:27:04.725000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 ich	ich	PRON	-	0:27:01.399000	0:27:04.725000
 glaube	glauben	VERB	-	0:27:01.399000	0:27:04.725000
 schon	schon	ADV	-	0:27:01.399000	0:27:04.725000
 .	-	-	-	0:27:01.399000	0:27:04.725000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:04.725000" end="0:27:05.645000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:04.725000" end="0:27:05.645000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:27:04.725000	0:27:05.645000
 .	-	-	-	0:27:04.725000	0:27:05.645000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:05.645000" end="0:27:12.912000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:05.645000" end="0:27:12.912000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 sowieso	sowieso	ADV	-	0:27:05.645000	0:27:07.285000
 bei	bei	ADP	-	0:27:05.645000	0:27:07.285000
@@ -6412,7 +6412,7 @@ so	so	ADV	-	0:27:07.285000	0:27:12.912000
 weiter	weit	ADV	-	0:27:07.285000	0:27:12.912000
 .	-	-	-	0:27:07.285000	0:27:12.912000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:12.912000" end="0:27:15.085000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:12.912000" end="0:27:15.085000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:27:12.912000	0:27:15.085000
 so	so	ADV	-	0:27:12.912000	0:27:15.085000
@@ -6420,11 +6420,11 @@ ja	ja	ADV	-	0:27:12.912000	0:27:15.085000
 die	der	DET	-	0:27:12.912000	0:27:15.085000
 Begrifflich=	Begrifflichkeiten	NOUN	-	0:27:12.912000	0:27:15.085000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:15.085000" end="0:27:15.585000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:15.085000" end="0:27:15.585000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:15.085000	0:27:15.585000
 .	-	-	-	0:27:15.085000	0:27:15.585000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:15.085000" end="0:27:18.379000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:15.085000" end="0:27:18.379000" project="PP03" age_lower="18" age_upper="35">
 keiten	-	SPACE	-	0:27:15.085000	0:27:15.585000
 ,	-	-	-	0:27:15.085000	0:27:15.585000
 was/	-	-	-	0:27:15.085000	0:27:15.585000
@@ -6442,11 +6442,11 @@ Wörter	Wort	NOUN	-	0:27:15.585000	0:27:18.125000
 was	was	PRON	-	0:27:18.125000	0:27:18.379000
 halt	halt	ADV	-	0:27:18.125000	0:27:18.379000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:18.379000" end="0:27:18.819000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:18.379000" end="0:27:18.819000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:18.379000	0:27:18.819000
 .	-	-	-	0:27:18.379000	0:27:18.819000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:18.379000" end="0:27:22.019000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:18.379000" end="0:27:22.019000" project="PP03" age_lower="18" age_upper="35">
 vielleicht	vielleicht	ADV	-	0:27:18.379000	0:27:18.819000
 einfach	einfach	ADJ	-	0:27:18.819000	0:27:19.625000
 hineinkommen	hineinkommen	VERB	-	0:27:18.819000	0:27:19.625000
@@ -6458,7 +6458,7 @@ verwendet	verwenden	VERB	-	0:27:19.625000	0:27:22.019000
 man	man	PRON	-	0:27:19.625000	0:27:22.019000
 .	-	-	-	0:27:19.625000	0:27:22.019000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:22.019000" end="0:27:26.612000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:22.019000" end="0:27:26.612000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 aber	aber	CCONJ	-	0:27:22.019000	0:27:24.652000
 ich	ich	PRON	-	0:27:22.019000	0:27:24.652000
@@ -6475,20 +6475,20 @@ verändern	verändern	VERB	-	0:27:25.639000	0:27:26.612000
 wird	werden	AUX	-	0:27:25.639000	0:27:26.612000
 .	-	-	-	0:27:25.639000	0:27:26.612000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:25.639000" end="0:27:26.612000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:25.639000" end="0:27:26.612000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:27:25.639000	0:27:26.612000
 .	-	-	-	0:27:25.639000	0:27:26.612000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:26.612000" end="0:27:27.312000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:26.612000" end="0:27:27.312000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:27:26.612000	0:27:27.312000
 es	ich	PRON	-	0:27:26.612000	0:27:27.312000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:26.612000" end="0:27:27.312000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:26.612000" end="0:27:27.312000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:26.612000	0:27:27.312000
 .	-	-	-	0:27:26.612000	0:27:27.312000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:27.312000" end="0:27:28.999000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:27.312000" end="0:27:28.999000" project="PP03" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:27:27.312000	0:27:28.619000
 auch	auch	ADV	-	0:27:27.312000	0:27:28.619000
 schon	schon	ADV	-	0:27:27.312000	0:27:28.619000
@@ -6499,30 +6499,30 @@ so	so	ADV	-	0:27:27.312000	0:27:28.619000
 wie	wie	ADV	-	0:27:28.619000	0:27:28.999000
 es	ich	PRON	-	0:27:28.619000	0:27:28.999000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:28.999000" end="0:27:29.579000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:28.999000" end="0:27:29.579000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:28.999000	0:27:29.579000
 ,	-	-	-	0:27:28.999000	0:27:29.579000
 sicher	sichern	ADJ	-	0:27:28.999000	0:27:29.579000
 .	-	-	-	0:27:28.999000	0:27:29.579000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:29.579000" end="0:27:31.092000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:29.579000" end="0:27:31.092000" project="PP03" age_lower="18" age_upper="35">
 vor	vor	ADP	-	0:27:29.579000	0:27:31.092000
 vierzig	vierzig	NUM	-	0:27:29.579000	0:27:31.092000
 Jahren	Jahr	NOUN	-	0:27:29.579000	0:27:31.092000
 war	sein	AUX	-	0:27:29.579000	0:27:31.092000
 .	-	-	-	0:27:29.579000	0:27:31.092000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:31.092000" end="0:27:31.985000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:31.092000" end="0:27:31.985000" project="PP03" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:27:31.092000	0:27:31.985000
 alle	all	DET	-	0:27:31.092000	0:27:31.985000
 Fälle	Fall	NOUN	-	0:27:31.092000	0:27:31.985000
 .	-	-	-	0:27:31.092000	0:27:31.985000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:31.985000" end="0:27:32.365000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:31.985000" end="0:27:32.365000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:31.985000	0:27:32.365000
 .	-	-	-	0:27:31.985000	0:27:32.365000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:32.365000" end="0:27:49.599000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:32.365000" end="0:27:49.599000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:27:32.365000	0:27:45.279000
 und	und	CCONJ	-	0:27:32.365000	0:27:45.279000
 und	und	CCONJ	-	0:27:32.365000	0:27:45.279000
@@ -6567,43 +6567,43 @@ Generation	Generation	NOUN	-	0:27:45.279000	0:27:49.599000
 auch	auch	ADV	-	0:27:45.279000	0:27:49.599000
 schon	schon	ADV	-	0:27:45.279000	0:27:49.599000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:49.599000" end="0:27:50.165000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:49.599000" end="0:27:50.165000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:49.599000	0:27:50.165000
 .	-	-	-	0:27:49.599000	0:27:50.165000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:50.165000" end="0:27:50.925000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:50.165000" end="0:27:50.925000" project="PP03" age_lower="18" age_upper="35">
 umgebaut	umbauen	VERB	-	0:27:50.165000	0:27:50.925000
 haben	haben	AUX	-	0:27:50.165000	0:27:50.925000
 .	-	-	-	0:27:50.165000	0:27:50.925000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:50.925000" end="0:27:52.159000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:50.925000" end="0:27:52.159000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:27:50.925000	0:27:52.159000
 ,	-	-	-	0:27:50.925000	0:27:52.159000
 stimmt	stimmen	VERB	-	0:27:50.925000	0:27:52.159000
 .	-	-	-	0:27:50.925000	0:27:52.159000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:50.925000" end="0:27:52.392000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:50.925000" end="0:27:52.392000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 vermutlich	vermutlich	ADV	-	0:27:50.925000	0:27:52.159000
 .	-	-	-	0:27:50.925000	0:27:52.159000
 ganz	ganz	ADV	-	0:27:52.159000	0:27:52.392000
 si=	sichern	ADJ	-	0:27:52.159000	0:27:52.392000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:52.392000" end="0:27:52.819000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:52.392000" end="0:27:52.819000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:52.392000	0:27:52.819000
 .	-	-	-	0:27:52.392000	0:27:52.819000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:52.392000" end="0:27:52.819000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:52.392000" end="0:27:52.819000" project="PP03" age_lower="18" age_upper="35">
 cher	-	SPACE	-	0:27:52.392000	0:27:52.819000
 schon	schon	ADV	-	0:27:52.392000	0:27:52.819000
 .	-	-	-	0:27:52.392000	0:27:52.819000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:52.819000" end="0:27:53.179000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:52.819000" end="0:27:53.179000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:52.819000	0:27:53.179000
 .	-	-	-	0:27:52.819000	0:27:53.179000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:53.179000" end="0:28:00.525000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:27:53.179000" end="0:28:00.525000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 okay	okay	NOUN	-	0:27:53.179000	0:27:56.105000
 ,	-	-	-	0:27:53.179000	0:27:56.105000
@@ -6623,14 +6623,14 @@ und	und	CCONJ	-	0:27:56.105000	0:28:00.525000
 Hobby"	Hobby	NOUN	-	0:27:56.105000	0:28:00.525000
 .	-	-	-	0:27:56.105000	0:28:00.525000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:00.525000" end="0:28:02.839000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:00.525000" end="0:28:02.839000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 Freizeit	Freizeit	NOUN	-	0:28:00.525000	0:28:02.839000
 und	und	CCONJ	-	0:28:00.525000	0:28:02.839000
 Hobby	Hobby	NOUN	-	0:28:00.525000	0:28:02.839000
 .	-	-	-	0:28:00.525000	0:28:02.839000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:02.839000" end="0:28:03.859000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:02.839000" end="0:28:03.859000" project="PP03" age_lower="18" age_upper="35">
 *weißt*	-	-	-	0:28:02.839000	0:28:03.012000
 ,	-	-	-	0:28:02.839000	0:28:03.012000
 müssen	müssen	VERB	-	0:28:03.012000	0:28:03.859000
@@ -6640,7 +6640,7 @@ Gas	Gas	NOUN	-	0:28:03.012000	0:28:03.859000
 geben	geben	VERB	-	0:28:03.012000	0:28:03.859000
 .	-	-	-	0:28:03.012000	0:28:03.859000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:03.859000" end="0:28:07.239000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:03.859000" end="0:28:07.239000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:03.859000	0:28:06.385000
 ,	-	-	-	0:28:03.859000	0:28:06.385000
 ich	ich	PRON	-	0:28:03.859000	0:28:06.385000
@@ -6654,12 +6654,12 @@ wir	ich	PRON	-	0:28:06.385000	0:28:07.239000
 noch	noch	ADV	-	0:28:06.385000	0:28:07.239000
 .	-	-	-	0:28:06.385000	0:28:07.239000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:07.239000" end="0:28:08.125000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:07.239000" end="0:28:08.125000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:28:07.239000	0:28:08.125000
 .	-	-	-	0:28:07.239000	0:28:08.125000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:08.125000" end="0:28:13.345000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:08.125000" end="0:28:13.345000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:28:08.125000	0:28:10.539000
 <pause duration="0,6s"/>
 Freizeit	Freizeit	NOUN	-	0:28:08.125000	0:28:10.539000
@@ -6677,37 +6677,37 @@ ich	ich	PRON	-	0:28:10.539000	0:28:13.345000
 Langlaufen	Langlaufen	NOUN	-	0:28:10.539000	0:28:13.345000
 ,	-	-	-	0:28:10.539000	0:28:13.345000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:13.345000" end="0:28:13.972000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:13.345000" end="0:28:13.972000" project="PP03" age_lower="18" age_upper="35">
 bravo	bravo	PROPN	-	0:28:13.345000	0:28:13.972000
 !	-	-	-	0:28:13.345000	0:28:13.972000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:13.972000" end="0:28:14.752000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:13.972000" end="0:28:14.752000" project="PP03" age_lower="18" age_upper="35">
 Tennis	Tennis	NOUN	-	0:28:13.972000	0:28:14.752000
 spielen	spielen	VERB	-	0:28:13.972000	0:28:14.752000
 ,	-	-	-	0:28:13.972000	0:28:14.752000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:14.752000" end="0:28:15.379000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:14.752000" end="0:28:15.379000" project="PP03" age_lower="18" age_upper="35">
 bravo	bravo	PROPN	-	0:28:14.752000	0:28:15.379000
 !	-	-	-	0:28:14.752000	0:28:15.379000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:15.379000" end="0:28:16.852000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:15.379000" end="0:28:16.852000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 Sommer	Sommer	NOUN	-	0:28:15.379000	0:28:16.852000
 wandern	wandern	VERB	-	0:28:15.379000	0:28:16.852000
 gehen	gehen	VERB	-	0:28:15.379000	0:28:16.852000
 .	-	-	-	0:28:15.379000	0:28:16.852000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:16.852000" end="0:28:18.045000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:16.852000" end="0:28:18.045000" project="PP03" age_lower="18" age_upper="35">
 gewaltig	gewaltig	ADJ	-	0:28:16.852000	0:28:18.045000
 ,	-	-	-	0:28:16.852000	0:28:18.045000
 (ui)	ui	X	-	0:28:16.852000	0:28:18.045000
 .	-	-	-	0:28:16.852000	0:28:18.045000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:18.045000" end="0:28:19.472000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:18.045000" end="0:28:19.472000" project="PP03" age_lower="18" age_upper="35">
 und/	-	-	-	0:28:19.032000	0:28:19.472000
 .	-	-	-	0:28:19.032000	0:28:19.472000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:19.032000" end="0:28:20.232000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:19.032000" end="0:28:20.232000" project="PP03" age_lower="18" age_upper="35">
 einen	ein	DET	-	0:28:19.032000	0:28:19.472000
 S=	Sommer	NOUN	-	0:28:19.032000	0:28:19.472000
 ommer	-	SPACE	-	0:28:19.472000	0:28:20.232000
@@ -6715,11 +6715,11 @@ wandern	wandern	VERB	-	0:28:19.472000	0:28:20.232000
 gehen	gehen	VERB	-	0:28:19.472000	0:28:20.232000
 ?	-	-	-	0:28:19.472000	0:28:20.232000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:20.232000" end="0:28:20.672000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:20.232000" end="0:28:20.672000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:20.232000	0:28:20.672000
 .	-	-	-	0:28:20.232000	0:28:20.672000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:20.672000" end="0:28:22.092000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:20.672000" end="0:28:22.092000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:28:20.672000	0:28:22.092000
 ja	ja	PART	-	0:28:20.672000	0:28:22.092000
 ,	-	-	-	0:28:20.672000	0:28:22.092000
@@ -6731,13 +6731,13 @@ gehen	gehen	VERB	-	0:28:20.672000	0:28:22.092000
 ja	ja	PART	-	0:28:20.672000	0:28:22.092000
 .	-	-	-	0:28:20.672000	0:28:22.092000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:22.092000" end="0:28:24.525000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:22.092000" end="0:28:24.525000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:28:23.452000	0:28:24.525000
 ,	-	-	-	0:28:23.452000	0:28:24.525000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:23.452000" end="0:28:24.525000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:23.452000" end="0:28:24.525000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:24.525000" end="0:28:26.265000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:24.525000" end="0:28:26.265000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 Schi	Schi	PROPN	Prog ProgKon tunP	0:28:24.525000	0:28:26.265000
 fahren	fahren	VERB	Prog ProgKon tunP	0:28:24.525000	0:28:26.265000
@@ -6747,13 +6747,13 @@ nicht	nicht	PART	-	0:28:24.525000	0:28:26.265000
 so	so	ADV	-	0:28:24.525000	0:28:26.265000
 .	-	-	-	0:28:24.525000	0:28:26.265000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:26.265000" end="0:28:27.559000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:26.265000" end="0:28:27.559000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 nicht	nicht	PART	-	0:28:26.265000	0:28:27.559000
 mehr	mehr	ADV	-	0:28:26.265000	0:28:27.559000
 ?	-	-	-	0:28:26.265000	0:28:27.559000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:27.559000" end="0:28:32.212000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:27.559000" end="0:28:32.212000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:27.559000	0:28:30.179000
 nur	-	-	-	0:28:27.559000	0:28:30.179000
 wenn	-	-	-	0:28:27.559000	0:28:30.179000
@@ -6773,11 +6773,11 @@ Schi	Schi	PROPN	-	0:28:30.179000	0:28:32.212000
 hinauf	hinauf	ADP	-	0:28:30.179000	0:28:32.212000
 .	-	-	-	0:28:30.179000	0:28:32.212000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:32.212000" end="0:28:32.792000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:32.212000" end="0:28:32.792000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:28:32.212000	0:28:32.792000
 .	-	-	-	0:28:32.212000	0:28:32.792000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:32.792000" end="0:28:35.912000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:32.792000" end="0:28:35.912000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 weil	weil	SCONJ	-	0:28:32.792000	0:28:34.559000
 sonst	sonst	ADV	-	0:28:32.792000	0:28:34.559000
@@ -6795,7 +6795,7 @@ unter	-	SPACE	-	0:28:35.332000	0:28:35.912000
 schmeiße)	schmeißen	VERB	-	0:28:35.332000	0:28:35.912000
 .	-	-	-	0:28:35.332000	0:28:35.912000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:35.912000" end="0:28:39.799000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:35.912000" end="0:28:39.799000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:28:35.912000	0:28:36.879000
 wäre	sein	AUX	-	0:28:35.912000	0:28:36.879000
 ja	ja	ADV	-	0:28:35.912000	0:28:36.879000
@@ -6820,18 +6820,18 @@ ab	ab	ADP	-	0:28:37.632000	0:28:39.439000
 aber	aber	CCONJ	-	0:28:39.439000	0:28:39.799000
 ist	sein	AUX	-	0:28:39.439000	0:28:39.799000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:39.799000" end="0:28:40.199000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:39.799000" end="0:28:40.199000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:39.799000	0:28:40.199000
 .	-	-	-	0:28:39.799000	0:28:40.199000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:39.799000" end="0:28:40.199000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:39.799000" end="0:28:40.199000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:28:39.799000	0:28:40.199000
 Wurst	Wurst	NOUN	-	0:28:39.799000	0:28:40.199000
 .	-	-	-	0:28:39.799000	0:28:40.199000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:40.199000" end="0:28:41.572000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:40.199000" end="0:28:41.572000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:40.199000" end="0:28:47.645000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:40.199000" end="0:28:47.645000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 wenn	wenn	SCONJ	-	0:28:40.199000	0:28:41.572000
 w/	-	-	-	0:28:40.199000	0:28:41.572000
@@ -6876,11 +6876,11 @@ so	so	ADV	-	0:28:44.825000	0:28:47.645000
 gell	gell	ADJ	-	0:28:44.825000	0:28:47.645000
 ,	-	-	-	0:28:44.825000	0:28:47.645000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:47.645000" end="0:28:47.999000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:47.645000" end="0:28:47.999000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:47.645000	0:28:47.999000
 .	-	-	-	0:28:47.645000	0:28:47.999000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:47.999000" end="0:28:49.999000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:47.999000" end="0:28:49.999000" project="PP03" age_lower="18" age_upper="35">
 ähm	-	-	-	0:28:47.999000	0:28:49.999000
 (brauch/)	-	-	-	0:28:47.999000	0:28:49.999000
 *kannst*	-	-	-	0:28:47.999000	0:28:49.999000
@@ -6889,7 +6889,7 @@ so	-	-	-	0:28:47.999000	0:28:49.999000
 durchgehen	-	-	-	0:28:47.999000	0:28:49.999000
 .	-	-	-	0:28:47.999000	0:28:49.999000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:49.999000" end="0:28:52.139000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:49.999000" end="0:28:52.139000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:28:49.999000	0:28:52.139000
 ,	-	-	-	0:28:49.999000	0:28:52.139000
@@ -6898,24 +6898,24 @@ _oftang_	-	-	-	0:28:49.999000	0:28:52.139000
 ich	-	-	-	0:28:49.999000	0:28:52.139000
 ,	-	-	-	0:28:49.999000	0:28:52.139000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:52.139000" end="0:28:53.159000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:52.139000" end="0:28:53.159000" project="PP03" age_lower="18" age_upper="35">
 _oft_	-	-	-	0:28:52.139000	0:28:53.159000
 *kennst*	-	-	-	0:28:52.139000	0:28:53.159000
 dich	-	-	-	0:28:52.139000	0:28:53.159000
 n=	-	-	-	0:28:52.139000	0:28:53.159000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:53.159000" end="0:28:53.845000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:53.159000" end="0:28:53.845000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:28:53.159000	0:28:53.845000
 *erfährst*/	-	-	-	0:28:53.159000	0:28:53.845000
 .	-	-	-	0:28:53.159000	0:28:53.845000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:53.159000" end="0:28:53.845000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:53.159000" end="0:28:53.845000" project="PP03" age_lower="18" age_upper="35">
 achher	-	-	-	0:28:53.159000	0:28:53.845000
 .	-	-	-	0:28:53.159000	0:28:53.845000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:53.845000" end="0:28:54.772000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:53.845000" end="0:28:54.772000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:54.772000" end="0:29:01.379000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:28:54.772000" end="0:29:01.379000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:28:54.772000	0:28:56.212000
 und	und	CCONJ	-	0:28:54.772000	0:28:56.212000
 und	und	CCONJ	-	0:28:54.772000	0:28:56.212000
@@ -6953,12 +6953,12 @@ System	System	NOUN	-	0:28:59.299000	0:29:01.379000
 ja	ja	PART	-	0:28:59.299000	0:29:01.379000
 .	-	-	-	0:28:59.299000	0:29:01.379000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:01.379000" end="0:29:05.985000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:01.379000" end="0:29:05.985000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:01.379000	0:29:01.852000
 .	-	-	-	0:29:01.379000	0:29:01.852000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:03.032000" end="0:29:05.985000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:03.032000" end="0:29:05.985000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:03.032000	0:29:05.985000
 ,	-	-	-	0:29:03.032000	0:29:05.985000
 halt	halt	ADV	-	0:29:03.032000	0:29:05.985000
@@ -6976,24 +6976,24 @@ zur	zur	ADP	-	0:29:03.032000	0:29:05.985000
 Schau	Schau	NOUN	-	0:29:03.032000	0:29:05.985000
 .	-	-	-	0:29:03.032000	0:29:05.985000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:05.985000" end="0:29:07.372000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:05.985000" end="0:29:07.372000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:05.985000" end="0:29:07.372000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:05.985000" end="0:29:07.372000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:07.372000" end="0:29:08.352000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:07.372000" end="0:29:08.352000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:07.372000" end="0:29:08.352000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:07.372000" end="0:29:08.352000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:29:07.372000	0:29:08.352000
 ja	ja	PART	-	0:29:07.372000	0:29:08.352000
 ,	-	-	-	0:29:07.372000	0:29:08.352000
 sicher	sichern	ADJ	-	0:29:07.372000	0:29:08.352000
 .	-	-	-	0:29:07.372000	0:29:08.352000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:08.352000" end="0:29:10.345000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:08.352000" end="0:29:10.345000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:08.352000" end="0:29:10.345000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:08.352000" end="0:29:10.345000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:10.345000" end="0:29:12.752000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:10.345000" end="0:29:12.752000" project="PP03" age_lower="18" age_upper="35">
 oh	oh	PROPN	-	0:29:10.345000	0:29:11.705000
 ,	-	-	-	0:29:10.345000	0:29:11.705000
 da	da	ADV	-	0:29:10.345000	0:29:11.705000
@@ -7010,13 +7010,13 @@ gleich	gleichen	ADV	-	0:29:11.705000	0:29:12.752000
 mal	mal	ADV	-	0:29:11.705000	0:29:12.752000
 ,	-	-	-	0:29:11.705000	0:29:12.752000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:11.705000" end="0:29:12.752000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:11.705000" end="0:29:12.752000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:12.752000" end="0:29:13.498000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:12.752000" end="0:29:13.498000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:12.752000" end="0:29:13.498000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:12.752000" end="0:29:13.498000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:13.498000" end="0:29:15.285000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:13.498000" end="0:29:15.285000" project="PP03" age_lower="18" age_upper="35">
 oh	oh	X	-	0:29:13.498000	0:29:14.525000
 ja	ja	PART	-	0:29:13.498000	0:29:14.525000
 ,	-	-	-	0:29:13.498000	0:29:14.525000
@@ -7030,11 +7030,11 @@ muss	muss	VERB	-	0:29:14.525000	0:29:15.285000
 heim	heim	ADP	-	0:29:14.525000	0:29:15.285000
 .	-	-	-	0:29:14.525000	0:29:15.285000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:15.285000" end="0:29:16.672000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:15.285000" end="0:29:16.672000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:16.672000" end="0:29:18.672000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:16.672000" end="0:29:18.672000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:18.672000" end="0:29:20.732000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:18.672000" end="0:29:20.732000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:18.672000	0:29:19.185000
 .	-	-	-	0:29:18.672000	0:29:19.185000
 nein	nein	PART	-	0:29:19.185000	0:29:20.732000
@@ -7050,11 +7050,11 @@ _ding_	-	-	-	0:29:19.185000	0:29:20.732000
 nicht	-	-	-	0:29:19.185000	0:29:20.732000
 ?	-	-	-	0:29:19.185000	0:29:20.732000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:20.732000" end="0:29:21.198000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:20.732000" end="0:29:21.198000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:29:20.732000	0:29:21.198000
 .	-	-	-	0:29:20.732000	0:29:21.198000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:21.198000" end="0:29:26.298000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:21.198000" end="0:29:26.298000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 _oftang_	-	-	-	0:29:21.198000	0:29:23.165000
 .	-	-	-	0:29:21.198000	0:29:23.165000
@@ -7074,11 +7074,11 @@ es	ich	PRON	-	0:29:25.645000	0:29:26.298000
 jetzt	jetzt	ADV	-	0:29:25.645000	0:29:26.298000
 ein	einen	DET	-	0:29:25.645000	0:29:26.298000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:26.298000" end="0:29:26.952000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:26.298000" end="0:29:26.952000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:26.298000	0:29:26.952000
 .	-	-	-	0:29:26.298000	0:29:26.952000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:26.952000" end="0:29:34.572000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:26.952000" end="0:29:34.572000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:29:26.952000	0:29:28.718000
 Freizeit	Freizeit	NOUN	-	0:29:26.952000	0:29:28.718000
 ,	-	-	-	0:29:26.952000	0:29:28.718000
@@ -7097,31 +7097,31 @@ letzter	letzt	ADJ	-	0:29:28.718000	0:29:34.572000
 Zeit	Zeit	NOUN	-	0:29:28.718000	0:29:34.572000
 ,	-	-	-	0:29:28.718000	0:29:34.572000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:34.572000" end="0:29:36.045000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:34.572000" end="0:29:36.045000" project="PP03" age_lower="18" age_upper="35">
 aus	aus	ADP	-	0:29:34.572000	0:29:36.045000
 Arbeit	Arbeit	NOUN	-	0:29:34.572000	0:29:36.045000
 .	-	-	-	0:29:34.572000	0:29:36.045000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:36.045000" end="0:29:36.458000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:36.045000" end="0:29:36.458000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:29:36.045000	0:29:36.458000
 ,	-	-	-	0:29:36.045000	0:29:36.458000
 aus	aus	ADP	-	0:29:36.045000	0:29:36.458000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:36.458000" end="0:29:36.972000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:36.458000" end="0:29:36.972000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:29:36.458000	0:29:36.972000
 .	-	-	-	0:29:36.458000	0:29:36.972000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:36.458000" end="0:29:36.972000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:36.458000" end="0:29:36.972000" project="PP03" age_lower="18" age_upper="35">
 Schlaf	Schlaf	NOUN	-	0:29:36.458000	0:29:36.972000
 .	-	-	-	0:29:36.458000	0:29:36.972000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:36.972000" end="0:29:37.665000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:36.972000" end="0:29:37.665000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:29:36.972000	0:29:37.665000
 ,	-	-	-	0:29:36.972000	0:29:37.665000
 okay	okay	NOUN	-	0:29:36.972000	0:29:37.665000
 .	-	-	-	0:29:36.972000	0:29:37.665000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:37.665000" end="0:29:38.625000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:37.665000" end="0:29:38.625000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:29:37.665000	0:29:38.625000
 würde	werden	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:29:37.665000	0:29:38.625000
 sagen	sagen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:29:37.665000	0:29:38.625000
@@ -7129,11 +7129,11 @@ aus	aus	ADP	-	0:29:37.665000	0:29:38.625000
 Schlaf	Schlaf	NOUN	-	0:29:37.665000	0:29:38.625000
 .	-	-	-	0:29:37.665000	0:29:38.625000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:38.625000" end="0:29:39.178000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:38.625000" end="0:29:39.178000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:29:38.625000	0:29:39.178000
 .	-	-	-	0:29:38.625000	0:29:39.178000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:39.178000" end="0:29:46.532000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:39.178000" end="0:29:46.532000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ich	ich	PRON	-	0:29:39.178000	0:29:43.258000
 tue	tun	VERB	Prog ProgKon tunP	0:29:39.178000	0:29:43.258000
@@ -7158,11 +7158,11 @@ einmal	einmal	ADV	-	0:29:45.385000	0:29:46.532000
 sage	sage	VERB	-	0:29:45.385000	0:29:46.532000
 ,	-	-	-	0:29:45.385000	0:29:46.532000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:46.532000" end="0:29:46.892000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:46.532000" end="0:29:46.892000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:29:46.532000	0:29:46.892000
 .	-	-	-	0:29:46.532000	0:29:46.892000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:46.892000" end="0:29:50.285000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:46.892000" end="0:29:50.285000" project="PP03" age_lower="18" age_upper="35">
 bedeutet	-	-	-	0:29:46.892000	0:29:50.285000
 nicht	-	-	-	0:29:46.892000	0:29:50.285000
 <pause duration="0,5s"/>
@@ -7175,7 +7175,7 @@ sondern	-	-	-	0:29:46.892000	0:29:50.285000
 "ausruhen"	-	-	-	0:29:46.892000	0:29:50.285000
 .	-	-	-	0:29:46.892000	0:29:50.285000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:50.285000" end="0:29:53.312000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:50.285000" end="0:29:53.312000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:29:50.285000	0:29:51.225000
 .	-	-	-	0:29:50.285000	0:29:51.225000
@@ -7187,7 +7187,7 @@ ah	ah	X	-	0:29:52.465000	0:29:53.312000
 ja	ja	ADV	-	0:29:52.465000	0:29:53.312000
 .	-	-	-	0:29:52.465000	0:29:53.312000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:52.465000" end="0:29:54.072000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:52.465000" end="0:29:54.072000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:29:52.465000	0:29:53.312000
 habe	habe	AUX	-	0:29:52.465000	0:29:53.312000
 ich	ich	PRON	-	0:29:52.465000	0:29:53.312000
@@ -7199,14 +7199,14 @@ Mikrophon	Mikrophon	NOUN	-	0:29:53.312000	0:29:54.072000
 gesagt	sagen	VERB	-	0:29:53.312000	0:29:54.072000
 ,	-	-	-	0:29:53.312000	0:29:54.072000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:54.072000" end="0:29:55.358000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:54.072000" end="0:29:55.358000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:29:54.072000	0:29:55.358000
 okay	okay	VERB	-	0:29:54.072000	0:29:55.358000
 ,	-	-	-	0:29:54.072000	0:29:55.358000
 ja	ja	PART	-	0:29:54.072000	0:29:55.358000
 .	-	-	-	0:29:54.072000	0:29:55.358000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:54.072000" end="0:29:56.712000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:54.072000" end="0:29:56.712000" project="PP03" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:29:54.072000	0:29:55.358000
 für	für	ADP	-	0:29:54.072000	0:29:55.358000
 ,	-	-	-	0:29:54.072000	0:29:55.358000
@@ -7216,13 +7216,13 @@ es	ich	PRON	-	0:29:54.072000	0:29:55.358000
 ja	ja	ADV	-	0:29:54.072000	0:29:55.358000
 .	-	-	-	0:29:54.072000	0:29:55.358000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:56.712000" end="0:29:57.578000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:56.712000" end="0:29:57.578000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:56.712000	0:29:57.578000
 ,	-	-	-	0:29:56.712000	0:29:57.578000
 es/	-	-	-	0:29:56.712000	0:29:57.578000
 .	-	-	-	0:29:56.712000	0:29:57.578000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:56.712000" end="0:29:58.652000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:56.712000" end="0:29:58.652000" project="PP03" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:29:56.712000	0:29:57.578000
 ich	ich	PRON	-	0:29:56.712000	0:29:57.578000
 jetzt	jetzt	ADV	-	0:29:56.712000	0:29:57.578000
@@ -7235,9 +7235,9 @@ einmal	einmal	ADV	-	0:29:57.578000	0:29:58.652000
 aus	aus	ADP	-	0:29:57.578000	0:29:58.652000
 .	-	-	-	0:29:57.578000	0:29:58.652000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:58.652000" end="0:30:00.305000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:58.652000" end="0:30:00.305000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:58.652000" end="0:30:01.152000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:29:58.652000" end="0:30:01.152000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:30:00.305000	0:30:01.152000
 das	der	PRON	-	0:30:00.305000	0:30:01.152000
 wäre	sein	AUX	-	0:30:00.305000	0:30:01.152000
@@ -7245,11 +7245,11 @@ ja	ja	ADV	-	0:30:00.305000	0:30:01.152000
 fast	fast	ADV	-	0:30:00.305000	0:30:01.152000
 ,	-	-	-	0:30:00.305000	0:30:01.152000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:01.152000" end="0:30:01.552000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:01.152000" end="0:30:01.552000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:01.152000	0:30:01.552000
 .	-	-	-	0:30:01.152000	0:30:01.552000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:01.552000" end="0:30:02.732000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:01.552000" end="0:30:02.732000" project="PP03" age_lower="18" age_upper="35">
 *könntest*	-	-	-	0:30:01.552000	0:30:02.732000
 ja	-	-	-	0:30:01.552000	0:30:02.732000
 falsch	-	-	-	0:30:01.552000	0:30:02.732000
@@ -7258,17 +7258,17 @@ verstehen	-	-	-	0:30:01.552000	0:30:02.732000
 gell	gell	ADJ	-	0:30:01.552000	0:30:02.732000
 ?	-	-	-	0:30:01.552000	0:30:02.732000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:02.732000" end="0:30:03.558000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:02.732000" end="0:30:03.558000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:30:02.732000	0:30:03.138000
 tust	tun	VERB	Prog ProgKon tunP	0:30:03.138000	0:30:03.558000
 du	du	PRON	-	0:30:03.138000	0:30:03.558000
 eigentlich	eigentlich	ADV	-	0:30:03.138000	0:30:03.558000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:03.138000" end="0:30:03.558000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:03.138000" end="0:30:03.558000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:30:03.138000	0:30:03.558000
 .	-	-	-	0:30:03.138000	0:30:03.558000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:03.558000" end="0:30:06.205000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:03.558000" end="0:30:06.205000" project="PP03" age_lower="18" age_upper="35">
 gerade	gerade	ADV	-	0:30:03.558000	0:30:06.205000
 schlafen	schlafen	VERB	Prog ProgKon tunP	0:30:03.558000	0:30:06.205000
 und	und	CCONJ	-	0:30:03.558000	0:30:06.205000
@@ -7278,16 +7278,16 @@ dem	der	DET	-	0:30:03.558000	0:30:06.205000
 arbeiten	arbeiten	NOUN	-	0:30:03.558000	0:30:06.205000
 .	-	-	-	0:30:03.558000	0:30:06.205000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:06.205000" end="0:30:08.285000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:06.205000" end="0:30:08.285000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 gerade	gerade	ADV	-	0:30:06.205000	0:30:08.285000
 möchte	mögen	VERB	-	0:30:06.205000	0:30:08.285000
 ich	ich	PRON	-	0:30:06.205000	0:30:08.285000
 nicht	nicht	PART	-	0:30:06.205000	0:30:08.285000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:08.285000" end="0:30:10.692000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:08.285000" end="0:30:10.692000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:08.285000" end="0:30:12.718000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:08.285000" end="0:30:12.718000" project="PP03" age_lower="18" age_upper="35">
 behaupten	behaupten	VERB	-	0:30:08.285000	0:30:10.692000
 ,	-	-	-	0:30:08.285000	0:30:10.692000
 aber	aber	CCONJ	-	0:30:08.285000	0:30:10.692000
@@ -7308,11 +7308,11 @@ das	der	PRON	-	0:30:12.018000	0:30:12.718000
 brauche	brauche	VERB	-	0:30:12.018000	0:30:12.718000
 .	-	-	-	0:30:12.018000	0:30:12.718000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:12.718000" end="0:30:13.425000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:12.718000" end="0:30:13.425000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:12.718000	0:30:13.425000
 .	-	-	-	0:30:12.718000	0:30:13.425000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:13.425000" end="0:30:19.638000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:13.425000" end="0:30:19.638000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:30:13.425000	0:30:14.572000
 deppert	deppert	VERB	-	0:30:13.425000	0:30:14.572000
 das	der	PRON	-	0:30:13.425000	0:30:14.572000
@@ -7343,11 +7343,11 @@ ein	einen	DET	-	0:30:18.112000	0:30:19.638000
 Zwang	Zwang	NOUN	-	0:30:18.112000	0:30:19.638000
 ,	-	-	-	0:30:18.112000	0:30:19.638000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:19.638000" end="0:30:20.218000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:19.638000" end="0:30:20.218000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:19.638000	0:30:20.218000
 .	-	-	-	0:30:19.638000	0:30:20.218000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:19.638000" end="0:30:22.385000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:19.638000" end="0:30:22.385000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:30:19.638000	0:30:20.218000
 halt	halt	ADV	-	0:30:19.638000	0:30:20.218000
 was	was	PRON	-	0:30:20.218000	0:30:20.832000
@@ -7360,11 +7360,11 @@ Verpflichtung	Verpflichtung	NOUN	-	0:30:20.832000	0:30:22.385000
 ,	-	-	-	0:30:20.832000	0:30:22.385000
 nenn=	nennen	VERB	-	0:30:20.832000	0:30:22.385000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:22.385000" end="0:30:22.905000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:22.385000" end="0:30:22.905000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:22.385000	0:30:22.905000
 .	-	-	-	0:30:22.385000	0:30:22.905000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:22.385000" end="0:30:30.852000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:22.385000" end="0:30:30.852000" project="PP03" age_lower="18" age_upper="35">
 en	-	SPACE	-	0:30:22.385000	0:30:22.905000
 wir	ich	PRON	-	0:30:22.385000	0:30:22.905000
 es	ich	PRON	-	0:30:22.385000	0:30:22.905000
@@ -7405,11 +7405,11 @@ Verpflichtung	Verpflichtung	NOUN	-	0:30:28.798000	0:30:30.852000
 nicht	nicht	PART	-	0:30:28.798000	0:30:30.852000
 ?	-	-	-	0:30:28.798000	0:30:30.852000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:30.852000" end="0:30:31.325000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:30.852000" end="0:30:31.325000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:30.852000	0:30:31.325000
 .	-	-	-	0:30:30.852000	0:30:31.325000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:31.325000" end="0:30:34.358000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:31.325000" end="0:30:34.358000" project="PP03" age_lower="18" age_upper="35">
 wo	-	-	-	0:30:31.325000	0:30:33.225000
 irgendwie	-	-	-	0:30:31.325000	0:30:33.225000
 (nachts)	-	-	-	0:30:31.325000	0:30:33.225000
@@ -7423,11 +7423,11 @@ sein	mein	AUX	-	0:30:33.225000	0:30:34.152000
 ,	-	-	-	0:30:33.225000	0:30:34.152000
 oder	oder	CCONJ	-	0:30:34.152000	0:30:34.358000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:34.358000" end="0:30:34.732000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:34.358000" end="0:30:34.732000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:34.358000	0:30:34.732000
 .	-	-	-	0:30:34.358000	0:30:34.732000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:34.358000" end="0:30:48.138000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:34.358000" end="0:30:48.138000" project="PP03" age_lower="18" age_upper="35">
 die	der	DET	-	0:30:34.358000	0:30:34.732000
 Rechnungen	Rechnung	NOUN	-	0:30:34.732000	0:30:36.225000
 oder	oder	CCONJ	-	0:30:34.732000	0:30:36.225000
@@ -7475,13 +7475,13 @@ zwingen	zwingen	VERB	-	0:30:45.085000	0:30:48.138000
 musst	musst	NOUN	-	0:30:45.085000	0:30:48.138000
 .	-	-	-	0:30:45.085000	0:30:48.138000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:48.138000" end="0:30:49.338000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:48.138000" end="0:30:49.338000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 okay	okay	NOUN	-	0:30:48.138000	0:30:49.338000
 ja	ja	PART	-	0:30:48.138000	0:30:49.338000
 .	-	-	-	0:30:48.138000	0:30:49.338000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:49.338000" end="0:30:53.985000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:49.338000" end="0:30:53.985000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:30:49.338000	0:30:51.132000
 da	da	ADV	-	0:30:49.338000	0:30:51.132000
 hat	haben	AUX	-	0:30:49.338000	0:30:51.132000
@@ -7504,11 +7504,11 @@ wichtig	wichtig	ADJ	-	0:30:52.238000	0:30:53.985000
 Sport	Sport	NOUN	-	0:30:52.238000	0:30:53.985000
 zu	zu	PART	-	0:30:52.238000	0:30:53.985000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:53.985000" end="0:30:54.418000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:53.985000" end="0:30:54.418000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:53.985000	0:30:54.418000
 .	-	-	-	0:30:53.985000	0:30:54.418000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:53.985000" end="0:30:55.632000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:53.985000" end="0:30:55.632000" project="PP03" age_lower="18" age_upper="35">
 machen	machen	VERB	-	0:30:53.985000	0:30:54.418000
 .	-	-	-	0:30:53.985000	0:30:54.418000
 ja	ja	PART	-	0:30:54.418000	0:30:55.632000
@@ -7519,17 +7519,17 @@ schon	schon	ADV	-	0:30:54.418000	0:30:55.632000
 sein	mein	AUX	-	0:30:54.418000	0:30:55.632000
 .	-	-	-	0:30:54.418000	0:30:55.632000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:55.632000" end="0:30:57.378000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:55.632000" end="0:30:57.378000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:30:55.632000	0:30:56.838000
 du	du	PRON	-	0:30:55.632000	0:30:56.838000
 musst	musst	VERB	-	0:30:55.632000	0:30:56.838000
 dich	sich	PRON	-	0:30:56.838000	0:30:57.378000
 da=	dazu	ADV	-	0:30:56.838000	0:30:57.378000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:56.838000" end="0:30:57.378000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:56.838000" end="0:30:57.378000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:30:56.838000	0:30:57.378000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:57.378000" end="0:30:59.278000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:57.378000" end="0:30:59.278000" project="PP03" age_lower="18" age_upper="35">
 zu	-	SPACE	-	0:30:57.378000	0:30:57.905000
 zwingen	zwingen	VERB	-	0:30:57.378000	0:30:57.905000
 ,	-	-	-	0:30:57.378000	0:30:57.905000
@@ -7540,25 +7540,25 @@ der	-	-	-	0:30:58.378000	0:30:59.278000
 die	-	-	-	0:30:58.378000	0:30:59.278000
 Motiva=	-	-	-	0:30:58.378000	0:30:59.278000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:58.378000" end="0:30:59.278000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:58.378000" end="0:30:59.278000" project="PP03" age_lower="18" age_upper="35">
 a/	-	-	-	0:30:58.378000	0:30:59.278000
 aber	aber	ADV	-	0:30:58.378000	0:30:59.278000
 wenn	wenn	SCONJ	-	0:30:58.378000	0:30:59.278000
 ,	-	-	-	0:30:58.378000	0:30:59.278000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:59.278000" end="0:30:59.685000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:59.278000" end="0:30:59.685000" project="PP03" age_lower="18" age_upper="35">
 tion	-	-	-	0:30:59.278000	0:30:59.685000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:59.685000" end="0:30:59.985000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:59.685000" end="0:30:59.985000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:30:59.685000	0:30:59.985000
 ,	-	-	-	0:30:59.685000	0:30:59.985000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:59.985000" end="0:31:00.458000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:59.985000" end="0:31:00.458000" project="PP03" age_lower="18" age_upper="35">
 *brauchst*	-	-	-	0:30:59.985000	0:31:00.458000
 dann	-	-	-	0:30:59.985000	0:31:00.458000
 .	-	-	-	0:30:59.985000	0:31:00.458000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:59.985000" end="0:31:01.212000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:30:59.985000" end="0:31:01.212000" project="PP03" age_lower="18" age_upper="35">
 wenn	-	-	-	0:30:59.985000	0:31:00.458000
 dich	-	-	-	0:30:59.985000	0:31:00.458000
 aber	-	-	-	0:30:59.985000	0:31:00.458000
@@ -7566,11 +7566,11 @@ selber	-	-	-	0:31:00.458000	0:31:01.212000
 dazu	-	-	-	0:31:00.458000	0:31:01.212000
 zw=	-	-	-	0:31:00.458000	0:31:01.212000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:01.212000" end="0:31:01.545000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:01.212000" end="0:31:01.545000" project="PP03" age_lower="18" age_upper="35">
 ja	jamhm	PROPN	-	0:31:01.212000	0:31:01.545000
 mhm	-	-	-	0:31:01.212000	0:31:01.545000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:01.545000" end="0:31:02.725000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:01.545000" end="0:31:02.725000" project="PP03" age_lower="18" age_upper="35">
 _oft_	-	-	-	0:31:01.545000	0:31:02.725000
 ähm	-	-	-	0:31:01.545000	0:31:02.725000
 weiß	-	-	-	0:31:01.545000	0:31:02.725000
@@ -7578,11 +7578,11 @@ ich	-	-	-	0:31:01.545000	0:31:02.725000
 nicht	-	-	-	0:31:01.545000	0:31:02.725000
 .	-	-	-	0:31:01.545000	0:31:02.725000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:02.725000" end="0:31:03.152000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:02.725000" end="0:31:03.152000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:31:02.725000	0:31:03.152000
 .	-	-	-	0:31:02.725000	0:31:03.152000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:03.152000" end="0:31:08.645000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:03.152000" end="0:31:08.645000" project="PP03" age_lower="18" age_upper="35">
 _oft_	-	-	-	0:31:03.152000	0:31:06.738000
 ist	-	-	-	0:31:03.152000	0:31:06.738000
 es	-	-	-	0:31:03.152000	0:31:06.738000
@@ -7604,11 +7604,11 @@ am	am	PART	-	0:31:06.738000	0:31:08.645000
 liebsten	lieb	ADJ	-	0:31:06.738000	0:31:08.645000
 tust	tun	NOUN	-	0:31:06.738000	0:31:08.645000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:08.645000" end="0:31:09.258000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:08.645000" end="0:31:09.258000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:08.645000	0:31:09.258000
 .	-	-	-	0:31:08.645000	0:31:09.258000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:08.645000" end="0:31:11.032000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:08.645000" end="0:31:11.032000" project="PP03" age_lower="18" age_upper="35">
 bei	bei	ADP	-	0:31:08.645000	0:31:09.258000
 der	der	DET	-	0:31:08.645000	0:31:09.258000
 Zeit	Zeit	NOUN	-	0:31:08.645000	0:31:09.258000
@@ -7620,9 +7620,9 @@ ich	-	-	-	0:31:09.258000	0:31:11.032000
 am	-	-	-	0:31:09.258000	0:31:11.032000
 Liebsten	-	-	-	0:31:09.258000	0:31:11.032000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:11.032000" end="0:31:12.212000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:11.032000" end="0:31:12.212000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:12.212000" end="0:31:15.998000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:12.212000" end="0:31:15.998000" project="PP03" age_lower="18" age_upper="35">
 mich	-	-	-	0:31:12.212000	0:31:13.285000
 _hilanzn_	-	-	Prog ProgKon tunP	0:31:12.212000	0:31:13.285000
 <pause duration="0,5s"/>
@@ -7635,11 +7635,11 @@ durch	-	-	-	0:31:13.285000	0:31:15.998000
 Youtube	-	-	-	0:31:13.285000	0:31:15.998000
 surf=	-	-	Prog ProgKon tunP	0:31:13.285000	0:31:15.998000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:15.998000" end="0:31:16.265000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:15.998000" end="0:31:16.265000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:15.998000	0:31:16.265000
 .	-	-	-	0:31:15.998000	0:31:16.265000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:15.998000" end="0:31:18.472000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:15.998000" end="0:31:18.472000" project="PP03" age_lower="18" age_upper="35">
 en	-	-	Prog ProgKon tunP	0:31:15.998000	0:31:16.265000
 und	-	-	-	0:31:16.265000	0:31:18.472000
 schaue	-	-	-	0:31:16.265000	0:31:18.472000
@@ -7650,11 +7650,11 @@ an	-	-	-	0:31:16.265000	0:31:18.472000
 oder	-	-	-	0:31:16.265000	0:31:18.472000
 wie	-	-	-	0:31:16.265000	0:31:18.472000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:18.472000" end="0:31:18.765000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:18.472000" end="0:31:18.765000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:18.472000	0:31:18.765000
 .	-	-	-	0:31:18.472000	0:31:18.765000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:18.472000" end="0:31:21.685000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:18.472000" end="0:31:21.685000" project="PP03" age_lower="18" age_upper="35">
 auch	-	-	-	0:31:18.472000	0:31:18.765000
 i=	-	-	-	0:31:18.472000	0:31:18.765000
 mmer	-	-	-	0:31:18.765000	0:31:19.012000
@@ -7672,15 +7672,15 @@ die	der	DET	-	0:31:20.232000	0:31:21.685000
 dort	dort	ADV	-	0:31:20.232000	0:31:21.685000
 wunder=	wundern	ADJ	-	0:31:20.232000	0:31:21.685000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:21.685000" end="0:31:22.058000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:21.685000" end="0:31:22.058000" project="PP03" age_lower="18" age_upper="35">
 eigentlich	eigentlich	ADV	-	0:31:21.685000	0:31:22.058000
 wie=	wieder	ADV	-	0:31:21.685000	0:31:22.058000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:21.685000" end="0:31:22.058000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:21.685000" end="0:31:22.058000" project="PP03" age_lower="18" age_upper="35">
 bar/	-	-	-	0:31:21.685000	0:31:22.058000
 .	-	-	-	0:31:21.685000	0:31:22.058000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:22.058000" end="0:31:24.572000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:22.058000" end="0:31:24.572000" project="PP03" age_lower="18" age_upper="35">
 der	-	SPACE	-	0:31:22.058000	0:31:23.105000
 was	was	PRON	-	0:31:22.058000	0:31:23.105000
 für	für	ADP	-	0:31:22.058000	0:31:23.105000
@@ -7696,7 +7696,7 @@ dann	-	-	-	0:31:23.105000	0:31:24.572000
 nein	nein	PART	-	0:31:23.105000	0:31:24.572000
 ?	-	-	-	0:31:23.105000	0:31:24.572000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:23.105000" end="0:31:28.198000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:23.105000" end="0:31:28.198000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	nein	PART	-	0:31:23.105000	0:31:24.572000
 ,	-	-	-	0:31:23.105000	0:31:24.572000
@@ -7714,23 +7714,23 @@ was	was	PRON	-	0:31:27.198000	0:31:28.198000
 mich	sich	PRON	-	0:31:27.198000	0:31:28.198000
 interessie=	interessieren	VERB	-	0:31:27.198000	0:31:28.198000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:28.198000" end="0:31:28.745000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:28.198000" end="0:31:28.745000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:31:28.198000	0:31:28.745000
 ,	-	-	-	0:31:28.198000	0:31:28.745000
 okay	okay	NOUN	-	0:31:28.198000	0:31:28.745000
 .	-	-	-	0:31:28.198000	0:31:28.745000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:28.198000" end="0:31:28.745000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:28.198000" end="0:31:28.745000" project="PP03" age_lower="18" age_upper="35">
 ren	-	SPACE	-	0:31:28.198000	0:31:28.745000
 ,	-	-	-	0:31:28.198000	0:31:28.745000
 nicht	nicht	PART	-	0:31:28.198000	0:31:28.745000
 ?	-	-	-	0:31:28.198000	0:31:28.745000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:28.745000" end="0:31:29.238000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:28.745000" end="0:31:29.238000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:31:28.745000	0:31:29.238000
 .	-	-	-	0:31:28.745000	0:31:29.238000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:29.238000" end="0:31:39.525000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:29.238000" end="0:31:39.525000" project="PP03" age_lower="18" age_upper="35">
 also	-	-	-	0:31:29.238000	0:31:32.352000
 ein	-	-	-	0:31:29.238000	0:31:32.352000
 bisschen	bisschen	NOUN	-	0:31:29.238000	0:31:32.352000
@@ -7759,11 +7759,11 @@ so	-	-	-	0:31:32.352000	0:31:35.825000
 und	und	CCONJ	-	0:31:35.825000	0:31:39.525000
 schlafe	schlafe	NOUN	-	0:31:35.825000	0:31:39.525000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:39.525000" end="0:31:40.038000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:39.525000" end="0:31:40.038000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:31:39.525000	0:31:40.038000
 .	-	-	-	0:31:39.525000	0:31:40.038000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:39.525000" end="0:31:49.578000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:39.525000" end="0:31:49.578000" project="PP03" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:31:39.525000	0:31:40.038000
 halt	halt	ADV	-	0:31:39.525000	0:31:40.038000
 ein	einen	ADP	-	0:31:39.525000	0:31:40.038000
@@ -7792,7 +7792,7 @@ zumindest	-	-	-	0:31:46.192000	0:31:49.578000
 ein	-	-	-	0:31:46.192000	0:31:49.578000
 .	-	-	-	0:31:46.192000	0:31:49.578000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:49.578000" end="0:31:53.025000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:49.578000" end="0:31:53.025000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:49.578000	0:31:52.052000
 ,	-	-	-	0:31:49.578000	0:31:52.052000
 jetzt	-	-	-	0:31:49.578000	0:31:52.052000
@@ -7808,17 +7808,17 @@ jetzt	-	-	-	0:31:52.052000	0:31:53.025000
 ja	-	-	-	0:31:52.052000	0:31:53.025000
 _of_	-	-	-	0:31:52.052000	0:31:53.025000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:52.052000" end="0:31:53.025000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:52.052000" end="0:31:53.025000" project="PP03" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:31:52.052000	0:31:53.025000
 ich	ich	PRON	-	0:31:52.052000	0:31:53.025000
 auf	auf	ADP	-	0:31:52.052000	0:31:53.025000
 die	der	PRON	-	0:31:52.052000	0:31:53.025000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:53.025000" end="0:31:53.365000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:53.025000" end="0:31:53.365000" project="PP03" age_lower="18" age_upper="35">
 _tang_	-	-	-	0:31:53.025000	0:31:53.365000
 /.	-	-	-	0:31:53.025000	0:31:53.365000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:53.365000" end="0:31:55.398000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:53.365000" end="0:31:55.398000" project="PP03" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:31:53.365000	0:31:55.398000
 ,	-	-	-	0:31:53.365000	0:31:55.398000
 wenn	-	-	-	0:31:53.365000	0:31:55.398000
@@ -7831,11 +7831,11 @@ weniger	-	-	-	0:31:53.365000	0:31:55.398000
 habe	-	-	-	0:31:53.365000	0:31:55.398000
 ,	-	-	-	0:31:53.365000	0:31:55.398000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:55.398000" end="0:31:55.718000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:55.398000" end="0:31:55.718000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:55.398000	0:31:55.718000
 .	-	-	-	0:31:55.398000	0:31:55.718000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:55.718000" end="0:31:56.978000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:55.718000" end="0:31:56.978000" project="PP03" age_lower="18" age_upper="35">
 vielleicht	-	-	-	0:31:55.718000	0:31:56.978000
 selber	-	-	-	0:31:55.718000	0:31:56.978000
 _oft_	-	-	-	0:31:55.718000	0:31:56.978000
@@ -7844,16 +7844,16 @@ mehr	-	-	-	0:31:55.718000	0:31:56.978000
 (dann	-	-	-	0:31:55.718000	0:31:56.978000
 lassen)	-	-	-	0:31:55.718000	0:31:56.978000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:56.978000" end="0:31:57.432000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:56.978000" end="0:31:57.432000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:56.978000	0:31:57.432000
 .	-	-	-	0:31:56.978000	0:31:57.432000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:56.978000" end="0:31:57.432000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:56.978000" end="0:31:57.432000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:31:56.978000	0:31:57.432000
 nicht	-	-	-	0:31:56.978000	0:31:57.432000
 .	-	-	-	0:31:56.978000	0:31:57.432000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:57.432000" end="0:31:59.812000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:57.432000" end="0:31:59.812000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 _oft_	-	-	-	0:31:57.432000	0:31:59.812000
 *musst*	-	-	-	0:31:57.432000	0:31:59.812000
@@ -7862,11 +7862,11 @@ was	-	-	-	0:31:57.432000	0:31:59.812000
 tun	-	-	-	0:31:57.432000	0:31:59.812000
 .	-	-	-	0:31:57.432000	0:31:59.812000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:59.812000" end="0:32:00.158000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:31:59.812000" end="0:32:00.158000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:59.812000	0:32:00.158000
 .	-	-	-	0:31:59.812000	0:32:00.158000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:00.158000" end="0:32:01.252000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:00.158000" end="0:32:01.252000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:00.158000	0:32:01.252000
 ,	-	-	-	0:32:00.158000	0:32:01.252000
 den	-	-	-	0:32:00.158000	0:32:01.252000
@@ -7876,17 +7876,17 @@ eh	-	-	-	0:32:00.158000	0:32:01.252000
 wohin	-	-	-	0:32:00.158000	0:32:01.252000
 .	-	-	-	0:32:00.158000	0:32:01.252000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:01.252000" end="0:32:01.838000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:01.252000" end="0:32:01.838000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:01.252000	0:32:01.838000
 ,	-	-	-	0:32:01.252000	0:32:01.838000
 eh	eh	X	-	0:32:01.252000	0:32:01.838000
 .	-	-	-	0:32:01.252000	0:32:01.838000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:01.838000" end="0:32:02.132000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:01.838000" end="0:32:02.132000" project="PP03" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:32:01.838000	0:32:02.132000
 .	-	-	-	0:32:01.838000	0:32:02.132000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:02.132000" end="0:32:11.945000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:02.132000" end="0:32:11.945000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 gut	gut	ADJ	-	0:32:02.132000	0:32:03.472000
 .	-	-	-	0:32:02.132000	0:32:03.472000
@@ -7914,7 +7914,7 @@ relativ	relativ	ADJ	-	0:32:10.732000	0:32:11.945000
 schnell	schnellen	ADJ	-	0:32:10.732000	0:32:11.945000
 .	-	-	-	0:32:10.732000	0:32:11.945000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:11.945000" end="0:32:15.145000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:11.945000" end="0:32:15.145000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ich	ich	PRON	-	0:32:11.945000	0:32:12.998000
 glaube	glauben	VERB	-	0:32:11.945000	0:32:12.998000
@@ -7931,7 +7931,7 @@ ein	einen	DET	-	0:32:12.998000	0:32:15.145000
 bisschen	bisschen	NOUN	-	0:32:12.998000	0:32:15.145000
 .	-	-	-	0:32:12.998000	0:32:15.145000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:15.145000" end="0:32:17.578000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:15.145000" end="0:32:17.578000" project="PP03" age_lower="18" age_upper="35">
 kein	kein	DET	-	0:32:15.145000	0:32:17.578000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:32:15.145000	0:32:17.578000
 mehr	mehr	ADV	-	0:32:15.145000	0:32:17.578000
@@ -7939,7 +7939,7 @@ in	in	ADP	-	0:32:15.145000	0:32:17.578000
 Österreich	Österreich	PROPN	-	0:32:15.145000	0:32:17.578000
 .	-	-	-	0:32:15.145000	0:32:17.578000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:17.578000" end="0:32:20.358000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:17.578000" end="0:32:20.358000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 dass	dass	SCONJ	-	0:32:17.578000	0:32:20.358000
 alle	all	PRON	-	0:32:17.578000	0:32:20.358000
@@ -7952,7 +7952,7 @@ haben	haben	AUX	-	0:32:17.578000	0:32:20.358000
 oder	oder	CCONJ	-	0:32:17.578000	0:32:20.358000
 .	-	-	-	0:32:17.578000	0:32:20.358000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:20.358000" end="0:32:23.785000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:20.358000" end="0:32:23.785000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:20.358000	0:32:20.998000
 .	-	-	-	0:32:20.358000	0:32:20.998000
 <pause duration="2,0s"/>
@@ -7961,13 +7961,13 @@ ja	ja	PART	-	0:32:20.998000	0:32:23.785000
 genau	genau	ADJ	-	0:32:20.998000	0:32:23.785000
 .	-	-	-	0:32:20.998000	0:32:23.785000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:23.785000" end="0:32:24.698000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:23.785000" end="0:32:24.698000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 finde	finden	VERB	-	0:32:23.785000	0:32:24.698000
 ich	ich	PRON	-	0:32:23.785000	0:32:24.698000
 .	-	-	-	0:32:23.785000	0:32:24.698000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:24.698000" end="0:32:26.998000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:24.698000" end="0:32:26.998000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:24.698000	0:32:26.998000
 wer	wer	PRON	-	0:32:24.698000	0:32:26.998000
 redet	reden	VERB	-	0:32:24.698000	0:32:26.998000
@@ -7980,7 +7980,7 @@ jetzt	jetzt	ADV	-	0:32:24.698000	0:32:26.998000
 schon	schon	ADV	-	0:32:24.698000	0:32:26.998000
 ?	-	-	-	0:32:24.698000	0:32:26.998000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:26.998000" end="0:32:28.605000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:26.998000" end="0:32:28.605000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:26.998000	0:32:28.218000
 ,	-	-	-	0:32:26.998000	0:32:28.218000
 ich	ich	PRON	-	0:32:26.998000	0:32:28.218000
@@ -7988,12 +7988,12 @@ glaube	glauben	VERB	-	0:32:26.998000	0:32:28.218000
 eh	eh	ADV	-	0:32:28.218000	0:32:28.605000
 keiner	kein	PRON	-	0:32:28.218000	0:32:28.605000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:28.218000" end="0:32:28.605000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:28.218000" end="0:32:28.605000" project="PP03" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:32:28.218000	0:32:28.605000
 gibt/	-	-	-	0:32:28.218000	0:32:28.605000
 .	-	-	-	0:32:28.218000	0:32:28.605000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:28.605000" end="0:32:30.358000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:28.605000" end="0:32:30.358000" project="PP03" age_lower="18" age_upper="35">
 mehr	mehr	PRON	-	0:32:28.605000	0:32:28.992000
 ,	-	-	-	0:32:28.605000	0:32:28.992000
 oder	oder	CCONJ	-	0:32:28.605000	0:32:28.992000
@@ -8003,7 +8003,7 @@ wir=	wirklch	PROPN	-	0:32:28.992000	0:32:29.858000
 klch	-	SPACE	-	0:32:29.858000	0:32:30.358000
 .	-	-	-	0:32:29.858000	0:32:30.358000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:29.858000" end="0:32:30.692000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:29.858000" end="0:32:30.692000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:32:29.858000	0:32:30.358000
 ,	-	-	-	0:32:29.858000	0:32:30.358000
 da	da	ADV	-	0:32:29.858000	0:32:30.358000
@@ -8012,12 +8012,12 @@ es	ich	PRON	-	0:32:29.858000	0:32:30.358000
 keine	kein	PRON	-	0:32:30.358000	0:32:30.692000
 .	-	-	-	0:32:30.358000	0:32:30.692000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:30.692000" end="0:32:31.792000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:30.692000" end="0:32:31.792000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 mhm	mhm	PROPN	-	0:32:30.692000	0:32:31.792000
 .	-	-	-	0:32:30.692000	0:32:31.792000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:31.792000" end="0:32:38.472000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:31.792000" end="0:32:38.472000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 Hochdeutsch	Hochdeutsch	ADJ	-	0:32:31.792000	0:32:34.158000
 ,	-	-	-	0:32:31.792000	0:32:34.158000
@@ -8038,11 +8038,11 @@ einen	ein	DET	-	0:32:34.158000	0:32:38.472000
 <pause duration="1,1s"/>
 Dial=	Dialekt	NOUN	-	0:32:34.158000	0:32:38.472000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:38.472000" end="0:32:39.025000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:38.472000" end="0:32:39.025000" project="PP03" age_lower="18" age_upper="35">
 Dialekt	Dialekt	NOUN	-	0:32:38.472000	0:32:39.025000
 .	-	-	-	0:32:38.472000	0:32:39.025000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:38.472000" end="0:32:44.078000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:38.472000" end="0:32:44.078000" project="PP03" age_lower="18" age_upper="35">
 ekt	-	SPACE	-	0:32:38.472000	0:32:39.025000
 o=	oder	CCONJ	-	0:32:38.472000	0:32:39.025000
 der	-	SPACE	-	0:32:39.025000	0:32:40.605000
@@ -8059,7 +8059,7 @@ glaube	glauben	VERB	-	0:32:40.605000	0:32:44.078000
 oder	oder	CCONJ	-	0:32:40.605000	0:32:44.078000
 ?	-	-	-	0:32:40.605000	0:32:44.078000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:44.078000" end="0:32:46.418000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:44.078000" end="0:32:46.418000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 hätte	haben	AUX	-	0:32:44.078000	0:32:46.418000
 ich	ich	PRON	-	0:32:44.078000	0:32:46.418000
@@ -8069,7 +8069,7 @@ mal	mal	ADV	-	0:32:44.078000	0:32:46.418000
 gedacht	gedenken	VERB	-	0:32:44.078000	0:32:46.418000
 .	-	-	-	0:32:44.078000	0:32:46.418000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:46.418000" end="0:32:48.125000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:46.418000" end="0:32:48.125000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:46.418000	0:32:47.552000
 ,	-	-	-	0:32:46.418000	0:32:47.552000
 ich	ich	PRON	-	0:32:46.418000	0:32:47.552000
@@ -8082,11 +8082,11 @@ also	also	ADV	-	0:32:47.552000	0:32:48.125000
 wenn	wenn	SCONJ	-	0:32:47.552000	0:32:48.125000
 da=	der	DET	-	0:32:47.552000	0:32:48.125000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:48.125000" end="0:32:48.352000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:48.125000" end="0:32:48.352000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:32:48.125000	0:32:48.352000
 .	-	-	-	0:32:48.125000	0:32:48.352000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:48.125000" end="0:32:53.845000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:48.125000" end="0:32:53.845000" project="PP03" age_lower="18" age_upper="35">
 s	-	SPACE	-	0:32:48.125000	0:32:48.352000
 ähm	ähm	PROPN	-	0:32:48.352000	0:32:49.212000
 so	so	ADV	-	0:32:48.352000	0:32:49.212000
@@ -8109,20 +8109,20 @@ kein	kein	DET	-	0:32:53.052000	0:32:53.845000
 Problem	Problem	NOUN	-	0:32:53.052000	0:32:53.845000
 .	-	-	-	0:32:53.052000	0:32:53.845000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:53.845000" end="0:32:54.812000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:53.845000" end="0:32:54.812000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:53.845000" end="0:32:54.812000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:53.845000" end="0:32:54.812000" project="PP03" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:32:53.845000	0:32:54.812000
 tun/	-	-	-	0:32:53.845000	0:32:54.812000
 .	-	-	-	0:32:53.845000	0:32:54.812000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:54.812000" end="0:32:56.065000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:54.812000" end="0:32:56.065000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 das	der	DET	-	0:32:54.812000	0:32:56.065000
 gleiche	gleich	ADJ	-	0:32:54.812000	0:32:56.065000
 .	-	-	-	0:32:54.812000	0:32:56.065000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:54.812000" end="0:32:56.478000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:54.812000" end="0:32:56.478000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 wir	ich	PRON	-	0:32:54.812000	0:32:56.065000
 sagen	sagen	VERB	-	0:32:54.812000	0:32:56.065000
@@ -8130,9 +8130,9 @@ da=	dazu	ADV	-	0:32:54.812000	0:32:56.065000
 zu	-	SPACE	-	0:32:56.065000	0:32:56.478000
 ,	-	-	-	0:32:56.065000	0:32:56.478000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:56.478000" end="0:32:57.365000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:56.478000" end="0:32:57.365000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:57.365000" end="0:33:10.692000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:32:57.365000" end="0:33:10.692000" project="PP03" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:32:57.365000	0:33:03.185000
 wir	ich	PRON	-	0:32:57.365000	0:33:03.185000
 <pause duration="0,8s"/>
@@ -8169,7 +8169,7 @@ nicht	nicht	PART	-	0:33:08.238000	0:33:10.692000
 schwer	schwer	ADJ	-	0:33:08.238000	0:33:10.692000
 .	-	-	-	0:33:08.238000	0:33:10.692000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:10.692000" end="0:33:11.638000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:10.692000" end="0:33:11.638000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:33:10.692000	0:33:11.638000
 ,	-	-	-	0:33:10.692000	0:33:11.638000
 ich	ich	PRON	-	0:33:10.692000	0:33:11.638000
@@ -8178,11 +8178,11 @@ auch	auch	ADV	-	0:33:10.692000	0:33:11.638000
 nicht	nicht	PART	-	0:33:10.692000	0:33:11.638000
 .	-	-	-	0:33:10.692000	0:33:11.638000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:11.638000" end="0:33:12.432000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:11.638000" end="0:33:12.432000" project="PP03" age_lower="18" age_upper="35">
 bitte	bitte	PART	-	0:33:11.638000	0:33:12.432000
 .	-	-	-	0:33:11.638000	0:33:12.432000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:12.432000" end="0:33:17.712000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:12.432000" end="0:33:17.712000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	ähm	NOUN	-	0:33:12.432000	0:33:17.712000
 zum	zum	ADP	-	0:33:12.432000	0:33:17.712000
@@ -8199,11 +8199,11 @@ ORT	ORT	PROPN	-	0:33:12.432000	0:33:17.712000
 war	sein	AUX	-	0:33:12.432000	0:33:17.712000
 .	-	-	-	0:33:12.432000	0:33:17.712000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:17.712000" end="0:33:18.245000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:17.712000" end="0:33:18.245000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:33:17.712000	0:33:18.245000
 .	-	-	-	0:33:17.712000	0:33:18.245000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:18.245000" end="0:33:42.765000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:18.245000" end="0:33:42.765000" project="PP03" age_lower="18" age_upper="35">
 _oftang_	-	-	-	0:33:18.245000	0:33:21.352000
 _henn_	-	-	-	0:33:18.245000	0:33:21.352000
 wir	-	-	-	0:33:18.245000	0:33:21.352000
@@ -8299,7 +8299,7 @@ Amerika=	Amerikareise	NOUN	-	0:33:39.398000	0:33:42.312000
 reise	-	SPACE	-	0:33:42.312000	0:33:42.765000
 .	-	-	-	0:33:42.312000	0:33:42.765000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:42.312000" end="0:33:45.265000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:42.312000" end="0:33:45.265000" project="PP03" age_lower="18" age_upper="35">
 de/	-	-	-	0:33:42.312000	0:33:42.765000
 die/	-	-	-	0:33:42.312000	0:33:42.765000
 dies/	-	-	-	0:33:42.765000	0:33:45.265000
@@ -8319,7 +8319,7 @@ hinauf	hinauf	ADP	-	0:33:42.765000	0:33:45.265000
 oder	oder	CCONJ	-	0:33:42.765000	0:33:45.265000
 ?	-	-	-	0:33:42.765000	0:33:45.265000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:45.265000" end="0:33:49.685000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:45.265000" end="0:33:49.685000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:45.265000	0:33:47.538000
 ,	-	-	-	0:33:45.265000	0:33:47.538000
 nicht	nicht	PART	-	0:33:45.265000	0:33:47.538000
@@ -8342,11 +8342,11 @@ hin	-	-	-	0:33:47.945000	0:33:49.292000
 _oft_	-	-	-	0:33:49.292000	0:33:49.685000
 so	-	-	-	0:33:49.292000	0:33:49.685000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:49.292000" end="0:33:49.685000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:49.292000" end="0:33:49.685000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:49.292000	0:33:49.685000
 .	-	-	-	0:33:49.292000	0:33:49.685000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:49.685000" end="0:33:53.892000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:49.685000" end="0:33:53.892000" project="PP03" age_lower="18" age_upper="35">
 gegangen	-	-	-	0:33:49.685000	0:33:50.292000
 und	-	-	-	0:33:50.292000	0:33:51.018000
 _oft_	-	-	-	0:33:50.292000	0:33:51.018000
@@ -8366,23 +8366,23 @@ _oft_	-	-	-	0:33:53.125000	0:33:53.892000
 war	-	-	-	0:33:53.125000	0:33:53.892000
 es	-	-	-	0:33:53.125000	0:33:53.892000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:53.125000" end="0:33:53.892000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:53.125000" end="0:33:53.892000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:33:53.125000	0:33:53.892000
 obwohl/	-	-	-	0:33:53.125000	0:33:53.892000
 .	-	-	-	0:33:53.125000	0:33:53.892000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:53.892000" end="0:33:54.692000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:53.892000" end="0:33:54.692000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:33:53.892000	0:33:54.692000
 eine	-	-	-	0:33:53.892000	0:33:54.692000
 Schlucht	-	-	-	0:33:53.892000	0:33:54.692000
 .	-	-	-	0:33:53.892000	0:33:54.692000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:54.692000" end="0:33:55.605000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:54.692000" end="0:33:55.605000" project="PP03" age_lower="18" age_upper="35">
 eine	einen	DET	-	0:33:54.692000	0:33:55.605000
 Mordsaussicht	Mordsaussicht	NOUN	-	0:33:54.692000	0:33:55.605000
 .	-	-	-	0:33:54.692000	0:33:55.605000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:55.605000" end="0:33:59.265000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:55.605000" end="0:33:59.265000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:55.605000	0:33:56.032000
 .	-	-	-	0:33:55.605000	0:33:56.032000
 <pause duration="0,9s"/>
@@ -8395,22 +8395,22 @@ und	und	CCONJ	-	0:33:58.392000	0:33:59.265000
 (mit)/	mit	ADP	-	0:33:58.392000	0:33:59.265000
 .	-	-	-	0:33:58.392000	0:33:59.265000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:58.392000" end="0:33:59.265000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:58.392000" end="0:33:59.265000" project="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:33:58.392000	0:33:59.265000
 in	in	ADV	-	0:33:58.392000	0:33:59.265000
 den/	-	-	-	0:33:58.392000	0:33:59.265000
 .	-	-	-	0:33:58.392000	0:33:59.265000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:59.265000" end="0:34:00.258000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:59.265000" end="0:34:00.258000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:33:59.265000	0:33:59.918000
 de=	der	DET	-	0:33:59.265000	0:33:59.918000
 r	-	SPACE	-	0:33:59.918000	0:34:00.258000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:59.918000" end="0:34:00.258000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:33:59.918000" end="0:34:00.258000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:59.918000	0:34:00.258000
 .	-	-	-	0:33:59.918000	0:34:00.258000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:00.258000" end="0:34:04.152000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:00.258000" end="0:34:04.152000" project="PP03" age_lower="18" age_upper="35">
 See	See	NOUN	-	0:34:00.258000	0:34:04.152000
 hatte	haben	AUX	-	0:34:00.258000	0:34:04.152000
 oder	oder	CCONJ	-	0:34:00.258000	0:34:04.152000
@@ -8426,36 +8426,36 @@ Regenbogen	Regenbogen	NOUN	-	0:34:00.258000	0:34:04.152000
 fast	fast	ADV	-	0:34:00.258000	0:34:04.152000
 .	-	-	-	0:34:00.258000	0:34:04.152000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:04.152000" end="0:34:04.665000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:04.152000" end="0:34:04.665000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:34:04.152000	0:34:04.665000
 .	-	-	-	0:34:04.152000	0:34:04.665000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:04.665000" end="0:34:05.125000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:04.665000" end="0:34:05.125000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:34:04.665000	0:34:05.125000
 .	-	-	-	0:34:04.665000	0:34:05.125000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:04.665000" end="0:34:05.658000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:04.665000" end="0:34:05.658000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:34:04.665000	0:34:05.125000
 einfach	einfach	ADV	-	0:34:04.665000	0:34:05.125000
 eine	einen	DET	-	0:34:05.125000	0:34:05.658000
 gewalti=	gewaltig	ADJ	-	0:34:05.125000	0:34:05.658000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:05.658000" end="0:34:06.125000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:05.658000" end="0:34:06.125000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:34:05.658000	0:34:06.125000
 .	-	-	-	0:34:05.658000	0:34:06.125000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:05.658000" end="0:34:07.645000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:05.658000" end="0:34:07.645000" project="PP03" age_lower="18" age_upper="35">
 ge	-	SPACE	-	0:34:05.658000	0:34:06.125000
 <pause duration="0,7s"/>
 ähm	ähm	PROPN	-	0:34:06.125000	0:34:07.645000
 Landschaft	Landschaft	NOUN	-	0:34:06.125000	0:34:07.645000
 .	-	-	-	0:34:06.125000	0:34:07.645000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:07.645000" end="0:34:08.292000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:07.645000" end="0:34:08.292000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:34:07.645000	0:34:08.292000
 .	-	-	-	0:34:07.645000	0:34:08.292000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:08.292000" end="0:34:14.105000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:08.292000" end="0:34:14.105000" project="PP03" age_lower="18" age_upper="35">
 gewaltiger	gewaltig	ADJ	-	0:34:08.292000	0:34:09.272000
 Ausblick	Ausblick	NOUN	-	0:34:08.292000	0:34:09.272000
 .	-	-	-	0:34:08.292000	0:34:09.272000
@@ -8472,13 +8472,13 @@ hast	haben	AUX	-	0:34:09.272000	0:34:14.105000
 so	so	ADV	-	0:34:09.272000	0:34:14.105000
 .	-	-	-	0:34:09.272000	0:34:14.105000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:14.105000" end="0:34:15.252000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:14.105000" end="0:34:15.252000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:34:14.105000	0:34:14.492000
 .	-	-	-	0:34:14.105000	0:34:14.492000
 mhm	mhm	PROPN	-	0:34:14.492000	0:34:15.252000
 .	-	-	-	0:34:14.492000	0:34:15.252000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:14.492000" end="0:34:16.958000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:14.492000" end="0:34:16.958000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:34:14.492000	0:34:15.252000
 das	-	-	-	0:34:14.492000	0:34:15.252000
 das	-	-	-	0:34:15.252000	0:34:16.958000
@@ -8491,11 +8491,11 @@ besonderer	-	-	-	0:34:15.252000	0:34:16.958000
 gemacht	-	-	-	0:34:15.252000	0:34:16.958000
 .	-	-	-	0:34:15.252000	0:34:16.958000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:16.958000" end="0:34:17.592000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:16.958000" end="0:34:17.592000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:34:16.958000	0:34:17.592000
 .	-	-	-	0:34:16.958000	0:34:17.592000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:17.592000" end="0:34:21.385000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:17.592000" end="0:34:21.385000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 weil	-	-	-	0:34:17.592000	0:34:19.952000
 wenn	-	-	-	0:34:17.592000	0:34:19.952000
@@ -8516,16 +8516,16 @@ hätte	-	-	-	0:34:20.552000	0:34:21.385000
 es	-	-	-	0:34:20.552000	0:34:21.385000
 vielleicht	-	-	-	0:34:20.552000	0:34:21.385000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:21.385000" end="0:34:21.864000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:21.385000" end="0:34:21.864000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:34:21.385000	0:34:21.864000
 meine	meinen	VERB	-	0:34:21.385000	0:34:21.864000
 ,	-	-	-	0:34:21.385000	0:34:21.864000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:21.385000" end="0:34:21.864000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:21.385000" end="0:34:21.864000" project="PP03" age_lower="18" age_upper="35">
 (weniger)/	-	-	-	0:34:21.385000	0:34:21.864000
 .	-	-	-	0:34:21.385000	0:34:21.864000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:21.864000" end="0:34:23.772000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:21.864000" end="0:34:23.772000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:34:21.864000	0:34:23.371000
 habe	habe	AUX	-	0:34:21.864000	0:34:23.371000
 es	ich	PRON	-	0:34:21.864000	0:34:23.371000
@@ -8539,11 +8539,11 @@ wei=	weit	ADV	-	0:34:21.864000	0:34:23.371000
 ter	-	SPACE	-	0:34:23.371000	0:34:23.772000
 ,	-	-	-	0:34:23.371000	0:34:23.772000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:23.371000" end="0:34:23.772000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:23.371000" end="0:34:23.772000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:34:23.371000	0:34:23.772000
 .	-	-	-	0:34:23.371000	0:34:23.772000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:23.772000" end="0:34:28.764000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:23.772000" end="0:34:28.764000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:34:23.772000	0:34:25.737000
 irgendwie	irgendwie	ADV	-	0:34:23.772000	0:34:25.737000
 hast	haben	AUX	-	0:34:23.772000	0:34:25.737000
@@ -8566,19 +8566,19 @@ natürlich	natürlich	ADV	-	0:34:27.931000	0:34:28.505000
 wa=	was	PRON	-	0:34:27.931000	0:34:28.505000
 s	-	SPACE	-	0:34:28.505000	0:34:28.764000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:28.505000" end="0:34:29.132000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:28.505000" end="0:34:29.132000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:34:28.505000	0:34:28.764000
 ,	-	-	-	0:34:28.505000	0:34:28.764000
 ich	ich	PRON	-	0:34:28.764000	0:34:29.132000
 verstehe	verstehen	VERB	-	0:34:28.764000	0:34:29.132000
 .	-	-	-	0:34:28.764000	0:34:29.132000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:29.132000" end="0:34:29.732000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:29.132000" end="0:34:29.732000" project="PP03" age_lower="18" age_upper="35">
 wieder	wieder	ADV	-	0:34:29.132000	0:34:29.732000
 anders	anders	ADV	-	0:34:29.132000	0:34:29.732000
 .	-	-	-	0:34:29.132000	0:34:29.732000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:29.732000" end="0:34:31.998000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:29.732000" end="0:34:31.998000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:34:29.732000	0:34:31.998000
 ,	-	-	-	0:34:29.732000	0:34:31.998000
@@ -8590,18 +8590,18 @@ Geschichte	Geschichte	NOUN	-	0:34:29.732000	0:34:31.998000
 ja	ja	PART	-	0:34:29.732000	0:34:31.998000
 .	-	-	-	0:34:29.732000	0:34:31.998000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:31.998000" end="0:34:35.324000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:31.998000" end="0:34:35.324000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 *musst*	-	-	-	0:34:31.998000	0:34:34.518000
 toppen	-	-	-	0:34:31.998000	0:34:34.518000
 können	-	-	-	0:34:31.998000	0:34:34.518000
 .	-	-	-	0:34:31.998000	0:34:34.518000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:34.518000" end="0:34:35.324000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:34.518000" end="0:34:35.324000" project="PP03" age_lower="18" age_upper="35">
 hm	hm	X	-	0:34:34.518000	0:34:35.324000
 ?	-	-	-	0:34:34.518000	0:34:35.324000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:35.324000" end="0:34:37.518000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:35.324000" end="0:34:37.518000" project="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:34:35.324000	0:34:36.658000
 *musst*	-	-	-	0:34:35.324000	0:34:36.658000
 jetzt	-	-	-	0:34:35.324000	0:34:36.658000
@@ -8609,7 +8609,7 @@ toppen	-	-	-	0:34:35.324000	0:34:36.658000
 können	-	-	-	0:34:35.324000	0:34:36.658000
 .	-	-	-	0:34:35.324000	0:34:36.658000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:36.658000" end="0:34:54.685000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:36.658000" end="0:34:54.685000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:34:36.658000	0:34:37.518000
 ein	einen	DET	IRR	0:34:37.518000	0:34:43.178000
 besonders	besonders	ADV	IRR	0:34:37.518000	0:34:43.178000
@@ -8633,24 +8633,24 @@ zu	zu	PART	-	0:34:45.145000	0:34:54.685000
 erzählen	erzählen	VERB	-	0:34:45.145000	0:34:54.685000
 .	-	-	-	0:34:45.145000	0:34:54.685000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:54.685000" end="0:34:57.538000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:54.685000" end="0:34:57.538000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:55.864000" end="0:34:57.538000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:55.864000" end="0:34:57.538000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:34:55.864000	0:34:57.538000
 wie	wie	CCONJ	-	0:34:55.864000	0:34:57.538000
 p/	-	-	-	0:34:55.864000	0:34:57.538000
 pf/	-	-	-	0:34:55.864000	0:34:57.538000
 .	-	-	-	0:34:55.864000	0:34:57.538000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:57.538000" end="0:35:00.385000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:57.538000" end="0:35:00.385000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:34:57.538000	0:34:59.232000
 ob	ob	SCONJ	-	0:34:57.538000	0:34:59.232000
 es	ich	PRON	-	0:34:57.538000	0:34:59.232000
 will	wollen	VERB	-	0:34:57.538000	0:34:59.232000
 .	-	-	-	0:34:57.538000	0:34:59.232000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:59.232000" end="0:35:04.225000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:34:59.232000" end="0:35:04.225000" project="PP03" age_lower="18" age_upper="35">
 (aber	aber	CCONJ	-	0:34:59.232000	0:35:00.385000
 ich	ich	PRON	-	0:34:59.232000	0:35:00.385000
 wollte	wollen	VERB	-	0:34:59.232000	0:35:00.385000
@@ -8671,26 +8671,26 @@ jetzt	jetzt	ADV	-	0:35:00.385000	0:35:04.225000
 da	da	ADV	-	0:35:00.385000	0:35:04.225000
 nich=	nichts	PRON	-	0:35:00.385000	0:35:04.225000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:04.225000" end="0:35:04.738000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:04.225000" end="0:35:04.738000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:04.225000" end="0:35:04.738000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:04.225000" end="0:35:04.738000" project="PP03" age_lower="18" age_upper="35">
 ts	-	SPACE	-	0:35:04.225000	0:35:04.738000
 verloren	verlieren	VERB	-	0:35:04.225000	0:35:04.738000
 .	-	-	-	0:35:04.225000	0:35:04.738000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:04.738000" end="0:35:05.432000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:04.738000" end="0:35:05.432000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:04.738000" end="0:35:05.432000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:04.738000" end="0:35:05.432000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:35:04.738000	0:35:05.432000
 ,	-	-	-	0:35:04.738000	0:35:05.432000
 Spa/	-	-	-	0:35:04.738000	0:35:05.432000
 .	-	-	-	0:35:04.738000	0:35:05.432000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:05.432000" end="0:35:09.232000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:05.432000" end="0:35:09.232000" project="PP03" age_lower="18" age_upper="35">
 piep	piep	INTJ	-	0:35:05.432000	0:35:09.232000
 .	-	-	-	0:35:05.432000	0:35:09.232000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:05.432000" end="0:35:41.725000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:05.432000" end="0:35:41.725000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:35:09.232000	0:35:10.685000
 .	-	-	-	0:35:09.232000	0:35:10.685000
@@ -8758,11 +8758,11 @@ einen	ein	DET	-	0:35:37.925000	0:35:41.725000
 Monat	Monat	NOUN	-	0:35:37.925000	0:35:41.725000
 ,	-	-	-	0:35:37.925000	0:35:41.725000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:41.725000" end="0:35:42.172000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:41.725000" end="0:35:42.172000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:35:41.725000	0:35:42.172000
 .	-	-	-	0:35:41.725000	0:35:42.172000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:42.172000" end="0:35:44.352000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:42.172000" end="0:35:44.352000" project="PP03" age_lower="18" age_upper="35">
 allein	allein	ADV	-	0:35:42.172000	0:35:44.352000
 durch	durch	ADP	-	0:35:42.172000	0:35:44.352000
 Europa	Europa	PROPN	-	0:35:42.172000	0:35:44.352000
@@ -8774,19 +8774,19 @@ sicher	sichern	ADJ	-	0:35:42.172000	0:35:44.352000
 schonmal	schonmal	ADJ	-	0:35:42.172000	0:35:44.352000
 er=	erzählen	VERB	-	0:35:42.172000	0:35:44.352000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:44.352000" end="0:35:44.625000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:44.352000" end="0:35:44.625000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:44.352000	0:35:44.625000
 .	-	-	-	0:35:44.352000	0:35:44.625000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:44.352000" end="0:35:44.958000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:44.352000" end="0:35:44.958000" project="PP03" age_lower="18" age_upper="35">
 zählt	-	SPACE	-	0:35:44.352000	0:35:44.625000
 ,	-	-	-	0:35:44.352000	0:35:44.625000
 nicht	nicht	PART	-	0:35:44.625000	0:35:44.958000
 ?	-	-	-	0:35:44.625000	0:35:44.958000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:44.958000" end="0:35:45.392000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:44.958000" end="0:35:45.392000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:45.392000" end="0:35:49.625000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:45.392000" end="0:35:49.625000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:35:45.392000	0:35:49.625000
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:35:45.392000	0:35:49.625000
@@ -8799,12 +8799,12 @@ Station	Station	NOUN	-	0:35:45.392000	0:35:49.625000
 Berlin	Berlin	PROPN	-	0:35:45.392000	0:35:49.625000
 .	-	-	-	0:35:45.392000	0:35:49.625000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:49.625000" end="0:35:50.905000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:49.625000" end="0:35:50.905000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:35:49.625000	0:35:50.905000
 .	-	-	-	0:35:49.625000	0:35:50.905000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:50.905000" end="0:35:52.338000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:50.905000" end="0:35:52.338000" project="PP03" age_lower="18" age_upper="35">
 kennst	kennen	VERB	-	0:35:50.905000	0:35:52.338000
 du	du	PRON	-	0:35:50.905000	0:35:52.338000
 die	der	DET	-	0:35:50.905000	0:35:52.338000
@@ -8812,7 +8812,7 @@ Geschichte	Geschichte	NOUN	-	0:35:50.905000	0:35:52.338000
 schon	schon	ADV	-	0:35:50.905000	0:35:52.338000
 ?	-	-	-	0:35:50.905000	0:35:52.338000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:52.338000" end="0:35:53.952000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:52.338000" end="0:35:53.952000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:35:52.338000	0:35:53.952000
 ich	ich	PRON	-	0:35:52.338000	0:35:53.952000
 glaube	glauben	VERB	-	0:35:52.338000	0:35:53.952000
@@ -8821,12 +8821,12 @@ nicht	nicht	PART	-	0:35:52.338000	0:35:53.952000
 oder	oder	CCONJ	-	0:35:52.338000	0:35:53.952000
 .	-	-	-	0:35:52.338000	0:35:53.952000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:53.952000" end="0:35:54.338000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:53.952000" end="0:35:54.338000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:53.952000	0:35:54.338000
 ,	-	-	-	0:35:53.952000	0:35:54.338000
 ich	ich	PRON	-	0:35:53.952000	0:35:54.338000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:54.338000" end="0:35:55.212000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:54.338000" end="0:35:55.212000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:35:54.338000	0:35:55.212000
 ,	-	-	-	0:35:54.338000	0:35:55.212000
 ist	sein	AUX	-	0:35:54.338000	0:35:55.212000
@@ -8834,7 +8834,7 @@ nicht	nicht	PART	-	0:35:54.338000	0:35:55.212000
 bekannt	bekennen	ADJ	-	0:35:54.338000	0:35:55.212000
 .	-	-	-	0:35:54.338000	0:35:55.212000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:54.338000" end="0:36:35.652000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:35:54.338000" end="0:36:35.652000" project="PP03" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:35:54.338000	0:35:55.212000
 es	ich	PRON	-	0:35:54.338000	0:35:55.212000
 auch	auch	ADV	-	0:35:54.338000	0:35:55.212000
@@ -8971,22 +8971,22 @@ Wien	Wien	PROPN	-	0:36:25.038000	0:36:35.652000
 die	der	DET	-	0:36:25.038000	0:36:35.652000
 Staatsoper	Staatsoper	PROPN	-	0:36:25.038000	0:36:35.652000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:35.652000" end="0:36:36.325000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:35.652000" end="0:36:36.325000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:36:35.652000	0:36:35.978000
 ,	-	-	-	0:36:35.652000	0:36:35.978000
 ja	ja	PART	-	0:36:35.978000	0:36:36.325000
 .	-	-	-	0:36:35.978000	0:36:36.325000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:35.978000" end="0:36:36.578000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:35.978000" end="0:36:36.578000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:36:35.978000	0:36:36.325000
 ein	einen	DET	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:36:35.978000	0:36:36.325000
 Theat=	Theater	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:36:36.325000	0:36:36.578000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:36.578000" end="0:36:36.912000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:36.578000" end="0:36:36.912000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:36:36.578000	0:36:36.912000
 .	-	-	-	0:36:36.578000	0:36:36.912000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:36.578000" end="0:36:46.785000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:36.578000" end="0:36:46.785000" project="PP03" age_lower="18" age_upper="35">
 er	-	SPACE	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:36:36.578000	0:36:36.912000
 so	so	ADV	-	0:36:36.578000	0:36:36.912000
 ähnlich	ähnlich	ADJ	-	0:36:36.912000	0:36:38.465000
@@ -9016,11 +9016,11 @@ Anne	Anne	PROPN	??	0:36:38.465000	0:36:46.785000
 Frank	Frank	PROPN	??	0:36:38.465000	0:36:46.785000
 .	-	-	-	0:36:38.465000	0:36:46.785000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:46.785000" end="0:36:47.365000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:46.785000" end="0:36:47.365000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:36:46.785000	0:36:47.365000
 .	-	-	-	0:36:46.785000	0:36:47.365000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:47.365000" end="0:36:54.738000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:47.365000" end="0:36:54.738000" project="PP03" age_lower="18" age_upper="35">
 gell	gell	ADJ	-	0:36:47.365000	0:36:47.812000
 ?	-	-	-	0:36:47.365000	0:36:47.812000
 <pause duration="0,7s"/>
@@ -9053,11 +9053,11 @@ mir	sich	PRON	-	0:36:53.085000	0:36:54.738000
 an	an	ADP	-	0:36:53.085000	0:36:54.738000
 .	-	-	-	0:36:53.085000	0:36:54.738000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:54.738000" end="0:36:55.485000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:54.738000" end="0:36:55.485000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:36:54.738000	0:36:55.485000
 .	-	-	-	0:36:54.738000	0:36:55.485000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:55.485000" end="0:37:12.945000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:36:55.485000" end="0:37:12.945000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 _oft_	-	-	-	0:36:55.485000	0:36:59.438000
 den	-	-	-	0:36:55.485000	0:36:59.438000
@@ -9125,11 +9125,11 @@ alles	alle	PRON	-	0:37:11.038000	0:37:12.945000
 voll	voll	ADJ	-	0:37:11.038000	0:37:12.945000
 ."	-	-	-	0:37:11.038000	0:37:12.945000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:12.945000" end="0:37:13.898000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:12.945000" end="0:37:13.898000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:37:12.945000	0:37:13.898000
 .	-	-	-	0:37:12.945000	0:37:13.898000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:13.898000" end="0:37:41.805000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:13.898000" end="0:37:41.805000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:37:13.898000	0:37:15.978000
 ,	-	-	-	0:37:13.898000	0:37:15.978000
 waren	sein	AUX	??	0:37:13.898000	0:37:15.978000
@@ -9251,11 +9251,11 @@ Stress	-	-	-	0:37:40.545000	0:37:41.805000
 gell	gell	ADJ	-	0:37:40.545000	0:37:41.805000
 ?	-	-	-	0:37:40.545000	0:37:41.805000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:41.805000" end="0:37:42.158000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:41.805000" end="0:37:42.158000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:37:41.805000	0:37:42.158000
 .	-	-	-	0:37:41.805000	0:37:42.158000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:42.158000" end="0:37:48.878000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:42.158000" end="0:37:48.878000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:37:42.158000	0:37:43.045000
 ich	-	-	-	0:37:42.158000	0:37:43.045000
 habe	-	-	-	0:37:42.158000	0:37:43.045000
@@ -9291,11 +9291,11 @@ M/	-	-	-	0:37:47.532000	0:37:48.878000
 die	der	DET	-	0:37:47.532000	0:37:48.878000
 Menschen	Mensch	NOUN	-	0:37:47.532000	0:37:48.878000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:48.878000" end="0:37:50.238000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:48.878000" end="0:37:50.238000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:37:48.878000	0:37:50.238000
 .	-	-	-	0:37:48.878000	0:37:50.238000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:48.878000" end="0:38:28.245000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:37:48.878000" end="0:38:28.245000" project="PP03" age_lower="18" age_upper="35">
 wie	wie	CCONJ	-	0:37:48.878000	0:37:50.238000
 die	der	PRON	-	0:37:48.878000	0:37:50.238000
 dann	dann	ADV	-	0:37:48.878000	0:37:50.238000
@@ -9438,9 +9438,9 @@ sie	ich	PRON	-	0:38:24.312000	0:38:28.245000
 NAME	NAME	PROPN	-	0:38:24.312000	0:38:28.245000
 .	-	-	-	0:38:24.312000	0:38:28.245000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:38:28.245000" end="0:38:32.878000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:38:28.245000" end="0:38:32.878000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:38:28.958000" end="0:38:52.858000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:38:28.958000" end="0:38:52.858000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:38:28.958000	0:38:32.878000
 glaube/	-	-	-	0:38:28.958000	0:38:32.878000
 .	-	-	-	0:38:28.958000	0:38:32.878000
@@ -9501,11 +9501,11 @@ Journalisten	Journalist	NOUN	-	0:38:44.845000	0:38:52.858000
 zugegangen	zugehen	VERB	-	0:38:44.845000	0:38:52.858000
 .	-	-	-	0:38:44.845000	0:38:52.858000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:38:52.858000" end="0:38:53.345000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:38:52.858000" end="0:38:53.345000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:38:52.858000	0:38:53.345000
 .	-	-	-	0:38:52.858000	0:38:53.345000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:38:53.345000" end="0:39:01.645000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:38:53.345000" end="0:39:01.645000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:38:53.345000	0:38:55.858000
 waren	sein	AUX	-	0:38:53.345000	0:38:55.858000
 offensichtlich	offensichtlich	ADJ	-	0:38:53.345000	0:38:55.858000
@@ -9537,9 +9537,9 @@ zu	zu	ADP	-	0:39:00.198000	0:39:01.645000
 denen	der	PRON	-	0:39:00.198000	0:39:01.645000
 ha=	haben	AUX	-	0:39:00.198000	0:39:01.645000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:01.645000" end="0:39:02.325000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:01.645000" end="0:39:02.325000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:01.645000" end="0:39:20.778000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:01.645000" end="0:39:20.778000" project="PP03" age_lower="18" age_upper="35">
 t	-	SPACE	-	0:39:01.645000	0:39:02.325000
 sie	ich	PRON	-	0:39:01.645000	0:39:02.325000
 gesagt	sagen	VERB	-	0:39:01.645000	0:39:02.325000
@@ -9592,9 +9592,9 @@ da	-	-	-	0:39:18.225000	0:39:20.778000
 hinaufgegangen	-	-	-	0:39:18.225000	0:39:20.778000
 .	-	-	-	0:39:18.225000	0:39:20.778000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:20.778000" end="0:39:22.745000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:20.778000" end="0:39:22.745000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:22.745000" end="0:39:28.891000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:22.745000" end="0:39:28.891000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:39:22.745000	0:39:25.151000
 ich	ich	PRON	-	0:39:22.745000	0:39:25.151000
 hatte	haben	AUX	-	0:39:22.745000	0:39:25.151000
@@ -9621,11 +9621,11 @@ geheißen	heißen	VERB	-	0:39:27.398000	0:39:28.891000
 hat	haben	AUX	-	0:39:27.398000	0:39:28.891000
 .	-	-	-	0:39:27.398000	0:39:28.891000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:28.891000" end="0:39:29.638000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:28.891000" end="0:39:29.638000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:39:28.891000	0:39:29.638000
 .	-	-	-	0:39:28.891000	0:39:29.638000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:29.638000" end="0:39:53.725000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:29.638000" end="0:39:53.725000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ud	-	-	-	0:39:29.638000	0:39:32.438000
 _oft_	-	-	-	0:39:29.638000	0:39:32.438000
@@ -9717,7 +9717,7 @@ ist	sein	AUX	-	0:39:52.771000	0:39:53.725000
 nicht	nicht	PART	-	0:39:52.771000	0:39:53.725000
 ?	-	-	-	0:39:52.771000	0:39:53.725000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:53.725000" end="0:39:56.865000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:53.725000" end="0:39:56.865000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:39:53.725000	0:39:56.865000
 nachher	nachher	ADV	-	0:39:53.725000	0:39:56.865000
 hat	haben	AUX	-	0:39:53.725000	0:39:56.865000
@@ -9726,7 +9726,7 @@ dich	sich	PRON	-	0:39:53.725000	0:39:56.865000
 hineingelassen	hineingelassen	VERB	-	0:39:53.725000	0:39:56.865000
 ?	-	-	-	0:39:53.725000	0:39:56.865000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:56.865000" end="0:39:59.838000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:56.865000" end="0:39:59.838000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:39:56.865000	0:39:58.645000
 _oft_	-	-	-	0:39:56.865000	0:39:58.645000
 hat	-	-	-	0:39:56.865000	0:39:58.645000
@@ -9742,11 +9742,11 @@ höflich	-	-	-	0:39:58.645000	0:39:59.838000
 nicht	nicht	PART	-	0:39:58.645000	0:39:59.838000
 ?	-	-	-	0:39:58.645000	0:39:59.838000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:59.838000" end="0:40:00.285000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:59.838000" end="0:40:00.285000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:39:59.838000	0:40:00.285000
 .	-	-	-	0:39:59.838000	0:40:00.285000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:00.285000" end="0:40:03.778000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:00.285000" end="0:40:03.778000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:40:00.285000	0:40:03.778000
 hat	haben	AUX	-	0:40:00.285000	0:40:03.778000
 mich	sich	PRON	-	0:40:00.285000	0:40:03.778000
@@ -9759,9 +9759,9 @@ Journalisten	Journalist	NOUN	-	0:40:00.285000	0:40:03.778000
 gebracht	bringen	VERB	-	0:40:00.285000	0:40:03.778000
 ,	-	-	-	0:40:00.285000	0:40:03.778000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:03.778000" end="0:40:04.245000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:03.778000" end="0:40:04.245000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:04.245000" end="0:40:07.105000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:04.245000" end="0:40:07.105000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:40:04.245000	0:40:07.105000
 ich	ich	PRON	-	0:40:04.245000	0:40:07.105000
@@ -9770,7 +9770,7 @@ kostenlos	kostenlos	ADJ	-	0:40:04.245000	0:40:07.105000
 mir	sich	PRON	-	0:40:04.245000	0:40:07.105000
 das	der	DET	-	0:40:04.245000	0:40:07.105000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:07.105000" end="0:40:10.365000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:07.105000" end="0:40:10.365000" project="PP03" age_lower="18" age_upper="35">
 (aber	aber	CCONJ	-	0:40:07.105000	0:40:08.178000
 weil)	weil	SCONJ	-	0:40:07.105000	0:40:08.178000
 du	du	PRON	-	0:40:07.105000	0:40:08.178000
@@ -9778,7 +9778,7 @@ hast	haben	AUX	-	0:40:07.105000	0:40:08.178000
 geschummelt	schummeln	VERB	-	0:40:08.178000	0:40:10.365000
 .	-	-	-	0:40:08.178000	0:40:10.365000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:08.178000" end="0:40:12.411000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:08.178000" end="0:40:12.411000" project="PP03" age_lower="18" age_upper="35">
 Ganze	ganz	ADJ	-	0:40:08.178000	0:40:10.365000
 Ganze	ganz	NOUN	-	0:40:08.178000	0:40:10.365000
 anschauen	anschauen	VERB	-	0:40:08.178000	0:40:10.365000
@@ -9796,29 +9796,29 @@ nicht	nicht	PART	-	0:40:10.365000	0:40:12.411000
 schwierig	schwierig	ADJ	-	0:40:10.365000	0:40:12.411000
 .	-	-	-	0:40:10.365000	0:40:12.411000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:12.411000" end="0:40:13.731000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:12.411000" end="0:40:13.731000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	PART	-	0:40:12.411000	0:40:13.731000
 ,	-	-	-	0:40:12.411000	0:40:13.731000
 cool	cool	PROPN	-	0:40:12.411000	0:40:13.731000
 .	-	-	-	0:40:12.411000	0:40:13.731000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:13.731000" end="0:40:14.291000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:13.731000" end="0:40:14.291000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:40:13.731000	0:40:14.291000
 das	der	PRON	-	0:40:13.731000	0:40:14.291000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:14.291000" end="0:40:14.811000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:14.291000" end="0:40:14.811000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:40:14.291000	0:40:14.811000
 glaube	glauben	VERB	-	0:40:14.291000	0:40:14.811000
 ,	-	-	-	0:40:14.291000	0:40:14.811000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:14.291000" end="0:40:14.811000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:14.291000" end="0:40:14.811000" project="PP03" age_lower="18" age_upper="35">
 (da	da	ADV	-	0:40:14.291000	0:40:14.811000
 ha/	-	-	-	0:40:14.291000	0:40:14.811000
 .)	-	-	-	0:40:14.291000	0:40:14.811000
 .	-	-	-	0:40:14.291000	0:40:14.811000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:14.811000" end="0:40:17.985000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:14.811000" end="0:40:17.985000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:40:14.811000	0:40:15.791000
 käme	kommen	VERB	-	0:40:14.811000	0:40:15.791000
 auch	auch	ADV	-	0:40:14.811000	0:40:15.791000
@@ -9832,7 +9832,7 @@ das	der	DET	-	0:40:15.791000	0:40:17.985000
 probiere	probieren	VERB	-	0:40:15.791000	0:40:17.985000
 .	-	-	-	0:40:15.791000	0:40:17.985000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:17.985000" end="0:40:50.738000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:17.985000" end="0:40:50.738000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 danach	danach	ADV	-	0:40:17.985000	0:40:20.618000
 ,	-	-	-	0:40:17.985000	0:40:20.618000
@@ -9935,9 +9935,9 @@ da	da	ADV	-	0:40:45.318000	0:40:50.738000
 mitgehen	mitgehen	VERB	-	0:40:45.318000	0:40:50.738000
 ,	-	-	-	0:40:45.318000	0:40:50.738000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:50.738000" end="0:40:51.985000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:50.738000" end="0:40:51.985000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:50.738000" end="0:40:51.985000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:50.738000" end="0:40:51.985000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:40:50.738000	0:40:51.985000
 ich	ich	PRON	-	0:40:50.738000	0:40:51.985000
 habe	habe	AUX	-	0:40:50.738000	0:40:51.985000
@@ -9947,16 +9947,16 @@ ja	ja	ADV	-	0:40:50.738000	0:40:51.985000
 nicht/	-	-	-	0:40:50.738000	0:40:51.985000
 .	-	-	-	0:40:50.738000	0:40:51.985000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:51.985000" end="0:40:54.485000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:51.985000" end="0:40:54.485000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:54.485000" end="0:40:54.778000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:54.485000" end="0:40:54.778000" project="PP03" age_lower="18" age_upper="35">
 j	j	PROPN	-	0:40:54.485000	0:40:54.778000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:54.778000" end="0:40:55.211000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:54.778000" end="0:40:55.211000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:40:54.778000	0:40:55.211000
 .	-	-	-	0:40:54.778000	0:40:55.211000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:54.778000" end="0:41:15.678000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:40:54.778000" end="0:41:15.678000" project="PP03" age_lower="18" age_upper="35">
 a	a	PROPN	-	0:40:54.778000	0:40:55.211000
 .	-	-	-	0:40:54.778000	0:40:55.211000
 ich	-	-	-	0:40:55.211000	0:40:57.131000
@@ -10025,28 +10025,28 @@ verlassen	verlassen	VERB	-	0:41:09.785000	0:41:15.678000
 gell	gell	ADJ	-	0:41:09.785000	0:41:15.678000
 .	-	-	-	0:41:09.785000	0:41:15.678000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:15.678000" end="0:41:18.438000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:15.678000" end="0:41:18.438000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:41:16.951000	0:41:18.438000
 .	-	-	-	0:41:16.951000	0:41:18.438000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:18.438000" end="0:41:18.945000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:18.438000" end="0:41:18.945000" project="PP03" age_lower="18" age_upper="35">
 gefehlt	-	-	-	0:41:18.438000	0:41:18.945000
 .	-	-	-	0:41:18.438000	0:41:18.945000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:18.945000" end="0:41:19.265000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:18.945000" end="0:41:19.265000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:41:18.945000	0:41:19.265000
 .	-	-	-	0:41:18.945000	0:41:19.265000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:19.265000" end="0:41:19.811000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:19.265000" end="0:41:19.811000" project="PP03" age_lower="18" age_upper="35">
 da	-	-	-	0:41:19.265000	0:41:19.811000
 hat	-	-	-	0:41:19.265000	0:41:19.811000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:19.811000" end="0:41:20.131000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:19.811000" end="0:41:20.131000" project="PP03" age_lower="18" age_upper="35">
 was/	-	-	-	0:41:19.811000	0:41:20.131000
 .	-	-	-	0:41:19.811000	0:41:20.131000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:20.131000" end="0:41:22.271000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:20.131000" end="0:41:22.271000" project="PP03" age_lower="18" age_upper="35">
 Schneid	-	-	-	0:41:20.131000	0:41:20.871000
 gefehlt	-	-	-	0:41:20.131000	0:41:20.871000
 .	-	-	-	0:41:20.131000	0:41:20.871000
@@ -10056,7 +10056,7 @@ im	im	ADP	-	0:41:20.871000	0:41:22.271000
 Nachhinein	Nachhinein	NOUN	-	0:41:20.871000	0:41:22.271000
 .	-	-	-	0:41:20.871000	0:41:22.271000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:22.271000" end="0:41:24.805000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:22.271000" end="0:41:24.805000" project="PP03" age_lower="18" age_upper="35">
 *denkst*	-	-	-	0:41:22.271000	0:41:23.285000
 dir	-	-	-	0:41:22.271000	0:41:23.285000
 ,	-	-	-	0:41:22.271000	0:41:23.285000
@@ -10066,7 +10066,7 @@ nicht	-	-	-	0:41:23.285000	0:41:24.805000
 mitgegangen	-	-	-	0:41:23.285000	0:41:24.805000
 .	-	-	-	0:41:23.285000	0:41:24.805000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:24.805000" end="0:41:25.998000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:24.805000" end="0:41:25.998000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:41:24.805000	0:41:25.998000
 nein	nein	PART	-	0:41:24.805000	0:41:25.998000
 ,	-	-	-	0:41:24.805000	0:41:25.998000
@@ -10077,7 +10077,7 @@ schon	schon	ADV	-	0:41:24.805000	0:41:25.998000
 dabei	dabei	ADV	-	0:41:24.805000	0:41:25.998000
 .	-	-	-	0:41:24.805000	0:41:25.998000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:25.998000" end="0:41:27.071000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:25.998000" end="0:41:27.071000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:41:25.998000	0:41:26.578000
 ,	-	-	-	0:41:25.998000	0:41:26.578000
 ja	ja	PART	-	0:41:25.998000	0:41:26.578000
@@ -10085,7 +10085,7 @@ ja	ja	PART	-	0:41:25.998000	0:41:26.578000
 aber/	-	-	-	0:41:26.578000	0:41:27.071000
 .	-	-	-	0:41:26.578000	0:41:27.071000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:26.578000" end="0:41:28.705000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:26.578000" end="0:41:28.705000" project="PP03" age_lower="18" age_upper="35">
 wieso/	-	-	-	0:41:26.578000	0:41:27.071000
 .	-	-	-	0:41:26.578000	0:41:27.071000
 *hättest*	-	-	-	0:41:27.071000	0:41:28.198000
@@ -10097,11 +10097,11 @@ wäre	sein	AUX	-	0:41:28.198000	0:41:28.705000
 ja	ja	ADV	-	0:41:28.198000	0:41:28.705000
 komplett	komplett	ADJ	-	0:41:28.198000	0:41:28.705000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:28.705000" end="0:41:29.018000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:28.705000" end="0:41:29.018000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:41:28.705000	0:41:29.018000
 .	-	-	-	0:41:28.705000	0:41:29.018000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:28.705000" end="0:41:32.398000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:28.705000" end="0:41:32.398000" project="PP03" age_lower="18" age_upper="35">
 Wurst	Wurst	NOUN	-	0:41:28.705000	0:41:29.018000
 ge=	sein	AUX	-	0:41:28.705000	0:41:29.018000
 wesen	-	SPACE	-	0:41:29.018000	0:41:29.411000
@@ -10121,15 +10121,15 @@ auf	-	-	-	0:41:31.411000	0:41:32.398000
 einmal	-	-	-	0:41:31.411000	0:41:32.398000
 ist	-	-	-	0:41:31.411000	0:41:32.398000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:32.398000" end="0:41:32.745000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:32.398000" end="0:41:32.745000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:41:32.398000	0:41:32.745000
 das	der	PRON	-	0:41:32.398000	0:41:32.745000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:32.398000" end="0:41:32.745000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:32.398000" end="0:41:32.745000" project="PP03" age_lower="18" age_upper="35">
 wer/	-	-	-	0:41:32.398000	0:41:32.745000
 .	-	-	-	0:41:32.398000	0:41:32.745000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:32.745000" end="0:41:36.298000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:32.745000" end="0:41:36.298000" project="PP03" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:41:32.745000	0:41:33.298000
 nicht	nicht	PART	-	0:41:32.745000	0:41:33.298000
 komisch	komisch	ADJ	-	0:41:32.745000	0:41:33.298000
@@ -10151,31 +10151,31 @@ nicht	nicht	PART	-	0:41:35.665000	0:41:36.298000
 gekannt	kennen	VERB	-	0:41:35.665000	0:41:36.298000
 ?	-	-	-	0:41:35.665000	0:41:36.298000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:35.665000" end="0:41:36.811000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:35.665000" end="0:41:36.811000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:41:35.665000	0:41:36.298000
 .	-	-	-	0:41:35.665000	0:41:36.298000
 nein	nein	PART	-	0:41:36.298000	0:41:36.811000
 nein	nein	PART	-	0:41:36.298000	0:41:36.811000
 .	-	-	-	0:41:36.298000	0:41:36.811000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:36.811000" end="0:41:37.358000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:36.811000" end="0:41:37.358000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:41:36.811000	0:41:37.358000
 .	-	-	-	0:41:36.811000	0:41:37.358000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:36.811000" end="0:41:38.538000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:36.811000" end="0:41:38.538000" project="PP03" age_lower="18" age_upper="35">
 Tir/	-	-	-	0:41:36.811000	0:41:37.358000
 Tiroler	Tiroler	ADJ	-	0:41:37.358000	0:41:38.538000
 Tageszei=	Tageszeitung	NOUN	-	0:41:37.358000	0:41:38.538000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:38.538000" end="0:41:39.005000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:38.538000" end="0:41:39.005000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:41:38.538000	0:41:39.005000
 .	-	-	-	0:41:38.538000	0:41:39.005000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:38.538000" end="0:41:39.005000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:38.538000" end="0:41:39.005000" project="PP03" age_lower="18" age_upper="35">
 tung	-	SPACE	-	0:41:38.538000	0:41:39.005000
 .	-	-	-	0:41:38.538000	0:41:39.005000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:39.005000" end="0:41:43.345000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:39.005000" end="0:41:43.345000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 aber	-	-	-	0:41:39.005000	0:41:42.438000
 irgendwie	-	-	-	0:41:39.005000	0:41:42.438000
@@ -10188,7 +10188,7 @@ irgendjemand	-	-	-	0:41:39.005000	0:41:42.438000
 oder	-	-	-	0:41:42.438000	0:41:43.345000
 ?	-	-	-	0:41:42.438000	0:41:43.345000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:42.438000" end="0:41:43.345000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:42.438000" end="0:41:43.345000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:41:42.438000	0:41:43.345000
 ,	-	-	-	0:41:42.438000	0:41:43.345000
 ich	ich	PRON	-	0:41:42.438000	0:41:43.345000
@@ -10197,9 +10197,9 @@ auch	auch	ADV	-	0:41:42.438000	0:41:43.345000
 nicht	nicht	PART	-	0:41:42.438000	0:41:43.345000
 .	-	-	-	0:41:42.438000	0:41:43.345000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:43.345000" end="0:41:45.398000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:43.345000" end="0:41:45.398000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:44.465000" end="0:41:48.685000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:44.465000" end="0:41:48.685000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:41:44.465000	0:41:45.398000
 alleine	alleine	ADV	-	0:41:44.465000	0:41:45.398000
 schon	schon	ADV	-	0:41:44.465000	0:41:45.398000
@@ -10219,11 +10219,11 @@ sowas	sowas	PROPN	-	0:41:45.398000	0:41:48.685000
 nicht	nicht	PART	-	0:41:45.398000	0:41:48.685000
 .	-	-	-	0:41:45.398000	0:41:48.685000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:48.685000" end="0:41:49.078000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:48.685000" end="0:41:49.078000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:41:48.685000	0:41:49.078000
 .	-	-	-	0:41:48.685000	0:41:49.078000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:49.078000" end="0:41:52.078000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:49.078000" end="0:41:52.078000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:41:49.078000	0:41:51.078000
 gut	gut	ADJ	-	0:41:49.078000	0:41:51.078000
 ,	-	-	-	0:41:49.078000	0:41:51.078000
@@ -10237,10 +10237,10 @@ schon	schon	ADV	-	0:41:51.078000	0:41:52.078000
 sein	mein	AUX	-	0:41:51.078000	0:41:52.078000
 .	-	-	-	0:41:51.078000	0:41:52.078000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:52.078000" end="0:41:54.605000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:52.078000" end="0:41:54.605000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:52.078000" end="0:41:54.605000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:52.078000" end="0:41:54.605000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 okay	okay	NOUN	-	0:41:52.078000	0:41:54.605000
 ,	-	-	-	0:41:52.078000	0:41:54.605000
@@ -10251,9 +10251,9 @@ mein	meinen	DET	??	0:41:52.078000	0:41:54.605000
 Erlebnis	Erlebnis	NOUN	??	0:41:52.078000	0:41:54.605000
 .	-	-	-	0:41:52.078000	0:41:54.605000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:54.605000" end="0:41:55.491000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:54.605000" end="0:41:55.491000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:55.491000" end="0:41:59.885000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:55.491000" end="0:41:59.885000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ähm	ähm	PROPN	-	0:41:55.491000	0:41:59.885000
 rede	rede	NOUN	-	0:41:55.491000	0:41:59.885000
@@ -10261,7 +10261,7 @@ rede	rede	NOUN	-	0:41:55.491000	0:41:59.885000
 Arbeit	Arbeit	NOUN	-	0:41:55.491000	0:41:59.885000
 .	-	-	-	0:41:55.491000	0:41:59.885000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:59.885000" end="0:42:52.105000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:41:59.885000" end="0:42:52.105000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="5,2s"/>
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:42:05.958000	0:42:07.291000
@@ -10382,7 +10382,7 @@ also	also	ADV	-	0:42:45.891000	0:42:52.105000
 ja	ja	PART	-	0:42:45.891000	0:42:52.105000
 .	-	-	-	0:42:45.891000	0:42:52.105000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:42:52.105000" end="0:42:58.071000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:42:52.105000" end="0:42:58.071000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 passt	passt	PROPN	-	0:42:52.105000	0:42:54.045000
 .	-	-	-	0:42:52.105000	0:42:54.045000
@@ -10400,11 +10400,11 @@ schon	schon	ADV	-	0:42:54.045000	0:42:58.071000
 geredet	reden	VERB	-	0:42:54.045000	0:42:58.071000
 ,	-	-	-	0:42:54.045000	0:42:58.071000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:42:58.071000" end="0:42:58.285000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:42:58.071000" end="0:42:58.285000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:58.071000	0:42:58.285000
 .	-	-	-	0:42:58.071000	0:42:58.285000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:42:58.285000" end="0:43:02.118000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:42:58.285000" end="0:43:02.118000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:42:58.285000	0:43:00.285000
 tun	tun	VERB	Prog ProgKon tunP	0:42:58.285000	0:43:00.285000
 wir	ich	PRON	-	0:42:58.285000	0:43:00.285000
@@ -10420,17 +10420,17 @@ _oftang_	-	-	-	0:43:00.285000	0:43:02.118000
 <pause duration="0,5s"/>
 stell	-	-	-	0:43:00.285000	0:43:02.118000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:02.118000" end="0:43:02.911000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:02.118000" end="0:43:02.911000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:02.118000" end="0:43:04.391000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:02.118000" end="0:43:04.391000" project="PP03" age_lower="18" age_upper="35">
 dir	-	-	-	0:43:02.118000	0:43:02.911000
 vor	-	-	-	0:43:02.118000	0:43:02.911000
 "Österreich	-	-	-	0:43:02.911000	0:43:04.391000
 als	-	-	-	0:43:02.911000	0:43:04.391000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:04.391000" end="0:43:05.265000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:04.391000" end="0:43:05.265000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:04.391000" end="0:43:21.605000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:04.391000" end="0:43:21.605000" project="PP03" age_lower="18" age_upper="35">
 Fußballwel=	-	-	-	0:43:04.391000	0:43:05.265000
 tmeister"	-	-	-	0:43:05.265000	0:43:06.171000
 <pause duration="0,8s"/>
@@ -10481,12 +10481,12 @@ viele	viel	DET	-	0:43:18.938000	0:43:21.605000
 Gäste	Gast	NOUN	-	0:43:18.938000	0:43:21.605000
 aus	aus	ADP	-	0:43:18.938000	0:43:21.605000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:21.605000" end="0:43:23.578000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:21.605000" end="0:43:23.578000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 Deutschland	Deutschland	PROPN	-	0:43:21.605000	0:43:23.578000
 .	-	-	-	0:43:21.605000	0:43:23.578000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:23.578000" end="0:43:29.571000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:23.578000" end="0:43:29.571000" project="PP03" age_lower="18" age_upper="35">
 aus	aus	ADP	-	0:43:23.578000	0:43:24.551000
 Deutschland	Deutschland	PROPN	-	0:43:23.578000	0:43:24.551000
 ,	-	-	-	0:43:23.578000	0:43:24.551000
@@ -10506,13 +10506,13 @@ geschlagen	schlagen	VERB	-	0:43:27.818000	0:43:29.571000
 hat	haben	AUX	-	0:43:27.818000	0:43:29.571000
 .	-	-	-	0:43:27.818000	0:43:29.571000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:29.571000" end="0:43:30.438000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:29.571000" end="0:43:30.438000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:43:29.571000	0:43:30.438000
 ,	-	-	-	0:43:29.571000	0:43:30.438000
 ja	ja	PART	-	0:43:29.571000	0:43:30.438000
 .	-	-	-	0:43:29.571000	0:43:30.438000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:30.438000" end="0:43:44.005000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:30.438000" end="0:43:44.005000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:30.438000	0:43:30.691000
 .	-	-	-	0:43:30.438000	0:43:30.691000
 <pause duration="0,5s"/>
@@ -10560,11 +10560,11 @@ in	in	ADP	-	0:43:36.291000	0:43:44.005000
 einem	einer	DET	-	0:43:36.291000	0:43:44.005000
 interna=	international	ADJ	-	0:43:36.291000	0:43:44.005000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:44.005000" end="0:43:44.371000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:44.005000" end="0:43:44.371000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:43:44.005000	0:43:44.371000
 .	-	-	-	0:43:44.005000	0:43:44.371000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:44.005000" end="0:43:55.385000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:44.005000" end="0:43:55.385000" project="PP03" age_lower="18" age_upper="35">
 tionalen	-	SPACE	-	0:43:44.005000	0:43:44.371000
 Bewerb	Bewerb	NOUN	-	0:43:44.371000	0:43:44.751000
 <pause duration="0,9s"/>
@@ -10599,7 +10599,7 @@ ist	sein	AUX	-	0:43:54.485000	0:43:55.385000
 lässig	lässig	ADJ	-	0:43:54.485000	0:43:55.385000
 .	-	-	-	0:43:54.485000	0:43:55.385000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:55.385000" end="0:43:57.065000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:55.385000" end="0:43:57.065000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ah	ah	X	-	0:43:55.385000	0:43:56.531000
 ja	ja	ADV	-	0:43:55.385000	0:43:56.531000
@@ -10607,18 +10607,18 @@ ja	ja	ADV	-	0:43:55.385000	0:43:56.531000
 und	-	-	-	0:43:56.531000	0:43:57.065000
 wie	-	-	-	0:43:56.531000	0:43:57.065000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:56.531000" end="0:43:57.065000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:56.531000" end="0:43:57.065000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:43:56.531000	0:43:57.065000
 das/	-	-	-	0:43:56.531000	0:43:57.065000
 .	-	-	-	0:43:56.531000	0:43:57.065000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:57.065000" end="0:43:57.825000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:57.065000" end="0:43:57.825000" project="PP03" age_lower="18" age_upper="35">
 reagieren	-	-	-	0:43:57.065000	0:43:57.825000
 sie	-	-	-	0:43:57.065000	0:43:57.825000
 _oft_	-	-	-	0:43:57.065000	0:43:57.825000
 ?	-	-	-	0:43:57.065000	0:43:57.825000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:57.825000" end="0:44:02.018000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:43:57.825000" end="0:44:02.018000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:43:57.825000	0:44:02.018000
 ,	-	-	-	0:43:57.825000	0:44:02.018000
@@ -10632,12 +10632,12 @@ uns	sich	PRON	-	0:43:57.825000	0:44:02.018000
 vergönnen	vergönnen	VERB	Prog ProgKon tunP	0:43:57.825000	0:44:02.018000
 .	-	-	-	0:43:57.825000	0:44:02.018000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:02.018000" end="0:44:02.971000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:02.018000" end="0:44:02.971000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 okay	okay	NOUN	-	0:44:02.018000	0:44:02.971000
 .	-	-	-	0:44:02.018000	0:44:02.971000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:02.971000" end="0:44:04.931000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:02.971000" end="0:44:04.931000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 die	der	DET	-	0:44:02.971000	0:44:04.931000
 Meisten	Meiste	NOUN	-	0:44:02.971000	0:44:04.931000
@@ -10649,14 +10649,14 @@ passt	passt	PROPN	-	0:44:02.971000	0:44:04.931000
 schon"	schon	ADV	-	0:44:02.971000	0:44:04.931000
 .	-	-	-	0:44:02.971000	0:44:04.931000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:04.931000" end="0:44:06.725000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:04.931000" end="0:44:06.725000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 einmal	-	-	-	0:44:04.931000	0:44:06.205000
 *dürft*	-	-	-	0:44:04.931000	0:44:06.205000
 gewinnen	-	-	-	0:44:06.205000	0:44:06.725000
 .	-	-	-	0:44:06.205000	0:44:06.725000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:06.205000" end="0:44:07.611000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:06.205000" end="0:44:07.611000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:44:06.205000	0:44:06.725000
 ,	-	-	-	0:44:06.205000	0:44:06.725000
 des	der	PRON	-	0:44:06.205000	0:44:06.725000
@@ -10668,11 +10668,11 @@ sein	mein	AUX	-	0:44:06.725000	0:44:07.611000
 nicht	nicht	PART	-	0:44:06.725000	0:44:07.611000
 ?	-	-	-	0:44:06.725000	0:44:07.611000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:07.611000" end="0:44:08.658000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:07.611000" end="0:44:08.658000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:44:07.611000	0:44:08.658000
 .	-	-	-	0:44:07.611000	0:44:08.658000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:08.658000" end="0:44:21.585000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:08.658000" end="0:44:21.585000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:44:08.658000	0:44:12.585000
 <pause duration="0,7s"/>
@@ -10707,27 +10707,27 @@ von	-	-	-	0:44:12.585000	0:44:21.585000
 hundert	-	-	-	0:44:12.585000	0:44:21.585000
 .	-	-	-	0:44:12.585000	0:44:21.585000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:21.585000" end="0:44:24.345000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:21.585000" end="0:44:24.345000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 <pause duration="1,1s"/>
 ja	ja	PART	-	0:44:22.898000	0:44:24.345000
 .	-	-	-	0:44:22.898000	0:44:24.345000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:22.898000" end="0:44:24.345000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:22.898000" end="0:44:24.345000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 (ich	ich	PRON	-	0:44:22.898000	0:44:24.345000
 f/	-	-	-	0:44:22.898000	0:44:24.345000
 .)	-	-	-	0:44:22.898000	0:44:24.345000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:24.345000" end="0:44:26.038000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:24.345000" end="0:44:26.038000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:26.038000" end="0:44:27.045000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:26.038000" end="0:44:27.045000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:44:26.038000	0:44:27.045000
 nicht	nicht	PART	-	0:44:26.038000	0:44:27.045000
 ?	-	-	-	0:44:26.038000	0:44:27.045000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:27.045000" end="0:44:32.478000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:27.045000" end="0:44:32.478000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:44:27.045000	0:44:32.478000
 kann	können	VERB	-	0:44:27.045000	0:44:32.478000
 mir	sich	PRON	-	0:44:27.045000	0:44:32.478000
@@ -10741,7 +10741,7 @@ als	als	ADP	-	0:44:27.045000	0:44:32.478000
 Fußballweltmeister	Fußballweltmeister	NOUN	-	0:44:27.045000	0:44:32.478000
 .	-	-	-	0:44:27.045000	0:44:32.478000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:32.478000" end="0:44:40.205000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:32.478000" end="0:44:40.205000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:44:32.478000	0:44:34.978000
 es	ich	PRON	-	0:44:32.478000	0:44:34.978000
@@ -10767,18 +10767,18 @@ worden	werden	AUX	-	0:44:38.258000	0:44:40.205000
 ist	sein	AUX	-	0:44:38.258000	0:44:40.205000
 .	-	-	-	0:44:38.258000	0:44:40.205000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:40.205000" end="0:44:40.665000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:40.205000" end="0:44:40.665000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:44:40.205000	0:44:40.665000
 .	-	-	-	0:44:40.205000	0:44:40.665000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:40.665000" end="0:44:41.838000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:40.665000" end="0:44:41.838000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="niesen"/>
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:41.838000" end="0:44:42.605000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:41.838000" end="0:44:42.605000" project="PP03" age_lower="18" age_upper="35">
 Gesundheit	Gesundheit	NOUN	-	0:44:41.838000	0:44:42.605000
 .	-	-	-	0:44:41.838000	0:44:42.605000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:42.605000" end="0:44:44.811000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:42.605000" end="0:44:44.811000" project="PP03" age_lower="18" age_upper="35">
 hätte	haben	AUX	-	0:44:42.605000	0:44:43.925000
 man	man	PRON	-	0:44:42.605000	0:44:43.925000
 auch	auch	ADV	-	0:44:42.605000	0:44:43.925000
@@ -10790,11 +10790,11 @@ oder	oder	CCONJ	-	0:44:42.605000	0:44:43.925000
 <pause duration="0,6s"/>
 also	also	ADV	-	0:44:43.925000	0:44:44.811000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:44.811000" end="0:44:45.278000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:44.811000" end="0:44:45.278000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:44:44.811000	0:44:45.278000
 .	-	-	-	0:44:44.811000	0:44:45.278000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:45.278000" end="0:44:46.545000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:45.278000" end="0:44:46.545000" project="PP03" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:44:45.278000	0:44:46.545000
 könnte	können	VERB	-	0:44:45.278000	0:44:46.545000
 es	ich	PRON	-	0:44:45.278000	0:44:46.545000
@@ -10802,7 +10802,7 @@ schon	schon	ADV	-	0:44:45.278000	0:44:46.545000
 geben	geben	VERB	-	0:44:45.278000	0:44:46.545000
 .	-	-	-	0:44:45.278000	0:44:46.545000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:46.545000" end="0:44:48.238000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:46.545000" end="0:44:48.238000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:44:46.545000	0:44:47.771000
 wie	wie	ADV	-	0:44:46.545000	0:44:47.771000
@@ -10812,29 +10812,29 @@ der	der	DET	-	0:44:46.545000	0:44:47.771000
 Quali	Quali	NOUN	-	0:44:47.771000	0:44:48.238000
 ge=	spielen	VERB	-	0:44:47.771000	0:44:48.238000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:47.771000" end="0:44:48.238000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:47.771000" end="0:44:48.238000" project="PP03" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:44:47.771000	0:44:48.238000
 viel	viel	PRON	-	0:44:47.771000	0:44:48.238000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:48.238000" end="0:44:49.151000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:48.238000" end="0:44:49.151000" project="PP03" age_lower="18" age_upper="35">
 spielt	-	SPACE	-	0:44:48.238000	0:44:48.971000
 haben	haben	AUX	-	0:44:48.238000	0:44:48.971000
 bei	bei	ADP	-	0:44:48.971000	0:44:49.151000
 der	der	DET	-	0:44:48.971000	0:44:49.151000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:48.971000" end="0:44:49.151000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:48.971000" end="0:44:49.151000" project="PP03" age_lower="18" age_upper="35">
 mit/	-	-	-	0:44:48.971000	0:44:49.151000
 .	-	-	-	0:44:48.971000	0:44:49.151000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:49.151000" end="0:44:49.658000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:49.151000" end="0:44:49.658000" project="PP03" age_lower="18" age_upper="35">
 EM	EM	PROPN	-	0:44:49.151000	0:44:49.658000
 .	-	-	-	0:44:49.151000	0:44:49.658000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:49.658000" end="0:44:50.031000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:49.658000" end="0:44:50.031000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:44:49.658000	0:44:50.031000
 .	-	-	-	0:44:49.658000	0:44:50.031000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:50.031000" end="0:44:51.118000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:50.031000" end="0:44:51.118000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 da	da	ADV	-	0:44:50.031000	0:44:51.118000
 waren	sein	AUX	-	0:44:50.031000	0:44:51.118000
@@ -10842,7 +10842,7 @@ sie	ich	PRON	-	0:44:50.031000	0:44:51.118000
 ja/	-	-	-	0:44:50.031000	0:44:51.118000
 .	-	-	-	0:44:50.031000	0:44:51.118000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:51.118000" end="0:44:53.085000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:51.118000" end="0:44:53.085000" project="PP03" age_lower="18" age_upper="35">
 müssen	müssen	VERB	-	0:44:51.118000	0:44:53.085000
 sie	ich	PRON	-	0:44:51.118000	0:44:53.085000
 halt	halt	ADV	-	0:44:51.118000	0:44:53.085000
@@ -10855,11 +10855,11 @@ haben	haben	AUX	-	0:44:51.118000	0:44:53.085000
 nicht	nicht	PART	-	0:44:51.118000	0:44:53.085000
 .	-	-	-	0:44:51.118000	0:44:53.085000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:53.085000" end="0:44:53.831000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:53.085000" end="0:44:53.831000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:53.085000	0:44:53.831000
 .	-	-	-	0:44:53.085000	0:44:53.831000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:53.831000" end="0:45:01.845000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:44:53.831000" end="0:45:01.845000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 und	und	CCONJ	-	0:44:53.831000	0:44:57.458000
 ähm	ähm	PROPN	-	0:44:53.831000	0:44:57.458000
@@ -10885,11 +10885,11 @@ so	-	-	-	0:44:59.745000	0:45:01.845000
 _henn_	-	-	-	0:44:59.745000	0:45:01.845000
 ,	-	-	-	0:44:59.745000	0:45:01.845000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:01.845000" end="0:45:02.418000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:01.845000" end="0:45:02.418000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:45:01.845000	0:45:02.418000
 .	-	-	-	0:45:01.845000	0:45:02.418000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:02.418000" end="0:45:06.298000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:02.418000" end="0:45:06.298000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:45:02.418000	0:45:03.898000
 sobald	sobald	SCONJ	-	0:45:02.418000	0:45:03.898000
 sie	ich	PRON	-	0:45:02.418000	0:45:03.898000
@@ -10914,7 +10914,7 @@ _henn_	-	-	-	0:45:04.545000	0:45:05.425000
 irgendwelchen/	-	-	-	0:45:05.425000	0:45:06.298000
 .)	-	-	-	0:45:05.425000	0:45:06.298000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:06.298000" end="0:45:09.958000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:06.298000" end="0:45:09.958000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	PART	-	0:45:06.298000	0:45:07.698000
 ,	-	-	-	0:45:06.298000	0:45:07.698000
@@ -10925,17 +10925,17 @@ das	der	PRON	-	0:45:07.698000	0:45:09.618000
 stimmt	stimmen	VERB	-	0:45:09.618000	0:45:09.958000
 .	-	-	-	0:45:09.618000	0:45:09.958000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:09.618000" end="0:45:10.231000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:09.618000" end="0:45:10.231000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:45:09.618000	0:45:09.958000
 geht	gehen	VERB	-	0:45:09.618000	0:45:09.958000
 so	so	ADV	-	0:45:09.958000	0:45:10.231000
 schn=	schnellen	ADJ	-	0:45:09.958000	0:45:10.231000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:10.231000" end="0:45:10.765000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:10.231000" end="0:45:10.765000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:10.231000	0:45:10.765000
 .	-	-	-	0:45:10.231000	0:45:10.765000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:10.231000" end="0:45:15.798000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:10.231000" end="0:45:15.798000" project="PP03" age_lower="18" age_upper="35">
 ell	-	SPACE	-	0:45:10.231000	0:45:10.765000
 dann	dann	ADV	-	0:45:10.231000	0:45:10.765000
 .	-	-	-	0:45:10.231000	0:45:10.765000
@@ -10964,11 +10964,11 @@ ist	sein	AUX	-	0:45:14.298000	0:45:15.798000
 der	der	DET	-	0:45:14.298000	0:45:15.798000
 Österreicher	Österreicher	NOUN	-	0:45:14.298000	0:45:15.798000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:15.798000" end="0:45:16.151000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:15.798000" end="0:45:16.151000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:15.798000	0:45:16.151000
 .	-	-	-	0:45:15.798000	0:45:16.151000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:15.798000" end="0:45:17.498000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:15.798000" end="0:45:17.498000" project="PP03" age_lower="18" age_upper="35">
 geneigt	neigen	VERB	-	0:45:15.798000	0:45:16.151000
 ,	-	-	-	0:45:15.798000	0:45:16.151000
 der	der	PRON	-	0:45:16.151000	0:45:17.498000
@@ -10979,7 +10979,7 @@ zur	zur	ADP	-	0:45:16.151000	0:45:17.498000
 Übertreibung	Übertreibung	NOUN	-	0:45:16.151000	0:45:17.498000
 .	-	-	-	0:45:16.151000	0:45:17.498000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:17.498000" end="0:45:18.698000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:17.498000" end="0:45:18.698000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:45:17.498000	0:45:18.271000
 stimmt	stimmen	VERB	-	0:45:17.498000	0:45:18.271000
 ,	-	-	-	0:45:17.498000	0:45:18.271000
@@ -10987,11 +10987,11 @@ ja	ja	PART	-	0:45:17.498000	0:45:18.271000
 .	-	-	-	0:45:17.498000	0:45:18.271000
 sob=	sobald	SCONJ	-	0:45:18.271000	0:45:18.698000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:18.271000" end="0:45:18.698000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:18.271000" end="0:45:18.698000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:18.271000	0:45:18.698000
 .	-	-	-	0:45:18.271000	0:45:18.698000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:18.698000" end="0:45:20.071000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:18.698000" end="0:45:20.071000" project="PP03" age_lower="18" age_upper="35">
 ald	-	SPACE	-	0:45:18.698000	0:45:19.498000
 er	ich	PRON	-	0:45:18.698000	0:45:19.498000
 etwas	etwas	PRON	-	0:45:18.698000	0:45:19.498000
@@ -10999,19 +10999,19 @@ verliert	verlieren	VERB	-	0:45:18.698000	0:45:19.498000
 ,	-	-	-	0:45:18.698000	0:45:19.498000
 _oftang_	-	-	-	0:45:19.498000	0:45:20.071000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:20.071000" end="0:45:20.638000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:20.071000" end="0:45:20.638000" project="PP03" age_lower="18" age_upper="35">
 _oft_	-	-	-	0:45:20.071000	0:45:20.638000
 tut	-	-	-	0:45:20.071000	0:45:20.638000
 all/	-	-	-	0:45:20.071000	0:45:20.638000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:20.638000" end="0:45:20.958000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:20.638000" end="0:45:20.958000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:45:20.638000	0:45:20.958000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:20.958000" end="0:45:21.385000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:20.958000" end="0:45:21.385000" project="PP03" age_lower="18" age_upper="35">
 ja/	-	-	-	0:45:20.958000	0:45:21.385000
 .	-	-	-	0:45:20.958000	0:45:21.385000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:21.385000" end="0:45:22.531000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:21.385000" end="0:45:22.531000" project="PP03" age_lower="18" age_upper="35">
 ist	-	-	-	0:45:21.385000	0:45:22.531000
 er	-	-	-	0:45:21.385000	0:45:22.531000
 nicht	-	-	-	0:45:21.385000	0:45:22.531000
@@ -11020,7 +11020,7 @@ gut	-	-	-	0:45:21.385000	0:45:22.531000
 und/	-	-	-	0:45:21.385000	0:45:22.531000
 .	-	-	-	0:45:21.385000	0:45:22.531000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:22.531000" end="0:45:24.691000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:22.531000" end="0:45:24.691000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:45:22.531000	0:45:24.691000
 jetzt	jetzt	ADV	-	0:45:22.531000	0:45:24.691000
 auf	auf	ADP	-	0:45:22.531000	0:45:24.691000
@@ -11034,11 +11034,11 @@ ein	einen	DET	-	0:45:22.531000	0:45:24.691000
 Spiel	Spiel	NOUN	-	0:45:22.531000	0:45:24.691000
 ge=	gewinnen	VERB	-	0:45:22.531000	0:45:24.691000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:24.691000" end="0:45:25.091000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:24.691000" end="0:45:25.091000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:24.691000	0:45:25.091000
 .	-	-	-	0:45:24.691000	0:45:25.091000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:24.691000" end="0:45:27.911000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:24.691000" end="0:45:27.911000" project="PP03" age_lower="18" age_upper="35">
 wonnen	-	SPACE	-	0:45:24.691000	0:45:25.091000
 mit	mit	ADP	-	0:45:24.691000	0:45:25.091000
 dem	der	DET	-	0:45:24.691000	0:45:25.091000
@@ -11053,11 +11053,11 @@ zwei	zwei	NUM	-	0:45:26.085000	0:45:27.911000
 Spiele	Spiel	NOUN	-	0:45:26.085000	0:45:27.911000
 gewonnen	gewinnen	VERB	-	0:45:26.085000	0:45:27.911000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:27.911000" end="0:45:28.245000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:27.911000" end="0:45:28.245000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:27.911000	0:45:28.245000
 .	-	-	-	0:45:27.911000	0:45:28.245000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:28.245000" end="0:45:33.465000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:28.245000" end="0:45:33.465000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 gegen	gegen	ADP	-	0:45:28.245000	0:45:33.465000
 <pause duration="0,7s"/>
@@ -11067,11 +11067,11 @@ und	und	CCONJ	-	0:45:28.245000	0:45:33.465000
 gegen	gegen	ADP	-	0:45:28.245000	0:45:33.465000
 Slowenien	Slowenien	PROPN	-	0:45:28.245000	0:45:33.465000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:33.465000" end="0:45:33.825000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:33.465000" end="0:45:33.825000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:33.465000	0:45:33.825000
 .	-	-	-	0:45:33.465000	0:45:33.825000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:33.825000" end="0:45:39.818000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:33.825000" end="0:45:39.818000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	ADV	-	0:45:33.825000	0:45:37.765000
 und	und	CCONJ	-	0:45:33.825000	0:45:37.765000
@@ -11097,9 +11097,9 @@ eine	einen	DET	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe+ spe-	0:45:37.765000	
 gewaltige	gewaltig	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe+ spe-	0:45:37.765000	0:45:39.818000
 österreichische	österreichisch	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe+ spe-	0:45:37.765000	0:45:39.818000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:39.818000" end="0:45:41.331000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:39.818000" end="0:45:41.331000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:39.818000" end="0:45:42.078000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:39.818000" end="0:45:42.078000" project="PP03" age_lower="18" age_upper="35">
 Mannschaft	Mannschaft	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe+ spe-	0:45:39.818000	0:45:41.331000
 hat	haben	AUX	-	0:45:39.818000	0:45:41.331000
 ,	-	-	-	0:45:39.818000	0:45:41.331000
@@ -11112,28 +11112,28 @@ also	also	ADV	-	0:45:41.331000	0:45:42.078000
 das/	-	-	-	0:45:41.331000	0:45:42.078000
 .	-	-	-	0:45:41.331000	0:45:42.078000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:42.078000" end="0:45:42.978000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:42.078000" end="0:45:42.978000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:42.078000	0:45:42.491000
 .	-	-	-	0:45:42.078000	0:45:42.491000
 und	und	CCONJ	-	0:45:42.491000	0:45:42.978000
 sob=	sobald	SCONJ	-	0:45:42.491000	0:45:42.978000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:42.491000" end="0:45:42.978000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:42.491000" end="0:45:42.978000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:45:42.491000	0:45:42.978000
 ich/	-	-	-	0:45:42.491000	0:45:42.978000
 .	-	-	-	0:45:42.491000	0:45:42.978000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:42.978000" end="0:45:44.171000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:42.978000" end="0:45:44.171000" project="PP03" age_lower="18" age_upper="35">
 ald	-	SPACE	-	0:45:42.978000	0:45:43.838000
 sie	ich	PRON	-	0:45:42.978000	0:45:43.838000
 wieder	wieder	ADV	-	0:45:42.978000	0:45:43.838000
 ein	einen	DET	-	0:45:43.838000	0:45:44.171000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:43.838000" end="0:45:44.171000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:43.838000" end="0:45:44.171000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:43.838000	0:45:44.171000
 .	-	-	-	0:45:43.838000	0:45:44.171000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:44.171000" end="0:45:47.278000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:44.171000" end="0:45:47.278000" project="PP03" age_lower="18" age_upper="35">
 Spiel	Spiel	NOUN	-	0:45:44.171000	0:45:44.691000
 verlieren	verlieren	VERB	-	0:45:44.171000	0:45:44.691000
 ,	-	-	-	0:45:44.171000	0:45:44.691000
@@ -11145,19 +11145,19 @@ wieder/	-	-	-	0:45:44.691000	0:45:45.638000
 .	-	-	-	0:45:44.691000	0:45:45.638000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:47.278000" end="0:45:47.718000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:47.278000" end="0:45:47.718000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:45:47.278000	0:45:47.718000
 ,	-	-	-	0:45:47.278000	0:45:47.718000
 aber	aber	CCONJ	-	0:45:47.278000	0:45:47.718000
 sie	ich	PRON	-	0:45:47.278000	0:45:47.718000
 so=	sollen	VERB	KONJ	0:45:47.278000	0:45:47.718000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:47.718000" end="0:45:48.358000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:47.718000" end="0:45:48.358000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:45:47.718000	0:45:48.358000
 stimmt	stimmen	VERB	-	0:45:47.718000	0:45:48.358000
 .	-	-	-	0:45:47.718000	0:45:48.358000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:47.718000" end="0:45:52.145000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:47.718000" end="0:45:52.145000" project="PP03" age_lower="18" age_upper="35">
 llten	-	SPACE	KONJ	0:45:47.718000	0:45:48.358000
 halt	halt	ADV	-	0:45:47.718000	0:45:48.358000
 einfach	einfach	ADV	-	0:45:47.718000	0:45:48.358000
@@ -11175,11 +11175,11 @@ schon	-	-	-	0:45:49.858000	0:45:52.145000
 möglich	-	-	-	0:45:49.858000	0:45:52.145000
 .	-	-	-	0:45:49.858000	0:45:52.145000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:52.145000" end="0:45:52.871000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:52.145000" end="0:45:52.871000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:45:52.145000	0:45:52.871000
 .	-	-	-	0:45:52.145000	0:45:52.871000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:52.871000" end="0:46:19.805000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:45:52.871000" end="0:46:19.805000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 ich	ich	PRON	-	0:45:52.871000	0:45:55.585000
 hoffe	hoffen	VERB	-	0:45:52.871000	0:45:55.585000
@@ -11230,11 +11230,11 @@ viel	viel	PRON	-	0:46:16.251000	0:46:19.805000
 im	im	ADP	-	0:46:16.251000	0:46:19.805000
 Bauernhaus	Bauernhaus	NOUN	-	0:46:16.251000	0:46:19.805000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:19.805000" end="0:46:20.391000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:19.805000" end="0:46:20.391000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:46:19.805000	0:46:20.391000
 .	-	-	-	0:46:19.805000	0:46:20.391000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:20.391000" end="0:46:29.951000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:20.391000" end="0:46:29.951000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 bei	bei	ADP	-	0:46:20.391000	0:46:21.491000
 der	der	DET	-	0:46:20.391000	0:46:21.491000
@@ -11249,10 +11249,10 @@ alleweil	alleweil	NOUN	-	0:46:21.491000	0:46:29.951000
 Katzen	Katze	NOUN	-	0:46:21.491000	0:46:29.951000
 .	-	-	-	0:46:21.491000	0:46:29.951000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:29.951000" end="0:46:31.871000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:29.951000" end="0:46:31.871000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:29.951000" end="0:46:36.711000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:29.951000" end="0:46:36.711000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mit	mit	ADP	-	0:46:29.951000	0:46:31.871000
 die	der	DET	-	0:46:29.951000	0:46:31.871000
@@ -11277,11 +11277,11 @@ so	-	-	-	0:46:31.871000	0:46:36.711000
 Häuser	-	-	-	0:46:31.871000	0:46:36.711000
 gebaut	-	-	-	0:46:31.871000	0:46:36.711000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:36.711000" end="0:46:37.298000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:36.711000" end="0:46:37.298000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:46:36.711000	0:46:37.298000
 .	-	-	-	0:46:36.711000	0:46:37.298000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:36.711000" end="0:46:39.231000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:36.711000" end="0:46:39.231000" project="PP03" age_lower="18" age_upper="35">
 für	-	-	-	0:46:36.711000	0:46:37.298000
 die	-	-	-	0:46:36.711000	0:46:37.298000
 Kar/	-	-	-	0:46:36.711000	0:46:37.298000
@@ -11294,11 +11294,11 @@ mit	-	-	-	0:46:37.298000	0:46:39.231000
 Schachteln	-	-	-	0:46:37.298000	0:46:39.231000
 ,	-	-	-	0:46:37.298000	0:46:39.231000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:39.231000" end="0:46:39.565000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:39.231000" end="0:46:39.565000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:39.231000	0:46:39.565000
 .	-	-	-	0:46:39.231000	0:46:39.565000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:39.231000" end="0:46:41.445000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:39.231000" end="0:46:41.445000" project="PP03" age_lower="18" age_upper="35">
 *weißt*	-	-	-	0:46:39.231000	0:46:39.565000
 eh	-	-	-	0:46:39.231000	0:46:39.565000
 ,	-	-	-	0:46:39.231000	0:46:39.565000
@@ -11310,21 +11310,21 @@ Wohzimmer	Wohzimmer	NOUN	-	0:46:40.465000	0:46:41.445000
 ,	-	-	-	0:46:40.465000	0:46:41.445000
 Schlaf=	Schlafzimmer	PROPN	-	0:46:40.465000	0:46:41.445000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:41.445000" end="0:46:41.911000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:41.445000" end="0:46:41.911000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:46:41.445000	0:46:41.911000
 .	-	-	-	0:46:41.445000	0:46:41.911000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:41.445000" end="0:46:41.911000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:41.445000" end="0:46:41.911000" project="PP03" age_lower="18" age_upper="35">
 zimmer	-	SPACE	-	0:46:41.445000	0:46:41.911000
 .	-	-	-	0:46:41.445000	0:46:41.911000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:41.911000" end="0:46:43.145000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:41.911000" end="0:46:43.145000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:41.911000" end="0:46:43.145000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:41.911000" end="0:46:43.145000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:43.145000" end="0:46:44.838000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:43.145000" end="0:46:44.838000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:44.838000" end="0:46:50.918000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:44.838000" end="0:46:50.918000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 alles	alle	PRON	-	0:46:44.838000	0:46:47.171000
 schon	schon	ADV	-	0:46:44.838000	0:46:47.171000
@@ -11347,17 +11347,17 @@ es	ich	PRON	-	0:46:49.058000	0:46:50.918000
 überlebt	überleben	VERB	-	0:46:49.058000	0:46:50.918000
 .	-	-	-	0:46:49.058000	0:46:50.918000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:50.918000" end="0:46:51.978000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:50.918000" end="0:46:51.978000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:50.918000" end="0:46:51.978000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:50.918000" end="0:46:51.978000" project="PP03" age_lower="18" age_upper="35">
 Gott	Gott	NOUN	-	0:46:50.918000	0:46:51.978000
 sei	sein	AUX	-	0:46:50.918000	0:46:51.978000
 Dank	Dank	NOUN	-	0:46:50.918000	0:46:51.978000
 .	-	-	-	0:46:50.918000	0:46:51.978000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:51.978000" end="0:46:52.625000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:51.978000" end="0:46:52.625000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:51.978000" end="0:46:54.705000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:51.978000" end="0:46:54.705000" project="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:46:51.978000	0:46:52.625000
 sie	-	-	-	0:46:52.625000	0:46:54.705000
 haben	-	-	-	0:46:52.625000	0:46:54.705000
@@ -11368,24 +11368,24 @@ gerne	-	-	-	0:46:52.625000	0:46:54.705000
 gesprungen	-	-	-	0:46:52.625000	0:46:54.705000
 .	-	-	-	0:46:52.625000	0:46:54.705000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:54.705000" end="0:46:57.045000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:54.705000" end="0:46:57.045000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:54.705000" end="0:46:57.045000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:54.705000" end="0:46:57.045000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:57.045000" end="0:46:57.738000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:57.045000" end="0:46:57.738000" project="PP03" age_lower="18" age_upper="35">
 springen	springen	VERB	-	0:46:57.045000	0:46:57.738000
 sie	ich	PRON	-	0:46:57.045000	0:46:57.738000
 ?	-	-	-	0:46:57.045000	0:46:57.738000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:57.045000" end="0:46:57.738000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:57.045000" end="0:46:57.738000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:57.738000" end="0:46:58.418000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:57.738000" end="0:46:58.418000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:57.738000" end="0:46:58.418000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:57.738000" end="0:46:58.418000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:58.418000" end="0:47:00.185000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:58.418000" end="0:47:00.185000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:58.418000" end="0:47:00.585000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:46:58.418000" end="0:47:00.585000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:46:58.418000	0:47:00.185000
 ,	-	-	-	0:46:58.418000	0:47:00.185000
 sie	ich	PRON	-	0:46:58.418000	0:47:00.185000
@@ -11399,20 +11399,20 @@ nicht	nicht	PART	-	0:46:58.418000	0:47:00.185000
 aber/	-	-	-	0:47:00.185000	0:47:00.585000
 .	-	-	-	0:47:00.185000	0:47:00.585000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:00.585000" end="0:47:01.171000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:00.585000" end="0:47:01.171000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:01.171000" end="0:47:01.838000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:01.171000" end="0:47:01.838000" project="PP03" age_lower="18" age_upper="35">
 _moll_	-	-	-	0:47:01.171000	0:47:01.838000
 _moll_	-	-	-	0:47:01.171000	0:47:01.838000
 .	-	-	-	0:47:01.171000	0:47:01.838000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:01.838000" end="0:47:03.838000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:01.838000" end="0:47:03.838000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:01.838000" end="0:47:03.838000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:01.838000" end="0:47:03.838000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:03.838000" end="0:47:06.545000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:03.838000" end="0:47:06.545000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:03.838000" end="0:47:06.545000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:03.838000" end="0:47:06.545000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:03.838000	0:47:06.545000
 ,	-	-	-	0:47:03.838000	0:47:06.545000
 es	ich	PRON	-	0:47:03.838000	0:47:06.545000
@@ -11427,7 +11427,7 @@ es	ich	PRON	-	0:47:03.838000	0:47:06.545000
 nicht	nicht	PART	-	0:47:03.838000	0:47:06.545000
 .	-	-	-	0:47:03.838000	0:47:06.545000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:06.545000" end="0:47:08.751000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:06.545000" end="0:47:08.751000" project="PP03" age_lower="18" age_upper="35">
 pieps	pieps	PROPN	-	0:47:06.545000	0:47:07.031000
 .	-	-	-	0:47:06.545000	0:47:07.031000
 <pause duration="0,9s"/>
@@ -11435,25 +11435,25 @@ hm	hm	X	-	0:47:07.031000	0:47:08.298000
 ?	-	-	-	0:47:07.031000	0:47:08.298000
 (*kriegst*)	-	-	-	0:47:08.298000	0:47:08.751000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:08.298000" end="0:47:08.751000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:08.298000" end="0:47:08.751000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:08.298000	0:47:08.751000
 .	-	-	-	0:47:08.298000	0:47:08.751000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:08.751000" end="0:47:10.531000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:08.751000" end="0:47:10.531000" project="PP03" age_lower="18" age_upper="35">
 (wieder?)	-	-	-	0:47:08.751000	0:47:09.258000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:09.258000" end="0:47:10.531000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:09.258000" end="0:47:10.531000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:09.258000	0:47:10.531000
 .	-	-	-	0:47:09.258000	0:47:10.531000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:10.531000" end="0:47:11.305000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:10.531000" end="0:47:11.305000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:11.305000" end="0:47:11.931000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:11.305000" end="0:47:11.931000" project="PP03" age_lower="18" age_upper="35">
 mein	meinen	DET	??	0:47:11.305000	0:47:11.931000
 Gott	Gott	NOUN	??	0:47:11.305000	0:47:11.931000
 .	-	-	-	0:47:11.305000	0:47:11.931000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:11.931000" end="0:47:13.671000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:11.931000" end="0:47:13.671000" project="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:11.931000	0:47:13.671000
 sie	-	-	-	0:47:11.931000	0:47:13.671000
 landen	-	-	-	0:47:11.931000	0:47:13.671000
@@ -11464,14 +11464,14 @@ ihre	-	-	-	0:47:11.931000	0:47:13.671000
 Haxen	-	-	-	0:47:11.931000	0:47:13.671000
 .	-	-	-	0:47:11.931000	0:47:13.671000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:13.671000" end="0:47:14.111000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:13.671000" end="0:47:14.111000" project="PP03" age_lower="18" age_upper="35">
 irgend=	irgendwie	ADV	-	0:47:13.671000	0:47:14.111000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:14.111000" end="0:47:14.518000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:14.111000" end="0:47:14.518000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:14.111000	0:47:14.518000
 .	-	-	-	0:47:14.111000	0:47:14.518000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:14.111000" end="0:47:14.958000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:14.111000" end="0:47:14.958000" project="PP03" age_lower="18" age_upper="35">
 wie	-	SPACE	-	0:47:14.111000	0:47:14.518000
 ,	-	-	-	0:47:14.111000	0:47:14.518000
 gell	gell	ADJ	-	0:47:14.111000	0:47:14.518000
@@ -11480,11 +11480,11 @@ das	der	PRON	-	0:47:14.518000	0:47:14.958000
 ist	sein	AUX	-	0:47:14.518000	0:47:14.958000
 ge=	gewaltig	ADJ	-	0:47:14.518000	0:47:14.958000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:14.958000" end="0:47:15.438000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:14.958000" end="0:47:15.438000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:47:14.958000	0:47:15.438000
 .	-	-	-	0:47:14.958000	0:47:15.438000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:14.958000" end="0:47:16.418000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:14.958000" end="0:47:16.418000" project="PP03" age_lower="18" age_upper="35">
 waltig	-	SPACE	-	0:47:14.958000	0:47:15.438000
 ,	-	-	-	0:47:14.958000	0:47:15.438000
 die	-	-	-	0:47:15.438000	0:47:16.418000
@@ -11492,9 +11492,9 @@ Katzen	-	-	-	0:47:15.438000	0:47:16.418000
 _henn_	-	-	-	0:47:15.438000	0:47:16.418000
 ein	-	-	-	0:47:15.438000	0:47:16.418000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:16.418000" end="0:47:17.045000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:16.418000" end="0:47:17.045000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:16.418000" end="0:47:25.825000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:16.418000" end="0:47:25.825000" project="PP03" age_lower="18" age_upper="35">
 Phänomen	-	-	-	0:47:16.418000	0:47:17.045000
 .	-	-	-	0:47:16.418000	0:47:17.045000
 <pause duration="1,0s"/>
@@ -11519,11 +11519,11 @@ Schuppen	Schuppen	NOUN	-	0:47:18.385000	0:47:25.825000
 da	da	ADV	-	0:47:18.385000	0:47:25.825000
 ,	-	-	-	0:47:18.385000	0:47:25.825000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:25.825000" end="0:47:26.351000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:25.825000" end="0:47:26.351000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:25.825000	0:47:26.351000
 .	-	-	-	0:47:25.825000	0:47:26.351000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:26.351000" end="0:47:32.578000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:26.351000" end="0:47:32.578000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:47:26.351000	0:47:27.885000
 _oft_	-	-	-	0:47:26.351000	0:47:27.885000
 bin	-	-	-	0:47:26.351000	0:47:27.885000
@@ -11546,11 +11546,11 @@ _Sasen_	-	-	-	0:47:30.991000	0:47:32.578000
 herausgestanden	-	-	-	0:47:30.991000	0:47:32.578000
 .	-	-	-	0:47:30.991000	0:47:32.578000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:32.578000" end="0:47:33.005000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:32.578000" end="0:47:33.005000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:47:32.578000	0:47:33.005000
 .	-	-	-	0:47:32.578000	0:47:33.005000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:33.005000" end="0:47:38.871000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:33.005000" end="0:47:38.871000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:47:33.005000	0:47:34.371000
 (mich	-	-	-	0:47:33.005000	0:47:34.371000
 hat	-	-	-	0:47:33.005000	0:47:34.371000
@@ -11573,11 +11573,11 @@ _ding_	-	-	-	0:47:34.371000	0:47:38.871000
 erwischt	-	-	-	0:47:34.371000	0:47:38.871000
 ,	-	-	-	0:47:34.371000	0:47:38.871000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:38.871000" end="0:47:39.138000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:38.871000" end="0:47:39.138000" project="PP03" age_lower="18" age_upper="35">
 aua	aua	X	-	0:47:38.871000	0:47:39.138000
 .	-	-	-	0:47:38.871000	0:47:39.138000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:39.138000" end="0:47:48.045000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:39.138000" end="0:47:48.045000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	-	-	-	0:47:39.138000	0:47:43.391000
 _oftang_	-	-	-	0:47:39.138000	0:47:43.391000
@@ -11602,11 +11602,11 @@ also	also	ADV	-	0:47:45.731000	0:47:48.045000
 richtig	richtig	ADJ	-	0:47:45.731000	0:47:48.045000
 gesch=	schneiden	ADJ	-	0:47:45.731000	0:47:48.045000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:48.045000" end="0:47:48.445000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:48.045000" end="0:47:48.445000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:48.045000	0:47:48.445000
 .	-	-	-	0:47:48.045000	0:47:48.445000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:48.045000" end="0:47:54.525000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:48.045000" end="0:47:54.525000" project="PP03" age_lower="18" age_upper="35">
 nitten	-	SPACE	-	0:47:48.045000	0:47:48.445000
 .	-	-	-	0:47:48.045000	0:47:48.445000
 und	und	CCONJ	-	0:47:48.445000	0:47:52.511000
@@ -11636,9 +11636,9 @@ ein	-	-	-	0:47:53.005000	0:47:54.525000
 Pflästerchen	-	-	-	0:47:53.005000	0:47:54.525000
 ?"	-	-	-	0:47:53.005000	0:47:54.525000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:54.525000" end="0:47:55.505000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:54.525000" end="0:47:55.505000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:55.505000" end="0:48:01.205000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:47:55.505000" end="0:48:01.205000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:47:55.505000	0:47:56.638000
 _oft_	-	-	-	0:47:55.505000	0:47:56.638000
 hat	-	-	-	0:47:55.505000	0:47:56.638000
@@ -11660,12 +11660,12 @@ zum	-	-	-	0:47:56.638000	0:48:01.205000
 _Tatten_	-	-	-	0:47:56.638000	0:48:01.205000
 ."	-	-	-	0:47:56.638000	0:48:01.205000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:01.205000" end="0:48:02.091000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:01.205000" end="0:48:02.091000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 mhm	mhm	PROPN	-	0:48:01.205000	0:48:02.091000
 .	-	-	-	0:48:01.205000	0:48:02.091000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:02.091000" end="0:48:05.625000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:02.091000" end="0:48:05.625000" project="PP03" age_lower="18" age_upper="35">
 hinten	-	-	-	0:48:02.091000	0:48:03.125000
 _oft_	-	-	-	0:48:02.091000	0:48:03.125000
 bin	-	-	-	0:48:02.091000	0:48:03.125000
@@ -11681,37 +11681,37 @@ Sehnen	-	-	-	0:48:03.125000	0:48:05.625000
 ab	-	-	-	0:48:03.125000	0:48:05.625000
 ,	-	-	-	0:48:03.125000	0:48:05.625000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:05.625000" end="0:48:06.278000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:05.625000" end="0:48:06.278000" project="PP03" age_lower="18" age_upper="35">
 wow	wow	PROPN	-	0:48:05.625000	0:48:06.278000
 .	-	-	-	0:48:05.625000	0:48:06.278000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:05.625000" end="0:48:06.278000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:05.625000" end="0:48:06.278000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:48:05.625000	0:48:06.278000
 ich	ich	PRON	-	0:48:05.625000	0:48:06.278000
 habe	habe	AUX	-	0:48:05.625000	0:48:06.278000
 na=	natürlich	ADV	-	0:48:05.625000	0:48:06.278000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:06.278000" end="0:48:07.305000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:06.278000" end="0:48:07.305000" project="PP03" age_lower="18" age_upper="35">
 oha	oha	PROPN	-	0:48:06.278000	0:48:07.305000
 .	-	-	-	0:48:06.278000	0:48:07.305000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:06.278000" end="0:48:07.305000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:06.278000" end="0:48:07.305000" project="PP03" age_lower="18" age_upper="35">
 türlich	-	SPACE	-	0:48:06.278000	0:48:07.305000
 einen	ein	DET	-	0:48:06.278000	0:48:07.305000
 Gips	Gips	NOUN	-	0:48:06.278000	0:48:07.305000
 gekriegt	kriegen	VERB	-	0:48:06.278000	0:48:07.305000
 .	-	-	-	0:48:06.278000	0:48:07.305000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:07.305000" end="0:48:08.965000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:07.305000" end="0:48:08.965000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:07.305000	0:48:07.958000
 .	-	-	-	0:48:07.305000	0:48:07.958000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:07.958000" end="0:48:08.965000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:07.958000" end="0:48:08.965000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:48:07.958000	0:48:08.965000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:08.965000" end="0:48:09.758000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:08.965000" end="0:48:09.758000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:09.758000" end="0:48:15.225000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:09.758000" end="0:48:15.225000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:48:09.758000	0:48:11.325000
 das	der	PRON	-	0:48:09.758000	0:48:11.325000
 war	sein	AUX	-	0:48:09.758000	0:48:11.325000
@@ -11729,18 +11729,18 @@ nicht	nicht	PART	-	0:48:11.325000	0:48:15.225000
 geblutet	bluten	VERB	-	0:48:11.325000	0:48:15.225000
 .	-	-	-	0:48:11.325000	0:48:15.225000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:15.225000" end="0:48:15.658000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:15.225000" end="0:48:15.658000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:48:15.225000	0:48:15.658000
 ?	-	-	-	0:48:15.225000	0:48:15.658000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:15.658000" end="0:48:16.631000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:15.658000" end="0:48:16.631000" project="PP03" age_lower="18" age_upper="35">
 die	der	PRON	-	0:48:15.658000	0:48:16.631000
 war	sein	AUX	-	0:48:15.658000	0:48:16.631000
 ganz	ganz	ADV	-	0:48:15.658000	0:48:16.631000
 weiß	weiß	ADJ	-	0:48:15.658000	0:48:16.631000
 .	-	-	-	0:48:15.658000	0:48:16.631000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:16.631000" end="0:48:18.905000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:16.631000" end="0:48:18.905000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 nach	-	-	-	0:48:16.631000	0:48:18.905000
 dem	-	-	-	0:48:16.631000	0:48:18.905000
@@ -11751,7 +11751,7 @@ auch	-	-	-	0:48:16.631000	0:48:18.905000
 oder	oder	CCONJ	-	0:48:16.631000	0:48:18.905000
 ?	-	-	-	0:48:16.631000	0:48:18.905000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:18.905000" end="0:48:20.185000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:18.905000" end="0:48:20.185000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:48:18.905000	0:48:20.185000
 das	der	PRON	-	0:48:18.905000	0:48:20.185000
 weiß	weiß	VERB	-	0:48:18.905000	0:48:20.185000
@@ -11760,12 +11760,12 @@ nicht	nicht	PART	-	0:48:18.905000	0:48:20.185000
 mehr	mehr	ADV	-	0:48:18.905000	0:48:20.185000
 ,	-	-	-	0:48:18.905000	0:48:20.185000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:20.185000" end="0:48:20.591000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:20.185000" end="0:48:20.591000" project="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:48:20.185000	0:48:20.591000
 nicht	nicht	PART	-	0:48:20.185000	0:48:20.591000
 ?	-	-	-	0:48:20.185000	0:48:20.591000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:20.185000" end="0:48:22.238000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:20.185000" end="0:48:22.238000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:48:20.185000	0:48:20.591000
 ich	ich	PRON	-	0:48:20.185000	0:48:20.591000
 weiß	weiß	VERB	-	0:48:20.185000	0:48:20.591000
@@ -11778,11 +11778,11 @@ irgendwie	irgendwie	ADV	-	0:48:20.938000	0:48:22.238000
 ganz	ganz	ADV	-	0:48:20.938000	0:48:22.238000
 wei=	weiß	VERB	-	0:48:20.938000	0:48:22.238000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:22.238000" end="0:48:22.565000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:22.238000" end="0:48:22.565000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:22.238000	0:48:22.565000
 .	-	-	-	0:48:22.238000	0:48:22.565000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:22.238000" end="0:48:25.398000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:22.238000" end="0:48:25.398000" project="PP03" age_lower="18" age_upper="35">
 ß	-	SPACE	-	0:48:22.238000	0:48:22.565000
 ,	-	-	-	0:48:22.238000	0:48:22.565000
 und	und	CCONJ	-	0:48:22.565000	0:48:24.825000
@@ -11799,37 +11799,37 @@ war	sein	AUX	-	0:48:24.825000	0:48:25.398000
 so	so	ADV	-	0:48:24.825000	0:48:25.398000
 weiß	weiß	ADJ	-	0:48:24.825000	0:48:25.398000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:25.398000" end="0:48:25.918000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:25.398000" end="0:48:25.918000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:48:25.398000	0:48:25.918000
 .	-	-	-	0:48:25.398000	0:48:25.918000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:25.398000" end="0:48:25.918000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:25.398000" end="0:48:25.918000" project="PP03" age_lower="18" age_upper="35">
 so/	-	-	-	0:48:25.398000	0:48:25.918000
 .	-	-	-	0:48:25.398000	0:48:25.918000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:25.918000" end="0:48:27.325000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:25.918000" end="0:48:27.325000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:27.325000" end="0:48:28.778000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:27.325000" end="0:48:28.778000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:48:27.325000	0:48:28.778000
 .	-	-	-	0:48:27.325000	0:48:28.778000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:28.778000" end="0:48:30.971000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:28.778000" end="0:48:30.971000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 sieht	sehen	VERB	-	0:48:28.778000	0:48:30.971000
 man	man	PRON	-	0:48:28.778000	0:48:30.971000
 die	der	DET	-	0:48:28.778000	0:48:30.971000
 Narbe	Narbe	NOUN	-	0:48:28.778000	0:48:30.971000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:30.971000" end="0:48:31.225000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:30.971000" end="0:48:31.225000" project="PP03" age_lower="18" age_upper="35">
 die	der	PRON	-	0:48:30.971000	0:48:31.225000
 sie=	sehen	VERB	-	0:48:30.971000	0:48:31.225000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:31.225000" end="0:48:31.558000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:31.225000" end="0:48:31.558000" project="PP03" age_lower="18" age_upper="35">
 noch	noch	ADV	-	0:48:31.225000	0:48:31.558000
 ?	-	-	-	0:48:31.225000	0:48:31.558000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:31.225000" end="0:48:32.518000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:31.225000" end="0:48:32.518000" project="PP03" age_lower="18" age_upper="35">
 ht	-	SPACE	-	0:48:31.225000	0:48:31.558000
 man	man	PRON	-	0:48:31.225000	0:48:31.558000
 da	da	ADP	-	0:48:31.225000	0:48:31.558000
@@ -11841,7 +11841,7 @@ sie	ich	PRON	-	0:48:31.558000	0:48:32.518000
 zeigen	zeigen	VERB	-	0:48:31.558000	0:48:32.518000
 ?	-	-	-	0:48:31.558000	0:48:32.518000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:32.518000" end="0:48:35.451000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:32.518000" end="0:48:35.451000" project="PP03" age_lower="18" age_upper="35">
 *musst*	-	-	-	0:48:32.518000	0:48:34.998000
 jetzt	-	-	-	0:48:32.518000	0:48:34.998000
 nicht	-	-	-	0:48:32.518000	0:48:34.998000
@@ -11852,23 +11852,23 @@ aus=	-	-	-	0:48:32.518000	0:48:34.998000
 ziehen	-	-	-	0:48:34.998000	0:48:35.451000
 .	-	-	-	0:48:34.998000	0:48:35.451000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:34.998000" end="0:48:35.451000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:34.998000" end="0:48:35.451000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:34.998000	0:48:35.451000
 ,	-	-	-	0:48:34.998000	0:48:35.451000
 das	der	DET	-	0:48:34.998000	0:48:35.451000
 tu=	tun	VERB	-	0:48:34.998000	0:48:35.451000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:35.451000" end="0:48:36.191000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:35.451000" end="0:48:36.191000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:35.451000" end="0:48:36.191000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:35.451000" end="0:48:36.191000" project="PP03" age_lower="18" age_upper="35">
 e	-	SPACE	-	0:48:35.451000	0:48:36.191000
 ich	ich	PRON	-	0:48:35.451000	0:48:36.191000
 schon	schon	ADV	-	0:48:35.451000	0:48:36.191000
 .	-	-	-	0:48:35.451000	0:48:36.191000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:36.191000" end="0:48:37.351000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:36.191000" end="0:48:37.351000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:37.351000" end="0:48:48.264000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:37.351000" end="0:48:48.264000" project="PP03" age_lower="18" age_upper="35">
 die	der	PRON	-	0:48:37.351000	0:48:38.978000
 sieht	sehen	VERB	-	0:48:37.351000	0:48:38.978000
 man	man	PRON	-	0:48:37.351000	0:48:38.978000
@@ -11893,13 +11893,13 @@ extrem	extrem	ADJ	-	0:48:46.251000	0:48:48.264000
 zurück/	-	-	-	0:48:46.251000	0:48:48.264000
 .	-	-	-	0:48:46.251000	0:48:48.264000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:48.264000" end="0:48:49.551000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:48.264000" end="0:48:49.551000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ah	ah	X	-	0:48:48.264000	0:48:49.551000
 ja	ja	ADV	-	0:48:48.264000	0:48:49.551000
 .	-	-	-	0:48:48.264000	0:48:49.551000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:48.264000" end="0:48:50.058000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:48.264000" end="0:48:50.058000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 es	ich	PRON	-	0:48:48.264000	0:48:49.551000
 ist	sein	AUX	-	0:48:48.264000	0:48:49.551000
@@ -11908,18 +11908,18 @@ ver=	verheilen	VERB	-	0:48:48.264000	0:48:49.551000
 heilt	-	SPACE	-	0:48:49.551000	0:48:50.058000
 ,	-	-	-	0:48:49.551000	0:48:50.058000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:50.058000" end="0:48:50.491000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:50.058000" end="0:48:50.491000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:50.058000	0:48:50.491000
 .	-	-	-	0:48:50.058000	0:48:50.491000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:50.058000" end="0:48:51.411000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:50.058000" end="0:48:51.411000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:48:50.058000	0:48:50.491000
 <pause duration="0,8s"/>
 da	da	ADV	-	0:48:50.491000	0:48:51.411000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:51.411000" end="0:48:52.198000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:51.411000" end="0:48:52.198000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:51.411000" end="0:48:54.458000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:51.411000" end="0:48:54.458000" project="PP03" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:48:51.411000	0:48:52.198000
 (es)	ich	PRON	-	0:48:51.411000	0:48:52.198000
 .	-	-	-	0:48:51.411000	0:48:52.198000
@@ -11934,7 +11934,7 @@ schon	schon	ADV	-	0:48:53.344000	0:48:54.458000
 gell	gell	ADJ	-	0:48:53.344000	0:48:54.458000
 ?	-	-	-	0:48:53.344000	0:48:54.458000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:54.458000" end="0:49:00.051000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:54.458000" end="0:49:00.051000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:54.458000	0:48:55.098000
 .	-	-	-	0:48:54.458000	0:48:55.098000
 <pause duration="1,6s"/>
@@ -11952,18 +11952,18 @@ wie	wie	ADV	-	0:48:55.098000	0:48:58.111000
 <pause duration="1,6s"/>
 das	der	PRON	-	0:48:58.111000	0:49:00.051000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:58.111000" end="0:49:00.051000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:48:58.111000" end="0:49:00.051000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 nein	nein	PART	-	0:48:58.111000	0:49:00.051000
 .	-	-	-	0:48:58.111000	0:49:00.051000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:00.051000" end="0:49:00.651000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:00.051000" end="0:49:00.651000" project="PP03" age_lower="18" age_upper="35">
 weißt	wissen	VERB	-	0:49:00.051000	0:49:00.651000
 nicht	nicht	PART	-	0:49:00.051000	0:49:00.651000
 mehr	mehr	ADV	-	0:49:00.051000	0:49:00.651000
 .	-	-	-	0:49:00.051000	0:49:00.651000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:00.651000" end="0:49:03.171000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:00.651000" end="0:49:03.171000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:49:00.651000	0:49:01.704000
 ,	-	-	-	0:49:00.651000	0:49:01.704000
 (eigentlich)	eigentlich	ADV	-	0:49:00.651000	0:49:01.704000
@@ -11981,20 +11981,20 @@ nicht	nicht	PART	-	0:49:01.704000	0:49:03.171000
 erinnern	erinnern	VERB	-	0:49:01.704000	0:49:03.171000
 .	-	-	-	0:49:01.704000	0:49:03.171000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:03.171000" end="0:49:04.071000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:03.171000" end="0:49:04.071000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:03.171000	0:49:04.071000
 .	-	-	-	0:49:03.171000	0:49:04.071000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:04.071000" end="0:49:07.384000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:04.071000" end="0:49:07.384000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 gut	gut	ADJ	-	0:49:04.071000	0:49:07.384000
 .	-	-	-	0:49:04.071000	0:49:07.384000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:07.384000" end="0:49:07.898000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:07.384000" end="0:49:07.898000" project="PP03" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:49:07.384000	0:49:07.898000
 .	-	-	-	0:49:07.384000	0:49:07.898000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:07.898000" end="0:49:10.171000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:07.898000" end="0:49:10.171000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:49:07.898000	0:49:10.171000
 von	von	ADP	-	0:49:07.898000	0:49:10.171000
 deiner	sich	DET	??	0:49:07.898000	0:49:10.171000
@@ -12008,11 +12008,11 @@ zu	zu	PART	-	0:49:07.898000	0:49:10.171000
 erzählen	erzählen	VERB	-	0:49:07.898000	0:49:10.171000
 ?	-	-	-	0:49:07.898000	0:49:10.171000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:10.171000" end="0:49:10.724000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:10.171000" end="0:49:10.724000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:49:10.171000	0:49:10.724000
 .	-	-	-	0:49:10.171000	0:49:10.724000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:10.724000" end="0:49:11.524000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:10.724000" end="0:49:11.524000" project="PP03" age_lower="18" age_upper="35">
 *hast*	-	-	-	0:49:10.724000	0:49:11.524000
 dir	-	-	-	0:49:10.724000	0:49:11.524000
 auch	-	-	-	0:49:10.724000	0:49:11.524000
@@ -12021,7 +12021,7 @@ weh	-	-	-	0:49:10.724000	0:49:11.524000
 getan	-	-	-	0:49:10.724000	0:49:11.524000
 ?	-	-	-	0:49:10.724000	0:49:11.524000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:11.524000" end="0:49:34.364000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:11.524000" end="0:49:34.364000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:11.524000	0:49:13.338000
 ,	-	-	-	0:49:11.524000	0:49:13.338000
 ich	ich	PRON	-	0:49:11.524000	0:49:13.338000
@@ -12107,11 +12107,11 @@ _henn_	-	-	-	0:49:25.018000	0:49:33.878000
 .	-	-	-	0:49:25.018000	0:49:33.878000
 also	also	ADV	-	0:49:33.878000	0:49:34.364000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:33.878000" end="0:49:34.364000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:33.878000" end="0:49:34.364000" project="PP03" age_lower="18" age_upper="35">
 aha	aha	X	-	0:49:33.878000	0:49:34.364000
 .	-	-	-	0:49:33.878000	0:49:34.364000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:34.364000" end="0:49:36.118000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:34.364000" end="0:49:36.118000" project="PP03" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:49:34.364000	0:49:36.118000
 die	der	DET	-	0:49:34.364000	0:49:36.118000
 großen	groß	ADJ	-	0:49:34.364000	0:49:36.118000
@@ -12122,11 +12122,11 @@ so	so	ADV	-	0:49:34.364000	0:49:36.118000
 kleine	kleine	VERB	-	0:49:34.364000	0:49:36.118000
 .	-	-	-	0:49:34.364000	0:49:36.118000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:36.118000" end="0:49:36.551000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:36.118000" end="0:49:36.551000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:36.118000	0:49:36.551000
 .	-	-	-	0:49:36.118000	0:49:36.551000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:36.551000" end="0:49:38.784000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:36.551000" end="0:49:38.784000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:49:36.551000	0:49:38.784000
 da	da	ADV	-	0:49:36.551000	0:49:38.784000
@@ -12136,12 +12136,12 @@ nicht	nicht	PART	-	0:49:36.551000	0:49:38.784000
 eingehakt	einhaken	VERB	-	0:49:36.551000	0:49:38.784000
 .	-	-	-	0:49:36.551000	0:49:38.784000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:38.784000" end="0:49:39.798000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:38.784000" end="0:49:39.798000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 wie	wie	ADV	-	0:49:38.784000	0:49:39.798000
 ?	-	-	-	0:49:38.784000	0:49:39.798000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:39.798000" end="0:49:50.098000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:39.798000" end="0:49:50.098000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:49:39.798000	0:49:42.151000
 ist	-	-	-	0:49:39.798000	0:49:42.151000
 _oft_	-	-	-	0:49:39.798000	0:49:42.151000
@@ -12183,11 +12183,11 @@ so	so	ADV	-	0:49:48.691000	0:49:50.098000
 hängt	hängen	VERB	-	0:49:48.691000	0:49:50.098000
 .	-	-	-	0:49:48.691000	0:49:50.098000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:50.098000" end="0:49:50.971000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:50.098000" end="0:49:50.971000" project="PP03" age_lower="18" age_upper="35">
 aha	aha	X	-	0:49:50.098000	0:49:50.971000
 .	-	-	-	0:49:50.098000	0:49:50.971000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:50.971000" end="0:49:57.571000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:50.971000" end="0:49:57.571000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:49:50.971000	0:49:51.951000
 ich	-	-	-	0:49:50.971000	0:49:51.951000
 fahre	-	-	-	0:49:50.971000	0:49:51.951000
@@ -12216,12 +12216,12 @@ Haxen	Haxe	NOUN	??	0:49:54.078000	0:49:57.571000
 herumgewickelt	herumgewickelt	VERB	-	0:49:54.078000	0:49:57.571000
 ,	-	-	-	0:49:54.078000	0:49:57.571000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:57.571000" end="0:49:58.438000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:57.571000" end="0:49:58.438000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	nein	PART	-	0:49:57.571000	0:49:58.438000
 .	-	-	-	0:49:57.571000	0:49:58.438000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:58.438000" end="0:50:01.238000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:49:58.438000" end="0:50:01.238000" project="PP03" age_lower="18" age_upper="35">
 jetzt	jetzt	ADV	-	0:49:58.438000	0:50:00.111000
 hat	haben	AUX	-	0:49:58.438000	0:50:00.111000
 es	ich	PRON	-	0:49:58.438000	0:50:00.111000
@@ -12230,12 +12230,12 @@ mitgezogen	mitziehen	VERB	-	0:49:58.438000	0:50:00.111000
 .	-	-	-	0:49:58.438000	0:50:00.111000
 und	-	-	-	0:50:00.111000	0:50:01.238000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:00.111000" end="0:50:01.238000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:00.111000" end="0:50:01.238000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 was	was	PRON	-	0:50:00.111000	0:50:01.238000
 ?	-	-	-	0:50:00.111000	0:50:01.238000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:01.238000" end="0:50:19.911000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:01.238000" end="0:50:19.911000" project="PP03" age_lower="18" age_upper="35">
 _oftang_	-	-	-	0:50:01.238000	0:50:02.644000
 habe	-	-	-	0:50:01.238000	0:50:02.644000
 ich	-	-	-	0:50:01.238000	0:50:02.644000
@@ -12315,7 +12315,7 @@ dass	-	-	-	0:50:18.744000	0:50:19.911000
 der	-	-	-	0:50:18.744000	0:50:19.911000
 Bügel	-	-	-	0:50:18.744000	0:50:19.911000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:18.744000" end="0:50:20.364000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:18.744000" end="0:50:20.364000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:50:18.744000	0:50:19.911000
 das	der	PRON	-	0:50:18.744000	0:50:19.911000
 kann	können	VERB	-	0:50:18.744000	0:50:19.911000
@@ -12328,7 +12328,7 @@ vor=	vorstellen	VERB	-	0:50:18.744000	0:50:19.911000
 stellen	-	SPACE	-	0:50:19.911000	0:50:20.364000
 .	-	-	-	0:50:19.911000	0:50:20.364000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:20.364000" end="0:50:24.651000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:20.364000" end="0:50:24.651000" project="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:50:20.364000	0:50:21.798000
 das	-	-	-	0:50:20.364000	0:50:21.798000
 Seil	-	-	-	0:50:20.364000	0:50:21.798000
@@ -12350,30 +12350,30 @@ sonst	sonst	ADV	-	0:50:24.038000	0:50:24.651000
 hätte	haben	AUX	-	0:50:24.038000	0:50:24.651000
 ich	ich	PRON	-	0:50:24.038000	0:50:24.651000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:24.038000" end="0:50:24.651000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:24.038000" end="0:50:24.651000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:50:24.038000	0:50:24.651000
 ja	ja	ADV	-	0:50:24.038000	0:50:24.651000
 .	-	-	-	0:50:24.038000	0:50:24.651000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:24.651000" end="0:50:25.691000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:24.651000" end="0:50:25.691000" project="PP03" age_lower="18" age_upper="35">
 können	können	VERB	-	0:50:24.651000	0:50:25.691000
 meinen	mein	DET	-	0:50:24.651000	0:50:25.691000
 Haxen	Haxe	NOUN	-	0:50:24.651000	0:50:25.691000
 verlieren	verlieren	VERB	-	0:50:24.651000	0:50:25.691000
 .	-	-	-	0:50:24.651000	0:50:25.691000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:25.691000" end="0:50:27.151000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:25.691000" end="0:50:27.151000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 Heiland	Heiland	PROPN	-	0:50:25.691000	0:50:27.151000
 der	der	DET	-	0:50:25.691000	0:50:27.151000
 Welt	Welt	NOUN	-	0:50:25.691000	0:50:27.151000
 .	-	-	-	0:50:25.691000	0:50:27.151000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:27.151000" end="0:50:27.724000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:27.151000" end="0:50:27.724000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:50:27.151000	0:50:27.724000
 .	-	-	-	0:50:27.151000	0:50:27.724000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:27.151000" end="0:50:28.098000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:27.151000" end="0:50:28.098000" project="PP03" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:50:27.151000	0:50:27.724000
 alt	alt	ADJ	-	0:50:27.151000	0:50:27.724000
 wa=	sein	AUX	-	0:50:27.151000	0:50:27.724000
@@ -12382,7 +12382,7 @@ du	du	PRON	-	0:50:27.724000	0:50:28.098000
 da	da	ADP	-	0:50:27.724000	0:50:28.098000
 ?	-	-	-	0:50:27.724000	0:50:28.098000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:28.098000" end="0:50:30.791000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:28.098000" end="0:50:30.791000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	PROPN	-	0:50:28.098000	0:50:30.791000
 ,	-	-	-	0:50:28.098000	0:50:30.791000
@@ -12393,7 +12393,7 @@ fünf	fünf	NUM	-	0:50:28.098000	0:50:30.791000
 sechs	sechs	NUM	-	0:50:28.098000	0:50:30.791000
 .	-	-	-	0:50:28.098000	0:50:30.791000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:30.791000" end="0:50:33.218000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:30.791000" end="0:50:33.218000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 und	und	CCONJ	-	0:50:30.791000	0:50:33.218000
 du	du	PRON	-	0:50:30.791000	0:50:33.218000
@@ -12406,7 +12406,7 @@ in	in	ADP	-	0:50:30.791000	0:50:33.218000
 Erinnerung	Erinnerung	NOUN	-	0:50:30.791000	0:50:33.218000
 ?	-	-	-	0:50:30.791000	0:50:33.218000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:33.218000" end="0:50:44.311000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:33.218000" end="0:50:44.311000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:50:33.218000	0:50:35.298000
 weiß	weiß	VERB	-	0:50:33.218000	0:50:35.298000
 ich	ich	PRON	-	0:50:33.218000	0:50:35.298000
@@ -12451,12 +12451,12 @@ noch	noch	ADV	-	0:50:42.344000	0:50:44.311000
 drinnen	drinnen	ADV	-	0:50:42.344000	0:50:44.311000
 .	-	-	-	0:50:42.344000	0:50:44.311000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:44.311000" end="0:50:44.904000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:44.311000" end="0:50:44.904000" project="PP03" age_lower="18" age_upper="35">
 ah	ah	X	-	0:50:44.311000	0:50:44.904000
 ja	ja	ADV	-	0:50:44.311000	0:50:44.904000
 .	-	-	-	0:50:44.311000	0:50:44.904000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:44.904000" end="0:50:48.498000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:44.904000" end="0:50:48.498000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:50:44.904000	0:50:47.524000
 das	der	PRON	-	0:50:44.904000	0:50:47.524000
@@ -12476,7 +12476,7 @@ _oft_	-	-	-	0:50:47.524000	0:50:48.498000
 nachher/	-	-	-	0:50:47.524000	0:50:48.498000
 .	-	-	-	0:50:47.524000	0:50:48.498000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:48.498000" end="0:50:52.791000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:48.498000" end="0:50:52.791000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 aber	aber	CCONJ	-	0:50:48.498000	0:50:51.184000
 ich	ich	PRON	-	0:50:48.498000	0:50:51.184000
@@ -12499,7 +12499,7 @@ Schlepplift	Schlepplift	NOUN	-	0:50:51.184000	0:50:52.791000
 oder	oder	CCONJ	-	0:50:51.184000	0:50:52.791000
 ?	-	-	-	0:50:51.184000	0:50:52.791000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:52.791000" end="0:50:53.984000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:52.791000" end="0:50:53.984000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:50:52.791000	0:50:53.191000
 ,	-	-	-	0:50:52.791000	0:50:53.191000
 wa=	sein	AUX	-	0:50:52.791000	0:50:53.191000
@@ -12508,29 +12508,29 @@ ein	einen	DET	-	0:50:53.191000	0:50:53.984000
 Schlepplift	Schlepplift	NOUN	-	0:50:53.191000	0:50:53.984000
 .	-	-	-	0:50:53.191000	0:50:53.984000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:53.191000" end="0:50:53.984000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:53.191000" end="0:50:53.984000" project="PP03" age_lower="18" age_upper="35">
 ein	einen	DET	-	0:50:53.191000	0:50:53.984000
 Tellerlift	Tellerlift	NOUN	-	0:50:53.191000	0:50:53.984000
 .	-	-	-	0:50:53.191000	0:50:53.984000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:53.984000" end="0:50:54.984000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:53.984000" end="0:50:54.984000" project="PP03" age_lower="18" age_upper="35">
 Tellerlift	Tellerlift	NOUN	-	0:50:53.984000	0:50:54.984000
 ,	-	-	-	0:50:53.984000	0:50:54.984000
 ja	ja	PART	-	0:50:53.984000	0:50:54.984000
 .	-	-	-	0:50:53.984000	0:50:54.984000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:54.984000" end="0:50:55.871000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:54.984000" end="0:50:55.871000" project="PP03" age_lower="18" age_upper="35">
 ein	einen	DET	-	0:50:54.984000	0:50:55.871000
 Teller	Teller	ADJ	-	0:50:54.984000	0:50:55.871000
 Schlepplift	Schlepplift	NOUN	-	0:50:54.984000	0:50:55.871000
 ,	-	-	-	0:50:54.984000	0:50:55.871000
 al=	also	ADV	-	0:50:54.984000	0:50:55.871000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:55.871000" end="0:50:56.178000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:55.871000" end="0:50:56.178000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:50:55.871000	0:50:56.178000
 .	-	-	-	0:50:55.871000	0:50:56.178000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:55.871000" end="0:50:57.624000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:55.871000" end="0:50:57.624000" project="PP03" age_lower="18" age_upper="35">
 so	-	SPACE	-	0:50:55.871000	0:50:56.178000
 nicht	nicht	PART	-	0:50:55.871000	0:50:56.178000
 mi=	mit	ADP	-	0:50:55.871000	0:50:56.178000
@@ -12542,7 +12542,7 @@ sondern	-	-	-	0:50:56.178000	0:50:57.624000
 mit	-	-	-	0:50:56.178000	0:50:57.624000
 die	-	-	-	0:50:56.178000	0:50:57.624000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:57.624000" end="0:50:58.664000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:57.624000" end="0:50:58.664000" project="PP03" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:50:57.624000	0:50:58.664000
 die	der	DET	-	0:50:57.624000	0:50:58.664000
 runden	rund	NOUN	-	0:50:57.624000	0:50:58.664000
@@ -12550,7 +12550,7 @@ runden	rund	NOUN	-	0:50:57.624000	0:50:58.664000
 ja	ja	PART	-	0:50:57.624000	0:50:58.664000
 .	-	-	-	0:50:57.624000	0:50:58.664000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:57.624000" end="0:51:02.391000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:50:57.624000" end="0:51:02.391000" project="PP03" age_lower="18" age_upper="35">
 mit	-	-	-	0:50:57.624000	0:50:58.664000
 den	-	-	-	0:50:57.624000	0:50:58.664000
 _ding_	-	-	-	0:50:57.624000	0:50:58.664000
@@ -12564,13 +12564,13 @@ normalerweise	normalerweise	ADV	-	0:50:58.664000	0:51:02.391000
 tut	tun	VERB	-	0:50:58.664000	0:51:02.391000
 das	der	PRON	-	0:50:58.664000	0:51:02.391000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:02.391000" end="0:51:03.144000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:02.391000" end="0:51:03.144000" project="PP03" age_lower="18" age_upper="35">
 hängt	hängen	VERB	-	0:51:02.391000	0:51:03.144000
 der	der	DET	-	0:51:02.391000	0:51:03.144000
 oben	oben	ADV	-	0:51:02.391000	0:51:03.144000
 .	-	-	-	0:51:02.391000	0:51:03.144000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:02.391000" end="0:51:03.938000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:02.391000" end="0:51:03.938000" project="PP03" age_lower="18" age_upper="35">
 da	da	ADV	-	0:51:02.391000	0:51:03.144000
 (oben)	oben	ADV	-	0:51:02.391000	0:51:03.144000
 ,	-	-	-	0:51:02.391000	0:51:03.144000
@@ -12579,11 +12579,11 @@ das	der	PRON	-	0:51:03.144000	0:51:03.938000
 wieder	wieder	ADV	-	0:51:03.144000	0:51:03.938000
 hinei=	hinein	ADP	-	0:51:03.144000	0:51:03.938000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:03.938000" end="0:51:04.371000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:03.938000" end="0:51:04.371000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:51:03.938000	0:51:04.371000
 .	-	-	-	0:51:03.938000	0:51:04.371000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:03.938000" end="0:51:07.131000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:03.938000" end="0:51:07.131000" project="PP03" age_lower="18" age_upper="35">
 n	-	SPACE	-	0:51:03.938000	0:51:04.371000
 ,	-	-	-	0:51:03.938000	0:51:04.371000
 nicht	nicht	PART	-	0:51:03.938000	0:51:04.371000
@@ -12599,13 +12599,13 @@ mehr	mehr	ADV	-	0:51:04.371000	0:51:07.131000
 zurückge/	-	-	-	0:51:04.371000	0:51:07.131000
 .	-	-	-	0:51:04.371000	0:51:07.131000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:07.131000" end="0:51:08.151000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:07.131000" end="0:51:08.151000" project="PP03" age_lower="18" age_upper="35">
 hineingegangen	hineingegangen	NOUN	-	0:51:07.131000	0:51:08.151000
 ,	-	-	-	0:51:07.131000	0:51:08.151000
 ja	ja	PART	-	0:51:07.131000	0:51:08.151000
 .	-	-	-	0:51:07.131000	0:51:08.151000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:08.151000" end="0:51:12.304000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:08.151000" end="0:51:12.304000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:51:08.151000	0:51:12.304000
 jetzt	jetzt	ADV	-	0:51:08.151000	0:51:12.304000
 h/	-	-	-	0:51:08.151000	0:51:12.304000
@@ -12624,7 +12624,7 @@ so	so	ADV	-	0:51:08.151000	0:51:12.304000
 gezogen	ziehen	VERB	-	0:51:08.151000	0:51:12.304000
 .	-	-	-	0:51:08.151000	0:51:12.304000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:12.304000" end="0:51:15.958000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:12.304000" end="0:51:15.958000" project="PP03" age_lower="18" age_upper="35">
 so	so	ADV	-	0:51:12.304000	0:51:13.658000
 hinaufgezogen	hinaufziehen	VERB	-	0:51:12.304000	0:51:13.658000
 ,	-	-	-	0:51:12.304000	0:51:13.658000
@@ -12638,7 +12638,7 @@ so	so	ADV	-	0:51:13.658000	0:51:15.958000
 hineingefahren	hineingefahren	VERB	-	0:51:13.658000	0:51:15.958000
 .	-	-	-	0:51:13.658000	0:51:15.958000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:15.958000" end="0:51:17.658000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:15.958000" end="0:51:17.658000" project="PP03" age_lower="18" age_upper="35">
 also	also	ADV	-	0:51:15.958000	0:51:17.658000
 bist	sein	AUX	-	0:51:15.958000	0:51:17.658000
 du	du	PRON	-	0:51:15.958000	0:51:17.658000
@@ -12648,7 +12648,7 @@ Hinunterfahren	Hinunterfahren	NOUN	-	0:51:15.958000	0:51:17.658000
 gewesen	sein	AUX	-	0:51:15.958000	0:51:17.658000
 .	-	-	-	0:51:15.958000	0:51:17.658000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:17.658000" end="0:51:20.824000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:17.658000" end="0:51:20.824000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:51:17.658000	0:51:19.358000
 mit	mit	ADP	-	0:51:17.658000	0:51:19.358000
 ähm	ähm	PROPN	-	0:51:17.658000	0:51:19.358000
@@ -12664,7 +12664,7 @@ ein	einen	DET	-	0:51:19.358000	0:51:20.824000
 Teller	Teller	NOUN	-	0:51:19.358000	0:51:20.824000
 .	-	-	-	0:51:19.358000	0:51:20.824000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:20.824000" end="0:51:22.791000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:20.824000" end="0:51:22.791000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 aber	aber	CCONJ	-	0:51:20.824000	0:51:22.791000
 du	du	PRON	-	0:51:20.824000	0:51:22.791000
@@ -12674,7 +12674,7 @@ oder	oder	CCONJ	-	0:51:20.824000	0:51:22.791000
 dahinter	dahinter	ADV	-	0:51:20.824000	0:51:22.791000
 ?	-	-	-	0:51:20.824000	0:51:22.791000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:22.791000" end="0:51:26.531000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:22.791000" end="0:51:26.531000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ich	ich	PRON	-	0:51:22.791000	0:51:25.151000
 war	sein	AUX	-	0:51:22.791000	0:51:25.151000
@@ -12689,11 +12689,11 @@ mir	sich	PRON	-	0:51:25.151000	0:51:26.531000
 gefahren	gefahren	VERB	-	0:51:25.151000	0:51:26.531000
 .	-	-	-	0:51:25.151000	0:51:26.531000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:26.531000" end="0:51:26.804000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:26.531000" end="0:51:26.804000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:51:26.531000	0:51:26.804000
 .	-	-	-	0:51:26.531000	0:51:26.804000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:26.804000" end="0:51:32.984000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:26.804000" end="0:51:32.984000" project="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:51:26.804000	0:51:29.618000
 der	der	PRON	-	0:51:26.804000	0:51:29.618000
 ist	sein	AUX	-	0:51:26.804000	0:51:29.618000
@@ -12715,11 +12715,11 @@ ausgelassen	auslassen	ADJ	-	0:51:29.618000	0:51:32.984000
 sozusagen	sozusagen	ADV	-	0:51:29.618000	0:51:32.984000
 .	-	-	-	0:51:29.618000	0:51:32.984000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:32.984000" end="0:51:33.524000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:32.984000" end="0:51:33.524000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:51:32.984000	0:51:33.524000
 .	-	-	-	0:51:32.984000	0:51:33.524000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:33.524000" end="0:51:35.211000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:33.524000" end="0:51:35.211000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:51:33.524000	0:51:35.211000
 der	-	-	-	0:51:33.524000	0:51:35.211000
 ist	-	-	-	0:51:33.524000	0:51:35.211000
@@ -12730,12 +12730,12 @@ heruntergezogen	-	-	-	0:51:33.524000	0:51:35.211000
 worden	-	-	-	0:51:33.524000	0:51:35.211000
 .	-	-	-	0:51:33.524000	0:51:35.211000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:35.211000" end="0:51:36.144000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:35.211000" end="0:51:36.144000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ah	ah	X	-	0:51:35.211000	0:51:36.144000
 ,	-	-	-	0:51:35.211000	0:51:36.144000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:36.144000" end="0:51:37.998000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:36.144000" end="0:51:37.998000" project="PP03" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:51:36.144000	0:51:37.024000
 der	der	DET	-	0:51:36.144000	0:51:37.024000
 anderen	ander	ADJ	-	0:51:36.144000	0:51:37.024000
@@ -12748,12 +12748,12 @@ _Hinige_	-	-	-	0:51:37.024000	0:51:37.731000
 ja	ja	PART	-	0:51:37.731000	0:51:37.998000
 .	-	-	-	0:51:37.731000	0:51:37.998000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:37.731000" end="0:51:37.998000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:37.731000" end="0:51:37.998000" project="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:51:37.731000	0:51:37.998000
 war	-	-	-	0:51:37.731000	0:51:37.998000
 auf	-	-	-	0:51:37.731000	0:51:37.998000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:37.998000" end="0:51:41.091000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:37.998000" end="0:51:41.091000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:51:37.998000	0:51:39.571000
 ich	-	-	-	0:51:37.998000	0:51:39.571000
 bin	-	-	-	0:51:37.998000	0:51:39.571000
@@ -12767,7 +12767,7 @@ hineingef=	-	-	-	0:51:39.571000	0:51:40.624000
 ahren	-	-	-	0:51:40.624000	0:51:41.091000
 .	-	-	-	0:51:40.624000	0:51:41.091000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:40.624000" end="0:51:41.978000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:40.624000" end="0:51:41.978000" project="PP03" age_lower="18" age_upper="35">
 der	der	PRON	-	0:51:40.624000	0:51:41.091000
 war	sein	AUX	-	0:51:40.624000	0:51:41.091000
 ,	-	-	-	0:51:40.624000	0:51:41.091000
@@ -12778,7 +12778,7 @@ auch	auch	ADV	-	0:51:41.091000	0:51:41.978000
 gekommen	kommen	VERB	-	0:51:41.091000	0:51:41.978000
 ,	-	-	-	0:51:41.091000	0:51:41.978000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:41.978000" end="0:51:43.324000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:41.978000" end="0:51:43.324000" project="PP03" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:51:41.978000	0:51:42.498000
 der	der	DET	-	0:51:41.978000	0:51:42.498000
 ande=	ander	ADJ	-	0:51:41.978000	0:51:42.498000
@@ -12788,14 +12788,14 @@ Seite	Seite	NOUN	-	0:51:42.498000	0:51:42.978000
 ja	ja	PART	-	0:51:42.978000	0:51:43.324000
 .	-	-	-	0:51:42.978000	0:51:43.324000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:42.978000" end="0:51:43.571000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:42.978000" end="0:51:43.571000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:51:42.978000	0:51:43.324000
 ich	ich	PRON	-	0:51:42.978000	0:51:43.324000
 ver=	verstehen	VERB	-	0:51:42.978000	0:51:43.324000
 stehe	-	SPACE	-	0:51:43.324000	0:51:43.571000
 .	-	-	-	0:51:43.324000	0:51:43.571000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:43.571000" end="0:51:48.918000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:43.571000" end="0:51:48.918000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 und	-	-	-	0:51:43.571000	0:51:47.531000
 ich	-	-	-	0:51:43.571000	0:51:47.531000
@@ -12817,12 +12817,12 @@ lang	-	-	-	0:51:47.531000	0:51:48.918000
 mitgeschliffen	-	-	-	0:51:47.531000	0:51:48.918000
 ,	-	-	-	0:51:47.531000	0:51:48.918000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:48.918000" end="0:51:50.031000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:48.918000" end="0:51:50.031000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 (_hinazua_)	-	-	-	0:51:48.918000	0:51:50.031000
 ,	-	-	-	0:51:48.918000	0:51:50.031000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:50.031000" end="0:51:55.291000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:50.031000" end="0:51:55.291000" project="PP03" age_lower="18" age_upper="35">
 (_hinazua_)	-	-	-	0:51:50.031000	0:51:52.924000
 und	-	-	-	0:51:50.031000	0:51:52.924000
 _oftang_	-	-	-	0:51:50.031000	0:51:52.924000
@@ -12842,12 +12842,12 @@ ich	-	-	-	0:51:52.924000	0:51:55.291000
 mitgeflogen	-	-	-	0:51:52.924000	0:51:55.291000
 .	-	-	-	0:51:52.924000	0:51:55.291000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:55.291000" end="0:51:56.211000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:55.291000" end="0:51:56.211000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 nein	nein	PART	-	0:51:55.291000	0:51:56.211000
 .	-	-	-	0:51:55.291000	0:51:56.211000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:56.211000" end="0:52:00.338000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:51:56.211000" end="0:52:00.338000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 Gott	Gott	NOUN	-	0:51:56.211000	0:52:00.338000
 sei	sein	AUX	-	0:51:56.211000	0:52:00.338000
@@ -12865,7 +12865,7 @@ Haxen	Haxe	NOUN	-	0:51:56.211000	0:52:00.338000
 weg	weg	ADP	-	0:51:56.211000	0:52:00.338000
 .	-	-	-	0:51:56.211000	0:52:00.338000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:00.338000" end="0:52:03.998000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:00.338000" end="0:52:03.998000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:00.338000	0:52:00.944000
 .	-	-	-	0:52:00.338000	0:52:00.944000
 <pause duration="1,1s"/>
@@ -12883,7 +12883,7 @@ weißt	wissen	VERB	-	0:52:00.944000	0:52:03.998000
 gell	gell	ADJ	-	0:52:00.944000	0:52:03.998000
 ?	-	-	-	0:52:00.944000	0:52:03.998000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:03.998000" end="0:52:10.398000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:03.998000" end="0:52:10.398000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:03.998000	0:52:04.411000
 .	-	-	-	0:52:03.998000	0:52:04.411000
 <pause duration="3,1s"/>
@@ -12902,19 +12902,19 @@ von	von	ADP	-	0:52:07.984000	0:52:09.478000
 Erzählungen	Erzählung	NOUN	-	0:52:09.478000	0:52:10.398000
 .	-	-	-	0:52:09.478000	0:52:10.398000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:09.478000" end="0:52:10.398000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:09.478000" end="0:52:10.398000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:09.478000	0:52:10.398000
 .	-	-	-	0:52:09.478000	0:52:10.398000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:10.398000" end="0:52:11.004000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:10.398000" end="0:52:11.004000" project="PP03" age_lower="18" age_upper="35">
 aber	oder	CCONJ	-	0:52:10.398000	0:52:11.004000
 d=	da	SCONJ	-	0:52:10.398000	0:52:11.004000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:10.398000" end="0:52:11.004000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:10.398000" end="0:52:11.004000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:10.398000	0:52:11.004000
 .	-	-	-	0:52:10.398000	0:52:11.004000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:11.004000" end="0:52:13.744000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:11.004000" end="0:52:13.744000" project="PP03" age_lower="18" age_upper="35">
 a	-	SPACE	-	0:52:11.004000	0:52:12.244000
 wie	wie	ADV	-	0:52:11.004000	0:52:12.244000
 ich	ich	PRON	-	0:52:11.004000	0:52:12.244000
@@ -12925,12 +12925,12 @@ gerutscht	rutschen	VERB	-	0:52:12.244000	0:52:13.224000
 bin	sein	AUX	-	0:52:12.244000	0:52:13.224000
 und	und	CCONJ	-	0:52:13.224000	0:52:13.744000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:13.744000" end="0:52:14.544000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:13.744000" end="0:52:14.544000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:52:13.744000	0:52:14.544000
 .	-	-	-	0:52:13.744000	0:52:14.544000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:14.544000" end="0:52:17.991000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:14.544000" end="0:52:17.991000" project="PP03" age_lower="18" age_upper="35">
 ihm	ich	PRON	-	0:52:14.544000	0:52:15.578000
 halt	halt	ADV	-	0:52:14.544000	0:52:15.578000
 nachgeschaut	nachschauen	VERB	-	0:52:14.544000	0:52:15.578000
@@ -12946,16 +12946,16 @@ tun	tun	VERB	-	0:52:17.118000	0:52:17.991000
 soll	soll	VERB	-	0:52:17.118000	0:52:17.991000
 .	-	-	-	0:52:17.118000	0:52:17.991000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:17.991000" end="0:52:18.318000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:17.991000" end="0:52:18.318000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:17.991000	0:52:18.318000
 .	-	-	-	0:52:17.991000	0:52:18.318000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:18.318000" end="0:52:20.424000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:18.318000" end="0:52:20.424000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 ja	ja	PART	-	0:52:18.318000	0:52:20.424000
 .	-	-	-	0:52:18.318000	0:52:20.424000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:20.424000" end="0:52:24.638000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:20.424000" end="0:52:24.638000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="3,5s"/>
 okay	okay	NOUN	-	0:52:20.424000	0:52:24.638000
 ,	-	-	-	0:52:20.424000	0:52:24.638000
@@ -12964,23 +12964,23 @@ haben	haben	AUX	-	0:52:20.424000	0:52:24.638000
 wir/	-	-	-	0:52:20.424000	0:52:24.638000
 .	-	-	-	0:52:20.424000	0:52:24.638000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:24.638000" end="0:52:25.711000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:24.638000" end="0:52:25.711000" project="PP03" age_lower="18" age_upper="35">
 aber	aber	-	-	0:52:24.638000	0:52:25.451000
 ich	ich	PRON	-	0:52:24.638000	0:52:25.451000
 habe	habe	AUX	-	0:52:24.638000	0:52:25.451000
 natürlich	natürlich	ADV	-	0:52:24.638000	0:52:25.451000
 schöne	schöne	ADJ	-	0:52:25.451000	0:52:25.711000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:25.451000" end="0:52:25.711000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:25.451000" end="0:52:25.711000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:25.451000	0:52:25.711000
 .	-	-	-	0:52:25.451000	0:52:25.711000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:25.711000" end="0:52:28.598000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:25.711000" end="0:52:28.598000" project="PP03" age_lower="18" age_upper="35">
 Erinnerungen	Erinnerung	NOUN	-	0:52:25.711000	0:52:26.711000
 auch	auch	ADV	-	0:52:25.711000	0:52:26.711000
 .	-	-	-	0:52:25.711000	0:52:26.711000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:26.711000" end="0:52:28.598000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:26.711000" end="0:52:28.598000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:52:26.711000	0:52:28.598000
 nein	nein	PART	-	0:52:26.711000	0:52:28.598000
 ,	-	-	-	0:52:26.711000	0:52:28.598000
@@ -12991,11 +12991,11 @@ wir	ich	PRON	-	0:52:26.711000	0:52:28.598000
 kürzer	kurz	ADJ	-	0:52:26.711000	0:52:28.598000
 ,	-	-	-	0:52:26.711000	0:52:28.598000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:28.598000" end="0:52:29.118000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:28.598000" end="0:52:29.118000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:28.598000	0:52:29.118000
 .	-	-	-	0:52:28.598000	0:52:29.118000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:28.598000" end="0:52:30.124000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:28.598000" end="0:52:30.124000" project="PP03" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:52:28.598000	0:52:29.118000
 sonst	sonst	ADV	-	0:52:28.598000	0:52:29.118000
 werden	werden	AUX	-	0:52:28.598000	0:52:29.118000
@@ -13012,11 +13012,11 @@ mehr	mehr	ADV	-	0:52:29.118000	0:52:30.124000
 (gar)	gar	ADV	-	0:52:29.118000	0:52:30.124000
 .	-	-	-	0:52:29.118000	0:52:30.124000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:30.124000" end="0:52:30.498000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:30.124000" end="0:52:30.498000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:30.124000	0:52:30.498000
 .	-	-	-	0:52:30.124000	0:52:30.498000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:30.498000" end="0:52:31.444000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:30.498000" end="0:52:31.444000" project="PP03" age_lower="18" age_upper="35">
 müssen	müssen	VERB	-	0:52:30.498000	0:52:31.444000
 wir	ich	PRON	-	0:52:30.498000	0:52:31.444000
 eh	eh	ADV	-	0:52:30.498000	0:52:31.444000
@@ -13024,7 +13024,7 @@ Gas	Gas	NOUN	-	0:52:30.498000	0:52:31.444000
 geben	geben	VERB	-	0:52:30.498000	0:52:31.444000
 .	-	-	-	0:52:30.498000	0:52:31.444000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:31.444000" end="0:52:36.378000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:31.444000" end="0:52:36.378000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 rede	rede	NOUN	-	0:52:31.444000	0:52:36.378000
 über	über	ADP	-	0:52:31.444000	0:52:36.378000
@@ -13033,7 +13033,7 @@ von	von	ADP	??	0:52:31.444000	0:52:36.378000
 Nachrichtensprechern	Nachrichtensprechern	NOUN	??	0:52:31.444000	0:52:36.378000
 .	-	-	-	0:52:31.444000	0:52:36.378000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:36.378000" end="0:52:39.304000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:36.378000" end="0:52:39.304000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 muss	muss	PROPN	-	0:52:36.378000	0:52:38.671000
 jetzt	jetzt	ADV	-	0:52:36.378000	0:52:38.671000
@@ -13044,7 +13044,7 @@ zu	zu	PART	-	0:52:38.671000	0:52:39.304000
 zuerst	zuerst	ADV	-	0:52:38.671000	0:52:39.304000
 .	-	-	-	0:52:38.671000	0:52:39.304000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:39.304000" end="0:52:52.758000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:39.304000" end="0:52:52.758000" project="PP03" age_lower="18" age_upper="35">
 Gesundheit	Gesundheit	NOUN	-	0:52:39.304000	0:52:41.598000
 .	-	-	-	0:52:39.304000	0:52:41.598000
 .	-	-	-	0:52:39.304000	0:52:41.598000
@@ -13075,34 +13075,34 @@ deutsche	-	-	-	0:52:47.704000	0:52:52.758000
 Sprache	-	-	-	0:52:47.704000	0:52:52.758000
 .	-	-	-	0:52:47.704000	0:52:52.758000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:52.758000" end="0:52:53.364000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:52.758000" end="0:52:53.364000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:52:52.758000	0:52:53.364000
 .	-	-	-	0:52:52.758000	0:52:53.364000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:53.364000" end="0:52:53.771000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:53.364000" end="0:52:53.771000" project="PP03" age_lower="18" age_upper="35">
 also/	-	-	-	0:52:53.364000	0:52:53.771000
 .	-	-	-	0:52:53.364000	0:52:53.771000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:53.771000" end="0:52:55.331000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:53.771000" end="0:52:55.331000" project="PP03" age_lower="18" age_upper="35">
 die	der	DET	-	0:52:53.771000	0:52:55.331000
 versuchen	versuchen	NOUN	-	0:52:53.771000	0:52:55.331000
 schöner	schön	NOUN	-	0:52:53.771000	0:52:55.331000
 zu	zu	PART	-	0:52:53.771000	0:52:55.331000
 re=	reden	VERB	-	0:52:53.771000	0:52:55.331000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:55.331000" end="0:52:55.851000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:55.331000" end="0:52:55.851000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:55.331000	0:52:55.851000
 .	-	-	-	0:52:55.331000	0:52:55.851000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:55.331000" end="0:52:55.851000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:55.331000" end="0:52:55.851000" project="PP03" age_lower="18" age_upper="35">
 den	-	SPACE	-	0:52:55.331000	0:52:55.851000
 .	-	-	-	0:52:55.331000	0:52:55.851000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:55.851000" end="0:52:56.251000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:55.851000" end="0:52:56.251000" project="PP03" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:52:55.851000	0:52:56.251000
 .	-	-	-	0:52:55.851000	0:52:56.251000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:56.251000" end="0:53:05.104000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:52:56.251000" end="0:53:05.104000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 versuchen	versuchen	VERB	-	0:52:56.251000	0:52:58.011000
 .	-	-	-	0:52:56.251000	0:52:58.011000
@@ -13125,7 +13125,7 @@ als	als	ADP	-	0:52:59.911000	0:53:05.104000
 Bundespräsident"	Bundespräsident	NOUN	-	0:52:59.911000	0:53:05.104000
 .	-	-	-	0:52:59.911000	0:53:05.104000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:05.104000" end="0:53:10.738000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:05.104000" end="0:53:10.738000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 das	der	PRON	-	0:53:05.104000	0:53:10.738000
 ist	sein	AUX	-	0:53:05.104000	0:53:10.738000
@@ -13133,7 +13133,7 @@ dein	mein	DET	-	0:53:05.104000	0:53:10.738000
 Thema	Thema	NOUN	-	0:53:05.104000	0:53:10.738000
 .	-	-	-	0:53:05.104000	0:53:10.738000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:10.738000" end="0:53:17.964000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:10.738000" end="0:53:17.964000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:53:10.738000	0:53:13.851000
 ,	-	-	-	0:53:10.738000	0:53:13.851000
 Bundespräsident	Bundespräsident	NOUN	-	0:53:10.738000	0:53:13.851000
@@ -13155,17 +13155,17 @@ weniger	wenig	DET	-	0:53:16.471000	0:53:17.964000
 Arbeit	Arbeit	NOUN	-	0:53:16.471000	0:53:17.964000
 .	-	-	-	0:53:16.471000	0:53:17.964000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:17.964000" end="0:53:20.464000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:17.964000" end="0:53:20.464000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:17.964000" end="0:53:20.698000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:17.964000" end="0:53:20.698000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:53:20.464000	0:53:20.698000
 .	-	-	-	0:53:20.464000	0:53:20.698000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:20.698000" end="0:53:20.918000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:20.698000" end="0:53:20.918000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:53:20.698000	0:53:20.918000
 .	-	-	-	0:53:20.698000	0:53:20.918000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:20.918000" end="0:53:40.104000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:20.918000" end="0:53:40.104000" project="PP03" age_lower="18" age_upper="35">
 sein	mein	AUX	Prog ProgKon tunP	0:53:20.918000	0:53:22.771000
 tut	tun	VERB	Prog ProgKon tunP	0:53:20.918000	0:53:22.771000
 es	ich	PRON	-	0:53:20.918000	0:53:22.771000
@@ -13221,12 +13221,12 @@ kannst	können	VERB	-	0:53:37.891000	0:53:40.104000
 zumindest	zumindest	ADV	-	0:53:37.891000	0:53:40.104000
 ,	-	-	-	0:53:37.891000	0:53:40.104000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:40.104000" end="0:53:41.311000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:40.104000" end="0:53:41.311000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 mhm	mhm	PROPN	-	0:53:40.104000	0:53:41.311000
 .	-	-	-	0:53:40.104000	0:53:41.311000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:41.311000" end="0:53:45.024000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:41.311000" end="0:53:45.024000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ist	sein	AUX	-	0:53:41.311000	0:53:42.684000
 auch	auch	ADV	-	0:53:41.311000	0:53:42.684000
@@ -13240,11 +13240,11 @@ Stimmungen	Stimmung	NOUN	-	0:53:42.684000	0:53:45.024000
 aufbauen	aufbauen	VERB	-	0:53:42.684000	0:53:45.024000
 .	-	-	-	0:53:42.684000	0:53:45.024000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:45.024000" end="0:53:45.531000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:45.024000" end="0:53:45.531000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:53:45.024000	0:53:45.531000
 .	-	-	-	0:53:45.024000	0:53:45.531000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:45.531000" end="0:53:48.371000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:45.531000" end="0:53:48.371000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 das	der	PRON	-	0:53:45.531000	0:53:48.371000
 täte	tun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:53:45.531000	0:53:48.371000
@@ -13254,12 +13254,12 @@ schon	schon	ADV	-	0:53:45.531000	0:53:48.371000
 taugen	taugen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:53:45.531000	0:53:48.371000
 .	-	-	-	0:53:45.531000	0:53:48.371000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:48.371000" end="0:53:49.318000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:48.371000" end="0:53:49.318000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:53:48.371000	0:53:49.318000
 .	-	-	-	0:53:48.371000	0:53:49.318000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:49.318000" end="0:53:53.271000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:49.318000" end="0:53:53.271000" project="PP03" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:53:49.318000	0:53:50.511000
 eher	eher	ADV	-	0:53:49.318000	0:53:50.511000
 noch	noch	ADV	-	0:53:49.318000	0:53:50.511000
@@ -13269,7 +13269,7 @@ angenehmer	angenehm	ADJ	-	0:53:50.511000	0:53:53.271000
 Job	Job	NOUN	-	0:53:50.511000	0:53:53.271000
 .	-	-	-	0:53:50.511000	0:53:53.271000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:53.271000" end="0:53:55.898000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:53.271000" end="0:53:55.898000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 _all_	-	-	-	0:53:53.271000	0:53:55.324000
 mal	-	-	-	0:53:53.271000	0:53:55.324000
@@ -13281,7 +13281,7 @@ sen	-	-	-	0:53:55.324000	0:53:55.898000
 oder	oder	CCONJ	-	0:53:55.324000	0:53:55.898000
 .	-	-	-	0:53:55.324000	0:53:55.898000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:55.898000" end="0:54:01.604000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:53:55.898000" end="0:54:01.604000" project="PP03" age_lower="18" age_upper="35">
 *kommst*	-	-	-	0:53:55.898000	0:53:57.051000
 _umeinander_	-	-	-	0:53:55.898000	0:53:57.051000
 .	-	-	-	0:53:55.898000	0:53:57.051000
@@ -13299,9 +13299,9 @@ einen	-	-	-	0:54:00.691000	0:54:01.604000
 (_hoagarta_)	-	-	-	0:54:00.691000	0:54:01.604000
 .	-	-	-	0:54:00.691000	0:54:01.604000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:01.604000" end="0:54:02.371000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:01.604000" end="0:54:02.371000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:02.371000" end="0:54:03.418000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:02.371000" end="0:54:03.418000" project="PP03" age_lower="18" age_upper="35">
 das	der	PRON	-	0:54:02.371000	0:54:03.418000
 möcht/	-	-	-	0:54:02.371000	0:54:03.418000
 ,	-	-	-	0:54:02.371000	0:54:03.418000
@@ -13309,11 +13309,11 @@ das	der	PRON	-	0:54:02.371000	0:54:03.418000
 wäre	sein	AUX	-	0:54:02.371000	0:54:03.418000
 eigentlich	eigentlich	ADV	-	0:54:02.371000	0:54:03.418000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:03.418000" end="0:54:03.811000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:03.418000" end="0:54:03.811000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:54:03.418000	0:54:03.811000
 .	-	-	-	0:54:03.418000	0:54:03.811000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:03.418000" end="0:54:12.098000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:03.418000" end="0:54:12.098000" project="PP03" age_lower="18" age_upper="35">
 das	der	DET	-	0:54:03.418000	0:54:03.811000
 in=	interessante	ADJ	-	0:54:03.418000	0:54:03.811000
 teressante	-	SPACE	-	0:54:03.811000	0:54:04.491000
@@ -13341,12 +13341,12 @@ jetzt	jetzt	ADV	-	0:54:09.264000	0:54:12.098000
 verändern	verändern	VERB	-	0:54:09.264000	0:54:12.098000
 ,	-	-	-	0:54:09.264000	0:54:12.098000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:12.098000" end="0:54:13.311000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:12.098000" end="0:54:13.311000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 mhm	mhm	PROPN	-	0:54:12.098000	0:54:13.311000
 .	-	-	-	0:54:12.098000	0:54:13.311000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:12.098000" end="0:54:21.011000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:12.098000" end="0:54:21.011000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 so	-	-	-	0:54:12.098000	0:54:13.311000
 in	-	-	-	0:54:12.098000	0:54:13.311000
@@ -13375,11 +13375,11 @@ auch	-	-	-	0:54:15.531000	0:54:21.011000
 was	-	-	-	0:54:15.531000	0:54:21.011000
 be=	-	-	-	0:54:15.531000	0:54:21.011000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:21.011000" end="0:54:21.351000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:21.011000" end="0:54:21.351000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:54:21.011000	0:54:21.351000
 .	-	-	-	0:54:21.011000	0:54:21.351000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:21.011000" end="0:54:26.391000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:21.011000" end="0:54:26.391000" project="PP03" age_lower="18" age_upper="35">
 wegen	-	-	-	0:54:21.011000	0:54:21.351000
 .	-	-	-	0:54:21.011000	0:54:21.351000
 <pause duration="1,9s"/>
@@ -13394,7 +13394,7 @@ dreißig	dreißig	NUM	-	0:54:23.691000	0:54:26.391000
 Jahre	Jahr	NOUN	-	0:54:23.691000	0:54:26.391000
 .	-	-	-	0:54:23.691000	0:54:26.391000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:26.391000" end="0:54:36.111000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:26.391000" end="0:54:36.111000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 okay	okay	NOUN	-	0:54:26.391000	0:54:28.658000
 .	-	-	-	0:54:26.391000	0:54:28.658000
@@ -13417,16 +13417,16 @@ das	der	PRON	-	0:54:33.918000	0:54:35.304000
 wäre	sein	AUX	-	0:54:33.918000	0:54:35.304000
 .	-	-	-	0:54:33.918000	0:54:35.304000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:35.304000" end="0:54:36.111000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:35.304000" end="0:54:36.111000" project="PP03" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:54:35.304000	0:54:36.111000
 .	-	-	-	0:54:35.304000	0:54:36.111000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:36.111000" end="0:54:38.064000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:36.111000" end="0:54:38.064000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 also/	-	-	-	0:54:36.878000	0:54:38.064000
 .	-	-	-	0:54:36.878000	0:54:38.064000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:38.064000" end="0:54:41.291000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:38.064000" end="0:54:41.291000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 du	du	PRON	-	0:54:38.064000	0:54:41.291000
 wärst	sein	VERB	-	0:54:38.064000	0:54:41.291000
@@ -13439,7 +13439,7 @@ in	in	ADP	-	0:54:38.064000	0:54:41.291000
 Österreich	Österreich	PROPN	-	0:54:38.064000	0:54:41.291000
 .	-	-	-	0:54:38.064000	0:54:41.291000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:41.291000" end="0:54:56.138000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:41.291000" end="0:54:56.138000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	ADV	-	0:54:41.291000	0:54:42.644000
 stimmt	stimmen	VERB	-	0:54:41.291000	0:54:42.644000
@@ -13480,7 +13480,7 @@ dem	der	PRON	-	0:54:51.924000	0:54:56.138000
 also/	-	-	-	0:54:51.924000	0:54:56.138000
 .	-	-	-	0:54:51.924000	0:54:56.138000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:56.138000" end="0:54:59.758000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:56.138000" end="0:54:59.758000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 trotzdem	-	-	-	0:54:56.138000	0:54:59.758000
 *brauchst*	-	-	-	0:54:56.138000	0:54:59.758000
@@ -13490,17 +13490,17 @@ gescheiten	-	-	-	0:54:56.138000	0:54:59.758000
 nicht	nicht	PART	-	0:54:56.138000	0:54:59.758000
 .	-	-	-	0:54:56.138000	0:54:59.758000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:59.758000" end="0:55:00.164000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:54:59.758000" end="0:55:00.164000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:54:59.758000	0:55:00.164000
 .	-	-	-	0:54:59.758000	0:55:00.164000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:00.164000" end="0:55:01.898000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:00.164000" end="0:55:01.898000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 auch	auch	ADV	-	0:55:00.164000	0:55:01.898000
 irgendwie	irgendwie	ADV	-	0:55:00.164000	0:55:01.898000
 .	-	-	-	0:55:00.164000	0:55:01.898000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:01.898000" end="0:55:05.198000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:01.898000" end="0:55:05.198000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	PART	-	0:55:01.898000	0:55:02.984000
 .	-	-	-	0:55:01.898000	0:55:02.984000
@@ -13509,11 +13509,11 @@ einen	ein	DET	-	0:55:02.984000	0:55:05.198000
 gepflegten	gepflegt	NOUN	-	0:55:02.984000	0:55:05.198000
 .	-	-	-	0:55:02.984000	0:55:05.198000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:05.198000" end="0:55:05.831000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:05.198000" end="0:55:05.831000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:05.831000" end="0:55:07.011000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:05.831000" end="0:55:07.011000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:05.831000" end="0:55:12.918000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:05.831000" end="0:55:12.918000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 erzähle	erzählen	NOUN	-	0:55:07.011000	0:55:11.804000
 von	von	ADP	-	0:55:07.011000	0:55:11.804000
@@ -13524,7 +13524,7 @@ Schulerlebnis	Schulerlebnis	NOUN	-	0:55:07.011000	0:55:11.804000
 okay	okay	NOUN	-	0:55:11.804000	0:55:12.918000
 .	-	-	-	0:55:11.804000	0:55:12.918000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:12.918000" end="0:55:15.978000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:12.918000" end="0:55:15.978000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 jetzt	jetzt	ADV	-	0:55:12.918000	0:55:13.978000
 weiß	weiß	VERB	-	0:55:12.918000	0:55:13.978000
@@ -13534,12 +13534,12 @@ was	was	PRON	-	0:55:13.978000	0:55:15.978000
 kommt	kommen	VERB	-	0:55:13.978000	0:55:15.978000
 .	-	-	-	0:55:13.978000	0:55:15.978000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:15.978000" end="0:55:16.871000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:15.978000" end="0:55:16.871000" project="PP03" age_lower="18" age_upper="35">
 was	was	PRON	-	0:55:15.978000	0:55:16.871000
 denn	denn	ADV	-	0:55:15.978000	0:55:16.871000
 ?	-	-	-	0:55:15.978000	0:55:16.871000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:16.871000" end="0:55:19.171000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:16.871000" end="0:55:19.171000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 das	der	DET	-	0:55:16.871000	0:55:19.171000
 mit	mit	ADP	-	0:55:16.871000	0:55:19.171000
@@ -13547,7 +13547,7 @@ deine	mein	DET	??	0:55:16.871000	0:55:19.171000
 Hausgäste	Hausgäste	NOUN	??	0:55:16.871000	0:55:19.171000
 .	-	-	-	0:55:16.871000	0:55:19.171000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:19.171000" end="0:55:21.111000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:19.171000" end="0:55:21.111000" project="PP03" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:55:19.171000	0:55:21.111000
 ,	-	-	-	0:55:19.171000	0:55:21.111000
 das	der	PRON	-	0:55:19.171000	0:55:21.111000
@@ -13557,9 +13557,9 @@ jetzt	jetzt	ADV	-	0:55:19.171000	0:55:21.111000
 als	als	SCONJ	-	0:55:19.171000	0:55:21.111000
 er	ich	PRON	-	0:55:19.171000	0:55:21.111000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:21.111000" end="0:55:23.291000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:21.111000" end="0:55:23.291000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:21.111000" end="0:55:31.344000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:21.111000" end="0:55:31.344000" project="PP03" age_lower="18" age_upper="35">
 stes	stes	NOUN	-	0:55:21.111000	0:55:23.291000
 das	der	PRON	-	0:55:21.111000	0:55:23.291000
 habe	habe	AUX	-	0:55:21.111000	0:55:23.291000
@@ -13610,11 +13610,11 @@ ja	ja	ADV	-	0:55:30.324000	0:55:31.344000
 schon	schon	ADV	-	0:55:30.324000	0:55:31.344000
 .	-	-	-	0:55:30.324000	0:55:31.344000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:31.344000" end="0:55:31.971000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:31.344000" end="0:55:31.971000" project="PP03" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:55:31.344000	0:55:31.971000
 .	-	-	-	0:55:31.344000	0:55:31.971000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:31.971000" end="0:55:39.784000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:31.971000" end="0:55:39.784000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 boa	boa	NOUN	-	0:55:31.971000	0:55:34.184000
 .	-	-	-	0:55:31.971000	0:55:34.184000
@@ -13625,27 +13625,27 @@ ui	ui	X	-	0:55:34.184000	0:55:38.811000
 servus	servus	PROPN	-	0:55:38.811000	0:55:39.784000
 .	-	-	-	0:55:38.811000	0:55:39.784000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:55:39.784000" end="0:55:40.344000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:39.784000" end="0:55:40.344000" age_lower="1" age_upper="999">
 hallo	hallo	PROPN	-	0:55:39.784000	0:55:40.344000
 .	-	-	-	0:55:39.784000	0:55:40.344000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:40.344000" end="0:55:41.518000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:40.344000" end="0:55:41.518000" project="PP03" age_lower="18" age_upper="35">
 halt	-	-	-	0:55:40.344000	0:55:41.518000
 mi/	-	-	-	0:55:40.344000	0:55:41.518000
 mir	-	-	-	0:55:40.344000	0:55:41.518000
 _hennd_	-	-	-	0:55:40.344000	0:55:41.518000
 nicht	-	-	-	0:55:40.344000	0:55:41.518000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:41.518000" end="0:55:42.338000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:41.518000" end="0:55:42.338000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:41.518000" end="0:55:42.338000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:41.518000" end="0:55:42.338000" project="PP03" age_lower="18" age_upper="35">
 weiter	-	-	-	0:55:41.518000	0:55:42.338000
 gekommen	-	-	-	0:55:41.518000	0:55:42.338000
 .	-	-	-	0:55:41.518000	0:55:42.338000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:42.338000" end="0:55:43.504000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:42.338000" end="0:55:43.504000" project="PP03" age_lower="18" age_upper="35">
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:43.504000" end="0:55:44.424000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:43.504000" end="0:55:44.424000" project="PP03" age_lower="18" age_upper="35">
 was	was	PRON	-	0:55:43.504000	0:55:44.424000
 tun	tun	VERB	-	0:55:43.504000	0:55:44.424000
 wir	ich	PRON	-	0:55:43.504000	0:55:44.424000
@@ -13653,7 +13653,7 @@ denn	denn	ADV	-	0:55:43.504000	0:55:44.424000
 jetzt	jetzt	ADV	-	0:55:43.504000	0:55:44.424000
 .	-	-	-	0:55:43.504000	0:55:44.424000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:55:44.424000" end="0:55:46.298000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:44.424000" end="0:55:46.298000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 wie	wie	ADV	-	0:55:44.424000	0:55:46.298000
 viele	viel	PRON	-	0:55:44.424000	0:55:46.298000
@@ -13663,7 +13663,7 @@ denn	denn	ADV	-	0:55:44.424000	0:55:46.298000
 geschafft	schaffen	VERB	-	0:55:44.424000	0:55:46.298000
 ?	-	-	-	0:55:44.424000	0:55:46.298000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:46.298000" end="0:55:47.451000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:46.298000" end="0:55:47.451000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:55:46.298000	0:55:47.451000
 ,	-	-	-	0:55:46.298000	0:55:47.451000
 viel	viel	ADV	-	0:55:46.298000	0:55:47.451000
@@ -13671,13 +13671,13 @@ zu	zu	PART	-	0:55:46.298000	0:55:47.451000
 wenig	wenig	PRON	-	0:55:46.298000	0:55:47.451000
 .	-	-	-	0:55:46.298000	0:55:47.451000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:55:47.451000" end="0:55:48.158000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:47.451000" end="0:55:48.158000" age_lower="1" age_upper="999">
 viel	viel	ADV	-	0:55:47.451000	0:55:48.158000
 zu	zu	PART	-	0:55:47.451000	0:55:48.158000
 wenig	wenig	PRON	-	0:55:47.451000	0:55:48.158000
 ?	-	-	-	0:55:47.451000	0:55:48.158000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:48.158000" end="0:55:51.044000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:48.158000" end="0:55:51.044000" project="PP03" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 die	der	DET	-	0:55:48.158000	0:55:51.044000
 NAME	NAME	NOUN	-	0:55:48.158000	0:55:51.044000
@@ -13689,20 +13689,20 @@ viel	viel	PRON	-	0:55:48.158000	0:55:51.044000
 geredet	reden	VERB	-	0:55:48.158000	0:55:51.044000
 .	-	-	-	0:55:48.158000	0:55:51.044000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:51.044000" end="0:55:53.231000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:51.044000" end="0:55:53.231000" project="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:55:51.044000	0:55:52.004000
 ,	-	-	-	0:55:51.044000	0:55:52.004000
 genau	genau	ADJ	-	0:55:51.044000	0:55:52.004000
 .	-	-	-	0:55:51.044000	0:55:52.004000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:52.004000" end="0:55:53.231000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:52.004000" end="0:55:53.231000" project="PP03" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:55:52.004000	0:55:53.231000
 drehe	drehen	VERB	-	0:55:52.004000	0:55:53.231000
 es	ich	PRON	-	0:55:52.004000	0:55:53.231000
 ab	ab	ADP	-	0:55:52.004000	0:55:53.231000
 .	-	-	-	0:55:52.004000	0:55:53.231000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:55:53.231000" end="0:55:54.458000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:55:53.231000" end="0:55:54.458000" age_lower="1" age_upper="999">
 ich	ich	PRON	-	0:55:53.231000	0:55:54.458000
 drehe	drehen	VERB	-	0:55:53.231000	0:55:54.458000
 dann	dann	ADV	-	0:55:53.231000	0:55:54.458000
@@ -13710,7 +13710,7 @@ mal	mal	ADV	-	0:55:53.231000	0:55:54.458000
 ab	ab	ADP	-	0:55:53.231000	0:55:54.458000
 .	-	-	-	0:55:53.231000	0:55:54.458000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:54.458000" end="0:55:54.731000" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:55:54.458000" end="0:55:54.731000" project="PP03" age_lower="18" age_upper="35">
 nei/	-	-	-	0:55:54.458000	0:55:54.731000
 .	-	-	-	0:55:54.458000	0:55:54.731000
 </u>

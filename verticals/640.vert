@@ -1,1279 +1,1279 @@
 <doc id="transcript_640" name="4097_GRAG_alt_m_AI" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="640.xml" title="Transcript: Transcript_640">
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:00:00" end="0:03:24.906000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:03:24.906000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:00:00" end="0:03:24.906000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:00:00" end="0:03:24.906000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:03:24.906000" end="0:03:28.926000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:24.906000" end="0:03:28.926000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:03:28.926000" end="0:03:48.019000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:03:28.926000" end="0:03:48.019000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:03:32.552000	0:03:36.926000
 ZAHL	ZAHL	-	BKMSU+ BKMSUmlaut F KC- KonsChange LautNach LautVor Nas üUml	0:03:36.926000	0:03:40.819000
 ORT	ORT	-	-	0:03:44.712000	0:03:48.019000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:03:48.019000" end="0:03:48.386000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:48.019000" end="0:03:48.386000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:03:48.386000" end="0:04:00.072000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:03:48.386000" end="0:04:00.072000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:03:54.091000	0:03:56.672000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:03:56.872000" end="0:03:57.146000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:56.872000" end="0:03:57.146000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:00.072000" end="0:04:12.846000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:00.072000" end="0:04:12.846000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:04:12.572000" end="0:04:13.072000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:12.572000" end="0:04:13.072000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:13.030000" end="0:04:14.919000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:13.030000" end="0:04:14.919000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:04:14.919000" end="0:04:15.566000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:14.919000" end="0:04:15.566000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:15.566000" end="0:04:19.466000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:15.566000" end="0:04:19.466000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:04:19.466000" end="0:04:20.519000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:19.466000" end="0:04:20.519000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:20.519000" end="0:04:26.152000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:20.519000" end="0:04:26.152000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:04:26.152000" end="0:04:26.932000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:26.152000" end="0:04:26.932000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:26.932000" end="0:04:39.786000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:26.932000" end="0:04:39.786000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:04:26.932000	0:04:31.372000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:04:38.570000" end="0:04:39.079000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:38.570000" end="0:04:39.079000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:39.786000" end="0:04:44.766000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:39.786000" end="0:04:44.766000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:04:44.766000" end="0:04:45.366000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:44.766000" end="0:04:45.366000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:45.252000" end="0:05:01.499000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:04:45.252000" end="0:05:01.499000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:01.499000" end="0:05:02.012000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:01.499000" end="0:05:02.012000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:02.012000" end="0:05:18.766000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:02.012000" end="0:05:18.766000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:05:10.366000	0:05:14.772000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:18.706000" end="0:05:19.246000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:18.706000" end="0:05:19.246000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:19.246000" end="0:05:23.592000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:19.246000" end="0:05:23.592000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:23.592000" end="0:05:24.079000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:23.592000" end="0:05:24.079000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:23.592000" end="0:05:23.792000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:23.592000" end="0:05:23.792000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:24.079000" end="0:05:26.539000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:24.079000" end="0:05:26.539000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:25.472000" end="0:05:32.425000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:25.472000" end="0:05:32.425000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:30.130000" end="0:05:33.072000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:30.130000" end="0:05:33.072000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:32.972000" end="0:05:34.092000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:32.972000" end="0:05:34.092000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:34.092000" end="0:05:41.105000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:34.092000" end="0:05:41.105000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:40.225000" end="0:05:46.945000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:40.225000" end="0:05:46.945000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:05:44.645000	0:05:46.945000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:46.945000" end="0:05:47.499000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:46.945000" end="0:05:47.499000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:47.499000" end="0:05:52.859000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:47.499000" end="0:05:52.859000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:52.859000" end="0:05:53.939000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:52.859000" end="0:05:53.939000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:53.872000" end="0:05:54.284000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:53.872000" end="0:05:54.284000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:54.205000" end="0:05:54.852000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:54.205000" end="0:05:54.852000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:54.490000" end="0:05:58.725000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:05:54.490000" end="0:05:58.725000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:05:58.725000" end="0:06:00.665000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:58.725000" end="0:06:00.665000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:00.665000" end="0:06:01.099000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:00.665000" end="0:06:01.099000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:06:01.099000" end="0:06:04.899000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:01.099000" end="0:06:04.899000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:04.899000" end="0:06:05.325000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:04.899000" end="0:06:05.325000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:06:05.325000" end="0:06:09.352000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:05.325000" end="0:06:09.352000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:09.352000" end="0:06:18.425000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:09.352000" end="0:06:18.425000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:06:13.672000	0:06:17.392000
 ZAHL	ZAHL	-	-	0:06:17.392000	0:06:18.425000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:06:18.425000" end="0:06:18.965000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:18.425000" end="0:06:18.965000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:18.965000" end="0:06:31.739000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:18.965000" end="0:06:31.739000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:06:20.945000	0:06:23.232000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:06:29.172000" end="0:06:29.465000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:29.172000" end="0:06:29.465000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:31.739000" end="0:06:44.432000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:31.739000" end="0:06:44.432000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:06:44.432000" end="0:06:45.392000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:44.432000" end="0:06:45.392000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:45.392000" end="0:06:50.945000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:45.392000" end="0:06:50.945000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:06:48.379000	0:06:50.945000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:06:50.945000" end="0:06:51.525000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:50.945000" end="0:06:51.525000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:51.525000" end="0:06:55.772000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:51.525000" end="0:06:55.772000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:06:55.772000" end="0:06:56.132000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:55.772000" end="0:06:56.132000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:56.132000" end="0:07:01.439000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:06:56.132000" end="0:07:01.439000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:01.439000" end="0:07:01.899000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:01.439000" end="0:07:01.899000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:01.439000" end="0:07:07.872000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:01.439000" end="0:07:07.872000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:07.872000" end="0:07:13.659000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:07.872000" end="0:07:13.659000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:07:08.485000	0:07:11.605000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:12.599000" end="0:07:14.192000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:12.599000" end="0:07:14.192000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:13.659000" end="0:07:15.899000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:13.659000" end="0:07:15.899000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:14.192000" end="0:07:17.265000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:14.192000" end="0:07:17.265000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:17.205000" end="0:07:17.632000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:17.205000" end="0:07:17.632000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:17.265000" end="0:07:20.979000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:17.265000" end="0:07:20.979000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:20.979000" end="0:07:21.465000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:20.979000" end="0:07:21.465000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:21.465000" end="0:07:29.239000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:21.465000" end="0:07:29.239000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:28.432000" end="0:07:29.592000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:28.432000" end="0:07:29.592000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:29.592000" end="0:07:34.505000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:29.592000" end="0:07:34.505000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:34.505000" end="0:07:37.732000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:34.505000" end="0:07:37.732000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:37.592000" end="0:07:37.999000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:37.592000" end="0:07:37.999000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:37.999000" end="0:07:43.765000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:37.999000" end="0:07:43.765000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:07:42.079000	0:07:43.765000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:43.765000" end="0:07:55.619000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:43.765000" end="0:07:55.619000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:55.619000" end="0:07:55.959000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:55.619000" end="0:07:55.959000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:55.743000" end="0:07:56.332000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:55.743000" end="0:07:56.332000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:07:56.332000" end="0:07:57.565000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:56.332000" end="0:07:57.565000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:57.162000" end="0:08:03.199000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:07:57.162000" end="0:08:03.199000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:08:02.136000" end="0:08:03.059000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:02.136000" end="0:08:03.059000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:03.199000" end="0:08:06.419000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:03.199000" end="0:08:06.419000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:08:06.419000" end="0:08:06.885000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:06.419000" end="0:08:06.885000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:06.885000" end="0:08:11.705000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:06.885000" end="0:08:11.705000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:08:11.592000" end="0:08:12.165000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:11.592000" end="0:08:12.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:12.165000" end="0:08:34.392000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:12.165000" end="0:08:34.392000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:08:22.312000	0:08:27.318000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:08:32.778000" end="0:08:33.222000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:32.778000" end="0:08:33.222000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:34.392000" end="0:08:42.278000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:34.392000" end="0:08:42.278000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:08:42.278000" end="0:08:43.452000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:42.278000" end="0:08:43.452000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:43.452000" end="0:08:56.125000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:43.452000" end="0:08:56.125000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:08:55.689000" end="0:08:56.014000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:55.689000" end="0:08:56.014000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:56.125000" end="0:08:57.252000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:08:56.125000" end="0:08:57.252000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:08:56.772000" end="0:09:04.078000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:56.772000" end="0:09:04.078000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:08:57.252000	0:09:04.078000
 ORT	ORT	-	-	0:08:57.252000	0:09:04.078000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:04.078000" end="0:09:09.745000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:04.078000" end="0:09:09.745000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:09:06.512000	0:09:08.645000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:09:08.903000" end="0:09:09.321000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:08.903000" end="0:09:09.321000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:09.745000" end="0:09:16.358000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:09.745000" end="0:09:16.358000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:09:15.938000" end="0:09:16.254000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:15.938000" end="0:09:16.254000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:16.358000" end="0:09:23.918000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:16.358000" end="0:09:23.918000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:09:19.752000	0:09:21.425000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:09:22.736000" end="0:09:23.192000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:22.736000" end="0:09:23.192000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:23.918000" end="0:09:28.692000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:23.918000" end="0:09:28.692000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:09:28.692000" end="0:09:38.165000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:28.692000" end="0:09:38.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:38.012000" end="0:09:43.752000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:38.012000" end="0:09:43.752000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:09:43.752000" end="0:09:44.232000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:43.752000" end="0:09:44.232000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:44.172000" end="0:09:47.245000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:44.172000" end="0:09:47.245000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:09:44.172000	0:09:44.872000
 ZAHL	ZAHL	-	-	0:09:44.872000	0:09:46.618000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:09:47.245000" end="0:09:47.725000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:47.245000" end="0:09:47.725000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:47.725000" end="0:09:56.052000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:47.725000" end="0:09:56.052000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:09:52.932000	0:09:56.052000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:09:55.992000" end="0:09:56.425000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:55.992000" end="0:09:56.425000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:56.052000" end="0:09:58.352000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:56.052000" end="0:09:58.352000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:09:58.352000" end="0:09:59.378000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:58.352000" end="0:09:59.378000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:59.378000" end="0:10:11.012000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:09:59.378000" end="0:10:11.012000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:10:08.532000	0:10:11.012000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:10:08.696000" end="0:10:09.065000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:08.696000" end="0:10:09.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:11.012000" end="0:10:18.952000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:11.012000" end="0:10:18.952000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:10:18.663000" end="0:10:19.272000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:18.663000" end="0:10:19.272000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:19.272000" end="0:10:21.405000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:19.272000" end="0:10:21.405000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:10:21.405000" end="0:10:22.065000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:21.405000" end="0:10:22.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:22.065000" end="0:10:29.292000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:22.065000" end="0:10:29.292000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:10:29.292000" end="0:10:29.905000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:29.292000" end="0:10:29.905000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:29.496000" end="0:10:33.178000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:29.496000" end="0:10:33.178000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:10:33.178000" end="0:10:34.432000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:33.178000" end="0:10:34.432000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:34.098000" end="0:10:35.138000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:34.098000" end="0:10:35.138000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:10:34.978000" end="0:10:35.198000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:34.978000" end="0:10:35.198000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:35.198000" end="0:10:39.332000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:35.198000" end="0:10:39.332000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:10:37.832000" end="0:10:41.425000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:37.832000" end="0:10:41.425000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:40.458000" end="0:10:43.212000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:40.458000" end="0:10:43.212000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:10:43.212000" end="0:10:57.085000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:43.212000" end="0:10:57.085000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:10:43.212000	0:10:50.165000
 ORT	ORT	-	-	0:10:50.165000	0:10:51.992000
 ORT	ORT	-	-	0:10:51.992000	0:10:53.678000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:55.652000" end="0:10:59.845000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:55.652000" end="0:10:59.845000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:10:59.765000" end="0:11:00.258000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:59.765000" end="0:11:00.258000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:59.845000" end="0:11:02.958000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:10:59.845000" end="0:11:02.958000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:02.958000" end="0:11:03.671000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:02.958000" end="0:11:03.671000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:03.671000" end="0:11:08.065000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:03.671000" end="0:11:08.065000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:11:05.418000	0:11:08.065000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:07.671000" end="0:11:08.545000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:07.671000" end="0:11:08.545000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:08.065000" end="0:11:09.385000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:08.065000" end="0:11:09.385000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:08.785000" end="0:11:09.105000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:08.785000" end="0:11:09.105000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:09.385000" end="0:11:21.965000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:09.385000" end="0:11:21.965000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:11:16.945000	0:11:21.965000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:21.738000" end="0:11:23.185000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:21.738000" end="0:11:23.185000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:21.965000" end="0:11:24.065000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:21.965000" end="0:11:24.065000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:23.667000" end="0:11:25.585000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:23.667000" end="0:11:25.585000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:11:23.667000	0:11:25.585000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:24.638000" end="0:11:25.585000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:24.638000" end="0:11:25.585000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:25.585000" end="0:11:26.065000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:25.585000" end="0:11:26.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:26.065000" end="0:11:31.425000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:26.065000" end="0:11:31.425000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:11:26.065000	0:11:28.805000
 ORT	ORT	-	-	0:11:28.805000	0:11:31.425000
 ORT	ORT	-	-	0:11:28.805000	0:11:31.425000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:30.931000" end="0:11:31.334000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:30.931000" end="0:11:31.334000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:31.425000" end="0:11:36.611000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:31.425000" end="0:11:36.611000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:36.031000" end="0:11:36.405000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:36.031000" end="0:11:36.405000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:36.611000" end="0:11:39.518000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:36.611000" end="0:11:39.518000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:39.231000" end="0:11:39.985000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:39.231000" end="0:11:39.985000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:39.518000" end="0:11:39.938000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:39.518000" end="0:11:39.938000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:39.985000" end="0:11:40.365000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:39.985000" end="0:11:40.365000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:40.365000" end="0:11:41.945000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:40.365000" end="0:11:41.945000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:41.945000" end="0:11:42.631000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:41.945000" end="0:11:42.631000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:42.631000" end="0:11:58.598000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:42.631000" end="0:11:58.598000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:11:58.598000" end="0:11:59.105000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:58.598000" end="0:11:59.105000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:59.105000" end="0:12:05.025000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:11:59.105000" end="0:12:05.025000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:05.025000" end="0:12:05.598000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:05.025000" end="0:12:05.598000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:05.598000" end="0:12:14.545000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:05.598000" end="0:12:14.545000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:12:08.258000	0:12:10.145000
 ORT	ORT	-	-	0:12:10.145000	0:12:14.545000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:11.285000" end="0:12:11.618000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:11.285000" end="0:12:11.618000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:14.545000" end="0:12:15.971000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:14.545000" end="0:12:15.971000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:15.256000" end="0:12:19.698000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:15.256000" end="0:12:19.698000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:16.329000" end="0:12:22.131000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:16.329000" end="0:12:22.131000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:19.949000" end="0:12:20.598000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:19.949000" end="0:12:20.598000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:22.131000" end="0:12:22.705000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:22.131000" end="0:12:22.705000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:22.705000" end="0:12:28.158000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:22.705000" end="0:12:28.158000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:26.085000" end="0:12:28.027000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:26.085000" end="0:12:28.027000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:28.158000" end="0:12:29.958000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:28.158000" end="0:12:29.958000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:29.678000" end="0:12:43.538000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:29.678000" end="0:12:43.538000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:12:30.171000	0:12:34.345000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:43.478000" end="0:12:43.938000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:43.478000" end="0:12:43.938000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:43.538000" end="0:12:45.078000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:43.538000" end="0:12:45.078000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:45.078000" end="0:12:45.891000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:45.078000" end="0:12:45.891000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:45.845000" end="0:12:50.138000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:45.845000" end="0:12:50.138000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:49.902000" end="0:12:51.571000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:49.902000" end="0:12:51.571000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:50.862000" end="0:12:51.958000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:50.862000" end="0:12:51.958000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:51.571000" end="0:12:52.529000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:51.571000" end="0:12:52.529000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:51.958000" end="0:12:52.785000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:12:51.958000" end="0:12:52.785000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:12:52.785000" end="0:13:02.691000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:52.785000" end="0:13:02.691000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:02.691000" end="0:13:10.118000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:02.691000" end="0:13:10.118000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:13:09.176000" end="0:13:10.558000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:09.176000" end="0:13:10.558000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:10.558000" end="0:13:18.798000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:10.558000" end="0:13:18.798000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:13:11.438000	0:13:12.318000
 ZAHL	ZAHL	-	-	0:13:15.165000	0:13:16.738000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:13:18.798000" end="0:13:19.945000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:18.798000" end="0:13:19.945000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:19.945000" end="0:13:37.005000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:19.945000" end="0:13:37.005000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:13:19.945000	0:13:22.765000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:13:35.758000" end="0:13:36.171000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:35.758000" end="0:13:36.171000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:37.005000" end="0:13:39.598000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:37.005000" end="0:13:39.598000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:13:39.598000" end="0:13:40.771000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:39.598000" end="0:13:40.771000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:40.669000" end="0:13:51.524000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:40.669000" end="0:13:51.524000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:13:48.264000	0:13:51.524000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:13:51.524000" end="0:13:52.311000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:51.524000" end="0:13:52.311000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:52.311000" end="0:14:02.838000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:13:52.311000" end="0:14:02.838000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_727" sex="female" age="alt (65+) weiblich" name="Informant 4098" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:02.838000" end="0:14:04.558000" age_lower="65" age_upper="999">
+<u who="spk_727" sex="female" age="alt (65+) weiblich" name="Informant 4098" subproject="PP04" standard_competence="7" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:02.838000" end="0:14:04.558000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:04.478000" end="0:14:05.291000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:04.478000" end="0:14:05.291000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:14:05.082000" end="0:14:06.644000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:05.082000" end="0:14:06.644000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:05.291000" end="0:14:11.224000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:05.291000" end="0:14:11.224000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:14:10.691000" end="0:14:11.309000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:10.691000" end="0:14:11.309000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:11.224000" end="0:14:11.804000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:11.224000" end="0:14:11.804000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:14:11.309000" end="0:14:12.004000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:11.309000" end="0:14:12.004000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:11.804000" end="0:14:12.858000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:11.804000" end="0:14:12.858000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:14:12.004000" end="0:14:13.424000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:12.004000" end="0:14:13.424000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:13.304000" end="0:14:23.164000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:13.304000" end="0:14:23.164000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:14:23.164000" end="0:14:25.338000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:23.164000" end="0:14:25.338000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:25.338000" end="0:14:27.391000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:25.338000" end="0:14:27.391000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:14:27.391000" end="0:14:36.831000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:27.391000" end="0:14:36.831000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:36.290000" end="0:14:37.258000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:36.290000" end="0:14:37.258000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:14:36.831000" end="0:14:38.691000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:36.831000" end="0:14:38.691000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:37.664000" end="0:14:52.204000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:37.664000" end="0:14:52.204000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:14:46.098000	0:14:51.171000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:14:51.418000" end="0:14:52.751000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:51.418000" end="0:14:52.751000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:52.751000" end="0:15:04.958000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:14:52.751000" end="0:15:04.958000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:15:04.958000" end="0:15:10.258000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:04.958000" end="0:15:10.258000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:10.258000" end="0:15:14.291000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:10.258000" end="0:15:14.291000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:15:10.258000	0:15:14.291000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:15:14.291000" end="0:15:15.131000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:14.291000" end="0:15:15.131000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:15.131000" end="0:15:18.598000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:15.131000" end="0:15:18.598000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:15:18.598000" end="0:15:19.264000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:18.598000" end="0:15:19.264000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:19.264000" end="0:15:35.824000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:19.264000" end="0:15:35.824000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:15:19.264000	0:15:20.818000
 ORT	ORT	-	-	0:15:23.071000	0:15:27.631000
 ORT	ORT	-	-	0:15:23.071000	0:15:27.631000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:15:35.784000" end="0:15:35.931000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:35.784000" end="0:15:35.931000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:35.931000" end="0:15:39.918000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:35.931000" end="0:15:39.918000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:15:35.931000	0:15:37.738000
 ORT	ORT	-	-	0:15:35.931000	0:15:37.738000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:15:38.018000" end="0:15:38.378000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:38.018000" end="0:15:38.378000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:39.918000" end="0:16:02.371000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:15:39.918000" end="0:16:02.371000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:16:02.371000" end="0:16:11.071000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:02.371000" end="0:16:11.071000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:16:08.444000	0:16:11.071000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:08.649000" end="0:16:08.958000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:08.649000" end="0:16:08.958000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:16:11.071000" end="0:16:12.998000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:11.071000" end="0:16:12.998000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:12.998000" end="0:16:18.944000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:12.998000" end="0:16:18.944000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:16:18.798000" end="0:16:19.475000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:18.798000" end="0:16:19.475000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:18.944000" end="0:16:19.691000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:18.944000" end="0:16:19.691000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:16:19.691000" end="0:16:22.678000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:19.691000" end="0:16:22.678000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:20.838000" end="0:16:45.037000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:20.838000" end="0:16:45.037000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:16:45.037000" end="0:16:46.031000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:45.037000" end="0:16:46.031000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:46.031000" end="0:16:48.304000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:46.031000" end="0:16:48.304000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:16:48.304000" end="0:16:49.184000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:48.304000" end="0:16:49.184000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:48.637000" end="0:16:49.837000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:48.637000" end="0:16:49.837000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:16:49.837000" end="0:16:50.244000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:49.837000" end="0:16:50.244000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:49.949000" end="0:17:07.564000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:16:49.949000" end="0:17:07.564000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:16:50.664000	0:16:54.244000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:17:07.564000" end="0:17:08.329000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:07.564000" end="0:17:08.329000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:08.329000" end="0:17:20.396000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:08.329000" end="0:17:20.396000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:17:20.396000" end="0:17:20.711000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:20.396000" end="0:17:20.711000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:20.711000" end="0:17:22.584000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:20.711000" end="0:17:22.584000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:17:22.584000" end="0:17:25.717000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:22.584000" end="0:17:25.717000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:25.717000" end="0:17:40.964000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:25.717000" end="0:17:40.964000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:17:40.791000" end="0:17:41.584000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:40.791000" end="0:17:41.584000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:41.322000" end="0:17:41.811000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:41.322000" end="0:17:41.811000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:17:41.584000" end="0:17:42.704000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:41.584000" end="0:17:42.704000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:41.811000" end="0:17:44.044000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:41.811000" end="0:17:44.044000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:17:43.422000" end="0:17:43.937000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:43.422000" end="0:17:43.937000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:44.044000" end="0:18:47.584000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:17:44.044000" end="0:18:47.584000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:18:17.384000	0:18:19.404000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:18:47.584000" end="0:18:48.291000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:47.584000" end="0:18:48.291000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:18:48.011000" end="0:18:51.557000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:18:48.011000" end="0:18:51.557000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:18:51.442000" end="0:18:51.857000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:51.442000" end="0:18:51.857000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:18:51.557000" end="0:19:03.924000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:18:51.557000" end="0:19:03.924000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:19:03.795000" end="0:19:04.157000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:03.795000" end="0:19:04.157000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:04.157000" end="0:19:11.064000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:04.157000" end="0:19:11.064000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:19:11.064000" end="0:19:11.997000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:11.064000" end="0:19:11.997000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:11.711000" end="0:19:31.437000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:11.711000" end="0:19:31.437000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:19:30.810000" end="0:19:31.199000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:30.810000" end="0:19:31.199000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:31.437000" end="0:19:36.917000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:31.437000" end="0:19:36.917000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:19:36.917000" end="0:19:38.704000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:36.917000" end="0:19:38.704000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:38.644000" end="0:19:42.524000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:38.644000" end="0:19:42.524000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:19:42.357000" end="0:19:42.917000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:42.357000" end="0:19:42.917000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:42.524000" end="0:19:46.637000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:42.524000" end="0:19:46.637000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:19:45.910000" end="0:19:47.730000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:45.910000" end="0:19:47.730000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:46.637000" end="0:19:51.510000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:19:46.637000" end="0:19:51.510000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:19:51.510000" end="0:20:00.550000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:51.510000" end="0:20:00.550000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:00.550000" end="0:20:01.117000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:00.550000" end="0:20:01.117000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:20:01.117000" end="0:20:05.784000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:01.117000" end="0:20:05.784000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:05.784000" end="0:20:12.409000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:05.784000" end="0:20:12.409000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:20:12.188000" end="0:20:12.510000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:12.188000" end="0:20:12.510000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:12.409000" end="0:20:22.397000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:12.409000" end="0:20:22.397000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:20:20.347000	0:20:22.397000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:20:22.097000" end="0:20:22.448000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:22.097000" end="0:20:22.448000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:22.397000" end="0:20:28.510000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:22.397000" end="0:20:28.510000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:20:22.397000	0:20:24.244000
 ORT	ORT	-	-	0:20:24.244000	0:20:26.950000
 ORT	ORT	-	-	0:20:26.950000	0:20:28.510000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:20:27.890000" end="0:20:28.257000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:27.890000" end="0:20:28.257000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:28.510000" end="0:20:44.630000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:28.510000" end="0:20:44.630000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:20:28.777000	0:20:30.817000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:20:44.630000" end="0:20:45.597000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:44.630000" end="0:20:45.597000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:45.597000" end="0:21:08.570000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:20:45.597000" end="0:21:08.570000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:21:08.224000" end="0:21:08.677000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:08.224000" end="0:21:08.677000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:21:08.677000" end="0:21:30.424000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:21:08.677000" end="0:21:30.424000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:21:30.121000" end="0:21:30.484000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:30.121000" end="0:21:30.484000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:21:30.484000" end="0:21:50.004000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:21:30.484000" end="0:21:50.004000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:21:49.915000" end="0:21:50.279000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:49.915000" end="0:21:50.279000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:21:50.004000" end="0:21:53.697000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:21:50.004000" end="0:21:53.697000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:21:53.697000" end="0:22:01.570000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:53.697000" end="0:22:01.570000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:21:59.161000" end="0:21:59.497000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:21:59.161000" end="0:21:59.497000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:22:01.570000" end="0:22:04.670000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:01.570000" end="0:22:04.670000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:04.670000" end="0:22:07.703000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:04.670000" end="0:22:07.703000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:22:07.550000" end="0:22:07.857000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:07.550000" end="0:22:07.857000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:07.857000" end="0:22:23.010000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:07.857000" end="0:22:23.010000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:22:21.457000" end="0:22:21.810000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:21.457000" end="0:22:21.810000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:23.010000" end="0:22:26.517000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:23.010000" end="0:22:26.517000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:22:26.061000" end="0:22:26.330000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:26.061000" end="0:22:26.330000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:26.517000" end="0:22:36.283000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:26.517000" end="0:22:36.283000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:22:36.283000" end="0:22:37.023000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:36.283000" end="0:22:37.023000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:36.790000" end="0:22:38.303000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:36.790000" end="0:22:38.303000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:22:37.023000" end="0:22:37.661000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:37.023000" end="0:22:37.661000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:38.303000" end="0:22:42.683000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:38.303000" end="0:22:42.683000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:22:42.683000" end="0:22:43.046000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:42.683000" end="0:22:43.046000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:42.683000" end="0:22:53.803000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:22:42.683000" end="0:22:53.803000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:22:53.803000" end="0:23:01.670000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:53.803000" end="0:23:01.670000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:23:01.670000" end="0:23:11.737000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:23:01.670000" end="0:23:11.737000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:23:11.568000" end="0:23:11.943000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:11.568000" end="0:23:11.943000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:23:11.943000" end="0:23:19.797000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:23:11.943000" end="0:23:19.797000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:23:19.321000" end="0:23:19.612000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:19.321000" end="0:23:19.612000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:23:19.797000" end="0:23:28.757000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:23:19.797000" end="0:23:28.757000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:23:28.757000" end="0:23:36.410000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:28.757000" end="0:23:36.410000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:23:36.410000" end="0:24:01.310000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:23:36.410000" end="0:24:01.310000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:23:45.483000	0:23:49.603000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:23:59.817000" end="0:24:00.190000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:59.817000" end="0:24:00.190000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:01.310000" end="0:24:01.537000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:01.310000" end="0:24:01.537000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:24:01.537000" end="0:24:01.970000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:01.537000" end="0:24:01.970000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:01.870000" end="0:24:14.883000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:01.870000" end="0:24:14.883000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:24:13.934000" end="0:24:14.350000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:13.934000" end="0:24:14.350000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:14.883000" end="0:24:22.143000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:14.883000" end="0:24:22.143000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:24:20.743000" end="0:24:30.343000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:20.743000" end="0:24:30.343000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:30.343000" end="0:24:37.650000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:30.343000" end="0:24:37.650000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:24:37.650000" end="0:24:38.103000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:37.650000" end="0:24:38.103000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:37.974000" end="0:24:43.643000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:37.974000" end="0:24:43.643000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:24:43.643000" end="0:24:44.090000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:43.643000" end="0:24:44.090000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:44.090000" end="0:25:02.003000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:24:44.090000" end="0:25:02.003000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:25:02.003000" end="0:25:02.510000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:02.003000" end="0:25:02.510000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:02.510000" end="0:25:09.894000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:02.510000" end="0:25:09.894000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:25:09.836000" end="0:25:10.116000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:09.836000" end="0:25:10.116000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:09.894000" end="0:25:16.970000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:09.894000" end="0:25:16.970000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:25:16.970000" end="0:25:19.596000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:16.970000" end="0:25:19.596000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:17.390000" end="0:25:19.643000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:17.390000" end="0:25:19.643000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:25:19.596000" end="0:25:19.941000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:19.596000" end="0:25:19.941000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:19.643000" end="0:25:20.723000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:19.643000" end="0:25:20.723000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:25:19.941000" end="0:25:20.723000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:19.941000" end="0:25:20.723000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:20.723000" end="0:25:22.656000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:20.723000" end="0:25:22.656000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:25:22.656000" end="0:25:30.410000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:22.656000" end="0:25:30.410000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:30.410000" end="0:25:37.823000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:30.410000" end="0:25:37.823000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:25:37.823000" end="0:25:38.523000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:37.823000" end="0:25:38.523000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:37.823000" end="0:25:41.590000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:37.823000" end="0:25:41.590000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:25:40.541000" end="0:25:52.463000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:40.541000" end="0:25:52.463000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:52.463000" end="0:26:01.183000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:25:52.463000" end="0:26:01.183000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:26:01.183000" end="0:26:14.230000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:01.183000" end="0:26:14.230000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:26:01.656000	0:26:11.263000
 ORT	ORT	-	-	0:26:01.656000	0:26:11.263000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:26:14.230000" end="0:26:51.403000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:26:14.230000" end="0:26:51.403000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:26:14.230000	0:26:21.590000
 ORT	ORT	-	-	0:26:23.803000	0:26:26.143000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:26:50.854000" end="0:26:51.185000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:50.854000" end="0:26:51.185000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:26:51.403000" end="0:28:09.109000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:26:51.403000" end="0:28:09.109000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:28:09.109000" end="0:28:25.556000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:09.109000" end="0:28:25.556000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:28:17.883000	0:28:21.543000
 ORT	ORT	-	-	0:28:23.343000	0:28:25.556000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:25.556000" end="0:28:40.263000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:25.556000" end="0:28:40.263000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:28:32.656000	0:28:34.176000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:28:40.080000" end="0:28:40.489000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:40.080000" end="0:28:40.489000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:40.489000" end="0:28:44.689000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:40.489000" end="0:28:44.689000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:28:44.689000" end="0:28:45.243000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:44.689000" end="0:28:45.243000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:45.160000" end="0:28:50.396000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:45.160000" end="0:28:50.396000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:28:50.249000" end="0:28:51.536000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:50.249000" end="0:28:51.536000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:50.774000" end="0:28:51.536000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:50.774000" end="0:28:51.536000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:28:51.536000" end="0:28:52.043000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:51.536000" end="0:28:52.043000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:51.976000" end="0:28:54.596000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:51.976000" end="0:28:54.596000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:28:53.736000	0:28:54.596000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:28:54.014000" end="0:28:54.425000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:54.014000" end="0:28:54.425000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:54.596000" end="0:28:57.283000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:54.596000" end="0:28:57.283000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:28:57.283000" end="0:28:57.983000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:57.283000" end="0:28:57.983000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:57.983000" end="0:29:01.049000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:28:57.983000" end="0:29:01.049000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:29:01.049000" end="0:29:10.996000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:01.049000" end="0:29:10.996000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:29:10.996000" end="0:29:21.076000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:29:10.996000" end="0:29:21.076000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:29:21.076000" end="0:29:21.683000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:21.076000" end="0:29:21.683000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:29:21.683000" end="0:29:34.129000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:29:21.683000" end="0:29:34.129000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:29:33.709000" end="0:29:34.449000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:33.709000" end="0:29:34.449000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:29:34.129000" end="0:29:36.709000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:29:34.129000" end="0:29:36.709000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:29:36.709000" end="0:29:43.649000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:36.709000" end="0:29:43.649000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:29:43.649000" end="0:30:07.943000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:29:43.649000" end="0:30:07.943000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:30:07.943000" end="0:30:18.496000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:07.943000" end="0:30:18.496000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:30:18.496000" end="0:30:18.976000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:30:18.496000" end="0:30:18.976000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:30:18.976000" end="0:30:24.596000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:18.976000" end="0:30:24.596000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:30:24.596000" end="0:30:51.336000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:30:24.596000" end="0:30:51.336000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:30:44.062000	0:30:46.962000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:30:51.336000" end="0:30:51.876000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:51.336000" end="0:30:51.876000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:30:51.876000" end="0:31:03.569000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:30:51.876000" end="0:31:03.569000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:31:03.569000" end="0:31:08.469000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:03.569000" end="0:31:08.469000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:31:08.469000" end="0:31:15.642000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:31:08.469000" end="0:31:15.642000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:31:15.642000" end="0:31:16.216000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:15.642000" end="0:31:16.216000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:31:16.216000" end="0:31:28.516000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:31:16.216000" end="0:31:28.516000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:31:25.980000" end="0:31:26.442000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:25.980000" end="0:31:26.442000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:31:28.516000" end="0:31:30.396000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:31:28.516000" end="0:31:30.396000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:31:30.209000" end="0:31:37.002000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:30.209000" end="0:31:37.002000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:31:31.980000" end="0:32:02.429000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:31:31.980000" end="0:32:02.429000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:31:48.989000	0:31:50.576000
 ZAHL	ZAHL	-	-	0:31:55.749000	0:31:58.642000
 ORT	ORT	-	-	0:31:55.749000	0:31:58.642000
 ORT	ORT	-	-	0:31:58.642000	0:32:02.429000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:32:02.069000" end="0:32:02.391000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:02.069000" end="0:32:02.391000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:32:02.429000" end="0:32:09.282000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:32:02.429000" end="0:32:09.282000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:32:09.282000" end="0:32:10.489000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:09.282000" end="0:32:10.489000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:32:10.336000" end="0:32:37.222000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:32:10.336000" end="0:32:37.222000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:32:14.436000	0:32:16.916000
 ORT	ORT	-	-	0:32:22.502000	0:32:25.022000
 ORT	ORT	-	-	0:32:33.609000	0:32:35.356000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:32:36.467000" end="0:32:37.909000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:36.467000" end="0:32:37.909000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:32:37.909000" end="0:32:47.176000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:32:37.909000" end="0:32:47.176000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:32:47.176000" end="0:32:57.796000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:47.176000" end="0:32:57.796000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:32:57.796000" end="0:33:03.969000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:32:57.796000" end="0:33:03.969000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:33:02.076000" end="0:33:02.436000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:02.076000" end="0:33:02.436000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:03.969000" end="0:33:10.315000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:03.969000" end="0:33:10.315000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:33:10.275000" end="0:33:10.669000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:10.275000" end="0:33:10.669000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:10.315000" end="0:33:14.655000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:10.315000" end="0:33:14.655000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:33:14.655000" end="0:33:18.755000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:14.655000" end="0:33:18.755000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:17.502000" end="0:33:25.775000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:17.502000" end="0:33:25.775000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:33:25.620000" end="0:33:26.115000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:25.620000" end="0:33:26.115000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:26.115000" end="0:33:31.829000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:26.115000" end="0:33:31.829000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:33:31.266000" end="0:33:42.475000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:31.266000" end="0:33:42.475000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:42.475000" end="0:34:28.202000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:33:42.475000" end="0:34:28.202000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:33:56.009000	0:34:00.289000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:34:28.040000" end="0:34:28.549000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:28.040000" end="0:34:28.549000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:34:28.549000" end="0:34:31.589000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:34:28.549000" end="0:34:31.589000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:34:31.589000" end="0:34:45.601000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:31.589000" end="0:34:45.601000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:34:45.601000" end="0:34:50.962000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:34:45.601000" end="0:34:50.962000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:34:50.962000" end="0:34:51.340000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:50.962000" end="0:34:51.340000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:34:50.962000" end="0:35:16.542000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:34:50.962000" end="0:35:16.542000" project="PP04" age_lower="65" age_upper="999">
 ZAHL	ZAHL	-	-	0:35:00.575000	0:35:02.049000
 ORT	ORT	-	-	0:35:03.902000	0:35:06.689000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:35:16.542000" end="0:35:23.775000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:16.542000" end="0:35:23.775000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:23.775000" end="0:35:46.802000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:23.775000" end="0:35:46.802000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:35:46.802000" end="0:35:47.273000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:46.802000" end="0:35:47.273000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:46.802000" end="0:35:47.869000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:46.802000" end="0:35:47.869000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:35:47.542000" end="0:35:48.135000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:47.542000" end="0:35:48.135000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:48.135000" end="0:35:50.149000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:48.135000" end="0:35:50.149000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:35:50.149000" end="0:35:50.688000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:50.149000" end="0:35:50.688000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:50.688000" end="0:35:52.475000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:50.688000" end="0:35:52.475000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:35:52.475000" end="0:35:59.115000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:52.475000" end="0:35:59.115000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:59.115000" end="0:36:14.862000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:35:59.115000" end="0:36:14.862000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:36:13.739000" end="0:36:14.862000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:13.739000" end="0:36:14.862000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:36:14.862000" end="0:36:23.042000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:36:14.862000" end="0:36:23.042000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:36:22.959000" end="0:36:23.435000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:22.959000" end="0:36:23.435000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:36:23.435000" end="0:36:43.795000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:36:23.435000" end="0:36:43.795000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:36:42.953000" end="0:36:43.551000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:42.953000" end="0:36:43.551000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:36:43.795000" end="0:37:00.748000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:36:43.795000" end="0:37:00.748000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:36:59.268000" end="0:36:59.655000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:59.268000" end="0:36:59.655000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:00.748000" end="0:37:08.442000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:00.748000" end="0:37:08.442000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:37:06.273000" end="0:37:06.675000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:06.273000" end="0:37:06.675000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:08.442000" end="0:37:12.282000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:08.442000" end="0:37:12.282000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:37:10.859000" end="0:37:11.275000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:10.859000" end="0:37:11.275000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:12.282000" end="0:37:16.182000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:12.282000" end="0:37:16.182000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:37:16.182000" end="0:37:16.895000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:16.182000" end="0:37:16.895000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:16.895000" end="0:37:18.888000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:16.895000" end="0:37:18.888000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:37:18.888000" end="0:37:35.708000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:18.888000" end="0:37:35.708000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:35.708000" end="0:37:52.522000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:35.708000" end="0:37:52.522000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:37:45.126000	0:37:48.135000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:37:51.773000" end="0:37:58.002000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:51.773000" end="0:37:58.002000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:37:54.628000	0:37:58.002000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:56.822000" end="0:38:04.868000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:37:56.822000" end="0:38:04.868000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:38:02.288000" end="0:38:02.642000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:02.288000" end="0:38:02.642000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:38:04.868000" end="0:38:07.522000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:38:04.868000" end="0:38:07.522000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:38:07.522000" end="0:38:07.928000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:07.522000" end="0:38:07.928000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:38:07.928000" end="0:38:21.228000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:38:07.928000" end="0:38:21.228000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:38:20.635000" end="0:38:28.115000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:20.635000" end="0:38:28.115000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:38:28.115000" end="0:38:45.621000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:38:28.115000" end="0:38:45.621000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:38:45.621000" end="0:38:46.095000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:45.621000" end="0:38:46.095000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:38:46.095000" end="0:38:54.668000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:38:46.095000" end="0:38:54.668000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:38:54.668000" end="0:39:01.081000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:54.668000" end="0:39:01.081000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:01.081000" end="0:39:14.395000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:01.081000" end="0:39:14.395000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:39:14.395000" end="0:39:15.141000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:14.395000" end="0:39:15.141000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:15.141000" end="0:39:24.981000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:15.141000" end="0:39:24.981000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:39:24.981000" end="0:39:25.615000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:24.981000" end="0:39:25.615000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:25.615000" end="0:39:30.681000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:25.615000" end="0:39:30.681000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:39:30.681000" end="0:39:41.508000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:30.681000" end="0:39:41.508000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:39:30.681000	0:39:36.748000
 ORT	ORT	-	-	0:39:30.681000	0:39:36.748000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:41.508000" end="0:39:47.841000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:41.508000" end="0:39:47.841000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:39:47.668000" end="0:39:48.024000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:47.668000" end="0:39:48.024000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:47.841000" end="0:39:56.848000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:39:47.841000" end="0:39:56.848000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:39:56.848000" end="0:40:03.421000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:56.848000" end="0:40:03.421000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:03.421000" end="0:40:07.661000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:03.421000" end="0:40:07.661000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:40:07.066000" end="0:40:07.337000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:07.066000" end="0:40:07.337000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:07.661000" end="0:40:09.988000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:07.661000" end="0:40:09.988000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:40:09.988000" end="0:40:10.819000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:09.988000" end="0:40:10.819000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:09.988000" end="0:40:13.055000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:09.988000" end="0:40:13.055000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:40:12.468000	0:40:13.055000
 </u>
-<u who="spk_727" sex="female" age="alt (65+) weiblich" name="Informant 4098" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:13.055000" end="0:40:14.095000" age_lower="65" age_upper="999">
+<u who="spk_727" sex="female" age="alt (65+) weiblich" name="Informant 4098" subproject="PP04" standard_competence="7" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:13.055000" end="0:40:14.095000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:13.566000" end="0:40:28.561000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:13.566000" end="0:40:28.561000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:40:28.561000" end="0:40:40.728000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:28.561000" end="0:40:40.728000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:40:37.808000	0:40:39.055000
 ORT	ORT	-	-	0:40:39.055000	0:40:40.728000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:40.728000" end="0:41:10.095000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:40:40.728000" end="0:41:10.095000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:41:09.892000" end="0:41:10.232000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:09.892000" end="0:41:10.232000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:10.095000" end="0:41:15.855000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:10.095000" end="0:41:15.855000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:41:14.581000	0:41:15.581000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:41:15.855000" end="0:41:16.341000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:15.855000" end="0:41:16.341000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:16.341000" end="0:41:28.008000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:16.341000" end="0:41:28.008000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:41:22.748000	0:41:24.908000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:41:26.148000" end="0:41:26.594000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:26.148000" end="0:41:26.594000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:28.008000" end="0:41:28.288000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:28.008000" end="0:41:28.288000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:41:28.288000" end="0:41:29.094000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:28.288000" end="0:41:29.094000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:29.094000" end="0:41:35.321000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:29.094000" end="0:41:35.321000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:41:35.321000" end="0:41:35.741000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:35.321000" end="0:41:35.741000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:35.539000" end="0:41:37.428000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:35.539000" end="0:41:37.428000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:41:37.428000" end="0:41:39.594000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:37.428000" end="0:41:39.594000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:37.428000" end="0:41:39.543000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:37.428000" end="0:41:39.543000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:41:39.594000" end="0:41:40.354000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:39.594000" end="0:41:40.354000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:39.852000" end="0:41:40.654000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:39.852000" end="0:41:40.654000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:41:40.654000" end="0:41:55.401000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:40.654000" end="0:41:55.401000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:41:41.454000	0:41:51.841000
 ORT	ORT	-	-	0:41:51.841000	0:41:55.401000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:55.401000" end="0:42:07.361000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:41:55.401000" end="0:42:07.361000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:42:05.641000	0:42:06.748000
 ORT	ORT	-	-	0:42:06.748000	0:42:07.361000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:42:07.281000" end="0:42:07.574000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:07.281000" end="0:42:07.574000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:42:07.361000" end="0:42:14.954000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:42:07.361000" end="0:42:14.954000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:42:11.794000	0:42:13.281000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:42:13.894000" end="0:42:15.394000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:13.894000" end="0:42:15.394000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:42:15.394000" end="0:42:38.101000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:42:15.394000" end="0:42:38.101000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:42:38.101000" end="0:42:46.748000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:38.101000" end="0:42:46.748000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:42:38.101000	0:42:46.748000
 ORT	ORT	-	-	0:42:38.101000	0:42:46.748000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:42:46.748000" end="0:42:58.641000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:42:46.748000" end="0:42:58.641000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:42:58.294000" end="0:42:58.641000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:58.294000" end="0:42:58.641000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:42:58.641000" end="0:42:59.028000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:42:58.641000" end="0:42:59.028000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:42:59.028000" end="0:43:03.801000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:59.028000" end="0:43:03.801000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:42:59.028000	0:43:03.801000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:03.508000" end="0:43:03.928000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:03.508000" end="0:43:03.928000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:43:03.928000" end="0:43:13.154000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:03.928000" end="0:43:13.154000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:43:03.928000	0:43:09.908000
 ORT	ORT	-	-	0:43:09.908000	0:43:11.828000
 ORT	ORT	-	-	0:43:09.908000	0:43:11.828000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:13.154000" end="0:43:18.134000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:13.154000" end="0:43:18.134000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:43:15.614000	0:43:18.134000
 ORT	ORT	-	-	0:43:15.614000	0:43:18.134000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:43:17.694000" end="0:43:18.070000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:17.694000" end="0:43:18.070000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:18.134000" end="0:43:25.608000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:18.134000" end="0:43:25.608000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:43:23.148000	0:43:25.608000
 ORT	ORT	-	-	0:43:23.148000	0:43:25.608000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:43:23.694000" end="0:43:24.074000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:23.694000" end="0:43:24.074000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:25.608000" end="0:43:27.634000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:25.608000" end="0:43:27.634000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:43:25.608000	0:43:27.634000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:43:27.634000" end="0:43:28.294000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:27.634000" end="0:43:28.294000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:28.294000" end="0:43:33.728000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:28.294000" end="0:43:33.728000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:43:32.399000" end="0:43:43.614000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:32.399000" end="0:43:43.614000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:43:33.728000	0:43:40.008000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:40.008000" end="0:44:12.014000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:43:40.008000" end="0:44:12.014000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:44:11.065000" end="0:44:11.443000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:11.065000" end="0:44:11.443000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:12.014000" end="0:44:13.067000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:12.014000" end="0:44:13.067000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:44:13.067000" end="0:44:13.727000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:13.067000" end="0:44:13.727000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:13.067000" end="0:44:20.354000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:13.067000" end="0:44:20.354000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:44:20.354000" end="0:44:24.301000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:20.354000" end="0:44:24.301000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:44:20.354000	0:44:24.301000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:21.854000" end="0:44:22.321000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:21.854000" end="0:44:22.321000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:44:24.301000" end="0:44:27.841000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:24.301000" end="0:44:27.841000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:44:25.227000	0:44:27.401000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:27.738000" end="0:44:28.921000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:27.738000" end="0:44:28.921000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:44:28.076000" end="0:44:28.481000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:28.076000" end="0:44:28.481000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:28.921000" end="0:44:29.127000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:28.921000" end="0:44:29.127000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:44:29.127000" end="0:44:29.434000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:29.127000" end="0:44:29.434000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:29.127000" end="0:44:33.494000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:29.127000" end="0:44:33.494000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:44:32.981000" end="0:44:42.521000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:32.981000" end="0:44:42.521000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:44:33.494000	0:44:42.521000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:42.521000" end="0:44:57.681000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:42.521000" end="0:44:57.681000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:44:57.681000" end="0:44:58.247000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:57.681000" end="0:44:58.247000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:58.247000" end="0:45:05.561000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:44:58.247000" end="0:45:05.561000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:45:05.385000" end="0:45:05.814000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:05.385000" end="0:45:05.814000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:05.561000" end="0:45:06.067000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:05.561000" end="0:45:06.067000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:45:06.067000" end="0:45:17.107000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:06.067000" end="0:45:17.107000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:45:06.067000	0:45:13.274000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:17.107000" end="0:45:20.234000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:17.107000" end="0:45:20.234000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:45:17.947000" end="0:45:19.021000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:17.947000" end="0:45:19.021000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:20.234000" end="0:45:22.321000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:20.234000" end="0:45:22.321000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:45:22.321000" end="0:45:22.901000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:22.321000" end="0:45:22.901000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:22.901000" end="0:45:30.181000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:22.901000" end="0:45:30.181000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:45:29.472000" end="0:45:31.867000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:29.472000" end="0:45:31.867000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:30.181000" end="0:45:32.054000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:30.181000" end="0:45:32.054000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:45:31.867000" end="0:45:32.461000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:31.867000" end="0:45:32.461000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:32.461000" end="0:45:36.634000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:32.461000" end="0:45:36.634000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:45:36.145000" end="0:45:36.490000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:36.145000" end="0:45:36.490000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:36.634000" end="0:45:42.827000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:36.634000" end="0:45:42.827000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:45:42.827000" end="0:45:45.234000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:42.827000" end="0:45:45.234000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:45.234000" end="0:45:48.474000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:45.234000" end="0:45:48.474000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:45:47.805000" end="0:45:59.194000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:47.805000" end="0:45:59.194000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:45:48.474000	0:45:54.234000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:59.194000" end="0:46:11.201000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:45:59.194000" end="0:46:11.201000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:46:05.934000	0:46:09.454000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:46:11.141000" end="0:46:11.581000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:11.141000" end="0:46:11.581000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:11.581000" end="0:46:18.827000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:11.581000" end="0:46:18.827000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:46:18.707000" end="0:46:23.854000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:18.707000" end="0:46:23.854000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:46:21.001000	0:46:23.854000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:23.854000" end="0:46:28.627000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:23.854000" end="0:46:28.627000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:46:28.627000" end="0:46:29.341000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:28.627000" end="0:46:29.341000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:28.994000" end="0:46:31.587000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:28.994000" end="0:46:31.587000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:46:31.441000" end="0:46:31.881000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:31.441000" end="0:46:31.881000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:31.587000" end="0:46:40.694000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:31.587000" end="0:46:40.694000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:46:40.225000" end="0:46:40.594000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:40.225000" end="0:46:40.594000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:40.694000" end="0:46:45.294000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:40.694000" end="0:46:45.294000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:46:44.805000" end="0:46:50.247000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:44.805000" end="0:46:50.247000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:46:45.294000	0:46:50.247000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:50.247000" end="0:47:04.400000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:46:50.247000" end="0:47:04.400000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:47:04.220000" end="0:47:04.714000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:04.220000" end="0:47:04.714000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:04.714000" end="0:47:09.027000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:04.714000" end="0:47:09.027000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:47:08.998000" end="0:47:10.287000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:08.998000" end="0:47:10.287000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:10.207000" end="0:47:14.027000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:10.207000" end="0:47:14.027000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:47:12.527000" end="0:47:12.880000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:12.527000" end="0:47:12.880000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:14.027000" end="0:47:19.160000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:14.027000" end="0:47:19.160000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:47:17.880000" end="0:47:18.260000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:17.880000" end="0:47:18.260000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:19.160000" end="0:47:25.520000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:19.160000" end="0:47:25.520000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:47:25.351000" end="0:47:25.811000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:25.351000" end="0:47:25.811000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:25.520000" end="0:47:28.147000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:25.520000" end="0:47:28.147000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:47:28.147000" end="0:47:32.447000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:28.147000" end="0:47:32.447000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:31.867000" end="0:47:32.243000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:31.867000" end="0:47:32.243000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:47:32.447000" end="0:47:42.334000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:32.447000" end="0:47:42.334000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:42.334000" end="0:48:06.380000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:47:42.334000" end="0:48:06.380000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:48:06.380000" end="0:48:23.400000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:06.380000" end="0:48:23.400000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:48:23.400000" end="0:48:44.247000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:48:23.400000" end="0:48:44.247000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:48:43.978000" end="0:48:44.345000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:43.978000" end="0:48:44.345000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:48:44.247000" end="0:49:00.114000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:48:44.247000" end="0:49:00.114000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:48:59.891000" end="0:49:00.560000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:59.891000" end="0:49:00.560000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:00.560000" end="0:49:02.660000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:00.560000" end="0:49:02.660000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:49:02.660000" end="0:49:06.247000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:02.660000" end="0:49:06.247000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:05.720000" end="0:49:07.740000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:05.720000" end="0:49:07.740000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:49:07.638000" end="0:49:07.954000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:07.638000" end="0:49:07.954000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:07.740000" end="0:49:16.127000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:07.740000" end="0:49:16.127000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:49:16.127000" end="0:49:29.167000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:16.127000" end="0:49:29.167000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:49:16.127000	0:49:21.360000
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:29.167000" end="0:49:45.647000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:29.167000" end="0:49:45.647000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:49:45.118000" end="0:49:45.436000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:45.118000" end="0:49:45.436000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:45.647000" end="0:49:48.980000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:45.647000" end="0:49:48.980000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:49:48.980000" end="0:49:49.547000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:48.980000" end="0:49:49.547000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:49.356000" end="0:49:53.580000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:49.356000" end="0:49:53.580000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:49:53.580000" end="0:50:03.707000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:53.580000" end="0:50:03.707000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:59.631000" end="0:50:04.373000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:49:59.631000" end="0:50:04.373000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:50:04.118000" end="0:50:10.207000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:04.118000" end="0:50:10.207000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:10.207000" end="0:50:29.747000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:10.207000" end="0:50:29.747000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:50:14.460000	0:50:17.627000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:50:29.747000" end="0:50:30.340000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:29.747000" end="0:50:30.340000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:30.340000" end="0:50:51.013000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:30.340000" end="0:50:51.013000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:50:50.500000" end="0:50:50.822000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:50.500000" end="0:50:50.822000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:51.013000" end="0:50:57.547000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:51.013000" end="0:50:57.547000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:50:57.060000" end="0:50:57.731000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:57.060000" end="0:50:57.731000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:57.547000" end="0:50:58.180000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:57.547000" end="0:50:58.180000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:50:58.180000" end="0:50:58.580000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:58.180000" end="0:50:58.580000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:58.580000" end="0:51:00.667000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:50:58.580000" end="0:51:00.667000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:51:00.620000" end="0:51:01.247000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:00.620000" end="0:51:01.247000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:51:01.247000" end="0:51:02.727000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:51:01.247000" end="0:51:02.727000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:51:01.367000" end="0:51:01.733000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:01.367000" end="0:51:01.733000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:51:02.727000" end="0:51:06.560000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:51:02.727000" end="0:51:06.560000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:51:06.560000" end="0:51:22.447000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:06.560000" end="0:51:22.447000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:51:22.447000" end="0:51:37.560000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:51:22.447000" end="0:51:37.560000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:51:25.407000	0:51:31.400000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:51:37.560000" end="0:51:38.167000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:37.560000" end="0:51:38.167000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:51:38.044000" end="0:51:50.527000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:51:38.044000" end="0:51:50.527000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:51:50.527000" end="0:52:07.333000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:50.527000" end="0:52:07.333000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:07.333000" end="0:52:29.520000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:07.333000" end="0:52:29.520000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:52:29.520000" end="0:52:30.240000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:29.520000" end="0:52:30.240000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:30.240000" end="0:52:44.640000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:30.240000" end="0:52:44.640000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:52:44.640000" end="0:52:45.466000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:44.640000" end="0:52:45.466000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:45.466000" end="0:52:51" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:45.466000" end="0:52:51" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:52:51" end="0:52:51.513000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:51" end="0:52:51.513000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:51.513000" end="0:52:53.933000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:51.513000" end="0:52:53.933000" project="PP04" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:52:51.513000	0:52:53.933000
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:52:53.933000" end="0:52:57.426000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:53.933000" end="0:52:57.426000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:56.240000" end="0:52:58.046000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:52:56.240000" end="0:52:58.046000" project="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" location="UNK" lat="None" lon="None" start="0:52:58.046000" end="0:53:02.333000" age_lower="1" age_upper="999">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:58.046000" end="0:53:02.333000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:53:00.833000" end="0:53:02.753000" age_lower="65" age_upper="999">
+<u who="spk_726" sex="male" age="alt (65+) männlich" name="Informant 4097" subproject="PP04" standard_competence="6" dialect_competence="4" location="Gries, Graz, Steiermark, Österreich" lat="47.0612224" lon="15.42737" start="0:53:00.833000" end="0:53:02.753000" project="PP04" age_lower="65" age_upper="999">
 </u>
 </file>
 </doc>

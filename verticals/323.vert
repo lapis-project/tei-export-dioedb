@@ -1,12 +1,12 @@
 <doc id="transcript_323" name="0291_TUXT_jungI_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="323.xml" title="Transcript: Transcript_323">
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:00.606000" end="0:01:02.273000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:00.606000" end="0:01:02.273000" project="PP03" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:01:00.606000	0:01:02.273000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:01:00.606000" end="0:01:02.273000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:00.606000" end="0:01:02.273000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:01:00.606000	0:01:02.273000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:00.606000" end="0:01:46.313000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:00.606000" end="0:01:46.313000" project="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:01:00.606000	0:01:02.273000
 Sonne	-	-	-	0:01:00.606000	0:01:02.273000
 .	-	-	-	0:01:00.606000	0:01:02.273000
@@ -138,10 +138,10 @@ der	-	-	-	0:01:43.686000	0:01:46.313000
 Stärkere	-	-	k kReal kVar LautNach LautVor Ons Ons- Vpal Vvel	0:01:43.686000	0:01:46.313000
 war	-	-	-	0:01:43.686000	0:01:46.313000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:01:46.313000" end="0:01:48.066000" age_lower="1" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:46.313000" end="0:01:48.066000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:01:46.313000	0:01:48.066000
 </u>
-<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:46.313000" end="0:01:48.066000" age_lower="18" age_upper="35">
+<u who="spk_368" sex="female" age="jung (18-35) -matura" name="Informant 0291" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:46.313000" end="0:01:48.066000" project="PP03" age_lower="18" age_upper="35">
 XXX	-	-	-	0:01:46.313000	0:01:48.066000
 </u>
 </file>
