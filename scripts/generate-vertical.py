@@ -48,6 +48,15 @@ def load_speaker_data(standoff_path):
             sex_node = person.xpath("tei:sex/@value", namespaces=NS)
             age_node = person.xpath("tei:age/text()", namespaces=NS)
             name_node = person.xpath("tei:persName/text()", namespaces=NS)
+            project_node = person.xpath("tei:affiliation/text()", namespaces=NS)
+
+            dialect_node = person.xpath(
+                "tei:trait[@type='dialect_competence']/tei:desc/text()", namespaces=NS
+            )
+
+            standard_node = person.xpath(
+                "tei:trait[@type='standard_competence']/tei:desc/text()", namespaces=NS
+            )
 
             residence_name_node = person.xpath(
                 "tei:residence/tei:placeName/text()", namespaces=NS
@@ -71,6 +80,13 @@ def load_speaker_data(standoff_path):
                 "name": name_node[0].strip() if name_node else "UNK",
                 "residence": (
                     residence_name_node[0].strip() if residence_name_node else "UNK"
+                ),
+                "subproject": project_node[0] if project_node else "UNK",
+                "dialect_competence": (
+                    dialect_node[0].strip() if dialect_node else "UNK"
+                ),
+                "standard_competence": (
+                    standard_node[0].strip() if standard_node else "UNK"
                 ),
                 "loc_id": loc_id,
                 "lat": lat,
@@ -190,10 +206,13 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
                     s_loc_name = spk_info["residence"]
                     s_loc_lat = spk_info["lat"]
                     s_loc_lon = spk_info["lon"]
+                    s_standard = spk_info["standard_competence"]
+                    s_dialect = spk_info["dialect_competence"]
+                    s_subproject = spk_info["subproject"]
 
                     # Write enriched structural tag
                     f_out.write(
-                        f'<u who="{who_ref}" sex="{s_sex}" age="{s_age}" name="{s_name}" location="{s_loc_name}" lat="{s_loc_lat}" lon="{s_loc_lon}" start="{u_start}" end="{u_end}">\n'
+                        f'<u who="{who_ref}" sex="{s_sex}" age="{s_age}" name="{s_name}" subproject="{s_subproject}" standard_competence="{s_standard}" dialect_competence="{s_dialect}" location="{s_loc_name}" lat="{s_loc_lat}" lon="{s_loc_lon}" start="{u_start}" end="{u_end}">\n'
                     )
 
                     # Process Tokens (w, pc, pause)

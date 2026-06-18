@@ -399,6 +399,30 @@ def generate_standoff_informants_file(
                                 etree.SubElement(person, "note"), "p"
                             ).text = informant.get("comment")
 
+                        if informant.get("team_bez"):
+                            etree.SubElement(
+                                person, "affiliation", type="subproject"
+                            ).text = informant["team_bez"]
+
+                        # Fetch the competence level of the person
+                        # Omit this value if the value is NULL
+                        competence_val = informant.get("dialect_komp")
+                        if (
+                            competence_val is not None
+                            and str(competence_val).strip() != ""
+                        ):
+                            trait = etree.SubElement(
+                                person, "trait", type="dialect_competence"
+                            )
+                            etree.SubElement(trait, "desc").text = str(competence_val)
+
+                        standard_val = informant.get("standard_komp")
+                        if standard_val is not None and str(standard_val).strip() != "":
+                            trait = etree.SubElement(
+                                person, "trait", type="standard_competence"
+                            )
+                            etree.SubElement(trait, "desc").text = str(standard_val)
+
                         added_person_count += 1
 
                 if added_person_count > 0 or added_loc_count > 0:
