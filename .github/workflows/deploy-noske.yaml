@@ -3,6 +3,7 @@ on:
   workflow_dispatch: {}
 
 permissions:
+  contents: read
   packages: write
 jobs:
   generate_workflow_vars:
@@ -57,6 +58,7 @@ jobs:
             type=semver,pattern={{major}}.{{minor}}
             type=raw,value=latest,enable={{is_default_branch}}
             type=raw,value={{sha}}
+            type=raw,value=run-${{ github.run_id }}-${{ github.run_attempt }}-{{sha}}
       - name: build and push to ghcr.io
         uses: docker/build-push-action@v7
         with:
@@ -66,12 +68,18 @@ jobs:
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           push: true
+          # Secret values do not invalidate BuildKit's cache on rotation.
+          no-cache-filters: authenticated
+          secrets: |
+            "noske_htpasswd=${{ secrets.NOSKE_HTPASSWD }}"
   _3:
     needs: [build, generate_workflow_vars]
     uses: lapis-project/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
     secrets: inherit
     with:
-      DOCKER_TAG: ghcr.io/${{ github.repository }}-corpus-data:${{ github.sha }}
+      # The shared workflow adds the short SHA to this repository name.
+      DOCKER_TAG: ghcr.io/${{ github.repository }}-corpus-data
+      container_tags_prefix: run-${{ github.run_id }}-${{ github.run_attempt }}-
       APP_NAME: 'corpus-noske'
       APP_ROOT: '/'
       POSTGRES_ENABLED: false
