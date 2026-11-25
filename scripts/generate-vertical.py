@@ -228,6 +228,19 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
                             if lemma == " ":
                                 lemma = "-"
                             pos = node.get("type", "-")
+                            raw_phon = node.get("phon") or ""
+                            phon = (
+                                raw_phon.replace("\t", " ")
+                                .replace("\r", " ")
+                                .replace("\n", " ")
+                                .strip()
+                                or "-"
+                            )
+                            raw_xml_id = (node.get(f"{{{NS['xml']}}}id") or "").strip()
+                            if raw_xml_id.startswith("t") and raw_xml_id[1:].isdigit():
+                                token_id = raw_xml_id[1:]
+                            else:
+                                token_id = raw_xml_id or "-"
 
                             ana_refs = node.get("ana", "").replace("#", "").split()
 
@@ -262,7 +275,7 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
                             t_end = timeline_map.get(t_end_ref, "-")
 
                             f_out.write(
-                                f"{word}\t{lemma}\t{pos}\t{merge_strings(str_morph, str_syntax)}\t{t_start}\t{t_end}\n"
+                                f"{word}\t{lemma}\t{pos}\t{merge_strings(str_morph, str_syntax)}\t{t_start}\t{t_end}\t{phon}\t{token_id}\n"
                             )
 
                         elif tag_name == "pause":

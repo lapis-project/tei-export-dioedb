@@ -174,7 +174,7 @@ def fetch_transcript_data(transcript_id, use_cache=False, cache_dir="cache"):
             all_answers_data = []
             total_query_time = 0
 
-            for i in range(0, 1000, BATCH_SIZE):
+            for i in range(0, len(token_ids), BATCH_SIZE):
                 batch_ids = token_ids[i : i + BATCH_SIZE]
                 print(
                     f"  - Processing batch {i // BATCH_SIZE + 1}/{(len(token_ids) + BATCH_SIZE - 1) // BATCH_SIZE}..."
@@ -681,6 +681,16 @@ def generate_transcript_file(
 
         for i, token in enumerate(utterance["tokens"]):
             token_text = token.get("text_in_ortho") or token.get("ortho") or ""
+            raw_phon = token.get("phon")
+            phon_val = (
+                str(raw_phon)
+                .replace("\t", " ")
+                .replace("\r", " ")
+                .replace("\n", " ")
+                .strip()
+                if raw_phon is not None
+                else ""
+            )
             el = None
 
             # Handle special token types like pauses or incidents
@@ -698,6 +708,8 @@ def generate_transcript_file(
             elif token.get("sppos") == "PUNCT":
                 el = etree.SubElement(u, "pc")
                 el.set(f"{{{XML_NS}}}id", f"t{token['token_id']}")
+                if phon_val:
+                    el.set("phon", phon_val)
                 el.text = token_text
             else:
                 el = etree.SubElement(u, "w")
@@ -713,6 +725,8 @@ def generate_transcript_file(
                     )
                 if token.get("sppos"):
                     el.set("type", token["sppos"])
+                if phon_val:
+                    el.set("phon", phon_val)
                 el.text = token_text.strip()
                 # --- NEW SIMPLIFIED DiÖ TAG HANDLING ---
                 ana_refs = []
