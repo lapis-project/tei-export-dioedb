@@ -1,139 +1,139 @@
 <doc id="transcript_472" name="0482_TAUF_jungII_f_INT" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="472.xml" title="Transcript: Transcript_472">
-<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:06.240000" end="0:00:08.046000" project="PP03" age_lower="18" age_upper="35">
-Nordwind	Nordwind	NOUN	-	0:00:06.240000	0:00:08.046000
+<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:06.240000" end="0:00:08.046000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+Nordwind	Nordwind	NOUN	-	0:00:06.240000	0:00:08.046000	-	4094838
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:06.240000" end="0:00:08.046000" age_lower="1" age_upper="999">
-XXX	-	-	-	0:00:06.240000	0:00:08.046000
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:06.240000" end="0:00:08.046000" persName="Informant EXP11" age_lower="1" age_upper="999">
+XXX	-	-	-	0:00:06.240000	0:00:08.046000	-	4094841
 </u>
-<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:06.240000" end="0:00:53.233000" project="PP03" age_lower="18" age_upper="35">
-und	und	CCONJ	-	0:00:06.240000	0:00:08.046000
-Sonne	sonnen	NOUN	-	0:00:06.240000	0:00:08.046000
-einst	einen	ADV	-	0:00:08.046000	0:00:10.840000
-stritten	streiten	VERB	-	0:00:08.046000	0:00:10.840000
-sich	sich	PRON	-	0:00:08.046000	0:00:10.840000
-Nordwind	Nordwind	NOUN	-	0:00:08.046000	0:00:10.840000
-und	und	CCONJ	-	0:00:08.046000	0:00:10.840000
-Sonne	sonnen	NOUN	-	0:00:08.046000	0:00:10.840000
-,	-	-	-	0:00:08.046000	0:00:10.840000
-wer	wer	PRON	-	0:00:10.840000	0:00:13.973000
-von	von	ADP	-	0:00:10.840000	0:00:13.973000
-ihnen	ich	PRON	-	0:00:10.840000	0:00:13.973000
-beiden	beid	PRON	-	0:00:10.840000	0:00:13.973000
-wohl	wohl	ADV	-	0:00:10.840000	0:00:13.973000
-der	der	DET	-	0:00:10.840000	0:00:13.973000
-Stärkere	Stärkere	NOUN	-	0:00:10.840000	0:00:13.973000
-wäre	sein	AUX	-	0:00:10.840000	0:00:13.973000
-,	-	-	-	0:00:10.840000	0:00:13.973000
-als	als	ADP	-	0:00:13.973000	0:00:15.233000
-ein	einen	DET	-	0:00:13.973000	0:00:15.233000
-Wanderer	Wanderer	NOUN	-	0:00:13.973000	0:00:15.233000
-,	-	-	-	0:00:13.973000	0:00:15.233000
-der	der	PRON	-	0:00:15.233000	0:00:17.753000
-in	in	ADP	-	0:00:15.233000	0:00:17.753000
-einen	ein	DET	-	0:00:15.233000	0:00:17.753000
-warmen	warm	ADJ	-	0:00:15.233000	0:00:17.753000
-Mantel	Mantel	NOUN	-	0:00:15.233000	0:00:17.753000
-gehüllt	hüllen	VERB	-	0:00:15.233000	0:00:17.753000
-war	sein	AUX	-	0:00:15.233000	0:00:17.753000
-,	-	-	-	0:00:15.233000	0:00:17.753000
-des	der	DET	-	0:00:17.753000	0:00:19.620000
-Weges	Weg	NOUN	-	0:00:17.753000	0:00:19.620000
-daherkam	daherkommen	VERB	-	0:00:17.753000	0:00:19.620000
-.	-	-	-	0:00:17.753000	0:00:19.620000
-sie	ich	PRON	-	0:00:19.620000	0:00:21.080000
-wurden	werden	AUX	-	0:00:19.620000	0:00:21.080000
-einig	einigen	ADV	-	0:00:19.620000	0:00:21.080000
-,	-	-	-	0:00:19.620000	0:00:21.080000
-dass	dass	SCONJ	-	0:00:21.080000	0:00:24.260000
-derjenige	derjenige	PRON	-	0:00:21.080000	0:00:24.260000
-für	für	ADP	-	0:00:21.080000	0:00:24.260000
-den	der	DET	-	0:00:21.080000	0:00:24.260000
-Stärkeren	Stärkere	NOUN	-	0:00:21.080000	0:00:24.260000
-gelten	gelten	VERB	-	0:00:21.080000	0:00:24.260000
-sollte	sollen	AUX	-	0:00:21.080000	0:00:24.260000
-,	-	-	-	0:00:21.080000	0:00:24.260000
-der	der	PRON	-	0:00:24.260000	0:00:26.140000
-den	der	DET	-	0:00:24.260000	0:00:26.140000
-Wanderer	Wanderer	NOUN	-	0:00:24.260000	0:00:26.140000
-zwingen	zwingen	VERB	-	0:00:24.260000	0:00:26.140000
-würde	werden	AUX	-	0:00:24.260000	0:00:26.140000
-,	-	-	-	0:00:24.260000	0:00:26.140000
-seinen	seinen	DET	-	0:00:26.140000	0:00:28.140000
-Mantel	Mantel	NOUN	-	0:00:26.140000	0:00:28.140000
-abzunehmen	abnehmen	VERB	-	0:00:26.140000	0:00:28.140000
-.	-	-	-	0:00:26.140000	0:00:28.140000
-der	der	DET	-	0:00:28.140000	0:00:30.500000
-Nordwind	Nordwind	NOUN	-	0:00:28.140000	0:00:30.500000
-blies	blasen	VERB	-	0:00:28.140000	0:00:30.500000
-mit	mit	ADP	-	0:00:28.140000	0:00:30.500000
-aller	all	DET	-	0:00:28.140000	0:00:30.500000
-Macht	Macht	NOUN	-	0:00:28.140000	0:00:30.500000
-,	-	-	-	0:00:28.140000	0:00:30.500000
-aber	aber	CCONJ	-	0:00:30.500000	0:00:32.166000
-je	je	ADV	-	0:00:30.500000	0:00:32.166000
-mehr	mehr	ADV	-	0:00:30.500000	0:00:32.166000
-er	ich	PRON	-	0:00:30.500000	0:00:32.166000
-blies	blasen	VERB	-	0:00:30.500000	0:00:32.166000
-,	-	-	-	0:00:30.500000	0:00:32.166000
-desto	desto	ADV	-	0:00:32.166000	0:00:35.533000
-fester	fest	ADV	-	0:00:32.166000	0:00:35.533000
-hüllte	hüllen	VERB	-	0:00:32.166000	0:00:35.533000
-sich	sich	PRON	-	0:00:32.166000	0:00:35.533000
-der	der	DET	-	0:00:32.166000	0:00:35.533000
-Wanderer	Wanderer	NOUN	-	0:00:32.166000	0:00:35.533000
-in	in	ADP	-	0:00:32.166000	0:00:35.533000
-seinen	seinen	DET	-	0:00:32.166000	0:00:35.533000
-Mantel	Mantel	NOUN	-	0:00:32.166000	0:00:35.533000
-ein	einen	ADV	-	0:00:32.166000	0:00:35.533000
-.	-	-	-	0:00:32.166000	0:00:35.533000
-endlich	endlich	ADV	-	0:00:35.533000	0:00:39.313000
-gab	geben	VERB	-	0:00:35.533000	0:00:39.313000
-der	der	DET	-	0:00:35.533000	0:00:39.313000
-Nordwind	Nordwind	NOUN	-	0:00:35.533000	0:00:39.313000
-den	der	DET	-	0:00:35.533000	0:00:39.313000
-Kampf	Kampf	NOUN	-	0:00:35.533000	0:00:39.313000
-auf	auf	ADP	-	0:00:35.533000	0:00:39.313000
-.	-	-	-	0:00:35.533000	0:00:39.313000
-nun	nun	ADV	-	0:00:39.313000	0:00:43.446000
-erwärmte	erwärmen	VERB	-	0:00:39.313000	0:00:43.446000
-die	der	DET	-	0:00:39.313000	0:00:43.446000
-Sonne	sonnen	NOUN	-	0:00:39.313000	0:00:43.446000
-die	der	DET	-	0:00:39.313000	0:00:43.446000
-Luft	Luft	NOUN	-	0:00:39.313000	0:00:43.446000
-mit	mit	ADP	-	0:00:39.313000	0:00:43.446000
-ihren	mein	DET	-	0:00:39.313000	0:00:43.446000
-freundlichen	freundlich	ADJ	-	0:00:39.313000	0:00:43.446000
-Strahlen	Strahl	NOUN	-	0:00:39.313000	0:00:43.446000
-,	-	-	-	0:00:39.313000	0:00:43.446000
-und	und	CCONJ	-	0:00:43.446000	0:00:45.120000
-schon	schon	ADV	-	0:00:43.446000	0:00:45.120000
-nach	nach	ADP	-	0:00:43.446000	0:00:45.120000
-wenigen	wenig	DET	-	0:00:43.446000	0:00:45.120000
-Augenblicken	Augenblicken	NOUN	-	0:00:43.446000	0:00:45.120000
-zog	ziehen	VERB	-	0:00:45.120000	0:00:47.586000
-der	der	DET	-	0:00:45.120000	0:00:47.586000
-Wanderer	Wanderer	NOUN	-	0:00:45.120000	0:00:47.586000
-seinen	seinen	DET	-	0:00:45.120000	0:00:47.586000
-Mantel	Mantel	NOUN	-	0:00:45.120000	0:00:47.586000
-aus	aus	ADP	-	0:00:45.120000	0:00:47.586000
-.	-	-	-	0:00:45.120000	0:00:47.586000
-da	da	ADV	-	0:00:47.586000	0:00:49.693000
-musste	musste	VERB	-	0:00:47.586000	0:00:49.693000
-der	der	DET	-	0:00:47.586000	0:00:49.693000
-Nordwind	Nordwind	NOUN	-	0:00:47.586000	0:00:49.693000
-zugeben	zugeben	VERB	-	0:00:47.586000	0:00:49.693000
-,	-	-	-	0:00:47.586000	0:00:49.693000
-dass	dass	SCONJ	-	0:00:49.693000	0:00:53.233000
-die	der	DET	-	0:00:49.693000	0:00:53.233000
-Sonne	sonnen	NOUN	-	0:00:49.693000	0:00:53.233000
-von	von	ADP	-	0:00:49.693000	0:00:53.233000
-ihnen	ich	PRON	-	0:00:49.693000	0:00:53.233000
-beiden	beid	PRON	-	0:00:49.693000	0:00:53.233000
-der	der	DET	-	0:00:49.693000	0:00:53.233000
-Stärkere	Stärkere	NOUN	-	0:00:49.693000	0:00:53.233000
-war	sein	AUX	-	0:00:49.693000	0:00:53.233000
-.	-	-	-	0:00:49.693000	0:00:53.233000
+<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:06.240000" end="0:00:53.233000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+und	und	CCONJ	-	0:00:06.240000	0:00:08.046000	-	4094839
+Sonne	sonnen	NOUN	-	0:00:06.240000	0:00:08.046000	-	4094840
+einst	einen	ADV	-	0:00:08.046000	0:00:10.840000	-	4094842
+stritten	streiten	VERB	-	0:00:08.046000	0:00:10.840000	-	4094843
+sich	sich	PRON	-	0:00:08.046000	0:00:10.840000	-	4094844
+Nordwind	Nordwind	NOUN	-	0:00:08.046000	0:00:10.840000	-	4094845
+und	und	CCONJ	-	0:00:08.046000	0:00:10.840000	-	4094846
+Sonne	sonnen	NOUN	-	0:00:08.046000	0:00:10.840000	-	4094847
+,	-	-	-	0:00:08.046000	0:00:10.840000	-	4094848
+wer	wer	PRON	-	0:00:10.840000	0:00:13.973000	-	4094849
+von	von	ADP	-	0:00:10.840000	0:00:13.973000	-	4094850
+ihnen	ich	PRON	-	0:00:10.840000	0:00:13.973000	-	4094851
+beiden	beid	PRON	-	0:00:10.840000	0:00:13.973000	-	4094852
+wohl	wohl	ADV	-	0:00:10.840000	0:00:13.973000	-	4094853
+der	der	DET	-	0:00:10.840000	0:00:13.973000	-	4094854
+Stärkere	Stärkere	NOUN	-	0:00:10.840000	0:00:13.973000	-	4094855
+wäre	sein	AUX	-	0:00:10.840000	0:00:13.973000	-	4094856
+,	-	-	-	0:00:10.840000	0:00:13.973000	-	4094857
+als	als	ADP	-	0:00:13.973000	0:00:15.233000	-	4094858
+ein	einen	DET	-	0:00:13.973000	0:00:15.233000	-	4094859
+Wanderer	Wanderer	NOUN	-	0:00:13.973000	0:00:15.233000	-	4094860
+,	-	-	-	0:00:13.973000	0:00:15.233000	-	4094861
+der	der	PRON	-	0:00:15.233000	0:00:17.753000	-	4094862
+in	in	ADP	-	0:00:15.233000	0:00:17.753000	-	4094863
+einen	ein	DET	-	0:00:15.233000	0:00:17.753000	-	4094864
+warmen	warm	ADJ	-	0:00:15.233000	0:00:17.753000	-	4094865
+Mantel	Mantel	NOUN	-	0:00:15.233000	0:00:17.753000	-	4094866
+gehüllt	hüllen	VERB	-	0:00:15.233000	0:00:17.753000	-	4094867
+war	sein	AUX	-	0:00:15.233000	0:00:17.753000	-	4094868
+,	-	-	-	0:00:15.233000	0:00:17.753000	-	4094869
+des	der	DET	-	0:00:17.753000	0:00:19.620000	-	4094870
+Weges	Weg	NOUN	-	0:00:17.753000	0:00:19.620000	-	4094871
+daherkam	daherkommen	VERB	-	0:00:17.753000	0:00:19.620000	-	4094872
+.	-	-	-	0:00:17.753000	0:00:19.620000	-	4094873
+sie	ich	PRON	-	0:00:19.620000	0:00:21.080000	-	4094874
+wurden	werden	AUX	-	0:00:19.620000	0:00:21.080000	-	4094875
+einig	einigen	ADV	-	0:00:19.620000	0:00:21.080000	-	4094876
+,	-	-	-	0:00:19.620000	0:00:21.080000	-	4094877
+dass	dass	SCONJ	-	0:00:21.080000	0:00:24.260000	-	4094878
+derjenige	derjenige	PRON	-	0:00:21.080000	0:00:24.260000	-	4094879
+für	für	ADP	-	0:00:21.080000	0:00:24.260000	-	4094880
+den	der	DET	-	0:00:21.080000	0:00:24.260000	-	4094881
+Stärkeren	Stärkere	NOUN	-	0:00:21.080000	0:00:24.260000	-	4094882
+gelten	gelten	VERB	-	0:00:21.080000	0:00:24.260000	-	4094883
+sollte	sollen	AUX	-	0:00:21.080000	0:00:24.260000	-	4094884
+,	-	-	-	0:00:21.080000	0:00:24.260000	-	4094885
+der	der	PRON	-	0:00:24.260000	0:00:26.140000	-	4094886
+den	der	DET	-	0:00:24.260000	0:00:26.140000	-	4094887
+Wanderer	Wanderer	NOUN	-	0:00:24.260000	0:00:26.140000	-	4094888
+zwingen	zwingen	VERB	-	0:00:24.260000	0:00:26.140000	-	4094889
+würde	werden	AUX	-	0:00:24.260000	0:00:26.140000	-	4094890
+,	-	-	-	0:00:24.260000	0:00:26.140000	-	4094891
+seinen	seinen	DET	-	0:00:26.140000	0:00:28.140000	-	4094892
+Mantel	Mantel	NOUN	-	0:00:26.140000	0:00:28.140000	-	4094893
+abzunehmen	abnehmen	VERB	-	0:00:26.140000	0:00:28.140000	-	4094894
+.	-	-	-	0:00:26.140000	0:00:28.140000	-	4094895
+der	der	DET	-	0:00:28.140000	0:00:30.500000	-	4094896
+Nordwind	Nordwind	NOUN	-	0:00:28.140000	0:00:30.500000	-	4094897
+blies	blasen	VERB	-	0:00:28.140000	0:00:30.500000	-	4094898
+mit	mit	ADP	-	0:00:28.140000	0:00:30.500000	-	4094899
+aller	all	DET	-	0:00:28.140000	0:00:30.500000	-	4094900
+Macht	Macht	NOUN	-	0:00:28.140000	0:00:30.500000	-	4094901
+,	-	-	-	0:00:28.140000	0:00:30.500000	-	4094902
+aber	aber	CCONJ	-	0:00:30.500000	0:00:32.166000	-	4094903
+je	je	ADV	-	0:00:30.500000	0:00:32.166000	-	4094904
+mehr	mehr	ADV	-	0:00:30.500000	0:00:32.166000	-	4094905
+er	ich	PRON	-	0:00:30.500000	0:00:32.166000	-	4094906
+blies	blasen	VERB	-	0:00:30.500000	0:00:32.166000	-	4094907
+,	-	-	-	0:00:30.500000	0:00:32.166000	-	4094966
+desto	desto	ADV	-	0:00:32.166000	0:00:35.533000	-	4094908
+fester	fest	ADV	-	0:00:32.166000	0:00:35.533000	-	4094909
+hüllte	hüllen	VERB	-	0:00:32.166000	0:00:35.533000	-	4094910
+sich	sich	PRON	-	0:00:32.166000	0:00:35.533000	-	4094911
+der	der	DET	-	0:00:32.166000	0:00:35.533000	-	4094912
+Wanderer	Wanderer	NOUN	-	0:00:32.166000	0:00:35.533000	-	4094913
+in	in	ADP	-	0:00:32.166000	0:00:35.533000	-	4094914
+seinen	seinen	DET	-	0:00:32.166000	0:00:35.533000	-	4094915
+Mantel	Mantel	NOUN	-	0:00:32.166000	0:00:35.533000	-	4094916
+ein	einen	ADV	-	0:00:32.166000	0:00:35.533000	-	4094917
+.	-	-	-	0:00:32.166000	0:00:35.533000	-	4094918
+endlich	endlich	ADV	-	0:00:35.533000	0:00:39.313000	-	4094919
+gab	geben	VERB	-	0:00:35.533000	0:00:39.313000	-	4094920
+der	der	DET	-	0:00:35.533000	0:00:39.313000	-	4094921
+Nordwind	Nordwind	NOUN	-	0:00:35.533000	0:00:39.313000	-	4094922
+den	der	DET	-	0:00:35.533000	0:00:39.313000	-	4094923
+Kampf	Kampf	NOUN	-	0:00:35.533000	0:00:39.313000	-	4094924
+auf	auf	ADP	-	0:00:35.533000	0:00:39.313000	-	4094925
+.	-	-	-	0:00:35.533000	0:00:39.313000	-	4094926
+nun	nun	ADV	-	0:00:39.313000	0:00:43.446000	-	4094927
+erwärmte	erwärmen	VERB	-	0:00:39.313000	0:00:43.446000	-	4094928
+die	der	DET	-	0:00:39.313000	0:00:43.446000	-	4094929
+Sonne	sonnen	NOUN	-	0:00:39.313000	0:00:43.446000	-	4094930
+die	der	DET	-	0:00:39.313000	0:00:43.446000	-	4094931
+Luft	Luft	NOUN	-	0:00:39.313000	0:00:43.446000	-	4094932
+mit	mit	ADP	-	0:00:39.313000	0:00:43.446000	-	4094933
+ihren	mein	DET	-	0:00:39.313000	0:00:43.446000	-	4094934
+freundlichen	freundlich	ADJ	-	0:00:39.313000	0:00:43.446000	-	4094935
+Strahlen	Strahl	NOUN	-	0:00:39.313000	0:00:43.446000	-	4094936
+,	-	-	-	0:00:39.313000	0:00:43.446000	-	4094937
+und	und	CCONJ	-	0:00:43.446000	0:00:45.120000	-	4094938
+schon	schon	ADV	-	0:00:43.446000	0:00:45.120000	-	4094939
+nach	nach	ADP	-	0:00:43.446000	0:00:45.120000	-	4094940
+wenigen	wenig	DET	-	0:00:43.446000	0:00:45.120000	-	4094941
+Augenblicken	Augenblicken	NOUN	-	0:00:43.446000	0:00:45.120000	-	4094942
+zog	ziehen	VERB	-	0:00:45.120000	0:00:47.586000	-	4094943
+der	der	DET	-	0:00:45.120000	0:00:47.586000	-	4094944
+Wanderer	Wanderer	NOUN	-	0:00:45.120000	0:00:47.586000	-	4094945
+seinen	seinen	DET	-	0:00:45.120000	0:00:47.586000	-	4094946
+Mantel	Mantel	NOUN	-	0:00:45.120000	0:00:47.586000	-	4094947
+aus	aus	ADP	-	0:00:45.120000	0:00:47.586000	-	4094948
+.	-	-	-	0:00:45.120000	0:00:47.586000	-	4094949
+da	da	ADV	-	0:00:47.586000	0:00:49.693000	-	4094950
+musste	musste	VERB	-	0:00:47.586000	0:00:49.693000	-	4094951
+der	der	DET	-	0:00:47.586000	0:00:49.693000	-	4094952
+Nordwind	Nordwind	NOUN	-	0:00:47.586000	0:00:49.693000	-	4094953
+zugeben	zugeben	VERB	-	0:00:47.586000	0:00:49.693000	-	4094954
+,	-	-	-	0:00:47.586000	0:00:49.693000	-	4094955
+dass	dass	SCONJ	-	0:00:49.693000	0:00:53.233000	-	4094956
+die	der	DET	-	0:00:49.693000	0:00:53.233000	-	4094957
+Sonne	sonnen	NOUN	-	0:00:49.693000	0:00:53.233000	-	4094958
+von	von	ADP	-	0:00:49.693000	0:00:53.233000	-	4094959
+ihnen	ich	PRON	-	0:00:49.693000	0:00:53.233000	-	4094960
+beiden	beid	PRON	-	0:00:49.693000	0:00:53.233000	-	4094961
+der	der	DET	-	0:00:49.693000	0:00:53.233000	-	4094962
+Stärkere	Stärkere	NOUN	-	0:00:49.693000	0:00:53.233000	-	4094963
+war	sein	AUX	-	0:00:49.693000	0:00:53.233000	-	4094964
+.	-	-	-	0:00:49.693000	0:00:53.233000	-	4094965
 </u>
 </file>
 </doc>

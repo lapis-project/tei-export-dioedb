@@ -1,1139 +1,1139 @@
 <doc id="transcript_525" name="BKMS_416_AI" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="525.xml" title="Transcript: Transcript_525">
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:20.886000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:20.886000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:00:00" end="0:00:20.886000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:00:00" end="0:00:20.886000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:20.886000" end="0:00:22.846000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:20.886000" end="0:00:22.846000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:00:22.846000" end="0:01:08.673000" project="PP04" age_lower="65" age_upper="999">
-ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art- BKMSPräp Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+	0:00:23.513000	0:00:28.633000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:00:28.633000	0:00:30.273000
-ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:00:30.273000	0:00:34.093000
-ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:00:34.093000	0:00:36.166000
-ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:00:46.086000	0:00:48.233000
-#und	-	-	-	0:00:52.026000	0:00:54.533000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- BKMSPräp DirErg Erg Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer präpos+F	0:00:54.533000	0:00:56.353000
-#in	-	-	-	0:00:54.533000	0:00:56.353000
-ZAHL	ZAHL	-	-	0:01:00.066000	0:01:07.519000
-ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art- BKMSPräp Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+	0:01:00.066000	0:01:07.519000
-JA	-	-	-	0:01:07.519000	0:01:08.673000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:00:22.846000" end="0:01:08.673000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art- BKMSPräp Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+	0:00:23.513000	0:00:28.633000	ZAHL	4341062
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:00:28.633000	0:00:30.273000	ORT	4341068
+ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:00:30.273000	0:00:34.093000	ORT	4341076
+ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:00:34.093000	0:00:36.166000	ORT	4341087
+ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:00:46.086000	0:00:48.233000	ORT	4341121
+#und	-	-	-	0:00:52.026000	0:00:54.533000	-	4341137
+ORT	ORT	-	AdjKongr AdjKongr0 Art- BKMSPräp DirErg Erg Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer präpos+F	0:00:54.533000	0:00:56.353000	ORT	4341140
+#in	-	-	-	0:00:54.533000	0:00:56.353000	-	4341141
+ZAHL	ZAHL	-	-	0:01:00.066000	0:01:07.519000	ZAHL	4341159
+ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art- BKMSPräp Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+	0:01:00.066000	0:01:07.519000	ZAHL	4341163
+JA	-	-	-	0:01:07.519000	0:01:08.673000	-	4341167
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:08.673000" end="0:01:09.799000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:08.673000" end="0:01:09.799000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:09.533000" end="0:01:09.799000" project="PP04" age_lower="65" age_upper="999">
-(-)	-	-	-	0:01:09.533000	0:01:09.799000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:09.533000" end="0:01:09.799000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(-)	-	-	-	0:01:09.533000	0:01:09.799000	-	4341168
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:09.799000" end="0:01:14.699000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:09.799000" end="0:01:14.699000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:14.699000" end="0:01:17.533000" project="PP04" age_lower="65" age_upper="999">
-ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art- BKMSPräp Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+	0:01:14.699000	0:01:17.533000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:14.699000" end="0:01:17.533000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art- BKMSPräp Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+	0:01:14.699000	0:01:17.533000	ZAHL	4341171
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:17.533000" end="0:01:18.199000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:17.533000" end="0:01:18.199000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:18.199000" end="0:01:33.666000" project="PP04" age_lower="65" age_upper="999">
-(-)	-	-	-	0:01:20.906000	0:01:22.913000
-#fir	-	-	-	0:01:24.993000	0:01:27.139000
-(-)	-	-	-	0:01:28.686000	0:01:29.799000
-(-)	-	-	-	0:01:31.273000	0:01:33.666000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:18.199000" end="0:01:33.666000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(-)	-	-	-	0:01:20.906000	0:01:22.913000	-	4341187
+#fir	-	-	-	0:01:24.993000	0:01:27.139000	-	4341199
+(-)	-	-	-	0:01:28.686000	0:01:29.799000	-	4341208
+(-)	-	-	-	0:01:31.273000	0:01:33.666000	-	4341220
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:33.666000" end="0:01:34.366000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:33.666000" end="0:01:34.366000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:33.666000" end="0:01:37.586000" project="PP04" age_lower="65" age_upper="999">
-war	-	-	Art-F Art.F ArtVer BKMSArt KasTyp Kongr Kongr0 NPPräd NPVW reinKas	0:01:33.666000	0:01:34.366000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:01:35.579000	0:01:37.586000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:01:35.579000	0:01:37.586000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:33.666000" end="0:01:37.586000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+war	-	-	Art-F Art.F ArtVer BKMSArt KasTyp Kongr Kongr0 NPPräd NPVW reinKas	0:01:33.666000	0:01:34.366000	-	4341221
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:01:35.579000	0:01:37.586000	ORT	4341230
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:01:35.579000	0:01:37.586000	ORT	4341233
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:37.586000" end="0:01:45.419000" age_lower="1" age_upper="999">
-ORT	ORT	-	-	0:01:38.606000	0:01:45.006000
-kommen	-	-	-	0:01:38.606000	0:01:45.006000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:37.586000" end="0:01:45.419000" persName="Informant EXP19" age_lower="1" age_upper="999">
+ORT	ORT	-	-	0:01:38.606000	0:01:45.006000	ORT	4340685
+kommen	-	-	-	0:01:38.606000	0:01:45.006000	-	4340686
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:45.006000" end="0:01:48.045000" project="PP04" age_lower="65" age_upper="999">
-kamen	-	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp DirErg Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:01:45.006000	0:01:45.419000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp DirErg Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:01:45.419000	0:01:48.045000
-ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art+ Art.R ArtBest ArtVer BKMSArt BKMSPräp Dati KasTyp Kongr Kongr+ NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:01:45.419000	0:01:48.045000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:45.006000" end="0:01:48.045000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+kamen	-	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp DirErg Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:01:45.006000	0:01:45.419000	-	4341235
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp DirErg Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:01:45.419000	0:01:48.045000	ORT	4341237
+ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art+ Art.R ArtBest ArtVer BKMSArt BKMSPräp Dati KasTyp Kongr Kongr+ NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:01:45.419000	0:01:48.045000	ZAHL	4341240
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:48.045000" end="0:01:48.639000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:48.045000" end="0:01:48.639000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:48.639000" end="0:01:59.126000" project="PP04" age_lower="65" age_upper="999">
-(.)	-	-	-	0:01:50.979000	0:01:53.673000
-ORT	ORT	-	-	0:01:57.566000	0:01:59.126000
-ORT	ORT	-	-	0:01:57.566000	0:01:59.126000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:48.639000" end="0:01:59.126000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(.)	-	-	-	0:01:50.979000	0:01:53.673000	-	4341259
+ORT	ORT	-	-	0:01:57.566000	0:01:59.126000	ORT	4341274
+ORT	ORT	-	-	0:01:57.566000	0:01:59.126000	ORT	4341276
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:59.126000" end="0:01:59.598000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:59.126000" end="0:01:59.598000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:59.598000" end="0:02:16.433000" project="PP04" age_lower="65" age_upper="999">
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:01.346000	0:02:03.259000
-#und	-	-	-	0:02:03.259000	0:02:05.013000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:05.013000	0:02:06.406000
-#nach	-	-	-	0:02:06.406000	0:02:08.598000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp DirErg Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:02:08.598000	0:02:10.299000
-ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art- BKMSPräp Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+	0:02:13.619000	0:02:16.433000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:01:59.598000" end="0:02:16.433000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:01.346000	0:02:03.259000	ORT	4341287
+#und	-	-	-	0:02:03.259000	0:02:05.013000	-	4341293
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:05.013000	0:02:06.406000	ORT	4341297
+#nach	-	-	-	0:02:06.406000	0:02:08.598000	-	4341305
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp DirErg Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:02:08.598000	0:02:10.299000	ORT	4341306
+ZAHL	ZAHL	-	AdjKongr AdjKongr0 Ang AngTemp Art- BKMSPräp Kongr0 PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+	0:02:13.619000	0:02:16.433000	ZAHL	4341327
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:16.433000" end="0:02:16.993000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:16.433000" end="0:02:16.993000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:16.993000" end="0:02:32.339000" project="PP04" age_lower="65" age_upper="999">
-SONSTIGE	SONSTIGE	-	AdjKongr AdjKongr0 Art-F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:16.993000	0:02:21.593000
-SONSTIGE	SONSTIGE	-	AdjKongr AdjKongr0 Art-F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:16.993000	0:02:21.593000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer SitErg präpKas präpos+F	0:02:23.159000	0:02:29.379000
-(.)	-	-	-	0:02:29.379000	0:02:30.313000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:16.993000" end="0:02:32.339000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+SONSTIGE	SONSTIGE	-	AdjKongr AdjKongr0 Art-F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:16.993000	0:02:21.593000	SONSTIGE	4341337
+SONSTIGE	SONSTIGE	-	AdjKongr AdjKongr0 Art-F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:16.993000	0:02:21.593000	SONSTIGE	4341338
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer SitErg präpKas präpos+F	0:02:23.159000	0:02:29.379000	ORT	4341352
+(.)	-	-	-	0:02:29.379000	0:02:30.313000	-	4341363
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:32.339000" end="0:02:32.613000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:32.339000" end="0:02:32.613000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:32.339000" end="0:02:32.613000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:32.339000" end="0:02:32.613000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:32.613000" end="0:02:32.953000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:32.613000" end="0:02:32.953000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:32.613000" end="0:02:32.953000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:32.613000" end="0:02:32.953000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:32.953000" end="0:02:34.093000" age_lower="1" age_upper="999">
-ORT	ORT	-	-	0:02:32.953000	0:02:33.226000
-ORT	ORT	-	-	0:02:33.226000	0:02:34.093000
-SST	-	-	-	0:02:33.226000	0:02:34.093000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:32.953000" end="0:02:34.093000" persName="Informant EXP19" age_lower="1" age_upper="999">
+ORT	ORT	-	-	0:02:32.953000	0:02:33.226000	ORT	4340704
+ORT	ORT	-	-	0:02:33.226000	0:02:34.093000	ORT	4342407
+SST	-	-	-	0:02:33.226000	0:02:34.093000	-	4340706
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:33.226000" end="0:02:34.093000" project="PP04" age_lower="65" age_upper="999">
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp DirErg Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:02:33.226000	0:02:34.093000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:33.226000" end="0:02:34.093000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp DirErg Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:02:33.226000	0:02:34.093000	ORT	4341372
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:34.093000" end="0:02:34.773000" age_lower="1" age_upper="999">
-JA	-	-	-	0:02:34.093000	0:02:34.339000
-(-)	-	-	-	0:02:34.339000	0:02:34.773000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:34.093000" end="0:02:34.773000" persName="Informant EXP19" age_lower="1" age_upper="999">
+JA	-	-	-	0:02:34.093000	0:02:34.339000	-	4340707
+(-)	-	-	-	0:02:34.339000	0:02:34.773000	-	4340708
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:34.773000" end="0:02:35.153000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:34.773000" end="0:02:35.153000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:35.153000" end="0:02:35.839000" age_lower="1" age_upper="999">
-SCHÖN	-	-	-	0:02:35.153000	0:02:35.839000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:35.153000" end="0:02:35.839000" persName="Informant EXP19" age_lower="1" age_upper="999">
+SCHÖN	-	-	-	0:02:35.153000	0:02:35.839000	-	4340709
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:35.153000" end="0:02:35.839000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:35.153000" end="0:02:35.839000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:35.839000" end="0:02:43.626000" age_lower="1" age_upper="999">
-(-)	-	-	-	0:02:35.839000	0:02:36.406000
-#die:	-	-	-	0:02:36.406000	0:02:41.753000
-wohnen	-	-	-	0:02:41.753000	0:02:43.133000
-oder	-	-	-	0:02:43.133000	0:02:43.626000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:35.839000" end="0:02:43.626000" persName="Informant EXP19" age_lower="1" age_upper="999">
+(-)	-	-	-	0:02:35.839000	0:02:36.406000	-	4340710
+#die:	-	-	-	0:02:36.406000	0:02:41.753000	-	4340728
+wohnen	-	-	-	0:02:41.753000	0:02:43.133000	-	4340733
+oder	-	-	-	0:02:43.133000	0:02:43.626000	-	4342414
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:43.133000" end="0:02:43.626000" project="PP04" age_lower="65" age_upper="999">
-NEIN	-	-	-	0:02:43.133000	0:02:43.626000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:43.133000" end="0:02:43.626000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+NEIN	-	-	-	0:02:43.133000	0:02:43.626000	-	4341377
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:43.626000" end="0:02:44.406000" age_lower="1" age_upper="999">
-m_	-	-	-	0:02:43.626000	0:02:43.899000
-(1.5)	-	-	-	0:02:43.899000	0:02:44.406000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:43.626000" end="0:02:44.406000" persName="Informant EXP19" age_lower="1" age_upper="999">
+m_	-	-	-	0:02:43.626000	0:02:43.899000	-	4340734
+(1.5)	-	-	-	0:02:43.899000	0:02:44.406000	-	4340736
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:43.899000" end="0:02:56.146000" project="PP04" age_lower="65" age_upper="999">
-(-)	-	-	-	0:02:43.899000	0:02:44.406000
-#in	-	-	-	0:02:44.406000	0:02:47.279000
-ORT	ORT	-	AdjKongr AdjKongr0 Ang AngLok Art- Art.R Art0 ArtVer BKMSArt BKMSPräp KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:02:47.279000	0:02:48.546000
-ORT	ORT	-	AdjKongr AdjKongr0 Ang AngLok Art- Art.R Art0 ArtVer BKMSArt BKMSPräp KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:02:47.279000	0:02:48.546000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:48.546000	0:02:52.679000
-(--)	-	-	-	0:02:52.679000	0:02:53.253000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:43.899000" end="0:02:56.146000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(-)	-	-	-	0:02:43.899000	0:02:44.406000	-	4341378
+#in	-	-	-	0:02:44.406000	0:02:47.279000	-	4341386
+ORT	ORT	-	AdjKongr AdjKongr0 Ang AngLok Art- Art.R Art0 ArtVer BKMSArt BKMSPräp KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:02:47.279000	0:02:48.546000	ORT	4341387
+ORT	ORT	-	AdjKongr AdjKongr0 Ang AngLok Art- Art.R Art0 ArtVer BKMSArt BKMSPräp KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ präpKas	0:02:47.279000	0:02:48.546000	ORT	4341390
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:02:48.546000	0:02:52.679000	ORT	4341394
+(--)	-	-	-	0:02:52.679000	0:02:53.253000	-	4341404
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:56.146000" end="0:02:57.993000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:02:56.146000" end="0:02:57.993000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:57.993000" end="0:03:05.486000" project="PP04" age_lower="65" age_upper="999">
-(-)	-	-	-	0:03:00.219000	0:03:02.613000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:02:57.993000" end="0:03:05.486000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(-)	-	-	-	0:03:00.219000	0:03:02.613000	-	4341422
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:05.486000" end="0:03:09.639000" age_lower="1" age_upper="999">
-(-)	-	-	-	0:03:05.486000	0:03:06.499000
-(--)	-	-	-	0:03:06.499000	0:03:09.639000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:05.486000" end="0:03:09.639000" persName="Informant EXP19" age_lower="1" age_upper="999">
+(-)	-	-	-	0:03:05.486000	0:03:06.499000	-	4340742
+(--)	-	-	-	0:03:06.499000	0:03:09.639000	-	4340753
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:09.639000" end="0:03:11.273000" project="PP04" age_lower="65" age_upper="999">
-(--)	-	-	-	0:03:09.639000	0:03:11.273000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:09.639000" end="0:03:11.273000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(--)	-	-	-	0:03:09.639000	0:03:11.273000	-	4341440
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:11.273000" end="0:03:12.393000" age_lower="1" age_upper="999">
-(--)	-	-	-	0:03:11.273000	0:03:12.393000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:11.273000" end="0:03:12.393000" persName="Informant EXP19" age_lower="1" age_upper="999">
+(--)	-	-	-	0:03:11.273000	0:03:12.393000	-	4340755
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:11.273000" end="0:03:12.393000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:11.273000" end="0:03:12.393000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:12.393000" end="0:03:20.226000" age_lower="1" age_upper="999">
-#aiso	-	-	-	0:03:12.393000	0:03:17.493000
-(-)	-	-	-	0:03:17.493000	0:03:20.226000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:12.393000" end="0:03:20.226000" persName="Informant EXP19" age_lower="1" age_upper="999">
+#aiso	-	-	-	0:03:12.393000	0:03:17.493000	-	4340768
+(-)	-	-	-	0:03:17.493000	0:03:20.226000	-	4340776
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:20.226000" end="0:03:20.519000" project="PP04" age_lower="65" age_upper="999">
-JO	-	-	-	0:03:20.226000	0:03:20.519000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:20.226000" end="0:03:20.519000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+JO	-	-	-	0:03:20.226000	0:03:20.519000	-	4341445
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:20.519000" end="0:03:21.553000" age_lower="1" age_upper="999">
-leicht	-	-	-	0:03:20.519000	0:03:20.878000
-(-)	-	-	-	0:03:20.878000	0:03:21.553000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:20.519000" end="0:03:21.553000" persName="Informant EXP19" age_lower="1" age_upper="999">
+leicht	-	-	-	0:03:20.519000	0:03:20.878000	-	4340777
+(-)	-	-	-	0:03:20.878000	0:03:21.553000	-	4340778
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:20.878000" end="0:03:28.999000" project="PP04" age_lower="65" age_upper="999">
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:03:24.293000	0:03:26.978000
-(.)	-	-	-	0:03:26.978000	0:03:28.999000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:20.878000" end="0:03:28.999000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:03:24.293000	0:03:26.978000	ORT	4341456
+(.)	-	-	-	0:03:26.978000	0:03:28.999000	-	4341468
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:28.999000" end="0:03:29.639000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:28.999000" end="0:03:29.639000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:29.639000" end="0:03:45.266000" project="PP04" age_lower="65" age_upper="999">
-(.)	-	-	-	0:03:35.305000	0:03:38.099000
-#anscheinend	-	-	-	0:03:41.113000	0:03:42.226000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:29.639000" end="0:03:45.266000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(.)	-	-	-	0:03:35.305000	0:03:38.099000	-	4341489
+#anscheinend	-	-	-	0:03:41.113000	0:03:42.226000	-	4341500
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:45.266000" end="0:03:45.753000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:45.266000" end="0:03:45.753000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:45.753000" end="0:03:56.793000" project="PP04" age_lower="65" age_upper="999">
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:03:45.753000	0:03:50.619000
-ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:03:45.753000	0:03:50.619000
-(-)	-	-	-	0:03:50.619000	0:03:51.866000
-#natürlich	-	-	-	0:03:51.866000	0:03:54.019000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:45.753000" end="0:03:56.793000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:03:45.753000	0:03:50.619000	ORT	4341513
+ORT	ORT	-	AdjKongr AdjKongr0 Art- Art.R Art0 ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:03:45.753000	0:03:50.619000	ORT	4341516
+(-)	-	-	-	0:03:50.619000	0:03:51.866000	-	4341529
+#natürlich	-	-	-	0:03:51.866000	0:03:54.019000	-	4341533
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:56.793000" end="0:03:57.293000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:56.793000" end="0:03:57.293000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:57.293000" end="0:04:00.786000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:03:57.293000" end="0:04:00.786000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:00.786000" end="0:04:07.893000" age_lower="1" age_upper="999">
-(--)	-	-	-	0:04:00.786000	0:04:02.526000
-ORT	ORT	-	-	0:04:02.526000	0:04:07.893000
-(.)	-	-	-	0:04:02.526000	0:04:07.893000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:00.786000" end="0:04:07.893000" persName="Informant EXP19" age_lower="1" age_upper="999">
+(--)	-	-	-	0:04:00.786000	0:04:02.526000	-	4340792
+ORT	ORT	-	-	0:04:02.526000	0:04:07.893000	ORT	4340803
+(.)	-	-	-	0:04:02.526000	0:04:07.893000	-	4340804
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:07.893000" end="0:04:12.493000" project="PP04" age_lower="65" age_upper="999">
-(-)	-	-	-	0:04:09.373000	0:04:10.186000
-(.)	-	-	-	0:04:10.186000	0:04:12.493000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:07.893000" end="0:04:12.493000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(-)	-	-	-	0:04:09.373000	0:04:10.186000	-	4341564
+(.)	-	-	-	0:04:10.186000	0:04:12.493000	-	4341573
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:12.493000" end="0:04:18.805000" age_lower="1" age_upper="999">
-#äh	-	-	-	0:04:12.493000	0:04:13.426000
-#aiso	-	-	-	0:04:13.426000	0:04:14.478000
-#wieder	-	-	-	0:04:14.478000	0:04:17.119000
-ORT	ORT	-	-	0:04:17.119000	0:04:18.805000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:12.493000" end="0:04:18.805000" persName="Informant EXP19" age_lower="1" age_upper="999">
+#äh	-	-	-	0:04:12.493000	0:04:13.426000	-	4340807
+#aiso	-	-	-	0:04:13.426000	0:04:14.478000	-	4340810
+#wieder	-	-	-	0:04:14.478000	0:04:17.119000	-	4340817
+ORT	ORT	-	-	0:04:17.119000	0:04:18.805000	ORT	4340819
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:18.805000" end="0:04:23.406000" project="PP04" age_lower="65" age_upper="999">
-#SCHON	-	-	-	0:04:18.805000	0:04:19.452000
-(.)	-	-	-	0:04:19.452000	0:04:20.093000
-#i:	-	-	-	0:04:20.093000	0:04:21.286000
-ich	-	-	-	0:04:21.286000	0:04:23.406000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:18.805000" end="0:04:23.406000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+#SCHON	-	-	-	0:04:18.805000	0:04:19.452000	-	4341575
+(.)	-	-	-	0:04:19.452000	0:04:20.093000	-	4341576
+#i:	-	-	-	0:04:20.093000	0:04:21.286000	-	4341579
+ich	-	-	-	0:04:21.286000	0:04:23.406000	-	4341585
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:23.406000" end="0:04:24.106000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:23.406000" end="0:04:24.106000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:23.853000" end="0:04:41.313000" project="PP04" age_lower="65" age_upper="999">
-be	-	-	-	0:04:23.853000	0:04:24.106000
-mh::	-	-	-	0:04:24.106000	0:04:24.453000
-#heimat	-	-	-	0:04:24.453000	0:04:27.313000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:23.853000" end="0:04:41.313000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+be	-	-	-	0:04:23.853000	0:04:24.106000	-	4341586
+mh::	-	-	-	0:04:24.106000	0:04:24.453000	-	4341587
+#heimat	-	-	-	0:04:24.453000	0:04:27.313000	-	4341594
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:41.313000" end="0:04:42.306000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:41.313000" end="0:04:42.306000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:41.313000" end="0:04:43.379000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:41.313000" end="0:04:43.379000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:43.379000" end="0:04:43.619000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:43.379000" end="0:04:43.619000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:43.379000" end="0:04:43.619000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:43.379000" end="0:04:43.619000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:43.619000" end="0:04:45.279000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:43.619000" end="0:04:45.279000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:44.673000" end="0:04:45.279000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:44.673000" end="0:04:45.279000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:45.279000" end="0:04:46.013000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:45.279000" end="0:04:46.013000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:45.279000" end="0:04:46.013000" project="PP04" age_lower="65" age_upper="999">
-(.)	-	-	-	0:04:45.279000	0:04:46.013000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:45.279000" end="0:04:46.013000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(.)	-	-	-	0:04:45.279000	0:04:46.013000	-	4341649
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:46.013000" end="0:04:46.486000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:46.013000" end="0:04:46.486000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:46.013000" end="0:04:46.486000" project="PP04" age_lower="65" age_upper="999">
-u::h	-	-	-	0:04:46.013000	0:04:46.486000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:46.013000" end="0:04:46.486000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+u::h	-	-	-	0:04:46.013000	0:04:46.486000	-	4341651
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:46.486000" end="0:04:55.606000" age_lower="1" age_upper="999">
-#haben	-	-	-	0:04:46.486000	0:04:53.273000
-#HOBbys	-	-	-	0:04:53.273000	0:04:54.993000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:46.486000" end="0:04:55.606000" persName="Informant EXP19" age_lower="1" age_upper="999">
+#haben	-	-	-	0:04:46.486000	0:04:53.273000	-	4340846
+#HOBbys	-	-	-	0:04:53.273000	0:04:54.993000	-	4340851
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:54.993000" end="0:05:01.546000" project="PP04" age_lower="65" age_upper="999">
-(--)	-	-	-	0:04:54.993000	0:04:55.606000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:04:54.993000" end="0:05:01.546000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(--)	-	-	-	0:04:54.993000	0:04:55.606000	-	4342507
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:01.546000" end="0:05:04.106000" age_lower="1" age_upper="999">
-MANN	-	-	-	0:05:02.219000	0:05:04.106000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:01.546000" end="0:05:04.106000" persName="Informant EXP19" age_lower="1" age_upper="999">
+MANN	-	-	-	0:05:02.219000	0:05:04.106000	-	4340858
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:02.219000" end="0:05:04.106000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:02.219000" end="0:05:04.106000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:04.106000" end="0:05:05.326000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:04.106000" end="0:05:05.326000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:05.326000" end="0:05:05.506000" project="PP04" age_lower="65" age_upper="999">
-EH	-	-	-	0:05:05.326000	0:05:05.506000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:05.326000" end="0:05:05.506000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+EH	-	-	-	0:05:05.326000	0:05:05.506000	-	4341674
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:05.506000" end="0:05:07.766000" age_lower="1" age_upper="999">
-pen	-	-	-	0:05:05.506000	0:05:07.433000
-siON	-	-	-	0:05:07.433000	0:05:07.766000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:05.506000" end="0:05:07.766000" persName="Informant EXP19" age_lower="1" age_upper="999">
+pen	-	-	-	0:05:05.506000	0:05:07.433000	-	4340866
+siON	-	-	-	0:05:07.433000	0:05:07.766000	-	4342440
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:07.433000" end="0:05:07.766000" project="PP04" age_lower="65" age_upper="999">
-EH	-	-	-	0:05:07.433000	0:05:07.766000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:07.433000" end="0:05:07.766000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+EH	-	-	-	0:05:07.433000	0:05:07.766000	-	4341675
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:07.766000" end="0:05:08.253000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:07.766000" end="0:05:08.253000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:08.253000" end="0:05:08.573000" project="PP04" age_lower="65" age_upper="999">
-i:ch	-	-	-	0:05:08.253000	0:05:08.573000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:08.253000" end="0:05:08.573000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+i:ch	-	-	-	0:05:08.253000	0:05:08.573000	-	4341676
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:08.573000" end="0:05:09.146000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:08.573000" end="0:05:09.146000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:09.146000" end="0:05:43.746000" project="PP04" age_lower="65" age_upper="999">
-(.)	-	-	-	0:05:09.146000	0:05:13.913000
-(-)	-	-	-	0:05:29.779000	0:05:30.433000
-(-)	-	-	-	0:05:30.433000	0:05:34.966000
-(.)	-	-	-	0:05:34.966000	0:05:38.406000
-(-)	-	-	-	0:05:38.406000	0:05:39.319000
-#das	-	-	-	0:05:39.319000	0:05:40.926000
-(-)	-	-	-	0:05:40.926000	0:05:41.939000
-(.)	-	-	-	0:05:41.939000	0:05:42.506000
-(--)	-	-	-	0:05:42.506000	0:05:43.746000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:09.146000" end="0:05:43.746000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(.)	-	-	-	0:05:09.146000	0:05:13.913000	-	4341687
+(-)	-	-	-	0:05:29.779000	0:05:30.433000	-	4341728
+(-)	-	-	-	0:05:30.433000	0:05:34.966000	-	4341742
+(.)	-	-	-	0:05:34.966000	0:05:38.406000	-	4341753
+(-)	-	-	-	0:05:38.406000	0:05:39.319000	-	4341757
+#das	-	-	-	0:05:39.319000	0:05:40.926000	-	4341762
+(-)	-	-	-	0:05:40.926000	0:05:41.939000	-	4341766
+(.)	-	-	-	0:05:41.939000	0:05:42.506000	-	4341768
+(--)	-	-	-	0:05:42.506000	0:05:43.746000	-	4341774
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:43.746000" end="0:05:48.299000" age_lower="1" age_upper="999">
-und	-	-	-	0:05:43.746000	0:05:44.973000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:43.746000" end="0:05:48.299000" persName="Informant EXP19" age_lower="1" age_upper="999">
+und	-	-	-	0:05:43.746000	0:05:44.973000	-	4340872
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:48.299000" end="0:05:50.706000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:48.299000" end="0:05:50.706000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:50.706000" end="0:05:51.199000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:50.706000" end="0:05:51.199000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:51.199000" end="0:06:07.853000" project="PP04" age_lower="65" age_upper="999">
-fir	-	-	-	0:05:52.446000	0:05:55.719000
-#was	-	-	-	0:05:55.719000	0:05:59.239000
-(-)	-	-	-	0:05:59.239000	0:06:01.799000
-(-)	-	-	-	0:06:01.799000	0:06:04.866000
-JA	-	-	-	0:06:04.866000	0:06:07.446000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:05:51.199000" end="0:06:07.853000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+fir	-	-	-	0:05:52.446000	0:05:55.719000	-	4341791
+#was	-	-	-	0:05:55.719000	0:05:59.239000	-	4341800
+(-)	-	-	-	0:05:59.239000	0:06:01.799000	-	4341806
+(-)	-	-	-	0:06:01.799000	0:06:04.866000	-	4341815
+JA	-	-	-	0:06:04.866000	0:06:07.446000	-	4341820
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:07.853000" end="0:06:09.179000" age_lower="1" age_upper="999">
-(---)	-	-	-	0:06:07.853000	0:06:09.179000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:07.853000" end="0:06:09.179000" persName="Informant EXP19" age_lower="1" age_upper="999">
+(---)	-	-	-	0:06:07.853000	0:06:09.179000	-	4340893
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:07.853000" end="0:06:09.606000" project="PP04" age_lower="65" age_upper="999">
-was	-	-	-	0:06:07.853000	0:06:09.179000
-(.)	-	-	-	0:06:09.179000	0:06:09.606000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:07.853000" end="0:06:09.606000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+was	-	-	-	0:06:07.853000	0:06:09.179000	-	4341825
+(.)	-	-	-	0:06:09.179000	0:06:09.606000	-	4341826
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:09.606000" end="0:06:10.839000" age_lower="1" age_upper="999">
-(---)	-	-	-	0:06:09.606000	0:06:10.839000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:09.606000" end="0:06:10.839000" persName="Informant EXP19" age_lower="1" age_upper="999">
+(---)	-	-	-	0:06:09.606000	0:06:10.839000	-	4340895
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:10.839000" end="0:06:12.933000" project="PP04" age_lower="65" age_upper="999">
-#ehrlich	-	-	-	0:06:10.839000	0:06:12.006000
-(.)	-	-	-	0:06:12.006000	0:06:12.933000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:10.839000" end="0:06:12.933000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+#ehrlich	-	-	-	0:06:10.839000	0:06:12.006000	-	4341831
+(.)	-	-	-	0:06:12.006000	0:06:12.933000	-	4341833
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:12.933000" end="0:06:20.726000" age_lower="1" age_upper="999">
-#äh	-	-	-	0:06:12.933000	0:06:14.026000
-#und	-	-	-	0:06:14.026000	0:06:14.819000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:12.933000" end="0:06:20.726000" persName="Informant EXP19" age_lower="1" age_upper="999">
+#äh	-	-	-	0:06:12.933000	0:06:14.026000	-	4340897
+#und	-	-	-	0:06:14.026000	0:06:14.819000	-	4340900
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:20.726000" end="0:06:23.733000" project="PP04" age_lower="65" age_upper="999">
-(.)	-	-	-	0:06:20.726000	0:06:22.326000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:20.726000" end="0:06:23.733000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(.)	-	-	-	0:06:20.726000	0:06:22.326000	-	4341837
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:23.733000" end="0:06:24.519000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:23.733000" end="0:06:24.519000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:23.733000" end="0:06:30.186000" project="PP04" age_lower="65" age_upper="999">
-blüte	-	-	-	0:06:23.733000	0:06:24.519000
-es	-	-	-	0:06:24.519000	0:06:25.773000
-(---)	-	-	-	0:06:25.773000	0:06:26.913000
-(.)	-	-	-	0:06:26.913000	0:06:28.233000
-(-)	-	-	-	0:06:28.233000	0:06:30.186000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:23.733000" end="0:06:30.186000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+blüte	-	-	-	0:06:23.733000	0:06:24.519000	-	4341843
+es	-	-	-	0:06:24.519000	0:06:25.773000	-	4341845
+(---)	-	-	-	0:06:25.773000	0:06:26.913000	-	4341849
+(.)	-	-	-	0:06:26.913000	0:06:28.233000	-	4341852
+(-)	-	-	-	0:06:28.233000	0:06:30.186000	-	4341858
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:30.186000" end="0:06:30.959000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:30.186000" end="0:06:30.959000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:30.186000" end="0:06:47.339000" project="PP04" age_lower="65" age_upper="999">
-be	-	-	-	0:06:30.186000	0:06:30.959000
-(.)	-	-	-	0:06:30.959000	0:06:33.706000
-#im	-	-	-	0:06:33.706000	0:06:37.299000
-#das	-	-	-	0:06:37.299000	0:06:38.086000
-aber	-	-	-	0:06:38.086000	0:06:39.753000
-(-)	-	-	-	0:06:39.753000	0:06:41.113000
-(.)	-	-	-	0:06:44.339000	0:06:46.406000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:30.186000" end="0:06:47.339000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+be	-	-	-	0:06:30.186000	0:06:30.959000	-	4341860
+(.)	-	-	-	0:06:30.959000	0:06:33.706000	-	4341867
+#im	-	-	-	0:06:33.706000	0:06:37.299000	-	4341874
+#das	-	-	-	0:06:37.299000	0:06:38.086000	-	4341876
+aber	-	-	-	0:06:38.086000	0:06:39.753000	-	4341883
+(-)	-	-	-	0:06:39.753000	0:06:41.113000	-	4341888
+(.)	-	-	-	0:06:44.339000	0:06:46.406000	-	4341904
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:47.339000" end="0:06:47.859000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:47.339000" end="0:06:47.859000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:47.859000" end="0:06:52.006000" project="PP04" age_lower="65" age_upper="999">
-(.)	-	-	-	0:06:47.859000	0:06:50.286000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:47.859000" end="0:06:52.006000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(.)	-	-	-	0:06:47.859000	0:06:50.286000	-	4341916
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:52.006000" end="0:06:53.613000" age_lower="1" age_upper="999">
-N	-	-	-	0:06:52.006000	0:06:53.386000
-(1.1)	-	-	-	0:06:53.386000	0:06:53.613000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:52.006000" end="0:06:53.613000" persName="Informant EXP19" age_lower="1" age_upper="999">
+N	-	-	-	0:06:52.006000	0:06:53.386000	-	4340926
+(1.1)	-	-	-	0:06:53.386000	0:06:53.613000	-	4340927
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:53.386000" end="0:06:54.593000" project="PP04" age_lower="65" age_upper="999">
-wo	-	-	-	0:06:53.386000	0:06:53.613000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:06:53.386000" end="0:06:54.593000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+wo	-	-	-	0:06:53.386000	0:06:53.613000	-	4341923
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:54.593000" end="0:07:02.493000" age_lower="1" age_upper="999">
-#aiso	-	-	-	0:06:54.593000	0:06:58.793000
-(.)	-	-	-	0:07:00.946000	0:07:02.493000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:54.593000" end="0:07:02.493000" persName="Informant EXP19" age_lower="1" age_upper="999">
+#aiso	-	-	-	0:06:54.593000	0:06:58.793000	-	4340936
+(.)	-	-	-	0:07:00.946000	0:07:02.493000	-	4340947
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:02.493000" end="0:07:12.633000" project="PP04" age_lower="65" age_upper="999">
-#weil	-	-	-	0:07:02.493000	0:07:03.686000
-#das	-	-	-	0:07:08.839000	0:07:11.093000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:02.493000" end="0:07:12.633000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+#weil	-	-	-	0:07:02.493000	0:07:03.686000	-	4341930
+#das	-	-	-	0:07:08.839000	0:07:11.093000	-	4341952
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:12.633000" end="0:07:13.106000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:12.633000" end="0:07:13.106000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:13.106000" end="0:07:19.099000" project="PP04" age_lower="65" age_upper="999">
-#er	-	-	-	0:07:13.106000	0:07:15.466000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:13.106000" end="0:07:19.099000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+#er	-	-	-	0:07:13.106000	0:07:15.466000	-	4341967
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:19.099000" end="0:07:19.579000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:19.099000" end="0:07:19.579000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:19.579000" end="0:07:35.886000" project="PP04" age_lower="65" age_upper="999">
-#dass	-	-	-	0:07:19.579000	0:07:22.726000
-zum	-	-	-	0:07:22.726000	0:07:24.246000
-#schön	-	-	-	0:07:24.993000	0:07:26.413000
-(.)	-	-	-	0:07:26.413000	0:07:28.233000
-(--)	-	-	-	0:07:28.233000	0:07:29.959000
-(-)	-	-	-	0:07:33.933000	0:07:35.886000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:19.579000" end="0:07:35.886000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+#dass	-	-	-	0:07:19.579000	0:07:22.726000	-	4341988
+zum	-	-	-	0:07:22.726000	0:07:24.246000	-	4341992
+#schön	-	-	-	0:07:24.993000	0:07:26.413000	-	4341997
+(.)	-	-	-	0:07:26.413000	0:07:28.233000	-	4342001
+(--)	-	-	-	0:07:28.233000	0:07:29.959000	-	4342006
+(-)	-	-	-	0:07:33.933000	0:07:35.886000	-	4342024
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:35.886000" end="0:07:36.673000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:35.886000" end="0:07:36.673000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:35.886000" end="0:07:46.166000" project="PP04" age_lower="65" age_upper="999">
-leben	-	-	Art.R ArtBest ArtVer BKMSArt KasTyp Kongr Kongr+ NPRef NPVW reinKas	0:07:35.886000	0:07:36.673000
-(---)	-	-	-	0:07:36.673000	0:07:37.919000
-#ganz	-	-	-	0:07:41.486000	0:07:43.086000
-JA	-	-	-	0:07:43.086000	0:07:45.986000
-m_	-	-	-	0:07:45.986000	0:07:46.166000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:35.886000" end="0:07:46.166000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+leben	-	-	Art.R ArtBest ArtVer BKMSArt KasTyp Kongr Kongr+ NPRef NPVW reinKas	0:07:35.886000	0:07:36.673000	-	4342026
+(---)	-	-	-	0:07:36.673000	0:07:37.919000	-	4342029
+#ganz	-	-	-	0:07:41.486000	0:07:43.086000	-	4342045
+JA	-	-	-	0:07:43.086000	0:07:45.986000	-	4342052
+m_	-	-	-	0:07:45.986000	0:07:46.166000	-	4342053
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:46.166000" end="0:07:46.899000" age_lower="1" age_upper="999">
-(---)	-	-	-	0:07:46.166000	0:07:46.899000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:46.166000" end="0:07:46.899000" persName="Informant EXP19" age_lower="1" age_upper="999">
+(---)	-	-	-	0:07:46.166000	0:07:46.899000	-	4340962
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:46.899000" end="0:07:47.446000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:46.899000" end="0:07:47.446000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:47.446000" end="0:07:53.253000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:47.446000" end="0:07:53.253000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:53.253000" end="0:07:58.506000" project="PP04" age_lower="65" age_upper="999">
-(.)	-	-	-	0:07:53.253000	0:07:55.832000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:53.253000" end="0:07:58.506000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(.)	-	-	-	0:07:53.253000	0:07:55.832000	-	4342062
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:58.506000" end="0:07:59.226000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:58.506000" end="0:07:59.226000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:58.506000" end="0:08:04.919000" project="PP04" age_lower="65" age_upper="999">
-beRUFlich	-	-	-	0:07:58.506000	0:07:59.226000
-#kann	-	-	-	0:08:01.513000	0:08:03.299000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:07:58.506000" end="0:08:04.919000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+beRUFlich	-	-	-	0:07:58.506000	0:07:59.226000	-	4342075
+#kann	-	-	-	0:08:01.513000	0:08:03.299000	-	4342089
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:04.919000" end="0:08:05.373000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:04.919000" end="0:08:05.373000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:05.373000" end="0:08:24.939000" project="PP04" age_lower="65" age_upper="999">
-#spaZIERgänge	-	-	-	0:08:05.373000	0:08:09.146000
-#ich	-	-	-	0:08:09.146000	0:08:10.206000
-#was	-	-	-	0:08:15.933000	0:08:17.613000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:05.373000" end="0:08:24.939000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+#spaZIERgänge	-	-	-	0:08:05.373000	0:08:09.146000	-	4342106
+#ich	-	-	-	0:08:09.146000	0:08:10.206000	-	4342107
+#was	-	-	-	0:08:15.933000	0:08:17.613000	-	4342132
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:24.939000" end="0:08:25.439000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:24.939000" end="0:08:25.439000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:25.439000" end="0:08:35.113000" project="PP04" age_lower="65" age_upper="999">
-#mach_	-	-	-	0:08:29.793000	0:08:31.766000
-(.)	-	-	-	0:08:33.385000	0:08:33.786000
-JA	-	-	-	0:08:33.786000	0:08:35.113000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:25.439000" end="0:08:35.113000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+#mach_	-	-	-	0:08:29.793000	0:08:31.766000	-	4342174
+(.)	-	-	-	0:08:33.385000	0:08:33.786000	-	4342181
+JA	-	-	-	0:08:33.786000	0:08:35.113000	-	4342186
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:35.113000" end="0:08:36.219000" age_lower="1" age_upper="999">
-(.)	-	-	-	0:08:35.113000	0:08:36.219000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:35.113000" end="0:08:36.219000" persName="Informant EXP19" age_lower="1" age_upper="999">
+(.)	-	-	-	0:08:35.113000	0:08:36.219000	-	4340991
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:36.219000" end="0:08:36.679000" project="PP04" age_lower="65" age_upper="999">
-(.)	-	-	-	0:08:36.219000	0:08:36.679000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:36.219000" end="0:08:36.679000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+(.)	-	-	-	0:08:36.219000	0:08:36.679000	-	4342187
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:36.679000" end="0:08:38.558000" age_lower="1" age_upper="999">
-(-)	-	-	-	0:08:36.679000	0:08:38.558000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:36.679000" end="0:08:38.558000" persName="Informant EXP19" age_lower="1" age_upper="999">
+(-)	-	-	-	0:08:36.679000	0:08:38.558000	-	4340997
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:38.558000" end="0:08:51.226000" project="PP04" age_lower="65" age_upper="999">
-äh	-	-	-	0:08:41.053000	0:08:42.852000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:38.558000" end="0:08:51.226000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+äh	-	-	-	0:08:41.053000	0:08:42.852000	-	4342201
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:51.226000" end="0:08:51.746000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:51.226000" end="0:08:51.746000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:51.746000" end="0:09:24.726000" project="PP04" age_lower="65" age_upper="999">
-#die	-	-	-	0:08:51.746000	0:08:53.399000
-(-)	-	-	-	0:09:15.133000	0:09:15.953000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:08:51.746000" end="0:09:24.726000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+#die	-	-	-	0:08:51.746000	0:08:53.399000	-	4342233
+(-)	-	-	-	0:09:15.133000	0:09:15.953000	-	4342297
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:24.726000" end="0:09:25.579000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:24.726000" end="0:09:25.579000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:24.726000" end="0:09:36.699000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:24.726000" end="0:09:36.699000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:36.699000" end="0:09:38.266000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:36.699000" end="0:09:38.266000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:36.699000" end="0:09:44.399000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:36.699000" end="0:09:44.399000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:44.399000" end="0:09:45.086000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:44.399000" end="0:09:45.086000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:44.399000" end="0:09:45.086000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:44.399000" end="0:09:45.086000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:45.086000" end="0:09:46.579000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:45.086000" end="0:09:46.579000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:45.086000" end="0:09:47.759000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:45.086000" end="0:09:47.759000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:47.759000" end="0:09:48.606000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:47.759000" end="0:09:48.606000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:47.999000" end="0:09:49.399000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:47.999000" end="0:09:49.399000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:49.399000" end="0:10:00.366000" age_lower="1" age_upper="999">
-ORT	ORT	-	-	0:09:51.499000	0:09:53.366000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:49.399000" end="0:10:00.366000" persName="Informant EXP19" age_lower="1" age_upper="999">
+ORT	ORT	-	-	0:09:51.499000	0:09:53.366000	ORT	4341027
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:59.306000" end="0:10:00.366000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:09:59.306000" end="0:10:00.366000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:00.366000" end="0:10:02.473000" age_lower="1" age_upper="999">
-ORT	ORT	-	-	0:10:00.366000	0:10:02.473000
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:00.366000" end="0:10:02.473000" persName="Informant EXP19" age_lower="1" age_upper="999">
+ORT	ORT	-	-	0:10:00.366000	0:10:02.473000	ORT	4341050
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:02.473000" end="0:10:09.985000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:02.473000" end="0:10:09.985000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:09.985000" end="0:10:10.780000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:09.985000" end="0:10:10.780000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:10.525000" end="0:10:15.310000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:10.525000" end="0:10:15.310000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:15.310000" end="0:10:15.680000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:15.310000" end="0:10:15.680000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:15.680000" end="0:10:48.070000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:15.680000" end="0:10:48.070000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:48.070000" end="0:10:48.990000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:48.070000" end="0:10:48.990000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:48.990000" end="0:10:51.990000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:48.990000" end="0:10:51.990000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:51.990000" end="0:10:52.625000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:51.990000" end="0:10:52.625000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:51.990000" end="0:11:01.485000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:10:51.990000" end="0:11:01.485000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:01.485000" end="0:11:03.214000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:01.485000" end="0:11:03.214000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:03.215000" end="0:11:04.135000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:03.215000" end="0:11:04.135000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:04.135000" end="0:11:10.985000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:04.135000" end="0:11:10.985000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:10.985000" end="0:11:11.935000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:10.985000" end="0:11:11.935000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:11.935000" end="0:11:12.820000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:11.935000" end="0:11:12.820000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:11.935000" end="0:11:12.820000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:11.935000" end="0:11:12.820000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:12.820000" end="0:11:15.605000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:12.820000" end="0:11:15.605000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:15.605000" end="0:11:28.245000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:15.605000" end="0:11:28.245000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:28.245000" end="0:11:28.855000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:28.245000" end="0:11:28.855000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:28.590000" end="0:11:42.060000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:28.590000" end="0:11:42.060000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:42.060000" end="0:11:44.800000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:42.060000" end="0:11:44.800000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:44.800000" end="0:11:55.545000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:44.800000" end="0:11:55.545000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:55.545000" end="0:11:56.675000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:55.545000" end="0:11:56.675000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:56.675000" end="0:12:00.305000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:11:56.675000" end="0:12:00.305000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:00.305000" end="0:12:01.260000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:00.305000" end="0:12:01.260000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:00.305000" end="0:12:04.905000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:00.305000" end="0:12:04.905000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:04.905000" end="0:12:05.830000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:04.905000" end="0:12:05.830000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:05.830000" end="0:12:06.985000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:05.830000" end="0:12:06.985000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:06.985000" end="0:12:09.985000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:06.985000" end="0:12:09.985000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:09.665000" end="0:12:09.985000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:09.665000" end="0:12:09.985000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:09.985000" end="0:12:10.855000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:09.985000" end="0:12:10.855000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:10.470000" end="0:12:10.855000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:10.470000" end="0:12:10.855000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:10.855000" end="0:12:12.890000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:10.855000" end="0:12:12.890000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:11.345000" end="0:12:12.890000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:11.345000" end="0:12:12.890000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:12.890000" end="0:12:13.770000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:12.890000" end="0:12:13.770000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:13.770000" end="0:12:45.420000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:13.770000" end="0:12:45.420000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:45.420000" end="0:12:45.720000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:45.420000" end="0:12:45.720000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:45.720000" end="0:12:48.260000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:45.720000" end="0:12:48.260000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:48.260000" end="0:12:49.095000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:48.260000" end="0:12:49.095000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:48.260000" end="0:12:49.095000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:48.260000" end="0:12:49.095000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:49.095000" end="0:12:49.730000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:49.095000" end="0:12:49.730000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:49.095000" end="0:12:53.505000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:49.095000" end="0:12:53.505000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:53.505000" end="0:12:54.470000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:53.505000" end="0:12:54.470000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:53.505000" end="0:12:54.975000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:53.505000" end="0:12:54.975000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:54.975000" end="0:12:55.575000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:54.975000" end="0:12:55.575000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:54.975000" end="0:12:55.575000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:54.975000" end="0:12:55.575000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:55.575000" end="0:12:57.700000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:55.575000" end="0:12:57.700000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:57.702000" end="0:12:58.720000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:57.702000" end="0:12:58.720000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:58.720000" end="0:12:59.550000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:58.720000" end="0:12:59.550000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:58.720000" end="0:13:20.670000" project="PP04" age_lower="65" age_upper="999">
-ZAHL	ZAHL	-	AdjKongr AdjKongr- Ang AngTemp Art- Art.R ArtBest ArtVer BKMSArt BKMSPräp KasTyp Kongr Kongr- Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ reinKas	0:13:04.805000	0:13:08.225000
-ZAHL	ZAHL	-	AdjKongr AdjKongr- Ang AngTemp Art- Art.R ArtBest ArtVer BKMSArt BKMSPräp KasTyp Kongr Kongr- Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ reinKas	0:13:04.805000	0:13:08.225000
-ZAHL	ZAHL	-	-	0:13:08.225000	0:13:09.140000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:12:58.720000" end="0:13:20.670000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ZAHL	ZAHL	-	AdjKongr AdjKongr- Ang AngTemp Art- Art.R ArtBest ArtVer BKMSArt BKMSPräp KasTyp Kongr Kongr- Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ reinKas	0:13:04.805000	0:13:08.225000	ZAHL	4344560
+ZAHL	ZAHL	-	AdjKongr AdjKongr- Ang AngTemp Art- Art.R ArtBest ArtVer BKMSArt BKMSPräp KasTyp Kongr Kongr- Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ reinKas	0:13:04.805000	0:13:08.225000	ZAHL	4344561
+ZAHL	ZAHL	-	-	0:13:08.225000	0:13:09.140000	ZAHL	4344566
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:20.670000" end="0:13:20.975000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:20.670000" end="0:13:20.975000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:20.670000" end="0:13:25.350000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:20.670000" end="0:13:25.350000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:25.350000" end="0:13:26.025000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:25.350000" end="0:13:26.025000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:25.350000" end="0:13:29.675000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:25.350000" end="0:13:29.675000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:29.675000" end="0:13:34.965000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:29.675000" end="0:13:34.965000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:34.505000" end="0:13:34.965000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:34.505000" end="0:13:34.965000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:34.965000" end="0:13:35.560000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:34.965000" end="0:13:35.560000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:35.060000" end="0:13:37.115000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:35.060000" end="0:13:37.115000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:37.115000" end="0:13:37.955000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:37.115000" end="0:13:37.955000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:37.115000" end="0:13:37.955000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:37.115000" end="0:13:37.955000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:37.955000" end="0:13:41.625000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:37.955000" end="0:13:41.625000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:41.625000" end="0:14:00.825000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:13:41.625000" end="0:14:00.825000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:00.825000" end="0:14:01.420000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:00.825000" end="0:14:01.420000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:01.235000" end="0:14:08.370000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:01.235000" end="0:14:08.370000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:08.370000" end="0:14:09.130000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:08.370000" end="0:14:09.130000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:09.130000" end="0:14:18.455000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:09.130000" end="0:14:18.455000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:18.455000" end="0:14:18.970000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:18.455000" end="0:14:18.970000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:18.970000" end="0:14:23.990000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:18.970000" end="0:14:23.990000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:23.990000" end="0:14:24.410000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:23.990000" end="0:14:24.410000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:24.410000" end="0:14:28.485000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:24.410000" end="0:14:28.485000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:28.485000" end="0:14:29.130000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:28.485000" end="0:14:29.130000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:29.130000" end="0:14:32.905000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:29.130000" end="0:14:32.905000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:32.905000" end="0:14:33.570000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:32.905000" end="0:14:33.570000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:33.570000" end="0:14:38.190000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:33.570000" end="0:14:38.190000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:38.190000" end="0:14:40.820000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:38.190000" end="0:14:40.820000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:40.820000" end="0:14:43.379000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:40.820000" end="0:14:43.379000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:43.380000" end="0:14:43.709000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:43.380000" end="0:14:43.709000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:43.560000" end="0:15:28.770000" project="PP04" age_lower="65" age_upper="999">
-ORT	ORT	-	-	0:14:57.380000	0:14:58.764000
-ORT	ORT	-	-	0:14:58.765000	0:15:00.570000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:14:43.560000" end="0:15:28.770000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ORT	ORT	-	-	0:14:57.380000	0:14:58.764000	ORT	4353169
+ORT	ORT	-	-	0:14:58.765000	0:15:00.570000	ORT	4353170
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:28.770000" end="0:15:29.550000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:28.770000" end="0:15:29.550000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:15:29.550000" end="0:15:51.005000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:15:29.550000" end="0:15:51.005000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:51.005000" end="0:15:51.560000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:51.005000" end="0:15:51.560000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:15:51.005000" end="0:15:53.930000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:15:51.005000" end="0:15:53.930000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:53.930000" end="0:15:54.690000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:53.930000" end="0:15:54.690000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:15:54.690000" end="0:15:56.570000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:15:54.690000" end="0:15:56.570000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:56.570000" end="0:15:57.030000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:56.570000" end="0:15:57.030000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:15:56.570000" end="0:16:00.770000" project="PP04" age_lower="65" age_upper="999">
-ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:15:56.570000	0:15:57.030000
-ORT	ORT	-	-	0:15:57.030000	0:15:58.245000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:15:56.570000" end="0:16:00.770000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:15:56.570000	0:15:57.030000	ORT	4347249
+ORT	ORT	-	-	0:15:57.030000	0:15:58.245000	ORT	4347295
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:00.770000" end="0:16:01.615000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:00.770000" end="0:16:01.615000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:01.615000" end="0:16:14.760000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:01.615000" end="0:16:14.760000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:14.760000" end="0:16:16.485000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:14.760000" end="0:16:16.485000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:16.485000" end="0:16:39.020000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:16.485000" end="0:16:39.020000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:39.020000" end="0:16:39.865000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:39.020000" end="0:16:39.865000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:39.865000" end="0:16:43.825000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:39.865000" end="0:16:43.825000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:43.825000" end="0:16:44.890000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:43.825000" end="0:16:44.890000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:44.890000" end="0:16:45.500000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:44.890000" end="0:16:45.500000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:45.500000" end="0:16:54.159000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:45.500000" end="0:16:54.159000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:54.160000" end="0:17:01.500000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:16:54.160000" end="0:17:01.500000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:01.500000" end="0:17:01.860000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:01.500000" end="0:17:01.860000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:17:01.860000" end="0:17:50.160000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:17:01.860000" end="0:17:50.160000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:50.160000" end="0:17:50.720000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:50.160000" end="0:17:50.720000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:17:50.520000" end="0:18:04.965000" project="PP04" age_lower="65" age_upper="999">
-ZAHL	ZAHL	-	-	0:18:02.305000	0:18:04.965000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:17:50.520000" end="0:18:04.965000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ZAHL	ZAHL	-	-	0:18:02.305000	0:18:04.965000	ZAHL	4347852
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:04.965000" end="0:18:05.345000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:04.965000" end="0:18:05.345000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:05.345000" end="0:18:08.625000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:05.345000" end="0:18:08.625000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:08.625000" end="0:18:09.030000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:08.625000" end="0:18:09.030000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:08.625000" end="0:18:28.225000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:08.625000" end="0:18:28.225000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:28.225000" end="0:18:29.045000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:28.225000" end="0:18:29.045000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:28.735000" end="0:18:43.790000" project="PP04" age_lower="65" age_upper="999">
-ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:18:41.315000	0:18:42
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:28.735000" end="0:18:43.790000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ORT	ORT	-	AdjKongr AdjKongr0 Art+F Art.F ArtVer BKMSArt BKMSPräp Erg KasTyp Kongr Kongr0 NPRef NPVW PPTyp PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+ SitErg präpKas	0:18:41.315000	0:18:42	ORT	4347987
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:43.790000" end="0:18:44.490000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:43.790000" end="0:18:44.490000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:44.490000" end="0:18:53.570000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:44.490000" end="0:18:53.570000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:53.570000" end="0:18:54.675000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:53.570000" end="0:18:54.675000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:54.675000" end="0:19:00.044000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:18:54.675000" end="0:19:00.044000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:00.045000" end="0:19:00.809000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:00.045000" end="0:19:00.809000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:00.045000" end="0:19:08.280000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:00.045000" end="0:19:08.280000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:08.280000" end="0:19:17.065000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:08.280000" end="0:19:17.065000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:17.065000" end="0:19:20.490000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:17.065000" end="0:19:20.490000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:20.490000" end="0:19:20.960000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:20.490000" end="0:19:20.960000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:20.960000" end="0:19:33.010000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:20.960000" end="0:19:33.010000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:33.010000" end="0:19:33.805000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:33.010000" end="0:19:33.805000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:33.010000" end="0:19:47.990000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:33.010000" end="0:19:47.990000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:47.990000" end="0:19:48.589000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:47.990000" end="0:19:48.589000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:47.990000" end="0:20:02.334000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:19:47.990000" end="0:20:02.334000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:02.335000" end="0:20:10.275000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:02.335000" end="0:20:10.275000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:20:09.580000" end="0:20:34.170000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:20:09.580000" end="0:20:34.170000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:34.170000" end="0:20:34.705000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:34.170000" end="0:20:34.705000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:20:34.705000" end="0:20:49.755000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:20:34.705000" end="0:20:49.755000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:49.755000" end="0:21:03.320000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:49.755000" end="0:21:03.320000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:21:03.320000" end="0:21:14.254000" project="PP04" age_lower="65" age_upper="999">
-ZAHL	ZAHL	-	-	0:21:10.345000	0:21:13.015000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:21:03.320000" end="0:21:14.254000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+ZAHL	ZAHL	-	-	0:21:10.345000	0:21:13.015000	ZAHL	4350389
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:14.255000" end="0:21:14.965000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:14.255000" end="0:21:14.965000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:21:14.255000" end="0:21:45.990000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:21:14.255000" end="0:21:45.990000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:45.990000" end="0:21:46.825000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:45.990000" end="0:21:46.825000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:21:46.825000" end="0:21:55.515000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:21:46.825000" end="0:21:55.515000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:55.515000" end="0:21:56.430000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:55.515000" end="0:21:56.430000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:21:56.430000" end="0:22:08.455000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:21:56.430000" end="0:22:08.455000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:08.455000" end="0:22:09.010000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:08.455000" end="0:22:09.010000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:22:09.010000" end="0:22:09.755000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:22:09.010000" end="0:22:09.755000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:09.755000" end="0:22:15.710000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:09.755000" end="0:22:15.710000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:22:15.710000" end="0:23:04.985000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:22:15.710000" end="0:23:04.985000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:04.985000" end="0:23:05.660000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:04.985000" end="0:23:05.660000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:04.985000" end="0:23:10.490000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:04.985000" end="0:23:10.490000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:10.490000" end="0:23:11.115000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:10.490000" end="0:23:11.115000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:11.115000" end="0:23:31.140000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:11.115000" end="0:23:31.140000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:31.140000" end="0:23:32.020000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:31.140000" end="0:23:32.020000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:32.020000" end="0:23:38.705000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:32.020000" end="0:23:38.705000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:38.705000" end="0:23:47.215000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:38.705000" end="0:23:47.215000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:47.215000" end="0:23:48.210000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:47.215000" end="0:23:48.210000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:48.210000" end="0:23:48.395000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:48.210000" end="0:23:48.395000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:48.210000" end="0:23:48.395000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:48.210000" end="0:23:48.395000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:48.395000" end="0:23:48.795000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:48.395000" end="0:23:48.795000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:48.395000" end="0:23:48.795000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:48.395000" end="0:23:48.795000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:48.795000" end="0:23:49.314000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:48.795000" end="0:23:49.314000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:48.795000" end="0:23:49.314000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:48.795000" end="0:23:49.314000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:49.314000" end="0:23:49.900000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:49.314000" end="0:23:49.900000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:49.425000" end="0:23:50.380000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:49.425000" end="0:23:50.380000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:50.380000" end="0:23:50.925000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:50.380000" end="0:23:50.925000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:50.380000" end="0:23:50.925000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:50.380000" end="0:23:50.925000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:50.925000" end="0:23:54.960000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:50.925000" end="0:23:54.960000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:54.960000" end="0:24:10.080000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:23:54.960000" end="0:24:10.080000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:10.080000" end="0:24:10.810000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:10.080000" end="0:24:10.810000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:10.080000" end="0:24:16.420000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:10.080000" end="0:24:16.420000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:16.420000" end="0:24:16.730000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:16.420000" end="0:24:16.730000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:16.730000" end="0:24:18.730000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:16.730000" end="0:24:18.730000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:18.730000" end="0:24:19.580000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:18.730000" end="0:24:19.580000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:19.160000" end="0:24:20.460000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:19.160000" end="0:24:20.460000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:20.460000" end="0:24:28.615000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:20.460000" end="0:24:28.615000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:28.615000" end="0:24:48.265000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:28.615000" end="0:24:48.265000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:48.265000" end="0:24:48.775000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:48.265000" end="0:24:48.775000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:48.775000" end="0:24:56.410000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:48.775000" end="0:24:56.410000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:56.410000" end="0:24:56.780000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:56.410000" end="0:24:56.780000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:56.410000" end="0:24:57.485000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:24:56.410000" end="0:24:57.485000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:57.485000" end="0:25:03.595000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:57.485000" end="0:25:03.595000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:03.325000" end="0:25:04.420000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:03.325000" end="0:25:04.420000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:04.420000" end="0:25:04.945000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:04.420000" end="0:25:04.945000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:04.420000" end="0:25:18.590000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:04.420000" end="0:25:18.590000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:18.590000" end="0:25:19.099000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:18.590000" end="0:25:19.099000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:18.590000" end="0:25:24.490000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:18.590000" end="0:25:24.490000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:24.490000" end="0:25:24.825000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:24.490000" end="0:25:24.825000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:24.490000" end="0:25:31.705000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:24.490000" end="0:25:31.705000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:31.705000" end="0:25:32.770000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:31.705000" end="0:25:32.770000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:32.770000" end="0:26:08.790000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:25:32.770000" end="0:26:08.790000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:08.790000" end="0:26:09.625000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:08.790000" end="0:26:09.625000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:08.790000" end="0:26:10.880000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:08.790000" end="0:26:10.880000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:10.880000" end="0:26:11.445000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:10.880000" end="0:26:11.445000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:10.880000" end="0:26:13.155000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:10.880000" end="0:26:13.155000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:13.155000" end="0:26:13.314000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:13.155000" end="0:26:13.314000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:13.155000" end="0:26:13.314000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:13.155000" end="0:26:13.314000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:13.315000" end="0:26:14.215000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:13.315000" end="0:26:14.215000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:13.870000" end="0:26:14.215000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:13.870000" end="0:26:14.215000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:14.215000" end="0:26:14.654000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:14.215000" end="0:26:14.654000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:14.215000" end="0:26:14.654000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:14.215000" end="0:26:14.654000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:14.655000" end="0:26:14.925000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:14.655000" end="0:26:14.925000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:14.655000" end="0:26:16.115000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:14.655000" end="0:26:16.115000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:16.115000" end="0:26:16.800000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:16.115000" end="0:26:16.800000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:16.390000" end="0:26:18.170000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:16.390000" end="0:26:18.170000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:18.170000" end="0:26:19.730000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:18.170000" end="0:26:19.730000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:18.905000" end="0:26:36.170000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:18.905000" end="0:26:36.170000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:36.170000" end="0:26:36.995000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:36.170000" end="0:26:36.995000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:36.995000" end="0:26:46.285000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:36.995000" end="0:26:46.285000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:46.285000" end="0:26:47.005000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:46.285000" end="0:26:47.005000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:47.005000" end="0:26:48.505000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:26:47.005000" end="0:26:48.505000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:48.505000" end="0:27:09.325000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:48.505000" end="0:27:09.325000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:08.395000" end="0:27:09.325000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:08.395000" end="0:27:09.325000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:09.325000" end="0:27:14.835000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:09.325000" end="0:27:14.835000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:13.860000" end="0:27:14.835000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:13.860000" end="0:27:14.835000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:14.835000" end="0:27:16.375000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:14.835000" end="0:27:16.375000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:16.375000" end="0:27:18.360000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:16.375000" end="0:27:18.360000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:18.360000" end="0:27:19.505000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:18.360000" end="0:27:19.505000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:18.360000" end="0:27:23.180000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:18.360000" end="0:27:23.180000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:23.180000" end="0:27:34.005000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:23.180000" end="0:27:34.005000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:34.005000" end="0:27:34.490000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:34.005000" end="0:27:34.490000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:34.490000" end="0:27:35.170000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:34.490000" end="0:27:35.170000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:34.790000" end="0:28:10.865000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:27:34.790000" end="0:28:10.865000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:10.865000" end="0:28:11.420000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:10.865000" end="0:28:11.420000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:10.865000" end="0:28:17.925000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:10.865000" end="0:28:17.925000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:17.925000" end="0:28:18.489000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:17.925000" end="0:28:18.489000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:17.925000" end="0:28:25.160000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:17.925000" end="0:28:25.160000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:25.160000" end="0:28:27.005000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:25.160000" end="0:28:27.005000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:25.930000" end="0:28:27.005000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:25.930000" end="0:28:27.005000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:27.005000" end="0:28:41.050000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:27.005000" end="0:28:41.050000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:40.715000" end="0:28:41.450000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:40.715000" end="0:28:41.450000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:41.450000" end="0:28:49.275000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:41.450000" end="0:28:49.275000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:49.275000" end="0:28:50.080000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:49.275000" end="0:28:50.080000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:50.080000" end="0:28:59.720000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:50.080000" end="0:28:59.720000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:59.720000" end="0:29:02.290000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:28:59.720000" end="0:29:02.290000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:02.290000" end="0:29:02.950000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:02.290000" end="0:29:02.950000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:02.950000" end="0:29:28.725000" project="PP04" age_lower="65" age_upper="999">
-NAME	NAME	-	-	0:29:19.980000	0:29:22.285000
-NAME	NAME	-	-	0:29:19.980000	0:29:22.285000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:02.950000" end="0:29:28.725000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+NAME	NAME	-	-	0:29:19.980000	0:29:22.285000	NAME	4352242
+NAME	NAME	-	-	0:29:19.980000	0:29:22.285000	NAME	4353901
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:28.725000" end="0:29:29.475000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:28.725000" end="0:29:29.475000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:29.475000" end="0:29:41.135000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:29.475000" end="0:29:41.135000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:41.135000" end="0:29:41.690000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:41.135000" end="0:29:41.690000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:41.690000" end="0:29:45.700000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:41.690000" end="0:29:45.700000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:45.700000" end="0:29:46.650000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:45.700000" end="0:29:46.650000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:46.650000" end="0:29:47.185000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:46.650000" end="0:29:47.185000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:47.185000" end="0:29:50.495000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:47.185000" end="0:29:50.495000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:49.575000" end="0:30:11.980000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:29:49.575000" end="0:30:11.980000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:12.695000" end="0:30:13.300000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:12.695000" end="0:30:13.300000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:12.695000" end="0:30:19.975000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:12.695000" end="0:30:19.975000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:19.975000" end="0:30:20.530000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:19.975000" end="0:30:20.530000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:19.975000" end="0:30:31.145000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:19.975000" end="0:30:31.145000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:31.145000" end="0:30:31.695000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:31.145000" end="0:30:31.695000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:31.145000" end="0:30:34.210000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:31.145000" end="0:30:34.210000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:34.210000" end="0:30:34.740000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:34.210000" end="0:30:34.740000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:34.740000" end="0:30:40.100000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:34.740000" end="0:30:40.100000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:40.100000" end="0:30:43.010000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:40.100000" end="0:30:43.010000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:43.010000" end="0:30:46.460000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:43.010000" end="0:30:46.460000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:46.460000" end="0:30:46.820000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:46.460000" end="0:30:46.820000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:46.460000" end="0:30:46.820000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:46.460000" end="0:30:46.820000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:46.820000" end="0:30:47.159000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:46.820000" end="0:30:47.159000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:46.820000" end="0:30:50.470000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:46.820000" end="0:30:50.470000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:50.470000" end="0:30:51.390000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:50.470000" end="0:30:51.390000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:50.470000" end="0:30:56.665000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:50.470000" end="0:30:56.665000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:56.665000" end="0:30:57.040000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:56.665000" end="0:30:57.040000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:57.040000" end="0:30:58.960000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:57.040000" end="0:30:58.960000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:58.960000" end="0:30:59.235000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:58.960000" end="0:30:59.235000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:58.960000" end="0:31:07.470000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:30:58.960000" end="0:31:07.470000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:07.470000" end="0:31:08.470000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:07.470000" end="0:31:08.470000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:08.235000" end="0:31:08.910000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:08.235000" end="0:31:08.910000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:08.910000" end="0:31:11.465000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:08.910000" end="0:31:11.465000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:11.465000" end="0:31:36.315000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:11.465000" end="0:31:36.315000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:36.315000" end="0:31:36.895000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:36.315000" end="0:31:36.895000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:36.895000" end="0:31:42.915000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:36.895000" end="0:31:42.915000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:42.915000" end="0:31:43.410000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:42.915000" end="0:31:43.410000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:43.155000" end="0:31:43.410000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:43.155000" end="0:31:43.410000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:43.410000" end="0:31:43.660000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:43.410000" end="0:31:43.660000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:43.410000" end="0:31:43.660000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:43.410000" end="0:31:43.660000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:43.660000" end="0:31:43.940000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:43.660000" end="0:31:43.940000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:43.660000" end="0:31:43.940000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:43.660000" end="0:31:43.940000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:43.940000" end="0:31:45.505000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:43.940000" end="0:31:45.505000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:45.505000" end="0:31:46.025000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:45.505000" end="0:31:46.025000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:46.025000" end="0:31:46.220000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:46.025000" end="0:31:46.220000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:46.220000" end="0:31:51.050000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:46.220000" end="0:31:51.050000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:51.050000" end="0:31:51.570000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:51.050000" end="0:31:51.570000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:51.050000" end="0:31:54.360000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:51.050000" end="0:31:54.360000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:54.360000" end="0:31:54.830000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:54.360000" end="0:31:54.830000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:54.830000" end="0:32:02.375000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:31:54.830000" end="0:32:02.375000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:02.375000" end="0:32:02.615000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:02.375000" end="0:32:02.615000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:32:02.615000" end="0:32:13.605000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:32:02.615000" end="0:32:13.605000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:13.605000" end="0:32:14.665000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:13.605000" end="0:32:14.665000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:32:13.605000" end="0:32:30" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:32:13.605000" end="0:32:30" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:30" end="0:32:32.390000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:30" end="0:32:32.390000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:32:32.390000" end="0:32:32.880000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:32:32.390000" end="0:32:32.880000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:32.880000" end="0:32:45.555000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:32.880000" end="0:32:45.555000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:32:45.555000" end="0:32:50.070000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:32:45.555000" end="0:32:50.070000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:50.070000" end="0:33:00.825000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:50.070000" end="0:33:00.825000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:33:00.825000" end="0:33:02.860000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:33:00.825000" end="0:33:02.860000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:02.860000" end="0:33:03.262000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:02.860000" end="0:33:03.262000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:33:02.860000" end="0:33:12.446000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:33:02.860000" end="0:33:12.446000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:12.446000" end="0:33:12.604000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:12.446000" end="0:33:12.604000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:33:12.446000" end="0:33:37.977000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:33:12.446000" end="0:33:37.977000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:37.977000" end="0:33:38.466000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:37.977000" end="0:33:38.466000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:33:38.284000" end="0:34:03.275000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:33:38.284000" end="0:34:03.275000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:03.275000" end="0:34:03.750000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:03.275000" end="0:34:03.750000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:03.750000" end="0:34:04.600000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:03.750000" end="0:34:04.600000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:04.600000" end="0:34:11.440000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:04.600000" end="0:34:11.440000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:11.440000" end="0:34:12.079000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:11.440000" end="0:34:12.079000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:12.080000" end="0:34:24.824000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:12.080000" end="0:34:24.824000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:24.824000" end="0:34:25.590000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:24.824000" end="0:34:25.590000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:25.590000" end="0:34:30.554000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:25.590000" end="0:34:30.554000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:30.554000" end="0:34:33.489000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:30.554000" end="0:34:33.489000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:33.489000" end="0:34:34.324000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:33.489000" end="0:34:34.324000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:34.324000" end="0:34:35.110000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:34.324000" end="0:34:35.110000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:35.110000" end="0:34:35.474000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:35.110000" end="0:34:35.474000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:35.474000" end="0:35:13.365000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:34:35.474000" end="0:35:13.365000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:13.365000" end="0:35:13.909000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:13.365000" end="0:35:13.909000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:13.911000" end="0:35:24.360000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:13.911000" end="0:35:24.360000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:24.360000" end="0:35:24.925000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:24.360000" end="0:35:24.925000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:24.925000" end="0:35:45.180000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:24.925000" end="0:35:45.180000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:45.180000" end="0:35:45.570000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:45.180000" end="0:35:45.570000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:45.180000" end="0:35:45.570000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:45.180000" end="0:35:45.570000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:45.570000" end="0:35:53.005000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:45.570000" end="0:35:53.005000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:53.005000" end="0:35:55.005000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:53.005000" end="0:35:55.005000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:55.017000" end="0:35:55.931000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:55.017000" end="0:35:55.931000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:55.648000" end="0:35:58.831000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:55.648000" end="0:35:58.831000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:58.831000" end="0:35:59.017000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:58.831000" end="0:35:59.017000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:59.031000" end="0:36:06.182000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:35:59.031000" end="0:36:06.182000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:06.182000" end="0:36:06.955000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:06.182000" end="0:36:06.955000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:06.955000" end="0:36:29.904000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:06.955000" end="0:36:29.904000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:29.904000" end="0:36:30.575000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:29.904000" end="0:36:30.575000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:30.575000" end="0:36:35.242000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:30.575000" end="0:36:35.242000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:35.242000" end="0:36:35.751000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:35.242000" end="0:36:35.751000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:35.751000" end="0:36:36.137000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:35.751000" end="0:36:36.137000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:36.137000" end="0:36:43.075000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:36.137000" end="0:36:43.075000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:43.075000" end="0:36:54.377000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:43.075000" end="0:36:54.377000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:54.377000" end="0:36:54.753000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:54.377000" end="0:36:54.753000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:54.753000" end="0:37:38.222000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:36:54.753000" end="0:37:38.222000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:38.222000" end="0:37:38.846000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:38.222000" end="0:37:38.846000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:37:38.846000" end="0:37:47.440000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:37:38.846000" end="0:37:47.440000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:47.440000" end="0:37:48.831000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:47.440000" end="0:37:48.831000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:37:48.831000" end="0:38:01.597000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:37:48.831000" end="0:38:01.597000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:01.597000" end="0:38:03.055000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:01.597000" end="0:38:03.055000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:03.055000" end="0:38:03.422000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:03.055000" end="0:38:03.422000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:03.422000" end="0:38:03.882000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:03.422000" end="0:38:03.882000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:03.422000" end="0:38:03.882000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:03.422000" end="0:38:03.882000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:03.882000" end="0:38:04.700000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:03.882000" end="0:38:04.700000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:04.117000" end="0:38:20.333000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:04.117000" end="0:38:20.333000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:20.333000" end="0:38:22.762000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:20.333000" end="0:38:22.762000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:22.762000" end="0:38:24.293000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:22.762000" end="0:38:24.293000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:24.293000" end="0:38:25.557000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:24.293000" end="0:38:25.557000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:25.360000" end="0:38:33.475000" project="PP04" age_lower="65" age_upper="999">
-NAME	NAME	-	-	0:38:28.351000	0:38:31.557000
-NAME	NAME	-	-	0:38:28.351000	0:38:31.557000
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:25.360000" end="0:38:33.475000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
+NAME	NAME	-	-	0:38:28.351000	0:38:31.557000	NAME	4356191
+NAME	NAME	-	-	0:38:28.351000	0:38:31.557000	NAME	4356192
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:33.475000" end="0:38:34.293000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:33.475000" end="0:38:34.293000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:34.293000" end="0:38:38.851000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:34.293000" end="0:38:38.851000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
-<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:38.851000" end="0:38:43.871000" age_lower="1" age_upper="999">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:38.851000" end="0:38:43.871000" persName="Informant EXP19" age_lower="1" age_upper="999">
 </u>
-<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:43.560000" end="0:38:45.871000" project="PP04" age_lower="65" age_upper="999">
+<u who="spk_801" sex="female" age="alt (65+) weiblich" name="Informant BKMS416" subproject="PP04" standard_competence="UNK" dialect_competence="UNK" location="Graz, Steiermark, 8011, Österreich" lat="47.0702563" lon="15.4385716" start="0:38:43.560000" end="0:38:45.871000" persName="Informant BKMS416" residence="Graz, Steiermark, 8011, Österreich" affiliation="PP04" age_lower="65" age_upper="999">
 </u>
 </file>
 </doc>

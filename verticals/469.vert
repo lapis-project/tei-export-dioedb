@@ -1,139 +1,139 @@
 <doc id="transcript_469" name="0280_TUXT_alt_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="469.xml" title="Transcript: Transcript_469">
-<u who="spk_319" sex="male" age="Alt (65+)" name="Informant 0280" subproject="PP03" standard_competence="6" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:19.226000" end="0:00:21.226000" project="PP03" age_lower="65" age_upper="999">
-Nordwind	-	-	-	0:00:19.226000	0:00:21.226000
+<u who="spk_319" sex="male" age="Alt (65+)" name="Informant 0280" subproject="PP03" standard_competence="6" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:19.226000" end="0:00:21.226000" persName="Informant 0280" residence="Tux, Schwaz, Tirol, 6293, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
+Nordwind	-	-	-	0:00:19.226000	0:00:21.226000	-	4094215
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:19.226000" end="0:00:21.226000" age_lower="1" age_upper="999">
-XXX	-	-	-	0:00:19.226000	0:00:21.226000
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:19.226000" end="0:00:21.226000" persName="Informant EXP3" age_lower="1" age_upper="999">
+XXX	-	-	-	0:00:19.226000	0:00:21.226000	-	4094218
 </u>
-<u who="spk_319" sex="male" age="Alt (65+)" name="Informant 0280" subproject="PP03" standard_competence="6" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:19.226000" end="0:01:07.766000" project="PP03" age_lower="65" age_upper="999">
-und	-	-	-	0:00:19.226000	0:00:21.226000
-Sonne	-	-	-	0:00:19.226000	0:00:21.226000
-einst	-	-	aeDiph ae-Diph eiReal LautNach LautVor MG mhd. /ei/ Nas Ons Ons- P sPal sPal- sPal-t	0:00:21.226000	0:00:24.346000
-stritten	-	-	-	0:00:21.226000	0:00:24.346000
-sich	-	-	-	0:00:21.226000	0:00:24.346000
-Nordwind	-	-	-	0:00:21.226000	0:00:24.346000
-und	-	-	-	0:00:21.226000	0:00:24.346000
-Sonne	-	-	-	0:00:21.226000	0:00:24.346000
-,	-	-	-	0:00:21.226000	0:00:24.346000
-wer	-	-	-	0:00:24.346000	0:00:27.280000
-von	-	-	-	0:00:24.346000	0:00:27.280000
-ihnen	-	-	-	0:00:24.346000	0:00:27.280000
-beiden	-	-	aeDiph ae-Diph eiReal LautNach LautVor mhd. /ei/ P	0:00:24.346000	0:00:27.280000
-wohl	-	-	-	0:00:24.346000	0:00:27.280000
-der	-	-	-	0:00:24.346000	0:00:27.280000
-Stärkere	-	-	kch kReal kVar LautNach LautVor Ons Ons+ T Vpal	0:00:24.346000	0:00:27.280000
-wäre	-	-	-	0:00:24.346000	0:00:27.280000
-,	-	-	-	0:00:24.346000	0:00:27.280000
-als	-	-	-	0:00:27.280000	0:00:29.280000
-ein	-	-	-	0:00:27.280000	0:00:29.280000
-Wanderer	-	-	-	0:00:27.280000	0:00:29.280000
-,	-	-	-	0:00:27.280000	0:00:29.280000
-der	-	-	-	0:00:29.280000	0:00:31.646000
-in	-	-	-	0:00:29.280000	0:00:31.646000
-einen	-	-	-	0:00:29.280000	0:00:31.646000
-warmen	-	-	-	0:00:29.280000	0:00:31.646000
-Mantel	-	-	-	0:00:29.280000	0:00:31.646000
-gehüllt	-	-	-	0:00:29.280000	0:00:31.646000
-war	-	-	-	0:00:29.280000	0:00:31.646000
-,	-	-	-	0:00:29.280000	0:00:31.646000
-des	-	-	-	0:00:31.646000	0:00:33.646000
-Weges	-	-	-	0:00:31.646000	0:00:33.646000
-daherkam	-	-	k kReal kVar LautNach LautVor Ons Ons+ Vvel	0:00:31.646000	0:00:33.646000
-.	-	-	-	0:00:31.646000	0:00:33.646000
-sie	-	-	-	0:00:33.646000	0:00:35.353000
-wurden	-	-	-	0:00:33.646000	0:00:35.353000
-einig	-	-	aeDiph ae-Diph eiReal igReal igVar LautNach LautVor MG mhd. /ei/ Nas P	0:00:33.646000	0:00:35.353000
-,	-	-	-	0:00:33.646000	0:00:35.353000
-dass	-	-	-	0:00:35.353000	0:00:38.486000
-derjenige	-	-	igReal igVar LautNach P Vpal	0:00:35.353000	0:00:38.486000
-für	-	-	-	0:00:35.353000	0:00:38.486000
-den	-	-	-	0:00:35.353000	0:00:38.486000
-Stärkeren	-	-	kch kReal kVar LautNach LautVor Ons Ons+ T Vpal	0:00:35.353000	0:00:38.486000
-gelten	-	-	-	0:00:35.353000	0:00:38.486000
-sollte	-	-	-	0:00:35.353000	0:00:38.486000
-,	-	-	-	0:00:35.353000	0:00:38.486000
-der	-	-	-	0:00:38.486000	0:00:40.613000
-den	-	-	-	0:00:38.486000	0:00:40.613000
-Wanderer	-	-	-	0:00:38.486000	0:00:40.613000
-zwingen	-	-	-	0:00:38.486000	0:00:40.613000
-würde	-	-	-	0:00:38.486000	0:00:40.613000
-,	-	-	-	0:00:38.486000	0:00:40.613000
-seinen	-	-	ae-Diph äeDiph F iReal LautNach LautVor mhd. /î/ Nas	0:00:40.613000	0:00:42.613000
-Mantel	-	-	-	0:00:40.613000	0:00:42.613000
-abzunehmen	-	-	-	0:00:40.613000	0:00:42.613000
-.	-	-	-	0:00:40.613000	0:00:42.613000
-der	-	-	-	0:00:42.613000	0:00:45.366000
-Nordwind	-	-	-	0:00:42.613000	0:00:45.366000
-blies	-	-	-	0:00:42.613000	0:00:45.366000
-mit	-	-	-	0:00:42.613000	0:00:45.366000
-aller	-	-	-	0:00:42.613000	0:00:45.366000
-Macht	-	-	aReal aVar dumpf- F LautNach LautVor mhd. /a/ Nas Wurzel	0:00:42.613000	0:00:45.366000
-,	-	-	-	0:00:42.613000	0:00:45.366000
-aber	-	-	aReal aVar dumpf- LautNach LautVor MG mhd. /a/ P Wurzel	0:00:45.366000	0:00:47.366000
-je	-	-	-	0:00:45.366000	0:00:47.366000
-mehr	-	-	-	0:00:45.366000	0:00:47.366000
-er	-	-	-	0:00:45.366000	0:00:47.366000
-blies	-	-	-	0:00:45.366000	0:00:47.366000
-,	-	-	-	0:00:45.366000	0:00:47.366000
-desto	-	-	LautNach LautVor Ons Ons- P sPal sPal- sPal-t Vpal	0:00:47.366000	0:00:50.740000
-fester	-	-	LautNach LautVor Ons Ons- P sPal sPal- sPal-t Vpal	0:00:47.366000	0:00:50.740000
-hüllte	-	-	-	0:00:47.366000	0:00:50.740000
-sich	-	-	-	0:00:47.366000	0:00:50.740000
-der	-	-	-	0:00:47.366000	0:00:50.740000
-Wanderer	-	-	-	0:00:47.366000	0:00:50.740000
-in	-	-	-	0:00:47.366000	0:00:50.740000
-seinen	-	-	ae-Diph äeDiph F iReal LautNach LautVor mhd. /î/ Nas	0:00:47.366000	0:00:50.740000
-Mantel	-	-	-	0:00:47.366000	0:00:50.740000
-ein	-	-	aeDiph ae-Diph iReal LautNach LautVor MG mhd. /î/ Nas	0:00:47.366000	0:00:50.740000
-.	-	-	-	0:00:47.366000	0:00:50.740000
-endlich	-	-	-	0:00:50.740000	0:00:53.873000
-gab	-	-	-	0:00:50.740000	0:00:53.873000
-der	-	-	-	0:00:50.740000	0:00:53.873000
-Nordwind	-	-	-	0:00:50.740000	0:00:53.873000
-den	-	-	-	0:00:50.740000	0:00:53.873000
-Kampf	-	-	k kReal kVar LautNach LautVor MG Ons Ons+ Vvel	0:00:50.740000	0:00:53.873000
-auf	-	-	au/aoDiph au/ao-Diph auReal auVar F LautNach LautVor MG mhd. /û/ Wurzel	0:00:50.740000	0:00:53.873000
-.	-	-	-	0:00:50.740000	0:00:53.873000
-nun	-	-	-	0:00:53.873000	0:00:57.693000
-erwärmte	-	-	-	0:00:53.873000	0:00:57.693000
-die	-	-	-	0:00:53.873000	0:00:57.693000
-Sonne	-	-	-	0:00:53.873000	0:00:57.693000
-die	-	-	-	0:00:53.873000	0:00:57.693000
-Luft	-	-	-	0:00:53.873000	0:00:57.693000
-mit	-	-	-	0:00:53.873000	0:00:57.693000
-ihren	-	-	-	0:00:53.873000	0:00:57.693000
-freundlichen	-	-	euReal euVar L LautNach LautVor mhd. /iu/ Nas oe-Diph Wurzel	0:00:53.873000	0:00:57.693000
-Strahlen	-	-	-	0:00:53.873000	0:00:57.693000
-,	-	-	-	0:00:53.873000	0:00:57.693000
-und	-	-	-	0:00:57.693000	0:00:59.826000
-schon	-	-	-	0:00:57.693000	0:00:59.826000
-nach	-	-	aReal aVar dumpf- F LautNach LautVor mhd. /â/ Nas Wurzel	0:00:57.693000	0:00:59.826000
-wenigen	-	-	igReal igVar LautNach P Vpal	0:00:57.693000	0:00:59.826000
-Augenblicken	-	-	au/aoDiph au/ao-Diph auReal auVar LautNach LautVor MG mhd. /ou/ P Wurzel	0:00:57.693000	0:00:59.826000
-zog	-	-	-	0:00:59.826000	0:01:02.126000
-der	-	-	-	0:00:59.826000	0:01:02.126000
-Wanderer	-	-	-	0:00:59.826000	0:01:02.126000
-seinen	-	-	ae-Diph äeDiph F iReal LautNach LautVor mhd. /î/ Nas	0:00:59.826000	0:01:02.126000
-Mantel	-	-	-	0:00:59.826000	0:01:02.126000
-aus	-	-	au/aoDiph au/ao-Diph auReal auVar F LautNach LautVor MG mhd. /û/ Wurzel	0:00:59.826000	0:01:02.126000
-.	-	-	-	0:00:59.826000	0:01:02.126000
-da	-	-	aReal aVar dumpf- LautNach LautVor MG mhd. /â/ P Wurzel	0:01:02.126000	0:01:04.266000
-musste	-	-	LautNach LautVor Ons Ons- P sPal sPal- sPal-t Vvel	0:01:02.126000	0:01:04.266000
-der	-	-	-	0:01:02.126000	0:01:04.266000
-Nordwind	-	-	-	0:01:02.126000	0:01:04.266000
-zugeben	-	-	-	0:01:02.126000	0:01:04.266000
-,	-	-	-	0:01:02.126000	0:01:04.266000
-dass	-	-	-	0:01:04.266000	0:01:07.766000
-die	-	-	-	0:01:04.266000	0:01:07.766000
-Sonne	-	-	-	0:01:04.266000	0:01:07.766000
-von	-	-	-	0:01:04.266000	0:01:07.766000
-ihnen	-	-	-	0:01:04.266000	0:01:07.766000
-beiden	-	-	aeDiph ae-Diph eiReal LautNach LautVor mhd. /ei/ P	0:01:04.266000	0:01:07.766000
-der	-	-	-	0:01:04.266000	0:01:07.766000
-Stärkere	-	-	kch kReal kVar LautNach LautVor Ons Ons+ T Vpal	0:01:04.266000	0:01:07.766000
-war	-	-	-	0:01:04.266000	0:01:07.766000
-.	-	-	-	0:01:04.266000	0:01:07.766000
+<u who="spk_319" sex="male" age="Alt (65+)" name="Informant 0280" subproject="PP03" standard_competence="6" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:19.226000" end="0:01:07.766000" persName="Informant 0280" residence="Tux, Schwaz, Tirol, 6293, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
+und	-	-	-	0:00:19.226000	0:00:21.226000	-	4094216
+Sonne	-	-	-	0:00:19.226000	0:00:21.226000	-	4094217
+einst	-	-	aeDiph ae-Diph eiReal LautNach LautVor MG mhd. /ei/ Nas Ons Ons- P sPal sPal- sPal-t	0:00:21.226000	0:00:24.346000	aɛ̯nstʰ	4094219
+stritten	-	-	-	0:00:21.226000	0:00:24.346000	-	4094220
+sich	-	-	-	0:00:21.226000	0:00:24.346000	-	4094221
+Nordwind	-	-	-	0:00:21.226000	0:00:24.346000	-	4094222
+und	-	-	-	0:00:21.226000	0:00:24.346000	-	4094223
+Sonne	-	-	-	0:00:21.226000	0:00:24.346000	-	4094224
+,	-	-	-	0:00:21.226000	0:00:24.346000	-	4094225
+wer	-	-	-	0:00:24.346000	0:00:27.280000	-	4094226
+von	-	-	-	0:00:24.346000	0:00:27.280000	-	4094227
+ihnen	-	-	-	0:00:24.346000	0:00:27.280000	-	4094228
+beiden	-	-	aeDiph ae-Diph eiReal LautNach LautVor mhd. /ei/ P	0:00:24.346000	0:00:27.280000	b̥aɛ̯d̥n̩	4094229
+wohl	-	-	-	0:00:24.346000	0:00:27.280000	-	4094230
+der	-	-	-	0:00:24.346000	0:00:27.280000	-	4094231
+Stärkere	-	-	kch kReal kVar LautNach LautVor Ons Ons+ T Vpal	0:00:24.346000	0:00:27.280000	ʃtæɾχɛɾə	4094232
+wäre	-	-	-	0:00:24.346000	0:00:27.280000	-	4094233
+,	-	-	-	0:00:24.346000	0:00:27.280000	-	4094234
+als	-	-	-	0:00:27.280000	0:00:29.280000	-	4094235
+ein	-	-	-	0:00:27.280000	0:00:29.280000	-	4094236
+Wanderer	-	-	-	0:00:27.280000	0:00:29.280000	-	4094237
+,	-	-	-	0:00:27.280000	0:00:29.280000	-	4094238
+der	-	-	-	0:00:29.280000	0:00:31.646000	-	4094239
+in	-	-	-	0:00:29.280000	0:00:31.646000	-	4094240
+einen	-	-	-	0:00:29.280000	0:00:31.646000	-	4094241
+warmen	-	-	-	0:00:29.280000	0:00:31.646000	-	4094242
+Mantel	-	-	-	0:00:29.280000	0:00:31.646000	-	4094243
+gehüllt	-	-	-	0:00:29.280000	0:00:31.646000	-	4094244
+war	-	-	-	0:00:29.280000	0:00:31.646000	-	4094245
+,	-	-	-	0:00:29.280000	0:00:31.646000	-	4094246
+des	-	-	-	0:00:31.646000	0:00:33.646000	-	4094247
+Weges	-	-	-	0:00:31.646000	0:00:33.646000	-	4094248
+daherkam	-	-	k kReal kVar LautNach LautVor Ons Ons+ Vvel	0:00:31.646000	0:00:33.646000	d̥ahɛɐ̯kʰaːm	4094249
+.	-	-	-	0:00:31.646000	0:00:33.646000	-	4094250
+sie	-	-	-	0:00:33.646000	0:00:35.353000	-	4094251
+wurden	-	-	-	0:00:33.646000	0:00:35.353000	-	4094252
+einig	-	-	aeDiph ae-Diph eiReal igReal igVar LautNach LautVor MG mhd. /ei/ Nas P	0:00:33.646000	0:00:35.353000	aɛ̯nɪkʰ	4094253
+,	-	-	-	0:00:33.646000	0:00:35.353000	-	4094254
+dass	-	-	-	0:00:35.353000	0:00:38.486000	-	4094255
+derjenige	-	-	igReal igVar LautNach P Vpal	0:00:35.353000	0:00:38.486000	d̥eɐ̯jeːnɪg̥ɛ	4094256
+für	-	-	-	0:00:35.353000	0:00:38.486000	-	4094257
+den	-	-	-	0:00:35.353000	0:00:38.486000	-	4094258
+Stärkeren	-	-	kch kReal kVar LautNach LautVor Ons Ons+ T Vpal	0:00:35.353000	0:00:38.486000	ʃd̥æɾk͡χɛɾɛn	4094259
+gelten	-	-	-	0:00:35.353000	0:00:38.486000	-	4094260
+sollte	-	-	-	0:00:35.353000	0:00:38.486000	-	4094261
+,	-	-	-	0:00:35.353000	0:00:38.486000	-	4094262
+der	-	-	-	0:00:38.486000	0:00:40.613000	-	4094263
+den	-	-	-	0:00:38.486000	0:00:40.613000	-	4094264
+Wanderer	-	-	-	0:00:38.486000	0:00:40.613000	-	4094265
+zwingen	-	-	-	0:00:38.486000	0:00:40.613000	-	4094266
+würde	-	-	-	0:00:38.486000	0:00:40.613000	-	4094267
+,	-	-	-	0:00:38.486000	0:00:40.613000	-	4094268
+seinen	-	-	ae-Diph äeDiph F iReal LautNach LautVor mhd. /î/ Nas	0:00:40.613000	0:00:42.613000	sæe̯nɛn	4094269
+Mantel	-	-	-	0:00:40.613000	0:00:42.613000	-	4094270
+abzunehmen	-	-	-	0:00:40.613000	0:00:42.613000	-	4094271
+.	-	-	-	0:00:40.613000	0:00:42.613000	-	4094272
+der	-	-	-	0:00:42.613000	0:00:45.366000	-	4094273
+Nordwind	-	-	-	0:00:42.613000	0:00:45.366000	-	4094274
+blies	-	-	-	0:00:42.613000	0:00:45.366000	-	4094275
+mit	-	-	-	0:00:42.613000	0:00:45.366000	-	4094276
+aller	-	-	-	0:00:42.613000	0:00:45.366000	-	4094277
+Macht	-	-	aReal aVar dumpf- F LautNach LautVor mhd. /a/ Nas Wurzel	0:00:42.613000	0:00:45.366000	maxtʰ	4094278
+,	-	-	-	0:00:42.613000	0:00:45.366000	-	4094343
+aber	-	-	aReal aVar dumpf- LautNach LautVor MG mhd. /a/ P Wurzel	0:00:45.366000	0:00:47.366000	ab̥a	4094279
+je	-	-	-	0:00:45.366000	0:00:47.366000	-	4094280
+mehr	-	-	-	0:00:45.366000	0:00:47.366000	-	4094281
+er	-	-	-	0:00:45.366000	0:00:47.366000	-	4094282
+blies	-	-	-	0:00:45.366000	0:00:47.366000	-	4094283
+,	-	-	-	0:00:45.366000	0:00:47.366000	-	4094284
+desto	-	-	LautNach LautVor Ons Ons- P sPal sPal- sPal-t Vpal	0:00:47.366000	0:00:50.740000	d̥ɛsd̥ɔ	4094285
+fester	-	-	LautNach LautVor Ons Ons- P sPal sPal- sPal-t Vpal	0:00:47.366000	0:00:50.740000	fɛstʰɐ	4094286
+hüllte	-	-	-	0:00:47.366000	0:00:50.740000	-	4094287
+sich	-	-	-	0:00:47.366000	0:00:50.740000	-	4094288
+der	-	-	-	0:00:47.366000	0:00:50.740000	-	4094289
+Wanderer	-	-	-	0:00:47.366000	0:00:50.740000	-	4094290
+in	-	-	-	0:00:47.366000	0:00:50.740000	-	4094291
+seinen	-	-	ae-Diph äeDiph F iReal LautNach LautVor mhd. /î/ Nas	0:00:47.366000	0:00:50.740000	sæe̯nɛn	4094292
+Mantel	-	-	-	0:00:47.366000	0:00:50.740000	-	4094293
+ein	-	-	aeDiph ae-Diph iReal LautNach LautVor MG mhd. /î/ Nas	0:00:47.366000	0:00:50.740000	aɛ̯n	4094294
+.	-	-	-	0:00:47.366000	0:00:50.740000	-	4094342
+endlich	-	-	-	0:00:50.740000	0:00:53.873000	-	4094295
+gab	-	-	-	0:00:50.740000	0:00:53.873000	-	4094296
+der	-	-	-	0:00:50.740000	0:00:53.873000	-	4094297
+Nordwind	-	-	-	0:00:50.740000	0:00:53.873000	-	4094298
+den	-	-	-	0:00:50.740000	0:00:53.873000	-	4094299
+Kampf	-	-	k kReal kVar LautNach LautVor MG Ons Ons+ Vvel	0:00:50.740000	0:00:53.873000	k͡ʰamp͡f	4094300
+auf	-	-	au/aoDiph au/ao-Diph auReal auVar F LautNach LautVor MG mhd. /û/ Wurzel	0:00:50.740000	0:00:53.873000	aɔ̯f	4094301
+.	-	-	-	0:00:50.740000	0:00:53.873000	-	4094341
+nun	-	-	-	0:00:53.873000	0:00:57.693000	-	4094302
+erwärmte	-	-	-	0:00:53.873000	0:00:57.693000	-	4094303
+die	-	-	-	0:00:53.873000	0:00:57.693000	-	4094304
+Sonne	-	-	-	0:00:53.873000	0:00:57.693000	-	4094305
+die	-	-	-	0:00:53.873000	0:00:57.693000	-	4094306
+Luft	-	-	-	0:00:53.873000	0:00:57.693000	-	4094307
+mit	-	-	-	0:00:53.873000	0:00:57.693000	-	4094308
+ihren	-	-	-	0:00:53.873000	0:00:57.693000	-	4094309
+freundlichen	-	-	euReal euVar L LautNach LautVor mhd. /iu/ Nas oe-Diph Wurzel	0:00:53.873000	0:00:57.693000	fʁɔe̯nd̥lɪçɛn	4094310
+Strahlen	-	-	-	0:00:53.873000	0:00:57.693000	-	4094311
+,	-	-	-	0:00:53.873000	0:00:57.693000	-	4094340
+und	-	-	-	0:00:57.693000	0:00:59.826000	-	4094312
+schon	-	-	-	0:00:57.693000	0:00:59.826000	-	4094313
+nach	-	-	aReal aVar dumpf- F LautNach LautVor mhd. /â/ Nas Wurzel	0:00:57.693000	0:00:59.826000	nax	4094314
+wenigen	-	-	igReal igVar LautNach P Vpal	0:00:57.693000	0:00:59.826000	veːnɪg̥ɛn	4094315
+Augenblicken	-	-	au/aoDiph au/ao-Diph auReal auVar LautNach LautVor MG mhd. /ou/ P Wurzel	0:00:57.693000	0:00:59.826000	aɔ̯g̥ənb̥lɪk͡χn̩	4094316
+zog	-	-	-	0:00:59.826000	0:01:02.126000	-	4094317
+der	-	-	-	0:00:59.826000	0:01:02.126000	-	4094318
+Wanderer	-	-	-	0:00:59.826000	0:01:02.126000	-	4094319
+seinen	-	-	ae-Diph äeDiph F iReal LautNach LautVor mhd. /î/ Nas	0:00:59.826000	0:01:02.126000	sæe̯nən	4094320
+Mantel	-	-	-	0:00:59.826000	0:01:02.126000	-	4094321
+aus	-	-	au/aoDiph au/ao-Diph auReal auVar F LautNach LautVor MG mhd. /û/ Wurzel	0:00:59.826000	0:01:02.126000	aɔ̯s	4094322
+.	-	-	-	0:00:59.826000	0:01:02.126000	-	4094323
+da	-	-	aReal aVar dumpf- LautNach LautVor MG mhd. /â/ P Wurzel	0:01:02.126000	0:01:04.266000	d̥aː	4094324
+musste	-	-	LautNach LautVor Ons Ons- P sPal sPal- sPal-t Vvel	0:01:02.126000	0:01:04.266000	mʊsd̥ɛ	4094325
+der	-	-	-	0:01:02.126000	0:01:04.266000	-	4094326
+Nordwind	-	-	-	0:01:02.126000	0:01:04.266000	-	4094327
+zugeben	-	-	-	0:01:02.126000	0:01:04.266000	-	4094328
+,	-	-	-	0:01:02.126000	0:01:04.266000	-	4094339
+dass	-	-	-	0:01:04.266000	0:01:07.766000	-	4094329
+die	-	-	-	0:01:04.266000	0:01:07.766000	-	4094330
+Sonne	-	-	-	0:01:04.266000	0:01:07.766000	-	4094331
+von	-	-	-	0:01:04.266000	0:01:07.766000	-	4094332
+ihnen	-	-	-	0:01:04.266000	0:01:07.766000	-	4094333
+beiden	-	-	aeDiph ae-Diph eiReal LautNach LautVor mhd. /ei/ P	0:01:04.266000	0:01:07.766000	paɛ̯d̥n̩	4094334
+der	-	-	-	0:01:04.266000	0:01:07.766000	-	4094335
+Stärkere	-	-	kch kReal kVar LautNach LautVor Ons Ons+ T Vpal	0:01:04.266000	0:01:07.766000	ʃtæɾk͡χɛɾə	4094336
+war	-	-	-	0:01:04.266000	0:01:07.766000	-	4094337
+.	-	-	-	0:01:04.266000	0:01:07.766000	-	4094338
 </u>
 </file>
 </doc>

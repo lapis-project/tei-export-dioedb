@@ -1,6333 +1,6333 @@
 <doc id="transcript_595" name="4057_GERAS_jung_m_AI" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="595.xml" title="Transcript: Transcript_595">
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:02:46.533000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:00:00" end="0:03:32.946000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:02:46.533000	0:02:49.846000
-hat	-	-	-	0:02:46.533000	0:02:49.846000
-bei	-	-	-	0:02:46.533000	0:02:49.846000
-mir	-	-	-	0:02:46.533000	0:02:49.846000
-hat	-	-	-	0:02:46.533000	0:02:49.846000
-begonnen	-	-	-	0:02:46.533000	0:02:49.846000
-in	-	-	-	0:02:46.533000	0:02:49.846000
-der	-	-	-	0:02:46.533000	0:02:49.846000
-hauptschulzeit	-	-	-	0:02:46.533000	0:02:49.846000
-hier	-	-	-	0:02:49.846000	0:02:51.305000
-in	-	-	-	0:02:49.846000	0:02:51.305000
-ORT	ORT	-	-	0:02:49.846000	0:02:51.305000
-dass	-	-	-	0:02:51.305000	0:02:55.866000
-dass	-	-	_es(nom.) KlitBasis KlitPron KlitReal Kon+Kl prodrop PronForm	0:02:51.305000	0:02:55.866000
-da	-	-	-	0:02:51.305000	0:02:55.866000
-in	-	-	-	0:02:51.305000	0:02:55.866000
-der	-	-	-	0:02:51.305000	0:02:55.866000
-Hauptschule	-	-	-	0:02:51.305000	0:02:55.866000
-einen	-	-	-	0:02:51.305000	0:02:55.866000
-Chor	-	-	-	0:02:51.305000	0:02:55.866000
-gegeben	-	-	-	0:02:51.305000	0:02:55.866000
-hat	-	-	-	0:02:51.305000	0:02:55.866000
-der	-	-	-	0:02:55.866000	0:03:05.799000
-halt	-	-	-	0:02:55.866000	0:03:05.799000
-für	-	-	-	0:02:55.866000	0:03:05.799000
-den	-	-	-	0:02:55.866000	0:03:05.799000
-immer	-	-	-	0:02:55.866000	0:03:05.799000
-wieder	-	-	-	0:02:55.866000	0:03:05.799000
-Lehrer	-	-	-	0:02:55.866000	0:03:05.799000
-Burschen	-	-	-	0:02:55.866000	0:03:05.799000
-sich	-	-	-	0:02:55.866000	0:03:05.799000
-gesucht	-	-	-	0:02:55.866000	0:03:05.799000
-hat	-	-	-	0:02:55.866000	0:03:05.799000
-die	-	-	-	0:02:55.866000	0:03:05.799000
-lautsprecher	-	-	-	0:02:55.866000	0:03:05.799000
-tragen	-	-	-	0:02:55.866000	0:03:05.799000
-und	-	-	-	0:03:05.799000	0:03:07.859000
-ja	-	-	-	0:03:05.799000	0:03:07.859000
-verkabeln	-	-	-	0:03:05.799000	0:03:07.859000
-und	-	-	-	0:03:05.799000	0:03:07.859000
-und	-	-	-	0:03:05.799000	0:03:07.859000
-äh	-	-	-	0:03:07.859000	0:03:11.599000
-eben	-	-	-	0:03:07.859000	0:03:11.599000
-die	-	-	-	0:03:07.859000	0:03:11.599000
-Technik	-	-	-	0:03:07.859000	0:03:11.599000
-irgendwie	-	-	-	0:03:07.859000	0:03:11.599000
-bewerkstelligen	-	-	-	0:03:07.859000	0:03:11.599000
-für	-	-	-	0:03:07.859000	0:03:11.599000
-diesen	-	-	-	0:03:07.859000	0:03:11.599000
-Chor	-	-	-	0:03:07.859000	0:03:11.599000
-ah	-	-	-	0:03:11.599000	0:03:13.593000
-und	-	-	-	0:03:13.593000	0:03:17.893000
-ja	-	-	-	0:03:13.593000	0:03:17.893000
-das	-	-	-	0:03:13.593000	0:03:17.893000
-das	-	-	-	0:03:13.593000	0:03:17.893000
-ha	-	-	-	0:03:13.593000	0:03:17.893000
-das	-	-	-	0:03:13.593000	0:03:17.893000
-hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:03:13.593000	0:03:17.893000
-man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:03:13.593000	0:03:17.893000
-hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:03:13.593000	0:03:17.893000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:03:13.593000	0:03:17.893000
-recht	-	-	-	0:03:13.593000	0:03:17.893000
-gut	-	-	-	0:03:13.593000	0:03:17.893000
-gefallen	-	-	-	0:03:13.593000	0:03:17.893000
-und	-	-	-	0:03:17.893000	0:03:19.893000
-s	-	-	-	0:03:17.893000	0:03:19.893000
-hat	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:03:17.893000	0:03:19.893000
-mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:03:17.893000	0:03:19.893000
-dazu	-	-	-	0:03:17.893000	0:03:19.893000
-gebracht	-	-	-	0:03:17.893000	0:03:19.893000
-äh	-	-	-	0:03:17.893000	0:03:19.893000
-als	-	-	-	0:03:19.893000	0:03:23.939000
-einer	-	-	-	0:03:19.893000	0:03:23.939000
-der	-	-	-	0:03:19.893000	0:03:23.939000
-wenigen	-	-	-	0:03:19.893000	0:03:23.939000
-<<kichernd>	-	-	-	0:03:19.893000	0:03:23.939000
-die	-	-	-	0:03:19.893000	0:03:23.939000
-des>	-	-	-	0:03:19.893000	0:03:23.939000
-in	-	-	-	0:03:19.893000	0:03:23.939000
-der	-	-	-	0:03:19.893000	0:03:23.939000
-Hauptschule	-	-	-	0:03:19.893000	0:03:23.939000
-gemacht	-	-	-	0:03:19.893000	0:03:23.939000
-haben	-	-	-	0:03:19.893000	0:03:23.939000
-das	-	-	-	0:03:23.939000	0:03:26.446000
-dann	-	-	-	0:03:23.939000	0:03:26.446000
-auch	-	-	-	0:03:23.939000	0:03:26.446000
-bis	-	-	-	0:03:23.939000	0:03:26.446000
-zum	-	-	-	0:03:23.939000	0:03:26.446000
-Studium	-	-	-	0:03:23.939000	0:03:26.446000
-zu	-	-	-	0:03:23.939000	0:03:26.446000
-betreiben	-	-	-	0:03:23.939000	0:03:26.446000
-und	-	-	-	0:03:26.446000	0:03:32.946000
-ich	-	-	-	0:03:26.446000	0:03:32.946000
-habe	-	-	-	0:03:26.446000	0:03:32.946000
-das	-	-	-	0:03:26.446000	0:03:32.946000
-au	-	-	-	0:03:26.446000	0:03:32.946000
-dann	-	-	-	0:03:26.446000	0:03:32.946000
-noch	-	-	-	0:03:26.446000	0:03:32.946000
-nach	-	-	-	0:03:26.446000	0:03:32.946000
-der	-	-	-	0:03:26.446000	0:03:32.946000
-hauptschulzeit	-	-	-	0:03:26.446000	0:03:32.946000
-relativ	-	-	-	0:03:26.446000	0:03:32.946000
-lange	-	-	-	0:03:26.446000	0:03:32.946000
-relativ	-	-	-	0:03:26.446000	0:03:32.946000
-lange	-	-	-	0:03:26.446000	0:03:32.946000
-diesen	-	-	-	0:03:26.446000	0:03:32.946000
-diesen	-	-	-	0:03:26.446000	0:03:32.946000
-Chor	-	-	-	0:03:26.446000	0:03:32.946000
-betreut	-	-	-	0:03:26.446000	0:03:32.946000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:32.946000" end="0:03:33.886000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:33.886000" end="0:03:37.506000" project="PP04" age_lower="20" age_upper="30">
-erst	-	-	-	0:03:33.886000	0:03:36.119000
-seit	-	-	-	0:03:33.886000	0:03:36.119000
-ein	-	-	-	0:03:33.886000	0:03:36.119000
-paar	-	-	-	0:03:33.886000	0:03:36.119000
-Jahren	-	-	-	0:03:33.886000	0:03:36.119000
-nimmer	-	-	-	0:03:33.886000	0:03:36.119000
-also	-	-	-	0:03:36.119000	0:03:37.506000
-es	-	-	-	0:03:36.119000	0:03:37.506000
-war	-	-	-	0:03:36.119000	0:03:37.506000
-wirklich	-	-	-	0:03:36.119000	0:03:37.506000
-lang	-	-	-	0:03:36.119000	0:03:37.506000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:37.506000" end="0:03:39.978000" age_lower="1" age_upper="999">
-und	-	-	-	0:03:37.506000	0:03:39.978000
-mitgsungen	-	-	-	0:03:37.506000	0:03:39.978000
-haben	-	-	-	0:03:37.506000	0:03:39.978000
-Sie	-	-	-	0:03:37.506000	0:03:39.978000
-auch	-	-	-	0:03:37.506000	0:03:39.978000
-beim	-	-	-	0:03:37.506000	0:03:39.978000
-Chor	-	-	-	0:03:37.506000	0:03:39.978000
-oder	-	-	-	0:03:37.506000	0:03:39.978000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:39.519000" end="0:03:44.846000" project="PP04" age_lower="20" age_upper="30">
-nein	-	-	-	0:03:39.519000	0:03:41.426000
-weil	-	-	-	0:03:39.519000	0:03:41.426000
-das	-	-	-	0:03:39.519000	0:03:41.426000
-nur	-	-	-	0:03:39.519000	0:03:41.426000
-Mädchen	-	-	-	0:03:39.519000	0:03:41.426000
-sind	-	-	-	0:03:39.519000	0:03:41.426000
-weil	-	-	-	0:03:41.426000	0:03:44.846000
-weil	-	-	-	0:03:41.426000	0:03:44.846000
-die	-	-	-	0:03:41.426000	0:03:44.846000
-Burschen	-	-	-	0:03:41.426000	0:03:44.846000
-zu	-	-	-	0:03:41.426000	0:03:44.846000
-der	-	-	-	0:03:41.426000	0:03:44.846000
-Zeit	-	-	-	0:03:41.426000	0:03:44.846000
-ja	-	-	-	0:03:41.426000	0:03:44.846000
-in	-	-	-	0:03:41.426000	0:03:44.846000
-der	-	-	-	0:03:41.426000	0:03:44.846000
-mutation	-	-	-	0:03:41.426000	0:03:44.846000
-sind	-	-	-	0:03:41.426000	0:03:44.846000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:41.699000" end="0:03:42.266000" age_lower="1" age_upper="999">
-ah	-	-	-	0:03:41.699000	0:03:42.266000
-so	-	-	-	0:03:41.699000	0:03:42.266000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:44.846000" end="0:03:52.899000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:03:44.846000	0:03:47.606000
-ah	-	-	-	0:03:44.846000	0:03:47.606000
-wollte	-	-	-	0:03:44.846000	0:03:47.606000
-der	-	-	-	0:03:44.846000	0:03:47.606000
-Lehrer	-	-	-	0:03:44.846000	0:03:47.606000
-damals	-	-	-	0:03:44.846000	0:03:47.606000
-vermeiden	-	-	-	0:03:44.846000	0:03:47.606000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit+	0:03:47.606000	0:03:52.899000
-ein	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit+	0:03:47.606000	0:03:52.899000
-mit	-	-	-	0:03:47.606000	0:03:52.899000
-den	-	-	-	0:03:47.606000	0:03:52.899000
-burschen	-	-	-	0:03:47.606000	0:03:52.899000
-da	-	-	-	0:03:47.606000	0:03:52.899000
-ah	-	-	-	0:03:47.606000	0:03:52.899000
-sich	-	-	-	0:03:47.606000	0:03:52.899000
-mit	-	-	-	0:03:47.606000	0:03:52.899000
-da	-	-	-	0:03:47.606000	0:03:52.899000
-mutation	-	-	-	0:03:47.606000	0:03:52.899000
-beschäftigen	-	-	-	0:03:47.606000	0:03:52.899000
-muss	-	-	-	0:03:47.606000	0:03:52.899000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:52.639000" end="0:03:53.099000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:52.899000" end="0:03:54.966000" project="PP04" age_lower="20" age_upper="30">
-er	-	-	-	0:03:52.899000	0:03:54.966000
-hat	-	-	-	0:03:52.899000	0:03:54.966000
-nur	-	-	-	0:03:52.899000	0:03:54.966000
-Mädels	-	-	-	0:03:52.899000	0:03:54.966000
-im	-	-	-	0:03:52.899000	0:03:54.966000
-Chor	-	-	-	0:03:52.899000	0:03:54.966000
-gehabt	-	-	-	0:03:52.899000	0:03:54.966000
-ja	-	-	-	0:03:52.899000	0:03:54.966000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:54.739000" end="0:03:58.612000" age_lower="1" age_upper="999">
-<<kichernd>	-	-	-	0:03:55.432000	0:03:56.159000
-okay;>	-	-	-	0:03:55.432000	0:03:56.159000
-und	-	-	-	0:03:56.159000	0:03:58.612000
-seit	-	-	-	0:03:56.159000	0:03:58.612000
-wann	-	-	-	0:03:56.159000	0:03:58.612000
-studieren	-	-	-	0:03:56.159000	0:03:58.612000
-Sie	-	-	-	0:03:56.159000	0:03:58.612000
-jetzt	-	-	-	0:03:56.159000	0:03:58.612000
-schon	-	-	-	0:03:56.159000	0:03:58.612000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:58.612000" end="0:04:42.046000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:03:58.612000	0:04:03.939000
-eben	-	-	-	0:03:58.612000	0:04:03.939000
-diese	-	-	-	0:03:58.612000	0:04:03.939000
-d	-	-	-	0:03:58.612000	0:04:03.939000
-äh	-	-	-	0:03:58.612000	0:04:03.939000
-die	-	-	-	0:03:58.612000	0:04:03.939000
-tontechnikausbildung	-	-	-	0:03:58.612000	0:04:03.939000
-war	-	-	-	0:03:58.612000	0:04:03.939000
-circa	-	-	-	0:04:03.939000	0:04:07.026000
-von	-	-	-	0:04:03.939000	0:04:07.026000
-also	-	-	-	0:04:03.939000	0:04:07.026000
-ganz	-	-	-	0:04:03.939000	0:04:07.026000
-grob	-	-	-	0:04:03.939000	0:04:07.026000
-ZAHL	ZAHL	-	-	0:04:07.026000	0:04:11.732000
-bis	-	-	-	0:04:07.026000	0:04:11.732000
-oder	-	-	-	0:04:07.026000	0:04:11.732000
-ZAHL	ZAHL	-	-	0:04:07.026000	0:04:11.732000
-bis	-	-	-	0:04:07.026000	0:04:11.732000
-ZAHL	ZAHL	-	-	0:04:07.026000	0:04:11.732000
-das	-	-	-	0:04:11.732000	0:04:13.232000
-war	-	-	-	0:04:11.732000	0:04:13.232000
-em	-	-	-	0:04:11.732000	0:04:13.232000
-mit	-	-	-	0:04:11.732000	0:04:13.232000
-Pausen	-	-	-	0:04:11.732000	0:04:13.232000
-da	-	-	-	0:04:13.232000	0:04:15.766000
-war	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:13.232000	0:04:15.766000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:13.232000	0:04:15.766000
-dazwischen	-	-	-	0:04:13.232000	0:04:15.766000
-an	-	-	-	0:04:13.232000	0:04:15.766000
-der	-	-	-	0:04:13.232000	0:04:15.766000
-ef	-	-	-	0:04:13.232000	0:04:15.766000
-ha	-	-	-	0:04:13.232000	0:04:15.766000
-ORT	ORT	-	-	0:04:13.232000	0:04:15.766000
-ORT	ORT	-	-	0:04:13.232000	0:04:15.766000
-habe	-	-	-	0:04:15.766000	0:04:18.906000
-dort	-	-	-	0:04:15.766000	0:04:18.906000
-probiert	-	-	-	0:04:15.766000	0:04:18.906000
-medientechnik	-	-	-	0:04:15.766000	0:04:18.906000
-zu	-	-	-	0:04:15.766000	0:04:18.906000
-studieren	-	-	-	0:04:15.766000	0:04:18.906000
-das	-	-	-	0:04:18.906000	0:04:23.266000
-war	-	-	-	0:04:18.906000	0:04:23.266000
-aber	-	-	-	0:04:18.906000	0:04:23.266000
-jetzt	-	-	-	0:04:18.906000	0:04:23.266000
-von	-	-	-	0:04:18.906000	0:04:23.266000
-da	-	-	-	0:04:18.906000	0:04:23.266000
-tontechnischen	-	-	-	0:04:18.906000	0:04:23.266000
-Seite	-	-	-	0:04:18.906000	0:04:23.266000
-für	-	-	-	0:04:18.906000	0:04:23.266000
-mich	-	-	-	0:04:18.906000	0:04:23.266000
-irgendwie	-	-	-	0:04:18.906000	0:04:23.266000
-zu	-	-	-	0:04:18.906000	0:04:23.266000
-wenig	-	-	-	0:04:18.906000	0:04:23.266000
-und	-	-	-	0:04:23.266000	0:04:25.032000
-habe	-	-	-	0:04:23.266000	0:04:25.032000
-dann	-	-	-	0:04:23.266000	0:04:25.032000
-wieder	-	-	-	0:04:23.266000	0:04:25.032000
-zurückgewechselt	-	-	-	0:04:23.266000	0:04:25.032000
-das	-	-	-	0:04:25.032000	0:04:26.632000
-war	-	-	-	0:04:25.032000	0:04:26.632000
-ein	-	-	-	0:04:25.032000	0:04:26.632000
-bisschen	-	-	-	0:04:25.032000	0:04:26.632000
-mit	-	-	-	0:04:25.032000	0:04:26.632000
-Unterbrechungen	-	-	-	0:04:25.032000	0:04:26.632000
-circa	-	-	-	0:04:26.632000	0:04:29.786000
-ZAHL	ZAHL	-	-	0:04:26.632000	0:04:29.786000
-bis	-	-	-	0:04:26.632000	0:04:29.786000
-ZAHL	ZAHL	-	-	0:04:26.632000	0:04:29.786000
-war	-	-	-	0:04:26.632000	0:04:29.786000
-war	-	-	-	0:04:26.632000	0:04:29.786000
-diese	-	-	-	0:04:26.632000	0:04:29.786000
-tonausbildung	-	-	-	0:04:26.632000	0:04:29.786000
-und	-	-	-	0:04:29.786000	0:04:34.072000
-dann	-	-	-	0:04:29.786000	0:04:34.072000
-war	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:29.786000	0:04:34.072000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:29.786000	0:04:34.072000
-em	-	-	-	0:04:29.786000	0:04:34.072000
-ein	-	-	-	0:04:29.786000	0:04:34.072000
-zeitlang	-	-	-	0:04:29.786000	0:04:34.072000
-selbstständig	-	-	-	0:04:29.786000	0:04:34.072000
-und	-	-	-	0:04:34.072000	0:04:35.392000
-beim	-	-	-	0:04:34.072000	0:04:35.392000
-er	-	-	-	0:04:34.072000	0:04:35.392000
-hot	-	-	-	0:04:34.072000	0:04:35.392000
-ef	-	-	-	0:04:34.072000	0:04:35.392000
-und	-	-	-	0:04:35.392000	0:04:36.272000
-hin	-	-	-	0:04:35.392000	0:04:36.272000
-und	-	-	-	0:04:35.392000	0:04:36.272000
-her	-	-	-	0:04:35.392000	0:04:36.272000
-viele	-	-	-	0:04:36.272000	0:04:38.792000
-Jobs	-	-	-	0:04:36.272000	0:04:38.792000
-und	-	-	-	0:04:38.792000	0:04:42.046000
-seit	-	-	-	0:04:38.792000	0:04:42.046000
-ZAHL	ZAHL	-	-	0:04:38.792000	0:04:42.046000
-bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:38.792000	0:04:42.046000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:38.792000	0:04:42.046000
-einen	-	-	-	0:04:38.792000	0:04:42.046000
-der	-	-	-	0:04:38.792000	0:04:42.046000
-Musikuni	-	-	-	0:04:38.792000	0:04:42.046000
-in	-	-	-	0:04:38.792000	0:04:42.046000
-ORT	ORT	-	-	0:04:38.792000	0:04:42.046000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:41.579000" end="0:04:50.106000" age_lower="1" age_upper="999">
-ah	-	-	-	0:04:42.972000	0:04:47.852000
-um	-	-	-	0:04:42.972000	0:04:47.852000
-wieder	-	-	-	0:04:42.972000	0:04:47.852000
-auf	-	-	-	0:04:42.972000	0:04:47.852000
-den	-	-	-	0:04:42.972000	0:04:47.852000
-wohnort	-	-	-	0:04:42.972000	0:04:47.852000
-hier	-	-	-	0:04:42.972000	0:04:47.852000
-zu	-	-	-	0:04:42.972000	0:04:47.852000
-sprechen	-	-	-	0:04:42.972000	0:04:47.852000
-zu	-	-	-	0:04:42.972000	0:04:47.852000
-kommen	-	-	-	0:04:42.972000	0:04:47.852000
-wohnen	-	-	-	0:04:47.852000	0:04:50.106000
-Sie	-	-	-	0:04:47.852000	0:04:50.106000
-gern	-	-	-	0:04:47.852000	0:04:50.106000
-hier	-	-	-	0:04:47.852000	0:04:50.106000
-in	-	-	-	0:04:47.852000	0:04:50.106000
-ORT	ORT	-	-	0:04:47.852000	0:04:50.106000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:04:50.106000" end="0:05:41.452000" project="PP04" age_lower="20" age_upper="30">
-sehr	-	-	-	0:04:52.252000	0:04:54.652000
-schwierige	-	-	-	0:04:52.252000	0:04:54.652000
-Frage	-	-	-	0:04:52.252000	0:04:54.652000
-ah	-	-	-	0:04:57.192000	0:04:59.919000
-einerseits	-	-	-	0:04:57.192000	0:04:59.919000
-ja	-	-	-	0:04:57.192000	0:04:59.919000
-ah	-	-	-	0:04:59.919000	0:05:05.452000
-weil	-	-	-	0:04:59.919000	0:05:05.452000
-weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:04:59.919000	0:05:05.452000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:04:59.919000	0:05:05.452000
-schon	-	-	-	0:04:59.919000	0:05:05.452000
-trotz	-	-	-	0:04:59.919000	0:05:05.452000
-allem	-	-	-	0:04:59.919000	0:05:05.452000
-noch	-	-	-	0:05:07.452000	0:05:10.492000
-eine	-	-	-	0:05:07.452000	0:05:10.492000
-örtliche	-	-	-	0:05:07.452000	0:05:10.492000
-Struktur	-	-	-	0:05:07.452000	0:05:10.492000
-gibt	-	-	-	0:05:07.452000	0:05:10.492000
-viele	-	-	-	0:05:10.492000	0:05:13.686000
-Leute	-	-	-	0:05:10.492000	0:05:13.686000
-kennen	-	-	-	0:05:10.492000	0:05:13.686000
-einander	-	-	-	0:05:10.492000	0:05:13.686000
-es	-	-	-	0:05:13.686000	0:05:17.292000
-ja	-	-	-	0:05:13.686000	0:05:17.292000
-es	-	-	-	0:05:17.292000	0:05:20.512000
-gibt	-	-	-	0:05:17.292000	0:05:20.512000
-so	-	-	-	0:05:17.292000	0:05:20.512000
-eine	-	-	-	0:05:17.292000	0:05:20.512000
-gewisse	-	-	-	0:05:17.292000	0:05:20.512000
-ich	-	-	-	0:05:20.512000	0:05:24.806000
-weiß	-	-	-	0:05:20.512000	0:05:24.806000
-nicht	-	-	-	0:05:20.512000	0:05:24.806000
-Gemeinschaft	-	-	-	0:05:20.512000	0:05:24.806000
-ist	-	-	-	0:05:20.512000	0:05:24.806000
-übertrieben	-	-	-	0:05:20.512000	0:05:24.806000
-ja	-	-	-	0:05:24.806000	0:05:25.926000
-ich	-	-	-	0:05:25.926000	0:05:28.846000
-bin	-	-	-	0:05:25.926000	0:05:28.846000
-einfach	-	-	-	0:05:25.926000	0:05:28.846000
-immer	-	-	-	0:05:25.926000	0:05:28.846000
-da	-	-	-	0:05:25.926000	0:05:28.846000
-gwesen	-	-	-	0:05:25.926000	0:05:28.846000
-man	-	-	-	0:05:28.846000	0:05:30.946000
-kennt	-	-	-	0:05:28.846000	0:05:30.946000
-viele	-	-	-	0:05:28.846000	0:05:30.946000
-Leute	-	-	-	0:05:28.846000	0:05:30.946000
-und	-	-	-	0:05:28.846000	0:05:30.946000
-aber	-	-	-	0:05:30.946000	0:05:34.812000
-rein	-	-	-	0:05:30.946000	0:05:34.812000
-so	-	-	-	0:05:30.946000	0:05:34.812000
-situativ	-	-	-	0:05:30.946000	0:05:34.812000
-ah	-	-	-	0:05:34.812000	0:05:38.246000
-dadurch	-	-	-	0:05:34.812000	0:05:38.246000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:05:34.812000	0:05:38.246000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:05:34.812000	0:05:38.246000
-jetzt	-	-	-	0:05:34.812000	0:05:38.246000
-die	-	-	-	0:05:34.812000	0:05:38.246000
-letzten	-	-	-	0:05:34.812000	0:05:38.246000
-eineinhalb	-	-	-	0:05:34.812000	0:05:38.246000
-Jahre	-	-	-	0:05:34.812000	0:05:38.246000
-in	-	-	-	0:05:34.812000	0:05:38.246000
-ORT	ORT	-	-	0:05:34.812000	0:05:38.246000
-war	-	-	-	0:05:34.812000	0:05:38.246000
-das	-	-	-	0:05:38.246000	0:05:41.452000
-wäre	-	-	-	0:05:38.246000	0:05:41.452000
-für	-	-	-	0:05:38.246000	0:05:41.452000
-mich	-	-	-	0:05:38.246000	0:05:41.452000
-so	-	-	-	0:05:38.246000	0:05:41.452000
-so	-	-	-	0:05:38.246000	0:05:41.452000
-ziemlich	-	-	-	0:05:38.246000	0:05:41.452000
-ein	-	-	-	0:05:38.246000	0:05:41.452000
-paradies	-	-	-	0:05:38.246000	0:05:41.452000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:41.452000" end="0:05:42.366000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:05:42.366000" end="0:06:04.799000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:05:42.366000	0:05:44.326000
-ist	-	-	-	0:05:42.366000	0:05:44.326000
-halt	-	-	-	0:05:42.366000	0:05:44.326000
-viel	-	-	-	0:05:42.366000	0:05:44.326000
-ruhiger	-	-	-	0:05:42.366000	0:05:44.326000
-ländlicher	-	-	-	0:05:44.326000	0:05:45.146000
-gibt	-	-	-	0:05:45.146000	0:05:45.866000
-ah	-	-	-	0:05:45.866000	0:05:51.106000
-die	-	-	-	0:05:45.866000	0:05:51.106000
-Landschaft	-	-	-	0:05:45.866000	0:05:51.106000
-ist	-	-	-	0:05:45.866000	0:05:51.106000
-ein	-	-	-	0:05:45.866000	0:05:51.106000
-bisschen	-	-	-	0:05:45.866000	0:05:51.106000
-halt	-	-	-	0:05:45.866000	0:05:51.106000
-ja	-	-	-	0:05:45.866000	0:05:51.106000
-für	-	-	-	0:05:51.106000	0:05:52.599000
-mich	-	-	-	0:05:51.106000	0:05:52.599000
-schöner	-	-	-	0:05:51.106000	0:05:52.599000
-es	-	-	-	0:05:52.599000	0:05:54.312000
-ge	-	-	-	0:05:52.599000	0:05:54.312000
-ist	-	-	-	0:05:52.599000	0:05:54.312000
-schon	-	-	-	0:05:52.599000	0:05:54.312000
-ein	-	-	-	0:05:52.599000	0:05:54.312000
-bisschen	-	-	-	0:05:52.599000	0:05:54.312000
-hügeliger	-	-	-	0:05:52.599000	0:05:54.312000
-gibt	-	-	-	0:05:54.312000	0:05:55.279000
-weingärten	-	-	-	0:05:54.312000	0:05:55.279000
-gehst	-	-	-	0:05:55.279000	0:05:58.592000
-bei	-	-	-	0:05:55.279000	0:05:58.592000
-der	-	-	-	0:05:55.279000	0:05:58.592000
-Tür	-	-	-	0:05:55.279000	0:05:58.592000
-raus	-	-	-	0:05:55.279000	0:05:58.592000
-bist	-	-	-	0:05:55.279000	0:05:58.592000
-sofort	-	-	-	0:05:55.279000	0:05:58.592000
-im	-	-	-	0:05:55.279000	0:05:58.592000
-im	-	-	-	0:05:55.279000	0:05:58.592000
-Weingarten	-	-	-	0:05:55.279000	0:05:58.592000
-und	-	-	-	0:06:00.446000	0:06:03.272000
-es	-	-	-	0:06:00.446000	0:06:03.272000
-ich	-	-	-	0:06:00.446000	0:06:03.272000
-es	-	-	-	0:06:00.446000	0:06:03.272000
-ist	-	-	-	0:06:00.446000	0:06:03.272000
-einfach	-	-	-	0:06:00.446000	0:06:03.272000
-ruhiger	-	-	-	0:06:00.446000	0:06:03.272000
-bei	-	-	-	0:06:03.272000	0:06:04.799000
-uns	-	-	-	0:06:03.272000	0:06:04.799000
-es	-	-	-	0:06:03.272000	0:06:04.799000
-ist	-	-	-	0:06:03.272000	0:06:04.799000
-wirklich	-	-	-	0:06:03.272000	0:06:04.799000
-schon	-	-	-	0:06:03.272000	0:06:04.799000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:03.712000" end="0:06:04.146000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:04.799000" end="0:06:06.146000" project="PP04" age_lower="20" age_upper="30">
-wird	-	-	-	0:06:04.799000	0:06:06.146000
-immer	-	-	-	0:06:04.799000	0:06:06.146000
-urbaner	-	-	-	0:06:04.799000	0:06:06.146000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:06.146000" end="0:06:06.806000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:06.806000" end="0:06:09.386000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:06:06.806000	0:06:09.386000
-wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:06:06.806000	0:06:09.386000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:06:06.806000	0:06:09.386000
-eigentlich	-	-	-	0:06:06.806000	0:06:09.386000
-schon	-	-	-	0:06:06.806000	0:06:09.386000
-zu	-	-	-	0:06:06.806000	0:06:09.386000
-Urban	-	-	-	0:06:06.806000	0:06:09.386000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:09.386000" end="0:06:12.552000" age_lower="1" age_upper="999">
-ist	-	-	-	0:06:09.386000	0:06:11.759000
-ja	-	-	-	0:06:09.386000	0:06:11.759000
-auch	-	-	-	0:06:09.386000	0:06:11.759000
-nicht	-	-	-	0:06:09.386000	0:06:11.759000
-so	-	-	-	0:06:09.386000	0:06:11.759000
-weit	-	-	-	0:06:09.386000	0:06:11.759000
-von	-	-	-	0:06:09.386000	0:06:11.759000
-der	-	-	-	0:06:09.386000	0:06:11.759000
-Stadt	-	-	-	0:06:09.386000	0:06:11.759000
-entfernt	-	-	-	0:06:09.386000	0:06:11.759000
-also	-	-	-	0:06:11.759000	0:06:12.552000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:11.759000" end="0:06:15.426000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:06:11.759000	0:06:15.426000
-und	-	-	-	0:06:11.759000	0:06:15.426000
-ORT	ORT	-	-	0:06:11.759000	0:06:15.426000
-hat	-	-	-	0:06:11.759000	0:06:15.426000
-auch	-	-	-	0:06:11.759000	0:06:15.426000
-schon	-	-	-	0:06:11.759000	0:06:15.426000
-weit	-	-	-	0:06:11.759000	0:06:15.426000
-über	-	-	-	0:06:11.759000	0:06:15.426000
-zehntausend	-	-	-	0:06:11.759000	0:06:15.426000
-Einwohner	-	-	-	0:06:11.759000	0:06:15.426000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:15.426000" end="0:06:15.966000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:15.966000" end="0:06:25.059000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:06:15.966000	0:06:20.426000
-wir	-	-	-	0:06:15.966000	0:06:20.426000
-haben	-	-	-	0:06:15.966000	0:06:20.426000
-sehr	-	-	-	0:06:15.966000	0:06:20.426000
-viel	-	-	-	0:06:15.966000	0:06:20.426000
-äh	-	-	-	0:06:15.966000	0:06:20.426000
-industrie	-	-	-	0:06:15.966000	0:06:20.426000
-eigentlich	-	-	-	0:06:15.966000	0:06:20.426000
-im	-	-	-	0:06:15.966000	0:06:20.426000
-Ort	-	-	-	0:06:15.966000	0:06:20.426000
-sehr	-	-	-	0:06:20.426000	0:06:25.059000
-viel	-	-	-	0:06:20.426000	0:06:25.059000
-also	-	-	-	0:06:20.426000	0:06:25.059000
-sicher	-	-	-	0:06:20.426000	0:06:25.059000
-drei	-	-	-	0:06:20.426000	0:06:25.059000
-vier	-	-	-	0:06:20.426000	0:06:25.059000
-fünf	-	-	-	0:06:20.426000	0:06:25.059000
-äh	-	-	-	0:06:20.426000	0:06:25.059000
-betonwerke	-	-	-	0:06:20.426000	0:06:25.059000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:25.059000" end="0:06:25.366000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:25.059000" end="0:06:46.506000" project="PP04" age_lower="20" age_upper="30">
-betonfertigteilhersteller	-	-	-	0:06:25.059000	0:06:27.192000
-und	-	-	-	0:06:27.192000	0:06:31.712000
-jetzt	-	-	-	0:06:27.192000	0:06:31.712000
-eben	-	-	-	0:06:27.192000	0:06:31.712000
-mit	-	-	-	0:06:27.192000	0:06:31.712000
-dem	-	-	-	0:06:27.192000	0:06:31.712000
-neuen	-	-	-	0:06:27.192000	0:06:31.712000
-Haus	-	-	-	0:06:27.192000	0:06:31.712000
-hier	-	-	-	0:06:27.192000	0:06:31.712000
-man	-	-	-	0:06:31.712000	0:06:34.279000
-sieht	-	-	-	0:06:31.712000	0:06:34.279000
-raus	-	-	-	0:06:31.712000	0:06:34.279000
-auf	-	-	-	0:06:31.712000	0:06:34.279000
-die	-	-	-	0:06:31.712000	0:06:34.279000
-ORT	ORT	-	-	0:06:31.712000	0:06:34.279000
-Straße	-	-	-	0:06:31.712000	0:06:34.279000
-nicht	-	-	-	0:06:34.279000	0:06:35.172000
-mehr	-	-	-	0:06:34.279000	0:06:35.172000
-lange	-	-	-	0:06:34.279000	0:06:35.172000
-weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:06:35.172000	0:06:37.558000
-wir	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:06:35.172000	0:06:37.558000
-jetzt	-	-	-	0:06:35.172000	0:06:37.558000
-eh	-	-	-	0:06:35.172000	0:06:37.558000
-was	-	-	-	0:06:35.172000	0:06:37.558000
-davor	-	-	-	0:06:35.172000	0:06:37.558000
-hinbauen	-	-	-	0:06:35.172000	0:06:37.558000
-aber	-	-	-	0:06:37.558000	0:06:41.332000
-diese	-	-	-	0:06:37.558000	0:06:41.332000
-ganzen	-	-	-	0:06:37.558000	0:06:41.332000
-ah	-	-	-	0:06:37.558000	0:06:41.332000
-gewerbetreibenden	-	-	-	0:06:37.558000	0:06:41.332000
-äh	-	-	-	0:06:41.332000	0:06:46.506000
-die	-	-	-	0:06:41.332000	0:06:46.506000
-fahren	-	-	-	0:06:41.332000	0:06:46.506000
-alle	-	-	-	0:06:41.332000	0:06:46.506000
-mit	-	-	-	0:06:41.332000	0:06:46.506000
-Ihren	-	-	-	0:06:41.332000	0:06:46.506000
-Autos	-	-	-	0:06:41.332000	0:06:46.506000
-eben	-	-	-	0:06:41.332000	0:06:46.506000
-da	-	-	-	0:06:41.332000	0:06:46.506000
-auf	-	-	-	0:06:41.332000	0:06:46.506000
-und	-	-	-	0:06:41.332000	0:06:46.506000
-ab	-	-	-	0:06:41.332000	0:06:46.506000
-vorbei	-	-	-	0:06:41.332000	0:06:46.506000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:46.506000" end="0:06:47.492000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:46.506000" end="0:06:50.799000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:06:46.506000	0:06:50.799000
-das	-	-	-	0:06:46.506000	0:06:50.799000
-ist	-	-	-	0:06:46.506000	0:06:50.799000
-schon	-	-	-	0:06:46.506000	0:06:50.799000
-eine	-	-	-	0:06:46.506000	0:06:50.799000
-gewisse	-	-	-	0:06:46.506000	0:06:50.799000
-Belastung	-	-	-	0:06:46.506000	0:06:50.799000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:50.799000" end="0:06:51.499000" age_lower="1" age_upper="999">
-ja	-	-	-	0:06:50.799000	0:06:51.499000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:50.799000" end="0:06:52.058000" project="PP04" age_lower="20" age_upper="30">
-sage	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:06:50.799000	0:06:52.058000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:06:50.799000	0:06:52.058000
-ehrlich	-	-	-	0:06:50.799000	0:06:52.058000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:52.058000" end="0:06:56.739000" age_lower="1" age_upper="999">
-würde	-	-	-	0:06:53.579000	0:06:56.739000
-es	-	-	-	0:06:53.579000	0:06:56.739000
-Ihnen	-	-	-	0:06:53.579000	0:06:56.739000
-schwer	-	-	-	0:06:53.579000	0:06:56.739000
-fallen	-	-	-	0:06:53.579000	0:06:56.739000
-von	-	-	-	0:06:53.579000	0:06:56.739000
-hier	-	-	-	0:06:53.579000	0:06:56.739000
-wegzuziehen	-	-	-	0:06:53.579000	0:06:56.739000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:56.739000" end="0:07:03.159000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:06:56.739000	0:06:59.759000
-kommt	-	-	-	0:06:56.739000	0:06:59.759000
-sehr	-	-	-	0:06:56.739000	0:06:59.759000
-darauf	-	-	-	0:06:56.739000	0:06:59.759000
-an	-	-	-	0:06:56.739000	0:06:59.759000
-wohin	-	-	-	0:06:56.739000	0:06:59.759000
-in	-	-	-	0:06:59.759000	0:07:03.159000
-in	-	-	-	0:06:59.759000	0:07:03.159000
-die	-	-	-	0:06:59.759000	0:07:03.159000
-nähere	-	-	-	0:06:59.759000	0:07:03.159000
-Umgebung	-	-	-	0:06:59.759000	0:07:03.159000
-nicht	-	-	-	0:06:59.759000	0:07:03.159000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:03.159000" end="0:07:03.839000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:07:03.839000" end="0:07:08.292000" project="PP04" age_lower="20" age_upper="30">
-auf	-	-	-	0:07:03.839000	0:07:04.812000
-keinen	-	-	-	0:07:03.839000	0:07:04.812000
-Fall	-	-	-	0:07:03.839000	0:07:04.812000
-weiter	-	-	-	0:07:04.812000	0:07:08.292000
-weg	-	-	-	0:07:04.812000	0:07:08.292000
-irgendwie	-	-	-	0:07:04.812000	0:07:08.292000
-schon	-	-	-	0:07:04.812000	0:07:08.292000
-ja	-	-	-	0:07:04.812000	0:07:08.292000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:08.292000" end="0:07:15.165000" age_lower="1" age_upper="999">
-also	-	-	-	0:07:08.292000	0:07:10.739000
-sie	-	-	-	0:07:08.292000	0:07:10.739000
-könnten	-	-	-	0:07:08.292000	0:07:10.739000
-sich	-	-	-	0:07:08.292000	0:07:10.739000
-es	-	-	-	0:07:08.292000	0:07:10.739000
-aber	-	-	-	0:07:08.292000	0:07:10.739000
-durchaus	-	-	-	0:07:08.292000	0:07:10.739000
-vorstellen	-	-	-	0:07:08.292000	0:07:10.739000
-jetzt	-	-	-	0:07:10.739000	0:07:15.165000
-unabhängig	-	-	-	0:07:10.739000	0:07:15.165000
-davon	-	-	-	0:07:10.739000	0:07:15.165000
-dass	-	-	-	0:07:10.739000	0:07:15.165000
-Sie	-	-	-	0:07:10.739000	0:07:15.165000
-<<kichernd>	-	-	-	0:07:10.739000	0:07:15.165000
-grade	-	-	-	0:07:10.739000	0:07:15.165000
-ihr	-	-	-	0:07:10.739000	0:07:15.165000
-haus>	-	-	-	0:07:10.739000	0:07:15.165000
-baut	-	-	-	0:07:10.739000	0:07:15.165000
-haben	-	-	-	0:07:10.739000	0:07:15.165000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:07:10.739000" end="0:07:18.305000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:07:10.739000	0:07:12.799000
-ich	-	-	-	0:07:10.739000	0:07:12.799000
-es	-	-	-	0:07:15.419000	0:07:17.772000
-könnte	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:07:15.419000	0:07:17.772000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+|KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:07:15.419000	0:07:17.772000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:07:15.419000	0:07:17.772000
-durchaus	-	-	-	0:07:15.419000	0:07:17.772000
-vorstellen	-	-	-	0:07:15.419000	0:07:17.772000
-schon	-	-	-	0:07:17.772000	0:07:18.305000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:18.305000" end="0:07:25.459000" age_lower="1" age_upper="999">
-darf	-	-	-	0:07:20.952000	0:07:24.372000
-ich	-	-	-	0:07:20.952000	0:07:24.372000
-Sie	-	-	-	0:07:20.952000	0:07:24.372000
-fragen	-	-	-	0:07:20.952000	0:07:24.372000
-wie	-	-	-	0:07:20.952000	0:07:24.372000
-Ihre	-	-	-	0:07:20.952000	0:07:24.372000
-Freizeitgestaltung	-	-	-	0:07:20.952000	0:07:24.372000
-aussieht	-	-	-	0:07:20.952000	0:07:24.372000
-haben	-	-	-	0:07:24.372000	0:07:25.459000
-sie	-	-	-	0:07:24.372000	0:07:25.459000
-Hobbys	-	-	-	0:07:24.372000	0:07:25.459000
-oder	-	-	-	0:07:24.372000	0:07:25.459000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:07:25.459000" end="0:07:33.759000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:07:27.459000	0:07:28.052000
-es	-	-	-	0:07:28.052000	0:07:29.519000
-war	-	-	-	0:07:28.052000	0:07:29.519000
-eigentlich	-	-	-	0:07:28.052000	0:07:29.519000
-immer	-	-	-	0:07:28.052000	0:07:29.519000
-ich	-	-	-	0:07:29.519000	0:07:33.759000
-habe	-	-	-	0:07:29.519000	0:07:33.759000
-eigentlich	-	-	-	0:07:29.519000	0:07:33.759000
-meine	-	-	-	0:07:29.519000	0:07:33.759000
-Hobbys	-	-	-	0:07:29.519000	0:07:33.759000
-zum	-	-	-	0:07:29.519000	0:07:33.759000
-<<kichernd>	-	-	-	0:07:29.519000	0:07:33.759000
-Beruf	-	-	-	0:07:29.519000	0:07:33.759000
-gmocht;>	-	-	-	0:07:29.519000	0:07:33.759000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:33.759000" end="0:07:35.472000" age_lower="1" age_upper="999">
-schön	-	-	-	0:07:34.365000	0:07:35.472000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:07:34.365000" end="0:08:02.072000" project="PP04" age_lower="20" age_upper="30">
-ah	-	-	-	0:07:34.365000	0:07:35.219000
-Musik	-	-	-	0:07:35.472000	0:07:37.745000
-war	-	-	-	0:07:35.472000	0:07:37.745000
-immer	-	-	-	0:07:35.472000	0:07:37.745000
-mein	-	-	-	0:07:35.472000	0:07:37.745000
-Hobby	-	-	-	0:07:35.472000	0:07:37.745000
-wird	-	-	-	0:07:37.745000	0:07:39.232000
-jetzt	-	-	-	0:07:37.745000	0:07:39.232000
-immer	-	-	-	0:07:37.745000	0:07:39.232000
-mehr	-	-	-	0:07:37.745000	0:07:39.232000
-da	-	-	-	0:07:37.745000	0:07:39.232000
-Beruf	-	-	-	0:07:37.745000	0:07:39.232000
-hmpf	-	-	-	0:07:39.232000	0:07:40.485000
-das	-	-	-	0:07:40.485000	0:07:43.172000
-ist	-	-	-	0:07:40.485000	0:07:43.172000
-dann	-	-	-	0:07:40.485000	0:07:43.172000
-oft	-	-	-	0:07:40.485000	0:07:43.172000
-so	-	-	-	0:07:40.485000	0:07:43.172000
-dass	-	-	-	0:07:40.485000	0:07:43.172000
-man	-	-	-	0:07:40.485000	0:07:43.172000
-dann	-	-	-	0:07:43.172000	0:07:46.712000
-sonst	-	-	-	0:07:43.172000	0:07:46.712000
-keine	-	-	-	0:07:43.172000	0:07:46.712000
-Lust	-	-	-	0:07:43.172000	0:07:46.712000
-mehr	-	-	-	0:07:43.172000	0:07:46.712000
-hat	-	-	-	0:07:43.172000	0:07:46.712000
-oder	-	-	-	0:07:46.712000	0:07:47.659000
-nimmer	-	-	-	0:07:46.712000	0:07:47.659000
-so	-	-	-	0:07:46.712000	0:07:47.659000
-viel	-	-	-	0:07:46.712000	0:07:47.659000
-weil	-	-	-	0:07:47.659000	0:07:51.225000
-man	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(akk.) klit+	0:07:47.659000	0:07:51.225000
-ist	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(akk.) klit+	0:07:47.659000	0:07:51.225000
-eh	-	-	-	0:07:47.659000	0:07:51.225000
-so	-	-	-	0:07:47.659000	0:07:51.225000
-viel	-	-	-	0:07:47.659000	0:07:51.225000
-betreiben	-	-	-	0:07:47.659000	0:07:51.225000
-muss	-	-	-	0:07:47.659000	0:07:51.225000
-ja	-	-	-	0:07:51.225000	0:07:52.965000
-sonst	-	-	-	0:07:51.225000	0:07:52.965000
-Hobbys	-	-	-	0:07:51.225000	0:07:52.965000
-ich	-	-	-	0:07:52.965000	0:07:54.045000
-bastel	-	-	-	0:07:52.965000	0:07:54.045000
-ganz	-	-	-	0:07:52.965000	0:07:54.045000
-gern	-	-	-	0:07:52.965000	0:07:54.045000
-f	-	-	-	0:07:54.045000	0:07:57.425000
-mache	-	-	-	0:07:54.045000	0:07:57.425000
-teilweise	-	-	-	0:07:57.425000	0:07:59.585000
-auch	-	-	-	0:07:57.425000	0:07:59.585000
-mit	-	-	-	0:07:57.425000	0:07:59.585000
-n	-	-	-	0:07:57.425000	0:07:59.585000
-Beruf	-	-	-	0:07:57.425000	0:07:59.585000
-verbunden	-	-	-	0:07:57.425000	0:07:59.585000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:07:59.585000	0:08:02.072000
-immer	-	-	-	0:07:59.585000	0:08:02.072000
-irgendwas	-	-	-	0:07:59.585000	0:08:02.072000
-bauen	-	-	-	0:07:59.585000	0:08:02.072000
-muss	-	-	-	0:07:59.585000	0:08:02.072000
-fürs	-	-	-	0:07:59.585000	0:08:02.072000
-gewerbe	-	-	-	0:07:59.585000	0:08:02.072000
-und	-	-	-	0:07:59.585000	0:08:02.072000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:00.665000" end="0:08:01.152000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:02.072000" end="0:08:07.225000" project="PP04" age_lower="20" age_upper="30">
-irgendwelche	-	-	-	0:08:02.072000	0:08:04.785000
-holzkisten	-	-	-	0:08:02.072000	0:08:04.785000
-oder	-	-	-	0:08:02.072000	0:08:04.785000
-also	-	-	-	0:08:02.072000	0:08:04.785000
-es	-	-	-	0:08:04.785000	0:08:07.225000
-gibt	-	-	-	0:08:04.785000	0:08:07.225000
-immer	-	-	-	0:08:04.785000	0:08:07.225000
-irgendwas	-	-	-	0:08:04.785000	0:08:07.225000
-zum	-	-	-	0:08:04.785000	0:08:07.225000
-Basteln	-	-	-	0:08:04.785000	0:08:07.225000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:07.225000" end="0:08:07.885000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:07.885000" end="0:08:13.399000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:08:07.885000	0:08:09.605000
-ist	-	-	-	0:08:07.885000	0:08:09.605000
-ein	-	-	-	0:08:07.885000	0:08:09.605000
-Hobby	-	-	-	0:08:07.885000	0:08:09.605000
-ja	-	-	-	0:08:09.605000	0:08:11.979000
-bisschen	-	-	-	0:08:09.605000	0:08:11.979000
-natürlich	-	-	-	0:08:09.605000	0:08:11.979000
-Sport	-	-	-	0:08:09.605000	0:08:11.979000
-soweit	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:08:11.979000	0:08:13.399000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:08:11.979000	0:08:13.399000
-geht	-	-	-	0:08:11.979000	0:08:13.399000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:13.399000" end="0:08:22.739000" age_lower="1" age_upper="999">
-und	-	-	-	0:08:14.039000	0:08:15.739000
-wenn	-	-	-	0:08:14.039000	0:08:15.739000
-Sie	-	-	-	0:08:14.039000	0:08:15.739000
-da	-	-	-	0:08:14.039000	0:08:15.739000
-so	-	-	-	0:08:14.039000	0:08:15.739000
-Basteln	-	-	-	0:08:14.039000	0:08:15.739000
-was	-	-	-	0:08:15.739000	0:08:18.699000
-gefällt	-	-	-	0:08:15.739000	0:08:18.699000
-Ihnen	-	-	-	0:08:15.739000	0:08:18.699000
-da	-	-	-	0:08:15.739000	0:08:18.699000
-besonders	-	-	-	0:08:15.739000	0:08:18.699000
-daran	-	-	-	0:08:15.739000	0:08:18.699000
-also	-	-	-	0:08:18.699000	0:08:22.272000
-liegt	-	-	-	0:08:18.699000	0:08:22.272000
-es	-	-	-	0:08:18.699000	0:08:22.272000
-daran	-	-	-	0:08:18.699000	0:08:22.272000
-dass	-	-	-	0:08:18.699000	0:08:22.272000
-sie	-	-	-	0:08:18.699000	0:08:22.272000
-da	-	-	-	0:08:18.699000	0:08:22.272000
-mit	-	-	-	0:08:18.699000	0:08:22.272000
-Holz	-	-	-	0:08:18.699000	0:08:22.272000
-arbeiten	-	-	-	0:08:18.699000	0:08:22.272000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:22.272000" end="0:08:23.679000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:08:22.272000	0:08:23.679000
-ich	-	-	-	0:08:22.272000	0:08:23.679000
-habe	-	-	-	0:08:22.272000	0:08:23.679000
-Holz	-	-	-	0:08:22.272000	0:08:23.679000
-sehr	-	-	-	0:08:22.272000	0:08:23.679000
-gern	-	-	-	0:08:22.272000	0:08:23.679000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:23.679000" end="0:08:24.019000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:24.019000" end="0:08:26.752000" project="PP04" age_lower="20" age_upper="30">
-allgemein	-	-	-	0:08:24.019000	0:08:26.752000
-als	-	-	-	0:08:24.019000	0:08:26.752000
-Stoff	-	-	-	0:08:24.019000	0:08:26.752000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:26.752000" end="0:08:27.345000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:26.752000" end="0:08:28.912000" project="PP04" age_lower="20" age_upper="30">
-sieht	-	-	-	0:08:26.752000	0:08:28.912000
-man	-	-	-	0:08:26.752000	0:08:28.912000
-auch	-	-	-	0:08:26.752000	0:08:28.912000
-da	-	-	-	0:08:26.752000	0:08:28.912000
-herinnen	-	-	-	0:08:26.752000	0:08:28.912000
-vielleicht	-	-	-	0:08:26.752000	0:08:28.912000
-ein	-	-	-	0:08:26.752000	0:08:28.912000
-bisschen	-	-	-	0:08:26.752000	0:08:28.912000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:28.325000" end="0:08:28.672000" age_lower="1" age_upper="999">
-ja	-	-	-	0:08:28.325000	0:08:28.672000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:28.912000" end="0:08:32.491000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:08:28.912000	0:08:31.252000
-Holz	-	-	-	0:08:28.912000	0:08:31.252000
-ist	-	-	-	0:08:28.912000	0:08:31.252000
-ist	-	-	-	0:08:28.912000	0:08:31.252000
-super	-	-	-	0:08:28.912000	0:08:31.252000
-habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:08:31.252000	0:08:32.491000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:08:31.252000	0:08:32.491000
-gern	-	-	-	0:08:31.252000	0:08:32.491000
-in	-	-	-	0:08:31.252000	0:08:32.491000
-Händen	-	-	-	0:08:31.252000	0:08:32.491000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:32.139000" end="0:08:32.491000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:32.491000" end="0:08:36.871000" project="PP04" age_lower="20" age_upper="30">
-riecht	-	-	-	0:08:32.491000	0:08:33.152000
-gut	-	-	-	0:08:32.491000	0:08:33.152000
-es	-	-	-	0:08:33.152000	0:08:35.265000
-ist	-	-	-	0:08:33.152000	0:08:35.265000
-leicht	-	-	-	0:08:33.152000	0:08:35.265000
-zu	-	-	-	0:08:33.152000	0:08:35.265000
-bearbeiten	-	-	-	0:08:33.152000	0:08:35.265000
-ja	-	-	-	0:08:35.265000	0:08:36.871000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:36.871000" end="0:08:45.139000" age_lower="1" age_upper="999">
-mit	-	-	-	0:08:40.592000	0:08:45.139000
-welchen	-	-	-	0:08:40.592000	0:08:45.139000
-Personen	-	-	-	0:08:40.592000	0:08:45.139000
-verbringen	-	-	-	0:08:40.592000	0:08:45.139000
-Sie	-	-	-	0:08:40.592000	0:08:45.139000
-meistens	-	-	-	0:08:40.592000	0:08:45.139000
-Ihre	-	-	-	0:08:40.592000	0:08:45.139000
-Freizeit	-	-	-	0:08:40.592000	0:08:45.139000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:45.139000" end="0:08:47.305000" project="PP04" age_lower="20" age_upper="30">
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:47.305000" end="0:08:50.625000" age_lower="1" age_upper="999">
-also	-	-	-	0:08:47.305000	0:08:49.465000
-eher	-	-	-	0:08:47.305000	0:08:49.465000
-mit	-	-	-	0:08:47.305000	0:08:49.465000
-Personen	-	-	-	0:08:47.305000	0:08:49.465000
-aus	-	-	-	0:08:47.305000	0:08:49.465000
-der	-	-	-	0:08:47.305000	0:08:49.465000
-Familie	-	-	-	0:08:47.305000	0:08:49.465000
-oder	-	-	-	0:08:49.465000	0:08:50.625000
-mit	-	-	-	0:08:49.465000	0:08:50.625000
-Freunden	-	-	-	0:08:49.465000	0:08:50.625000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:50.625000" end="0:09:22.732000" project="PP04" age_lower="20" age_upper="30">
-n	-	-	-	0:08:53.559000	0:08:54.799000
-ja	-	-	-	0:08:53.559000	0:08:54.799000
-f	-	-	-	0:08:53.559000	0:08:54.799000
-beides	-	-	-	0:08:54.799000	0:08:56.599000
-eher	-	-	-	0:08:56.599000	0:08:59.119000
-eher	-	-	-	0:08:56.599000	0:08:59.119000
-aus	-	-	-	0:08:56.599000	0:08:59.119000
-der	-	-	-	0:08:56.599000	0:08:59.119000
-Familie	-	-	-	0:08:56.599000	0:08:59.119000
-momentan	-	-	-	0:08:56.599000	0:08:59.119000
-weil	-	-	-	0:09:01.119000	0:09:02.585000
-jetzt	-	-	-	0:09:01.119000	0:09:02.585000
-so	-	-	-	0:09:01.119000	0:09:02.585000
-Freunde	-	-	-	0:09:01.119000	0:09:02.585000
-war	-	-	-	0:09:02.585000	0:09:06.632000
-früher	-	-	-	0:09:02.585000	0:09:06.632000
-mehr	-	-	-	0:09:02.585000	0:09:06.632000
-so	-	-	-	0:09:02.585000	0:09:06.632000
-dass	-	-	-	0:09:02.585000	0:09:06.632000
-meine	-	-	-	0:09:02.585000	0:09:06.632000
-Freunde	-	-	-	0:09:02.585000	0:09:06.632000
-in	-	-	-	0:09:02.585000	0:09:06.632000
-der	-	-	-	0:09:02.585000	0:09:06.632000
-unmittelbaren	-	-	-	0:09:02.585000	0:09:06.632000
-Umgebung	-	-	-	0:09:02.585000	0:09:06.632000
-waren	-	-	-	0:09:02.585000	0:09:06.632000
-dadurch	-	-	-	0:09:06.632000	0:09:09.925000
-sehr	-	-	-	0:09:06.632000	0:09:09.925000
-schnell	-	-	-	0:09:06.632000	0:09:09.925000
-sich	-	-	-	0:09:06.632000	0:09:09.925000
-was	-	-	-	0:09:06.632000	0:09:09.925000
-ergeben	-	-	-	0:09:06.632000	0:09:09.925000
-hat	-	-	-	0:09:06.632000	0:09:09.925000
-ist	-	-	-	0:09:09.925000	0:09:12.059000
-jetzt	-	-	-	0:09:09.925000	0:09:12.059000
-leider	-	-	-	0:09:09.925000	0:09:12.059000
-nicht	-	-	-	0:09:09.925000	0:09:12.059000
-mehr	-	-	-	0:09:09.925000	0:09:12.059000
-so	-	-	-	0:09:09.925000	0:09:12.059000
-ich	-	-	-	0:09:12.059000	0:09:14.625000
-habe	-	-	-	0:09:12.059000	0:09:14.625000
-im	-	-	-	0:09:12.059000	0:09:14.625000
-Ort	-	-	-	0:09:12.059000	0:09:14.625000
-schon	-	-	-	0:09:12.059000	0:09:14.625000
-f	-	-	-	0:09:14.625000	0:09:17.252000
-Freunde	-	-	-	0:09:14.625000	0:09:17.252000
-ah	-	-	-	0:09:14.625000	0:09:17.252000
-wenig	-	-	-	0:09:14.625000	0:09:17.252000
-eigentlich	-	-	-	0:09:14.625000	0:09:17.252000
-aber	-	-	-	0:09:17.252000	0:09:21.992000
-jetzt	-	-	-	0:09:17.252000	0:09:21.992000
-so	-	-	-	0:09:17.252000	0:09:21.992000
-nimmer	-	-	-	0:09:17.252000	0:09:21.992000
-so	-	-	-	0:09:17.252000	0:09:21.992000
-dass	-	-	-	0:09:17.252000	0:09:21.992000
-meine	-	-	-	0:09:17.252000	0:09:21.992000
-Freunde	-	-	-	0:09:17.252000	0:09:21.992000
-wirklich	-	-	-	0:09:17.252000	0:09:21.992000
-die	-	-	-	0:09:17.252000	0:09:21.992000
-die	-	-	-	0:09:17.252000	0:09:21.992000
-Nachbarn	-	-	-	0:09:17.252000	0:09:21.992000
-waren	-	-	-	0:09:17.252000	0:09:21.992000
-so	-	-	-	0:09:21.992000	0:09:22.579000
-wie	-	-	-	0:09:21.992000	0:09:22.579000
-früher	-	-	-	0:09:21.992000	0:09:22.579000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:22.732000" end="0:09:23.385000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:09:22.732000" end="0:09:31.825000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:09:22.732000	0:09:24.285000
-ist	-	-	-	0:09:22.732000	0:09:24.285000
-leider	-	-	-	0:09:22.732000	0:09:24.285000
-nicht	-	-	-	0:09:22.732000	0:09:24.285000
-mehr	-	-	-	0:09:22.732000	0:09:24.285000
-dadurch	-	-	-	0:09:24.285000	0:09:28.532000
-ist	-	-	-	0:09:24.285000	0:09:28.532000
-e	-	-	-	0:09:24.285000	0:09:28.532000
-ist	-	-	-	0:09:24.285000	0:09:28.532000
-mir	-	-	-	0:09:24.285000	0:09:28.532000
-eher	-	-	-	0:09:24.285000	0:09:28.532000
-darauf	-	-	-	0:09:24.285000	0:09:28.532000
-angewiesen	-	-	-	0:09:24.285000	0:09:28.532000
-dass	-	-	-	0:09:24.285000	0:09:28.532000
-man	-	-	-	0:09:24.285000	0:09:28.532000
-sich	-	-	-	0:09:24.285000	0:09:28.532000
-irgendwas	-	-	-	0:09:24.285000	0:09:28.532000
-ausmacht	-	-	-	0:09:24.285000	0:09:28.532000
-und	-	-	-	0:09:28.532000	0:09:29.859000
-äh	-	-	-	0:09:28.532000	0:09:29.859000
-organisiert	-	-	-	0:09:28.532000	0:09:29.859000
-nimmer	-	-	-	0:09:29.859000	0:09:31.825000
-so	-	-	-	0:09:29.859000	0:09:31.825000
-spontan	-	-	-	0:09:29.859000	0:09:31.825000
-wie	-	-	-	0:09:29.859000	0:09:31.825000
-das	-	-	-	0:09:29.859000	0:09:31.825000
-früher	-	-	-	0:09:29.859000	0:09:31.825000
-war	-	-	-	0:09:29.859000	0:09:31.825000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:31.699000" end="0:09:32.112000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:09:32.112000" end="0:09:35.025000" project="PP04" age_lower="20" age_upper="30">
-so	-	-	-	0:09:32.112000	0:09:35.025000
-also	-	-	-	0:09:32.112000	0:09:35.025000
-jetzt	-	-	-	0:09:32.112000	0:09:35.025000
-eher	-	-	-	0:09:32.112000	0:09:35.025000
-mehr	-	-	-	0:09:32.112000	0:09:35.025000
-Familie	-	-	-	0:09:32.112000	0:09:35.025000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:35.025000" end="0:09:43.605000" age_lower="1" age_upper="999">
-und	-	-	-	0:09:35.025000	0:09:39.952000
-wenn	-	-	-	0:09:35.025000	0:09:39.952000
-Sie	-	-	-	0:09:35.025000	0:09:39.952000
-sich	-	-	-	0:09:35.025000	0:09:39.952000
-mit	-	-	-	0:09:35.025000	0:09:39.952000
-Ihrer	-	-	-	0:09:35.025000	0:09:39.952000
-Familie	-	-	-	0:09:35.025000	0:09:39.952000
-oder	-	-	-	0:09:35.025000	0:09:39.952000
-mit	-	-	-	0:09:35.025000	0:09:39.952000
-den	-	-	-	0:09:35.025000	0:09:39.952000
-Freunden	-	-	-	0:09:35.025000	0:09:39.952000
-treffen	-	-	-	0:09:35.025000	0:09:39.952000
-wo	-	-	-	0:09:39.952000	0:09:41.885000
-treffen	-	-	-	0:09:39.952000	0:09:41.885000
-Sie	-	-	-	0:09:39.952000	0:09:41.885000
-sich	-	-	-	0:09:39.952000	0:09:41.885000
-da	-	-	-	0:09:39.952000	0:09:41.885000
-typischerweise	-	-	-	0:09:39.952000	0:09:41.885000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:09:43.605000" end="0:09:58.179000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:09:48.605000	0:09:49.325000
-jeweils	-	-	-	0:09:52.725000	0:09:58.179000
-im	-	-	-	0:09:52.725000	0:09:58.179000
-Wohnung	-	-	-	0:09:52.725000	0:09:58.179000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:58.179000" end="0:10:00.545000" age_lower="1" age_upper="999">
-also	-	-	-	0:09:58.179000	0:10:00.545000
-bei	-	-	-	0:09:58.179000	0:10:00.545000
-denen	-	-	-	0:09:58.179000	0:10:00.545000
-zuhause	-	-	-	0:09:58.179000	0:10:00.545000
-zum	-	-	-	0:09:58.179000	0:10:00.545000
-Beispiel	-	-	-	0:09:58.179000	0:10:00.545000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:09:59.819000" end="0:10:00.545000" project="PP04" age_lower="20" age_upper="30">
-im	-	-	-	0:09:59.819000	0:10:00.545000
-privaten	-	-	-	0:09:59.819000	0:10:00.545000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:00.545000" end="0:10:01.252000" age_lower="1" age_upper="999">
-oder	-	-	-	0:10:00.545000	0:10:01.252000
-bei	-	-	-	0:10:00.545000	0:10:01.252000
-Ihnen	-	-	-	0:10:00.545000	0:10:01.252000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:00.545000" end="0:10:01.252000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:10:00.545000	0:10:01.252000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:01.252000" end="0:10:01.759000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:01.252000" end="0:10:02.065000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:10:01.252000	0:10:02.065000
-so	-	-	-	0:10:01.252000	0:10:02.065000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:02.065000" end="0:10:05.805000" age_lower="1" age_upper="999">
-und	-	-	-	0:10:03.005000	0:10:04.859000
-Ihre	-	-	-	0:10:03.005000	0:10:04.859000
-Freunde	-	-	-	0:10:03.005000	0:10:04.859000
-kommen	-	-	-	0:10:04.859000	0:10:05.805000
-die	-	-	-	0:10:04.859000	0:10:05.805000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:05.805000" end="0:10:09.679000" project="PP04" age_lower="20" age_upper="30">
-ah	-	-	-	0:10:08.705000	0:10:09.679000
-ja	-	-	-	0:10:08.705000	0:10:09.679000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:09.679000" end="0:10:13.425000" age_lower="1" age_upper="999">
-also	-	-	-	0:10:09.679000	0:10:11.792000
-auch	-	-	-	0:10:09.679000	0:10:11.792000
-hier	-	-	-	0:10:09.679000	0:10:11.792000
-aus	-	-	-	0:10:09.679000	0:10:11.792000
-ORT	ORT	-	-	0:10:09.679000	0:10:11.792000
-oder	-	-	-	0:10:09.679000	0:10:11.792000
-oder	-	-	-	0:10:11.792000	0:10:13.425000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:13.425000" end="0:10:24.445000" project="PP04" age_lower="20" age_upper="30">
-manche	-	-	-	0:10:13.425000	0:10:14.552000
-ja	-	-	-	0:10:13.425000	0:10:14.552000
-manche	-	-	-	0:10:14.552000	0:10:15.812000
-aus	-	-	-	0:10:14.552000	0:10:15.812000
-ORT	ORT	-	-	0:10:14.552000	0:10:15.812000
-natürlich	-	-	-	0:10:18.352000	0:10:23.559000
-manche	-	-	-	0:10:18.352000	0:10:23.559000
-aus	-	-	-	0:10:18.352000	0:10:23.559000
-dem	-	-	-	0:10:18.352000	0:10:23.559000
-Bereich	-	-	-	0:10:18.352000	0:10:23.559000
-wo	-	-	-	0:10:18.352000	0:10:23.559000
-meine	-	-	-	0:10:18.352000	0:10:23.559000
-Frau	-	-	-	0:10:18.352000	0:10:23.559000
-herkommt	-	-	-	0:10:18.352000	0:10:23.559000
-aus	-	-	-	0:10:23.559000	0:10:24.445000
-ORT	ORT	-	-	0:10:23.559000	0:10:24.445000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:24.445000" end="0:10:25.352000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:25.352000" end="0:10:31.619000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:10:25.352000	0:10:28.319000
-sind	-	-	-	0:10:25.352000	0:10:28.319000
-so	-	-	-	0:10:25.352000	0:10:28.319000
-grob	-	-	-	0:10:25.352000	0:10:28.319000
-die	-	-	-	0:10:25.352000	0:10:28.319000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:31.619000" end="0:10:32.012000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:32.012000" end="0:10:33.332000" project="PP04" age_lower="20" age_upper="30">
-Bereiche	-	-	-	0:10:32.012000	0:10:33.332000
-ja	-	-	-	0:10:32.012000	0:10:33.332000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:33.332000" end="0:10:44.285000" age_lower="1" age_upper="999">
-und	-	-	-	0:10:33.332000	0:10:35.572000
-hier	-	-	-	0:10:33.332000	0:10:35.572000
-in	-	-	-	0:10:33.332000	0:10:35.572000
-ORT	ORT	-	-	0:10:33.332000	0:10:35.572000
-also	-	-	-	0:10:35.572000	0:10:39.112000
-ausser	-	-	-	0:10:35.572000	0:10:39.112000
-dass	-	-	-	0:10:35.572000	0:10:39.112000
-jetzt	-	-	-	0:10:35.572000	0:10:39.112000
-vor	-	-	-	0:10:35.572000	0:10:39.112000
-ihrem	-	-	-	0:10:35.572000	0:10:39.112000
-Haus	-	-	-	0:10:35.572000	0:10:39.112000
-diese	-	-	-	0:10:35.572000	0:10:39.112000
-Straße	-	-	-	0:10:35.572000	0:10:39.112000
-da	-	-	-	0:10:35.572000	0:10:39.112000
-ist	-	-	-	0:10:35.572000	0:10:39.112000
-aber	-	-	-	0:10:39.112000	0:10:41.032000
-gibt	-	-	-	0:10:39.112000	0:10:41.032000
-es	-	-	-	0:10:39.112000	0:10:41.032000
-irgendwas	-	-	-	0:10:39.112000	0:10:41.032000
-Sie	-	-	-	0:10:39.112000	0:10:41.032000
-stört	-	-	-	0:10:39.112000	0:10:41.032000
-was	-	-	-	0:10:41.032000	0:10:42.192000
-Sie	-	-	-	0:10:41.032000	0:10:42.192000
-ärgert	-	-	-	0:10:41.032000	0:10:42.192000
-was	-	-	-	0:10:42.192000	0:10:44.285000
-Sie	-	-	-	0:10:42.192000	0:10:44.285000
-verändern	-	-	-	0:10:42.192000	0:10:44.285000
-würden	-	-	-	0:10:42.192000	0:10:44.285000
-oder	-	-	-	0:10:42.192000	0:10:44.285000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:44.285000" end="0:11:26.298000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:10:44.285000	0:10:46.698000
-jetzt	-	-	-	0:10:44.285000	0:10:46.698000
-wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:10:44.285000	0:10:46.698000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:10:44.285000	0:10:46.698000
-kritisch	-	-	-	0:10:44.285000	0:10:46.698000
-ja	-	-	-	0:10:47.225000	0:10:50.872000
-es	-	-	-	0:10:47.225000	0:10:50.872000
-gibt	-	-	-	0:10:47.225000	0:10:50.872000
-es	-	-	-	0:10:47.225000	0:10:50.872000
-gibt	-	-	-	0:10:47.225000	0:10:50.872000
-es	-	-	-	0:10:47.225000	0:10:50.872000
-gibt	-	-	-	0:10:47.225000	0:10:50.872000
-Vieles	-	-	-	0:10:47.225000	0:10:50.872000
-es	-	-	-	0:10:50.872000	0:10:54.698000
-gibt	-	-	-	0:10:50.872000	0:10:54.698000
-Vieles	-	-	-	0:10:50.872000	0:10:54.698000
-was	-	-	-	0:10:50.872000	0:10:54.698000
-immer	-	-	-	0:10:50.872000	0:10:54.698000
-noch	-	-	-	0:10:50.872000	0:10:54.698000
-ganz	-	-	-	0:10:50.872000	0:10:54.698000
-schön	-	-	-	0:10:50.872000	0:10:54.698000
-ist	-	-	-	0:10:50.872000	0:10:54.698000
-und	-	-	-	0:10:54.698000	0:10:58.292000
-es	-	-	-	0:10:54.698000	0:10:58.292000
-gibt	-	-	-	0:10:54.698000	0:10:58.292000
-einiges	-	-	-	0:10:54.698000	0:10:58.292000
-wo	-	-	-	0:10:54.698000	0:10:58.292000
-was	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _mich klit-	0:10:54.698000	0:10:58.292000
-mich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _mich klit-	0:10:54.698000	0:10:58.292000
-ärgert	-	-	-	0:10:54.698000	0:10:58.292000
-und	-	-	-	0:10:58.292000	0:11:02.305000
-was	-	-	-	0:10:58.292000	0:11:02.305000
-was	-	-	-	0:10:58.292000	0:11:02.305000
-man	-	-	-	0:10:58.292000	0:11:02.305000
-kaum	-	-	-	0:10:58.292000	0:11:02.305000
-ändern	-	-	-	0:10:58.292000	0:11:02.305000
-kann	-	-	-	0:10:58.292000	0:11:02.305000
-ah	-	-	-	0:11:02.305000	0:11:06.612000
-zum	-	-	-	0:11:02.305000	0:11:06.612000
-Beispiel	-	-	-	0:11:02.305000	0:11:06.612000
-em	-	-	-	0:11:02.305000	0:11:06.612000
-visavis	-	-	-	0:11:02.305000	0:11:06.612000
-von	-	-	-	0:11:02.305000	0:11:06.612000
-mir	-	-	-	0:11:02.305000	0:11:06.612000
-ist	-	-	-	0:11:06.612000	0:11:10.178000
-so	-	-	-	0:11:06.612000	0:11:10.178000
-ein	-	-	-	0:11:06.612000	0:11:10.178000
-Gebiet	-	-	-	0:11:06.612000	0:11:10.178000
-wo	-	-	-	0:11:10.178000	0:11:12.212000
-wirklich	-	-	-	0:11:10.178000	0:11:12.212000
-das	-	-	-	0:11:12.212000	0:11:15.198000
-war	-	-	-	0:11:12.212000	0:11:15.198000
-vor	-	-	-	0:11:12.212000	0:11:15.198000
-weiss	-	-	KlitPron KlitReal PronForm _ich klit-	0:11:12.212000	0:11:15.198000
-ich	-	-	KlitPron KlitReal PronForm _ich klit-	0:11:12.212000	0:11:15.198000
-nicht	-	-	-	0:11:12.212000	0:11:15.198000
-zehn	-	-	-	0:11:15.198000	0:11:16.565000
-Jahren	-	-	-	0:11:15.198000	0:11:16.565000
-noch	-	-	-	0:11:16.565000	0:11:18.698000
-komplett	-	-	-	0:11:16.565000	0:11:18.698000
-Acker	-	-	-	0:11:16.565000	0:11:18.698000
-und	-	-	-	0:11:18.698000	0:11:21.538000
-ist	-	-	-	0:11:18.698000	0:11:21.538000
-komplett	-	-	-	0:11:18.698000	0:11:21.538000
-verbaut	-	-	-	0:11:18.698000	0:11:21.538000
-worden	-	-	-	0:11:18.698000	0:11:21.538000
-wird	-	-	-	0:11:21.538000	0:11:23.538000
-immer	-	-	-	0:11:21.538000	0:11:23.538000
-noch	-	-	-	0:11:21.538000	0:11:23.538000
-weiter	-	-	-	0:11:21.538000	0:11:23.538000
-verbaut	-	-	-	0:11:21.538000	0:11:23.538000
-und	-	-	-	0:11:23.538000	0:11:26.298000
-ist	-	-	-	0:11:23.538000	0:11:26.298000
-komplett	-	-	-	0:11:23.538000	0:11:26.298000
-daneben	-	-	-	0:11:23.538000	0:11:26.298000
-gegangen	-	-	-	0:11:23.538000	0:11:26.298000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:26.298000" end="0:11:26.685000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:26.685000" end="0:12:49.692000" project="PP04" age_lower="20" age_upper="30">
-komplett	-	-	-	0:11:26.685000	0:11:27.785000
-daneben	-	-	-	0:11:26.685000	0:11:27.785000
-es	-	-	-	0:11:27.785000	0:11:30.938000
-ist	-	-	-	0:11:27.785000	0:11:30.938000
-ah	-	-	-	0:11:27.785000	0:11:30.938000
-raumplanerisch	-	-	-	0:11:27.785000	0:11:30.938000
-daneben	-	-	-	0:11:27.785000	0:11:30.938000
-weil	-	-	-	0:11:30.938000	0:11:36.858000
-Einfamilienhäuser	-	-	-	0:11:30.938000	0:11:36.858000
-stehen	-	-	-	0:11:30.938000	0:11:36.858000
-neben	-	-	-	0:11:30.938000	0:11:36.858000
-zwanzig	-	-	-	0:11:30.938000	0:11:36.858000
-Meter	-	-	-	0:11:30.938000	0:11:36.858000
-hohen	-	-	-	0:11:30.938000	0:11:36.858000
-wohnbauten	-	-	-	0:11:30.938000	0:11:36.858000
-mit	-	-	-	0:11:36.858000	0:11:38.045000
-fünf	-	-	-	0:11:36.858000	0:11:38.045000
-geschossen	-	-	-	0:11:36.858000	0:11:38.045000
-und	-	-	-	0:11:38.045000	0:11:40.472000
-es	-	-	-	0:11:38.045000	0:11:40.472000
-ist	-	-	-	0:11:38.045000	0:11:40.472000
-nichts	-	-	-	0:11:38.045000	0:11:40.472000
-einheitlich	-	-	-	0:11:38.045000	0:11:40.472000
-es	-	-	-	0:11:40.472000	0:11:45.518000
-ist	-	-	-	0:11:40.472000	0:11:45.518000
-alles	-	-	-	0:11:40.472000	0:11:45.518000
-kraut	-	-	-	0:11:40.472000	0:11:45.518000
-und	-	-	-	0:11:40.472000	0:11:45.518000
-rüben	-	-	-	0:11:40.472000	0:11:45.518000
-durcheinander	-	-	-	0:11:40.472000	0:11:45.518000
-gemischt	-	-	-	0:11:40.472000	0:11:45.518000
-keine	-	-	-	0:11:45.518000	0:11:47.792000
-Ahnung	-	-	-	0:11:45.518000	0:11:47.792000
-wer	-	-	-	0:11:45.518000	0:11:47.792000
-das	-	-	-	0:11:45.518000	0:11:47.792000
-so	-	-	-	0:11:45.518000	0:11:47.792000
-genehmigt	-	-	-	0:11:45.518000	0:11:47.792000
-also	-	-	-	0:11:47.792000	0:11:49.618000
-ja	-	-	-	0:11:47.792000	0:11:49.618000
-natürlich	-	-	-	0:11:47.792000	0:11:49.618000
-die	-	-	-	0:11:47.792000	0:11:49.618000
-Gemeinde	-	-	-	0:11:47.792000	0:11:49.618000
-warum	-	-	-	0:11:49.618000	0:11:52.325000
-das	-	-	-	0:11:49.618000	0:11:52.325000
-so	-	-	-	0:11:49.618000	0:11:52.325000
-ist	-	-	-	0:11:49.618000	0:11:52.325000
-man	-	-	-	0:11:52.325000	0:11:55.578000
-das	-	-	-	0:11:52.325000	0:11:55.578000
-nicht	-	-	-	0:11:52.325000	0:11:55.578000
-schafft	-	-	-	0:11:52.325000	0:11:55.578000
-dass	-	-	-	0:11:52.325000	0:11:55.578000
-des	-	-	-	0:11:52.325000	0:11:55.578000
-irgendwie	-	-	-	0:11:52.325000	0:11:55.578000
-zusammenpasst	-	-	-	0:11:52.325000	0:11:55.578000
-und	-	-	-	0:11:55.578000	0:11:58.198000
-zumindest	-	-	-	0:11:55.578000	0:11:58.198000
-von	-	-	-	0:11:55.578000	0:11:58.198000
-der	-	-	-	0:11:55.578000	0:11:58.198000
-bauklasse	-	-	-	0:11:55.578000	0:11:58.198000
-her	-	-	-	0:11:55.578000	0:11:58.198000
-müssen	-	-	-	0:11:58.198000	0:12:00.118000
-sogar	-	-	-	0:11:58.198000	0:12:00.118000
-verschiedene	-	-	-	0:11:58.198000	0:12:00.118000
-bauklassen	-	-	-	0:11:58.198000	0:12:00.118000
-sein	-	-	-	0:11:58.198000	0:12:00.118000
-und	-	-	-	0:12:00.118000	0:12:04.098000
-teilweise	-	-	-	0:12:00.118000	0:12:04.098000
-sind	-	-	-	0:12:00.118000	0:12:04.098000
-die	-	-	-	0:12:00.118000	0:12:04.098000
-Gebäude	-	-	-	0:12:00.118000	0:12:04.098000
-auch	-	-	-	0:12:00.118000	0:12:04.098000
-architektonisch	-	-	-	0:12:00.118000	0:12:04.098000
-so	-	-	-	0:12:00.118000	0:12:04.098000
-dass	-	-	-	0:12:04.098000	0:12:09.785000
-man	-	-	-	0:12:04.098000	0:12:09.785000
-die	-	-	-	0:12:04.098000	0:12:09.785000
-ah	-	-	-	0:12:04.098000	0:12:09.785000
-Vorschriften	-	-	-	0:12:04.098000	0:12:09.785000
-quasi	-	-	-	0:12:04.098000	0:12:09.785000
-austrickst	-	-	-	0:12:04.098000	0:12:09.785000
-dass	-	-	-	0:12:09.785000	0:12:11.438000
-man	-	-	-	0:12:09.785000	0:12:11.438000
-ja	-	-	-	0:12:09.785000	0:12:11.438000
-hoch	-	-	-	0:12:09.785000	0:12:11.438000
-bauen	-	-	-	0:12:09.785000	0:12:11.438000
-kann	-	-	-	0:12:09.785000	0:12:11.438000
-man	-	-	-	0:12:11.438000	0:12:13.098000
-das	-	-	-	0:12:11.438000	0:12:13.098000
-Dach	-	-	-	0:12:11.438000	0:12:13.098000
-weiter	-	-	-	0:12:11.438000	0:12:13.098000
-runter	-	-	-	0:12:11.438000	0:12:13.098000
-s	-	-	-	0:12:13.098000	0:12:15.385000
-so	-	-	-	0:12:13.098000	0:12:15.385000
-Schmähs	-	-	-	0:12:13.098000	0:12:15.385000
-werden	-	-	-	0:12:13.098000	0:12:15.385000
-verwendet	-	-	-	0:12:13.098000	0:12:15.385000
-dass	-	-	-	0:12:15.385000	0:12:18.218000
-man	-	-	-	0:12:15.385000	0:12:18.218000
-ja	-	-	-	0:12:15.385000	0:12:18.218000
-das	-	-	-	0:12:15.385000	0:12:18.218000
-machen	-	-	-	0:12:15.385000	0:12:18.218000
-kann	-	-	-	0:12:15.385000	0:12:18.218000
-was	-	-	-	0:12:15.385000	0:12:18.218000
-man	-	-	-	0:12:15.385000	0:12:18.218000
-will	-	-	-	0:12:15.385000	0:12:18.218000
-also	-	-	-	0:12:18.218000	0:12:20.938000
-sowas	-	-	-	0:12:18.218000	0:12:20.938000
-ärgert	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:18.218000	0:12:20.938000
-mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:18.218000	0:12:20.938000
-schon	-	-	-	0:12:18.218000	0:12:20.938000
-weil	-	-	-	0:12:20.938000	0:12:24.512000
-das	-	-	-	0:12:20.938000	0:12:24.512000
-war	-	-	-	0:12:20.938000	0:12:24.512000
-eigentlich	-	-	-	0:12:20.938000	0:12:24.512000
-ein	-	-	-	0:12:20.938000	0:12:24.512000
-schöner	-	-	-	0:12:20.938000	0:12:24.512000
-fleck	-	-	-	0:12:20.938000	0:12:24.512000
-da	-	-	-	0:12:24.512000	0:12:27.992000
-hätten	-	-	-	0:12:24.512000	0:12:27.992000
-wir	-	-	-	0:12:24.512000	0:12:27.992000
-mit	-	-	-	0:12:24.512000	0:12:27.992000
-ein	-	-	-	0:12:24.512000	0:12:27.992000
-bisschen	-	-	-	0:12:24.512000	0:12:27.992000
-Plan	-	-	-	0:12:24.512000	0:12:27.992000
-was	-	-	-	0:12:24.512000	0:12:27.992000
-daraus	-	-	-	0:12:24.512000	0:12:27.992000
-machen	-	-	-	0:12:24.512000	0:12:27.992000
-können	-	-	-	0:12:24.512000	0:12:27.992000
-so	-	-	-	0:12:27.992000	0:12:29.178000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:12:27.992000	0:12:29.178000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:12:27.992000	0:12:29.178000
-jetzt	-	-	-	0:12:27.992000	0:12:29.178000
-es	-	-	-	0:12:29.178000	0:12:31.592000
-ist	-	-	-	0:12:29.178000	0:12:31.592000
-wirklich	-	-	-	0:12:29.178000	0:12:31.592000
-ein	-	-	-	0:12:29.178000	0:12:31.592000
-negativbeispiel	-	-	-	0:12:29.178000	0:12:31.592000
-ich	-	-	-	0:12:31.592000	0:12:32.958000
-habe	-	-	-	0:12:31.592000	0:12:32.958000
-ein	-	-	-	0:12:31.592000	0:12:32.958000
-Bekannte	-	-	-	0:12:31.592000	0:12:32.958000
-die	-	-	-	0:12:32.958000	0:12:36.938000
-in	-	-	-	0:12:32.958000	0:12:36.938000
-ORT	ORT	-	-	0:12:32.958000	0:12:36.938000
-Geographie	-	-	-	0:12:32.958000	0:12:36.938000
-studiert	-	-	-	0:12:32.958000	0:12:36.938000
-hat	-	-	-	0:12:32.958000	0:12:36.938000
-und	-	-	-	0:12:36.938000	0:12:39.072000
-ah	-	-	-	0:12:39.072000	0:12:40.865000
-sie	-	-	-	0:12:40.865000	0:12:43.538000
-hat	-	-	-	0:12:40.865000	0:12:43.538000
-sie	-	-	-	0:12:40.865000	0:12:43.538000
-hat	-	-	-	0:12:40.865000	0:12:43.538000
-sogar	-	-	-	0:12:40.865000	0:12:43.538000
-mir	-	-	-	0:12:40.865000	0:12:43.538000
-erzählt	-	-	-	0:12:40.865000	0:12:43.538000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:12:43.538000	0:12:47.692000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:12:43.538000	0:12:47.692000
-als	-	-	-	0:12:43.538000	0:12:47.692000
-negativbeispiel	-	-	-	0:12:43.538000	0:12:47.692000
-angeführt	-	-	-	0:12:43.538000	0:12:47.692000
-wird	-	-	-	0:12:43.538000	0:12:47.692000
-zum	-	-	-	0:12:43.538000	0:12:47.692000
-Teil	-	-	-	0:12:43.538000	0:12:47.692000
-der	-	-	-	0:12:47.692000	0:12:49.692000
-Ausbildung	-	-	-	0:12:47.692000	0:12:49.692000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:49.692000" end="0:12:50.672000" age_lower="1" age_upper="999">
-dieser	-	-	-	0:12:49.692000	0:12:50.672000
-Komplex	-	-	-	0:12:49.692000	0:12:50.672000
-da	-	-	-	0:12:49.692000	0:12:50.672000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:50.672000" end="0:12:51.152000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:12:50.672000	0:12:51.152000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:51.152000" end="0:12:51.812000" age_lower="1" age_upper="999">
-Wahnsinn	-	-	-	0:12:51.152000	0:12:51.812000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:51.152000" end="0:12:58.152000" project="PP04" age_lower="20" age_upper="30">
-äh	-	-	-	0:12:51.152000	0:12:51.812000
-das	-	-	-	0:12:51.812000	0:12:53.638000
-hat	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:51.812000	0:12:53.638000
-mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:51.812000	0:12:53.638000
-total	-	-	-	0:12:51.812000	0:12:53.638000
-ge	-	-	-	0:12:51.812000	0:12:53.638000
-verwundert	-	-	-	0:12:51.812000	0:12:53.638000
-dass	-	-	-	0:12:53.638000	0:12:57.118000
-d	-	-	-	0:12:53.638000	0:12:57.118000
-wie	-	-	-	0:12:53.638000	0:12:57.118000
-wie	-	-	-	0:12:53.638000	0:12:57.118000
-wie	-	-	-	0:12:53.638000	0:12:57.118000
-negativ	-	-	-	0:12:53.638000	0:12:57.118000
-man	-	-	-	0:12:53.638000	0:12:57.118000
-sowas	-	-	-	0:12:53.638000	0:12:57.118000
-lösen	-	-	-	0:12:53.638000	0:12:57.118000
-kann	-	-	-	0:12:53.638000	0:12:57.118000
-ja	-	-	-	0:12:53.638000	0:12:57.118000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:58.152000" end="0:12:58.798000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:58.798000" end="0:13:07.225000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:12:58.798000	0:13:00.505000
-ist	-	-	-	0:12:58.798000	0:13:00.505000
-visavis	-	-	-	0:12:58.798000	0:13:00.505000
-also	-	-	-	0:13:00.505000	0:13:03.105000
-ja	-	-	-	0:13:00.505000	0:13:03.105000
-das	-	-	-	0:13:00.505000	0:13:03.105000
-ärgert	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:13:00.505000	0:13:03.105000
-mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:13:00.505000	0:13:03.105000
-irgendwie	-	-	-	0:13:00.505000	0:13:03.105000
-schon	-	-	-	0:13:00.505000	0:13:03.105000
-jetzt	-	-	-	0:13:03.105000	0:13:05.378000
-wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:13:03.105000	0:13:05.378000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:13:03.105000	0:13:05.378000
-wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:13:03.105000	0:13:05.378000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:13:03.105000	0:13:05.378000
-um	-	-	-	0:13:03.105000	0:13:05.378000
-ORT	ORT	-	-	0:13:03.105000	0:13:05.378000
-geht	-	-	-	0:13:03.105000	0:13:05.378000
-das	-	-	-	0:13:05.378000	0:13:07.225000
-ist	-	-	-	0:13:05.378000	0:13:07.225000
-einfach	-	-	-	0:13:05.378000	0:13:07.225000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:07.225000" end="0:13:14.252000" age_lower="1" age_upper="999">
-und	-	-	-	0:13:07.865000	0:13:10.705000
-das	-	-	-	0:13:07.865000	0:13:10.705000
-führt	-	-	-	0:13:07.865000	0:13:10.705000
-mich	-	-	-	0:13:07.865000	0:13:10.705000
-auch	-	-	-	0:13:07.865000	0:13:10.705000
-zur	-	-	-	0:13:07.865000	0:13:10.705000
-nächsten	-	-	-	0:13:07.865000	0:13:10.705000
-Frage	-	-	-	0:13:07.865000	0:13:10.705000
-nämlich	-	-	-	0:13:10.705000	0:13:14.252000
-was	-	-	-	0:13:10.705000	0:13:14.252000
-würden	-	-	-	0:13:10.705000	0:13:14.252000
-Sie	-	-	-	0:13:10.705000	0:13:14.252000
-tun	-	-	-	0:13:10.705000	0:13:14.252000
-wenn	-	-	-	0:13:10.705000	0:13:14.252000
-Sie	-	-	-	0:13:10.705000	0:13:14.252000
-Bürgermeister	-	-	-	0:13:10.705000	0:13:14.252000
-von	-	-	-	0:13:10.705000	0:13:14.252000
-hier	-	-	-	0:13:10.705000	0:13:14.252000
-wären	-	-	-	0:13:10.705000	0:13:14.252000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:14.252000" end="0:13:15.125000" project="PP04" age_lower="20" age_upper="30">
-ha	-	-	-	0:13:14.252000	0:13:15.125000
-oh	-	-	-	0:13:14.252000	0:13:15.125000
-Gott	-	-	-	0:13:14.252000	0:13:15.125000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:15.125000" end="0:13:16.078000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:16.078000" end="0:13:20.325000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:13:16.078000	0:13:18.325000
-möchte	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:13:16.078000	0:13:18.325000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:13:16.078000	0:13:18.325000
-nicht	-	-	-	0:13:16.078000	0:13:18.325000
-sein	-	-	-	0:13:16.078000	0:13:18.325000
-das	-	-	-	0:13:18.325000	0:13:20.325000
-ist	-	-	-	0:13:18.325000	0:13:20.325000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:13:18.325000	0:13:20.325000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:13:18.325000	0:13:20.325000
-auch	-	-	-	0:13:18.325000	0:13:20.325000
-sehr	-	-	-	0:13:18.325000	0:13:20.325000
-undankbarer	-	-	-	0:13:18.325000	0:13:20.325000
-Job	-	-	-	0:13:18.325000	0:13:20.325000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:20.325000" end="0:13:21.392000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:21.392000" end="0:13:30.312000" project="PP04" age_lower="20" age_upper="30">
-was	-	-	-	0:13:21.392000	0:13:22.952000
-würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:13:21.392000	0:13:22.952000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:13:21.392000	0:13:22.952000
-tun	-	-	-	0:13:21.392000	0:13:22.952000
-ja	-	-	-	0:13:24.952000	0:13:29.465000
-das	-	-	-	0:13:24.952000	0:13:29.465000
-ist	-	-	-	0:13:24.952000	0:13:29.465000
-das	-	-	-	0:13:24.952000	0:13:29.465000
-angesprochene	-	-	-	0:13:24.952000	0:13:29.465000
-Problem	-	-	-	0:13:24.952000	0:13:29.465000
-ist	-	-	-	0:13:24.952000	0:13:29.465000
-ja	-	-	-	0:13:24.952000	0:13:29.465000
-jetzt	-	-	-	0:13:24.952000	0:13:29.465000
-nimmer	-	-	-	0:13:24.952000	0:13:29.465000
-wirklich	-	-	-	0:13:24.952000	0:13:29.465000
-zu	-	-	-	0:13:24.952000	0:13:29.465000
-ändern	-	-	-	0:13:24.952000	0:13:29.465000
-kaum	-	-	-	0:13:29.465000	0:13:30.312000
-mehr	-	-	-	0:13:29.465000	0:13:30.312000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:30.312000" end="0:13:30.765000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:30.765000" end="0:13:55.318000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:13:33.972000	0:13:38.518000
-ich	-	-	-	0:13:33.972000	0:13:38.518000
-würde	-	-	-	0:13:33.972000	0:13:38.518000
-versuchen	-	-	-	0:13:33.972000	0:13:38.518000
-mich	-	-	-	0:13:33.972000	0:13:38.518000
-dafür	-	-	-	0:13:33.972000	0:13:38.518000
-einzusetzen	-	-	-	0:13:33.972000	0:13:38.518000
-dass	-	-	-	0:13:33.972000	0:13:38.518000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	0:13:38.518000	0:13:42.845000
-wir	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	0:13:38.518000	0:13:42.845000
-irgendwie	-	-	-	0:13:38.518000	0:13:42.845000
-vom	-	-	-	0:13:38.518000	0:13:42.845000
-Verkehr	-	-	-	0:13:38.518000	0:13:42.845000
-entlastet	-	-	-	0:13:38.518000	0:13:42.845000
-werden	-	-	-	0:13:38.518000	0:13:42.845000
-das	-	-	-	0:13:42.845000	0:13:50.252000
-ist	-	-	-	0:13:42.845000	0:13:50.252000
-aber	-	-	-	0:13:42.845000	0:13:50.252000
-sicher	-	-	-	0:13:42.845000	0:13:50.252000
-im	-	-	-	0:13:42.845000	0:13:50.252000
-Umland	-	-	-	0:13:42.845000	0:13:50.252000
-von	-	-	-	0:13:42.845000	0:13:50.252000
-ORT	ORT	-	-	0:13:42.845000	0:13:50.252000
-haben	-	-	-	0:13:42.845000	0:13:50.252000
-das	-	-	-	0:13:42.845000	0:13:50.252000
-viele	-	-	-	0:13:42.845000	0:13:50.252000
-gemeinden	-	-	-	0:13:42.845000	0:13:50.252000
-das	-	-	-	0:13:42.845000	0:13:50.252000
-Problem	-	-	-	0:13:42.845000	0:13:50.252000
-vermutlich	-	-	-	0:13:42.845000	0:13:50.252000
-es	-	-	-	0:13:50.252000	0:13:55.318000
-ist	-	-	-	0:13:50.252000	0:13:55.318000
-wenig	-	-	-	0:13:50.252000	0:13:55.318000
-Platz	-	-	-	0:13:50.252000	0:13:55.318000
-da	-	-	-	0:13:50.252000	0:13:55.318000
-dass	-	-	-	0:13:50.252000	0:13:55.318000
-wir	-	-	-	0:13:50.252000	0:13:55.318000
-irgendwo	-	-	-	0:13:50.252000	0:13:55.318000
-ausweichrouten	-	-	-	0:13:50.252000	0:13:55.318000
-schaffen	-	-	-	0:13:50.252000	0:13:55.318000
-kann	-	-	-	0:13:50.252000	0:13:55.318000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:54.572000" end="0:13:54.945000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:55.318000" end="0:14:31.045000" project="PP04" age_lower="20" age_upper="30">
-aber	-	-	-	0:13:55.318000	0:13:58.405000
-es	-	-	-	0:13:55.318000	0:13:58.405000
-ginge	-	-	-	0:13:55.318000	0:13:58.405000
-es	-	-	-	0:13:55.318000	0:13:58.405000
-gibt	-	-	-	0:13:55.318000	0:13:58.405000
-schon	-	-	-	0:13:55.318000	0:13:58.405000
-zum	-	-	-	0:13:55.318000	0:13:58.405000
-Teil	-	-	-	0:13:55.318000	0:13:58.405000
-Möglichkeiten	-	-	-	0:13:55.318000	0:13:58.405000
-also	-	-	-	0:13:58.405000	0:14:03.232000
-das	-	-	-	0:13:58.405000	0:14:03.232000
-wäre	-	-	-	0:13:58.405000	0:14:03.232000
-ein	-	-	-	0:13:58.405000	0:14:03.232000
-das	-	-	-	0:13:58.405000	0:14:03.232000
-wäre	-	-	-	0:13:58.405000	0:14:03.232000
-ein	-	-	-	0:13:58.405000	0:14:03.232000
-versuche	-	-	-	0:13:58.405000	0:14:03.232000
-ah	-	-	-	0:14:03.232000	0:14:10.892000
-ich	-	-	-	0:14:03.232000	0:14:10.892000
-würde	-	-	-	0:14:03.232000	0:14:10.892000
-versuchen	-	-	-	0:14:03.232000	0:14:10.892000
-zum	-	-	-	0:14:03.232000	0:14:10.892000
-Beispiel	-	-	-	0:14:03.232000	0:14:10.892000
-dass	-	-	-	0:14:03.232000	0:14:10.892000
-da	-	-	-	0:14:03.232000	0:14:10.892000
-ortskern	-	-	-	0:14:03.232000	0:14:10.892000
-belebt	-	-	-	0:14:03.232000	0:14:10.892000
-wird	-	-	-	0:14:03.232000	0:14:10.892000
-wir	-	-	-	0:14:10.892000	0:14:16.378000
-haben	-	-	-	0:14:10.892000	0:14:16.378000
-ja	-	-	-	0:14:10.892000	0:14:16.378000
-eigentlich	-	-	-	0:14:10.892000	0:14:16.378000
-ist	-	-	-	0:14:10.892000	0:14:16.378000
-das	-	-	-	0:14:10.892000	0:14:16.378000
-Einzige	-	-	-	0:14:10.892000	0:14:16.378000
-wofür	-	-	-	0:14:10.892000	0:14:16.378000
-ORT	ORT	-	-	0:14:10.892000	0:14:16.378000
-bekannt	-	-	-	0:14:10.892000	0:14:16.378000
-ist	-	-	-	0:14:10.892000	0:14:16.378000
-über	-	-	-	0:14:16.378000	0:14:17.598000
-die	-	-	-	0:14:16.378000	0:14:17.598000
-grenzen	-	-	-	0:14:16.378000	0:14:17.598000
-hinaus	-	-	-	0:14:16.378000	0:14:17.598000
-ist	-	-	-	0:14:17.598000	0:14:19.191000
-ja	-	-	-	0:14:17.598000	0:14:19.191000
-das	-	-	-	0:14:17.598000	0:14:19.191000
-neue	-	-	-	0:14:17.598000	0:14:19.191000
-shopping	-	-	-	0:14:17.598000	0:14:19.191000
-center	-	-	-	0:14:17.598000	0:14:19.191000
-ORT	ORT	-	-	0:14:19.191000	0:14:21.191000
-drei	-	-	-	0:14:19.191000	0:14:21.191000
-das	-	-	-	0:14:21.191000	0:14:22.438000
-ist	-	-	-	0:14:21.191000	0:14:22.438000
-aber	-	-	-	0:14:21.191000	0:14:22.438000
-da	-	-	-	0:14:22.438000	0:14:25.551000
-gel	-	-	-	0:14:22.438000	0:14:25.551000
-glauben	-	-	-	0:14:22.438000	0:14:25.551000
-die	-	-	-	0:14:22.438000	0:14:25.551000
-Leute	-	-	-	0:14:22.438000	0:14:25.551000
-die	-	-	-	0:14:22.438000	0:14:25.551000
-halt	-	-	-	0:14:22.438000	0:14:25.551000
-von	-	-	-	0:14:22.438000	0:14:25.551000
-weiter	-	-	-	0:14:22.438000	0:14:25.551000
-her	-	-	-	0:14:22.438000	0:14:25.551000
-kommen	-	-	-	0:14:22.438000	0:14:25.551000
-das	-	-	-	0:14:25.551000	0:14:27.045000
-ist	-	-	-	0:14:25.551000	0:14:27.045000
-jetzt	-	-	-	0:14:25.551000	0:14:27.045000
-neben	-	-	-	0:14:25.551000	0:14:27.045000
-der	-	-	-	0:14:25.551000	0:14:27.045000
-Kirche	-	-	-	0:14:25.551000	0:14:27.045000
-weil	-	-	-	0:14:27.045000	0:14:31.045000
-ORT	ORT	-	-	0:14:27.045000	0:14:31.045000
-und	-	-	-	0:14:27.045000	0:14:31.045000
-die	-	-	-	0:14:27.045000	0:14:31.045000
-geben	-	-	-	0:14:27.045000	0:14:31.045000
-ins	-	-	-	0:14:27.045000	0:14:31.045000
-navi	-	-	-	0:14:27.045000	0:14:31.045000
-ein	-	-	-	0:14:27.045000	0:14:31.045000
-ORT	ORT	-	-	0:14:27.045000	0:14:31.045000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:31.045000" end="0:14:31.698000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:31.045000" end="0:14:35.131000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:14:31.045000	0:14:33.505000
-das	-	-	-	0:14:31.045000	0:14:33.505000
-führt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(pl.akk.) klit-	0:14:31.045000	0:14:33.505000
-Sie	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(pl.akk.) klit-	0:14:31.045000	0:14:33.505000
-zur	-	-	-	0:14:31.045000	0:14:33.505000
-ins	-	-	-	0:14:31.045000	0:14:33.505000
-Zentrum	-	-	-	0:14:31.045000	0:14:33.505000
-zur	-	-	-	0:14:31.045000	0:14:33.505000
-Kirche	-	-	-	0:14:31.045000	0:14:33.505000
-zu	-	-	-	0:14:33.505000	0:14:35.131000
-zum	-	-	-	0:14:33.505000	0:14:35.131000
-zum	-	-	-	0:14:33.505000	0:14:35.131000
-Rathausplatz	-	-	-	0:14:33.505000	0:14:35.131000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:35.131000" end="0:14:35.838000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:35.838000" end="0:15:03.005000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:14:35.838000	0:14:37.065000
-dann	-	-	-	0:14:35.838000	0:14:37.065000
-bleiben	-	-	-	0:14:35.838000	0:14:37.065000
-die	-	-	-	0:14:35.838000	0:14:37.065000
-dort	-	-	-	0:14:35.838000	0:14:37.065000
-stehen	-	-	-	0:14:35.838000	0:14:37.065000
-wenn	-	-	-	0:14:37.065000	0:14:38.465000
-man	-	-	-	0:14:37.065000	0:14:38.465000
-spazieren	-	-	-	0:14:37.065000	0:14:38.465000
-geht	-	-	-	0:14:37.065000	0:14:38.465000
-im	-	-	-	0:14:37.065000	0:14:38.465000
-Ort	-	-	-	0:14:37.065000	0:14:38.465000
-war	-	-	-	0:14:38.465000	0:14:42.491000
-ein	-	-	-	0:14:38.465000	0:14:42.491000
-zeitlang	-	-	-	0:14:38.465000	0:14:42.491000
-dass	-	-	-	0:14:38.465000	0:14:42.491000
-man	-	-	-	0:14:38.465000	0:14:42.491000
-jeden	-	-	-	0:14:38.465000	0:14:42.491000
-Tag	-	-	-	0:14:38.465000	0:14:42.491000
-garantiert	-	-	-	0:14:38.465000	0:14:42.491000
-die	-	-	-	0:14:38.465000	0:14:42.491000
-Frage	-	-	-	0:14:38.465000	0:14:42.491000
-kriegt	-	-	-	0:14:38.465000	0:14:42.491000
-hat	-	-	-	0:14:38.465000	0:14:42.491000
-von	-	-	-	0:14:42.491000	0:14:45.378000
-am	-	-	-	0:14:42.491000	0:14:45.378000
-Autofahrer	-	-	-	0:14:42.491000	0:14:45.378000
-der	-	-	-	0:14:42.491000	0:14:45.378000
-von	-	-	-	0:14:42.491000	0:14:45.378000
-weiß	-	-	-	0:14:42.491000	0:14:45.378000
-Gott	-	-	-	0:14:42.491000	0:14:45.378000
-wo	-	-	-	0:14:42.491000	0:14:45.378000
-kommt	-	-	-	0:14:42.491000	0:14:45.378000
-von	-	-	-	0:14:45.378000	0:14:47.151000
-Tschechien	-	-	-	0:14:45.378000	0:14:47.151000
-von	-	-	-	0:14:45.378000	0:14:47.151000
-der	-	-	-	0:14:45.378000	0:14:47.151000
-Slowakei	-	-	-	0:14:45.378000	0:14:47.151000
-ah	-	-	-	0:14:47.151000	0:14:49.518000
-wo	-	-	-	0:14:47.151000	0:14:49.518000
-ist	-	-	-	0:14:47.151000	0:14:49.518000
-denn	-	-	-	0:14:47.151000	0:14:49.518000
-das	-	-	-	0:14:47.151000	0:14:49.518000
-ORT	ORT	-	-	0:14:47.151000	0:14:49.518000
-drei	-	-	-	0:14:47.151000	0:14:49.518000
-allen	-	-	-	0:14:49.518000	0:14:50.638000
-Sprachen	-	-	-	0:14:49.518000	0:14:50.638000
-wo	-	-	-	0:14:50.638000	0:14:53.331000
-man	-	-	-	0:14:50.638000	0:14:53.331000
-sagt	-	-	-	0:14:50.638000	0:14:53.331000
-da	-	-	-	0:14:50.638000	0:14:53.331000
-nein	-	-	-	0:14:50.638000	0:14:53.331000
-das	-	-	-	0:14:50.638000	0:14:53.331000
-ist	-	-	-	0:14:50.638000	0:14:53.331000
-nicht	-	-	-	0:14:50.638000	0:14:53.331000
-hier	-	-	-	0:14:50.638000	0:14:53.331000
-im	-	-	-	0:14:50.638000	0:14:53.331000
-Ort	-	-	-	0:14:50.638000	0:14:53.331000
-das	-	-	-	0:14:53.331000	0:14:55.778000
-ist	-	-	-	0:14:53.331000	0:14:55.778000
-vier	-	-	-	0:14:53.331000	0:14:55.778000
-Kilometer	-	-	-	0:14:53.331000	0:14:55.778000
-nordwestlich	-	-	-	0:14:53.331000	0:14:55.778000
-außerhalb	-	-	-	0:14:55.778000	0:14:56.818000
-vom	-	-	-	0:14:55.778000	0:14:56.818000
-Ort	-	-	-	0:14:55.778000	0:14:56.818000
-weil	-	-	-	0:14:56.818000	0:14:58.638000
-das	-	-	-	0:14:56.818000	0:14:58.638000
-ja	-	-	-	0:14:56.818000	0:14:58.638000
-riesen	-	-	-	0:14:56.818000	0:14:58.638000
-einkaufszentrum	-	-	-	0:14:56.818000	0:14:58.638000
-ist	-	-	-	0:14:56.818000	0:14:58.638000
-und	-	-	-	0:14:58.638000	0:15:03.005000
-das	-	-	-	0:14:58.638000	0:15:03.005000
-zieht	-	-	-	0:14:58.638000	0:15:03.005000
-natürlich	-	-	-	0:14:58.638000	0:15:03.005000
-alles	-	-	-	0:14:58.638000	0:15:03.005000
-irgendwie	-	-	-	0:14:58.638000	0:15:03.005000
-schon	-	-	-	0:14:58.638000	0:15:03.005000
-da	-	-	-	0:14:58.638000	0:15:03.005000
-raus	-	-	-	0:14:58.638000	0:15:03.005000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:03.005000" end="0:15:03.891000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:03.891000" end="0:15:15.338000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:15:03.891000	0:15:08.738000
-äh	-	-	-	0:15:03.891000	0:15:08.738000
-also	-	-	-	0:15:03.891000	0:15:08.738000
-im	-	-	-	0:15:03.891000	0:15:08.738000
-Ort	-	-	-	0:15:03.891000	0:15:08.738000
-gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:03.891000	0:15:08.738000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:03.891000	0:15:08.738000
-schon	-	-	-	0:15:03.891000	0:15:08.738000
-entlang	-	-	-	0:15:03.891000	0:15:08.738000
-der	-	-	-	0:15:03.891000	0:15:08.738000
-Hauptstraße	-	-	-	0:15:03.891000	0:15:08.738000
-beziehungsweise	-	-	-	0:15:08.738000	0:15:10.558000
-dann	-	-	-	0:15:08.738000	0:15:10.558000
-wie	-	-	-	0:15:10.558000	0:15:12.478000
-hasst	-	-	-	0:15:10.558000	0:15:12.478000
-die	-	-	-	0:15:10.558000	0:15:12.478000
-überhaupt	-	-	-	0:15:10.558000	0:15:12.478000
-ORT	ORT	-	-	0:15:12.478000	0:15:13.805000
-Richtung	-	-	-	0:15:13.805000	0:15:15.338000
-ORT	ORT	-	-	0:15:13.805000	0:15:15.338000
-rein	-	-	-	0:15:13.805000	0:15:15.338000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:15.338000" end="0:15:15.798000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:15.798000" end="0:15:38.618000" project="PP04" age_lower="20" age_upper="30">
-gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:15.798000	0:15:18.291000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:15.798000	0:15:18.291000
-schon	-	-	-	0:15:15.798000	0:15:18.291000
-ein	-	-	-	0:15:15.798000	0:15:18.291000
-paar	-	-	-	0:15:15.798000	0:15:18.291000
-Geschäfte	-	-	-	0:15:15.798000	0:15:18.291000
-wird	-	-	-	0:15:18.291000	0:15:19.638000
-auch	-	-	-	0:15:18.291000	0:15:19.638000
-jetzt	-	-	-	0:15:18.291000	0:15:19.638000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:15:18.291000	0:15:19.638000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:15:18.291000	0:15:19.638000
-mehr	-	-	-	0:15:18.291000	0:15:19.638000
-aber	-	-	-	0:15:19.638000	0:15:22.738000
-jetzt	-	-	-	0:15:19.638000	0:15:22.738000
-nicht	-	-	-	0:15:19.638000	0:15:22.738000
-direkt	-	-	-	0:15:19.638000	0:15:22.738000
-im	-	-	-	0:15:19.638000	0:15:22.738000
-ortskern	-	-	-	0:15:19.638000	0:15:22.738000
-beim	-	-	-	0:15:22.738000	0:15:23.745000
-beim	-	-	-	0:15:22.738000	0:15:23.745000
-Rathaus	-	-	-	0:15:22.738000	0:15:23.745000
-bei	-	-	-	0:15:23.745000	0:15:24.298000
-der	-	-	-	0:15:23.745000	0:15:24.298000
-Kirche	-	-	-	0:15:23.745000	0:15:24.298000
-da	-	-	-	0:15:24.298000	0:15:25.771000
-ist	-	-	-	0:15:24.298000	0:15:25.771000
-der	-	-	-	0:15:24.298000	0:15:25.771000
-ist	-	-	-	0:15:24.298000	0:15:25.771000
-eigentlich	-	-	-	0:15:24.298000	0:15:25.771000
-nix	-	-	-	0:15:24.298000	0:15:25.771000
-und	-	-	-	0:15:25.771000	0:15:29.251000
-da	-	-	-	0:15:25.771000	0:15:29.251000
-gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:25.771000	0:15:29.251000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:25.771000	0:15:29.251000
-zum	-	-	-	0:15:25.771000	0:15:29.251000
-Beispiel	-	-	-	0:15:25.771000	0:15:29.251000
-auch	-	-	-	0:15:25.771000	0:15:29.251000
-in	-	-	-	0:15:25.771000	0:15:29.251000
-manchen	-	-	-	0:15:25.771000	0:15:29.251000
-anderen	-	-	-	0:15:25.771000	0:15:29.251000
-gemeinden	-	-	-	0:15:25.771000	0:15:29.251000
-ich	-	-	-	0:15:29.251000	0:15:31.391000
-darf	-	-	-	0:15:29.251000	0:15:31.391000
-wahrscheinlich	-	-	-	0:15:29.251000	0:15:31.391000
-alles	-	-	-	0:15:29.251000	0:15:31.391000
-sagen	-	-	-	0:15:29.251000	0:15:31.391000
-es	-	-	-	0:15:31.391000	0:15:32.438000
-ist	-	-	-	0:15:31.391000	0:15:32.438000
-eh	-	-	-	0:15:31.391000	0:15:32.438000
-etwas	-	-	-	0:15:31.391000	0:15:32.438000
-Positives	-	-	-	0:15:31.391000	0:15:32.438000
-in	-	-	-	0:15:32.438000	0:15:33.985000
-ORT	ORT	-	-	0:15:32.438000	0:15:33.985000
-zum	-	-	-	0:15:32.438000	0:15:33.985000
-Beispiel	-	-	-	0:15:32.438000	0:15:33.985000
-ist	-	-	-	0:15:33.985000	0:15:36.845000
-ein	-	-	-	0:15:33.985000	0:15:36.845000
-ähnliche	-	-	-	0:15:33.985000	0:15:36.845000
-Situation	-	-	-	0:15:33.985000	0:15:36.845000
-wie	-	-	-	0:15:33.985000	0:15:36.845000
-wie	-	-	-	0:15:33.985000	0:15:36.845000
-wir	-	-	-	0:15:33.985000	0:15:36.845000
-die	-	-	-	0:15:36.845000	0:15:38.618000
-nächste	-	-	-	0:15:36.845000	0:15:38.618000
-Gemeinde	-	-	-	0:15:36.845000	0:15:38.618000
-nach	-	-	-	0:15:36.845000	0:15:38.618000
-ORT	ORT	-	-	0:15:36.845000	0:15:38.618000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:38.618000" end="0:15:39.145000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:39.145000" end="0:15:49.445000" project="PP04" age_lower="20" age_upper="30">
-ah	-	-	-	0:15:39.145000	0:15:43.491000
-gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:39.145000	0:15:43.491000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:39.145000	0:15:43.491000
-zum	-	-	-	0:15:39.145000	0:15:43.491000
-Beispiel	-	-	-	0:15:39.145000	0:15:43.491000
-wochenmärkte	-	-	-	0:15:39.145000	0:15:43.491000
-oder	-	-	-	0:15:39.145000	0:15:43.491000
-sowos	-	-	-	0:15:39.145000	0:15:43.491000
-weiß	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:43.491000	0:15:47.191000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:43.491000	0:15:47.191000
-dass	-	-	-	0:15:43.491000	0:15:47.191000
-da	-	-	-	0:15:43.491000	0:15:47.191000
-jeden	-	-	-	0:15:43.491000	0:15:47.191000
-Samstag	-	-	-	0:15:43.491000	0:15:47.191000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:43.491000	0:15:47.191000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:43.491000	0:15:47.191000
-auch	-	-	-	0:15:43.491000	0:15:47.191000
-Markt	-	-	-	0:15:43.491000	0:15:47.191000
-ist	-	-	-	0:15:43.491000	0:15:47.191000
-bauernmarkt	-	-	-	0:15:47.191000	0:15:47.971000
-das	-	-	-	0:15:47.971000	0:15:49.445000
-hat	-	-	-	0:15:47.971000	0:15:49.445000
-sich	-	-	-	0:15:47.971000	0:15:49.445000
-bei	-	-	-	0:15:47.971000	0:15:49.445000
-uns	-	-	-	0:15:47.971000	0:15:49.445000
-aufgehört	-	-	-	0:15:47.971000	0:15:49.445000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:49.445000" end="0:15:50.471000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:49.445000" end="0:15:56.285000" project="PP04" age_lower="20" age_upper="30">
-es	-	-	-	0:15:49.445000	0:15:50.471000
-hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:49.445000	0:15:50.471000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:49.445000	0:15:50.471000
-früher	-	-	-	0:15:49.445000	0:15:50.471000
-auch	-	-	-	0:15:49.445000	0:15:50.471000
-geben	-	-	-	0:15:49.445000	0:15:50.471000
-das	-	-	-	0:15:50.471000	0:15:53.218000
-wäre	-	-	-	0:15:50.471000	0:15:53.218000
-schön	-	-	-	0:15:50.471000	0:15:53.218000
-we	-	-	-	0:15:50.471000	0:15:53.218000
-man	-	-	-	0:15:50.471000	0:15:53.218000
-sowas	-	-	-	0:15:50.471000	0:15:53.218000
-wieder	-	-	-	0:15:50.471000	0:15:53.218000
-etabliert	-	-	-	0:15:50.471000	0:15:53.218000
-und	-	-	-	0:15:53.218000	0:15:56.285000
-auch	-	-	-	0:15:53.218000	0:15:56.285000
-im	-	-	-	0:15:53.218000	0:15:56.285000
-im	-	-	-	0:15:53.218000	0:15:56.285000
-ortskern	-	-	-	0:15:53.218000	0:15:56.285000
-sowas	-	-	-	0:15:53.218000	0:15:56.285000
-macht	-	-	-	0:15:53.218000	0:15:56.285000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:56.285000" end="0:15:57.698000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:56.725000" end="0:15:58.758000" project="PP04" age_lower="20" age_upper="30">
-würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:56.725000	0:15:58.758000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:56.725000	0:15:58.758000
-versuchen	-	-	-	0:15:56.725000	0:15:58.758000
-als	-	-	-	0:15:56.725000	0:15:58.758000
-Bürgermeister	-	-	-	0:15:56.725000	0:15:58.758000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:58.758000" end="0:16:07.118000" age_lower="1" age_upper="999">
-schön	-	-	-	0:15:59.505000	0:16:01.358000
-ich	-	-	-	0:16:01.898000	0:16:04.698000
-würde	-	-	-	0:16:01.898000	0:16:04.698000
-jetzt	-	-	-	0:16:01.898000	0:16:04.698000
-zu	-	-	-	0:16:01.898000	0:16:04.698000
-einen	-	-	-	0:16:01.898000	0:16:04.698000
-anderen	-	-	-	0:16:01.898000	0:16:04.698000
-Thema	-	-	-	0:16:01.898000	0:16:04.698000
-kommen	-	-	-	0:16:01.898000	0:16:04.698000
-und	-	-	-	0:16:04.698000	0:16:07.118000
-mit	-	-	-	0:16:04.698000	0:16:07.118000
-Ihnen	-	-	-	0:16:04.698000	0:16:07.118000
-ein	-	-	-	0:16:04.698000	0:16:07.118000
-bisschen	-	-	-	0:16:04.698000	0:16:07.118000
-über	-	-	-	0:16:04.698000	0:16:07.118000
-Sprache	-	-	-	0:16:04.698000	0:16:07.118000
-sprechen	-	-	-	0:16:04.698000	0:16:07.118000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:07.118000" end="0:16:07.418000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:16:07.118000	0:16:07.418000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:07.418000" end="0:16:11.898000" age_lower="1" age_upper="999">
-was	-	-	-	0:16:07.418000	0:16:08.211000
-da	-	-	-	0:16:08.211000	0:16:09.311000
-ist	-	-	-	0:16:08.211000	0:16:09.311000
-meine	-	-	-	0:16:08.211000	0:16:09.311000
-erste	-	-	-	0:16:08.211000	0:16:09.311000
-Frage	-	-	-	0:16:08.211000	0:16:09.311000
-was	-	-	-	0:16:09.311000	0:16:11.898000
-verstehen	-	-	-	0:16:09.311000	0:16:11.898000
-Sie	-	-	-	0:16:09.311000	0:16:11.898000
-unter	-	-	-	0:16:09.311000	0:16:11.898000
-dem	-	-	-	0:16:09.311000	0:16:11.898000
-Begriff	-	-	-	0:16:09.311000	0:16:11.898000
-Dialekt	-	-	-	0:16:09.311000	0:16:11.898000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:10.638000" end="0:16:39.525000" project="PP04" age_lower="20" age_upper="30">
-ich	-	-	-	0:16:17.898000	0:16:20.271000
-verstehe	-	-	-	0:16:17.898000	0:16:20.271000
-darunter	-	-	-	0:16:17.898000	0:16:20.271000
-eine	-	-	-	0:16:17.898000	0:16:20.271000
-äh	-	-	-	0:16:25.271000	0:16:26.065000
-an	-	-	-	0:16:28.391000	0:16:32.998000
-einen	-	-	-	0:16:28.391000	0:16:32.998000
-spezi	-	-	-	0:16:28.391000	0:16:32.998000
-ein	-	-	-	0:16:28.391000	0:16:32.998000
-ein	-	-	-	0:16:28.391000	0:16:32.998000
-spezifisches	-	-	-	0:16:28.391000	0:16:32.998000
-Gebiet	-	-	-	0:16:28.391000	0:16:32.998000
-gebundene	-	-	-	0:16:28.391000	0:16:32.998000
-Form	-	-	-	0:16:34.011000	0:16:36.531000
-der	-	-	-	0:16:34.011000	0:16:36.531000
-Sprache	-	-	-	0:16:34.011000	0:16:36.531000
-ah	-	-	-	0:16:36.531000	0:16:39.525000
-eine	-	-	-	0:16:36.531000	0:16:39.525000
-eine	-	-	-	0:16:36.531000	0:16:39.525000
-gebietstypische	-	-	-	0:16:36.531000	0:16:39.525000
-Umgangssprache	-	-	-	0:16:36.531000	0:16:39.525000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:39.525000" end="0:16:44.051000" age_lower="1" age_upper="999">
-und	-	-	-	0:16:40.331000	0:16:44.051000
-wie	-	-	-	0:16:40.331000	0:16:44.051000
-würden	-	-	-	0:16:40.331000	0:16:44.051000
-Sie	-	-	-	0:16:40.331000	0:16:44.051000
-das	-	-	-	0:16:40.331000	0:16:44.051000
-Gegenteil	-	-	-	0:16:40.331000	0:16:44.051000
-von	-	-	-	0:16:40.331000	0:16:44.051000
-Dialekt	-	-	-	0:16:40.331000	0:16:44.051000
-nennen	-	-	-	0:16:40.331000	0:16:44.051000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:44.051000" end="0:16:44.805000" project="PP04" age_lower="20" age_upper="30">
-Hochsprache	-	-	-	0:16:44.051000	0:16:44.805000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:44.805000" end="0:16:49.365000" age_lower="1" age_upper="999">
-ah	-	-	-	0:16:45.618000	0:16:49.365000
-können	-	-	-	0:16:45.618000	0:16:49.365000
-Sie	-	-	-	0:16:45.618000	0:16:49.365000
-Dialekt	-	-	-	0:16:45.618000	0:16:49.365000
-und	-	-	-	0:16:45.618000	0:16:49.365000
-Hochsprache	-	-	-	0:16:45.618000	0:16:49.365000
-sprechen	-	-	-	0:16:45.618000	0:16:49.365000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:49.365000" end="0:17:02.765000" project="PP04" age_lower="20" age_upper="30">
-äh	-	-	-	0:16:51.258000	0:16:53.718000
-ich	-	-	-	0:16:56.331000	0:16:59.971000
-müsste	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:16:56.331000	0:16:59.971000
-mich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:16:56.331000	0:16:59.971000
-sehr	-	-	-	0:16:56.331000	0:16:59.971000
-bemühen	-	-	-	0:16:56.331000	0:16:59.971000
-wahscheinlich	-	-	-	0:16:56.331000	0:16:59.971000
-um	-	-	-	0:16:56.331000	0:16:59.971000
-wirklich	-	-	-	0:16:56.331000	0:16:59.971000
-Hochsprache	-	-	-	0:16:56.331000	0:16:59.971000
-zu	-	-	-	0:16:56.331000	0:16:59.971000
-sprechen	-	-	-	0:16:56.331000	0:16:59.971000
-es	-	-	-	0:16:59.971000	0:17:02.765000
-könnte	-	-	-	0:16:59.971000	0:17:02.765000
-klappen	-	-	-	0:16:59.971000	0:17:02.765000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:01.391000" end="0:17:04.231000" age_lower="1" age_upper="999">
-gibt	-	-	-	0:17:02.765000	0:17:04.231000
-es	-	-	-	0:17:02.765000	0:17:04.231000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:02.765000" end="0:17:04.231000" project="PP04" age_lower="20" age_upper="30">
-Dialekt	-	-	-	0:17:02.765000	0:17:04.231000
-ja	-	-	-	0:17:02.765000	0:17:04.231000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:04.231000" end="0:17:05.545000" age_lower="1" age_upper="999">
-entschuldigung	-	-	-	0:17:04.231000	0:17:05.078000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:05.545000" end="0:17:29.358000" project="PP04" age_lower="20" age_upper="30">
-äh	-	-	-	0:17:07.545000	0:17:11.505000
-es	-	-	-	0:17:07.545000	0:17:11.505000
-ja	-	-	-	0:17:07.545000	0:17:11.505000
-so	-	-	-	0:17:07.545000	0:17:11.505000
-echten	-	-	-	0:17:07.545000	0:17:11.505000
-Dialekt	-	-	-	0:17:07.545000	0:17:11.505000
-ist	-	-	-	0:17:07.545000	0:17:11.505000
-die	-	-	-	0:17:07.545000	0:17:11.505000
-Frage	-	-	-	0:17:07.545000	0:17:11.505000
-es	-	-	-	0:17:11.505000	0:17:13.125000
-ist	-	-	-	0:17:11.505000	0:17:13.125000
-ich	-	-	-	0:17:13.125000	0:17:19.458000
-ich	-	-	-	0:17:13.125000	0:17:19.458000
-ich	-	-	-	0:17:13.125000	0:17:19.458000
-ich	-	-	-	0:17:13.125000	0:17:19.458000
-weiß	-	-	-	0:17:13.125000	0:17:19.458000
-nicht	-	-	-	0:17:13.125000	0:17:19.458000
-ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:13.125000	0:17:19.458000
-zwischen	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:13.125000	0:17:19.458000
-Umgangssprache	-	-	-	0:17:13.125000	0:17:19.458000
-und	-	-	-	0:17:13.125000	0:17:19.458000
-Dialekt	-	-	-	0:17:13.125000	0:17:19.458000
-wirklich	-	-	-	0:17:13.125000	0:17:19.458000
-die	-	-	-	0:17:13.125000	0:17:19.458000
-Unterscheidung	-	-	-	0:17:13.125000	0:17:19.458000
-gibt	-	-	-	0:17:13.125000	0:17:19.458000
-es	-	-	-	0:17:13.125000	0:17:19.458000
-das	-	-	-	0:17:21.758000	0:17:24.391000
-habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:17:21.758000	0:17:24.391000
-i	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:17:21.758000	0:17:24.391000
-nimmer	-	-	-	0:17:21.758000	0:17:24.391000
-so	-	-	-	0:17:21.758000	0:17:24.391000
-im	-	-	-	0:17:21.758000	0:17:24.391000
-äh	-	-	-	0:17:24.391000	0:17:27.991000
-ich	-	-	-	0:17:24.391000	0:17:27.991000
-würde	-	-	-	0:17:24.391000	0:17:27.991000
-sagen	-	-	-	0:17:24.391000	0:17:27.991000
-es	-	-	-	0:17:24.391000	0:17:27.991000
-ist	-	-	-	0:17:24.391000	0:17:27.991000
-Umgangssprache	-	-	-	0:17:24.391000	0:17:27.991000
-ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:27.991000	0:17:29.358000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:27.991000	0:17:29.358000
-wirklich	-	-	-	0:17:27.991000	0:17:29.358000
-Dialekt	-	-	-	0:17:27.991000	0:17:29.358000
-ist	-	-	-	0:17:27.991000	0:17:29.358000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:29.358000" end="0:17:33.871000" age_lower="1" age_upper="999">
-was	-	-	-	0:17:31.485000	0:17:33.871000
-Sie	-	-	-	0:17:31.485000	0:17:33.871000
-jetzt	-	-	-	0:17:31.485000	0:17:33.871000
-sprechen	-	-	-	0:17:31.485000	0:17:33.871000
-meinen	-	-	-	0:17:31.485000	0:17:33.871000
-Sie	-	-	-	0:17:31.485000	0:17:33.871000
-oder	-	-	-	0:17:31.485000	0:17:33.871000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:33.378000" end="0:17:34.465000" project="PP04" age_lower="20" age_upper="30">
-was	-	-	*klit KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich	0:17:33.378000	0:17:34.465000
-ich	-	-	*klit KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich	0:17:33.378000	0:17:34.465000
-jetzt	-	-	-	0:17:33.378000	0:17:34.465000
-spreche	-	-	-	0:17:33.378000	0:17:34.465000
-ja	-	-	-	0:17:33.378000	0:17:34.465000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:33.871000" end="0:17:34.718000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:34.465000" end="0:17:35.805000" project="PP04" age_lower="20" age_upper="30">
-oder	-	-	-	0:17:34.465000	0:17:35.805000
-was	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:17:34.465000	0:17:35.805000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:17:34.465000	0:17:35.805000
-sprechen	-	-	-	0:17:34.465000	0:17:35.805000
-könnte	-	-	-	0:17:34.465000	0:17:35.805000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:35.805000" end="0:17:36.938000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:35.805000" end="0:17:43.791000" project="PP04" age_lower="20" age_upper="30">
-Dialekt	-	-	-	0:17:35.805000	0:17:39.358000
-müsste	-	-	-	0:17:35.805000	0:17:39.358000
-müsste	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:17:35.805000	0:17:39.358000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:17:35.805000	0:17:39.358000
-wahrscheinlich	-	-	-	0:17:35.805000	0:17:39.358000
-lernen	-	-	-	0:17:35.805000	0:17:39.358000
-so	-	-	-	0:17:39.358000	0:17:43.791000
-jetzt	-	-	-	0:17:39.358000	0:17:43.791000
-wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:39.358000	0:17:43.791000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:39.358000	0:17:43.791000
-echt	-	-	-	0:17:39.358000	0:17:43.791000
-echter	-	-	-	0:17:39.358000	0:17:43.791000
-Dialekt	-	-	-	0:17:39.358000	0:17:43.791000
-wäre	-	-	-	0:17:39.358000	0:17:43.791000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:43.571000" end="0:17:56.411000" age_lower="1" age_upper="999">
-gibt	-	-	-	0:17:45.918000	0:17:49.491000
-es	-	-	-	0:17:45.918000	0:17:49.491000
-Situationen	-	-	-	0:17:45.918000	0:17:49.491000
-beziehungsweise	-	-	-	0:17:45.918000	0:17:49.491000
-Anlässe	-	-	-	0:17:45.918000	0:17:49.491000
-und	-	-	-	0:17:49.491000	0:17:50.464000
-wenn	-	-	-	0:17:49.491000	0:17:50.464000
-ja	-	-	-	0:17:49.491000	0:17:50.464000
-welche	-	-	-	0:17:49.491000	0:17:50.464000
-in	-	-	-	0:17:50.464000	0:17:52.724000
-denen	-	-	-	0:17:50.464000	0:17:52.724000
-Sie	-	-	-	0:17:50.464000	0:17:52.724000
-hoch	-	-	-	0:17:50.464000	0:17:52.724000
-was	-	-	-	0:17:52.724000	0:17:53.584000
-haben	-	-	-	0:17:52.724000	0:17:53.584000
-Sie	-	-	-	0:17:52.724000	0:17:53.584000
-gesagt	-	-	-	0:17:52.724000	0:17:53.584000
-Hochdeutsch	-	-	-	0:17:53.584000	0:17:54.278000
-haben	-	-	-	0:17:54.278000	0:17:55.144000
-Sie	-	-	-	0:17:54.278000	0:17:55.144000
-es	-	-	-	0:17:54.278000	0:17:55.144000
-genannt	-	-	-	0:17:54.278000	0:17:55.144000
-Hochsprache	-	-	-	0:17:55.144000	0:17:56.411000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:55.144000" end="0:17:55.931000" project="PP04" age_lower="20" age_upper="30">
-Hochsprache	-	-	-	0:17:55.144000	0:17:55.931000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:56.411000" end="0:17:58.784000" age_lower="1" age_upper="999">
-denen	-	-	-	0:17:56.411000	0:17:58.784000
-Sie	-	-	-	0:17:56.411000	0:17:58.784000
-Hochsprache	-	-	-	0:17:56.411000	0:17:58.784000
-sprechen	-	-	-	0:17:56.411000	0:17:58.784000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:58.784000" end="0:18:14.184000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:18:01.384000	0:18:02.638000
-berufsbedingt	-	-	-	0:18:01.384000	0:18:02.638000
-wenn	-	-	-	0:18:02.638000	0:18:03.098000
-zum	-	-	-	0:18:03.098000	0:18:09.278000
-Beispiel	-	-	-	0:18:03.098000	0:18:09.278000
-in	-	-	-	0:18:03.098000	0:18:09.278000
-der	-	-	-	0:18:03.098000	0:18:09.278000
-Situation	-	-	-	0:18:03.098000	0:18:09.278000
-als	-	-	-	0:18:03.098000	0:18:09.278000
-als	-	-	-	0:18:03.098000	0:18:09.278000
-Lehrer	-	-	-	0:18:03.098000	0:18:09.278000
-muss	-	-	-	0:18:09.278000	0:18:14.184000
-man	-	-	-	0:18:09.278000	0:18:14.184000
-natürlich	-	-	-	0:18:09.278000	0:18:14.184000
-dafür	-	-	-	0:18:09.278000	0:18:14.184000
-sorgen	-	-	-	0:18:09.278000	0:18:14.184000
-dass	-	-	-	0:18:09.278000	0:18:14.184000
-man	-	-	-	0:18:09.278000	0:18:14.184000
-gut	-	-	-	0:18:09.278000	0:18:14.184000
-verstanden	-	-	-	0:18:09.278000	0:18:14.184000
-wird	-	-	-	0:18:09.278000	0:18:14.184000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:14.184000" end="0:18:14.838000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:14.838000" end="0:18:22.398000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:18:14.838000	0:18:17.618000
-dementsprechend	-	-	-	0:18:14.838000	0:18:17.618000
-sich	-	-	-	0:18:14.838000	0:18:17.618000
-um	-	-	-	0:18:14.838000	0:18:17.618000
-deutlichkeit	-	-	-	0:18:14.838000	0:18:17.618000
-bemühen	-	-	-	0:18:14.838000	0:18:17.618000
-nicht	-	-	-	0:18:17.618000	0:18:19.324000
-unbedingt	-	-	-	0:18:17.618000	0:18:19.324000
-meine	-	-	-	0:18:17.618000	0:18:19.324000
-Stärke	-	-	-	0:18:17.618000	0:18:19.324000
-es	-	-	-	0:18:19.324000	0:18:22.398000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:18:19.324000	0:18:22.398000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:18:19.324000	0:18:22.398000
-zumindest	-	-	-	0:18:19.324000	0:18:22.398000
-bewusst	-	-	-	0:18:19.324000	0:18:22.398000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:22.398000" end="0:18:24.258000" age_lower="1" age_upper="999">
-und	-	-	-	0:18:22.398000	0:18:24.258000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:22.398000" end="0:18:25.998000" project="PP04" age_lower="20" age_upper="30">
-oder	-	-	-	0:18:22.398000	0:18:25.998000
-eben	-	-	-	0:18:22.398000	0:18:25.998000
-wenn	-	-	-	0:18:22.398000	0:18:25.998000
-man	-	-	-	0:18:22.398000	0:18:25.998000
-vor	-	-	-	0:18:22.398000	0:18:25.998000
-mehreren	-	-	-	0:18:22.398000	0:18:25.998000
-Leuten	-	-	-	0:18:22.398000	0:18:25.998000
-spricht	-	-	-	0:18:22.398000	0:18:25.998000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:25.998000" end="0:18:26.438000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:26.438000" end="0:18:30.544000" project="PP04" age_lower="20" age_upper="30">
-wo	-	-	-	0:18:26.438000	0:18:27.658000
-auch	-	-	-	0:18:26.438000	0:18:27.658000
-immer	-	-	-	0:18:26.438000	0:18:27.658000
-dann	-	-	-	0:18:27.658000	0:18:30.544000
-bemüht	-	-	-	0:18:27.658000	0:18:30.544000
-man	-	-	-	0:18:27.658000	0:18:30.544000
-sich	-	-	-	0:18:27.658000	0:18:30.544000
-zumindest	-	-	-	0:18:27.658000	0:18:30.544000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:30.544000" end="0:18:41.338000" age_lower="1" age_upper="999">
-und	-	-	-	0:18:30.544000	0:18:32.758000
-umgekehrt	-	-	-	0:18:30.544000	0:18:32.758000
-ah	-	-	-	0:18:32.758000	0:18:35.891000
-in	-	-	-	0:18:32.758000	0:18:35.891000
-welchen	-	-	-	0:18:32.758000	0:18:35.891000
-Situationen	-	-	-	0:18:32.758000	0:18:35.891000
-beziehungsweise	-	-	-	0:18:32.758000	0:18:35.891000
-bei	-	-	-	0:18:35.891000	0:18:38.718000
-welchen	-	-	-	0:18:35.891000	0:18:38.718000
-Gelegenheiten	-	-	-	0:18:35.891000	0:18:38.718000
-sprechen	-	-	-	0:18:35.891000	0:18:38.718000
-Sie	-	-	-	0:18:35.891000	0:18:38.718000
-Dialekt	-	-	-	0:18:35.891000	0:18:38.718000
-oder	-	-	-	0:18:38.718000	0:18:41.338000
-wie	-	-	-	0:18:38.718000	0:18:41.338000
-Sie	-	-	-	0:18:38.718000	0:18:41.338000
-vorher	-	-	-	0:18:38.718000	0:18:41.338000
-gesagt	-	-	-	0:18:38.718000	0:18:41.338000
-haben	-	-	-	0:18:38.718000	0:18:41.338000
-Umgangssprache	-	-	-	0:18:38.718000	0:18:41.338000
-oder	-	-	-	0:18:38.718000	0:18:41.338000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:41.024000" end="0:18:43.471000" project="PP04" age_lower="20" age_upper="30">
-ist	-	-	-	0:18:41.024000	0:18:43.471000
-sehr	-	-	-	0:18:41.024000	0:18:43.471000
-abhängig	-	-	-	0:18:41.024000	0:18:43.471000
-vom	-	-	-	0:18:41.024000	0:18:43.471000
-gesprächspartner	-	-	-	0:18:41.024000	0:18:43.471000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:43.471000" end="0:18:44.158000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:44.158000" end="0:19:11.264000" project="PP04" age_lower="20" age_upper="30">
-ich	-	-	-	0:18:44.158000	0:18:48.691000
-habe	-	-	-	0:18:44.158000	0:18:48.691000
-das	-	-	-	0:18:44.158000	0:18:48.691000
-schon	-	-	-	0:18:44.158000	0:18:48.691000
-manchmal	-	-	-	0:18:44.158000	0:18:48.691000
-beobachtet	-	-	-	0:18:44.158000	0:18:48.691000
-dass	-	-	-	0:18:44.158000	0:18:48.691000
-ah	-	-	-	0:18:44.158000	0:18:48.691000
-Leute	-	-	-	0:18:44.158000	0:18:48.691000
-die	-	-	-	0:18:44.158000	0:18:48.691000
-selber	-	-	-	0:18:44.158000	0:18:48.691000
-sehr	-	-	-	0:18:44.158000	0:18:48.691000
-umgangssprachlich	-	-	-	0:18:48.691000	0:18:52.458000
-sprechen	-	-	-	0:18:48.691000	0:18:52.458000
-mich	-	-	-	0:18:52.458000	0:18:55.258000
-auch	-	-	-	0:18:52.458000	0:18:55.258000
-sofort	-	-	-	0:18:52.458000	0:18:55.258000
-dazu	-	-	-	0:18:52.458000	0:18:55.258000
-bewegen	-	-	-	0:18:52.458000	0:18:55.258000
-das	-	-	-	0:18:55.258000	0:18:57.978000
-aber	-	-	-	0:18:55.258000	0:18:57.978000
-ziemlich	-	-	-	0:18:55.258000	0:18:57.978000
-unbewusst	-	-	-	0:18:55.258000	0:18:57.978000
-also	-	-	-	0:18:57.978000	0:19:03.244000
-man	-	-	-	0:18:57.978000	0:19:03.244000
-wechselt	-	-	-	0:18:57.978000	0:19:03.244000
-sofort	-	-	-	0:18:57.978000	0:19:03.244000
-dann	-	-	-	0:18:57.978000	0:19:03.244000
-ein	-	-	-	0:18:57.978000	0:19:03.244000
-bisschen	-	-	-	0:18:57.978000	0:19:03.244000
-die	-	-	-	0:18:57.978000	0:19:03.244000
-sprach	-	-	-	0:18:57.978000	0:19:03.244000
-bei	-	-	-	0:19:03.244000	0:19:04.304000
-den	-	-	-	0:19:03.244000	0:19:04.304000
-Eltern	-	-	-	0:19:03.244000	0:19:04.304000
-ich	-	-	-	0:19:04.304000	0:19:07.738000
-habe	-	-	-	0:19:04.304000	0:19:07.738000
-zum	-	-	-	0:19:04.304000	0:19:07.738000
-Beispiel	-	-	-	0:19:04.304000	0:19:07.738000
-einen	-	-	-	0:19:04.304000	0:19:07.738000
-musikerkollegen	-	-	-	0:19:04.304000	0:19:07.738000
-d	-	-	-	0:19:07.738000	0:19:11.264000
-der	-	-	-	0:19:07.738000	0:19:11.264000
-schon	-	-	-	0:19:07.738000	0:19:11.264000
-ist	-	-	-	0:19:07.738000	0:19:11.264000
-ein	-	-	-	0:19:07.738000	0:19:11.264000
-ZAHL	ZAHL	-	-	0:19:07.738000	0:19:11.264000
-Jahrgang	-	-	-	0:19:07.738000	0:19:11.264000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:11.264000" end="0:19:12.071000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:12.071000" end="0:19:31.778000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:19:12.071000	0:19:13.151000
-ich	-	-	-	0:19:13.151000	0:19:18.658000
-ein	-	-	-	0:19:13.151000	0:19:18.658000
-hat	-	-	-	0:19:13.151000	0:19:18.658000
-größten	-	-	-	0:19:13.151000	0:19:18.658000
-Teil	-	-	-	0:19:13.151000	0:19:18.658000
-seines	-	-	-	0:19:13.151000	0:19:18.658000
-Lebens	-	-	-	0:19:13.151000	0:19:18.658000
-in	-	-	-	0:19:13.151000	0:19:18.658000
-in	-	-	-	0:19:13.151000	0:19:18.658000
-ORT	ORT	-	-	0:19:13.151000	0:19:18.658000
-und	-	-	-	0:19:13.151000	0:19:18.658000
-ORT	ORT	-	-	0:19:13.151000	0:19:18.658000
-verbracht	-	-	-	0:19:13.151000	0:19:18.658000
-und	-	-	-	0:19:18.658000	0:19:21.164000
-ist	-	-	-	0:19:18.658000	0:19:21.164000
-em	-	-	-	0:19:18.658000	0:19:21.164000
-schon	-	-	-	0:19:18.658000	0:19:21.164000
-etwas	-	-	-	0:19:18.658000	0:19:21.164000
-älter	-	-	-	0:19:18.658000	0:19:21.164000
-und	-	-	-	0:19:21.164000	0:19:31.778000
-zum	-	-	-	0:19:21.164000	0:19:31.778000
-mit	-	-	-	0:19:21.164000	0:19:31.778000
-ihm	-	-	-	0:19:21.164000	0:19:31.778000
-spreche	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:19:21.164000	0:19:31.778000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:19:21.164000	0:19:31.778000
-schon	-	-	-	0:19:21.164000	0:19:31.778000
-deutlich	-	-	-	0:19:21.164000	0:19:31.778000
-umgangssprachlicher	-	-	-	0:19:21.164000	0:19:31.778000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:31.778000" end="0:19:32.771000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:31.778000" end="0:19:35.871000" project="PP04" age_lower="20" age_upper="30">
-oder	-	-	-	0:19:31.778000	0:19:34.904000
-in	-	-	-	0:19:31.778000	0:19:34.904000
-Richtung	-	-	-	0:19:31.778000	0:19:34.904000
-Dialekt	-	-	-	0:19:31.778000	0:19:34.904000
-wenn	-	-	-	0:19:34.904000	0:19:35.871000
-man	-	-	-	0:19:34.904000	0:19:35.871000
-das	-	-	-	0:19:34.904000	0:19:35.871000
-jetzt	-	-	-	0:19:34.904000	0:19:35.871000
-so	-	-	-	0:19:34.904000	0:19:35.871000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:35.871000" end="0:19:54.978000" age_lower="1" age_upper="999">
-weil	-	-	-	0:19:36.638000	0:19:39.498000
-Sie	-	-	-	0:19:36.638000	0:19:39.498000
-gerade	-	-	-	0:19:36.638000	0:19:39.498000
-vorher	-	-	-	0:19:36.638000	0:19:39.498000
-angesprochen	-	-	-	0:19:36.638000	0:19:39.498000
-haben	-	-	-	0:19:36.638000	0:19:39.498000
-haben	-	-	-	0:19:39.498000	0:19:40.831000
-dass	-	-	-	0:19:40.831000	0:19:44.011000
-sie	-	-	-	0:19:40.831000	0:19:44.011000
-da	-	-	-	0:19:40.831000	0:19:44.011000
-hin	-	-	-	0:19:40.831000	0:19:44.011000
-und	-	-	-	0:19:40.831000	0:19:44.011000
-her	-	-	-	0:19:40.831000	0:19:44.011000
-wechseln	-	-	-	0:19:40.831000	0:19:44.011000
-fällt	-	-	-	0:19:44.011000	0:19:48.071000
-Ihnen	-	-	-	0:19:44.011000	0:19:48.071000
-das	-	-	-	0:19:44.011000	0:19:48.071000
-schwer	-	-	-	0:19:44.011000	0:19:48.071000
-dann	-	-	-	0:19:44.011000	0:19:48.071000
-hin	-	-	-	0:19:44.011000	0:19:48.071000
-und	-	-	-	0:19:44.011000	0:19:48.071000
-her	-	-	-	0:19:44.011000	0:19:48.071000
-zu	-	-	-	0:19:44.011000	0:19:48.071000
-wechseln	-	-	-	0:19:44.011000	0:19:48.071000
-zwischen	-	-	-	0:19:48.071000	0:19:53.404000
-Hochdeutsch	-	-	-	0:19:48.071000	0:19:53.404000
-und	-	-	-	0:19:48.071000	0:19:53.404000
-äh	-	-	-	0:19:48.071000	0:19:53.404000
-eben	-	-	-	0:19:48.071000	0:19:53.404000
-Dialekt	-	-	-	0:19:48.071000	0:19:53.404000
-oder	-	-	-	0:19:48.071000	0:19:53.404000
-Umgangssprache	-	-	-	0:19:48.071000	0:19:53.404000
-fällt	-	-	-	0:19:53.404000	0:19:54.978000
-Ihnen	-	-	-	0:19:53.404000	0:19:54.978000
-das	-	-	-	0:19:53.404000	0:19:54.978000
-eher	-	-	-	0:19:53.404000	0:19:54.978000
-leicht	-	-	-	0:19:53.404000	0:19:54.978000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:54.978000" end="0:20:05.878000" project="PP04" age_lower="20" age_upper="30">
-mir	-	-	-	0:19:54.978000	0:20:03.544000
-fällt	-	-	-	0:19:54.978000	0:20:03.544000
-da	-	-	-	0:19:54.978000	0:20:03.544000
-Wechsel	-	-	-	0:19:54.978000	0:20:03.544000
-in	-	-	-	0:19:54.978000	0:20:03.544000
-die	-	-	-	0:19:54.978000	0:20:03.544000
-eher	-	-	-	0:19:54.978000	0:20:03.544000
-Umgangssprache	-	-	-	0:19:54.978000	0:20:03.544000
-äh	-	-	-	0:19:54.978000	0:20:03.544000
-Dialekt	-	-	-	0:19:54.978000	0:20:03.544000
-leicht	-	-	-	0:19:54.978000	0:20:03.544000
-und	-	-	-	0:20:03.544000	0:20:05.878000
-und	-	-	-	0:20:03.544000	0:20:05.878000
-auch	-	-	-	0:20:03.544000	0:20:05.878000
-eigentlich	-	-	-	0:20:03.544000	0:20:05.878000
-nicht	-	-	-	0:20:03.544000	0:20:05.878000
-auf	-	-	-	0:20:03.544000	0:20:05.878000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:05.878000" end="0:20:06.791000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:05.878000" end="0:20:07.824000" project="PP04" age_lower="20" age_upper="30">
-ich	-	-	-	0:20:05.878000	0:20:07.824000
-muss	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:20:05.878000	0:20:07.824000
-mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:20:05.878000	0:20:07.824000
-darauf	-	-	-	0:20:05.878000	0:20:07.824000
-konzentrieren	-	-	-	0:20:05.878000	0:20:07.824000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:07.824000" end="0:20:08.584000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:07.824000" end="0:20:09.824000" project="PP04" age_lower="20" age_upper="30">
-fällt	-	-	-	0:20:07.824000	0:20:09.824000
-da	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit-	0:20:07.824000	0:20:09.824000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit-	0:20:07.824000	0:20:09.824000
-in	-	-	-	0:20:07.824000	0:20:09.824000
-der	-	-	-	0:20:07.824000	0:20:09.824000
-Situation	-	-	-	0:20:07.824000	0:20:09.824000
-nicht	-	-	-	0:20:07.824000	0:20:09.824000
-auf	-	-	-	0:20:07.824000	0:20:09.824000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:09.824000" end="0:20:10.411000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:10.411000" end="0:20:14.191000" project="PP04" age_lower="20" age_upper="30">
-da	-	-	-	0:20:10.411000	0:20:12.998000
-Wechsel	-	-	-	0:20:10.411000	0:20:12.998000
-in	-	-	-	0:20:10.411000	0:20:12.998000
-Richtung	-	-	-	0:20:10.411000	0:20:12.998000
-Hochsprache	-	-	-	0:20:10.411000	0:20:12.998000
-schon	-	-	-	0:20:10.411000	0:20:12.998000
-fällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:20:12.998000	0:20:14.191000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:20:12.998000	0:20:14.191000
-auch	-	-	-	0:20:12.998000	0:20:14.191000
-viel	-	-	-	0:20:12.998000	0:20:14.191000
-schwerer	-	-	-	0:20:12.998000	0:20:14.191000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:14.191000" end="0:20:20.084000" age_lower="1" age_upper="999">
-und	-	-	-	0:20:14.838000	0:20:20.084000
-ah	-	-	-	0:20:14.838000	0:20:20.084000
-welche	-	-	-	0:20:14.838000	0:20:20.084000
-Sprechweise	-	-	-	0:20:14.838000	0:20:20.084000
-sprechen	-	-	-	0:20:14.838000	0:20:20.084000
-Sie	-	-	-	0:20:14.838000	0:20:20.084000
-am	-	-	-	0:20:14.838000	0:20:20.084000
-liebsten	-	-	-	0:20:14.838000	0:20:20.084000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:20.084000" end="0:20:35.671000" project="PP04" age_lower="20" age_upper="30">
-n	-	-	-	0:20:25.818000	0:20:31.424000
-ja	-	-	-	0:20:25.818000	0:20:31.424000
-die	-	-	-	0:20:25.818000	0:20:31.424000
-die	-	-	-	0:20:25.818000	0:20:31.424000
-gewöhnlich	-	-	-	0:20:25.818000	0:20:31.424000
-f	-	-	-	0:20:25.818000	0:20:31.424000
-äh	-	-	-	0:20:25.818000	0:20:31.424000
-die	-	-	-	0:20:25.818000	0:20:31.424000
-meiste	-	-	-	0:20:25.818000	0:20:31.424000
-Zeit	-	-	-	0:20:25.818000	0:20:31.424000
-so	-	-	-	0:20:25.818000	0:20:31.424000
-verwendet	-	-	-	0:20:25.818000	0:20:31.424000
-wird	-	-	-	0:20:25.818000	0:20:31.424000
-also	-	-	-	0:20:31.424000	0:20:35.671000
-die	-	-	-	0:20:31.424000	0:20:35.671000
-Hochsprache	-	-	-	0:20:31.424000	0:20:35.671000
-ist	-	-	-	0:20:31.424000	0:20:35.671000
-mit	-	-	-	0:20:31.424000	0:20:35.671000
-Konzentration	-	-	-	0:20:31.424000	0:20:35.671000
-verbunden	-	-	-	0:20:31.424000	0:20:35.671000
-eigentlich	-	-	-	0:20:31.424000	0:20:35.671000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:35.498000" end="0:20:35.851000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:35.851000" end="0:20:39.638000" project="PP04" age_lower="20" age_upper="30">
-dadurch	-	-	-	0:20:35.851000	0:20:39.638000
-auch	-	-	-	0:20:35.851000	0:20:39.638000
-nicht	-	-	-	0:20:35.851000	0:20:39.638000
-so	-	-	-	0:20:35.851000	0:20:39.638000
-gern	-	-	-	0:20:35.851000	0:20:39.638000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:39.638000" end="0:20:40.598000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:39.638000" end="0:20:40.598000" project="PP04" age_lower="20" age_upper="30">
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:40.598000" end="0:20:46.591000" age_lower="1" age_upper="999">
-ah	-	-	-	0:20:40.598000	0:20:46.591000
-und	-	-	-	0:20:40.598000	0:20:46.591000
-was	-	-	-	0:20:40.598000	0:20:46.591000
-glauben	-	-	-	0:20:40.598000	0:20:46.591000
-Sie	-	-	-	0:20:40.598000	0:20:46.591000
-welches	-	-	-	0:20:40.598000	0:20:46.591000
-Ansehen	-	-	-	0:20:40.598000	0:20:46.591000
-hat	-	-	-	0:20:40.598000	0:20:46.591000
-Dialekt	-	-	-	0:20:40.598000	0:20:46.591000
-hier	-	-	-	0:20:40.598000	0:20:46.591000
-in	-	-	-	0:20:40.598000	0:20:46.591000
-ORT	ORT	-	-	0:20:40.598000	0:20:46.591000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:46.591000" end="0:21:25.444000" project="PP04" age_lower="20" age_upper="30">
-ich	-	-	-	0:20:55.298000	0:20:58.031000
-glaube	-	-	-	0:20:55.298000	0:20:58.031000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:20:55.298000	0:20:58.031000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:20:55.298000	0:20:58.031000
-hier	-	-	-	0:20:55.298000	0:20:58.031000
-in	-	-	-	0:20:55.298000	0:20:58.031000
-ORT	ORT	-	-	0:20:55.298000	0:20:58.031000
-noch	-	-	-	0:20:55.298000	0:20:58.031000
-da	-	-	-	0:21:05.438000	0:21:06.584000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:05.438000	0:21:06.584000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:05.438000	0:21:06.584000
-ah	-	-	-	0:21:05.438000	0:21:06.584000
-relativ	-	-	-	0:21:06.584000	0:21:10.964000
-als	-	-	-	0:21:06.584000	0:21:10.964000
-normal	-	-	-	0:21:06.584000	0:21:10.964000
-betrachtet	-	-	-	0:21:06.584000	0:21:10.964000
-wird	-	-	-	0:21:06.584000	0:21:10.964000
-vom	-	-	-	0:21:10.964000	0:21:12.831000
-Ansehen	-	-	-	0:21:10.964000	0:21:12.831000
-her	-	-	-	0:21:10.964000	0:21:12.831000
-pf	-	-	-	0:21:12.831000	0:21:15.031000
-dass	-	-	-	0:21:15.031000	0:21:18.471000
-das	-	-	-	0:21:15.031000	0:21:18.471000
-Ansehen	-	-	-	0:21:15.031000	0:21:18.471000
-nicht	-	-	-	0:21:15.031000	0:21:18.471000
-so	-	-	-	0:21:15.031000	0:21:18.471000
-beeinflusst	-	-	-	0:21:15.031000	0:21:18.471000
-es	-	-	-	0:21:18.471000	0:21:25.444000
-kommt	-	-	-	0:21:18.471000	0:21:25.444000
-dann	-	-	-	0:21:18.471000	0:21:25.444000
-auf	-	-	-	0:21:18.471000	0:21:25.444000
-die	-	-	-	0:21:18.471000	0:21:25.444000
-individuelle	-	-	-	0:21:18.471000	0:21:25.444000
-Sprache	-	-	-	0:21:18.471000	0:21:25.444000
-sicher	-	-	-	0:21:18.471000	0:21:25.444000
-einen	-	-	-	0:21:18.471000	0:21:25.444000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:25.444000" end="0:21:26.051000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:26.051000" end="0:21:45.264000" project="PP04" age_lower="20" age_upper="30">
-es	-	-	-	0:21:26.051000	0:21:31.717000
-gibt	-	-	-	0:21:26.051000	0:21:31.717000
-ja	-	-	-	0:21:26.051000	0:21:31.717000
-auch	-	-	-	0:21:26.051000	0:21:31.717000
-innerhalb	-	-	-	0:21:26.051000	0:21:31.717000
-vom	-	-	-	0:21:26.051000	0:21:31.717000
-Dialekt	-	-	-	0:21:26.051000	0:21:31.717000
-oder	-	-	-	0:21:26.051000	0:21:31.717000
-Umgangssprache	-	-	-	0:21:26.051000	0:21:31.717000
-auch	-	-	-	0:21:26.051000	0:21:31.717000
-noch	-	-	-	0:21:26.051000	0:21:31.717000
-ein	-	-	-	0:21:26.051000	0:21:31.717000
-Spektrum	-	-	-	0:21:26.051000	0:21:31.717000
-und	-	-	-	0:21:33.924000	0:21:38.784000
-innerhalb	-	-	-	0:21:33.924000	0:21:38.784000
-dessen	-	-	-	0:21:33.924000	0:21:38.784000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:21:33.924000	0:21:38.784000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:21:33.924000	0:21:38.784000
-schon	-	-	-	0:21:33.924000	0:21:38.784000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:33.924000	0:21:38.784000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:33.924000	0:21:38.784000
-mit	-	-	-	0:21:33.924000	0:21:38.784000
-dem	-	-	-	0:21:33.924000	0:21:38.784000
-Ansehen	-	-	-	0:21:33.924000	0:21:38.784000
-irgendwie	-	-	-	0:21:33.924000	0:21:38.784000
-dann	-	-	-	0:21:33.924000	0:21:38.784000
-zu	-	-	-	0:21:33.924000	0:21:38.784000
-tun	-	-	-	0:21:33.924000	0:21:38.784000
-haben	-	-	-	0:21:33.924000	0:21:38.784000
-kein	-	-	-	0:21:33.924000	0:21:38.784000
-aber	-	-	-	0:21:38.784000	0:21:43.417000
-ich	-	-	-	0:21:38.784000	0:21:43.417000
-glaube	-	-	-	0:21:38.784000	0:21:43.417000
-jetzt	-	-	-	0:21:38.784000	0:21:43.417000
-nicht	-	-	-	0:21:38.784000	0:21:43.417000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:38.784000	0:21:43.417000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:38.784000	0:21:43.417000
-bei	-	-	-	0:21:38.784000	0:21:43.417000
-uns	-	-	-	0:21:38.784000	0:21:43.417000
-so	-	-	-	0:21:38.784000	0:21:43.417000
-die	-	-	-	0:21:38.784000	0:21:43.417000
-Rolle	-	-	-	0:21:38.784000	0:21:43.417000
-spielt	-	-	-	0:21:38.784000	0:21:43.417000
-in	-	-	-	0:21:43.417000	0:21:45.264000
-ORT	ORT	-	-	0:21:43.417000	0:21:45.264000
-selber	-	-	-	0:21:43.417000	0:21:45.264000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:45.264000" end="0:21:56.191000" age_lower="1" age_upper="999">
-äh	-	-	-	0:21:46.877000	0:21:53.697000
-haben	-	-	-	0:21:46.877000	0:21:53.697000
-Sie	-	-	-	0:21:46.877000	0:21:53.697000
-den	-	-	-	0:21:46.877000	0:21:53.697000
-Eindruck	-	-	-	0:21:46.877000	0:21:53.697000
-oder	-	-	-	0:21:46.877000	0:21:53.697000
-vielleicht	-	-	-	0:21:46.877000	0:21:53.697000
-auch	-	-	-	0:21:46.877000	0:21:53.697000
-schon	-	-	-	0:21:46.877000	0:21:53.697000
-die	-	-	-	0:21:46.877000	0:21:53.697000
-Erfahrung	-	-	-	0:21:46.877000	0:21:53.697000
-gemacht	-	-	-	0:21:46.877000	0:21:53.697000
-dass	-	-	-	0:21:46.877000	0:21:53.697000
-man	-	-	-	0:21:46.877000	0:21:53.697000
-ihen	-	-	-	0:21:46.877000	0:21:53.697000
-anhört	-	-	-	0:21:46.877000	0:21:53.697000
-dass	-	-	-	0:21:46.877000	0:21:53.697000
-Sie	-	-	-	0:21:46.877000	0:21:53.697000
-aus	-	-	-	0:21:46.877000	0:21:53.697000
-ORT	ORT	-	-	0:21:46.877000	0:21:53.697000
-oder	-	-	-	0:21:53.697000	0:21:56.191000
-zumindest	-	-	-	0:21:53.697000	0:21:56.191000
-hier	-	-	-	0:21:53.697000	0:21:56.191000
-aus	-	-	-	0:21:53.697000	0:21:56.191000
-der	-	-	-	0:21:53.697000	0:21:56.191000
-Region	-	-	-	0:21:53.697000	0:21:56.191000
-kommen	-	-	-	0:21:53.697000	0:21:56.191000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:56.191000" end="0:22:06.544000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:21:58.931000	0:22:00.177000
-ich	-	-	-	0:22:00.177000	0:22:06.544000
-habe	-	-	-	0:22:00.177000	0:22:06.544000
-gestern	-	-	-	0:22:00.177000	0:22:06.544000
-mit	-	-	-	0:22:00.177000	0:22:06.544000
-einem	-	-	-	0:22:00.177000	0:22:06.544000
-mit	-	-	-	0:22:00.177000	0:22:06.544000
-meinem	-	-	-	0:22:00.177000	0:22:06.544000
-Arbeitskollegen	-	-	-	0:22:00.177000	0:22:06.544000
-über	-	-	-	0:22:00.177000	0:22:06.544000
-dies	-	-	-	0:22:00.177000	0:22:06.544000
-Gespräch	-	-	-	0:22:00.177000	0:22:06.544000
-jetzt	-	-	-	0:22:00.177000	0:22:06.544000
-gesprochen	-	-	-	0:22:00.177000	0:22:06.544000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:06.544000" end="0:22:07.351000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:07.351000" end="0:22:58.024000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:22:07.351000	0:22:10.117000
-äh	-	-	-	0:22:07.351000	0:22:10.117000
-der	-	-	-	0:22:07.351000	0:22:10.117000
-ist	-	-	-	0:22:07.351000	0:22:10.117000
-ein	-	-	-	0:22:07.351000	0:22:10.117000
-ORT	ORT	-	-	0:22:07.351000	0:22:10.117000
-und	-	-	-	0:22:10.117000	0:22:17.031000
-hat	-	-	-	0:22:10.117000	0:22:17.031000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:22:10.117000	0:22:17.031000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:22:10.117000	0:22:17.031000
-Wurzeln	-	-	-	0:22:10.117000	0:22:17.031000
-in	-	-	-	0:22:10.117000	0:22:17.031000
-Bulgarien	-	-	-	0:22:10.117000	0:22:17.031000
-ein	-	-	-	0:22:17.031000	0:22:19.397000
-elternteil	-	-	-	0:22:17.031000	0:22:19.397000
-irgendwie	-	-	-	0:22:17.031000	0:22:19.397000
-so	-	-	-	0:22:17.031000	0:22:19.397000
-aber	-	-	-	0:22:19.397000	0:22:21.144000
-ist	-	-	-	0:22:19.397000	0:22:21.144000
-ORT	ORT	-	-	0:22:19.397000	0:22:21.144000
-und	-	-	-	0:22:21.144000	0:22:25.504000
-wir	-	-	-	0:22:21.144000	0:22:25.504000
-haben	-	-	-	0:22:21.144000	0:22:25.504000
-em	-	-	-	0:22:21.144000	0:22:25.504000
-gesprochen	-	-	-	0:22:21.144000	0:22:25.504000
-darüber	-	-	-	0:22:21.144000	0:22:25.504000
-und	-	-	-	0:22:25.504000	0:22:27.517000
-er	-	-	-	0:22:25.504000	0:22:27.517000
-hat	-	-	-	0:22:25.504000	0:22:27.517000
-gesagt	-	-	-	0:22:25.504000	0:22:27.517000
-nein	-	-	-	0:22:25.504000	0:22:27.517000
-eigentlich	-	-	-	0:22:25.504000	0:22:27.517000
-redest	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _du klit-	0:22:25.504000	0:22:27.517000
-du	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _du klit-	0:22:25.504000	0:22:27.517000
-ORT	ORT	-	-	0:22:25.504000	0:22:27.517000
-oder	-	-	-	0:22:25.504000	0:22:27.517000
-un	-	-	-	0:22:27.517000	0:22:30.071000
-ich	-	-	-	0:22:27.517000	0:22:30.071000
-habe	-	-	-	0:22:27.517000	0:22:30.071000
-gesagt	-	-	-	0:22:27.517000	0:22:30.071000
-ja	-	-	-	0:22:27.517000	0:22:30.071000
-ich	-	-	-	0:22:27.517000	0:22:30.071000
-wass	-	-	-	0:22:27.517000	0:22:30.071000
-es	-	-	-	0:22:27.517000	0:22:30.071000
-nicht	-	-	-	0:22:27.517000	0:22:30.071000
-ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:22:27.517000	0:22:30.071000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:22:27.517000	0:22:30.071000
-also	-	-	-	0:22:30.071000	0:22:33.671000
-eine	-	-	-	0:22:30.071000	0:22:33.671000
-ORT	ORT	-	-	0:22:30.071000	0:22:33.671000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:22:30.071000	0:22:33.671000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:22:30.071000	0:22:33.671000
-nicht	-	-	-	0:22:30.071000	0:22:33.671000
-bewusst	-	-	-	0:22:30.071000	0:22:33.671000
-ist	-	-	-	0:22:33.671000	0:22:34.431000
-so	-	-	-	0:22:33.671000	0:22:34.431000
-ORT	ORT	-	-	0:22:34.431000	0:22:39.564000
-ist	-	-	-	0:22:34.431000	0:22:39.564000
-es	-	-	-	0:22:34.431000	0:22:39.564000
-nicht	-	-	-	0:22:34.431000	0:22:39.564000
-und	-	-	-	0:22:39.564000	0:22:40.417000
-ORT	ORT	-	-	0:22:39.564000	0:22:40.417000
-o	-	-	-	0:22:40.417000	0:22:42.171000
-es	-	-	-	0:22:40.417000	0:22:42.171000
-ist	-	-	-	0:22:40.417000	0:22:42.171000
-bei	-	-	-	0:22:40.417000	0:22:42.171000
-oder	-	-	-	0:22:40.417000	0:22:42.171000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:22:40.417000	0:22:42.171000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:22:40.417000	0:22:42.171000
-beides	-	-	-	0:22:40.417000	0:22:42.171000
-nix	-	-	-	0:22:42.171000	0:22:42.777000
-ich	-	-	-	0:22:42.777000	0:22:43.377000
-weiss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:22:42.777000	0:22:43.377000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:22:42.777000	0:22:43.377000
-nicht	-	-	-	0:22:42.777000	0:22:43.377000
-aber	-	-	-	0:22:43.377000	0:22:45.917000
-jetzt	-	-	-	0:22:43.377000	0:22:45.917000
-so	-	-	-	0:22:43.377000	0:22:45.917000
-typisch	-	-	-	0:22:43.377000	0:22:45.917000
-ORT	ORT	-	-	0:22:43.377000	0:22:45.917000
-dass	-	-	-	0:22:45.917000	0:22:49.717000
-jemand	-	-	-	0:22:45.917000	0:22:49.717000
-gesagt	-	-	-	0:22:45.917000	0:22:49.717000
-hat	-	-	-	0:22:45.917000	0:22:49.717000
-du	-	-	-	0:22:45.917000	0:22:49.717000
-bist	-	-	-	0:22:45.917000	0:22:49.717000
-du	-	-	-	0:22:45.917000	0:22:49.717000
-bist	-	-	-	0:22:45.917000	0:22:49.717000
-garantiert	-	-	-	0:22:45.917000	0:22:49.717000
-ein	-	-	-	0:22:45.917000	0:22:49.717000
-ORT	ORT	-	-	0:22:45.917000	0:22:49.717000
-habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:22:49.717000	0:22:51.544000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:22:49.717000	0:22:51.544000
-noch	-	-	-	0:22:49.717000	0:22:51.544000
-nicht	-	-	-	0:22:49.717000	0:22:51.544000
-gehört	-	-	-	0:22:49.717000	0:22:51.544000
-so	-	-	-	0:22:51.544000	0:22:53.911000
-in	-	-	-	0:22:51.544000	0:22:53.911000
-Richtung	-	-	-	0:22:51.544000	0:22:53.911000
-ORT	ORT	-	-	0:22:51.544000	0:22:53.911000
-oder	-	-	-	0:22:51.544000	0:22:53.911000
-ORT	ORT	-	-	0:22:51.544000	0:22:53.911000
-das	-	-	-	0:22:53.911000	0:22:58.024000
-das	-	-	-	0:22:53.911000	0:22:58.024000
-sagen	-	-	-	0:22:53.911000	0:22:58.024000
-eim	-	-	-	0:22:53.911000	0:22:58.024000
-die	-	-	-	0:22:53.911000	0:22:58.024000
-Leute	-	-	-	0:22:53.911000	0:22:58.024000
-immer	-	-	-	0:22:53.911000	0:22:58.024000
-wieder	-	-	-	0:22:53.911000	0:22:58.024000
-wenn	-	-	-	0:22:53.911000	0:22:58.024000
-man	-	-	-	0:22:53.911000	0:22:58.024000
-jetzt	-	-	-	0:22:53.911000	0:22:58.024000
-weiter	-	-	-	0:22:53.911000	0:22:58.024000
-wo	-	-	-	0:22:53.911000	0:22:58.024000
-hinfohrt	-	-	-	0:22:53.911000	0:22:58.024000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:58.024000" end="0:22:58.557000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:58.557000" end="0:23:04.684000" project="PP04" age_lower="20" age_upper="30">
-auf	-	-	-	0:22:58.557000	0:22:59.544000
-Urlaub	-	-	-	0:22:58.557000	0:22:59.544000
-oder	-	-	-	0:22:58.557000	0:22:59.544000
-so	-	-	-	0:22:58.557000	0:22:59.544000
-dann	-	-	-	0:22:59.544000	0:23:01.017000
-sagen	-	-	-	0:22:59.544000	0:23:01.017000
-die	-	-	-	0:22:59.544000	0:23:01.017000
-Leute	-	-	-	0:22:59.544000	0:23:01.017000
-nein	-	-	-	0:22:59.544000	0:23:01.017000
-sie	-	-	-	0:22:59.544000	0:23:01.017000
-sind	-	-	-	0:22:59.544000	0:23:01.017000
-ORT	ORT	-	-	0:23:01.017000	0:23:02.497000
-oder	-	-	-	0:23:02.497000	0:23:04.684000
-nieder	-	-	-	0:23:02.497000	0:23:04.684000
-oder	-	-	-	0:23:02.497000	0:23:04.684000
-ORT	ORT	-	-	0:23:02.497000	0:23:04.684000
-oder	-	-	-	0:23:02.497000	0:23:04.684000
-sowos	-	-	-	0:23:02.497000	0:23:04.684000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:04.684000" end="0:23:05.097000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:04.684000" end="0:23:05.797000" project="PP04" age_lower="20" age_upper="30">
-schon	-	-	-	0:23:04.684000	0:23:05.797000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:05.797000" end="0:23:13.624000" age_lower="1" age_upper="999">
-und	-	-	-	0:23:05.797000	0:23:09.957000
-passiert	-	-	-	0:23:05.797000	0:23:09.957000
-das	-	-	-	0:23:05.797000	0:23:09.957000
-wenn	-	-	-	0:23:05.797000	0:23:09.957000
-Sie	-	-	-	0:23:05.797000	0:23:09.957000
-Umgangssprache	-	-	-	0:23:05.797000	0:23:09.957000
-sprechen	-	-	-	0:23:05.797000	0:23:09.957000
-oder	-	-	-	0:23:09.957000	0:23:13.624000
-passiert	-	-	-	0:23:09.957000	0:23:13.624000
-das	-	-	-	0:23:09.957000	0:23:13.624000
-auch	-	-	-	0:23:09.957000	0:23:13.624000
-wenn	-	-	-	0:23:09.957000	0:23:13.624000
-sie	-	-	-	0:23:09.957000	0:23:13.624000
-ah	-	-	-	0:23:09.957000	0:23:13.624000
-Hochsprache	-	-	-	0:23:09.957000	0:23:13.624000
-sprechen	-	-	-	0:23:09.957000	0:23:13.624000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:13.624000" end="0:23:19.351000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:23:15.624000	0:23:17.471000
-kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:15.624000	0:23:17.471000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:15.624000	0:23:17.471000
-von	-	-	-	0:23:15.624000	0:23:17.471000
-der	-	-	-	0:23:15.624000	0:23:17.471000
-Hochsprache	-	-	-	0:23:15.624000	0:23:17.471000
-nicht	-	-	-	0:23:15.624000	0:23:17.471000
-sagen	-	-	-	0:23:15.624000	0:23:17.471000
-weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:23:17.471000	0:23:19.351000
-das	-	-	-	0:23:17.471000	0:23:19.351000
-eigentlich	-	-	-	0:23:17.471000	0:23:19.351000
-nie	-	-	-	0:23:17.471000	0:23:19.351000
-probiert	-	-	-	0:23:17.471000	0:23:19.351000
-habe	-	-	-	0:23:17.471000	0:23:19.351000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:19.351000" end="0:23:20.557000" age_lower="1" age_upper="999">
-okay	-	-	-	0:23:19.351000	0:23:19.811000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:19.811000" end="0:23:21.971000" project="PP04" age_lower="20" age_upper="30">
-Umgangssprache	-	-	-	0:23:20.557000	0:23:21.971000
-ja	-	-	-	0:23:20.557000	0:23:21.971000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:21.971000" end="0:23:33.831000" age_lower="1" age_upper="999">
-jaja	-	-	-	0:23:22.684000	0:23:23.251000
-okay	-	-	-	0:23:23.251000	0:23:23.911000
-können	-	-	-	0:23:25.291000	0:23:29.431000
-Sie	-	-	-	0:23:25.291000	0:23:29.431000
-andere	-	-	-	0:23:25.291000	0:23:29.431000
-anahand	-	-	-	0:23:25.291000	0:23:29.431000
-ihrer	-	-	-	0:23:25.291000	0:23:29.431000
-Sprechweise	-	-	-	0:23:25.291000	0:23:29.431000
-zuordnen	-	-	-	0:23:25.291000	0:23:29.431000
-also	-	-	-	0:23:29.431000	0:23:33.831000
-dass	-	-	-	0:23:29.431000	0:23:33.831000
-Sie	-	-	-	0:23:29.431000	0:23:33.831000
-sagen	-	-	-	0:23:29.431000	0:23:33.831000
-können	-	-	-	0:23:29.431000	0:23:33.831000
-aus	-	-	-	0:23:29.431000	0:23:33.831000
-welcher	-	-	-	0:23:29.431000	0:23:33.831000
-Region	-	-	-	0:23:29.431000	0:23:33.831000
-oder	-	-	-	0:23:29.431000	0:23:33.831000
-woher	-	-	-	0:23:29.431000	0:23:33.831000
-der	-	-	-	0:23:29.431000	0:23:33.831000
-kommt	-	-	-	0:23:29.431000	0:23:33.831000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:29.431000" end="0:23:46.124000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:23:33.831000	0:23:36.404000
-es	-	-	-	0:23:33.831000	0:23:36.404000
-kommt	-	-	-	0:23:33.831000	0:23:36.404000
-sehr	-	-	-	0:23:33.831000	0:23:36.404000
-auf	-	-	-	0:23:33.831000	0:23:36.404000
-die	-	-	-	0:23:33.831000	0:23:36.404000
-Region	-	-	-	0:23:33.831000	0:23:36.404000
-an	-	-	-	0:23:33.831000	0:23:36.404000
-ja	-	-	-	0:23:36.931000	0:23:39.131000
-in	-	-	-	0:23:39.131000	0:23:41.651000
-manche	-	-	-	0:23:39.131000	0:23:41.651000
-bei	-	-	-	0:23:39.131000	0:23:41.651000
-manchen	-	-	-	0:23:39.131000	0:23:41.651000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:23:39.131000	0:23:41.651000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:23:39.131000	0:23:41.651000
-recht	-	-	-	0:23:39.131000	0:23:41.651000
-einfach	-	-	-	0:23:39.131000	0:23:41.651000
-ich	-	-	-	0:23:41.651000	0:23:46.124000
-habe	-	-	-	0:23:41.651000	0:23:46.124000
-auch	-	-	-	0:23:41.651000	0:23:46.124000
-viele	-	-	-	0:23:41.651000	0:23:46.124000
-Studienkollegen	-	-	-	0:23:41.651000	0:23:46.124000
-eben	-	-	-	0:23:41.651000	0:23:46.124000
-aus	-	-	-	0:23:41.651000	0:23:46.124000
-anderen	-	-	-	0:23:41.651000	0:23:46.124000
-Bundesländern	-	-	-	0:23:41.651000	0:23:46.124000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:46.124000" end="0:23:46.751000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:46.751000" end="0:24:07.237000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:23:46.751000	0:23:49.031000
-dadurch	-	-	-	0:23:46.751000	0:23:49.031000
-weiss	-	-	-	0:23:46.751000	0:23:49.031000
-man	-	-	-	0:23:46.751000	0:23:49.031000
-kann	-	-	-	0:23:49.031000	0:23:50.811000
-man	-	-	-	0:23:49.031000	0:23:50.811000
-das	-	-	-	0:23:49.031000	0:23:50.811000
-gut	-	-	-	0:23:49.031000	0:23:50.811000
-verknüpfen	-	-	-	0:23:49.031000	0:23:50.811000
-man	-	-	-	0:23:50.811000	0:23:52.537000
-von	-	-	-	0:23:50.811000	0:23:52.537000
-jedem	-	-	-	0:23:50.811000	0:23:52.537000
-die	-	-	-	0:23:50.811000	0:23:52.537000
-Herkunft	-	-	-	0:23:50.811000	0:23:52.537000
-weiß	-	-	-	0:23:50.811000	0:23:52.537000
-und	-	-	-	0:23:52.537000	0:23:54.537000
-man	-	-	-	0:23:52.537000	0:23:54.537000
-hört	-	-	-	0:23:52.537000	0:23:54.537000
-die	-	-	-	0:23:52.537000	0:23:54.537000
-Sprache	-	-	-	0:23:52.537000	0:23:54.537000
-und	-	-	-	0:23:54.537000	0:23:58.377000
-em	-	-	-	0:23:54.537000	0:23:58.377000
-ein	-	-	-	0:23:54.537000	0:23:58.377000
-elternteil	-	-	-	0:23:54.537000	0:23:58.377000
-von	-	-	-	0:23:54.537000	0:23:58.377000
-mir	-	-	-	0:23:54.537000	0:23:58.377000
-waren	-	-	-	0:23:54.537000	0:23:58.377000
-ORT	ORT	-	-	0:23:54.537000	0:23:58.377000
-da	-	-	-	0:23:58.377000	0:23:59.984000
-gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:23:58.377000	0:23:59.984000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:23:58.377000	0:23:59.984000
-noch	-	-	-	0:23:58.377000	0:23:59.984000
-Verwandte	-	-	-	0:23:58.377000	0:23:59.984000
-also	-	-	-	0:23:59.984000	0:24:03.597000
-ORT	ORT	-	-	0:23:59.984000	0:24:03.597000
-erkenne	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:59.984000	0:24:03.597000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:59.984000	0:24:03.597000
-halbwegs	-	-	-	0:23:59.984000	0:24:03.597000
-ORT	ORT	-	-	0:24:03.597000	0:24:04.377000
-ich	-	-	-	0:24:04.377000	0:24:07.237000
-habe	-	-	-	0:24:04.377000	0:24:07.237000
-mit	-	-	-	0:24:04.377000	0:24:07.237000
-am	-	-	-	0:24:04.377000	0:24:07.237000
-ORT	ORT	-	-	0:24:04.377000	0:24:07.237000
-tontechnik	-	-	-	0:24:04.377000	0:24:07.237000
-studiert	-	-	-	0:24:04.377000	0:24:07.237000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:07.237000" end="0:24:08.004000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:07.237000" end="0:24:15.477000" project="PP04" age_lower="20" age_upper="30">
-mit	-	-	-	0:24:07.237000	0:24:08.564000
-einem	-	-	-	0:24:07.237000	0:24:08.564000
-ORT	ORT	-	-	0:24:07.237000	0:24:08.564000
-also	-	-	-	0:24:08.564000	0:24:10.977000
-das	-	-	-	0:24:08.564000	0:24:10.977000
-traue	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:24:08.564000	0:24:10.977000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+|KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:24:08.564000	0:24:10.977000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:24:08.564000	0:24:10.977000
-jetzt	-	-	-	0:24:08.564000	0:24:10.977000
-fast	-	-	-	0:24:08.564000	0:24:10.977000
-schon	-	-	-	0:24:08.564000	0:24:10.977000
-zu	-	-	-	0:24:08.564000	0:24:10.977000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:24:10.977000	0:24:12.004000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:24:10.977000	0:24:12.004000
-ORT	ORT	-	-	0:24:10.977000	0:24:12.004000
-erke	-	-	-	0:24:10.977000	0:24:12.004000
-halt	-	-	-	0:24:12.004000	0:24:13.157000
-Tiroler	-	-	-	0:24:12.004000	0:24:13.157000
-Kärnten	-	-	-	0:24:13.157000	0:24:15.477000
-natürlich	-	-	-	0:24:13.157000	0:24:15.477000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:15.477000" end="0:24:16.477000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:15.477000" end="0:24:17.897000" project="PP04" age_lower="20" age_upper="30">
-Kärnten	-	-	-	0:24:15.477000	0:24:17.897000
-finde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:24:15.477000	0:24:17.897000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:24:15.477000	0:24:17.897000
-ganz	-	-	-	0:24:15.477000	0:24:17.897000
-spezifisch	-	-	-	0:24:15.477000	0:24:17.897000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:17.897000" end="0:24:21.797000" age_lower="1" age_upper="999">
-u	-	-	-	0:24:17.897000	0:24:21.797000
-was	-	-	-	0:24:17.897000	0:24:21.797000
-ist	-	-	-	0:24:17.897000	0:24:21.797000
-da	-	-	-	0:24:17.897000	0:24:21.797000
-das	-	-	-	0:24:17.897000	0:24:21.797000
-spezifische	-	-	-	0:24:17.897000	0:24:21.797000
-Ihrer	-	-	-	0:24:17.897000	0:24:21.797000
-Meinung	-	-	-	0:24:17.897000	0:24:21.797000
-nach	-	-	-	0:24:17.897000	0:24:21.797000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:21.797000" end="0:24:59.257000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:24:21.797000	0:24:27.544000
-dass	-	-	-	0:24:21.797000	0:24:27.544000
-sehr	-	-	-	0:24:21.797000	0:24:27.544000
-sehr	-	-	-	0:24:21.797000	0:24:27.544000
-die	-	-	-	0:24:21.797000	0:24:27.544000
-vokale	-	-	-	0:24:21.797000	0:24:27.544000
-ausgekostet	-	-	-	0:24:21.797000	0:24:27.544000
-werden	-	-	-	0:24:21.797000	0:24:27.544000
-und	-	-	-	0:24:27.544000	0:24:30.377000
-und	-	-	-	0:24:27.544000	0:24:30.377000
-und	-	-	-	0:24:27.544000	0:24:30.377000
-kaum	-	-	-	0:24:27.544000	0:24:30.377000
-Konsonanten	-	-	-	0:24:27.544000	0:24:30.377000
-man	-	-	-	0:24:27.544000	0:24:30.377000
-teilweis	-	-	-	0:24:27.544000	0:24:30.377000
-hört	-	-	-	0:24:27.544000	0:24:30.377000
-aber	-	-	-	0:24:30.377000	0:24:32.184000
-es	-	-	-	0:24:30.377000	0:24:32.184000
-ist	-	-	-	0:24:30.377000	0:24:32.184000
-ja	-	-	-	0:24:30.377000	0:24:32.184000
-schwer	-	-	-	0:24:32.184000	0:24:34.744000
-zu	-	-	-	0:24:32.184000	0:24:34.744000
-beschreiben	-	-	-	0:24:32.184000	0:24:34.744000
-es	-	-	-	0:24:37.844000	0:24:38.431000
-ist	-	-	-	0:24:37.844000	0:24:38.431000
-ja	-	-	-	0:24:46.031000	0:24:46.397000
-würde	-	-	-	0:24:46.397000	0:24:53.404000
-sagen	-	-	-	0:24:46.397000	0:24:53.404000
-es	-	-	-	0:24:46.397000	0:24:53.404000
-es	-	-	-	0:24:46.397000	0:24:53.404000
-ist	-	-	-	0:24:46.397000	0:24:53.404000
-eine	-	-	-	0:24:46.397000	0:24:53.404000
-sehr	-	-	-	0:24:46.397000	0:24:53.404000
-vokalbetonte	-	-	-	0:24:46.397000	0:24:53.404000
-Umgangssprache	-	-	-	0:24:46.397000	0:24:53.404000
-oder	-	-	-	0:24:55.817000	0:24:57.457000
-es	-	-	-	0:24:55.817000	0:24:57.457000
-ist	-	-	-	0:24:55.817000	0:24:57.457000
-alles	-	-	-	0:24:55.817000	0:24:57.457000
-auch	-	-	-	0:24:55.817000	0:24:57.457000
-sehr	-	-	-	0:24:55.817000	0:24:57.457000
-verbunden	-	-	-	0:24:55.817000	0:24:57.457000
-es	-	-	-	0:24:57.457000	0:24:59.257000
-ist	-	-	-	0:24:57.457000	0:24:59.257000
-so	-	-	-	0:24:57.457000	0:24:59.257000
-es	-	-	-	0:24:57.457000	0:24:59.257000
-ich	-	-	-	0:24:57.457000	0:24:59.257000
-es	-	-	-	0:24:57.457000	0:24:59.257000
-fliesst	-	-	-	0:24:57.457000	0:24:59.257000
-so	-	-	-	0:24:57.457000	0:24:59.257000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:59.257000" end="0:25:00.284000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:00.284000" end="0:25:01.044000" project="PP04" age_lower="20" age_upper="30">
-kommt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:25:00.284000	0:25:01.044000
-man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:25:00.284000	0:25:01.044000
-vor	-	-	-	0:25:00.284000	0:25:01.044000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:01.044000" end="0:25:03.944000" age_lower="1" age_upper="999">
-und	-	-	-	0:25:01.044000	0:25:03.944000
-beim	-	-	-	0:25:01.044000	0:25:03.944000
-Tiroler	-	-	-	0:25:01.044000	0:25:03.944000
-ist	-	-	-	0:25:01.044000	0:25:03.944000
-das	-	-	-	0:25:01.044000	0:25:03.944000
-anders	-	-	-	0:25:01.044000	0:25:03.944000
-oder	-	-	-	0:25:01.044000	0:25:03.944000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:03.944000" end="0:25:27.144000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:25:03.944000	0:25:10.110000
-Tiroler	-	-	-	0:25:03.944000	0:25:10.110000
-hat	-	-	-	0:25:03.944000	0:25:10.110000
-diese	-	-	-	0:25:03.944000	0:25:10.110000
-berühmten	-	-	-	0:25:03.944000	0:25:10.110000
-mit	-	-	-	0:25:10.110000	0:25:12.710000
-dem	-	-	-	0:25:10.110000	0:25:12.710000
-ja	-	-	-	0:25:19.110000	0:25:20.804000
-das	-	-	-	0:25:19.110000	0:25:20.804000
-wäre	-	-	-	0:25:19.110000	0:25:20.804000
-das	-	-	-	0:25:19.110000	0:25:20.804000
-ist	-	-	-	0:25:19.110000	0:25:20.804000
-eigentlich	-	-	-	0:25:19.110000	0:25:20.804000
-das	-	-	-	0:25:20.804000	0:25:27.144000
-wäre	-	-	-	0:25:20.804000	0:25:27.144000
-für	-	-	-	0:25:20.804000	0:25:27.144000
-mich	-	-	-	0:25:20.804000	0:25:27.144000
-so	-	-	-	0:25:20.804000	0:25:27.144000
-das	-	-	-	0:25:20.804000	0:25:27.144000
-assoziationskriterium	-	-	-	0:25:20.804000	0:25:27.144000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:27.144000" end="0:25:28.150000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:27.144000" end="0:25:28.584000" project="PP04" age_lower="20" age_upper="30">
-für	-	-	-	0:25:27.830000	0:25:28.584000
-Tiroler	-	-	-	0:25:27.830000	0:25:28.584000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:28.584000" end="0:25:30.910000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:30.910000" end="0:25:33.737000" project="PP04" age_lower="20" age_upper="30">
-ein	-	-	-	0:25:30.910000	0:25:33.737000
-Oberösterreicher	-	-	-	0:25:30.910000	0:25:33.737000
-ist	-	-	-	0:25:30.910000	0:25:33.737000
-me	-	-	-	0:25:30.910000	0:25:33.737000
-sind	-	-	-	0:25:30.910000	0:25:33.737000
-mehr	-	-	-	0:25:30.910000	0:25:33.737000
-ist	-	-	-	0:25:30.910000	0:25:33.737000
-mehr	-	-	-	0:25:30.910000	0:25:33.737000
-die	-	-	-	0:25:30.910000	0:25:33.737000
-Wortwahl	-	-	-	0:25:30.910000	0:25:33.737000
-eigentlich	-	-	-	0:25:30.910000	0:25:33.737000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:33.737000" end="0:25:35.177000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:35.064000" end="0:25:55.417000" project="PP04" age_lower="20" age_upper="30">
-oder	-	-	-	0:25:35.064000	0:25:37.770000
-so	-	-	-	0:25:35.064000	0:25:37.770000
-ein	-	-	-	0:25:35.064000	0:25:37.770000
-so	-	-	-	0:25:35.064000	0:25:37.770000
-ein	-	-	-	0:25:35.064000	0:25:37.770000
-geschlossenes	-	-	-	0:25:35.064000	0:25:37.770000
-o	-	-	-	0:25:35.064000	0:25:37.770000
-so	-	-	-	0:25:37.770000	0:25:38.577000
-alles	-	-	-	0:25:37.770000	0:25:38.577000
-schauen	-	-	-	0:25:38.577000	0:25:41.524000
-mir	-	-	-	0:25:38.577000	0:25:41.524000
-uns	-	-	-	0:25:38.577000	0:25:41.524000
-als	-	-	-	0:25:38.577000	0:25:41.524000
-au	-	-	-	0:25:38.577000	0:25:41.524000
-o	-	-	-	0:25:41.524000	0:25:42.864000
-als	-	-	-	0:25:41.524000	0:25:42.864000
-oder	-	-	-	0:25:44.864000	0:25:48.844000
-oder	-	-	-	0:25:44.864000	0:25:48.844000
-das	-	-	-	0:25:44.864000	0:25:48.844000
-das	-	-	-	0:25:44.864000	0:25:48.844000
-äh	-	-	-	0:25:44.864000	0:25:48.844000
-was	-	-	-	0:25:44.864000	0:25:48.844000
-goi	-	-	-	0:25:44.864000	0:25:48.844000
-goi	-	-	-	0:25:48.844000	0:25:49.817000
-das	-	-	-	0:25:49.817000	0:25:53.204000
-habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:25:49.817000	0:25:53.204000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:25:49.817000	0:25:53.204000
-auch	-	-	-	0:25:49.817000	0:25:53.204000
-nur	-	-	-	0:25:49.817000	0:25:53.204000
-von	-	-	-	0:25:49.817000	0:25:53.204000
-Verwandtschaft	-	-	-	0:25:49.817000	0:25:53.204000
-gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:25:53.204000	0:25:55.417000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:25:53.204000	0:25:55.417000
-einige	-	-	-	0:25:53.204000	0:25:55.417000
-die	-	-	-	0:25:53.204000	0:25:55.417000
-sagen	-	-	-	0:25:53.204000	0:25:55.417000
-das	-	-	-	0:25:53.204000	0:25:55.417000
-wirklich	-	-	-	0:25:53.204000	0:25:55.417000
-so	-	-	-	0:25:53.204000	0:25:55.417000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:55.417000" end="0:25:56.517000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:55.417000" end="0:26:08.837000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:25:55.417000	0:25:58.150000
-ich	-	-	-	0:25:55.417000	0:25:58.150000
-f	-	-	-	0:25:55.417000	0:25:58.150000
-ich	-	-	-	0:25:55.417000	0:25:58.150000
-kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:25:55.417000	0:25:58.150000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:25:55.417000	0:25:58.150000
-nicht	-	-	-	0:25:55.417000	0:25:58.150000
-so	-	-	-	0:25:55.417000	0:25:58.150000
-imitieren	-	-	-	0:25:55.417000	0:25:58.150000
-aber	-	-	-	0:25:55.417000	0:25:58.150000
-da	-	-	-	0:25:58.150000	0:26:01.017000
-ist	-	-	-	0:25:58.150000	0:26:01.017000
-der	-	-	-	0:25:58.150000	0:26:01.017000
-sind	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:25:58.150000	0:26:01.017000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:25:58.150000	0:26:01.017000
-mehr	-	-	-	0:25:58.150000	0:26:01.017000
-die	-	-	-	0:25:58.150000	0:26:01.017000
-Wörter	-	-	-	0:25:58.150000	0:26:01.017000
-gar	-	-	-	0:26:01.017000	0:26:03.530000
-nicht	-	-	-	0:26:01.017000	0:26:03.530000
-so	-	-	-	0:26:01.017000	0:26:03.530000
-jetzt	-	-	-	0:26:01.017000	0:26:03.530000
-die	-	-	-	0:26:01.017000	0:26:03.530000
-da	-	-	-	0:26:01.017000	0:26:03.530000
-Klang	-	-	-	0:26:01.017000	0:26:03.530000
-aber	-	-	-	0:26:03.530000	0:26:08.837000
-an	-	-	-	0:26:03.530000	0:26:08.837000
-an	-	-	-	0:26:03.530000	0:26:08.837000
-manchen	-	-	-	0:26:03.530000	0:26:08.837000
-Wörtern	-	-	-	0:26:03.530000	0:26:08.837000
-erkennt	-	-	-	0:26:03.530000	0:26:08.837000
-man	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(akk.) klit+	0:26:03.530000	0:26:08.837000
-es	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(akk.) klit+	0:26:03.530000	0:26:08.837000
-dann	-	-	-	0:26:03.530000	0:26:08.837000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:07.064000" end="0:26:15.590000" age_lower="1" age_upper="999">
-und	-	-	-	0:26:08.837000	0:26:15.590000
-gibt	-	-	-	0:26:08.837000	0:26:15.590000
-es	-	-	-	0:26:08.837000	0:26:15.590000
-eine	-	-	-	0:26:08.837000	0:26:15.590000
-Sprechweise	-	-	-	0:26:08.837000	0:26:15.590000
-einer	-	-	-	0:26:08.837000	0:26:15.590000
-bestimmten	-	-	-	0:26:08.837000	0:26:15.590000
-Region	-	-	-	0:26:08.837000	0:26:15.590000
-ah	-	-	-	0:26:08.837000	0:26:15.590000
-die	-	-	-	0:26:08.837000	0:26:15.590000
-Ihnen	-	-	-	0:26:08.837000	0:26:15.590000
-besonders	-	-	-	0:26:08.837000	0:26:15.590000
-gut	-	-	-	0:26:08.837000	0:26:15.590000
-gefällt	-	-	-	0:26:08.837000	0:26:15.590000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:15.590000" end="0:26:19.844000" project="PP04" age_lower="20" age_upper="30">
-mir	-	-	-	0:26:15.590000	0:26:18.370000
-gefallen	-	-	-	0:26:15.590000	0:26:18.370000
-viele	-	-	-	0:26:15.590000	0:26:18.370000
-gut	-	-	-	0:26:15.590000	0:26:18.370000
-Kärntnerisch	-	-	-	0:26:18.370000	0:26:19.844000
-gefällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:26:18.370000	0:26:19.844000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:26:18.370000	0:26:19.844000
-sehr	-	-	-	0:26:18.370000	0:26:19.844000
-gut	-	-	-	0:26:18.370000	0:26:19.844000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:19.844000" end="0:26:20.724000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:19.844000" end="0:26:22.157000" project="PP04" age_lower="20" age_upper="30">
-kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:26:19.844000	0:26:21.524000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:26:19.844000	0:26:21.524000
-kaum	-	-	-	0:26:19.844000	0:26:21.524000
-imitieren	-	-	-	0:26:19.844000	0:26:21.524000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:26:21.524000	0:26:22.157000
-gern	-	-	-	0:26:21.524000	0:26:22.157000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:22.157000" end="0:26:28.324000" age_lower="1" age_upper="999">
-eben	-	-	-	0:26:23.144000	0:26:28.324000
-aus	-	-	-	0:26:23.144000	0:26:28.324000
-den	-	-	-	0:26:23.144000	0:26:28.324000
-genannten	-	-	-	0:26:23.144000	0:26:28.324000
-spezifika	-	-	-	0:26:23.144000	0:26:28.324000
-oder	-	-	-	0:26:23.144000	0:26:28.324000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:28.324000" end="0:26:31.464000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:26:28.324000	0:26:31.464000
-es	-	-	-	0:26:28.324000	0:26:31.464000
-klingt	-	-	-	0:26:28.324000	0:26:31.464000
-für	-	-	-	0:26:28.324000	0:26:31.464000
-mich	-	-	-	0:26:28.324000	0:26:31.464000
-lustig	-	-	-	0:26:28.324000	0:26:31.464000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:31.464000" end="0:26:32.444000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:31.464000" end="0:26:33.004000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:26:31.464000	0:26:33.004000
-irgendwie	-	-	-	0:26:31.464000	0:26:33.004000
-ja	-	-	-	0:26:31.464000	0:26:33.004000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:33.004000" end="0:26:34.090000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:34.090000" end="0:26:53.164000" project="PP04" age_lower="20" age_upper="30">
-ah	-	-	-	0:26:37.224000	0:26:40.024000
-ja	-	-	-	0:26:37.224000	0:26:40.024000
-Kärntnerisch	-	-	-	0:26:37.224000	0:26:40.024000
-gefällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:26:37.224000	0:26:40.024000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:26:37.224000	0:26:40.024000
-sehr	-	-	-	0:26:37.224000	0:26:40.024000
-gut	-	-	-	0:26:37.224000	0:26:40.024000
-vermu	-	-	-	0:26:40.024000	0:26:44.064000
-ja	-	-	-	0:26:40.024000	0:26:44.064000
-auch	-	-	-	0:26:40.024000	0:26:44.064000
-tirolerisch	-	-	-	0:26:40.024000	0:26:44.064000
-also	-	-	-	0:26:44.064000	0:26:45.290000
-die	-	-	-	0:26:44.064000	0:26:45.290000
-und	-	-	-	0:26:48.904000	0:26:52.210000
-auch	-	-	-	0:26:48.904000	0:26:52.210000
-Richtung	-	-	-	0:26:48.904000	0:26:52.210000
-Richtung	-	-	-	0:26:48.904000	0:26:52.210000
-ah	-	-	-	0:26:48.904000	0:26:52.210000
-Oberösterreich	-	-	-	0:26:48.904000	0:26:52.210000
-Grenze	-	-	-	0:26:48.904000	0:26:52.210000
-Bayern	-	-	-	0:26:48.904000	0:26:52.210000
-ich	-	-	KlitPron KlitReal PronForm _ich klit+	0:26:52.210000	0:26:53.164000
-einen	-	-	-	0:26:52.210000	0:26:53.164000
-Kollegen	-	-	-	0:26:52.210000	0:26:53.164000
-auch	-	-	-	0:26:52.210000	0:26:53.164000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:53.164000" end="0:26:53.717000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:53.717000" end="0:27:01.204000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:26:53.717000	0:26:54.877000
-ist	-	-	-	0:26:53.717000	0:26:54.877000
-auch	-	-	-	0:26:53.717000	0:26:54.877000
-super	-	-	-	0:26:53.717000	0:26:54.877000
-also	-	-	-	0:26:54.877000	0:26:58.570000
-ist	-	-	-	0:26:54.877000	0:26:58.570000
-eigentlich	-	-	-	0:26:54.877000	0:26:58.570000
-fast	-	-	-	0:26:54.877000	0:26:58.570000
-schon	-	-	-	0:26:54.877000	0:26:58.570000
-Kollegen	-	-	-	0:26:54.877000	0:26:58.570000
-aus	-	-	-	0:26:54.877000	0:26:58.570000
-ORT	ORT	-	-	0:26:54.877000	0:26:58.570000
-und	-	-	-	0:26:58.570000	0:27:01.204000
-redet	-	-	-	0:26:58.570000	0:27:01.204000
-eigentlich	-	-	-	0:26:58.570000	0:27:01.204000
-fast	-	-	-	0:26:58.570000	0:27:01.204000
-bayrisch	-	-	-	0:26:58.570000	0:27:01.204000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:01.204000" end="0:27:02.370000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:01.204000" end="0:27:05.717000" project="PP04" age_lower="20" age_upper="30">
-ist	-	-	-	0:27:01.204000	0:27:02.904000
-au	-	-	-	0:27:01.204000	0:27:02.904000
-eine	-	-	-	0:27:01.204000	0:27:02.904000
-ganz	-	-	-	0:27:01.204000	0:27:02.904000
-spannend	-	-	-	0:27:01.204000	0:27:02.904000
-also	-	-	-	0:27:02.904000	0:27:05.717000
-ist	-	-	-	0:27:02.904000	0:27:05.717000
-eigentlich	-	-	-	0:27:02.904000	0:27:05.717000
-total	-	-	-	0:27:02.904000	0:27:05.717000
-schön	-	-	-	0:27:02.904000	0:27:05.717000
-zum	-	-	-	0:27:02.904000	0:27:05.717000
-zuhören	-	-	-	0:27:02.904000	0:27:05.717000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:05.717000" end="0:27:15.610000" age_lower="1" age_upper="999">
-ah	-	-	-	0:27:08.097000	0:27:10.390000
-wenn	-	-	-	0:27:08.097000	0:27:10.390000
-Sie	-	-	-	0:27:08.097000	0:27:10.390000
-an	-	-	-	0:27:08.097000	0:27:10.390000
-Ihre	-	-	-	0:27:08.097000	0:27:10.390000
-Kindheit	-	-	-	0:27:08.097000	0:27:10.390000
-denken	-	-	-	0:27:08.097000	0:27:10.390000
-können	-	-	-	0:27:10.390000	0:27:15.610000
-Sie	-	-	-	0:27:10.390000	0:27:15.610000
-sich	-	-	-	0:27:10.390000	0:27:15.610000
-erinnern	-	-	-	0:27:10.390000	0:27:15.610000
-wie	-	-	-	0:27:10.390000	0:27:15.610000
-ihre	-	-	-	0:27:10.390000	0:27:15.610000
-Eltern	-	-	-	0:27:10.390000	0:27:15.610000
-in	-	-	-	0:27:10.390000	0:27:15.610000
-Ihrer	-	-	-	0:27:10.390000	0:27:15.610000
-Kindheit	-	-	-	0:27:10.390000	0:27:15.610000
-untereinander	-	-	-	0:27:10.390000	0:27:15.610000
-gesprochen	-	-	-	0:27:10.390000	0:27:15.610000
-haben	-	-	-	0:27:10.390000	0:27:15.610000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:15.610000" end="0:27:21.050000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:27:15.610000	0:27:21.050000
-es	-	-	-	0:27:15.610000	0:27:21.050000
-war	-	-	-	0:27:15.610000	0:27:21.050000
-sehr	-	-	-	0:27:15.610000	0:27:21.050000
-in	-	-	-	0:27:15.610000	0:27:21.050000
-Richtung	-	-	-	0:27:15.610000	0:27:21.050000
-Umgangssprache	-	-	-	0:27:15.610000	0:27:21.050000
-Dialekt	-	-	-	0:27:15.610000	0:27:21.050000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:21.050000" end="0:27:25.417000" age_lower="1" age_upper="999">
-und	-	-	-	0:27:21.777000	0:27:25.417000
-haben	-	-	-	0:27:21.777000	0:27:25.417000
-Ihre	-	-	-	0:27:21.777000	0:27:25.417000
-Eltern	-	-	-	0:27:21.777000	0:27:25.417000
-mit	-	-	-	0:27:21.777000	0:27:25.417000
-Ihnen	-	-	-	0:27:21.777000	0:27:25.417000
-auch	-	-	-	0:27:21.777000	0:27:25.417000
-so	-	-	-	0:27:21.777000	0:27:25.417000
-gesprochen	-	-	-	0:27:21.777000	0:27:25.417000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:25.004000" end="0:27:25.417000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:27:25.004000	0:27:25.417000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:25.417000" end="0:27:33.617000" age_lower="1" age_upper="999">
-ja	-	-	-	0:27:25.417000	0:27:25.750000
-haben	-	-	-	0:27:27.990000	0:27:33.617000
-Sie	-	-	-	0:27:27.990000	0:27:33.617000
-den	-	-	-	0:27:27.990000	0:27:33.617000
-Eindruck	-	-	-	0:27:27.990000	0:27:33.617000
-dass	-	-	-	0:27:27.990000	0:27:33.617000
-sich	-	-	-	0:27:27.990000	0:27:33.617000
-bei	-	-	-	0:27:27.990000	0:27:33.617000
-Ihnen	-	-	-	0:27:27.990000	0:27:33.617000
-mit	-	-	-	0:27:27.990000	0:27:33.617000
-Schuleintritt	-	-	-	0:27:27.990000	0:27:33.617000
-etwas	-	-	-	0:27:27.990000	0:27:33.617000
-an	-	-	-	0:27:27.990000	0:27:33.617000
-ihrer	-	-	-	0:27:27.990000	0:27:33.617000
-Sprechweise	-	-	-	0:27:27.990000	0:27:33.617000
-verändert	-	-	-	0:27:27.990000	0:27:33.617000
-hat	-	-	-	0:27:27.990000	0:27:33.617000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:33.617000" end="0:27:46.857000" project="PP04" age_lower="20" age_upper="30">
-mit	-	-	-	0:27:38.750000	0:27:40.157000
-Schuleintritt	-	-	-	0:27:38.750000	0:27:40.157000
-also	-	-	-	0:27:40.157000	0:27:43.124000
-nicht	-	-	-	0:27:40.157000	0:27:43.124000
-unmittelbar	-	-	-	0:27:40.157000	0:27:43.124000
-es	-	-	-	0:27:43.124000	0:27:46.857000
-wa	-	-	-	0:27:43.124000	0:27:46.857000
-es	-	-	-	0:27:43.124000	0:27:46.857000
-war	-	-	-	0:27:43.124000	0:27:46.857000
-vermutlich	-	-	-	0:27:43.124000	0:27:46.857000
-viel	-	-	-	0:27:43.124000	0:27:46.857000
-später	-	-	-	0:27:43.124000	0:27:46.857000
-erst	-	-	-	0:27:43.124000	0:27:46.857000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:46.857000" end="0:27:50.404000" age_lower="1" age_upper="999">
-mit	-	-	-	0:27:47.710000	0:27:50.404000
-berufseintritt	-	-	-	0:27:47.710000	0:27:50.404000
-oder	-	-	-	0:27:47.710000	0:27:50.404000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:50.404000" end="0:27:56.224000" project="PP04" age_lower="20" age_upper="30">
-nein	-	-	-	0:27:50.404000	0:27:56.224000
-ja	-	-	-	0:27:50.404000	0:27:56.224000
-mit	-	-	-	0:27:50.404000	0:27:56.224000
-Beginn	-	-	-	0:27:50.404000	0:27:56.224000
-Oberstufe	-	-	-	0:27:50.404000	0:27:56.224000
-würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:27:50.404000	0:27:56.224000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:27:50.404000	0:27:56.224000
-sagen	-	-	-	0:27:50.404000	0:27:56.224000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:54.310000" end="0:27:57.144000" age_lower="1" age_upper="999">
-oder	-	-	-	0:27:54.310000	0:27:54.664000
-aha	-	-	-	0:27:56.224000	0:27:56.637000
-okay	-	-	-	0:27:56.637000	0:27:57.144000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:56.637000" end="0:27:58.530000" project="PP04" age_lower="20" age_upper="30">
-weil	-	-	-	0:27:56.637000	0:27:58.530000
-die	-	-	-	0:27:56.637000	0:27:58.530000
-Hauptschule	-	-	-	0:27:56.637000	0:27:58.530000
-war	-	-	-	0:27:56.637000	0:27:58.530000
-auch	-	-	-	0:27:56.637000	0:27:58.530000
-hier	-	-	-	0:27:56.637000	0:27:58.530000
-im	-	-	-	0:27:56.637000	0:27:58.530000
-Ort	-	-	-	0:27:56.637000	0:27:58.530000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:58.530000" end="0:27:59.150000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:59.150000" end="0:28:01.190000" project="PP04" age_lower="20" age_upper="30">
-vielleicht	-	-	-	0:27:59.150000	0:28:01.190000
-hängt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:27:59.150000	0:28:01.190000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:27:59.150000	0:28:01.190000
-damit	-	-	-	0:27:59.150000	0:28:01.190000
-zusammen	-	-	-	0:27:59.150000	0:28:01.190000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:01.070000" end="0:28:01.537000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:01.190000" end="0:28:03.697000" project="PP04" age_lower="20" age_upper="30">
-dass	-	-	-	0:28:01.190000	0:28:03.697000
-man	-	-	-	0:28:01.190000	0:28:03.697000
-aus	-	-	-	0:28:01.190000	0:28:03.697000
-dem	-	-	-	0:28:01.190000	0:28:03.697000
-gar	-	-	-	0:28:01.190000	0:28:03.697000
-nicht	-	-	-	0:28:01.190000	0:28:03.697000
-so	-	-	-	0:28:01.190000	0:28:03.697000
-rauskommt	-	-	-	0:28:01.190000	0:28:03.697000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:03.697000" end="0:28:08.284000" age_lower="1" age_upper="999">
-waren	-	-	-	0:28:03.697000	0:28:08.284000
-sie	-	-	-	0:28:03.697000	0:28:08.284000
-dann	-	-	-	0:28:03.697000	0:28:08.284000
-ah	-	-	-	0:28:03.697000	0:28:08.284000
-in	-	-	-	0:28:03.697000	0:28:08.284000
-der	-	-	-	0:28:03.697000	0:28:08.284000
-Oberstufe	-	-	-	0:28:03.697000	0:28:08.284000
-in	-	-	-	0:28:03.697000	0:28:08.284000
-in	-	-	-	0:28:03.697000	0:28:08.284000
-ORT	ORT	-	-	0:28:03.697000	0:28:08.284000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:07.210000" end="0:28:07.870000" project="PP04" age_lower="20" age_upper="30">
-in	-	-	-	0:28:07.210000	0:28:07.870000
-ORT	ORT	-	-	0:28:07.210000	0:28:07.870000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:08.284000" end="0:28:08.937000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:08.284000" end="0:28:08.704000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:28:08.284000	0:28:08.704000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:08.937000" end="0:28:16.917000" age_lower="1" age_upper="999">
-okay	-	-	-	0:28:08.937000	0:28:10.870000
-ah	-	-	-	0:28:10.870000	0:28:16.917000
-und	-	-	-	0:28:10.870000	0:28:16.917000
-wie	-	-	-	0:28:10.870000	0:28:16.917000
-sollten	-	-	-	0:28:10.870000	0:28:16.917000
-Ihrer	-	-	-	0:28:10.870000	0:28:16.917000
-Meinung	-	-	-	0:28:10.870000	0:28:16.917000
-nach	-	-	-	0:28:10.870000	0:28:16.917000
-Lehrer	-	-	-	0:28:10.870000	0:28:16.917000
-beziehungsweise	-	-	-	0:28:10.870000	0:28:16.917000
-Lehrerinnen	-	-	-	0:28:10.870000	0:28:16.917000
-sprechen	-	-	-	0:28:10.870000	0:28:16.917000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:16.917000" end="0:28:39.170000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:28:19.657000	0:28:22.410000
-meiner	-	-	-	0:28:19.657000	0:28:22.410000
-ganz	-	-	-	0:28:19.657000	0:28:22.410000
-persönlichen	-	-	-	0:28:19.657000	0:28:22.410000
-Meinung	-	-	-	0:28:19.657000	0:28:22.410000
-nach	-	-	-	0:28:19.657000	0:28:22.410000
-auf	-	-	-	0:28:22.410000	0:28:25.084000
-jeden	-	-	-	0:28:22.410000	0:28:25.084000
-Fall	-	-	-	0:28:22.410000	0:28:25.084000
-so	-	-	-	0:28:22.410000	0:28:25.084000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _sie(pl.nom.) klit-	0:28:25.084000	0:28:27.410000
-Sie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _sie(pl.nom.) klit-	0:28:25.084000	0:28:27.410000
-gut	-	-	-	0:28:25.084000	0:28:27.410000
-verständlich	-	-	-	0:28:25.084000	0:28:27.410000
-sind	-	-	-	0:28:25.084000	0:28:27.410000
-inhaltlich	-	-	-	0:28:27.410000	0:28:28.217000
-aber	-	-	-	0:28:28.217000	0:28:34.370000
-ich	-	-	-	0:28:28.217000	0:28:34.370000
-bin	-	-	-	0:28:28.217000	0:28:34.370000
-persönlich	-	-	-	0:28:28.217000	0:28:34.370000
-nicht	-	-	-	0:28:28.217000	0:28:34.370000
-der	-	-	-	0:28:28.217000	0:28:34.370000
-Meinung	-	-	-	0:28:28.217000	0:28:34.370000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:28:28.217000	0:28:34.370000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:28:28.217000	0:28:34.370000
-super	-	-	-	0:28:28.217000	0:28:34.370000
-Hochsprache	-	-	-	0:28:28.217000	0:28:34.370000
-sein	-	-	-	0:28:28.217000	0:28:34.370000
-muss	-	-	-	0:28:28.217000	0:28:34.370000
-sondern	-	-	-	0:28:34.370000	0:28:39.170000
-meine	-	-	-	0:28:34.370000	0:28:39.170000
-Meinung	-	-	-	0:28:34.370000	0:28:39.170000
-ist	-	-	-	0:28:34.370000	0:28:39.170000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:28:34.370000	0:28:39.170000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:28:34.370000	0:28:39.170000
-besser	-	-	-	0:28:34.370000	0:28:39.170000
-ist	-	-	-	0:28:34.370000	0:28:39.170000
-wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:28:34.370000	0:28:39.170000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:28:34.370000	0:28:39.170000
-authentisch	-	-	-	0:28:34.370000	0:28:39.170000
-ist	-	-	-	0:28:34.370000	0:28:39.170000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:39.170000" end="0:28:39.817000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:39.817000" end="0:29:03.303000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:28:39.817000	0:28:41.963000
-ich	-	-	-	0:28:39.817000	0:28:41.963000
-wir	-	-	-	0:28:39.817000	0:28:41.963000
-arbeiten	-	-	-	0:28:39.817000	0:28:41.963000
-ja	-	-	-	0:28:39.817000	0:28:41.963000
-sehr	-	-	-	0:28:39.817000	0:28:41.963000
-viel	-	-	-	0:28:39.817000	0:28:41.963000
-bin	-	-	-	0:28:41.963000	0:28:43.230000
-ja	-	-	-	0:28:41.963000	0:28:43.230000
-jetzt	-	-	-	0:28:41.963000	0:28:43.230000
-eben	-	-	-	0:28:41.963000	0:28:43.230000
-in	-	-	-	0:28:41.963000	0:28:43.230000
-der	-	-	-	0:28:41.963000	0:28:43.230000
-Ausbildung	-	-	-	0:28:41.963000	0:28:43.230000
-arbeiten	-	-	-	0:28:43.230000	0:28:46.310000
-viel	-	-	-	0:28:43.230000	0:28:46.310000
-daran	-	-	-	0:28:43.230000	0:28:46.310000
-wie	-	-	-	0:28:43.230000	0:28:46.310000
-die	-	-	-	0:28:43.230000	0:28:46.310000
-Sprache	-	-	-	0:28:43.230000	0:28:46.310000
-ist	-	-	-	0:28:43.230000	0:28:46.310000
-wie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _sie(f.sg.nom.) klit-	0:28:46.310000	0:28:48.357000
-sie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _sie(f.sg.nom.) klit-	0:28:46.310000	0:28:48.357000
-sein	-	-	-	0:28:46.310000	0:28:48.357000
-soll	-	-	-	0:28:46.310000	0:28:48.357000
-ob	-	-	-	0:28:48.357000	0:28:49.843000
-das	-	-	-	0:28:48.357000	0:28:49.843000
-gut	-	-	-	0:28:48.357000	0:28:49.843000
-verständlich	-	-	-	0:28:48.357000	0:28:49.843000
-ist	-	-	-	0:28:48.357000	0:28:49.843000
-für	-	-	-	0:28:52.770000	0:28:56.963000
-mich	-	-	-	0:28:52.770000	0:28:56.963000
-wirkt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:52.770000	0:28:56.963000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:52.770000	0:28:56.963000
-am	-	-	-	0:28:52.770000	0:28:56.963000
-besten	-	-	-	0:28:52.770000	0:28:56.963000
-au	-	-	-	0:28:52.770000	0:28:56.963000
-wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:28:52.770000	0:28:56.963000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:28:52.770000	0:28:56.963000
-bei	-	-	-	0:28:52.770000	0:28:56.963000
-Kollegen	-	-	-	0:28:52.770000	0:28:56.963000
-beobachten	-	-	-	0:28:52.770000	0:28:56.963000
-darf	-	-	-	0:28:52.770000	0:28:56.963000
-für	-	-	-	0:28:56.963000	0:29:00.210000
-mich	-	-	-	0:28:56.963000	0:29:00.210000
-wirkt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:56.963000	0:29:00.210000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:56.963000	0:29:00.210000
-am	-	-	-	0:28:56.963000	0:29:00.210000
-besten	-	-	-	0:28:56.963000	0:29:00.210000
-wenn	-	-	-	0:28:56.963000	0:29:00.210000
-wenn	-	-	-	0:28:56.963000	0:29:00.210000
-das	-	-	-	0:28:56.963000	0:29:00.210000
-authentisch	-	-	-	0:28:56.963000	0:29:00.210000
-ist	-	-	-	0:28:56.963000	0:29:00.210000
-und	-	-	-	0:29:00.210000	0:29:03.303000
-wenn	-	-	-	0:29:00.210000	0:29:03.303000
-wenn	-	-	-	0:29:00.210000	0:29:03.303000
-sich	-	-	-	0:29:00.210000	0:29:03.303000
-die	-	-	-	0:29:00.210000	0:29:03.303000
-Kollegen	-	-	-	0:29:00.210000	0:29:03.303000
-nicht	-	-	-	0:29:00.210000	0:29:03.303000
-so	-	-	-	0:29:00.210000	0:29:03.303000
-sehr	-	-	-	0:29:00.210000	0:29:03.303000
-bemühen	-	-	-	0:29:00.210000	0:29:03.303000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:03.303000" end="0:29:04.177000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:03.303000" end="0:29:07.710000" project="PP04" age_lower="20" age_upper="30">
-ein	-	-	-	0:29:03.303000	0:29:07.710000
-Sprache	-	-	-	0:29:03.303000	0:29:07.710000
-zu	-	-	-	0:29:03.303000	0:29:07.710000
-verwenden	-	-	-	0:29:03.303000	0:29:07.710000
-die	-	-	-	0:29:03.303000	0:29:07.710000
-Ihnen	-	-	-	0:29:03.303000	0:29:07.710000
-eigentlich	-	-	-	0:29:03.303000	0:29:07.710000
-sonst	-	-	-	0:29:03.303000	0:29:07.710000
-nicht	-	-	-	0:29:03.303000	0:29:07.710000
-geläufig	-	-	-	0:29:03.303000	0:29:07.710000
-ist	-	-	-	0:29:03.303000	0:29:07.710000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:07.710000" end="0:29:20.237000" age_lower="1" age_upper="999">
-ah	-	-	-	0:29:13.357000	0:29:20.237000
-sprechen	-	-	-	0:29:13.357000	0:29:20.237000
-Sie	-	-	-	0:29:13.357000	0:29:20.237000
-mit	-	-	-	0:29:13.357000	0:29:20.237000
-bestimmten	-	-	-	0:29:13.357000	0:29:20.237000
-personenkreisen	-	-	-	0:29:13.357000	0:29:20.237000
-aus	-	-	-	0:29:13.357000	0:29:20.237000
-Ihrem	-	-	-	0:29:13.357000	0:29:20.237000
-familiären	-	-	-	0:29:13.357000	0:29:20.237000
-oder	-	-	-	0:29:13.357000	0:29:20.237000
-freundschaftlichen	-	-	-	0:29:13.357000	0:29:20.237000
-Umfeld	-	-	-	0:29:13.357000	0:29:20.237000
-unterschiedlich	-	-	-	0:29:13.357000	0:29:20.237000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:20.237000" end="0:29:46.517000" project="PP04" age_lower="20" age_upper="30">
-hmpf	-	-	-	0:29:26.850000	0:29:28.263000
-oh	-	-	-	0:29:37.503000	0:29:38.010000
-je	-	-	-	0:29:37.503000	0:29:38.010000
-pf	-	-	-	0:29:38.010000	0:29:39.203000
-ja	-	-	-	0:29:38.010000	0:29:39.203000
-vielleicht	-	-	-	0:29:39.203000	0:29:43.730000
-mit	-	-	-	0:29:39.203000	0:29:43.730000
-Freunden	-	-	-	0:29:39.203000	0:29:43.730000
-bisschen	-	-	-	0:29:39.203000	0:29:43.730000
-anders	-	-	-	0:29:39.203000	0:29:43.730000
-als	-	-	-	0:29:39.203000	0:29:43.730000
-mit	-	-	-	0:29:39.203000	0:29:43.730000
-Familie	-	-	-	0:29:39.203000	0:29:43.730000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:46.517000" end="0:29:46.930000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:46.930000" end="0:29:57.397000" project="PP04" age_lower="20" age_upper="30">
-aber	-	-	-	0:29:46.930000	0:29:57.397000
-das	-	-	-	0:29:46.930000	0:29:57.397000
-ist	-	-	-	0:29:46.930000	0:29:57.397000
-jetzt	-	-	-	0:29:46.930000	0:29:57.397000
-aus	-	-	-	0:29:46.930000	0:29:57.397000
-meiner	-	-	-	0:29:46.930000	0:29:57.397000
-Sicht	-	-	-	0:29:46.930000	0:29:57.397000
-eher	-	-	-	0:29:46.930000	0:29:57.397000
-minimal	-	-	-	0:29:46.930000	0:29:57.397000
-der	-	-	-	0:29:46.930000	0:29:57.397000
-Unterschied	-	-	-	0:29:46.930000	0:29:57.397000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:57.397000" end="0:30:03.617000" age_lower="1" age_upper="999">
-okay	-	-	-	0:29:57.397000	0:29:58.617000
-und	-	-	-	0:29:58.617000	0:30:03.617000
-sprechen	-	-	-	0:29:58.617000	0:30:03.617000
-Sie	-	-	-	0:29:58.617000	0:30:03.617000
-mit	-	-	-	0:29:58.617000	0:30:03.617000
-Ihren	-	-	-	0:29:58.617000	0:30:03.617000
-Freunden	-	-	-	0:29:58.617000	0:30:03.617000
-auch	-	-	-	0:29:58.617000	0:30:03.617000
-andere	-	-	-	0:29:58.617000	0:30:03.617000
-sprachen	-	-	-	0:29:58.617000	0:30:03.617000
-als	-	-	-	0:29:58.617000	0:30:03.617000
-deutsch	-	-	-	0:29:58.617000	0:30:03.617000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:03.617000" end="0:30:17.210000" project="PP04" age_lower="20" age_upper="30">
-nein	-	-	-	0:30:07.237000	0:30:07.643000
-so	-	-	-	0:30:07.643000	0:30:11.797000
-im	-	-	-	0:30:07.643000	0:30:11.797000
-normalen	-	-	-	0:30:07.643000	0:30:11.797000
-Gespräch	-	-	-	0:30:07.643000	0:30:11.797000
-nicht	-	-	-	0:30:07.643000	0:30:11.797000
-es	-	-	-	0:30:11.797000	0:30:12.917000
-wäre	-	-	-	0:30:11.797000	0:30:12.917000
-nur	-	-	-	0:30:11.797000	0:30:12.917000
-wenn	-	-	-	0:30:11.797000	0:30:12.917000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:30:12.917000	0:30:17.210000
-bei	-	-	-	0:30:12.917000	0:30:17.210000
-mir	-	-	-	0:30:12.917000	0:30:17.210000
-verbunden	-	-	-	0:30:12.917000	0:30:17.210000
-teilweise	-	-	-	0:30:12.917000	0:30:17.210000
-Freunde	-	-	-	0:30:12.917000	0:30:17.210000
-die	-	-	-	0:30:12.917000	0:30:17.210000
-auch	-	-	-	0:30:12.917000	0:30:17.210000
-mit	-	-	-	0:30:12.917000	0:30:17.210000
-mir	-	-	-	0:30:12.917000	0:30:17.210000
-gemeinsam	-	-	-	0:30:12.917000	0:30:17.210000
-arbeiten	-	-	-	0:30:12.917000	0:30:17.210000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:17.210000" end="0:30:17.797000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:17.797000" end="0:30:27.497000" project="PP04" age_lower="20" age_upper="30">
-wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:30:17.797000	0:30:23.377000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:30:17.797000	0:30:23.377000
-dann	-	-	-	0:30:17.797000	0:30:23.377000
-im	-	-	-	0:30:17.797000	0:30:23.377000
-arbeitsumfeld	-	-	-	0:30:17.797000	0:30:23.377000
-Englisch	-	-	-	0:30:17.797000	0:30:23.377000
-sein	-	-	-	0:30:17.797000	0:30:23.377000
-muss	-	-	-	0:30:17.797000	0:30:23.377000
-dann	-	-	-	0:30:23.377000	0:30:24.070000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:23.377000	0:30:24.070000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:23.377000	0:30:24.070000
-Englisch	-	-	-	0:30:23.377000	0:30:24.070000
-jetzt	-	-	-	0:30:24.070000	0:30:27.497000
-so	-	-	-	0:30:24.070000	0:30:27.497000
-im	-	-	-	0:30:24.070000	0:30:27.497000
-privaten	-	-	-	0:30:24.070000	0:30:27.497000
-Bereich	-	-	-	0:30:24.070000	0:30:27.497000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:24.070000	0:30:27.497000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:24.070000	0:30:27.497000
-ein	-	-	-	0:30:24.070000	0:30:27.497000
-nur	-	-	-	0:30:24.070000	0:30:27.497000
-Deutsch	-	-	-	0:30:24.070000	0:30:27.497000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:27.497000" end="0:30:33.617000" age_lower="1" age_upper="999">
-und	-	-	-	0:30:28.177000	0:30:30.843000
-generell	-	-	-	0:30:28.177000	0:30:30.843000
-Sie	-	-	-	0:30:30.843000	0:30:33.617000
-beruflich	-	-	-	0:30:30.843000	0:30:33.617000
-anders	-	-	-	0:30:30.843000	0:30:33.617000
-als	-	-	-	0:30:30.843000	0:30:33.617000
-privat	-	-	-	0:30:30.843000	0:30:33.617000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:33.617000" end="0:30:34.923000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:30:33.617000	0:30:34.923000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:40.823000" end="0:30:45.017000" age_lower="1" age_upper="999">
-<<kichernd>	-	-	-	0:30:42.097000	0:30:45.017000
-wie	-	-	-	0:30:42.097000	0:30:45.017000
-sprechen	-	-	-	0:30:42.097000	0:30:45.017000
-Sie	-	-	-	0:30:42.097000	0:30:45.017000
-an	-	-	-	0:30:42.097000	0:30:45.017000
-ihrer	-	-	-	0:30:42.097000	0:30:45.017000
-arbeitsstelle,>	-	-	-	0:30:42.097000	0:30:45.017000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:43.730000" end="0:31:03.070000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:30:49.917000	0:30:57.323000
-ich	-	-	-	0:30:49.917000	0:30:57.323000
-versuche	-	-	-	0:30:49.917000	0:30:57.323000
-eben	-	-	-	0:30:49.917000	0:30:57.323000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:30:49.917000	0:30:57.323000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:30:49.917000	0:30:57.323000
-nicht	-	-	-	0:30:49.917000	0:30:57.323000
-zu	-	-	-	0:30:49.917000	0:30:57.323000
-sehr	-	-	-	0:30:49.917000	0:30:57.323000
-Umgangssprache	-	-	-	0:30:49.917000	0:30:57.323000
-Dialekt	-	-	-	0:30:49.917000	0:30:57.323000
-ist	-	-	-	0:30:49.917000	0:30:57.323000
-sondern	-	-	-	0:30:57.323000	0:31:03.070000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:30:57.323000	0:31:03.070000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:30:57.323000	0:31:03.070000
-eben	-	-	-	0:30:57.323000	0:31:03.070000
-zumindest	-	-	-	0:30:57.323000	0:31:03.070000
-gut	-	-	-	0:30:57.323000	0:31:03.070000
-verständlich	-	-	-	0:30:57.323000	0:31:03.070000
-ist	-	-	-	0:30:57.323000	0:31:03.070000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:03.070000" end="0:31:12.883000" age_lower="1" age_upper="999">
-ah	-	-	-	0:31:03.623000	0:31:04.950000
-mit	-	-	-	0:31:03.623000	0:31:04.950000
-Kunden	-	-	-	0:31:03.623000	0:31:04.950000
-oder	-	-	-	0:31:04.950000	0:31:06.117000
-mit	-	-	-	0:31:04.950000	0:31:06.117000
-Kollegen	-	-	-	0:31:04.950000	0:31:06.117000
-weil	-	-	-	0:31:06.117000	0:31:09.203000
-ich	-	-	-	0:31:06.117000	0:31:09.203000
-glaube	-	-	-	0:31:06.117000	0:31:09.203000
-wir	-	-	-	0:31:06.117000	0:31:09.203000
-reden	-	-	-	0:31:06.117000	0:31:09.203000
-wenn	-	-	-	0:31:06.117000	0:31:09.203000
-man	-	-	-	0:31:06.117000	0:31:09.203000
-von	-	-	-	0:31:06.117000	0:31:09.203000
-der	-	-	-	0:31:06.117000	0:31:09.203000
-Arbeit	-	-	-	0:31:06.117000	0:31:09.203000
-reden	-	-	-	0:31:06.117000	0:31:09.203000
-Sie	-	-	-	0:31:09.203000	0:31:10.037000
-sind	-	-	-	0:31:09.203000	0:31:10.037000
-ja	-	-	-	0:31:09.203000	0:31:10.037000
-selbstständig	-	-	-	0:31:09.203000	0:31:10.037000
-sie	-	-	-	0:31:10.037000	0:31:12.883000
-sind	-	-	-	0:31:10.037000	0:31:12.883000
-ja	-	-	-	0:31:10.037000	0:31:12.883000
-ihr	-	-	-	0:31:10.037000	0:31:12.883000
-eigener	-	-	-	0:31:10.037000	0:31:12.883000
-Vorgesetzter	-	-	-	0:31:10.037000	0:31:12.883000
-sozusagen	-	-	-	0:31:10.037000	0:31:12.883000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:12.130000" end="0:31:14.883000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:31:12.130000	0:31:14.883000
-mit	-	-	-	0:31:12.130000	0:31:14.883000
-Kunden	-	-	-	0:31:12.130000	0:31:14.883000
-auch	-	-	-	0:31:12.130000	0:31:14.883000
-in	-	-	-	0:31:12.130000	0:31:14.883000
-die	-	-	-	0:31:12.130000	0:31:14.883000
-Richtung	-	-	-	0:31:12.130000	0:31:14.883000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:14.883000" end="0:31:15.843000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:15.843000" end="0:31:32.003000" project="PP04" age_lower="20" age_upper="30">
-weil	-	-	-	0:31:15.843000	0:31:20.517000
-weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:31:15.843000	0:31:20.517000
-ja	-	-	-	0:31:15.843000	0:31:20.517000
-nie	-	-	-	0:31:15.843000	0:31:20.517000
-genau	-	-	-	0:31:15.843000	0:31:20.517000
-weiss	-	-	-	0:31:15.843000	0:31:20.517000
-es	-	-	-	0:31:15.843000	0:31:20.517000
-äh	-	-	-	0:31:15.843000	0:31:20.517000
-es	-	-	-	0:31:20.517000	0:31:25.610000
-gibt	-	-	-	0:31:20.517000	0:31:25.610000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:31:20.517000	0:31:25.610000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:31:20.517000	0:31:25.610000
-schon	-	-	-	0:31:20.517000	0:31:25.610000
-Leute	-	-	-	0:31:20.517000	0:31:25.610000
-bei	-	-	-	0:31:20.517000	0:31:25.610000
-denen	-	-	-	0:31:20.517000	0:31:25.610000
-das	-	-	-	0:31:20.517000	0:31:25.610000
-ein	-	-	-	0:31:20.517000	0:31:25.610000
-kriterium	-	-	-	0:31:20.517000	0:31:25.610000
-ist	-	-	-	0:31:20.517000	0:31:25.610000
-auch	-	-	-	0:31:20.517000	0:31:25.610000
-oder	-	-	-	0:31:25.610000	0:31:29.803000
-bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:31:25.610000	0:31:29.803000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:31:25.610000	0:31:29.803000
-sicher	-	-	-	0:31:25.610000	0:31:29.803000
-dass	-	-	-	0:31:25.610000	0:31:29.803000
-das	-	-	-	0:31:25.610000	0:31:29.803000
-so	-	-	-	0:31:25.610000	0:31:29.803000
-ist	-	-	-	0:31:25.610000	0:31:29.803000
-es	-	-	-	0:31:29.803000	0:31:32.003000
-ist	-	-	-	0:31:29.803000	0:31:32.003000
-bei	-	-	-	0:31:29.803000	0:31:32.003000
-mir	-	-	-	0:31:29.803000	0:31:32.003000
-auch	-	-	-	0:31:29.803000	0:31:32.003000
-zum	-	-	-	0:31:29.803000	0:31:32.003000
-Teil	-	-	-	0:31:29.803000	0:31:32.003000
-so	-	-	-	0:31:29.803000	0:31:32.003000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:32.003000" end="0:31:32.970000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:32.970000" end="0:31:59.897000" project="PP04" age_lower="20" age_upper="30">
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:31:32.970000	0:31:34.763000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:31:32.970000	0:31:34.763000
-ein	-	-	-	0:31:32.970000	0:31:34.763000
-kriterium	-	-	-	0:31:32.970000	0:31:34.763000
-ist	-	-	-	0:31:32.970000	0:31:34.763000
-die	-	-	-	0:31:34.763000	0:31:36.230000
-Sprache	-	-	-	0:31:34.763000	0:31:36.230000
-wie	-	-	-	0:31:36.230000	0:31:38.810000
-jemand	-	-	-	0:31:36.230000	0:31:38.810000
-eingeschätzt	-	-	-	0:31:36.230000	0:31:38.810000
-wird	-	-	-	0:31:36.230000	0:31:38.810000
-auch	-	-	-	0:31:38.810000	0:31:41.697000
-vom	-	-	-	0:31:38.810000	0:31:41.697000
-<<kichernd>	-	-	-	0:31:44.797000	0:31:46.470000
-möchte	-	-	-	0:31:44.797000	0:31:46.470000
-nicht	-	-	-	0:31:44.797000	0:31:46.470000
-sagen	-	-	-	0:31:44.797000	0:31:46.470000
-geisteszustand,>	-	-	-	0:31:44.797000	0:31:46.470000
-mir	-	-	-	0:31:46.470000	0:31:48.157000
-fällt	-	-	-	0:31:46.470000	0:31:48.157000
-nix	-	-	-	0:31:46.470000	0:31:48.157000
-Gescheites	-	-	-	0:31:46.470000	0:31:48.157000
-ein	-	-	-	0:31:46.470000	0:31:48.157000
-ja	-	-	-	0:31:48.157000	0:31:51.150000
-von	-	-	-	0:31:48.157000	0:31:51.150000
-der	-	-	-	0:31:48.157000	0:31:51.150000
-Persönlichkeit	-	-	-	0:31:48.157000	0:31:51.150000
-oder	-	-	-	0:31:51.150000	0:31:58.810000
-da	-	-	-	0:31:51.150000	0:31:58.810000
-da	-	-	-	0:31:51.150000	0:31:58.810000
-dass	-	-	-	0:31:51.150000	0:31:58.810000
-das	-	-	-	0:31:51.150000	0:31:58.810000
-dass	-	-	-	0:31:51.150000	0:31:58.810000
-die	-	-	-	0:31:51.150000	0:31:58.810000
-Sprache	-	-	-	0:31:51.150000	0:31:58.810000
-dazu	-	-	-	0:31:51.150000	0:31:58.810000
-beiträgt	-	-	-	0:31:51.150000	0:31:58.810000
-wie	-	-	-	0:31:51.150000	0:31:58.810000
-wie	-	-	-	0:31:51.150000	0:31:58.810000
-d	-	-	-	0:31:51.150000	0:31:58.810000
-wie	-	-	-	0:31:51.150000	0:31:58.810000
-das	-	-	-	0:31:51.150000	0:31:58.810000
-Gegenüber	-	-	-	0:31:51.150000	0:31:58.810000
-einfach	-	-	-	0:31:51.150000	0:31:58.810000
-wahrgenommen	-	-	-	0:31:51.150000	0:31:58.810000
-wird	-	-	-	0:31:51.150000	0:31:58.810000
-und	-	-	-	0:31:58.810000	0:31:59.897000
-eingeschätzt	-	-	-	0:31:58.810000	0:31:59.897000
-wird	-	-	-	0:31:58.810000	0:31:59.897000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:59.897000" end="0:32:02.963000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:59.897000" end="0:32:20.910000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:31:59.897000	0:32:02.963000
-und	-	-	-	0:31:59.897000	0:32:02.963000
-auch	-	-	-	0:31:59.897000	0:32:02.963000
-irgendwie	-	-	-	0:31:59.897000	0:32:02.963000
-eingestuft	-	-	-	0:31:59.897000	0:32:02.963000
-wird	-	-	-	0:31:59.897000	0:32:02.963000
-versucht	-	-	-	0:32:02.963000	0:32:11.276000
-man	-	-	-	0:32:02.963000	0:32:11.276000
-natürlich	-	-	-	0:32:02.963000	0:32:11.276000
-bei	-	-	-	0:32:02.963000	0:32:11.276000
-am	-	-	-	0:32:02.963000	0:32:11.276000
-Kunden	-	-	-	0:32:02.963000	0:32:11.276000
-das	-	-	-	0:32:02.963000	0:32:11.276000
-so	-	-	-	0:32:02.963000	0:32:11.276000
-zu	-	-	-	0:32:02.963000	0:32:11.276000
-gestalten	-	-	-	0:32:02.963000	0:32:11.276000
-dass	-	-	-	0:32:11.276000	0:32:16.156000
-da	-	-	-	0:32:11.276000	0:32:16.156000
-Kunde	-	-	-	0:32:11.276000	0:32:16.156000
-einen	-	-	-	0:32:11.276000	0:32:16.156000
-als	-	-	-	0:32:11.276000	0:32:16.156000
-einen	-	-	-	0:32:11.276000	0:32:16.156000
-ernst	-	-	-	0:32:11.276000	0:32:16.156000
-nimmt	-	-	-	0:32:11.276000	0:32:16.156000
-einen	-	-	-	0:32:16.156000	0:32:20.910000
-als	-	-	-	0:32:16.156000	0:32:20.910000
-vertrauenswürdig	-	-	-	0:32:16.156000	0:32:20.910000
-Empfinden	-	-	-	0:32:16.156000	0:32:20.910000
-kann	-	-	-	0:32:16.156000	0:32:20.910000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:20.176000" end="0:32:27.210000" age_lower="1" age_upper="999">
-und	-	-	-	0:32:23.316000	0:32:25.896000
-ah	-	-	-	0:32:23.316000	0:32:25.896000
-wenn	-	-	-	0:32:23.316000	0:32:25.896000
-Sie	-	-	-	0:32:23.316000	0:32:25.896000
-sich	-	-	-	0:32:23.316000	0:32:25.896000
-vorstellen	-	-	-	0:32:23.316000	0:32:25.896000
-als	-	-	-	0:32:25.896000	0:32:27.210000
-haben	-	-	-	0:32:25.896000	0:32:27.210000
-Sie	-	-	-	0:32:25.896000	0:32:27.210000
-Kinder	-	-	-	0:32:25.896000	0:32:27.210000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:27.210000" end="0:32:28.050000" project="PP04" age_lower="20" age_upper="30">
-noch	-	-	-	0:32:27.210000	0:32:28.050000
-nicht	-	-	-	0:32:27.210000	0:32:28.050000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:28.050000" end="0:32:33.290000" age_lower="1" age_upper="999">
-nicht	-	-	-	0:32:28.050000	0:32:28.470000
-wenn	-	-	-	0:32:28.470000	0:32:31.230000
-Sie	-	-	-	0:32:28.470000	0:32:31.230000
-sich	-	-	-	0:32:28.470000	0:32:31.230000
-vorstellen	-	-	-	0:32:28.470000	0:32:31.230000
-dass	-	-	-	0:32:28.470000	0:32:31.230000
-sie	-	-	-	0:32:28.470000	0:32:31.230000
-Kinder	-	-	-	0:32:28.470000	0:32:31.230000
-haben	-	-	-	0:32:28.470000	0:32:31.230000
-wie	-	-	-	0:32:31.230000	0:32:33.290000
-würden	-	-	-	0:32:31.230000	0:32:33.290000
-Sie	-	-	-	0:32:31.230000	0:32:33.290000
-mit	-	-	-	0:32:31.230000	0:32:33.290000
-Ihren	-	-	-	0:32:31.230000	0:32:33.290000
-Kindern	-	-	-	0:32:31.230000	0:32:33.290000
-sprechen	-	-	-	0:32:31.230000	0:32:33.290000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:33.290000" end="0:32:57.556000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:32:41.056000	0:32:43.236000
-ich	-	-	-	0:32:41.056000	0:32:43.236000
-bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:32:41.056000	0:32:43.236000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:32:41.056000	0:32:43.236000
-sicher	-	-	-	0:32:41.056000	0:32:43.236000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:32:41.056000	0:32:43.236000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:32:41.056000	0:32:43.236000
-ein	-	-	-	0:32:41.056000	0:32:43.236000
-ah	-	-	-	0:32:41.056000	0:32:43.236000
-dass	-	-	-	0:32:43.236000	0:32:45.776000
-ich	-	-	-	0:32:43.236000	0:32:45.776000
-die	-	-	-	0:32:43.236000	0:32:45.776000
-Umgangssprache	-	-	-	0:32:43.236000	0:32:45.776000
-einstellen	-	-	-	0:32:43.236000	0:32:45.776000
-wird	-	-	-	0:32:43.236000	0:32:45.776000
-ah	-	-	-	0:32:43.236000	0:32:45.776000
-so	-	-	-	0:32:45.776000	0:32:50.150000
-sehr	-	-	-	0:32:45.776000	0:32:50.150000
-kann	-	-	-	0:32:45.776000	0:32:50.150000
-ma	-	-	-	0:32:45.776000	0:32:50.150000
-si	-	-	-	0:32:45.776000	0:32:50.150000
-über	-	-	-	0:32:45.776000	0:32:50.150000
-gar	-	-	-	0:32:45.776000	0:32:50.150000
-nicht	-	-	-	0:32:45.776000	0:32:50.150000
-bemühen	-	-	-	0:32:45.776000	0:32:50.150000
-wenn	-	-	-	0:32:45.776000	0:32:50.150000
-man	-	-	-	0:32:45.776000	0:32:50.150000
-jeden	-	-	-	0:32:45.776000	0:32:50.150000
-Tag	-	-	-	0:32:45.776000	0:32:50.150000
-Kontakt	-	-	-	0:32:45.776000	0:32:50.150000
-hat	-	-	-	0:32:45.776000	0:32:50.150000
-ich	-	-	-	0:32:50.150000	0:32:55.036000
-würde	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:32:50.150000	0:32:55.036000
-mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:32:50.150000	0:32:55.036000
-bemühen	-	-	-	0:32:50.150000	0:32:55.036000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:32:50.150000	0:32:55.036000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+|KlitBasis KlitPron KlitReal PronForm _es(akk.) klPron+Kl klit+	0:32:50.150000	0:32:55.036000
-es	-	-	KlitBasis KlitPron KlitReal PronForm _es(akk.) klPron+Kl klit+	0:32:50.150000	0:32:55.036000
-nicht	-	-	-	0:32:50.150000	0:32:55.036000
-zu	-	-	-	0:32:50.150000	0:32:55.036000
-sehr	-	-	-	0:32:50.150000	0:32:55.036000
-umgangssprachlich	-	-	-	0:32:50.150000	0:32:55.036000
-und	-	-	-	0:32:55.036000	0:32:57.556000
-aber	-	-	-	0:32:55.036000	0:32:57.556000
-es	-	-	-	0:32:55.036000	0:32:57.556000
-wird	-	-	-	0:32:55.036000	0:32:57.556000
-nicht	-	-	-	0:32:55.036000	0:32:57.556000
-gelingen	-	-	-	0:32:55.036000	0:32:57.556000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:57.556000" end="0:32:58.410000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:57.556000" end="0:32:58.903000" project="PP04" age_lower="20" age_upper="30">
-traue	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:32:57.556000	0:32:58.903000
-ich	-	-	?klit KlitBasis KlitPron KlitReal PronForm _mich klPron+Kl|KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:32:57.556000	0:32:58.903000
-mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm _mich klPron+Kl	0:32:57.556000	0:32:58.903000
-jetzt	-	-	-	0:32:57.556000	0:32:58.903000
-schon	-	-	-	0:32:57.556000	0:32:58.903000
-sagen	-	-	-	0:32:57.556000	0:32:58.903000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:58.903000" end="0:32:59.543000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:59.543000" end="0:33:04.603000" project="PP04" age_lower="20" age_upper="30">
-weil	-	-	-	0:32:59.543000	0:33:02.763000
-man	-	-	-	0:32:59.543000	0:33:02.763000
-kann	-	-	-	0:32:59.543000	0:33:02.763000
-sich	-	-	-	0:32:59.543000	0:33:02.763000
-nicht	-	-	-	0:32:59.543000	0:33:02.763000
-jeden	-	-	-	0:32:59.543000	0:33:02.763000
-Tag	-	-	-	0:32:59.543000	0:33:02.763000
-ma	-	-	-	0:33:02.763000	0:33:04.603000
-ka	-	-	-	0:33:02.763000	0:33:04.603000
-nicht	-	-	-	0:33:02.763000	0:33:04.603000
-jeden	-	-	-	0:33:02.763000	0:33:04.603000
-Tag	-	-	-	0:33:02.763000	0:33:04.603000
-so	-	-	-	0:33:02.763000	0:33:04.603000
-aufpassen	-	-	-	0:33:02.763000	0:33:04.603000
-dass	-	-	-	0:33:02.763000	0:33:04.603000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:04.603000" end="0:33:05.290000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:05.290000" end="0:33:10.523000" project="PP04" age_lower="20" age_upper="30">
-aber	-	-	-	0:33:05.290000	0:33:06.976000
-bemühen	-	-	-	0:33:05.290000	0:33:06.976000
-würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:05.290000	0:33:06.976000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:05.290000	0:33:06.976000
-ich	-	-	-	0:33:06.976000	0:33:08.936000
-würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:33:06.976000	0:33:08.936000
-man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:33:06.976000	0:33:08.936000
-den	-	-	-	0:33:06.976000	0:33:08.936000
-vorsatz	-	-	-	0:33:06.976000	0:33:08.936000
-nehmen	-	-	-	0:33:06.976000	0:33:08.936000
-es	-	-	-	0:33:08.936000	0:33:10.523000
-würde	-	-	-	0:33:08.936000	0:33:10.523000
-dann	-	-	-	0:33:08.936000	0:33:10.523000
-nicht	-	-	-	0:33:08.936000	0:33:10.523000
-funktionieren	-	-	-	0:33:08.936000	0:33:10.523000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:10.523000" end="0:33:11.970000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:10.523000" end="0:33:11.136000" project="PP04" age_lower="20" age_upper="30">
-so	-	-	-	0:33:10.523000	0:33:11.136000
-ungefähr	-	-	-	0:33:10.523000	0:33:11.136000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:11.970000" end="0:33:25.536000" age_lower="1" age_upper="999">
-okay	-	-	-	0:33:11.970000	0:33:12.530000
-wenn	-	-	-	0:33:12.530000	0:33:17.443000
-Sie	-	-	-	0:33:12.530000	0:33:17.443000
-jetzt	-	-	-	0:33:12.530000	0:33:17.443000
-an	-	-	-	0:33:12.530000	0:33:17.443000
-die	-	-	-	0:33:12.530000	0:33:17.443000
-gesprochene	-	-	-	0:33:12.530000	0:33:17.443000
-Sprache	-	-	-	0:33:12.530000	0:33:17.443000
-in	-	-	-	0:33:12.530000	0:33:17.443000
-ORT	ORT	-	-	0:33:12.530000	0:33:17.443000
-und	-	-	-	0:33:12.530000	0:33:17.443000
-in	-	-	-	0:33:12.530000	0:33:17.443000
-ORT	ORT	-	-	0:33:12.530000	0:33:17.443000
-denken	-	-	-	0:33:12.530000	0:33:17.443000
-dass	-	-	-	0:33:17.443000	0:33:25.536000
-sich	-	-	-	0:33:17.443000	0:33:25.536000
-das	-	-	-	0:33:17.443000	0:33:25.536000
-gesprochene	-	-	-	0:33:17.443000	0:33:25.536000
-Deutsch	-	-	-	0:33:17.443000	0:33:25.536000
-in	-	-	-	0:33:17.443000	0:33:25.536000
-Wien	-	-	-	0:33:17.443000	0:33:25.536000
-von	-	-	-	0:33:17.443000	0:33:25.536000
-der	-	-	-	0:33:17.443000	0:33:25.536000
-gesprochenen	-	-	-	0:33:17.443000	0:33:25.536000
-ORT	ORT	-	-	0:33:17.443000	0:33:25.536000
-dem	-	-	-	0:33:17.443000	0:33:25.536000
-Gesprochenen	-	-	-	0:33:17.443000	0:33:25.536000
-Deutsch	-	-	-	0:33:17.443000	0:33:25.536000
-in	-	-	-	0:33:17.443000	0:33:25.536000
-Graz	-	-	-	0:33:17.443000	0:33:25.536000
-unterscheidet	-	-	-	0:33:17.443000	0:33:25.536000
-haben	-	-	-	0:33:17.443000	0:33:25.536000
-Sie	-	-	-	0:33:17.443000	0:33:25.536000
-ORT	ORT	-	-	0:33:17.443000	0:33:25.536000
-Eindruck	-	-	-	0:33:17.443000	0:33:25.536000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:25.536000" end="0:33:30.663000" project="PP04" age_lower="20" age_upper="30">
-<<lachend>	-	-	-	0:33:25.536000	0:33:26.770000
-oh	-	-	-	0:33:25.536000	0:33:26.770000
-ha	-	-	-	0:33:25.536000	0:33:26.770000
-ha	-	-	-	0:33:25.536000	0:33:26.770000
-ho>	-	-	-	0:33:25.536000	0:33:26.770000
-in	-	-	-	0:33:26.770000	0:33:28.470000
-ORT	ORT	-	-	0:33:26.770000	0:33:28.470000
-ich	-	-	-	0:33:28.470000	0:33:30.663000
-war	-	-	-	0:33:28.470000	0:33:30.663000
-einmal	-	-	-	0:33:28.470000	0:33:30.663000
-in	-	-	-	0:33:28.470000	0:33:30.663000
-meinem	-	-	-	0:33:28.470000	0:33:30.663000
-Leben	-	-	-	0:33:28.470000	0:33:30.663000
-in	-	-	-	0:33:28.470000	0:33:30.663000
-ORT	ORT	-	-	0:33:28.470000	0:33:30.663000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:30.663000" end="0:33:32.203000" age_lower="1" age_upper="999">
-aha	-	-	-	0:33:30.663000	0:33:31.190000
-<<kichernd>	-	-	-	0:33:31.190000	0:33:32.203000
-okay;>	-	-	-	0:33:31.190000	0:33:32.203000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:32.203000" end="0:33:49.863000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:33:32.203000	0:33:34.003000
-aber	-	-	-	0:33:34.003000	0:33:38.843000
-gesprochenes	-	-	-	0:33:34.003000	0:33:38.843000
-Deutsch	-	-	-	0:33:34.003000	0:33:38.843000
-in	-	-	-	0:33:34.003000	0:33:38.843000
-ORT	ORT	-	-	0:33:34.003000	0:33:38.843000
-ist	-	-	-	0:33:34.003000	0:33:38.843000
-natürlich	-	-	-	0:33:34.003000	0:33:38.843000
-pf	-	-	-	0:33:38.843000	0:33:39.883000
-das	-	-	-	0:33:39.883000	0:33:45.296000
-kann	-	-	-	0:33:39.883000	0:33:45.296000
-ja	-	-	-	0:33:39.883000	0:33:45.296000
-ganz	-	-	-	0:33:39.883000	0:33:45.296000
-viel	-	-	-	0:33:39.883000	0:33:45.296000
-bedeuten	-	-	-	0:33:39.883000	0:33:45.296000
-weil	-	-	-	0:33:45.296000	0:33:49.863000
-so	-	-	-	0:33:45.296000	0:33:49.863000
-gesprochenes	-	-	-	0:33:45.296000	0:33:49.863000
-Deutsch	-	-	-	0:33:45.296000	0:33:49.863000
-in	-	-	-	0:33:45.296000	0:33:49.863000
-erstens	-	-	-	0:33:45.296000	0:33:49.863000
-einmal	-	-	-	0:33:45.296000	0:33:49.863000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:45.296000	0:33:49.863000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:45.296000	0:33:49.863000
-wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:33:45.296000	0:33:49.863000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:33:45.296000	0:33:49.863000
-immer	-	-	-	0:33:45.296000	0:33:49.863000
-<<kichernd>	-	-	-	0:33:45.296000	0:33:49.863000
-weniger,>	-	-	-	0:33:45.296000	0:33:49.863000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:49.863000" end="0:33:51.436000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:49.863000" end="0:33:57.583000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:33:49.863000	0:33:51.436000
-jetzt	-	-	-	0:33:49.863000	0:33:51.436000
-so	-	-	-	0:33:49.863000	0:33:51.436000
-es	-	-	-	0:33:51.436000	0:33:57.583000
-gibt	-	-	-	0:33:51.436000	0:33:57.583000
-Zeiten	-	-	-	0:33:51.436000	0:33:57.583000
-muss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:51.436000	0:33:57.583000
-i	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:51.436000	0:33:57.583000
-leider	-	-	-	0:33:51.436000	0:33:57.583000
-sagen	-	-	-	0:33:51.436000	0:33:57.583000
-wo	-	-	-	0:33:51.436000	0:33:57.583000
-wir	-	-	-	0:33:51.436000	0:33:57.583000
-in	-	-	-	0:33:51.436000	0:33:57.583000
-da	-	-	-	0:33:51.436000	0:33:57.583000
-U	-	-	-	0:33:51.436000	0:33:57.583000
-Bahn	-	-	-	0:33:51.436000	0:33:57.583000
-mit	-	-	-	0:33:51.436000	0:33:57.583000
-Deutsch	-	-	-	0:33:51.436000	0:33:57.583000
-nimmer	-	-	-	0:33:51.436000	0:33:57.583000
-weit	-	-	-	0:33:51.436000	0:33:57.583000
-kommt	-	-	-	0:33:51.436000	0:33:57.583000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:57.583000" end="0:33:58.323000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:58.323000" end="0:34:04.070000" project="PP04" age_lower="20" age_upper="30">
-ist	-	-	-	0:33:58.323000	0:34:01.036000
-jetzt	-	-	-	0:33:58.323000	0:34:01.036000
-äh	-	-	-	0:33:58.323000	0:34:01.036000
-auch	-	-	-	0:33:58.323000	0:34:01.036000
-ortsabhängig	-	-	-	0:33:58.323000	0:34:01.036000
-abhängig	-	-	-	0:34:01.036000	0:34:04.070000
-von	-	-	-	0:34:01.036000	0:34:04.070000
-da	-	-	-	0:34:01.036000	0:34:04.070000
-u	-	-	-	0:34:01.036000	0:34:04.070000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:04.070000" end="0:34:05.070000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:04.070000" end="0:34:33.983000" project="PP04" age_lower="20" age_upper="30">
-aber	-	-	-	0:34:04.070000	0:34:05.070000
-Deutsch	-	-	-	0:34:05.070000	0:34:10.530000
-ist	-	-	-	0:34:05.070000	0:34:10.530000
-also	-	-	-	0:34:05.070000	0:34:10.530000
-die	-	-	-	0:34:05.070000	0:34:10.530000
-Leute	-	-	-	0:34:05.070000	0:34:10.530000
-die	-	-	-	0:34:05.070000	0:34:10.530000
-Deutsch	-	-	-	0:34:05.070000	0:34:10.530000
-sprechen	-	-	-	0:34:05.070000	0:34:10.530000
-oder	-	-	-	0:34:10.530000	0:34:12.943000
-es	-	-	-	0:34:10.530000	0:34:12.943000
-sind	-	-	-	0:34:10.530000	0:34:12.943000
-die	-	-	-	0:34:10.530000	0:34:12.943000
-ruhiger	-	-	-	0:34:10.530000	0:34:12.943000
-weiss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:34:12.943000	0:34:13.516000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:34:12.943000	0:34:13.516000
-nicht	-	-	-	0:34:12.943000	0:34:13.516000
-es	-	-	-	0:34:13.516000	0:34:19.775000
-ist	-	-	-	0:34:13.516000	0:34:19.775000
-nimmer	-	-	-	0:34:13.516000	0:34:19.775000
-so	-	-	-	0:34:13.516000	0:34:19.775000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:34:13.516000	0:34:19.775000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:34:13.516000	0:34:19.775000
-deutlich	-	-	-	0:34:13.516000	0:34:19.775000
-im	-	-	-	0:34:13.516000	0:34:19.775000
-Vordergrund	-	-	-	0:34:13.516000	0:34:19.775000
-steht	-	-	-	0:34:13.516000	0:34:19.775000
-vor	-	-	-	0:34:13.516000	0:34:19.775000
-anderen	-	-	-	0:34:13.516000	0:34:19.775000
-Sprachen	-	-	-	0:34:13.516000	0:34:19.775000
-und	-	-	-	0:34:19.775000	0:34:23.795000
-gesprochenes	-	-	-	0:34:19.775000	0:34:23.795000
-Deutsch	-	-	-	0:34:19.775000	0:34:23.795000
-in	-	-	-	0:34:19.775000	0:34:23.795000
-ORT	ORT	-	-	0:34:19.775000	0:34:23.795000
-kann	-	-	-	0:34:23.795000	0:34:29.556000
-natürlich	-	-	-	0:34:23.795000	0:34:29.556000
-jetzt	-	-	-	0:34:23.795000	0:34:29.556000
-von	-	-	-	0:34:23.795000	0:34:29.556000
-Leuten	-	-	-	0:34:23.795000	0:34:29.556000
-mit	-	-	-	0:34:23.795000	0:34:29.556000
-Migrationshintergrund	-	-	-	0:34:23.795000	0:34:29.556000
-ganz	-	-	-	0:34:23.795000	0:34:29.556000
-anders	-	-	-	0:34:23.795000	0:34:29.556000
-sein	-	-	-	0:34:23.795000	0:34:29.556000
-von	-	-	-	0:34:29.556000	0:34:33.983000
-quasi	-	-	-	0:34:29.556000	0:34:33.983000
-Einheimischen	-	-	-	0:34:29.556000	0:34:33.983000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:33.983000" end="0:34:34.989000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:34.989000" end="0:34:46.810000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:34:34.989000	0:34:36.696000
-ich	-	-	-	0:34:34.989000	0:34:36.696000
-tue	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:34:34.989000	0:34:36.696000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:34:34.989000	0:34:36.696000
-schwer	-	-	-	0:34:34.989000	0:34:36.696000
-pf	-	-	-	0:34:36.696000	0:34:39.263000
-ja	-	-	-	0:34:36.696000	0:34:39.263000
-jetzt	-	-	-	0:34:36.696000	0:34:39.263000
-im	-	-	-	0:34:36.696000	0:34:39.263000
-Unterschied	-	-	-	0:34:36.696000	0:34:39.263000
-zu	-	-	-	0:34:36.696000	0:34:39.263000
-ORT	ORT	-	-	0:34:36.696000	0:34:39.263000
-puh	-	-	-	0:34:39.263000	0:34:40.449000
-ich	-	-	-	0:34:44.870000	0:34:46.810000
-kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:34:44.870000	0:34:46.810000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:34:44.870000	0:34:46.810000
-nein	-	-	-	0:34:44.870000	0:34:46.810000
-ich	-	-	-	0:34:44.870000	0:34:46.810000
-kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:34:44.870000	0:34:46.810000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:34:44.870000	0:34:46.810000
-nicht	-	-	-	0:34:44.870000	0:34:46.810000
-beantworten	-	-	-	0:34:44.870000	0:34:46.810000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:46.810000" end="0:34:47.690000" age_lower="1" age_upper="999">
-okay	-	-	-	0:34:46.810000	0:34:47.690000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:46.810000" end="0:34:47.690000" project="PP04" age_lower="20" age_upper="30">
-keine	-	-	-	0:34:46.810000	0:34:47.690000
-Ahnung	-	-	-	0:34:46.810000	0:34:47.690000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:47.690000" end="0:34:55.503000" age_lower="1" age_upper="999">
-ein	-	-	-	0:34:49.376000	0:34:55.503000
-die	-	-	-	0:34:49.376000	0:34:55.503000
-man	-	-	-	0:34:49.376000	0:34:55.503000
-als	-	-	-	0:34:49.376000	0:34:55.503000
-typisch	-	-	-	0:34:49.376000	0:34:55.503000
-für	-	-	-	0:34:49.376000	0:34:55.503000
-Wien	-	-	-	0:34:49.376000	0:34:55.503000
-ah	-	-	-	0:34:49.376000	0:34:55.503000
-bezeichnen	-	-	-	0:34:49.376000	0:34:55.503000
-könnte	-	-	-	0:34:49.376000	0:34:55.503000
-redewendung	-	-	-	0:34:49.376000	0:34:55.503000
-Wörter	-	-	-	0:34:49.376000	0:34:55.503000
-ORT	ORT	-	-	0:34:49.376000	0:34:55.503000
-fallen	-	-	-	0:34:49.376000	0:34:55.503000
-Ihnen	-	-	-	0:34:49.376000	0:34:55.503000
-ah	-	-	-	0:34:49.376000	0:34:55.503000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:55.503000" end="0:34:57.330000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:34:55.503000	0:34:57.330000
-sicher	-	-	-	0:34:55.503000	0:34:57.330000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:57.330000" end="0:34:58.503000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:58.503000" end="0:35:02.650000" project="PP04" age_lower="20" age_upper="30">
-Wörter	-	-	-	0:35:00.903000	0:35:02.650000
-und	-	-	-	0:35:00.903000	0:35:02.650000
-Redewendungen	-	-	-	0:35:00.903000	0:35:02.650000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:02.650000" end="0:35:03.376000" age_lower="1" age_upper="999">
-und	-	-	-	0:35:02.650000	0:35:03.376000
-oder	-	-	-	0:35:02.650000	0:35:03.376000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:03.376000" end="0:35:16.923000" project="PP04" age_lower="20" age_upper="30">
-nein	-	-	-	0:35:03.376000	0:35:07.996000
-ja	-	-	-	0:35:03.376000	0:35:07.996000
-so	-	-	-	0:35:03.376000	0:35:07.996000
-herst	-	-	-	0:35:03.376000	0:35:07.996000
-oder	-	-	-	0:35:07.996000	0:35:10.516000
-herst	-	-	-	0:35:07.996000	0:35:10.516000
-Alter	-	-	-	0:35:07.996000	0:35:10.516000
-ist	-	-	-	0:35:10.516000	0:35:14.443000
-jetzt	-	-	-	0:35:10.516000	0:35:14.443000
-eher	-	-	-	0:35:10.516000	0:35:14.443000
-jünger	-	-	-	0:35:10.516000	0:35:14.443000
-vermutlich	-	-	-	0:35:10.516000	0:35:14.443000
-wass	-	-	-	0:35:14.443000	0:35:15.536000
-nicht	-	-	-	0:35:14.443000	0:35:15.536000
-ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:35:14.443000	0:35:15.536000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:35:14.443000	0:35:15.536000
-das	-	-	-	0:35:14.443000	0:35:15.536000
-schon	-	-	-	0:35:14.443000	0:35:15.536000
-ewig	-	-	-	0:35:14.443000	0:35:15.536000
-gibt	-	-	-	0:35:14.443000	0:35:15.536000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:35:15.536000	0:35:16.923000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:35:15.536000	0:35:16.923000
-nicht	-	-	-	0:35:15.536000	0:35:16.923000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:19.290000" end="0:35:21.996000" age_lower="1" age_upper="999">
-oder	-	-	-	0:35:19.290000	0:35:21.996000
-vielleicht	-	-	-	0:35:19.290000	0:35:21.996000
-auch	-	-	-	0:35:19.290000	0:35:21.996000
-so	-	-	-	0:35:19.290000	0:35:21.996000
-grammatische	-	-	-	0:35:19.290000	0:35:21.996000
-Besonderheiten	-	-	-	0:35:19.290000	0:35:21.996000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:19.290000" end="0:36:06.283000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:35:19.290000	0:35:20.003000
-äh	-	-	-	0:35:19.290000	0:35:20.003000
-ah	-	-	-	0:35:21.996000	0:35:23.476000
-ah	-	-	-	0:35:26.376000	0:35:27.610000
-jaja	-	-	-	0:35:26.376000	0:35:27.610000
-ich	-	-	-	0:35:29.850000	0:35:31.743000
-habe	-	-	-	0:35:29.850000	0:35:31.743000
-viel	-	-	-	0:35:29.850000	0:35:31.743000
-ORT	ORT	-	-	0:35:29.850000	0:35:31.743000
-Lieder	-	-	-	0:35:29.850000	0:35:31.743000
-musiziert	-	-	-	0:35:29.850000	0:35:31.743000
-kommt	-	-	-	0:35:31.743000	0:35:33.650000
-natürlich	-	-	-	0:35:31.743000	0:35:33.650000
-alles	-	-	-	0:35:31.743000	0:35:33.650000
-mögliche	-	-	-	0:35:31.743000	0:35:33.650000
-vor	-	-	-	0:35:31.743000	0:35:33.650000
-aber	-	-	-	0:35:33.650000	0:35:36.243000
-ich	-	-	-	0:35:33.650000	0:35:36.243000
-muss	-	-	-	0:35:33.650000	0:35:36.243000
-nachdenken	-	-	-	0:35:33.650000	0:35:36.243000
-grammatikalisch	-	-	-	0:35:41.543000	0:35:42.736000
-ah	-	-	-	0:35:45.096000	0:35:46.656000
-mir	-	-	-	0:35:45.096000	0:35:46.656000
-fällt	-	-	-	0:35:45.096000	0:35:46.656000
-gar	-	-	-	0:35:45.096000	0:35:46.656000
-nix	-	-	-	0:35:45.096000	0:35:46.656000
-ein	-	-	-	0:35:45.096000	0:35:46.656000
-war	-	-	-	0:35:48.796000	0:35:50.003000
-jetzt	-	-	-	0:35:48.796000	0:35:50.003000
-zu	-	-	-	0:35:48.796000	0:35:50.003000
-spontan	-	-	-	0:35:48.796000	0:35:50.003000
-nein	-	-	-	0:36:01.429000	0:36:02.063000
-ist	-	-	-	0:36:01.429000	0:36:02.063000
-ich	-	-	-	0:36:04.003000	0:36:05.303000
-sage	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:36:04.003000	0:36:05.303000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:36:04.003000	0:36:05.303000
-Ihnen	-	-	-	0:36:04.003000	0:36:05.303000
-in	-	-	-	0:36:04.003000	0:36:05.303000
-einer	-	-	-	0:36:04.003000	0:36:05.303000
-Wochen	-	-	-	0:36:04.003000	0:36:05.303000
-ich	-	-	-	0:36:05.303000	0:36:06.283000
-schreibe	-	-	-	0:36:05.303000	0:36:06.283000
-Ihnen	-	-	-	0:36:05.303000	0:36:06.283000
-ein	-	-	-	0:36:05.303000	0:36:06.283000
-Mail	-	-	-	0:36:05.303000	0:36:06.283000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:05.969000" end="0:36:06.896000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:06.896000" end="0:36:09.976000" project="PP04" age_lower="20" age_upper="30">
-nein	-	-	-	0:36:06.896000	0:36:09.389000
-es	-	-	-	0:36:06.896000	0:36:09.389000
-gibt	-	-	-	0:36:06.896000	0:36:09.389000
-unzähli	-	-	-	0:36:06.896000	0:36:09.389000
-unzähliges	-	-	-	0:36:06.896000	0:36:09.389000
-Zeug	-	-	-	0:36:06.896000	0:36:09.389000
-was	-	-	-	0:36:09.389000	0:36:09.976000
-da	-	-	-	0:36:09.389000	0:36:09.976000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:09.976000" end="0:36:20.483000" age_lower="1" age_upper="999">
-und	-	-	-	0:36:12.203000	0:36:14.796000
-in	-	-	-	0:36:12.203000	0:36:14.796000
-Bezug	-	-	-	0:36:12.203000	0:36:14.796000
-auf	-	-	-	0:36:12.203000	0:36:14.796000
-ausspracheeigenheiten	-	-	-	0:36:12.203000	0:36:14.796000
-fällt	-	-	-	0:36:14.796000	0:36:16.323000
-Ihnen	-	-	-	0:36:14.796000	0:36:16.323000
-da	-	-	-	0:36:14.796000	0:36:16.323000
-irgendetwas	-	-	-	0:36:14.796000	0:36:16.323000
-ein	-	-	-	0:36:14.796000	0:36:16.323000
-die	-	-	-	0:36:16.323000	0:36:20.483000
-man	-	-	-	0:36:16.323000	0:36:20.483000
-so	-	-	-	0:36:16.323000	0:36:20.483000
-als	-	-	-	0:36:16.323000	0:36:20.483000
-typisch	-	-	-	0:36:16.323000	0:36:20.483000
-für	-	-	-	0:36:16.323000	0:36:20.483000
-ORT	ORT	-	-	0:36:16.323000	0:36:20.483000
-ansieht	-	-	-	0:36:16.323000	0:36:20.483000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:18.896000" end="0:36:19.816000" project="PP04" age_lower="20" age_upper="30">
-typisch	-	-	-	0:36:18.896000	0:36:19.816000
-für	-	-	-	0:36:18.896000	0:36:19.816000
-ORT	ORT	-	-	0:36:18.896000	0:36:19.816000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:20.483000" end="0:36:22.163000" age_lower="1" age_upper="999">
-bezeichnen	-	-	-	0:36:20.483000	0:36:22.163000
-könnte	-	-	-	0:36:20.483000	0:36:22.163000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:22.163000" end="0:36:43.123000" project="PP04" age_lower="20" age_upper="30">
-na	-	-	-	0:36:29.403000	0:36:31.983000
-ja	-	-	-	0:36:29.403000	0:36:31.983000
-rein	-	-	-	0:36:29.403000	0:36:31.983000
-von	-	-	-	0:36:29.403000	0:36:31.983000
-der	-	-	-	0:36:29.403000	0:36:31.983000
-Aussprache	-	-	-	0:36:29.403000	0:36:31.983000
-ja	-	-	-	0:36:29.403000	0:36:31.983000
-äh	-	-	-	0:36:29.403000	0:36:31.983000
-vermutlich	-	-	-	0:36:31.983000	0:36:35.503000
-nicht	-	-	-	0:36:31.983000	0:36:35.503000
-sehr	-	-	-	0:36:31.983000	0:36:35.503000
-deutlich	-	-	-	0:36:31.983000	0:36:35.503000
-sondern	-	-	-	0:36:35.503000	0:36:42.489000
-eher	-	-	-	0:36:35.503000	0:36:42.489000
-so	-	-	-	0:36:35.503000	0:36:42.489000
-ein	-	-	-	0:36:35.503000	0:36:42.489000
-bisschen	-	-	-	0:36:35.503000	0:36:42.489000
-murmelnd	-	-	-	0:36:35.503000	0:36:42.489000
-oder	-	-	-	0:36:42.489000	0:36:43.123000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:43.123000" end="0:36:44.876000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:44.876000" end="0:37:10.209000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:36:44.876000	0:36:52.743000
-also	-	-	-	0:36:44.876000	0:36:52.743000
-ich	-	-	-	0:36:44.876000	0:36:52.743000
-glaube	-	-	-	0:36:44.876000	0:36:52.743000
-nicht	-	-	-	0:36:44.876000	0:36:52.743000
-dass	-	-	-	0:36:44.876000	0:36:52.743000
-man	-	-	-	0:36:44.876000	0:36:52.743000
-mit	-	-	-	0:36:44.876000	0:36:52.743000
-dem	-	-	-	0:36:44.876000	0:36:52.743000
-ORT	ORT	-	-	0:36:44.876000	0:36:52.743000
-jetzt	-	-	-	0:36:44.876000	0:36:52.743000
-sehr	-	-	-	0:36:44.876000	0:36:52.743000
-deutliche	-	-	-	0:36:44.876000	0:36:52.743000
-Sprache	-	-	-	0:36:44.876000	0:36:52.743000
-weil	-	-	-	0:36:52.743000	0:36:53.589000
-ist	-	-	-	0:36:52.743000	0:36:53.589000
-auch	-	-	-	0:36:52.743000	0:36:53.589000
-so	-	-	-	0:36:52.743000	0:36:53.589000
-eh	-	-	-	0:36:53.589000	0:36:57.529000
-bisschen	-	-	-	0:36:53.589000	0:36:57.529000
-so	-	-	-	0:36:53.589000	0:36:57.529000
-das	-	-	-	0:36:53.589000	0:36:57.529000
-image	-	-	-	0:36:53.589000	0:36:57.529000
-ist	-	-	-	0:36:53.589000	0:36:57.529000
-ja	-	-	-	0:36:53.589000	0:36:57.529000
-so	-	-	-	0:36:53.589000	0:36:57.529000
-raunzen	-	-	-	0:36:53.589000	0:36:57.529000
-und	-	-	-	0:36:57.529000	0:37:02.336000
-so	-	-	-	0:36:57.529000	0:37:02.336000
-ein	-	-	-	0:36:57.529000	0:37:02.336000
-bisschen	-	-	-	0:36:57.529000	0:37:02.336000
-ah	-	-	-	0:36:57.529000	0:37:02.336000
-dass	-	-	-	0:37:05.409000	0:37:07.403000
-ja	-	-	-	0:37:05.409000	0:37:07.403000
-eher	-	-	-	0:37:05.409000	0:37:07.403000
-so	-	-	-	0:37:05.409000	0:37:07.403000
-das	-	-	-	0:37:05.409000	0:37:07.403000
-raunz	-	-	-	0:37:05.409000	0:37:07.403000
-äh	-	-	-	0:37:05.409000	0:37:07.403000
-so	-	-	-	0:37:05.409000	0:37:07.403000
-ja	-	-	-	0:37:07.403000	0:37:09.449000
-also	-	-	-	0:37:07.403000	0:37:09.449000
-in	-	-	-	0:37:07.403000	0:37:09.449000
-ORT	ORT	-	-	0:37:07.403000	0:37:09.449000
-sagt	-	-	-	0:37:07.403000	0:37:09.449000
-man	-	-	-	0:37:07.403000	0:37:09.449000
-sudern	-	-	-	0:37:07.403000	0:37:09.449000
-oder	-	-	-	0:37:09.449000	0:37:10.209000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:10.209000" end="0:37:10.763000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:10.763000" end="0:37:16.036000" project="PP04" age_lower="20" age_upper="30">
-und	-	-	-	0:37:10.763000	0:37:16.036000
-das	-	-	-	0:37:10.763000	0:37:16.036000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:37:10.763000	0:37:16.036000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:37:10.763000	0:37:16.036000
-schon	-	-	-	0:37:10.763000	0:37:16.036000
-dass	-	-	-	0:37:10.763000	0:37:16.036000
-sich	-	-	-	0:37:10.763000	0:37:16.036000
-das	-	-	-	0:37:10.763000	0:37:16.036000
-in	-	-	-	0:37:10.763000	0:37:16.036000
-der	-	-	-	0:37:10.763000	0:37:16.036000
-Sprache	-	-	-	0:37:10.763000	0:37:16.036000
-auch	-	-	-	0:37:10.763000	0:37:16.036000
-ein	-	-	-	0:37:10.763000	0:37:16.036000
-bisschen	-	-	-	0:37:10.763000	0:37:16.036000
-ausdrückt	-	-	-	0:37:10.763000	0:37:16.036000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:16.036000" end="0:37:16.696000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:16.696000" end="0:37:25.996000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:37:16.696000	0:37:19.523000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:37:16.696000	0:37:19.523000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:37:16.696000	0:37:19.523000
-nicht	-	-	-	0:37:16.696000	0:37:19.523000
-da	-	-	-	0:37:16.696000	0:37:19.523000
-dass	-	-	-	0:37:16.696000	0:37:19.523000
-so	-	-	-	0:37:16.696000	0:37:19.523000
-ein	-	-	-	0:37:16.696000	0:37:19.523000
-bisschen	-	-	-	0:37:16.696000	0:37:19.523000
-sudert	-	-	-	0:37:16.696000	0:37:19.523000
-und	-	-	-	0:37:19.523000	0:37:21.523000
-äh	-	-	-	0:37:19.523000	0:37:21.523000
-ist	-	-	-	0:37:19.523000	0:37:21.523000
-in	-	-	-	0:37:19.523000	0:37:21.523000
-ihrer	-	-	-	0:37:19.523000	0:37:21.523000
-Sprache	-	-	-	0:37:19.523000	0:37:21.523000
-die	-	-	-	0:37:21.523000	0:37:25.996000
-Sprache	-	-	-	0:37:21.523000	0:37:25.996000
-sudert	-	-	-	0:37:21.523000	0:37:25.996000
-auch	-	-	-	0:37:21.523000	0:37:25.996000
-irgendwie	-	-	-	0:37:21.523000	0:37:25.996000
-vom	-	-	-	0:37:21.523000	0:37:25.996000
-Klang	-	-	-	0:37:21.523000	0:37:25.996000
-her	-	-	-	0:37:21.523000	0:37:25.996000
-dann	-	-	-	0:37:21.523000	0:37:25.996000
-schon	-	-	-	0:37:21.523000	0:37:25.996000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:25.996000" end="0:37:27.236000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:25.996000" end="0:37:58.983000" project="PP04" age_lower="20" age_upper="30">
-wahrscheinlich	-	-	-	0:37:25.996000	0:37:28.489000
-ist	-	-	-	0:37:25.996000	0:37:28.489000
-das	-	-	-	0:37:25.996000	0:37:28.489000
-eh	-	-	-	0:37:25.996000	0:37:28.489000
-bei	-	-	-	0:37:25.996000	0:37:28.489000
-mir	-	-	-	0:37:25.996000	0:37:28.489000
-auch	-	-	-	0:37:25.996000	0:37:28.489000
-so	-	-	-	0:37:25.996000	0:37:28.489000
-aber	-	-	-	0:37:31.989000	0:37:33.556000
-so	-	-	-	0:37:31.989000	0:37:33.556000
-Redewendungen	-	-	-	0:37:31.989000	0:37:33.556000
-mah	-	-	-	0:37:33.556000	0:37:34.036000
-nein	-	-	-	0:37:39.036000	0:37:40.629000
-ja	-	-	-	0:37:39.036000	0:37:40.629000
-es	-	-	-	0:37:39.036000	0:37:40.629000
-sind	-	-	-	0:37:39.036000	0:37:40.629000
-Wörter	-	-	-	0:37:39.036000	0:37:40.629000
-so	-	-	-	0:37:39.036000	0:37:40.629000
-ja	-	-	-	0:37:40.629000	0:37:43.223000
-braucht	-	-	-	0:37:40.629000	0:37:43.223000
-man	-	-	-	0:37:40.629000	0:37:43.223000
-sich	-	-	-	0:37:40.629000	0:37:43.223000
-nur	-	-	-	0:37:40.629000	0:37:43.223000
-Georg	-	-	-	0:37:40.629000	0:37:43.223000
-Danzer	-	-	-	0:37:40.629000	0:37:43.223000
-anhören	-	-	-	0:37:40.629000	0:37:43.223000
-hockenstaat	-	-	-	0:37:43.223000	0:37:45.903000
-oder	-	-	-	0:37:49.323000	0:37:53.709000
-oder	-	-	-	0:37:49.323000	0:37:53.709000
-ich	-	-	-	0:37:49.323000	0:37:53.709000
-früher	-	-	-	0:37:49.323000	0:37:53.709000
-war	-	-	-	0:37:49.323000	0:37:53.709000
-ja	-	-	-	0:37:49.323000	0:37:53.709000
-viel	-	-	-	0:37:49.323000	0:37:53.709000
-aus	-	-	-	0:37:49.323000	0:37:53.709000
-aus	-	-	-	0:37:49.323000	0:37:53.709000
-französischen	-	-	-	0:37:49.323000	0:37:53.709000
-also	-	-	-	0:37:53.709000	0:37:58.983000
-in	-	-	-	0:37:53.709000	0:37:58.983000
-alten	-	-	-	0:37:53.709000	0:37:58.983000
-ORT	ORT	-	-	0:37:53.709000	0:37:58.983000
-Liedern	-	-	-	0:37:53.709000	0:37:58.983000
-kommen	-	-	-	0:37:53.709000	0:37:58.983000
-vül	-	-	-	0:37:53.709000	0:37:58.983000
-Wörter	-	-	-	0:37:53.709000	0:37:58.983000
-vor	-	-	-	0:37:53.709000	0:37:58.983000
-die	-	-	-	0:37:53.709000	0:37:58.983000
-irgendwie	-	-	-	0:37:53.709000	0:37:58.983000
-dem	-	-	-	0:37:53.709000	0:37:58.983000
-französischen	-	-	-	0:37:53.709000	0:37:58.983000
-entnommen	-	-	-	0:37:53.709000	0:37:58.983000
-sind	-	-	-	0:37:53.709000	0:37:58.983000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:58.983000" end="0:38:00.223000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:58.983000" end="0:38:07.136000" project="PP04" age_lower="20" age_upper="30">
-kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:37:58.983000	0:38:00.763000
-ich	-	-	?klit KlitBasis KlitPron KlitReal PronForm _mich klPron+Kl|KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:37:58.983000	0:38:00.763000
-mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm _mich klPron+Kl	0:37:58.983000	0:38:00.763000
-erinnern	-	-	-	0:37:58.983000	0:38:00.763000
-bis	-	-	-	0:38:00.763000	0:38:04.736000
-es	-	-	-	0:38:00.763000	0:38:04.736000
-bis	-	-	-	0:38:00.763000	0:38:04.736000
-von	-	-	-	0:38:00.763000	0:38:04.736000
-Trottoir	-	-	-	0:38:00.763000	0:38:04.736000
-bis	-	-	-	0:38:00.763000	0:38:04.736000
-bis	-	-	-	0:38:00.763000	0:38:04.736000
-tramway	-	-	-	0:38:00.763000	0:38:04.736000
-und	-	-	-	0:38:04.736000	0:38:07.136000
-so	-	-	-	0:38:04.736000	0:38:07.136000
-Sachen	-	-	-	0:38:04.736000	0:38:07.136000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:10.589000" end="0:38:18.376000" age_lower="1" age_upper="999">
-ah	-	-	-	0:38:10.589000	0:38:15.063000
-glauben	-	-	-	0:38:10.589000	0:38:15.063000
-Sie	-	-	-	0:38:10.589000	0:38:15.063000
-dass	-	-	-	0:38:10.589000	0:38:15.063000
-ORT	ORT	-	-	0:38:10.589000	0:38:15.063000
-oder	-	-	-	0:38:10.589000	0:38:15.063000
-eine	-	-	-	0:38:10.589000	0:38:15.063000
-andere	-	-	-	0:38:10.589000	0:38:15.063000
-Stadt	-	-	-	0:38:10.589000	0:38:15.063000
-in	-	-	-	0:38:10.589000	0:38:15.063000
-Österreich	-	-	-	0:38:10.589000	0:38:15.063000
-einen	-	-	-	0:38:15.063000	0:38:18.376000
-Einfluss	-	-	-	0:38:15.063000	0:38:18.376000
-auf	-	-	-	0:38:15.063000	0:38:18.376000
-das	-	-	-	0:38:15.063000	0:38:18.376000
-gesprochene	-	-	-	0:38:15.063000	0:38:18.376000
-Deutsch	-	-	-	0:38:15.063000	0:38:18.376000
-in	-	-	-	0:38:15.063000	0:38:18.376000
-Österreich	-	-	-	0:38:15.063000	0:38:18.376000
-generell	-	-	-	0:38:15.063000	0:38:18.376000
-hat	-	-	-	0:38:15.063000	0:38:18.376000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:18.376000" end="0:38:30.143000" project="PP04" age_lower="20" age_upper="30">
-10.6	-	-	-	0:38:18.376000	0:38:29.049000
-nein	-	-	-	0:38:29.049000	0:38:30.143000
-das	-	-	-	0:38:29.049000	0:38:30.143000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:38:29.049000	0:38:30.143000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:38:29.049000	0:38:30.143000
-nicht	-	-	-	0:38:29.049000	0:38:30.143000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:30.143000" end="0:38:31.176000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:31.176000" end="0:38:41.316000" project="PP04" age_lower="20" age_upper="30">
-ich	-	-	-	0:38:31.176000	0:38:41.316000
-glaube	-	-	-	0:38:31.176000	0:38:41.316000
-dass	-	-	-	0:38:31.176000	0:38:41.316000
-da	-	-	-	0:38:31.176000	0:38:41.316000
-die	-	-	-	0:38:31.176000	0:38:41.316000
-Regionen	-	-	-	0:38:31.176000	0:38:41.316000
-schon	-	-	-	0:38:31.176000	0:38:41.316000
-noch	-	-	-	0:38:31.176000	0:38:41.316000
-in	-	-	-	0:38:31.176000	0:38:41.316000
-Ihrem	-	-	-	0:38:31.176000	0:38:41.316000
-typischen	-	-	-	0:38:31.176000	0:38:41.316000
-Schema	-	-	-	0:38:31.176000	0:38:41.316000
-bleiben	-	-	-	0:38:31.176000	0:38:41.316000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:41.316000" end="0:38:42.223000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:42.223000" end="0:38:44.356000" project="PP04" age_lower="20" age_upper="30">
-trotz	-	-	-	0:38:42.223000	0:38:44.356000
-aller	-	-	-	0:38:42.223000	0:38:44.356000
-vernetztheit	-	-	-	0:38:42.223000	0:38:44.356000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:43.316000" end="0:38:44.356000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:44.356000" end="0:38:44.956000" project="PP04" age_lower="20" age_upper="30">
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:44.956000" end="0:38:57.563000" age_lower="1" age_upper="999">
-und	-	-	-	0:38:47.563000	0:38:50.596000
-glauben	-	-	-	0:38:47.563000	0:38:50.596000
-Sie	-	-	-	0:38:47.563000	0:38:50.596000
-dass	-	-	-	0:38:47.563000	0:38:50.596000
-ORT	ORT	-	-	0:38:47.563000	0:38:50.596000
-ah	-	-	-	0:38:50.596000	0:38:54.143000
-und	-	-	-	0:38:50.596000	0:38:54.143000
-ORT	ORT	-	-	0:38:50.596000	0:38:54.143000
-als	-	-	-	0:38:50.596000	0:38:54.143000
-zweitgrößte	-	-	-	0:38:50.596000	0:38:54.143000
-Stadt	-	-	-	0:38:50.596000	0:38:54.143000
-Österreichs	-	-	-	0:38:50.596000	0:38:54.143000
-ah	-	-	-	0:38:54.143000	0:38:57.563000
-sich	-	-	-	0:38:54.143000	0:38:57.563000
-gegenseitig	-	-	-	0:38:54.143000	0:38:57.563000
-ah	-	-	-	0:38:54.143000	0:38:57.563000
-sprachlich	-	-	-	0:38:54.143000	0:38:57.563000
-beeinflussen	-	-	-	0:38:54.143000	0:38:57.563000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:57.563000" end="0:39:00.676000" project="PP04" age_lower="20" age_upper="30">
-es	-	-	-	0:38:59.803000	0:39:00.676000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:38:59.803000	0:39:00.676000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:38:59.803000	0:39:00.676000
-auch	-	-	-	0:38:59.803000	0:39:00.676000
-nicht	-	-	-	0:38:59.803000	0:39:00.676000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:00.676000" end="0:39:17.569000" age_lower="1" age_upper="999">
-und	-	-	-	0:39:05.549000	0:39:11.269000
-würden	-	-	-	0:39:05.549000	0:39:11.269000
-Sie	-	-	-	0:39:05.549000	0:39:11.269000
-sagen	-	-	-	0:39:05.549000	0:39:11.269000
-ah	-	-	-	0:39:05.549000	0:39:11.269000
-dass	-	-	-	0:39:05.549000	0:39:11.269000
-sich	-	-	-	0:39:05.549000	0:39:11.269000
-die	-	-	-	0:39:05.549000	0:39:11.269000
-sprachform	-	-	-	0:39:05.549000	0:39:11.269000
-hier	-	-	-	0:39:05.549000	0:39:11.269000
-ah	-	-	-	0:39:11.269000	0:39:15.116000
-in	-	-	-	0:39:11.269000	0:39:15.116000
-ORT	ORT	-	-	0:39:11.269000	0:39:15.116000
-von	-	-	-	0:39:11.269000	0:39:15.116000
-der	-	-	-	0:39:11.269000	0:39:15.116000
-von	-	-	-	0:39:11.269000	0:39:15.116000
-ORT	ORT	-	-	0:39:11.269000	0:39:15.116000
-unterscheidet	-	-	-	0:39:11.269000	0:39:15.116000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:17.569000" end="0:39:21.002000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:39:17.569000	0:39:20.369000
-laut	-	-	-	0:39:17.569000	0:39:20.369000
-meinem	-	-	-	0:39:17.569000	0:39:20.369000
-Kollegen	-	-	-	0:39:17.569000	0:39:20.369000
-nicht	-	-	-	0:39:17.569000	0:39:20.369000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:21.002000" end="0:39:21.496000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:21.496000" end="0:39:50.569000" project="PP04" age_lower="20" age_upper="30">
-ah	-	-	-	0:39:21.496000	0:39:22.262000
-vermutlich	-	-	-	0:39:22.262000	0:39:25.216000
-wenig	-	-	-	0:39:22.262000	0:39:25.216000
-es	-	-	-	0:39:25.216000	0:39:26.669000
-es	-	-	-	0:39:25.216000	0:39:26.669000
-wird	-	-	-	0:39:25.216000	0:39:26.669000
-Einflüsse	-	-	-	0:39:25.216000	0:39:26.669000
-geben	-	-	-	0:39:25.216000	0:39:26.669000
-äh	-	-	-	0:39:26.669000	0:39:30.289000
-eben	-	-	-	0:39:26.669000	0:39:30.289000
-auch	-	-	-	0:39:26.669000	0:39:30.289000
-abhängig	-	-	-	0:39:26.669000	0:39:30.289000
-davon	-	-	-	0:39:26.669000	0:39:30.289000
-woher	-	-	-	0:39:26.669000	0:39:30.289000
-die	-	-	-	0:39:26.669000	0:39:30.289000
-Leute	-	-	-	0:39:26.669000	0:39:30.289000
-kommen	-	-	-	0:39:26.669000	0:39:30.289000
-es	-	-	-	0:39:30.289000	0:39:33.789000
-heiraten	-	-	-	0:39:30.289000	0:39:33.789000
-ja	-	-	-	0:39:30.289000	0:39:33.789000
-viele	-	-	-	0:39:30.289000	0:39:33.789000
-ORT	ORT	-	-	0:39:30.289000	0:39:33.789000
-da	-	-	-	0:39:30.289000	0:39:33.789000
-her	-	-	-	0:39:30.289000	0:39:33.789000
-oder	-	-	-	0:39:33.789000	0:39:36.316000
-haben	-	-	-	0:39:33.789000	0:39:36.316000
-irgendwie	-	-	-	0:39:33.789000	0:39:36.316000
-Familien	-	-	-	0:39:33.789000	0:39:36.316000
-im	-	-	-	0:39:33.789000	0:39:36.316000
-ORT	ORT	-	-	0:39:33.789000	0:39:36.316000
-die	-	-	-	0:39:36.316000	0:39:41.136000
-werden	-	-	-	0:39:36.316000	0:39:41.136000
-vermutlich	-	-	-	0:39:36.316000	0:39:41.136000
-die	-	-	-	0:39:36.316000	0:39:41.136000
-Sprache	-	-	-	0:39:36.316000	0:39:41.136000
-da	-	-	-	0:39:36.316000	0:39:41.136000
-bisschen	-	-	-	0:39:36.316000	0:39:41.136000
-mit	-	-	-	0:39:36.316000	0:39:41.136000
-hertragen	-	-	-	0:39:36.316000	0:39:41.136000
-und	-	-	-	0:39:41.136000	0:39:44.902000
-wird	-	-	-	0:39:41.136000	0:39:44.902000
-sich	-	-	-	0:39:41.136000	0:39:44.902000
-mischen	-	-	-	0:39:41.136000	0:39:44.902000
-mit	-	-	-	0:39:41.136000	0:39:44.902000
-dem	-	-	-	0:39:41.136000	0:39:44.902000
-ORT	ORT	-	-	0:39:41.136000	0:39:44.902000
-ist	-	-	-	0:39:44.902000	0:39:49.622000
-eine	-	-	-	0:39:44.902000	0:39:49.622000
-Mischung	-	-	-	0:39:44.902000	0:39:49.622000
-aus	-	-	-	0:39:44.902000	0:39:49.622000
-den	-	-	-	0:39:44.902000	0:39:49.622000
-beiden	-	-	-	0:39:44.902000	0:39:49.622000
-Sachen	-	-	-	0:39:44.902000	0:39:49.622000
-würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:39:44.902000	0:39:49.622000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:39:44.902000	0:39:49.622000
-sagen	-	-	-	0:39:44.902000	0:39:49.622000
-persönlich	-	-	-	0:39:49.622000	0:39:50.569000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:50.569000" end="0:39:51.309000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:51.309000" end="0:39:52.062000" project="PP04" age_lower="20" age_upper="30">
-meiner	-	-	-	0:39:51.309000	0:39:52.062000
-Meinung	-	-	-	0:39:51.309000	0:39:52.062000
-nach	-	-	-	0:39:51.309000	0:39:52.062000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:52.062000" end="0:40:02.702000" age_lower="1" age_upper="999">
-und	-	-	-	0:39:52.062000	0:39:56.582000
-würden	-	-	-	0:39:52.062000	0:39:56.582000
-Sie	-	-	-	0:39:52.062000	0:39:56.582000
-sagen	-	-	-	0:39:52.062000	0:39:56.582000
-dass	-	-	-	0:39:52.062000	0:39:56.582000
-sich	-	-	-	0:39:52.062000	0:39:56.582000
-dass	-	-	-	0:39:57.682000	0:40:02.702000
-es	-	-	-	0:39:57.682000	0:40:02.702000
-zwischen	-	-	-	0:39:57.682000	0:40:02.702000
-ORT	ORT	-	-	0:39:57.682000	0:40:02.702000
-und	-	-	-	0:39:57.682000	0:40:02.702000
-ORT	ORT	-	-	0:39:57.682000	0:40:02.702000
-einen	-	-	-	0:39:57.682000	0:40:02.702000
-sprachlichen	-	-	-	0:39:57.682000	0:40:02.702000
-Einfluss	-	-	-	0:39:57.682000	0:40:02.702000
-gibt	-	-	-	0:39:57.682000	0:40:02.702000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:02.702000" end="0:40:03.996000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:40:02.702000	0:40:03.996000
-sicher	-	-	-	0:40:02.702000	0:40:03.996000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:03.622000" end="0:40:06.796000" age_lower="1" age_upper="999">
-dass	-	-	-	0:40:03.622000	0:40:03.996000
-sich	-	-	-	0:40:03.622000	0:40:03.996000
-also	-	-	-	0:40:03.996000	0:40:06.796000
-ich	-	-	-	0:40:03.996000	0:40:06.796000
-meine	-	-	-	0:40:03.996000	0:40:06.796000
-Sie	-	-	-	0:40:03.996000	0:40:06.796000
-haben	-	-	-	0:40:03.996000	0:40:06.796000
-es	-	-	-	0:40:03.996000	0:40:06.796000
-zwar	-	-	-	0:40:03.996000	0:40:06.796000
-eh	-	-	-	0:40:03.996000	0:40:06.796000
-gerade	-	-	-	0:40:03.996000	0:40:06.796000
-gesagt	-	-	-	0:40:03.996000	0:40:06.796000
-eigentlich	-	-	-	0:40:03.996000	0:40:06.796000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:06.382000" end="0:40:06.796000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:40:06.382000	0:40:06.796000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:06.796000" end="0:40:11.369000" age_lower="1" age_upper="999">
-und	-	-	-	0:40:07.882000	0:40:11.369000
-ah	-	-	-	0:40:07.882000	0:40:11.369000
-wodurch	-	-	-	0:40:07.882000	0:40:11.369000
-glauben	-	-	-	0:40:07.882000	0:40:11.369000
-Sie	-	-	-	0:40:07.882000	0:40:11.369000
-entsteht	-	-	-	0:40:07.882000	0:40:11.369000
-das	-	-	-	0:40:07.882000	0:40:11.369000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:11.369000" end="0:40:19.129000" project="PP04" age_lower="20" age_upper="30">
-dadurch	-	-	-	0:40:11.369000	0:40:17.576000
-dass	-	-	-	0:40:11.369000	0:40:17.576000
-ein	-	-	-	0:40:11.369000	0:40:17.576000
-Großteil	-	-	-	0:40:11.369000	0:40:17.576000
-der	-	-	-	0:40:11.369000	0:40:17.576000
-ORT	ORT	-	-	0:40:11.369000	0:40:17.576000
-Bevölkerung	-	-	-	0:40:11.369000	0:40:17.576000
-in	-	-	-	0:40:11.369000	0:40:17.576000
-ORT	ORT	-	-	0:40:11.369000	0:40:17.576000
-arbeitstätig	-	-	-	0:40:11.369000	0:40:17.576000
-ist	-	-	-	0:40:11.369000	0:40:17.576000
-und	-	-	-	0:40:17.576000	0:40:19.129000
-täglich	-	-	-	0:40:17.576000	0:40:19.129000
-reinpendelt	-	-	-	0:40:17.576000	0:40:19.129000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:19.129000" end="0:40:35.476000" age_lower="1" age_upper="999">
-also	-	-	-	0:40:23.236000	0:40:24.736000
-glauben	-	-	-	0:40:29.482000	0:40:32.969000
-Sie	-	-	-	0:40:29.482000	0:40:32.969000
-geht	-	-	-	0:40:29.482000	0:40:32.969000
-dir	-	-	-	0:40:29.482000	0:40:32.969000
-der	-	-	-	0:40:29.482000	0:40:32.969000
-Einfluss	-	-	-	0:40:29.482000	0:40:32.969000
-dann	-	-	-	0:40:29.482000	0:40:32.969000
-von	-	-	-	0:40:29.482000	0:40:32.969000
-ORT	ORT	-	-	0:40:29.482000	0:40:32.969000
-aus	-	-	-	0:40:29.482000	0:40:32.969000
-oder	-	-	-	0:40:32.969000	0:40:35.476000
-von	-	-	-	0:40:32.969000	0:40:35.476000
-von	-	-	-	0:40:32.969000	0:40:35.476000
-ORT	ORT	-	-	0:40:32.969000	0:40:35.476000
-aus	-	-	-	0:40:32.969000	0:40:35.476000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:35.476000" end="0:41:14.809000" project="PP04" age_lower="20" age_upper="30">
-nein	-	-	-	0:40:38.322000	0:40:41.276000
-ich	-	-	-	0:40:38.322000	0:40:41.276000
-glaube	-	-	-	0:40:38.322000	0:40:41.276000
-kaum	-	-	-	0:40:38.322000	0:40:41.276000
-dass	-	-	-	0:40:38.322000	0:40:41.276000
-ORT	ORT	-	-	0:40:38.322000	0:40:41.276000
-ORT	ORT	-	-	0:40:38.322000	0:40:41.276000
-beeinflussen	-	-	-	0:40:38.322000	0:40:41.276000
-kann	-	-	-	0:40:38.322000	0:40:41.276000
-aber	-	-	-	0:40:44.296000	0:40:47.249000
-das	-	-	-	0:40:44.296000	0:40:47.249000
-mit	-	-	-	0:40:44.296000	0:40:47.249000
-ORT	ORT	-	-	0:40:44.296000	0:40:47.249000
-ist	-	-	-	0:40:44.296000	0:40:47.249000
-ich	-	-	-	0:40:47.249000	0:40:48.776000
-tue	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:40:47.249000	0:40:48.776000
-man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:40:47.249000	0:40:48.776000
-so	-	-	-	0:40:47.249000	0:40:48.776000
-schwer	-	-	-	0:40:47.249000	0:40:48.776000
-mit	-	-	-	0:40:47.249000	0:40:48.776000
-dem	-	-	-	0:40:47.249000	0:40:48.776000
-Begriff	-	-	-	0:40:47.249000	0:40:48.776000
-weil	-	-	-	0:40:48.776000	0:40:49.676000
-ORT	ORT	-	-	0:40:48.776000	0:40:49.676000
-ja	-	-	-	0:40:48.776000	0:40:49.676000
-wie	-	-	-	0:40:49.676000	0:40:52.822000
-viel	-	-	-	0:40:49.676000	0:40:52.822000
-wie	-	-	-	0:40:49.676000	0:40:52.822000
-viel	-	-	-	0:40:49.676000	0:40:52.822000
-ORT	ORT	-	-	0:40:49.676000	0:40:52.822000
-in	-	-	-	0:40:49.676000	0:40:52.822000
-hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:40:52.822000	0:40:55.782000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:40:52.822000	0:40:55.782000
-überhaupt	-	-	-	0:40:52.822000	0:40:55.782000
-schon	-	-	-	0:40:52.822000	0:40:55.782000
-jemals	-	-	-	0:40:52.822000	0:40:55.782000
-ORT	ORT	-	-	0:40:52.822000	0:40:55.782000
-geben	-	-	-	0:40:52.822000	0:40:55.782000
-ORT	ORT	-	-	0:40:55.782000	0:40:59.882000
-war	-	-	-	0:40:55.782000	0:40:59.882000
-ja	-	-	-	0:40:55.782000	0:40:59.882000
-immer	-	-	-	0:40:55.782000	0:40:59.882000
-so	-	-	-	0:40:55.782000	0:40:59.882000
-auch	-	-	-	0:40:59.882000	0:41:01.002000
-in	-	-	-	0:40:59.882000	0:41:01.002000
-der	-	-	-	0:40:59.882000	0:41:01.002000
-Monarchie	-	-	-	0:40:59.882000	0:41:01.002000
-jetzt	-	-	-	0:41:01.002000	0:41:02.349000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:41:01.002000	0:41:02.349000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:41:01.002000	0:41:02.349000
-wieder	-	-	-	0:41:01.002000	0:41:02.349000
-so	-	-	-	0:41:01.002000	0:41:02.349000
-wer	-	-	-	0:41:02.349000	0:41:04.102000
-wer	-	-	-	0:41:02.349000	0:41:04.102000
-ist	-	-	-	0:41:02.349000	0:41:04.102000
-eigentlich	-	-	-	0:41:02.349000	0:41:04.102000
-der	-	-	-	0:41:02.349000	0:41:04.102000
-ORT	ORT	-	-	0:41:02.349000	0:41:04.102000
-d	-	-	-	0:41:04.102000	0:41:06.709000
-da	-	-	-	0:41:04.102000	0:41:06.709000
-ist	-	-	-	0:41:04.102000	0:41:06.709000
-der	-	-	-	0:41:04.102000	0:41:06.709000
-tichatschek	-	-	-	0:41:04.102000	0:41:06.709000
-und	-	-	-	0:41:06.709000	0:41:07.682000
-da	-	-	-	0:41:06.709000	0:41:07.682000
-novatschek	-	-	-	0:41:06.709000	0:41:07.682000
-und	-	-	-	0:41:07.682000	0:41:09.322000
-lauter	-	-	-	0:41:07.682000	0:41:09.322000
-so	-	-	-	0:41:07.682000	0:41:09.322000
-tschechische	-	-	-	0:41:07.682000	0:41:09.322000
-Namen	-	-	-	0:41:07.682000	0:41:09.322000
-das	-	-	-	0:41:09.322000	0:41:10.749000
-sind	-	-	-	0:41:09.322000	0:41:10.749000
-aber	-	-	-	0:41:09.322000	0:41:10.749000
-jetzt	-	-	-	0:41:09.322000	0:41:10.749000
-ORT	ORT	-	-	0:41:09.322000	0:41:10.749000
-ja	-	-	-	0:41:10.749000	0:41:11.982000
-pf	-	-	-	0:41:10.749000	0:41:11.982000
-was	-	-	-	0:41:11.982000	0:41:14.809000
-ist	-	-	-	0:41:11.982000	0:41:14.809000
-schon	-	-	-	0:41:11.982000	0:41:14.809000
-was	-	-	-	0:41:11.982000	0:41:14.809000
-ist	-	-	-	0:41:11.982000	0:41:14.809000
-schon	-	-	-	0:41:11.982000	0:41:14.809000
-ORT	ORT	-	-	0:41:11.982000	0:41:14.809000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:14.809000" end="0:41:15.389000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:15.389000" end="0:41:25.696000" project="PP04" age_lower="20" age_upper="30">
-ich	-	-	-	0:41:15.389000	0:41:18.616000
-das	-	-	-	0:41:15.389000	0:41:18.616000
-kein	-	-	-	0:41:15.389000	0:41:18.616000
-kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:41:15.389000	0:41:18.616000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:41:15.389000	0:41:18.616000
-kaum	-	-	-	0:41:15.389000	0:41:18.616000
-sagen	-	-	-	0:41:15.389000	0:41:18.616000
-der	-	-	-	0:41:18.616000	0:41:21.316000
-Einfluss	-	-	-	0:41:18.616000	0:41:21.316000
-von	-	-	-	0:41:18.616000	0:41:21.316000
-ORT	ORT	-	-	0:41:18.616000	0:41:21.316000
-aus	-	-	-	0:41:18.616000	0:41:21.316000
-ja	-	-	-	0:41:21.316000	0:41:24.756000
-das	-	-	-	0:41:21.316000	0:41:24.756000
-kommt	-	-	-	0:41:21.316000	0:41:24.756000
-darauf	-	-	-	0:41:21.316000	0:41:24.756000
-an	-	-	-	0:41:21.316000	0:41:24.756000
-mit	-	-	-	0:41:21.316000	0:41:24.756000
-wem	-	-	-	0:41:21.316000	0:41:24.756000
-man	-	-	-	0:41:21.316000	0:41:24.756000
-zu	-	-	-	0:41:21.316000	0:41:24.756000
-tun	-	-	-	0:41:21.316000	0:41:24.756000
-hat	-	-	-	0:41:21.316000	0:41:24.756000
-ich	-	-	-	0:41:24.756000	0:41:25.696000
-d	-	-	-	0:41:24.756000	0:41:25.696000
-pf	-	-	-	0:41:24.756000	0:41:25.696000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:25.696000" end="0:41:31.002000" age_lower="1" age_upper="999">
-aber	-	-	-	0:41:25.696000	0:41:31.002000
-wie	-	-	-	0:41:25.696000	0:41:31.002000
-würden	-	-	-	0:41:25.696000	0:41:31.002000
-Sie	-	-	-	0:41:25.696000	0:41:31.002000
-das	-	-	-	0:41:25.696000	0:41:31.002000
-dann	-	-	-	0:41:25.696000	0:41:31.002000
-bezeichnen	-	-	-	0:41:25.696000	0:41:31.002000
-wie	-	-	-	0:41:25.696000	0:41:31.002000
-man	-	-	-	0:41:25.696000	0:41:31.002000
-in	-	-	-	0:41:25.696000	0:41:31.002000
-ORT	ORT	-	-	0:41:25.696000	0:41:31.002000
-spricht	-	-	-	0:41:25.696000	0:41:31.002000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:31.002000" end="0:42:03.956000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:41:31.002000	0:41:34.442000
-jeder	-	-	-	0:41:31.002000	0:41:34.442000
-so	-	-	-	0:41:31.002000	0:41:34.442000
-wie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	0:41:31.002000	0:41:34.442000
-er	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	0:41:31.002000	0:41:34.442000
-<<lachend>	-	-	-	0:41:31.002000	0:41:34.442000
-glaubt;>	-	-	-	0:41:31.002000	0:41:34.442000
-nein	-	-	-	0:41:35.162000	0:41:36.209000
-ts	-	-	-	0:41:41.209000	0:41:47.002000
-äh	-	-	-	0:41:41.209000	0:41:47.002000
-abhängig	-	-	-	0:41:41.209000	0:41:47.002000
-von	-	-	-	0:41:41.209000	0:41:47.002000
-da	-	-	-	0:41:41.209000	0:41:47.002000
-vom	-	-	-	0:41:41.209000	0:41:47.002000
-und	-	-	-	0:41:49.116000	0:41:54.422000
-von	-	-	-	0:41:49.116000	0:41:54.422000
-von	-	-	-	0:41:49.116000	0:41:54.422000
-Herkunft	-	-	-	0:41:49.116000	0:41:54.422000
-aber	-	-	-	0:41:54.422000	0:41:59.916000
-wie	-	-	-	0:41:54.422000	0:41:59.916000
-spricht	-	-	-	0:41:54.422000	0:41:59.916000
-da	-	-	-	0:41:54.422000	0:41:59.916000
-typische	-	-	-	0:41:54.422000	0:41:59.916000
-ORT	ORT	-	-	0:41:54.422000	0:41:59.916000
-das	-	-	-	0:41:59.916000	0:42:01.116000
-ist	-	-	-	0:41:59.916000	0:42:01.116000
-ja	-	-	-	0:41:59.916000	0:42:01.116000
-schwierig	-	-	-	0:41:59.916000	0:42:01.116000
-weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:42:01.116000	0:42:03.956000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:42:01.116000	0:42:03.956000
-den	-	-	-	0:42:01.116000	0:42:03.956000
-kaum	-	-	-	0:42:01.116000	0:42:03.956000
-gibt	-	-	-	0:42:01.116000	0:42:03.956000
-meiner	-	-	-	0:42:01.116000	0:42:03.956000
-Meinung	-	-	-	0:42:01.116000	0:42:03.956000
-nach	-	-	-	0:42:01.116000	0:42:03.956000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:03.956000" end="0:42:11.622000" age_lower="1" age_upper="999">
-ah	-	-	-	0:42:05.956000	0:42:11.622000
-und	-	-	-	0:42:05.956000	0:42:11.622000
-generell	-	-	-	0:42:05.956000	0:42:11.622000
-gefällt	-	-	-	0:42:05.956000	0:42:11.622000
-Ihnen	-	-	-	0:42:05.956000	0:42:11.622000
-die	-	-	-	0:42:05.956000	0:42:11.622000
-Sprechweise	-	-	-	0:42:05.956000	0:42:11.622000
-die	-	-	-	0:42:05.956000	0:42:11.622000
-man	-	-	-	0:42:05.956000	0:42:11.622000
-in	-	-	-	0:42:05.956000	0:42:11.622000
-ORT	ORT	-	-	0:42:05.956000	0:42:11.622000
-spricht	-	-	-	0:42:05.956000	0:42:11.622000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:11.622000" end="0:42:26.289000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:42:13.922000	0:42:17.589000
-die	-	-	-	0:42:13.922000	0:42:17.589000
-wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:42:13.922000	0:42:17.589000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:42:13.922000	0:42:17.589000
-d	-	-	-	0:42:13.922000	0:42:17.589000
-an	-	-	-	0:42:13.922000	0:42:17.589000
-das	-	-	-	0:42:13.922000	0:42:17.589000
-denke	-	-	-	0:42:13.922000	0:42:17.589000
-was	-	-	-	0:42:13.922000	0:42:17.589000
-für	-	-	-	0:42:13.922000	0:42:17.589000
-mich	-	-	-	0:42:13.922000	0:42:17.589000
-jetzt	-	-	-	0:42:13.922000	0:42:17.589000
-ORT	ORT	-	-	0:42:13.922000	0:42:17.589000
-ist	-	-	-	0:42:13.922000	0:42:17.589000
-irgendwie	-	-	-	0:42:17.589000	0:42:19.809000
-ja	-	-	-	0:42:17.589000	0:42:19.809000
-weil	-	-	-	0:42:19.809000	0:42:26.289000
-es	-	-	-	0:42:19.809000	0:42:26.289000
-hat	-	-	-	0:42:19.809000	0:42:26.289000
-für	-	-	-	0:42:19.809000	0:42:26.289000
-mich	-	-	-	0:42:19.809000	0:42:26.289000
-so	-	-	-	0:42:19.809000	0:42:26.289000
-das	-	-	-	0:42:19.809000	0:42:26.289000
-image	-	-	-	0:42:19.809000	0:42:26.289000
-das	-	-	-	0:42:19.809000	0:42:26.289000
-liebenswerten	-	-	-	0:42:19.809000	0:42:26.289000
-suderanten	-	-	-	0:42:19.809000	0:42:26.289000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:20.996000" end="0:42:27.262000" age_lower="1" age_upper="999">
-<<kichernd>	-	-	-	0:42:26.289000	0:42:27.262000
-okay,>	-	-	-	0:42:26.289000	0:42:27.262000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:27.262000" end="0:42:28.549000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:42:27.262000	0:42:28.549000
-gefällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:42:27.262000	0:42:28.549000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:42:27.262000	0:42:28.549000
-irgendwie	-	-	-	0:42:27.262000	0:42:28.549000
-schon	-	-	-	0:42:27.262000	0:42:28.549000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:28.136000" end="0:42:32.349000" age_lower="1" age_upper="999">
-und	-	-	-	0:42:28.136000	0:42:31.236000
-ist	-	-	-	0:42:28.136000	0:42:31.236000
-das	-	-	-	0:42:28.136000	0:42:31.236000
-auch	-	-	-	0:42:28.136000	0:42:31.236000
-das	-	-	-	0:42:28.136000	0:42:31.236000
-was	-	-	-	0:42:28.136000	0:42:31.236000
-dieses	-	-	-	0:42:28.136000	0:42:31.236000
-ORT	ORT	-	-	0:42:28.136000	0:42:31.236000
-ausmacht	-	-	-	0:42:28.136000	0:42:31.236000
-dieses	-	-	-	0:42:31.236000	0:42:32.349000
-Sudern	-	-	-	0:42:31.236000	0:42:32.349000
-und	-	-	-	0:42:31.236000	0:42:32.349000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:32.349000" end="0:42:34.996000" project="PP04" age_lower="20" age_upper="30">
-ein	-	-	-	0:42:32.349000	0:42:34.996000
-Teil	-	-	-	0:42:32.349000	0:42:34.996000
-ein	-	-	-	0:42:32.349000	0:42:34.996000
-Teil	-	-	-	0:42:32.349000	0:42:34.996000
-dessen	-	-	-	0:42:32.349000	0:42:34.996000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:34.996000" end="0:42:35.729000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:35.729000" end="0:42:51.842000" project="PP04" age_lower="20" age_upper="30">
-aber	-	-	-	0:42:35.729000	0:42:40.689000
-ich	-	-	-	0:42:35.729000	0:42:40.689000
-das	-	-	-	0:42:35.729000	0:42:40.689000
-ist	-	-	-	0:42:35.729000	0:42:40.689000
-ja	-	-	-	0:42:35.729000	0:42:40.689000
-eher	-	-	-	0:42:35.729000	0:42:40.689000
-se	-	-	-	0:42:35.729000	0:42:40.689000
-ein	-	-	-	0:42:35.729000	0:42:40.689000
-so	-	-	-	0:42:35.729000	0:42:40.689000
-ein	-	-	-	0:42:35.729000	0:42:40.689000
-nicht	-	-	-	0:42:40.689000	0:42:41.976000
-unbedingt	-	-	-	0:42:40.689000	0:42:41.976000
-Sprache	-	-	-	0:42:40.689000	0:42:41.976000
-aber	-	-	-	0:42:41.976000	0:42:43.189000
-oder	-	-	-	0:42:46.296000	0:42:47.336000
-das	-	-	-	0:42:46.296000	0:42:47.336000
-so	-	-	-	0:42:46.296000	0:42:47.336000
-ja	-	-	-	0:42:46.296000	0:42:47.336000
-äh	-	-	-	0:42:47.336000	0:42:51.842000
-so	-	-	-	0:42:47.336000	0:42:51.842000
-jammern	-	-	-	0:42:47.336000	0:42:51.842000
-au	-	-	-	0:42:47.336000	0:42:51.842000
-e	-	-	-	0:42:47.336000	0:42:51.842000
-eben	-	-	-	0:42:47.336000	0:42:51.842000
-auf	-	-	-	0:42:47.336000	0:42:51.842000
-hohem	-	-	-	0:42:47.336000	0:42:51.842000
-Niveau	-	-	-	0:42:47.336000	0:42:51.842000
-in	-	-	-	0:42:47.336000	0:42:51.842000
-Wirklichkeit	-	-	-	0:42:47.336000	0:42:51.842000
-jammern	-	-	-	0:42:47.336000	0:42:51.842000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:51.842000" end="0:42:53.762000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:51.842000" end="0:42:56.755000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:42:51.842000	0:42:56.755000
-für	-	-	-	0:42:51.842000	0:42:56.755000
-mich	-	-	-	0:42:51.842000	0:42:56.755000
-so	-	-	-	0:42:51.842000	0:42:56.755000
-charakteristisch	-	-	-	0:42:51.842000	0:42:56.755000
-schon	-	-	-	0:42:51.842000	0:42:56.755000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:59.389000" end="0:43:08.235000" age_lower="1" age_upper="999">
-haben	-	-	-	0:42:59.389000	0:43:05.702000
-Sie	-	-	-	0:42:59.389000	0:43:05.702000
-den	-	-	-	0:42:59.389000	0:43:05.702000
-Eindruck	-	-	-	0:42:59.389000	0:43:05.702000
-dass	-	-	-	0:42:59.389000	0:43:05.702000
-sich	-	-	-	0:42:59.389000	0:43:05.702000
-die	-	-	-	0:42:59.389000	0:43:05.702000
-ah	-	-	-	0:42:59.389000	0:43:05.702000
-deutsche	-	-	-	0:42:59.389000	0:43:05.702000
-Sprache	-	-	-	0:42:59.389000	0:43:05.702000
-in	-	-	-	0:42:59.389000	0:43:05.702000
-Österreich	-	-	-	0:42:59.389000	0:43:05.702000
-derzeit	-	-	-	0:42:59.389000	0:43:05.702000
-verändert	-	-	-	0:42:59.389000	0:43:05.702000
-durch	-	-	-	0:43:05.702000	0:43:08.235000
-den	-	-	-	0:43:05.702000	0:43:08.235000
-Kontakt	-	-	-	0:43:05.702000	0:43:08.235000
-mit	-	-	-	0:43:05.702000	0:43:08.235000
-anderen	-	-	-	0:43:05.702000	0:43:08.235000
-Sprachen	-	-	-	0:43:05.702000	0:43:08.235000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:08.235000" end="0:43:09.195000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:43:08.235000	0:43:09.195000
-sehr	-	-	-	0:43:08.235000	0:43:09.195000
-stark	-	-	-	0:43:08.235000	0:43:09.195000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:09.195000" end="0:43:11.989000" age_lower="1" age_upper="999">
-also	-	-	-	0:43:09.195000	0:43:11.989000
-oder	-	-	-	0:43:09.195000	0:43:11.989000
-auch	-	-	-	0:43:09.195000	0:43:11.989000
-durch	-	-	-	0:43:09.195000	0:43:11.989000
-den	-	-	-	0:43:09.195000	0:43:11.989000
-Einfluss	-	-	-	0:43:09.195000	0:43:11.989000
-von	-	-	-	0:43:09.195000	0:43:11.989000
-anderen	-	-	-	0:43:09.195000	0:43:11.989000
-Sprachen	-	-	-	0:43:09.195000	0:43:11.989000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:11.989000" end="0:43:12.649000" project="PP04" age_lower="20" age_upper="30">
-sehr	-	-	-	0:43:11.989000	0:43:12.649000
-stark	-	-	-	0:43:11.989000	0:43:12.649000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:12.649000" end="0:43:14.695000" age_lower="1" age_upper="999">
-und	-	-	-	0:43:13.189000	0:43:14.695000
-inwiefern	-	-	-	0:43:13.189000	0:43:14.695000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:14.695000" end="0:44:10.975000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:43:14.695000	0:43:21.349000
-Anglizismen	-	-	-	0:43:14.695000	0:43:21.349000
-sind	-	-	-	0:43:14.695000	0:43:21.349000
-ja	-	-	-	0:43:14.695000	0:43:21.349000
-seit	-	-	-	0:43:14.695000	0:43:21.349000
-seit	-	-	-	0:43:14.695000	0:43:21.349000
-Jahren	-	-	-	0:43:14.695000	0:43:21.349000
-sehr	-	-	-	0:43:14.695000	0:43:21.349000
-stark	-	-	-	0:43:14.695000	0:43:21.349000
-vorhanden	-	-	-	0:43:14.695000	0:43:21.349000
-auch	-	-	-	0:43:21.349000	0:43:27.955000
-jetzt	-	-	-	0:43:21.349000	0:43:27.955000
-Abkürzungen	-	-	-	0:43:21.349000	0:43:27.955000
-vermutlich	-	-	-	0:43:21.349000	0:43:27.955000
-und	-	-	-	0:43:27.955000	0:43:33.962000
-und	-	-	-	0:43:27.955000	0:43:33.962000
-Ausdrücke	-	-	-	0:43:27.955000	0:43:33.962000
-die	-	-	-	0:43:27.955000	0:43:33.962000
-sich	-	-	-	0:43:27.955000	0:43:33.962000
-im	-	-	-	0:43:27.955000	0:43:33.962000
-im	-	-	-	0:43:27.955000	0:43:33.962000
-Internet	-	-	-	0:43:27.955000	0:43:33.962000
-und	-	-	-	0:43:33.962000	0:43:36.375000
-die	-	-	-	0:43:33.962000	0:43:36.375000
-dann	-	-	-	0:43:33.962000	0:43:36.375000
-auch	-	-	-	0:43:33.962000	0:43:36.375000
-oder	-	-	-	0:43:36.375000	0:43:38.735000
-die	-	-	-	0:43:36.375000	0:43:38.735000
-eigentlich	-	-	-	0:43:36.375000	0:43:38.735000
-nur	-	-	-	0:43:36.375000	0:43:38.735000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:43:38.735000	0:43:44.415000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:43:38.735000	0:43:44.415000
-eigentlich	-	-	-	0:43:38.735000	0:43:44.415000
-nur	-	-	-	0:43:38.735000	0:43:44.415000
-als	-	-	-	0:43:38.735000	0:43:44.415000
-in	-	-	-	0:43:38.735000	0:43:44.415000
-der	-	-	-	0:43:38.735000	0:43:44.415000
-Schrift	-	-	-	0:43:38.735000	0:43:44.415000
-entstanden	-	-	-	0:43:38.735000	0:43:44.415000
-sind	-	-	-	0:43:38.735000	0:43:44.415000
-ich	-	-	-	0:43:44.415000	0:43:45.469000
-wass	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:43:44.415000	0:43:45.469000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:43:44.415000	0:43:45.469000
-nicht	-	-	-	0:43:44.415000	0:43:45.469000
-äh	-	-	-	0:43:45.469000	0:43:46.935000
-ist	-	-	-	0:43:45.469000	0:43:46.935000
-jetzt	-	-	-	0:43:45.469000	0:43:46.935000
-nicht	-	-	-	0:43:45.469000	0:43:46.935000
-so	-	-	-	0:43:45.469000	0:43:46.935000
-jetzt	-	-	-	0:43:46.935000	0:43:48.489000
-kein	-	-	-	0:43:46.935000	0:43:48.489000
-Information	-	-	-	0:43:46.935000	0:43:48.489000
-nur	-	-	-	0:43:48.489000	0:43:49.415000
-mein	-	-	-	0:43:48.489000	0:43:49.415000
-die	-	-	-	0:43:51.415000	0:43:52.909000
-einli	-	-	-	0:43:51.415000	0:43:52.909000
-in	-	-	-	0:43:51.415000	0:43:52.909000
-der	-	-	-	0:43:51.415000	0:43:52.909000
-Schrift	-	-	-	0:43:51.415000	0:43:52.909000
-entstanden	-	-	-	0:43:51.415000	0:43:52.909000
-sind	-	-	-	0:43:51.415000	0:43:52.909000
-dann	-	-	-	0:43:52.909000	0:43:55.209000
-doch	-	-	-	0:43:52.909000	0:43:55.209000
-auch	-	-	-	0:43:52.909000	0:43:55.209000
-gesprochen	-	-	-	0:43:52.909000	0:43:55.209000
-werden	-	-	-	0:43:52.909000	0:43:55.209000
-die	-	-	-	0:43:55.209000	0:43:56.955000
-d	-	-	-	0:43:55.209000	0:43:56.955000
-eben	-	-	-	0:43:55.209000	0:43:56.955000
-so	-	-	-	0:43:55.209000	0:43:56.955000
-Abkürzungen	-	-	-	0:43:55.209000	0:43:56.955000
-oder	-	-	-	0:43:56.955000	0:44:00.182000
-ich	-	-	-	0:43:56.955000	0:44:00.182000
-bin	-	-	-	0:43:56.955000	0:44:00.182000
-da	-	-	-	0:43:56.955000	0:44:00.182000
-nicht	-	-	-	0:43:56.955000	0:44:00.182000
-so	-	-	-	0:43:56.955000	0:44:00.182000
-am	-	-	-	0:43:56.955000	0:44:00.182000
-letzten	-	-	-	0:43:56.955000	0:44:00.182000
-stand	-	-	-	0:43:56.955000	0:44:00.182000
-immer	-	-	-	0:43:56.955000	0:44:00.182000
-oder	-	-	-	0:44:00.182000	0:44:05.002000
-dass	-	-	-	0:44:00.182000	0:44:05.002000
-jetzt	-	-	-	0:44:00.182000	0:44:05.002000
-äh	-	-	-	0:44:00.182000	0:44:05.002000
-die	-	-	-	0:44:00.182000	0:44:05.002000
-emojis	-	-	-	0:44:00.182000	0:44:05.002000
-überhaupt	-	-	-	0:44:00.182000	0:44:05.002000
-die	-	-	-	0:44:00.182000	0:44:05.002000
-Sprache	-	-	-	0:44:00.182000	0:44:05.002000
-überflüssig	-	-	-	0:44:00.182000	0:44:05.002000
-machen	-	-	-	0:44:00.182000	0:44:05.002000
-man	-	-	-	0:44:05.002000	0:44:09.909000
-kommuniziert	-	-	-	0:44:05.002000	0:44:09.909000
-nur	-	-	-	0:44:05.002000	0:44:09.909000
-mehr	-	-	-	0:44:05.002000	0:44:09.909000
-mit	-	-	-	0:44:05.002000	0:44:09.909000
-dem	-	-	-	0:44:05.002000	0:44:09.909000
-man	-	-	-	0:44:05.002000	0:44:09.909000
-irgendweche	-	-	-	0:44:05.002000	0:44:09.909000
-gsichter	-	-	-	0:44:05.002000	0:44:09.909000
-ins	-	-	-	0:44:05.002000	0:44:09.909000
-Handy	-	-	-	0:44:05.002000	0:44:09.909000
-tippt	-	-	-	0:44:05.002000	0:44:09.909000
-dann	-	-	-	0:44:09.909000	0:44:10.975000
-brauche	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:44:09.909000	0:44:10.975000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:44:09.909000	0:44:10.975000
-nix	-	-	-	0:44:09.909000	0:44:10.975000
-mehr	-	-	-	0:44:09.909000	0:44:10.975000
-schreiben	-	-	-	0:44:09.909000	0:44:10.975000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:10.975000" end="0:44:11.875000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:11.875000" end="0:44:16.662000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:44:11.875000	0:44:14.362000
-sprechen	-	-	-	0:44:11.875000	0:44:14.362000
-äh	-	-	-	0:44:11.875000	0:44:14.362000
-sprechen	-	-	-	0:44:11.875000	0:44:14.362000
-überhaupt	-	-	-	0:44:11.875000	0:44:14.362000
-weil	-	-	-	0:44:14.362000	0:44:15.575000
-jetzt	-	-	-	0:44:14.362000	0:44:15.575000
-gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:44:14.362000	0:44:15.575000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:44:14.362000	0:44:15.575000
-eh	-	-	-	0:44:14.362000	0:44:15.575000
-whatsapp	-	-	-	0:44:14.362000	0:44:15.575000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:44:15.575000	0:44:16.502000
-nimmer	-	-	-	0:44:15.575000	0:44:16.502000
-arufen	-	-	-	0:44:15.575000	0:44:16.502000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:16.662000" end="0:44:17.222000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:17.222000" end="0:44:29.022000" project="PP04" age_lower="20" age_upper="30">
-aber	-	-	-	0:44:17.222000	0:44:19.235000
-ja	-	-	-	0:44:22.135000	0:44:24.395000
-wenn	-	-	-	0:44:22.135000	0:44:24.395000
-man	-	-	-	0:44:22.135000	0:44:24.395000
-so	-	-	-	0:44:22.135000	0:44:24.395000
-diese	-	-	-	0:44:22.135000	0:44:24.395000
-Wörter	-	-	-	0:44:22.135000	0:44:24.395000
-das	-	-	-	0:44:22.135000	0:44:24.395000
-Jahr	-	-	-	0:44:22.135000	0:44:24.395000
-unwörter	-	-	-	0:44:24.395000	0:44:25.862000
-des	-	-	-	0:44:24.395000	0:44:25.862000
-Jahres	-	-	-	0:44:24.395000	0:44:25.862000
-treibt	-	-	-	0:44:26.002000	0:44:29.022000
-schon	-	-	-	0:44:26.002000	0:44:29.022000
-ziemliche	-	-	-	0:44:26.002000	0:44:29.022000
-blüten	-	-	-	0:44:26.002000	0:44:29.022000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:32.222000" end="0:44:32.589000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:32.589000" end="0:45:03.789000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:44:32.589000	0:44:34.542000
-ich	-	-	-	0:44:32.589000	0:44:34.542000
-glaube	-	-	-	0:44:32.589000	0:44:34.542000
-schon	-	-	-	0:44:32.589000	0:44:34.542000
-dass	-	-	-	0:44:32.589000	0:44:34.542000
-sich	-	-	-	0:44:32.589000	0:44:34.542000
-das	-	-	-	0:44:32.589000	0:44:34.542000
-stark	-	-	-	0:44:32.589000	0:44:34.542000
-verändert	-	-	-	0:44:32.589000	0:44:34.542000
-aber	-	-	-	0:44:34.542000	0:44:36.862000
-ja	-	-	-	0:44:36.862000	0:44:38.935000
-es	-	-	-	0:44:38.935000	0:44:40.302000
-war	-	-	-	0:44:38.935000	0:44:40.302000
-wahrscheinlich	-	-	-	0:44:38.935000	0:44:40.302000
-eh	-	-	-	0:44:38.935000	0:44:40.302000
-immer	-	-	-	0:44:38.935000	0:44:40.302000
-es	-	-	-	0:44:38.935000	0:44:40.302000
-ja	-	-	-	0:44:40.302000	0:44:41.662000
-ja	-	-	-	0:44:40.302000	0:44:41.662000
-mit	-	-	-	0:44:41.662000	0:44:44.722000
-Anglizismen	-	-	-	0:44:41.662000	0:44:44.722000
-das	-	-	-	0:44:41.662000	0:44:44.722000
-wird	-	-	-	0:44:41.662000	0:44:44.722000
-wahrscheinlich	-	-	-	0:44:41.662000	0:44:44.722000
-ärger	-	-	-	0:44:41.662000	0:44:44.722000
-ich	-	-	-	0:44:44.722000	0:44:46.049000
-ich	-	-	-	0:44:44.722000	0:44:46.049000
-habe	-	-	-	0:44:44.722000	0:44:46.049000
-jetzt	-	-	-	0:44:44.722000	0:44:46.049000
-nicht	-	-	-	0:44:44.722000	0:44:46.049000
-ich	-	-	-	0:44:46.049000	0:44:47.369000
-habe	-	-	-	0:44:46.049000	0:44:47.369000
-nicht	-	-	-	0:44:46.049000	0:44:47.369000
-das	-	-	-	0:44:46.049000	0:44:47.369000
-Problem	-	-	-	0:44:46.049000	0:44:47.369000
-damit	-	-	-	0:44:46.049000	0:44:47.369000
-ich	-	-	-	0:44:47.369000	0:44:50.809000
-kenne	-	-	-	0:44:47.369000	0:44:50.809000
-schon	-	-	-	0:44:47.369000	0:44:50.809000
-einige	-	-	-	0:44:47.369000	0:44:50.809000
-Leute	-	-	-	0:44:47.369000	0:44:50.809000
-die	-	-	-	0:44:47.369000	0:44:50.809000
-sich	-	-	-	0:44:47.369000	0:44:50.809000
-aufregen	-	-	-	0:44:47.369000	0:44:50.809000
-äh	-	-	-	0:44:50.809000	0:44:52.849000
-die	-	-	-	0:44:50.809000	0:44:52.849000
-ja	-	-	-	0:44:50.809000	0:44:52.849000
-ältere	-	-	-	0:44:50.809000	0:44:52.849000
-Semester	-	-	-	0:44:50.809000	0:44:52.849000
-die	-	-	-	0:44:52.849000	0:44:57.335000
-halt	-	-	-	0:44:52.849000	0:44:57.335000
-auf	-	-	-	0:44:52.849000	0:44:57.335000
-die	-	-	-	0:44:52.849000	0:44:57.335000
-deutsche	-	-	-	0:44:52.849000	0:44:57.335000
-Sprache	-	-	-	0:44:52.849000	0:44:57.335000
-viel	-	-	-	0:44:52.849000	0:44:57.335000
-Wert	-	-	-	0:44:52.849000	0:44:57.335000
-legen	-	-	-	0:44:52.849000	0:44:57.335000
-und	-	-	-	0:44:57.335000	0:44:58.042000
-die	-	-	-	0:44:57.335000	0:44:58.042000
-sagen	-	-	-	0:44:57.335000	0:44:58.042000
-ja	-	-	-	0:44:57.335000	0:44:58.042000
-müssen	-	-	-	0:44:58.042000	0:45:00.409000
-da	-	-	-	0:44:58.042000	0:45:00.409000
-mehr	-	-	-	0:44:58.042000	0:45:00.409000
-darauf	-	-	-	0:44:58.042000	0:45:00.409000
-acht	-	-	-	0:44:58.042000	0:45:00.409000
-geben	-	-	-	0:44:58.042000	0:45:00.409000
-muss	-	-	-	0:45:00.409000	0:45:02.729000
-man	-	-	-	0:45:00.409000	0:45:02.729000
-kann	-	-	-	0:45:00.409000	0:45:02.729000
-ja	-	-	-	0:45:00.409000	0:45:02.729000
-sagen	-	-	-	0:45:00.409000	0:45:02.729000
-blitznachrichten	-	-	-	0:45:00.409000	0:45:02.729000
-nicht	-	-	-	0:45:02.729000	0:45:03.789000
-<<engl	-	-	-	0:45:02.729000	0:45:03.789000
-aussprache>	-	-	-	0:45:02.729000	0:45:03.789000
-newsflash,>	-	-	-	0:45:02.729000	0:45:03.789000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:03.789000" end="0:45:04.929000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:04.929000" end="0:45:06.222000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:45:04.929000	0:45:06.222000
-ich	-	-	-	0:45:04.929000	0:45:06.222000
-kenne	-	-	-	0:45:04.929000	0:45:06.222000
-schon	-	-	-	0:45:04.929000	0:45:06.222000
-solche	-	-	-	0:45:04.929000	0:45:06.222000
-Leute	-	-	-	0:45:04.929000	0:45:06.222000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:06.222000" end="0:45:06.922000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:06.922000" end="0:45:12.009000" project="PP04" age_lower="20" age_upper="30">
-mich	-	-	-	0:45:06.922000	0:45:08.822000
-persönlich	-	-	-	0:45:06.922000	0:45:08.822000
-regt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:45:06.922000	0:45:08.822000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:45:06.922000	0:45:08.822000
-nicht	-	-	-	0:45:06.922000	0:45:08.822000
-auf	-	-	-	0:45:06.922000	0:45:08.822000
-weil	-	-	-	0:45:08.822000	0:45:10.595000
-Englisch	-	-	-	0:45:08.822000	0:45:10.595000
-ist	-	-	-	0:45:08.822000	0:45:10.595000
-so	-	-	-	0:45:08.822000	0:45:10.595000
-verbreitet	-	-	-	0:45:08.822000	0:45:10.595000
-jetzt	-	-	-	0:45:08.822000	0:45:10.595000
-soll	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:45:10.595000	0:45:12.009000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:45:10.595000	0:45:12.009000
-nicht	-	-	-	0:45:10.595000	0:45:12.009000
-bei	-	-	-	0:45:10.595000	0:45:12.009000
-uns	-	-	-	0:45:10.595000	0:45:12.009000
-auch	-	-	-	0:45:10.595000	0:45:12.009000
-sein	-	-	-	0:45:10.595000	0:45:12.009000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:12.009000" end="0:45:19.769000" age_lower="1" age_upper="999">
-also	-	-	-	0:45:12.855000	0:45:15.415000
-jetzt	-	-	-	0:45:12.855000	0:45:15.415000
-abgesegen	-	-	-	0:45:12.855000	0:45:15.415000
-vom	-	-	-	0:45:12.855000	0:45:15.415000
-englischen	-	-	-	0:45:12.855000	0:45:15.415000
-welche	-	-	-	0:45:15.415000	0:45:19.769000
-Sprachen	-	-	-	0:45:15.415000	0:45:19.769000
-sehen	-	-	-	0:45:15.415000	0:45:19.769000
-Sie	-	-	-	0:45:15.415000	0:45:19.769000
-noch	-	-	-	0:45:15.415000	0:45:19.769000
-sehen	-	-	-	0:45:15.415000	0:45:19.769000
-Sie	-	-	-	0:45:15.415000	0:45:19.769000
-hier	-	-	-	0:45:15.415000	0:45:19.769000
-noch	-	-	-	0:45:15.415000	0:45:19.769000
-als	-	-	-	0:45:15.415000	0:45:19.769000
-besonders	-	-	-	0:45:15.415000	0:45:19.769000
-einflussreich	-	-	-	0:45:15.415000	0:45:19.769000
-an	-	-	-	0:45:15.415000	0:45:19.769000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:19.769000" end="0:45:34.302000" project="PP04" age_lower="20" age_upper="30">
-14.5	-	-	-	0:45:19.769000	0:45:34.302000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:34.302000" end="0:45:38.322000" age_lower="1" age_upper="999">
-beziehungsweise	-	-	-	0:45:34.302000	0:45:38.322000
-sehen	-	-	-	0:45:34.302000	0:45:38.322000
-Sie	-	-	-	0:45:34.302000	0:45:38.322000
-da	-	-	-	0:45:34.302000	0:45:38.322000
-auch	-	-	-	0:45:34.302000	0:45:38.322000
-noch	-	-	-	0:45:34.302000	0:45:38.322000
-andere	-	-	-	0:45:34.302000	0:45:38.322000
-sprachen	-	-	-	0:45:34.302000	0:45:38.322000
-als	-	-	-	0:45:34.302000	0:45:38.322000
-einflussreich	-	-	-	0:45:34.302000	0:45:38.322000
-an	-	-	-	0:45:34.302000	0:45:38.322000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:38.322000" end="0:46:10.802000" project="PP04" age_lower="20" age_upper="30">
-15.7	-	-	-	0:45:38.322000	0:45:54.062000
-na	-	-	-	0:46:00.822000	0:46:01.509000
-ja	-	-	-	0:46:00.822000	0:46:01.509000
-ich	-	-	-	0:46:06.609000	0:46:08.862000
-glaube	-	-	-	0:46:06.609000	0:46:08.862000
-dass	-	-	-	0:46:06.609000	0:46:08.862000
-eben	-	-	-	0:46:06.609000	0:46:08.862000
-Französisch	-	-	-	0:46:06.609000	0:46:08.862000
-früher	-	-	-	0:46:06.609000	0:46:08.862000
-mehr	-	-	-	0:46:06.609000	0:46:08.862000
-war	-	-	-	0:46:06.609000	0:46:08.862000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:46:08.862000	0:46:10.802000
-jetzt	-	-	-	0:46:08.862000	0:46:10.802000
-eigentlich	-	-	-	0:46:08.862000	0:46:10.802000
-fast	-	-	-	0:46:08.862000	0:46:10.802000
-weniger	-	-	-	0:46:08.862000	0:46:10.802000
-ist	-	-	-	0:46:08.862000	0:46:10.802000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:10.802000" end="0:46:11.782000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:11.782000" end="0:46:17.815000" project="PP04" age_lower="20" age_upper="30">
-sonst	-	-	-	0:46:11.782000	0:46:15.962000
-ja	-	-	-	0:46:11.782000	0:46:15.962000
-tschechisch	-	-	-	0:46:11.782000	0:46:15.962000
-äh	-	-	-	0:46:11.782000	0:46:15.962000
-im	-	-	-	0:46:11.782000	0:46:15.962000
-Namen	-	-	-	0:46:11.782000	0:46:15.962000
-oder	-	-	-	0:46:11.782000	0:46:15.962000
-sowos	-	-	-	0:46:11.782000	0:46:15.962000
-oder	-	-	-	0:46:15.962000	0:46:17.815000
-oder	-	-	-	0:46:15.962000	0:46:17.815000
-aber	-	-	-	0:46:15.962000	0:46:17.815000
-sonst	-	-	-	0:46:15.962000	0:46:17.815000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:17.369000" end="0:46:17.815000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:17.815000" end="0:46:29.002000" project="PP04" age_lower="20" age_upper="30">
-also	-	-	-	0:46:17.815000	0:46:23.415000
-ich	-	-	-	0:46:17.815000	0:46:23.415000
-nehme	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:46:17.815000	0:46:23.415000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:46:17.815000	0:46:23.415000
-jetzt	-	-	-	0:46:17.815000	0:46:23.415000
-nicht	-	-	-	0:46:17.815000	0:46:23.415000
-so	-	-	-	0:46:17.815000	0:46:23.415000
-wahr	-	-	-	0:46:17.815000	0:46:23.415000
-jetzt	-	-	-	0:46:23.415000	0:46:25.688000
-in	-	-	-	0:46:23.415000	0:46:25.688000
-der	-	-	-	0:46:23.415000	0:46:25.688000
-kurzen	-	-	-	0:46:23.415000	0:46:25.688000
-nachdenkzeit	-	-	-	0:46:23.415000	0:46:25.688000
-fällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:46:25.688000	0:46:29.002000
-mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:46:25.688000	0:46:29.002000
-nicht	-	-	-	0:46:25.688000	0:46:29.002000
-viel	-	-	-	0:46:25.688000	0:46:29.002000
-ein	-	-	-	0:46:25.688000	0:46:29.002000
-außer	-	-	-	0:46:25.688000	0:46:29.002000
-Englisch	-	-	-	0:46:25.688000	0:46:29.002000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:29.002000" end="0:46:43.255000" age_lower="1" age_upper="999">
-und	-	-	-	0:46:32.642000	0:46:37.735000
-welche	-	-	-	0:46:32.642000	0:46:37.735000
-der	-	-	-	0:46:32.642000	0:46:37.735000
-sprachformen	-	-	-	0:46:32.642000	0:46:37.735000
-über	-	-	-	0:46:32.642000	0:46:37.735000
-die	-	-	-	0:46:32.642000	0:46:37.735000
-wir	-	-	-	0:46:32.642000	0:46:37.735000
-gesprochen	-	-	-	0:46:32.642000	0:46:37.735000
-haben	-	-	-	0:46:32.642000	0:46:37.735000
-betrifft	-	-	-	0:46:32.642000	0:46:37.735000
-das	-	-	-	0:46:32.642000	0:46:37.735000
-Ihrer	-	-	-	0:46:32.642000	0:46:37.735000
-ansicht	-	-	-	0:46:32.642000	0:46:37.735000
-nach	-	-	-	0:46:32.642000	0:46:37.735000
-also	-	-	-	0:46:37.735000	0:46:41.855000
-wir	-	-	-	0:46:37.735000	0:46:41.855000
-haben	-	-	-	0:46:37.735000	0:46:41.855000
-gesprochen	-	-	-	0:46:37.735000	0:46:41.855000
-über	-	-	-	0:46:37.735000	0:46:41.855000
-Umgangssprache	-	-	-	0:46:37.735000	0:46:41.855000
-Dialekt	-	-	-	0:46:37.735000	0:46:41.855000
-und	-	-	-	0:46:37.735000	0:46:41.855000
-über	-	-	-	0:46:37.735000	0:46:41.855000
-ah	-	-	-	0:46:37.735000	0:46:41.855000
-Hochsprache	-	-	-	0:46:37.735000	0:46:41.855000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:43.255000" end="0:47:22.608000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:46:45.255000	0:46:46.915000
-vermutlich	-	-	-	0:46:45.255000	0:46:46.915000
-die	-	-	-	0:46:45.255000	0:46:46.915000
-Hochsprache	-	-	-	0:46:45.255000	0:46:46.915000
-weil	-	-	-	0:46:46.915000	0:46:52.682000
-die	-	-	-	0:46:46.915000	0:46:52.682000
-Umgangssprache	-	-	-	0:46:46.915000	0:46:52.682000
-ist	-	-	-	0:46:46.915000	0:46:52.682000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:46:46.915000	0:46:52.682000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:46:46.915000	0:46:52.682000
-eher	-	-	-	0:46:46.915000	0:46:52.682000
-immun	-	-	-	0:46:46.915000	0:46:52.682000
-gegen	-	-	-	0:46:46.915000	0:46:52.682000
-sowas	-	-	-	0:46:46.915000	0:46:52.682000
-ich	-	-	-	0:46:52.682000	0:46:54.342000
-na	-	-	-	0:46:52.682000	0:46:54.342000
-ja	-	-	-	0:46:52.682000	0:46:54.342000
-na	-	-	-	0:46:52.682000	0:46:54.342000
-es	-	-	-	0:46:54.342000	0:46:58.788000
-g	-	-	-	0:46:54.342000	0:46:58.788000
-Anglizismen	-	-	-	0:46:54.342000	0:46:58.788000
-sind	-	-	-	0:46:54.342000	0:46:58.788000
-überall	-	-	-	0:46:54.342000	0:46:58.788000
-vermutlich	-	-	-	0:46:54.342000	0:46:58.788000
-oder	-	-	-	0:47:03.888000	0:47:06.388000
-vielleicht	-	-	-	0:47:03.888000	0:47:06.388000
-sogar	-	-	-	0:47:03.888000	0:47:06.388000
-gerade	-	-	-	0:47:03.888000	0:47:06.388000
-mehr	-	-	-	0:47:03.888000	0:47:06.388000
-in	-	-	-	0:47:03.888000	0:47:06.388000
-der	-	-	-	0:47:03.888000	0:47:06.388000
-Umgangssprache	-	-	-	0:47:03.888000	0:47:06.388000
-weil	-	-	-	0:47:06.388000	0:47:10.235000
-man	-	-	-	0:47:06.388000	0:47:10.235000
-ja	-	-	-	0:47:06.388000	0:47:10.235000
-v	-	-	-	0:47:06.388000	0:47:10.235000
-schnell	-	-	-	0:47:06.388000	0:47:10.235000
-über	-	-	-	0:47:06.388000	0:47:10.235000
-was	-	-	-	0:47:06.388000	0:47:10.235000
-reden	-	-	-	0:47:06.388000	0:47:10.235000
-ja	-	-	-	0:47:10.235000	0:47:11.875000
-oft	-	-	-	0:47:10.235000	0:47:11.875000
-so	-	-	-	0:47:10.235000	0:47:11.875000
-kurze	-	-	-	0:47:10.235000	0:47:11.875000
-Begriffe	-	-	-	0:47:10.235000	0:47:11.875000
-mir	-	-	-	0:47:11.875000	0:47:14.375000
-recht	-	-	-	0:47:11.875000	0:47:14.375000
-schnell	-	-	-	0:47:11.875000	0:47:14.375000
-verwendet	-	-	-	0:47:11.875000	0:47:14.375000
-wenn	-	-	-	0:47:14.375000	0:47:19.288000
-man	-	-	-	0:47:14.375000	0:47:19.288000
-umgangssprachlich	-	-	-	0:47:14.375000	0:47:19.288000
-probiert	-	-	-	0:47:14.375000	0:47:19.288000
-sich	-	-	-	0:47:14.375000	0:47:19.288000
-kurz	-	-	-	0:47:14.375000	0:47:19.288000
-rasch	-	-	-	0:47:14.375000	0:47:19.288000
-über	-	-	-	0:47:14.375000	0:47:19.288000
-was	-	-	-	0:47:14.375000	0:47:19.288000
-auszutauschen	-	-	-	0:47:14.375000	0:47:19.288000
-könnte	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:47:19.288000	0:47:22.608000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:47:19.288000	0:47:22.608000
-sogar	-	-	-	0:47:19.288000	0:47:22.608000
-sein	-	-	-	0:47:19.288000	0:47:22.608000
-dass	-	-	-	0:47:19.288000	0:47:22.608000
-man	-	-	-	0:47:19.288000	0:47:22.608000
-das	-	-	-	0:47:19.288000	0:47:22.608000
-eher	-	-	-	0:47:19.288000	0:47:22.608000
-verwendet	-	-	-	0:47:19.288000	0:47:22.608000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:23.402000" end="0:47:23.975000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:23.402000" end="0:47:32.355000" project="PP04" age_lower="20" age_upper="30">
-alles	-	-	-	0:47:23.402000	0:47:25.968000
-wenn	-	-	-	0:47:23.402000	0:47:25.968000
-man	-	-	-	0:47:23.402000	0:47:25.968000
-jetzt	-	-	-	0:47:23.402000	0:47:25.968000
-Zeit	-	-	-	0:47:23.402000	0:47:25.968000
-hat	-	-	-	0:47:23.402000	0:47:25.968000
-was	-	-	-	0:47:23.402000	0:47:25.968000
-zu	-	-	-	0:47:23.402000	0:47:25.968000
-formulieren	-	-	-	0:47:23.402000	0:47:25.968000
-sich	-	-	-	0:47:25.968000	0:47:27.188000
-was	-	-	-	0:47:25.968000	0:47:27.188000
-zammdenkt	-	-	-	0:47:25.968000	0:47:27.188000
-kommt	-	-	-	0:47:27.188000	0:47:29.455000
-man	-	-	-	0:47:27.188000	0:47:29.455000
-vielleicht	-	-	-	0:47:27.188000	0:47:29.455000
-sogar	-	-	-	0:47:27.188000	0:47:29.455000
-ohne	-	-	-	0:47:27.188000	0:47:29.455000
-aus	-	-	-	0:47:27.188000	0:47:29.455000
-o	-	-	-	0:47:29.455000	0:47:31.735000
-oder	-	-	-	0:47:29.455000	0:47:31.735000
-man	-	-	-	0:47:29.455000	0:47:31.735000
-will	-	-	-	0:47:29.455000	0:47:31.735000
-eh	-	-	-	0:47:29.455000	0:47:31.735000
-gar	-	-	-	0:47:29.455000	0:47:31.735000
-nicht	-	-	-	0:47:29.455000	0:47:31.735000
-ohne	-	-	-	0:47:29.455000	0:47:31.735000
-auskommen	-	-	-	0:47:29.455000	0:47:31.735000
-keine	-	-	-	0:47:31.735000	0:47:32.355000
-Ahnung	-	-	-	0:47:31.735000	0:47:32.355000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:32.355000" end="0:47:53.548000" age_lower="1" age_upper="999">
-ah	-	-	-	0:47:34.215000	0:47:40.548000
-Deutsch	-	-	-	0:47:34.215000	0:47:40.548000
-war	-	-	-	0:47:34.215000	0:47:40.548000
-in	-	-	-	0:47:34.215000	0:47:40.548000
-der	-	-	-	0:47:34.215000	0:47:40.548000
-Geschichte	-	-	-	0:47:34.215000	0:47:40.548000
-Österreichs	-	-	-	0:47:34.215000	0:47:40.548000
-ja	-	-	-	0:47:34.215000	0:47:40.548000
-schon	-	-	-	0:47:34.215000	0:47:40.548000
-immer	-	-	-	0:47:34.215000	0:47:40.548000
-im	-	-	-	0:47:34.215000	0:47:40.548000
-intensiven	-	-	-	0:47:34.215000	0:47:40.548000
-Kontakt	-	-	-	0:47:34.215000	0:47:40.548000
-mit	-	-	-	0:47:34.215000	0:47:40.548000
-anderen	-	-	-	0:47:34.215000	0:47:40.548000
-Sprachen	-	-	-	0:47:34.215000	0:47:40.548000
-haben	-	-	-	0:47:40.548000	0:47:41.935000
-das	-	-	-	0:47:40.548000	0:47:41.935000
-vorhin	-	-	-	0:47:40.548000	0:47:41.935000
-auch	-	-	-	0:47:40.548000	0:47:41.935000
-schon	-	-	-	0:47:40.548000	0:47:41.935000
-erwähnt	-	-	-	0:47:40.548000	0:47:41.935000
-da	-	-	-	0:47:41.935000	0:47:43.108000
-Monarchie	-	-	-	0:47:41.935000	0:47:43.108000
-und	-	-	-	0:47:41.935000	0:47:43.108000
-so	-	-	-	0:47:41.935000	0:47:43.108000
-ah	-	-	-	0:47:43.108000	0:47:46.655000
-welche	-	-	-	0:47:43.108000	0:47:46.655000
-waren	-	-	-	0:47:43.108000	0:47:46.655000
-da	-	-	-	0:47:43.108000	0:47:46.655000
-aus	-	-	-	0:47:43.108000	0:47:46.655000
-Ihrer	-	-	-	0:47:43.108000	0:47:46.655000
-Sicht	-	-	-	0:47:43.108000	0:47:46.655000
-entscheidend	-	-	-	0:47:43.108000	0:47:46.655000
-also	-	-	-	0:47:46.655000	0:47:49.255000
-ich	-	-	-	0:47:46.655000	0:47:49.255000
-weiß	-	-	-	0:47:46.655000	0:47:49.255000
-Sie	-	-	-	0:47:46.655000	0:47:49.255000
-haben	-	-	-	0:47:46.655000	0:47:49.255000
-schon	-	-	-	0:47:46.655000	0:47:49.255000
-Einiges	-	-	-	0:47:46.655000	0:47:49.255000
-erwähnt	-	-	-	0:47:46.655000	0:47:49.255000
-nur	-	-	-	0:47:49.255000	0:47:51.742000
-um	-	-	-	0:47:49.255000	0:47:51.742000
-das	-	-	-	0:47:49.255000	0:47:51.742000
-nochmal	-	-	-	0:47:49.255000	0:47:51.742000
-zusammenzufassen	-	-	-	0:47:49.255000	0:47:51.742000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:53.548000" end="0:48:16.295000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:47:53.548000	0:47:56.122000
-ich	-	-	-	0:47:53.548000	0:47:56.122000
-bin	-	-	-	0:47:53.548000	0:47:56.122000
-echt	-	-	-	0:47:53.548000	0:47:56.122000
-nicht	-	-	-	0:47:53.548000	0:47:56.122000
-so	-	-	-	0:47:53.548000	0:47:56.122000
-der	-	-	-	0:47:53.548000	0:47:56.122000
-historiker	-	-	-	0:47:53.548000	0:47:56.122000
-ja	-	-	-	0:47:56.122000	0:48:07.268000
-das	-	-	-	0:47:56.122000	0:48:07.268000
-waren	-	-	-	0:47:56.122000	0:48:07.268000
-eben	-	-	-	0:47:56.122000	0:48:07.268000
-die	-	-	-	0:47:56.122000	0:48:07.268000
-wahrscheinlich	-	-	-	0:47:56.122000	0:48:07.268000
-die	-	-	-	0:47:56.122000	0:48:07.268000
-die	-	-	-	0:47:56.122000	0:48:07.268000
-die	-	-	-	0:47:56.122000	0:48:07.268000
-Länder	-	-	-	0:47:56.122000	0:48:07.268000
-in	-	-	-	0:47:56.122000	0:48:07.268000
-der	-	-	-	0:47:56.122000	0:48:07.268000
-die	-	-	-	0:47:56.122000	0:48:07.268000
-Länder	-	-	-	0:47:56.122000	0:48:07.268000
-in	-	-	-	0:47:56.122000	0:48:07.268000
-der	-	-	-	0:47:56.122000	0:48:07.268000
-donaumonarchie	-	-	-	0:47:56.122000	0:48:07.268000
-und	-	-	-	0:48:09.402000	0:48:11.195000
-und	-	-	-	0:48:09.402000	0:48:11.195000
-sicher	-	-	-	0:48:09.402000	0:48:11.195000
-Frankreich	-	-	-	0:48:09.402000	0:48:11.195000
-da	-	-	-	0:48:11.195000	0:48:12.622000
-bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:11.195000	0:48:12.622000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+|KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:11.195000	0:48:12.622000
-man	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:48:11.195000	0:48:12.622000
-relativ	-	-	-	0:48:11.195000	0:48:12.622000
-sicher	-	-	-	0:48:11.195000	0:48:12.622000
-also	-	-	-	0:48:12.622000	0:48:16.295000
-ich	-	-	-	0:48:12.622000	0:48:16.295000
-glaube	-	-	-	0:48:12.622000	0:48:16.295000
-viel	-	-	-	0:48:12.622000	0:48:16.295000
-mehr	-	-	-	0:48:12.622000	0:48:16.295000
-als	-	-	-	0:48:12.622000	0:48:16.295000
-als	-	-	-	0:48:12.622000	0:48:16.295000
-Englisch	-	-	-	0:48:12.622000	0:48:16.295000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:16.295000" end="0:48:17.622000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:22.122000" end="0:48:26.635000" project="PP04" age_lower="20" age_upper="30">
-ansonsten	-	-	-	0:48:22.122000	0:48:23.175000
-ja	-	-	-	0:48:23.175000	0:48:26.635000
-aber	-	-	-	0:48:23.175000	0:48:26.635000
-vielleicht	-	-	-	0:48:23.175000	0:48:26.635000
-Italienisch	-	-	-	0:48:23.175000	0:48:26.635000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:29.262000" end="0:48:35.442000" age_lower="1" age_upper="999">
-und	-	-	-	0:48:29.262000	0:48:35.442000
-sehen	-	-	-	0:48:29.262000	0:48:35.442000
-Sie	-	-	-	0:48:29.262000	0:48:35.442000
-diese	-	-	-	0:48:29.262000	0:48:35.442000
-Sprachen	-	-	-	0:48:29.262000	0:48:35.442000
-auch	-	-	-	0:48:29.262000	0:48:35.442000
-als	-	-	-	0:48:29.262000	0:48:35.442000
-einflussreich	-	-	-	0:48:29.262000	0:48:35.442000
-an	-	-	-	0:48:29.262000	0:48:35.442000
-für	-	-	-	0:48:29.262000	0:48:35.442000
-die	-	-	-	0:48:29.262000	0:48:35.442000
-ah	-	-	-	0:48:29.262000	0:48:35.442000
-deutsche	-	-	-	0:48:29.262000	0:48:35.442000
-Sprache	-	-	-	0:48:29.262000	0:48:35.442000
-in	-	-	-	0:48:29.262000	0:48:35.442000
-Österreich	-	-	-	0:48:29.262000	0:48:35.442000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:35.442000" end="0:48:55.542000" project="PP04" age_lower="20" age_upper="30">
-pah	-	-	-	0:48:39.875000	0:48:40.408000
-13.4	-	-	-	0:48:40.408000	0:48:53.815000
-kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:53.815000	0:48:55.542000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:53.815000	0:48:55.542000
-nicht	-	-	-	0:48:53.815000	0:48:55.542000
-kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:53.815000	0:48:55.542000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:53.815000	0:48:55.542000
-nicht	-	-	-	0:48:53.815000	0:48:55.542000
-beantworten	-	-	-	0:48:53.815000	0:48:55.542000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:55.542000" end="0:49:06.282000" age_lower="1" age_upper="999">
-okay	-	-	-	0:48:55.902000	0:48:57.042000
-die	-	-	-	0:48:57.042000	0:48:58.695000
-letzte	-	-	-	0:48:57.042000	0:48:58.695000
-Frage	-	-	-	0:48:57.042000	0:48:58.695000
-ah	-	-	-	0:48:58.695000	0:49:02.695000
-wie	-	-	-	0:48:58.695000	0:49:02.695000
-sehen	-	-	-	0:48:58.695000	0:49:02.695000
-sie	-	-	-	0:48:58.695000	0:49:02.695000
-die	-	-	-	0:48:58.695000	0:49:02.695000
-Zukunft	-	-	-	0:48:58.695000	0:49:02.695000
-der	-	-	-	0:48:58.695000	0:49:02.695000
-deutschen	-	-	-	0:48:58.695000	0:49:02.695000
-Sprache	-	-	-	0:48:58.695000	0:49:02.695000
-in	-	-	-	0:48:58.695000	0:49:02.695000
-Österreich	-	-	-	0:48:58.695000	0:49:02.695000
-beziehungsweise	-	-	-	0:49:02.695000	0:49:06.282000
-wie	-	-	-	0:49:02.695000	0:49:06.282000
-glauben	-	-	-	0:49:02.695000	0:49:06.282000
-Sie	-	-	-	0:49:02.695000	0:49:06.282000
-wird	-	-	-	0:49:02.695000	0:49:06.282000
-sich	-	-	-	0:49:02.695000	0:49:06.282000
-die	-	-	-	0:49:02.695000	0:49:06.282000
-Sprache	-	-	-	0:49:02.695000	0:49:06.282000
-verändern	-	-	-	0:49:02.695000	0:49:06.282000
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:06.282000" end="0:49:57.161000" project="PP04" age_lower="20" age_upper="30">
-ja	-	-	-	0:49:15.988000	0:49:21.548000
-es	-	-	-	0:49:15.988000	0:49:21.548000
-ist	-	-	-	0:49:15.988000	0:49:21.548000
-schwierige	-	-	-	0:49:15.988000	0:49:21.548000
-Zeit	-	-	-	0:49:15.988000	0:49:21.548000
-um	-	-	-	0:49:15.988000	0:49:21.548000
-so	-	-	-	0:49:15.988000	0:49:21.548000
-zukunftsperspektiven	-	-	-	0:49:15.988000	0:49:21.548000
-zu	-	-	-	0:49:15.988000	0:49:21.548000
-beantworten	-	-	-	0:49:15.988000	0:49:21.548000
-ich	-	-	-	0:49:21.548000	0:49:24.055000
-glaube	-	-	-	0:49:21.548000	0:49:24.055000
-schon	-	-	-	0:49:21.548000	0:49:24.055000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:49:21.548000	0:49:24.055000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:49:21.548000	0:49:24.055000
-dass	-	-	-	0:49:26.955000	0:49:30.088000
-Englisch	-	-	-	0:49:26.955000	0:49:30.088000
-einflussreich	-	-	-	0:49:26.955000	0:49:30.088000
-sein	-	-	-	0:49:26.955000	0:49:30.088000
-wird	-	-	-	0:49:26.955000	0:49:30.088000
-dass	-	-	-	0:49:33.595000	0:49:37.582000
-überhaupt	-	-	-	0:49:33.595000	0:49:37.582000
-die	-	-	-	0:49:33.595000	0:49:37.582000
-Leute	-	-	-	0:49:33.595000	0:49:37.582000
-mehr	-	-	-	0:49:33.595000	0:49:37.582000
-Sprachen	-	-	-	0:49:33.595000	0:49:37.582000
-sprechen	-	-	-	0:49:33.595000	0:49:37.582000
-werden	-	-	-	0:49:33.595000	0:49:37.582000
-verschiedene	-	-	-	0:49:33.595000	0:49:37.582000
-wir	-	-	-	0:49:37.582000	0:49:39.368000
-eben	-	-	-	0:49:37.582000	0:49:39.368000
-mehr	-	-	-	0:49:37.582000	0:49:39.368000
-herumkommt	-	-	-	0:49:37.582000	0:49:39.368000
-leicht	-	-	-	0:49:39.368000	0:49:43.248000
-irgendwohin	-	-	-	0:49:39.368000	0:49:43.248000
-verreisen	-	-	-	0:49:39.368000	0:49:43.248000
-kann	-	-	-	0:49:39.368000	0:49:43.248000
-ja	-	-	-	0:49:43.248000	0:49:50.128000
-manchmal	-	-	-	0:49:43.248000	0:49:50.128000
-für	-	-	-	0:49:43.248000	0:49:50.128000
-mich	-	-	-	0:49:43.248000	0:49:50.128000
-selber	-	-	-	0:49:43.248000	0:49:50.128000
-den	-	-	-	0:49:43.248000	0:49:50.128000
-Eindruck	-	-	-	0:49:43.248000	0:49:50.128000
-dass	-	-	-	0:49:43.248000	0:49:50.128000
-man	-	-	-	0:49:43.248000	0:49:50.128000
-eigentlich	-	-	-	0:49:43.248000	0:49:50.128000
-schon	-	-	-	0:49:43.248000	0:49:50.128000
-verpflichtet	-	-	-	0:49:43.248000	0:49:50.128000
-ist	-	-	-	0:49:43.248000	0:49:50.128000
-ein	-	-	-	0:49:43.248000	0:49:50.128000
-Auslandssemester	-	-	-	0:49:43.248000	0:49:50.128000
-zu	-	-	-	0:49:43.248000	0:49:50.128000
-machen	-	-	-	0:49:43.248000	0:49:50.128000
-ich	-	-	-	0:49:43.248000	0:49:50.128000
-habe	-	-	-	0:49:43.248000	0:49:50.128000
-also	-	-	-	0:49:50.128000	0:49:53.342000
-ich	-	-	-	0:49:50.128000	0:49:53.342000
-genier	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:49:50.128000	0:49:53.342000
-mich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:49:50.128000	0:49:53.342000
-fast	-	-	-	0:49:50.128000	0:49:53.342000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:49:50.128000	0:49:53.342000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:49:50.128000	0:49:53.342000
-keines	-	-	-	0:49:50.128000	0:49:53.342000
-gemacht	-	-	-	0:49:50.128000	0:49:53.342000
-habe	-	-	-	0:49:50.128000	0:49:53.342000
-aber	-	-	-	0:49:53.342000	0:49:56.288000
-ich	-	-	-	0:49:53.342000	0:49:56.288000
-mache	-	-	-	0:49:53.342000	0:49:56.288000
-jetzt	-	-	-	0:49:53.342000	0:49:56.288000
-ein	-	-	-	0:49:53.342000	0:49:56.288000
-keines	-	-	-	0:49:53.342000	0:49:56.288000
-mehr	-	-	-	0:49:53.342000	0:49:56.288000
-muss	-	-	-	0:49:56.288000	0:49:57.161000
-so	-	-	-	0:49:56.288000	0:49:57.161000
-gehen	-	-	-	0:49:56.288000	0:49:57.161000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:57.161000" end="0:49:58.101000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:58.101000" end="0:50:32.695000" project="PP04" age_lower="20" age_upper="30">
-aber	-	-	-	0:49:58.101000	0:50:00.088000
-es	-	-	-	0:49:58.101000	0:50:00.088000
-machen	-	-	-	0:49:58.101000	0:50:00.088000
-sehr	-	-	-	0:49:58.101000	0:50:00.088000
-viele	-	-	-	0:49:58.101000	0:50:00.088000
-ist	-	-	-	0:50:00.088000	0:50:02.695000
-warsch	-	-	-	0:50:00.088000	0:50:02.695000
-es	-	-	-	0:50:00.088000	0:50:02.695000
-ist	-	-	-	0:50:00.088000	0:50:02.695000
-f	-	-	-	0:50:00.088000	0:50:02.695000
-sicher	-	-	-	0:50:00.088000	0:50:02.695000
-eine	-	-	-	0:50:00.088000	0:50:02.695000
-Bereicherung	-	-	-	0:50:00.088000	0:50:02.695000
-es	-	-	-	0:50:02.695000	0:50:05.048000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:50:02.695000	0:50:05.048000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:50:02.695000	0:50:05.048000
-auf	-	-	-	0:50:02.695000	0:50:05.048000
-jeden	-	-	-	0:50:02.695000	0:50:05.048000
-Fall	-	-	-	0:50:02.695000	0:50:05.048000
-gar	-	-	-	0:50:05.048000	0:50:07.675000
-nicht	-	-	-	0:50:05.048000	0:50:07.675000
-so	-	-	-	0:50:05.048000	0:50:07.675000
-wegen	-	-	-	0:50:05.048000	0:50:07.675000
-der	-	-	-	0:50:05.048000	0:50:07.675000
-Sprache	-	-	-	0:50:05.048000	0:50:07.675000
-nein	-	-	-	0:50:11.055000	0:50:16.695000
-ja	-	-	-	0:50:11.055000	0:50:16.695000
-dass	-	-	-	0:50:11.055000	0:50:16.695000
-f	-	-	-	0:50:11.055000	0:50:16.695000
-die	-	-	-	0:50:11.055000	0:50:16.695000
-Franzosen	-	-	-	0:50:11.055000	0:50:16.695000
-haben	-	-	-	0:50:11.055000	0:50:16.695000
-ja	-	-	-	0:50:11.055000	0:50:16.695000
-eigene	-	-	-	0:50:11.055000	0:50:16.695000
-Institution	-	-	-	0:50:11.055000	0:50:16.695000
-die	-	-	-	0:50:11.055000	0:50:16.695000
-über	-	-	-	0:50:11.055000	0:50:16.695000
-die	-	-	-	0:50:11.055000	0:50:16.695000
-Sprache	-	-	-	0:50:11.055000	0:50:16.695000
-wacht	-	-	-	0:50:11.055000	0:50:16.695000
-was	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:50:16.695000	0:50:17.501000
-ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:50:16.695000	0:50:17.501000
-wass	-	-	-	0:50:16.695000	0:50:17.501000
-und	-	-	-	0:50:17.501000	0:50:20.035000
-die	-	-	-	0:50:17.501000	0:50:20.035000
-aufpasst	-	-	-	0:50:17.501000	0:50:20.035000
-dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:50:17.501000	0:50:20.035000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:50:17.501000	0:50:20.035000
-eh	-	-	-	0:50:17.501000	0:50:20.035000
-Französisch	-	-	-	0:50:17.501000	0:50:20.035000
-bleibt	-	-	-	0:50:17.501000	0:50:20.035000
-also	-	-	-	0:50:22.435000	0:50:24.495000
-ich	-	-	-	0:50:22.435000	0:50:24.495000
-glaube	-	-	-	0:50:22.435000	0:50:24.495000
-bei	-	-	-	0:50:22.435000	0:50:24.495000
-uns	-	-	-	0:50:22.435000	0:50:24.495000
-wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:50:22.435000	0:50:24.495000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:50:22.435000	0:50:24.495000
-immer	-	-	-	0:50:22.435000	0:50:24.495000
-wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:50:27.315000	0:50:28.541000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:50:27.315000	0:50:28.541000
-immer	-	-	-	0:50:27.315000	0:50:28.541000
-Einflüsse	-	-	-	0:50:27.315000	0:50:28.541000
-geben	-	-	-	0:50:27.315000	0:50:28.541000
-eher	-	-	-	0:50:28.541000	0:50:31.208000
-wahrscheinlich	-	-	-	0:50:28.541000	0:50:31.208000
-Englisch	-	-	-	0:50:28.541000	0:50:31.208000
-am	-	-	-	0:50:28.541000	0:50:31.208000
-am	-	-	-	0:50:28.541000	0:50:31.208000
-meisten	-	-	-	0:50:28.541000	0:50:31.208000
-glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:50:31.208000	0:50:32.695000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:50:31.208000	0:50:32.695000
-schon	-	-	-	0:50:31.208000	0:50:32.695000
-dass	-	-	-	0:50:31.208000	0:50:32.695000
-das	-	-	-	0:50:31.208000	0:50:32.695000
-so	-	-	-	0:50:31.208000	0:50:32.695000
-bleiben	-	-	-	0:50:31.208000	0:50:32.695000
-wird	-	-	-	0:50:31.208000	0:50:32.695000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:32.695000" end="0:50:33.935000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:50:33.935000" end="0:51:36.855000" project="PP04" age_lower="20" age_upper="30">
-aber	-	-	-	0:50:38.088000	0:50:38.708000
-ja	-	-	-	0:50:42.108000	0:50:45.688000
-es	-	-	-	0:50:42.108000	0:50:45.688000
-ist	-	-	-	0:50:42.108000	0:50:45.688000
-ich	-	-	-	0:50:42.108000	0:50:45.688000
-bin	-	-	-	0:50:42.108000	0:50:45.688000
-em	-	-	-	0:50:42.108000	0:50:45.688000
-viel	-	-	-	0:50:42.108000	0:50:45.688000
-in	-	-	-	0:50:42.108000	0:50:45.688000
-ORT	ORT	-	-	0:50:42.108000	0:50:45.688000
-unterwegs	-	-	-	0:50:42.108000	0:50:45.688000
-und	-	-	-	0:50:45.688000	0:50:50.461000
-höre	-	-	-	0:50:45.688000	0:50:50.461000
-viel	-	-	-	0:50:45.688000	0:50:50.461000
-Leute	-	-	-	0:50:45.688000	0:50:50.461000
-em	-	-	-	0:50:45.688000	0:50:50.461000
-mit	-	-	-	0:50:45.688000	0:50:50.461000
-Migrationshintergrund	-	-	-	0:50:45.688000	0:50:50.461000
-grammatikalisch	-	-	-	0:50:50.461000	0:50:52.675000
-halt	-	-	-	0:50:50.461000	0:50:52.675000
-Sachen	-	-	-	0:50:50.461000	0:50:52.675000
-verdrehen	-	-	-	0:50:50.461000	0:50:52.675000
-und	-	-	-	0:50:52.675000	0:50:55.221000
-Sätze	-	-	-	0:50:52.675000	0:50:55.221000
-anders	-	-	-	0:50:52.675000	0:50:55.221000
-aussprechen	-	-	-	0:50:52.675000	0:50:55.221000
-und	-	-	-	0:50:55.221000	0:50:59.108000
-da	-	-	-	0:50:55.221000	0:50:59.108000
-fra	-	-	-	0:50:55.221000	0:50:59.108000
-ich	-	-	-	0:50:55.221000	0:50:59.108000
-frage	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:50:55.221000	0:50:59.108000
-mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:50:55.221000	0:50:59.108000
-dann	-	-	-	0:50:55.221000	0:50:59.108000
-schon	-	-	-	0:50:55.221000	0:50:59.108000
-hin	-	-	-	0:50:55.221000	0:50:59.108000
-und	-	-	-	0:50:55.221000	0:50:59.108000
-wieder	-	-	-	0:50:55.221000	0:50:59.108000
-ob	-	-	-	0:50:59.108000	0:51:06.015000
-ob	-	-	-	0:50:59.108000	0:51:06.015000
-das	-	-	-	0:50:59.108000	0:51:06.015000
-so	-	-	-	0:50:59.108000	0:51:06.015000
-äh	-	-	-	0:50:59.108000	0:51:06.015000
-so	-	-	-	0:50:59.108000	0:51:06.015000
-wie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:50:59.108000	0:51:06.015000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:50:59.108000	0:51:06.015000
-jetzt	-	-	-	0:50:59.108000	0:51:06.015000
-ist	-	-	-	0:50:59.108000	0:51:06.015000
-bleiben	-	-	-	0:50:59.108000	0:51:06.015000
-wird	-	-	-	0:50:59.108000	0:51:06.015000
-oder	-	-	-	0:51:06.015000	0:51:12.728000
-ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:51:06.015000	0:51:12.728000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:51:06.015000	0:51:12.728000
-irgendwann	-	-	-	0:51:06.015000	0:51:12.728000
-da	-	-	-	0:51:06.015000	0:51:12.728000
-ob	-	-	-	0:51:06.015000	0:51:12.728000
-die	-	-	-	0:51:06.015000	0:51:12.728000
-Regeln	-	-	-	0:51:06.015000	0:51:12.728000
-quasi	-	-	-	0:51:06.015000	0:51:12.728000
-so	-	-	-	0:51:06.015000	0:51:12.728000
-vereinfacht	-	-	-	0:51:06.015000	0:51:12.728000
-werden	-	-	-	0:51:06.015000	0:51:12.728000
-dann	-	-	-	0:51:12.728000	0:51:15.048000
-eh	-	-	-	0:51:12.728000	0:51:15.048000
-alles	-	-	-	0:51:12.728000	0:51:15.048000
-egal	-	-	-	0:51:12.728000	0:51:15.048000
-is	-	-	-	0:51:12.728000	0:51:15.048000
-dass	-	-	-	0:51:15.048000	0:51:20.475000
-die	-	-	-	0:51:15.048000	0:51:20.475000
-dass	-	-	-	0:51:15.048000	0:51:20.475000
-man	-	-	-	0:51:15.048000	0:51:20.475000
-dann	-	-	-	0:51:15.048000	0:51:20.475000
-einen	-	-	-	0:51:15.048000	0:51:20.475000
-Satz	-	-	-	0:51:15.048000	0:51:20.475000
-bauen	-	-	-	0:51:15.048000	0:51:20.475000
-kann	-	-	-	0:51:15.048000	0:51:20.475000
-wie	-	-	-	0:51:15.048000	0:51:20.475000
-man	-	-	-	0:51:15.048000	0:51:20.475000
-möchte	-	-	-	0:51:15.048000	0:51:20.475000
-Einheimischen	-	-	-	0:51:20.475000	0:51:25.968000
-sprechen	-	-	-	0:51:20.475000	0:51:25.968000
-auch	-	-	-	0:51:20.475000	0:51:25.968000
-mit	-	-	-	0:51:20.475000	0:51:25.968000
-Leuten	-	-	-	0:51:20.475000	0:51:25.968000
-mit	-	-	-	0:51:20.475000	0:51:25.968000
-Migrationshintergrund	-	-	-	0:51:20.475000	0:51:25.968000
-passen	-	-	-	0:51:25.968000	0:51:27.355000
-sich	-	-	-	0:51:25.968000	0:51:27.355000
-dann	-	-	-	0:51:25.968000	0:51:27.355000
-dem	-	-	-	0:51:25.968000	0:51:27.355000
-an	-	-	-	0:51:25.968000	0:51:27.355000
-und	-	-	-	0:51:27.355000	0:51:29.755000
-verdrehen	-	-	-	0:51:27.355000	0:51:29.755000
-die	-	-	-	0:51:27.355000	0:51:29.755000
-Sätze	-	-	-	0:51:27.355000	0:51:29.755000
-auch	-	-	-	0:51:27.355000	0:51:29.755000
-so	-	-	-	0:51:27.355000	0:51:29.755000
-und	-	-	-	0:51:29.755000	0:51:32.628000
-glauben	-	-	-	0:51:29.755000	0:51:32.628000
-Sie	-	-	-	0:51:29.755000	0:51:32.628000
-sind	-	-	-	0:51:29.755000	0:51:32.628000
-dann	-	-	-	0:51:29.755000	0:51:32.628000
-besser	-	-	-	0:51:29.755000	0:51:32.628000
-verständlich	-	-	-	0:51:29.755000	0:51:32.628000
-das	-	-	-	0:51:34.975000	0:51:36.401000
-macht	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:51:34.975000	0:51:36.401000
-man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:51:34.975000	0:51:36.401000
-schon	-	-	-	0:51:34.975000	0:51:36.401000
-ein	-	-	-	0:51:34.975000	0:51:36.401000
-bisschen	-	-	-	0:51:34.975000	0:51:36.401000
-Sorgen	-	-	-	0:51:34.975000	0:51:36.401000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:36.855000" end="0:51:37.448000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:36.855000" end="0:51:41.888000" project="PP04" age_lower="20" age_upper="30">
-<<lachend>	-	-	-	0:51:36.855000	0:51:41.888000
-wei>	-	-	-	0:51:36.855000	0:51:41.888000
-da	-	-	-	0:51:36.855000	0:51:41.888000
-ist	-	-	-	0:51:36.855000	0:51:41.888000
-dann	-	-	-	0:51:36.855000	0:51:41.888000
-schon	-	-	-	0:51:36.855000	0:51:41.888000
-alles	-	-	-	0:51:36.855000	0:51:41.888000
-irgendwie	-	-	-	0:51:36.855000	0:51:41.888000
-egal	-	-	-	0:51:36.855000	0:51:41.888000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:39.068000" end="0:51:39.781000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:41.888000" end="0:51:58.915000" project="PP04" age_lower="20" age_upper="30">
-so	-	-	-	0:51:41.888000	0:51:43.795000
-bei	-	-	-	0:51:41.888000	0:51:43.795000
-der	-	-	-	0:51:41.888000	0:51:43.795000
-Rechtschreibung	-	-	-	0:51:41.888000	0:51:43.795000
-ist	-	-	-	0:51:41.888000	0:51:43.795000
-au	-	-	-	0:51:41.888000	0:51:43.795000
-kenne	-	-	-	0:51:43.795000	0:51:46.921000
-viel	-	-	-	0:51:43.795000	0:51:46.921000
-Leute	-	-	-	0:51:43.795000	0:51:46.921000
-die	-	-	-	0:51:43.795000	0:51:46.921000
-sagen	-	-	-	0:51:43.795000	0:51:46.921000
-ja	-	-	-	0:51:43.795000	0:51:46.921000
-ich	-	-	-	0:51:43.795000	0:51:46.921000
-schreibe	-	-	-	0:51:43.795000	0:51:46.921000
-jetzt	-	-	-	0:51:43.795000	0:51:46.921000
-schon	-	-	-	0:51:43.795000	0:51:46.921000
-wie	-	-	-	0:51:43.795000	0:51:46.921000
-ich	-	-	-	0:51:43.795000	0:51:46.921000
-will	-	-	-	0:51:43.795000	0:51:46.921000
-es	-	-	-	0:51:46.921000	0:51:49.555000
-weiß	-	-	-	0:51:46.921000	0:51:49.555000
-eh	-	-	-	0:51:46.921000	0:51:49.555000
-niemand	-	-	-	0:51:46.921000	0:51:49.555000
-mehr	-	-	-	0:51:46.921000	0:51:49.555000
-es	-	-	-	0:51:49.555000	0:51:51.015000
-jetzt	-	-	-	0:51:49.555000	0:51:51.015000
-neue	-	-	-	0:51:49.555000	0:51:51.015000
-Rechtschreibung	-	-	-	0:51:49.555000	0:51:51.015000
-alte	-	-	-	0:51:51.015000	0:51:52.708000
-es	-	-	-	0:51:52.708000	0:51:54.101000
-kennt	-	-	-	0:51:52.708000	0:51:54.101000
-sich	-	-	-	0:51:52.708000	0:51:54.101000
-kaum	-	-	-	0:51:52.708000	0:51:54.101000
-mehr	-	-	-	0:51:52.708000	0:51:54.101000
-wer	-	-	-	0:51:52.708000	0:51:54.101000
-aus	-	-	-	0:51:52.708000	0:51:54.101000
-schreibe	-	-	-	0:51:54.101000	0:51:55.828000
-jetzt	-	-	-	0:51:54.101000	0:51:55.828000
-so	-	-	-	0:51:54.101000	0:51:55.828000
-wie	-	-	-	0:51:54.101000	0:51:55.828000
-es	-	-	-	0:51:54.101000	0:51:55.828000
-pf	-	-	-	0:51:54.101000	0:51:55.828000
-es	-	-	-	0:51:55.828000	0:51:57.155000
-ist	-	-	-	0:51:55.828000	0:51:57.155000
-eh	-	-	-	0:51:55.828000	0:51:57.155000
-immer	-	-	-	0:51:55.828000	0:51:57.155000
-ist	-	-	-	0:51:57.155000	0:51:58.915000
-ein	-	-	-	0:51:57.155000	0:51:58.915000
-bisschen	-	-	-	0:51:57.155000	0:51:58.915000
-falsch	-	-	-	0:51:57.155000	0:51:58.915000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:58.195000" end="0:51:58.535000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:58.915000" end="0:53:08.021000" project="PP04" age_lower="20" age_upper="30">
-aber	-	-	-	0:51:58.915000	0:52:03.195000
-das	-	-	-	0:51:58.915000	0:52:03.195000
-ich	-	-	-	0:51:58.915000	0:52:03.195000
-irgendwie	-	-	-	0:51:58.915000	0:52:03.195000
-ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:51:58.915000	0:52:03.195000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:51:58.915000	0:52:03.195000
-auch	-	-	-	0:51:58.915000	0:52:03.195000
-schade	-	-	-	0:51:58.915000	0:52:03.195000
-also	-	-	-	0:52:03.195000	0:52:06.308000
-wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:52:03.195000	0:52:06.308000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:52:03.195000	0:52:06.308000
-bei	-	-	-	0:52:03.195000	0:52:06.308000
-der	-	-	-	0:52:03.195000	0:52:06.308000
-Sprache	-	-	-	0:52:03.195000	0:52:06.308000
-so	-	-	-	0:52:03.195000	0:52:06.308000
-wäre	-	-	-	0:52:03.195000	0:52:06.308000
-also	-	-	-	0:52:06.308000	0:52:13.555000
-ich	-	-	-	0:52:06.308000	0:52:13.555000
-finde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:52:06.308000	0:52:13.555000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:52:06.308000	0:52:13.555000
-schon	-	-	-	0:52:06.308000	0:52:13.555000
-gut	-	-	-	0:52:06.308000	0:52:13.555000
-wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:52:06.308000	0:52:13.555000
-es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:52:06.308000	0:52:13.555000
-relativ	-	-	-	0:52:06.308000	0:52:13.555000
-klar	-	-	-	0:52:06.308000	0:52:13.555000
-ist	-	-	-	0:52:06.308000	0:52:13.555000
-vom	-	-	-	0:52:13.555000	0:52:16.275000
-als	-	-	-	0:52:13.555000	0:52:16.275000
-grammatikalisch	-	-	-	0:52:13.555000	0:52:16.275000
-jetzt	-	-	-	0:52:13.555000	0:52:16.275000
-oder	-	-	-	0:52:13.555000	0:52:16.275000
-so	-	-	-	0:52:13.555000	0:52:16.275000
-ich	-	-	-	0:52:18.975000	0:52:20.975000
-finde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:52:18.975000	0:52:20.975000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:52:18.975000	0:52:20.975000
-auch	-	-	-	0:52:18.975000	0:52:20.975000
-gut	-	-	-	0:52:18.975000	0:52:20.975000
-wenn	-	-	-	0:52:18.975000	0:52:20.975000
-also	-	-	-	0:52:20.975000	0:52:26.621000
-ich	-	-	-	0:52:20.975000	0:52:26.621000
-habe	-	-	-	0:52:20.975000	0:52:26.621000
-sehr	-	-	-	0:52:20.975000	0:52:26.621000
-viel	-	-	-	0:52:20.975000	0:52:26.621000
-Respekt	-	-	-	0:52:20.975000	0:52:26.621000
-vor	-	-	-	0:52:20.975000	0:52:26.621000
-Leuten	-	-	-	0:52:20.975000	0:52:26.621000
-die	-	-	-	0:52:20.975000	0:52:26.621000
-immigrieren	-	-	-	0:52:20.975000	0:52:26.621000
-die	-	-	-	0:52:26.621000	0:52:30.488000
-die	-	-	-	0:52:26.621000	0:52:30.488000
-das	-	-	-	0:52:26.621000	0:52:30.488000
-schnell	-	-	-	0:52:26.621000	0:52:30.488000
-gut	-	-	-	0:52:26.621000	0:52:30.488000
-drauf	-	-	-	0:52:26.621000	0:52:30.488000
-haben	-	-	-	0:52:26.621000	0:52:30.488000
-habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:52:31.935000	0:52:34.308000
-ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:52:31.935000	0:52:34.308000
-viel	-	-	-	0:52:31.935000	0:52:34.308000
-Respekt	-	-	-	0:52:31.935000	0:52:34.308000
-weil	-	-	-	0:52:34.308000	0:52:36.721000
-es	-	-	-	0:52:34.308000	0:52:36.721000
-geich	-	-	-	0:52:34.308000	0:52:36.721000
-es	-	-	-	0:52:34.308000	0:52:36.721000
-gibt	-	-	-	0:52:34.308000	0:52:36.721000
-sicher	-	-	-	0:52:34.308000	0:52:36.721000
-einige	-	-	-	0:52:34.308000	0:52:36.721000
-ich	-	-	-	0:52:36.721000	0:52:39.001000
-habe	-	-	-	0:52:36.721000	0:52:39.001000
-in	-	-	-	0:52:36.721000	0:52:39.001000
-da	-	-	-	0:52:36.721000	0:52:39.001000
-Oberstufe	-	-	-	0:52:36.721000	0:52:39.001000
-es	-	-	-	0:52:39.001000	0:52:42.121000
-war	-	-	-	0:52:39.001000	0:52:42.121000
-ein	-	-	-	0:52:39.001000	0:52:42.121000
-sehr	-	-	-	0:52:39.001000	0:52:42.121000
-sehr	-	-	-	0:52:39.001000	0:52:42.121000
-bunt	-	-	-	0:52:39.001000	0:52:42.121000
-gemischte	-	-	-	0:52:39.001000	0:52:42.121000
-Klasse	-	-	-	0:52:39.001000	0:52:42.121000
-es	-	-	-	0:52:42.121000	0:52:44.995000
-war	-	-	-	0:52:42.121000	0:52:44.995000
-der	-	-	-	0:52:42.121000	0:52:44.995000
-Nachteil	-	-	-	0:52:42.121000	0:52:44.995000
-dass	-	-	-	0:52:42.121000	0:52:44.995000
-kaum	-	-	-	0:52:42.121000	0:52:44.995000
-Gemeinschaft	-	-	-	0:52:42.121000	0:52:44.995000
-da	-	-	-	0:52:42.121000	0:52:44.995000
-war	-	-	-	0:52:42.121000	0:52:44.995000
-da	-	-	-	0:52:44.995000	0:52:50.601000
-Vorteil	-	-	-	0:52:44.995000	0:52:50.601000
-man	-	-	-	0:52:44.995000	0:52:50.601000
-halt	-	-	-	0:52:44.995000	0:52:50.601000
-sehr	-	-	-	0:52:44.995000	0:52:50.601000
-viele	-	-	-	0:52:44.995000	0:52:50.601000
-Kulturen	-	-	-	0:52:44.995000	0:52:50.601000
-wenn	-	-	-	0:52:44.995000	0:52:50.601000
-man	-	-	-	0:52:44.995000	0:52:50.601000
-das	-	-	-	0:52:44.995000	0:52:50.601000
-so	-	-	-	0:52:44.995000	0:52:50.601000
-sagen	-	-	-	0:52:44.995000	0:52:50.601000
-kann	-	-	-	0:52:44.995000	0:52:50.601000
-sehr	-	-	-	0:52:50.601000	0:52:53.795000
-viel	-	-	-	0:52:50.601000	0:52:53.795000
-Leute	-	-	-	0:52:50.601000	0:52:53.795000
-zammkommen	-	-	-	0:52:50.601000	0:52:53.795000
-von	-	-	-	0:52:50.601000	0:52:53.795000
-weiß	-	-	-	0:52:50.601000	0:52:53.795000
-Gott	-	-	-	0:52:50.601000	0:52:53.795000
-wo	-	-	-	0:52:50.601000	0:52:53.795000
-Ungarn	-	-	-	0:52:53.795000	0:52:55.421000
-äh	-	-	-	0:52:55.421000	0:52:58.761000
-und	-	-	-	0:52:55.421000	0:52:58.761000
-sehr	-	-	-	0:52:55.421000	0:52:58.761000
-viel	-	-	-	0:52:55.421000	0:52:58.761000
-China	-	-	-	0:52:55.421000	0:52:58.761000
-und	-	-	-	0:52:58.761000	0:53:03.108000
-da	-	-	-	0:52:58.761000	0:53:03.108000
-hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:52:58.761000	0:53:03.108000
-es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:52:58.761000	0:53:03.108000
-chinesinnen	-	-	-	0:52:58.761000	0:53:03.108000
-geben	-	-	-	0:52:58.761000	0:53:03.108000
-die	-	-	-	0:53:03.108000	0:53:05.615000
-eigentlich	-	-	-	0:53:03.108000	0:53:05.615000
-fast	-	-	-	0:53:03.108000	0:53:05.615000
-NAME	NAME	-	-	0:53:03.108000	0:53:05.615000
-gesprochen	-	-	-	0:53:03.108000	0:53:05.615000
-haben	-	-	-	0:53:03.108000	0:53:05.615000
-das	-	-	-	0:53:05.615000	0:53:07.701000
-war	-	-	-	0:53:05.615000	0:53:07.701000
-absolut	-	-	-	0:53:05.615000	0:53:07.701000
-ein	-	-	-	0:53:05.615000	0:53:07.701000
-attraktion	-	-	-	0:53:05.615000	0:53:07.701000
-also	-	-	-	0:53:07.701000	0:53:08.021000
-ich	-	-	-	0:53:07.701000	0:53:08.021000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:53:08.021000" end="0:53:09.088000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:09.088000" end="0:53:20.195000" project="PP04" age_lower="20" age_upper="30">
-das	-	-	-	0:53:09.088000	0:53:10.328000
-war	-	-	-	0:53:09.088000	0:53:10.328000
-echt	-	-	-	0:53:09.088000	0:53:10.328000
-super	-	-	-	0:53:09.088000	0:53:10.328000
-manche	-	-	-	0:53:10.328000	0:53:14.121000
-anderen	-	-	-	0:53:10.328000	0:53:14.121000
-die	-	-	-	0:53:10.328000	0:53:14.121000
-nicht	-	-	-	0:53:10.328000	0:53:14.121000
-einmal	-	-	-	0:53:10.328000	0:53:14.121000
-Deutsch	-	-	-	0:53:10.328000	0:53:14.121000
-gesprochen	-	-	-	0:53:10.328000	0:53:14.121000
-haben	-	-	-	0:53:10.328000	0:53:14.121000
-und	-	-	-	0:53:14.121000	0:53:17.121000
-dann	-	-	-	0:53:14.121000	0:53:17.121000
-wieder	-	-	-	0:53:14.121000	0:53:17.121000
-ein	-	-	-	0:53:14.121000	0:53:17.121000
-einige	-	-	-	0:53:14.121000	0:53:17.121000
-wenige	-	-	-	0:53:14.121000	0:53:17.121000
-die	-	-	-	0:53:17.121000	0:53:20.195000
-mit	-	-	-	0:53:17.121000	0:53:20.195000
-dir	-	-	-	0:53:17.121000	0:53:20.195000
-NAME	NAME	-	-	0:53:17.121000	0:53:20.195000
-geredet	-	-	-	0:53:17.121000	0:53:20.195000
-haben	-	-	-	0:53:17.121000	0:53:20.195000
-</u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:53:20.195000" end="0:53:29.188000" age_lower="1" age_upper="999">
-</u>
-<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:20.195000" end="0:53:29.188000" project="PP04" age_lower="20" age_upper="30">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:00" end="0:02:46.533000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:00:00" end="0:03:32.946000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:02:46.533000	0:02:49.846000	-	4959562
+hat	-	-	-	0:02:46.533000	0:02:49.846000	-	4959563
+bei	-	-	-	0:02:46.533000	0:02:49.846000	-	4959564
+mir	-	-	-	0:02:46.533000	0:02:49.846000	-	4959565
+hat	-	-	-	0:02:46.533000	0:02:49.846000	-	4959566
+begonnen	-	-	-	0:02:46.533000	0:02:49.846000	-	4959567
+in	-	-	-	0:02:46.533000	0:02:49.846000	-	4959568
+der	-	-	-	0:02:46.533000	0:02:49.846000	-	4959569
+hauptschulzeit	-	-	-	0:02:46.533000	0:02:49.846000	-	4959570
+hier	-	-	-	0:02:49.846000	0:02:51.305000	-	4959573
+in	-	-	-	0:02:49.846000	0:02:51.305000	-	4959574
+ORT	ORT	-	-	0:02:49.846000	0:02:51.305000	ORT	4959575
+dass	-	-	-	0:02:51.305000	0:02:55.866000	-	4959577
+dass	-	-	_es(nom.) KlitBasis KlitPron KlitReal Kon+Kl prodrop PronForm	0:02:51.305000	0:02:55.866000	-	4959579
+da	-	-	-	0:02:51.305000	0:02:55.866000	-	4959580
+in	-	-	-	0:02:51.305000	0:02:55.866000	-	4959581
+der	-	-	-	0:02:51.305000	0:02:55.866000	-	4959582
+Hauptschule	-	-	-	0:02:51.305000	0:02:55.866000	-	4959583
+einen	-	-	-	0:02:51.305000	0:02:55.866000	-	4959584
+Chor	-	-	-	0:02:51.305000	0:02:55.866000	-	4959585
+gegeben	-	-	-	0:02:51.305000	0:02:55.866000	-	4959586
+hat	-	-	-	0:02:51.305000	0:02:55.866000	-	4959587
+der	-	-	-	0:02:55.866000	0:03:05.799000	-	4959589
+halt	-	-	-	0:02:55.866000	0:03:05.799000	-	4959591
+für	-	-	-	0:02:55.866000	0:03:05.799000	-	4959592
+den	-	-	-	0:02:55.866000	0:03:05.799000	-	4959593
+immer	-	-	-	0:02:55.866000	0:03:05.799000	-	4959594
+wieder	-	-	-	0:02:55.866000	0:03:05.799000	-	4959595
+Lehrer	-	-	-	0:02:55.866000	0:03:05.799000	-	4959598
+Burschen	-	-	-	0:02:55.866000	0:03:05.799000	-	4959600
+sich	-	-	-	0:02:55.866000	0:03:05.799000	-	4959601
+gesucht	-	-	-	0:02:55.866000	0:03:05.799000	-	4959602
+hat	-	-	-	0:02:55.866000	0:03:05.799000	-	4959603
+die	-	-	-	0:02:55.866000	0:03:05.799000	-	4959604
+lautsprecher	-	-	-	0:02:55.866000	0:03:05.799000	-	4959606
+tragen	-	-	-	0:02:55.866000	0:03:05.799000	-	4959607
+und	-	-	-	0:03:05.799000	0:03:07.859000	-	4959609
+ja	-	-	-	0:03:05.799000	0:03:07.859000	-	4959610
+verkabeln	-	-	-	0:03:05.799000	0:03:07.859000	-	4959611
+und	-	-	-	0:03:05.799000	0:03:07.859000	-	4959612
+und	-	-	-	0:03:05.799000	0:03:07.859000	-	4959613
+äh	-	-	-	0:03:07.859000	0:03:11.599000	-	4959615
+eben	-	-	-	0:03:07.859000	0:03:11.599000	-	4959616
+die	-	-	-	0:03:07.859000	0:03:11.599000	-	4959617
+Technik	-	-	-	0:03:07.859000	0:03:11.599000	-	4959619
+irgendwie	-	-	-	0:03:07.859000	0:03:11.599000	-	4959620
+bewerkstelligen	-	-	-	0:03:07.859000	0:03:11.599000	-	4959621
+für	-	-	-	0:03:07.859000	0:03:11.599000	-	4959622
+diesen	-	-	-	0:03:07.859000	0:03:11.599000	-	4959623
+Chor	-	-	-	0:03:07.859000	0:03:11.599000	-	4959624
+ah	-	-	-	0:03:11.599000	0:03:13.593000	-	4959627
+und	-	-	-	0:03:13.593000	0:03:17.893000	-	4959630
+ja	-	-	-	0:03:13.593000	0:03:17.893000	-	4959631
+das	-	-	-	0:03:13.593000	0:03:17.893000	-	4959632
+das	-	-	-	0:03:13.593000	0:03:17.893000	-	4959633
+ha	-	-	-	0:03:13.593000	0:03:17.893000	-	4959634
+das	-	-	-	0:03:13.593000	0:03:17.893000	-	4959635
+hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:03:13.593000	0:03:17.893000	-	4959636
+man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:03:13.593000	0:03:17.893000	-	4959637
+hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:03:13.593000	0:03:17.893000	-	4959638
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:03:13.593000	0:03:17.893000	-	4959639
+recht	-	-	-	0:03:13.593000	0:03:17.893000	-	4959640
+gut	-	-	-	0:03:13.593000	0:03:17.893000	-	4959641
+gefallen	-	-	-	0:03:13.593000	0:03:17.893000	-	4959642
+und	-	-	-	0:03:17.893000	0:03:19.893000	-	4959644
+s	-	-	-	0:03:17.893000	0:03:19.893000	-	4959645
+hat	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:03:17.893000	0:03:19.893000	-	4959646
+mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:03:17.893000	0:03:19.893000	-	4959647
+dazu	-	-	-	0:03:17.893000	0:03:19.893000	-	4959648
+gebracht	-	-	-	0:03:17.893000	0:03:19.893000	-	4959649
+äh	-	-	-	0:03:17.893000	0:03:19.893000	-	4959650
+als	-	-	-	0:03:19.893000	0:03:23.939000	-	4959653
+einer	-	-	-	0:03:19.893000	0:03:23.939000	-	4959654
+der	-	-	-	0:03:19.893000	0:03:23.939000	-	4959655
+wenigen	-	-	-	0:03:19.893000	0:03:23.939000	-	4959656
+<<kichernd>	-	-	-	0:03:19.893000	0:03:23.939000	-	4959657
+die	-	-	-	0:03:19.893000	0:03:23.939000	-	4959658
+des>	-	-	-	0:03:19.893000	0:03:23.939000	-	4959659
+in	-	-	-	0:03:19.893000	0:03:23.939000	-	4959661
+der	-	-	-	0:03:19.893000	0:03:23.939000	-	4959662
+Hauptschule	-	-	-	0:03:19.893000	0:03:23.939000	-	4959663
+gemacht	-	-	-	0:03:19.893000	0:03:23.939000	-	4959664
+haben	-	-	-	0:03:19.893000	0:03:23.939000	-	4959665
+das	-	-	-	0:03:23.939000	0:03:26.446000	-	4959667
+dann	-	-	-	0:03:23.939000	0:03:26.446000	-	4959668
+auch	-	-	-	0:03:23.939000	0:03:26.446000	-	4959669
+bis	-	-	-	0:03:23.939000	0:03:26.446000	-	4959671
+zum	-	-	-	0:03:23.939000	0:03:26.446000	-	4959672
+Studium	-	-	-	0:03:23.939000	0:03:26.446000	-	4959673
+zu	-	-	-	0:03:23.939000	0:03:26.446000	-	4959674
+betreiben	-	-	-	0:03:23.939000	0:03:26.446000	-	4959675
+und	-	-	-	0:03:26.446000	0:03:32.946000	-	4959678
+ich	-	-	-	0:03:26.446000	0:03:32.946000	-	4959679
+habe	-	-	-	0:03:26.446000	0:03:32.946000	-	4959680
+das	-	-	-	0:03:26.446000	0:03:32.946000	-	4959681
+au	-	-	-	0:03:26.446000	0:03:32.946000	-	4959682
+dann	-	-	-	0:03:26.446000	0:03:32.946000	-	4959683
+noch	-	-	-	0:03:26.446000	0:03:32.946000	-	4959684
+nach	-	-	-	0:03:26.446000	0:03:32.946000	-	4959685
+der	-	-	-	0:03:26.446000	0:03:32.946000	-	4959686
+hauptschulzeit	-	-	-	0:03:26.446000	0:03:32.946000	-	4959687
+relativ	-	-	-	0:03:26.446000	0:03:32.946000	-	4959688
+lange	-	-	-	0:03:26.446000	0:03:32.946000	-	4959689
+relativ	-	-	-	0:03:26.446000	0:03:32.946000	-	4959691
+lange	-	-	-	0:03:26.446000	0:03:32.946000	-	4959692
+diesen	-	-	-	0:03:26.446000	0:03:32.946000	-	4959693
+diesen	-	-	-	0:03:26.446000	0:03:32.946000	-	4959694
+Chor	-	-	-	0:03:26.446000	0:03:32.946000	-	4959695
+betreut	-	-	-	0:03:26.446000	0:03:32.946000	-	4959696
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:32.946000" end="0:03:33.886000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:33.886000" end="0:03:37.506000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+erst	-	-	-	0:03:33.886000	0:03:36.119000	-	4959699
+seit	-	-	-	0:03:33.886000	0:03:36.119000	-	4959701
+ein	-	-	-	0:03:33.886000	0:03:36.119000	-	4959702
+paar	-	-	-	0:03:33.886000	0:03:36.119000	-	4959703
+Jahren	-	-	-	0:03:33.886000	0:03:36.119000	-	4959704
+nimmer	-	-	-	0:03:33.886000	0:03:36.119000	-	4959705
+also	-	-	-	0:03:36.119000	0:03:37.506000	-	4959708
+es	-	-	-	0:03:36.119000	0:03:37.506000	-	4959709
+war	-	-	-	0:03:36.119000	0:03:37.506000	-	4959711
+wirklich	-	-	-	0:03:36.119000	0:03:37.506000	-	4959712
+lang	-	-	-	0:03:36.119000	0:03:37.506000	-	4959713
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:37.506000" end="0:03:39.978000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:03:37.506000	0:03:39.978000	-	4957641
+mitgsungen	-	-	-	0:03:37.506000	0:03:39.978000	-	4957642
+haben	-	-	-	0:03:37.506000	0:03:39.978000	-	4957643
+Sie	-	-	-	0:03:37.506000	0:03:39.978000	-	4957644
+auch	-	-	-	0:03:37.506000	0:03:39.978000	-	4957645
+beim	-	-	-	0:03:37.506000	0:03:39.978000	-	4957646
+Chor	-	-	-	0:03:37.506000	0:03:39.978000	-	4957647
+oder	-	-	-	0:03:37.506000	0:03:39.978000	-	4957648
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:39.519000" end="0:03:44.846000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+nein	-	-	-	0:03:39.519000	0:03:41.426000	-	4959715
+weil	-	-	-	0:03:39.519000	0:03:41.426000	-	4959716
+das	-	-	-	0:03:39.519000	0:03:41.426000	-	4959717
+nur	-	-	-	0:03:39.519000	0:03:41.426000	-	4959718
+Mädchen	-	-	-	0:03:39.519000	0:03:41.426000	-	4959719
+sind	-	-	-	0:03:39.519000	0:03:41.426000	-	4959720
+weil	-	-	-	0:03:41.426000	0:03:44.846000	-	4959722
+weil	-	-	-	0:03:41.426000	0:03:44.846000	-	4959723
+die	-	-	-	0:03:41.426000	0:03:44.846000	-	4959724
+Burschen	-	-	-	0:03:41.426000	0:03:44.846000	-	4959725
+zu	-	-	-	0:03:41.426000	0:03:44.846000	-	4959726
+der	-	-	-	0:03:41.426000	0:03:44.846000	-	4959727
+Zeit	-	-	-	0:03:41.426000	0:03:44.846000	-	4959728
+ja	-	-	-	0:03:41.426000	0:03:44.846000	-	4959729
+in	-	-	-	0:03:41.426000	0:03:44.846000	-	4959730
+der	-	-	-	0:03:41.426000	0:03:44.846000	-	4959731
+mutation	-	-	-	0:03:41.426000	0:03:44.846000	-	4959732
+sind	-	-	-	0:03:41.426000	0:03:44.846000	-	4959733
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:41.699000" end="0:03:42.266000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:03:41.699000	0:03:42.266000	-	4957650
+so	-	-	-	0:03:41.699000	0:03:42.266000	-	4957651
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:44.846000" end="0:03:52.899000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:03:44.846000	0:03:47.606000	-	4959736
+ah	-	-	-	0:03:44.846000	0:03:47.606000	-	4959738
+wollte	-	-	-	0:03:44.846000	0:03:47.606000	-	4959739
+der	-	-	-	0:03:44.846000	0:03:47.606000	-	4959740
+Lehrer	-	-	-	0:03:44.846000	0:03:47.606000	-	4959741
+damals	-	-	-	0:03:44.846000	0:03:47.606000	-	4959742
+vermeiden	-	-	-	0:03:44.846000	0:03:47.606000	-	4959743
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit+	0:03:47.606000	0:03:52.899000	-	4959745
+ein	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit+	0:03:47.606000	0:03:52.899000	-	4959746
+mit	-	-	-	0:03:47.606000	0:03:52.899000	-	4959747
+den	-	-	-	0:03:47.606000	0:03:52.899000	-	4959748
+burschen	-	-	-	0:03:47.606000	0:03:52.899000	-	4959749
+da	-	-	-	0:03:47.606000	0:03:52.899000	-	4959750
+ah	-	-	-	0:03:47.606000	0:03:52.899000	-	4959752
+sich	-	-	-	0:03:47.606000	0:03:52.899000	-	4959754
+mit	-	-	-	0:03:47.606000	0:03:52.899000	-	4959755
+da	-	-	-	0:03:47.606000	0:03:52.899000	-	4959756
+mutation	-	-	-	0:03:47.606000	0:03:52.899000	-	4959757
+beschäftigen	-	-	-	0:03:47.606000	0:03:52.899000	-	4959758
+muss	-	-	-	0:03:47.606000	0:03:52.899000	-	4959759
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:52.639000" end="0:03:53.099000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:52.899000" end="0:03:54.966000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+er	-	-	-	0:03:52.899000	0:03:54.966000	-	4959762
+hat	-	-	-	0:03:52.899000	0:03:54.966000	-	4959763
+nur	-	-	-	0:03:52.899000	0:03:54.966000	-	4959764
+Mädels	-	-	-	0:03:52.899000	0:03:54.966000	-	4959765
+im	-	-	-	0:03:52.899000	0:03:54.966000	-	4959766
+Chor	-	-	-	0:03:52.899000	0:03:54.966000	-	4959767
+gehabt	-	-	-	0:03:52.899000	0:03:54.966000	-	4959768
+ja	-	-	-	0:03:52.899000	0:03:54.966000	-	4959769
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:54.739000" end="0:03:58.612000" persName="Informant EXP15" age_lower="1" age_upper="999">
+<<kichernd>	-	-	-	0:03:55.432000	0:03:56.159000	-	4957658
+okay;>	-	-	-	0:03:55.432000	0:03:56.159000	-	4957659
+und	-	-	-	0:03:56.159000	0:03:58.612000	-	4957663
+seit	-	-	-	0:03:56.159000	0:03:58.612000	-	4957664
+wann	-	-	-	0:03:56.159000	0:03:58.612000	-	4957665
+studieren	-	-	-	0:03:56.159000	0:03:58.612000	-	4957666
+Sie	-	-	-	0:03:56.159000	0:03:58.612000	-	4957667
+jetzt	-	-	-	0:03:56.159000	0:03:58.612000	-	4957668
+schon	-	-	-	0:03:56.159000	0:03:58.612000	-	4957669
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:03:58.612000" end="0:04:42.046000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:03:58.612000	0:04:03.939000	-	4959772
+eben	-	-	-	0:03:58.612000	0:04:03.939000	-	4959774
+diese	-	-	-	0:03:58.612000	0:04:03.939000	-	4959775
+d	-	-	-	0:03:58.612000	0:04:03.939000	-	4959776
+äh	-	-	-	0:03:58.612000	0:04:03.939000	-	4959777
+die	-	-	-	0:03:58.612000	0:04:03.939000	-	4959778
+tontechnikausbildung	-	-	-	0:03:58.612000	0:04:03.939000	-	4959779
+war	-	-	-	0:03:58.612000	0:04:03.939000	-	4959780
+circa	-	-	-	0:04:03.939000	0:04:07.026000	-	4959782
+von	-	-	-	0:04:03.939000	0:04:07.026000	-	4959783
+also	-	-	-	0:04:03.939000	0:04:07.026000	-	4959785
+ganz	-	-	-	0:04:03.939000	0:04:07.026000	-	4959786
+grob	-	-	-	0:04:03.939000	0:04:07.026000	-	4959787
+ZAHL	ZAHL	-	-	0:04:07.026000	0:04:11.732000	ZAHL	4959789
+bis	-	-	-	0:04:07.026000	0:04:11.732000	-	4959790
+oder	-	-	-	0:04:07.026000	0:04:11.732000	-	4959791
+ZAHL	ZAHL	-	-	0:04:07.026000	0:04:11.732000	ZAHL	4959792
+bis	-	-	-	0:04:07.026000	0:04:11.732000	-	4959793
+ZAHL	ZAHL	-	-	0:04:07.026000	0:04:11.732000	ZAHL	4959795
+das	-	-	-	0:04:11.732000	0:04:13.232000	-	4959798
+war	-	-	-	0:04:11.732000	0:04:13.232000	-	4959799
+em	-	-	-	0:04:11.732000	0:04:13.232000	-	4959800
+mit	-	-	-	0:04:11.732000	0:04:13.232000	-	4959801
+Pausen	-	-	-	0:04:11.732000	0:04:13.232000	-	4959802
+da	-	-	-	0:04:13.232000	0:04:15.766000	-	4959804
+war	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:13.232000	0:04:15.766000	-	4959805
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:13.232000	0:04:15.766000	-	4959806
+dazwischen	-	-	-	0:04:13.232000	0:04:15.766000	-	4959808
+an	-	-	-	0:04:13.232000	0:04:15.766000	-	4959809
+der	-	-	-	0:04:13.232000	0:04:15.766000	-	4959810
+ef	-	-	-	0:04:13.232000	0:04:15.766000	-	4959811
+ha	-	-	-	0:04:13.232000	0:04:15.766000	-	4959812
+ORT	ORT	-	-	0:04:13.232000	0:04:15.766000	ORT	4959813
+ORT	ORT	-	-	0:04:13.232000	0:04:15.766000	ORT	4959815
+habe	-	-	-	0:04:15.766000	0:04:18.906000	-	4959818
+dort	-	-	-	0:04:15.766000	0:04:18.906000	-	4959819
+probiert	-	-	-	0:04:15.766000	0:04:18.906000	-	4959820
+medientechnik	-	-	-	0:04:15.766000	0:04:18.906000	-	4959821
+zu	-	-	-	0:04:15.766000	0:04:18.906000	-	4959822
+studieren	-	-	-	0:04:15.766000	0:04:18.906000	-	4959823
+das	-	-	-	0:04:18.906000	0:04:23.266000	-	4959825
+war	-	-	-	0:04:18.906000	0:04:23.266000	-	4959826
+aber	-	-	-	0:04:18.906000	0:04:23.266000	-	4959827
+jetzt	-	-	-	0:04:18.906000	0:04:23.266000	-	4959828
+von	-	-	-	0:04:18.906000	0:04:23.266000	-	4959829
+da	-	-	-	0:04:18.906000	0:04:23.266000	-	4959830
+tontechnischen	-	-	-	0:04:18.906000	0:04:23.266000	-	4959832
+Seite	-	-	-	0:04:18.906000	0:04:23.266000	-	4959833
+für	-	-	-	0:04:18.906000	0:04:23.266000	-	4959834
+mich	-	-	-	0:04:18.906000	0:04:23.266000	-	4959835
+irgendwie	-	-	-	0:04:18.906000	0:04:23.266000	-	4959836
+zu	-	-	-	0:04:18.906000	0:04:23.266000	-	4959837
+wenig	-	-	-	0:04:18.906000	0:04:23.266000	-	4959838
+und	-	-	-	0:04:23.266000	0:04:25.032000	-	4959841
+habe	-	-	-	0:04:23.266000	0:04:25.032000	-	4959842
+dann	-	-	-	0:04:23.266000	0:04:25.032000	-	4959843
+wieder	-	-	-	0:04:23.266000	0:04:25.032000	-	4959844
+zurückgewechselt	-	-	-	0:04:23.266000	0:04:25.032000	-	4959845
+das	-	-	-	0:04:25.032000	0:04:26.632000	-	4959848
+war	-	-	-	0:04:25.032000	0:04:26.632000	-	4959849
+ein	-	-	-	0:04:25.032000	0:04:26.632000	-	4959850
+bisschen	-	-	-	0:04:25.032000	0:04:26.632000	-	4959851
+mit	-	-	-	0:04:25.032000	0:04:26.632000	-	4959852
+Unterbrechungen	-	-	-	0:04:25.032000	0:04:26.632000	-	4959853
+circa	-	-	-	0:04:26.632000	0:04:29.786000	-	4959856
+ZAHL	ZAHL	-	-	0:04:26.632000	0:04:29.786000	ZAHL	4959857
+bis	-	-	-	0:04:26.632000	0:04:29.786000	-	4959858
+ZAHL	ZAHL	-	-	0:04:26.632000	0:04:29.786000	ZAHL	4959859
+war	-	-	-	0:04:26.632000	0:04:29.786000	-	4959860
+war	-	-	-	0:04:26.632000	0:04:29.786000	-	4959862
+diese	-	-	-	0:04:26.632000	0:04:29.786000	-	4959863
+tonausbildung	-	-	-	0:04:26.632000	0:04:29.786000	-	4959864
+und	-	-	-	0:04:29.786000	0:04:34.072000	-	4959867
+dann	-	-	-	0:04:29.786000	0:04:34.072000	-	4959869
+war	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:29.786000	0:04:34.072000	-	4959870
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:29.786000	0:04:34.072000	-	4959871
+em	-	-	-	0:04:29.786000	0:04:34.072000	-	4959872
+ein	-	-	-	0:04:29.786000	0:04:34.072000	-	4959873
+zeitlang	-	-	-	0:04:29.786000	0:04:34.072000	-	4959874
+selbstständig	-	-	-	0:04:29.786000	0:04:34.072000	-	4959875
+und	-	-	-	0:04:34.072000	0:04:35.392000	-	4959877
+beim	-	-	-	0:04:34.072000	0:04:35.392000	-	4959879
+er	-	-	-	0:04:34.072000	0:04:35.392000	-	4959880
+hot	-	-	-	0:04:34.072000	0:04:35.392000	-	4959881
+ef	-	-	-	0:04:34.072000	0:04:35.392000	-	4959882
+und	-	-	-	0:04:35.392000	0:04:36.272000	-	4959884
+hin	-	-	-	0:04:35.392000	0:04:36.272000	-	4959885
+und	-	-	-	0:04:35.392000	0:04:36.272000	-	4959886
+her	-	-	-	0:04:35.392000	0:04:36.272000	-	4959887
+viele	-	-	-	0:04:36.272000	0:04:38.792000	-	4959890
+Jobs	-	-	-	0:04:36.272000	0:04:38.792000	-	4959892
+und	-	-	-	0:04:38.792000	0:04:42.046000	-	4959894
+seit	-	-	-	0:04:38.792000	0:04:42.046000	-	4959895
+ZAHL	ZAHL	-	-	0:04:38.792000	0:04:42.046000	ZAHL	4959896
+bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:38.792000	0:04:42.046000	-	4959897
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:04:38.792000	0:04:42.046000	-	4959898
+einen	-	-	-	0:04:38.792000	0:04:42.046000	-	4959899
+der	-	-	-	0:04:38.792000	0:04:42.046000	-	4959900
+Musikuni	-	-	-	0:04:38.792000	0:04:42.046000	-	4959901
+in	-	-	-	0:04:38.792000	0:04:42.046000	-	4959902
+ORT	ORT	-	-	0:04:38.792000	0:04:42.046000	ORT	4959903
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:41.579000" end="0:04:50.106000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:04:42.972000	0:04:47.852000	-	4957680
+um	-	-	-	0:04:42.972000	0:04:47.852000	-	4957681
+wieder	-	-	-	0:04:42.972000	0:04:47.852000	-	4957682
+auf	-	-	-	0:04:42.972000	0:04:47.852000	-	4957683
+den	-	-	-	0:04:42.972000	0:04:47.852000	-	4957684
+wohnort	-	-	-	0:04:42.972000	0:04:47.852000	-	4957685
+hier	-	-	-	0:04:42.972000	0:04:47.852000	-	4957686
+zu	-	-	-	0:04:42.972000	0:04:47.852000	-	4957687
+sprechen	-	-	-	0:04:42.972000	0:04:47.852000	-	4957688
+zu	-	-	-	0:04:42.972000	0:04:47.852000	-	4957689
+kommen	-	-	-	0:04:42.972000	0:04:47.852000	-	4957690
+wohnen	-	-	-	0:04:47.852000	0:04:50.106000	-	4957693
+Sie	-	-	-	0:04:47.852000	0:04:50.106000	-	4957694
+gern	-	-	-	0:04:47.852000	0:04:50.106000	-	4957695
+hier	-	-	-	0:04:47.852000	0:04:50.106000	-	4957696
+in	-	-	-	0:04:47.852000	0:04:50.106000	-	4957697
+ORT	ORT	-	-	0:04:47.852000	0:04:50.106000	ORT	4957698
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:04:50.106000" end="0:05:41.452000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+sehr	-	-	-	0:04:52.252000	0:04:54.652000	-	4959908
+schwierige	-	-	-	0:04:52.252000	0:04:54.652000	-	4959909
+Frage	-	-	-	0:04:52.252000	0:04:54.652000	-	4959910
+ah	-	-	-	0:04:57.192000	0:04:59.919000	-	4959913
+einerseits	-	-	-	0:04:57.192000	0:04:59.919000	-	4959915
+ja	-	-	-	0:04:57.192000	0:04:59.919000	-	4959916
+ah	-	-	-	0:04:59.919000	0:05:05.452000	-	4959919
+weil	-	-	-	0:04:59.919000	0:05:05.452000	-	4959920
+weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:04:59.919000	0:05:05.452000	-	4959922
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:04:59.919000	0:05:05.452000	-	4959923
+schon	-	-	-	0:04:59.919000	0:05:05.452000	-	4959924
+trotz	-	-	-	0:04:59.919000	0:05:05.452000	-	4959925
+allem	-	-	-	0:04:59.919000	0:05:05.452000	-	4959926
+noch	-	-	-	0:05:07.452000	0:05:10.492000	-	4959929
+eine	-	-	-	0:05:07.452000	0:05:10.492000	-	4959930
+örtliche	-	-	-	0:05:07.452000	0:05:10.492000	-	4959931
+Struktur	-	-	-	0:05:07.452000	0:05:10.492000	-	4959932
+gibt	-	-	-	0:05:07.452000	0:05:10.492000	-	4959933
+viele	-	-	-	0:05:10.492000	0:05:13.686000	-	4959935
+Leute	-	-	-	0:05:10.492000	0:05:13.686000	-	4959936
+kennen	-	-	-	0:05:10.492000	0:05:13.686000	-	4959938
+einander	-	-	-	0:05:10.492000	0:05:13.686000	-	4959939
+es	-	-	-	0:05:13.686000	0:05:17.292000	-	4959942
+ja	-	-	-	0:05:13.686000	0:05:17.292000	-	4959944
+es	-	-	-	0:05:17.292000	0:05:20.512000	-	4959947
+gibt	-	-	-	0:05:17.292000	0:05:20.512000	-	4959948
+so	-	-	-	0:05:17.292000	0:05:20.512000	-	4959949
+eine	-	-	-	0:05:17.292000	0:05:20.512000	-	4959950
+gewisse	-	-	-	0:05:17.292000	0:05:20.512000	-	4959951
+ich	-	-	-	0:05:20.512000	0:05:24.806000	-	4959954
+weiß	-	-	-	0:05:20.512000	0:05:24.806000	-	4959955
+nicht	-	-	-	0:05:20.512000	0:05:24.806000	-	4959956
+Gemeinschaft	-	-	-	0:05:20.512000	0:05:24.806000	-	4959957
+ist	-	-	-	0:05:20.512000	0:05:24.806000	-	4959958
+übertrieben	-	-	-	0:05:20.512000	0:05:24.806000	-	4959959
+ja	-	-	-	0:05:24.806000	0:05:25.926000	-	4959963
+ich	-	-	-	0:05:25.926000	0:05:28.846000	-	4959966
+bin	-	-	-	0:05:25.926000	0:05:28.846000	-	4959967
+einfach	-	-	-	0:05:25.926000	0:05:28.846000	-	4959968
+immer	-	-	-	0:05:25.926000	0:05:28.846000	-	4959969
+da	-	-	-	0:05:25.926000	0:05:28.846000	-	4959970
+gwesen	-	-	-	0:05:25.926000	0:05:28.846000	-	4959971
+man	-	-	-	0:05:28.846000	0:05:30.946000	-	4959974
+kennt	-	-	-	0:05:28.846000	0:05:30.946000	-	4959975
+viele	-	-	-	0:05:28.846000	0:05:30.946000	-	4959976
+Leute	-	-	-	0:05:28.846000	0:05:30.946000	-	4959977
+und	-	-	-	0:05:28.846000	0:05:30.946000	-	4959978
+aber	-	-	-	0:05:30.946000	0:05:34.812000	-	4959981
+rein	-	-	-	0:05:30.946000	0:05:34.812000	-	4959982
+so	-	-	-	0:05:30.946000	0:05:34.812000	-	4959983
+situativ	-	-	-	0:05:30.946000	0:05:34.812000	-	4959984
+ah	-	-	-	0:05:34.812000	0:05:38.246000	-	4959986
+dadurch	-	-	-	0:05:34.812000	0:05:38.246000	-	4959987
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:05:34.812000	0:05:38.246000	-	4959988
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:05:34.812000	0:05:38.246000	-	4959989
+jetzt	-	-	-	0:05:34.812000	0:05:38.246000	-	4959990
+die	-	-	-	0:05:34.812000	0:05:38.246000	-	4959991
+letzten	-	-	-	0:05:34.812000	0:05:38.246000	-	4959992
+eineinhalb	-	-	-	0:05:34.812000	0:05:38.246000	-	4959993
+Jahre	-	-	-	0:05:34.812000	0:05:38.246000	-	4959994
+in	-	-	-	0:05:34.812000	0:05:38.246000	-	4959995
+ORT	ORT	-	-	0:05:34.812000	0:05:38.246000	ORT	4959996
+war	-	-	-	0:05:34.812000	0:05:38.246000	-	4959997
+das	-	-	-	0:05:38.246000	0:05:41.452000	-	4959999
+wäre	-	-	-	0:05:38.246000	0:05:41.452000	-	4960000
+für	-	-	-	0:05:38.246000	0:05:41.452000	-	4960001
+mich	-	-	-	0:05:38.246000	0:05:41.452000	-	4960002
+so	-	-	-	0:05:38.246000	0:05:41.452000	-	4960003
+so	-	-	-	0:05:38.246000	0:05:41.452000	-	4960005
+ziemlich	-	-	-	0:05:38.246000	0:05:41.452000	-	4960006
+ein	-	-	-	0:05:38.246000	0:05:41.452000	-	4960007
+paradies	-	-	-	0:05:38.246000	0:05:41.452000	-	4960008
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:41.452000" end="0:05:42.366000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:05:42.366000" end="0:06:04.799000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:05:42.366000	0:05:44.326000	-	4960010
+ist	-	-	-	0:05:42.366000	0:05:44.326000	-	4960011
+halt	-	-	-	0:05:42.366000	0:05:44.326000	-	4960013
+viel	-	-	-	0:05:42.366000	0:05:44.326000	-	4960014
+ruhiger	-	-	-	0:05:42.366000	0:05:44.326000	-	4960015
+ländlicher	-	-	-	0:05:44.326000	0:05:45.146000	-	4960017
+gibt	-	-	-	0:05:45.146000	0:05:45.866000	-	4960020
+ah	-	-	-	0:05:45.866000	0:05:51.106000	-	4960023
+die	-	-	-	0:05:45.866000	0:05:51.106000	-	4960025
+Landschaft	-	-	-	0:05:45.866000	0:05:51.106000	-	4960026
+ist	-	-	-	0:05:45.866000	0:05:51.106000	-	4960027
+ein	-	-	-	0:05:45.866000	0:05:51.106000	-	4960028
+bisschen	-	-	-	0:05:45.866000	0:05:51.106000	-	4960029
+halt	-	-	-	0:05:45.866000	0:05:51.106000	-	4960030
+ja	-	-	-	0:05:45.866000	0:05:51.106000	-	4960032
+für	-	-	-	0:05:51.106000	0:05:52.599000	-	4960035
+mich	-	-	-	0:05:51.106000	0:05:52.599000	-	4960036
+schöner	-	-	-	0:05:51.106000	0:05:52.599000	-	4960037
+es	-	-	-	0:05:52.599000	0:05:54.312000	-	4960039
+ge	-	-	-	0:05:52.599000	0:05:54.312000	-	4960040
+ist	-	-	-	0:05:52.599000	0:05:54.312000	-	4960041
+schon	-	-	-	0:05:52.599000	0:05:54.312000	-	4960042
+ein	-	-	-	0:05:52.599000	0:05:54.312000	-	4960043
+bisschen	-	-	-	0:05:52.599000	0:05:54.312000	-	4960044
+hügeliger	-	-	-	0:05:52.599000	0:05:54.312000	-	4960045
+gibt	-	-	-	0:05:54.312000	0:05:55.279000	-	4960048
+weingärten	-	-	-	0:05:54.312000	0:05:55.279000	-	4960049
+gehst	-	-	-	0:05:55.279000	0:05:58.592000	-	4960052
+bei	-	-	-	0:05:55.279000	0:05:58.592000	-	4960053
+der	-	-	-	0:05:55.279000	0:05:58.592000	-	4960054
+Tür	-	-	-	0:05:55.279000	0:05:58.592000	-	4960055
+raus	-	-	-	0:05:55.279000	0:05:58.592000	-	4960056
+bist	-	-	-	0:05:55.279000	0:05:58.592000	-	4960057
+sofort	-	-	-	0:05:55.279000	0:05:58.592000	-	4960058
+im	-	-	-	0:05:55.279000	0:05:58.592000	-	4960059
+im	-	-	-	0:05:55.279000	0:05:58.592000	-	4960061
+Weingarten	-	-	-	0:05:55.279000	0:05:58.592000	-	4960062
+und	-	-	-	0:06:00.446000	0:06:03.272000	-	4960068
+es	-	-	-	0:06:00.446000	0:06:03.272000	-	4960069
+ich	-	-	-	0:06:00.446000	0:06:03.272000	-	4960070
+es	-	-	-	0:06:00.446000	0:06:03.272000	-	4960071
+ist	-	-	-	0:06:00.446000	0:06:03.272000	-	4960072
+einfach	-	-	-	0:06:00.446000	0:06:03.272000	-	4960073
+ruhiger	-	-	-	0:06:00.446000	0:06:03.272000	-	4960074
+bei	-	-	-	0:06:03.272000	0:06:04.799000	-	4960077
+uns	-	-	-	0:06:03.272000	0:06:04.799000	-	4960078
+es	-	-	-	0:06:03.272000	0:06:04.799000	-	4960079
+ist	-	-	-	0:06:03.272000	0:06:04.799000	-	4960080
+wirklich	-	-	-	0:06:03.272000	0:06:04.799000	-	4960081
+schon	-	-	-	0:06:03.272000	0:06:04.799000	-	4960082
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:03.712000" end="0:06:04.146000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:04.799000" end="0:06:06.146000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+wird	-	-	-	0:06:04.799000	0:06:06.146000	-	4960085
+immer	-	-	-	0:06:04.799000	0:06:06.146000	-	4960086
+urbaner	-	-	-	0:06:04.799000	0:06:06.146000	-	4960087
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:06.146000" end="0:06:06.806000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:06.806000" end="0:06:09.386000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:06:06.806000	0:06:09.386000	-	4960090
+wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:06:06.806000	0:06:09.386000	-	4960091
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:06:06.806000	0:06:09.386000	-	4960092
+eigentlich	-	-	-	0:06:06.806000	0:06:09.386000	-	4960093
+schon	-	-	-	0:06:06.806000	0:06:09.386000	-	4960094
+zu	-	-	-	0:06:06.806000	0:06:09.386000	-	4960096
+Urban	-	-	-	0:06:06.806000	0:06:09.386000	-	4960097
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:09.386000" end="0:06:12.552000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ist	-	-	-	0:06:09.386000	0:06:11.759000	-	4957711
+ja	-	-	-	0:06:09.386000	0:06:11.759000	-	4957712
+auch	-	-	-	0:06:09.386000	0:06:11.759000	-	4957713
+nicht	-	-	-	0:06:09.386000	0:06:11.759000	-	4957714
+so	-	-	-	0:06:09.386000	0:06:11.759000	-	4957715
+weit	-	-	-	0:06:09.386000	0:06:11.759000	-	4957716
+von	-	-	-	0:06:09.386000	0:06:11.759000	-	4957717
+der	-	-	-	0:06:09.386000	0:06:11.759000	-	4957718
+Stadt	-	-	-	0:06:09.386000	0:06:11.759000	-	4957719
+entfernt	-	-	-	0:06:09.386000	0:06:11.759000	-	4957720
+also	-	-	-	0:06:11.759000	0:06:12.552000	-	4957723
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:11.759000" end="0:06:15.426000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:06:11.759000	0:06:15.426000	-	4960100
+und	-	-	-	0:06:11.759000	0:06:15.426000	-	4960101
+ORT	ORT	-	-	0:06:11.759000	0:06:15.426000	ORT	4960102
+hat	-	-	-	0:06:11.759000	0:06:15.426000	-	4960103
+auch	-	-	-	0:06:11.759000	0:06:15.426000	-	4960104
+schon	-	-	-	0:06:11.759000	0:06:15.426000	-	4960105
+weit	-	-	-	0:06:11.759000	0:06:15.426000	-	4960106
+über	-	-	-	0:06:11.759000	0:06:15.426000	-	4960107
+zehntausend	-	-	-	0:06:11.759000	0:06:15.426000	-	4960108
+Einwohner	-	-	-	0:06:11.759000	0:06:15.426000	-	4960109
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:15.426000" end="0:06:15.966000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:15.966000" end="0:06:25.059000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:06:15.966000	0:06:20.426000	-	4960111
+wir	-	-	-	0:06:15.966000	0:06:20.426000	-	4960112
+haben	-	-	-	0:06:15.966000	0:06:20.426000	-	4960113
+sehr	-	-	-	0:06:15.966000	0:06:20.426000	-	4960114
+viel	-	-	-	0:06:15.966000	0:06:20.426000	-	4960115
+äh	-	-	-	0:06:15.966000	0:06:20.426000	-	4960116
+industrie	-	-	-	0:06:15.966000	0:06:20.426000	-	4960118
+eigentlich	-	-	-	0:06:15.966000	0:06:20.426000	-	4960119
+im	-	-	-	0:06:15.966000	0:06:20.426000	-	4960120
+Ort	-	-	-	0:06:15.966000	0:06:20.426000	-	4960121
+sehr	-	-	-	0:06:20.426000	0:06:25.059000	-	4960124
+viel	-	-	-	0:06:20.426000	0:06:25.059000	-	4960125
+also	-	-	-	0:06:20.426000	0:06:25.059000	-	4960126
+sicher	-	-	-	0:06:20.426000	0:06:25.059000	-	4960127
+drei	-	-	-	0:06:20.426000	0:06:25.059000	-	4960129
+vier	-	-	-	0:06:20.426000	0:06:25.059000	-	4960130
+fünf	-	-	-	0:06:20.426000	0:06:25.059000	-	4960131
+äh	-	-	-	0:06:20.426000	0:06:25.059000	-	4960132
+betonwerke	-	-	-	0:06:20.426000	0:06:25.059000	-	4960133
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:25.059000" end="0:06:25.366000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:25.059000" end="0:06:46.506000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+betonfertigteilhersteller	-	-	-	0:06:25.059000	0:06:27.192000	-	4960136
+und	-	-	-	0:06:27.192000	0:06:31.712000	-	4960139
+jetzt	-	-	-	0:06:27.192000	0:06:31.712000	-	4960140
+eben	-	-	-	0:06:27.192000	0:06:31.712000	-	4960141
+mit	-	-	-	0:06:27.192000	0:06:31.712000	-	4960142
+dem	-	-	-	0:06:27.192000	0:06:31.712000	-	4960143
+neuen	-	-	-	0:06:27.192000	0:06:31.712000	-	4960144
+Haus	-	-	-	0:06:27.192000	0:06:31.712000	-	4960145
+hier	-	-	-	0:06:27.192000	0:06:31.712000	-	4960146
+man	-	-	-	0:06:31.712000	0:06:34.279000	-	4960148
+sieht	-	-	-	0:06:31.712000	0:06:34.279000	-	4960149
+raus	-	-	-	0:06:31.712000	0:06:34.279000	-	4960150
+auf	-	-	-	0:06:31.712000	0:06:34.279000	-	4960151
+die	-	-	-	0:06:31.712000	0:06:34.279000	-	4960152
+ORT	ORT	-	-	0:06:31.712000	0:06:34.279000	ORT	4960153
+Straße	-	-	-	0:06:31.712000	0:06:34.279000	-	4960154
+nicht	-	-	-	0:06:34.279000	0:06:35.172000	-	4960156
+mehr	-	-	-	0:06:34.279000	0:06:35.172000	-	4960157
+lange	-	-	-	0:06:34.279000	0:06:35.172000	-	4960158
+weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:06:35.172000	0:06:37.558000	-	4960160
+wir	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:06:35.172000	0:06:37.558000	-	4960161
+jetzt	-	-	-	0:06:35.172000	0:06:37.558000	-	4960163
+eh	-	-	-	0:06:35.172000	0:06:37.558000	-	4960164
+was	-	-	-	0:06:35.172000	0:06:37.558000	-	4960165
+davor	-	-	-	0:06:35.172000	0:06:37.558000	-	4960166
+hinbauen	-	-	-	0:06:35.172000	0:06:37.558000	-	4960167
+aber	-	-	-	0:06:37.558000	0:06:41.332000	-	4960170
+diese	-	-	-	0:06:37.558000	0:06:41.332000	-	4960171
+ganzen	-	-	-	0:06:37.558000	0:06:41.332000	-	4960172
+ah	-	-	-	0:06:37.558000	0:06:41.332000	-	4960173
+gewerbetreibenden	-	-	-	0:06:37.558000	0:06:41.332000	-	4960174
+äh	-	-	-	0:06:41.332000	0:06:46.506000	-	4960177
+die	-	-	-	0:06:41.332000	0:06:46.506000	-	4960179
+fahren	-	-	-	0:06:41.332000	0:06:46.506000	-	4960180
+alle	-	-	-	0:06:41.332000	0:06:46.506000	-	4960181
+mit	-	-	-	0:06:41.332000	0:06:46.506000	-	4960182
+Ihren	-	-	-	0:06:41.332000	0:06:46.506000	-	4960183
+Autos	-	-	-	0:06:41.332000	0:06:46.506000	-	4960184
+eben	-	-	-	0:06:41.332000	0:06:46.506000	-	4960185
+da	-	-	-	0:06:41.332000	0:06:46.506000	-	4960186
+auf	-	-	-	0:06:41.332000	0:06:46.506000	-	4960187
+und	-	-	-	0:06:41.332000	0:06:46.506000	-	4960188
+ab	-	-	-	0:06:41.332000	0:06:46.506000	-	4960189
+vorbei	-	-	-	0:06:41.332000	0:06:46.506000	-	4960190
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:46.506000" end="0:06:47.492000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:46.506000" end="0:06:50.799000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:06:46.506000	0:06:50.799000	-	4960193
+das	-	-	-	0:06:46.506000	0:06:50.799000	-	4960194
+ist	-	-	-	0:06:46.506000	0:06:50.799000	-	4960195
+schon	-	-	-	0:06:46.506000	0:06:50.799000	-	4960196
+eine	-	-	-	0:06:46.506000	0:06:50.799000	-	4960198
+gewisse	-	-	-	0:06:46.506000	0:06:50.799000	-	4960199
+Belastung	-	-	-	0:06:46.506000	0:06:50.799000	-	4960200
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:50.799000" end="0:06:51.499000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ja	-	-	-	0:06:50.799000	0:06:51.499000	-	4957736
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:50.799000" end="0:06:52.058000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+sage	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:06:50.799000	0:06:52.058000	-	4960203
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:06:50.799000	0:06:52.058000	-	4960204
+ehrlich	-	-	-	0:06:50.799000	0:06:52.058000	-	4960205
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:52.058000" end="0:06:56.739000" persName="Informant EXP15" age_lower="1" age_upper="999">
+würde	-	-	-	0:06:53.579000	0:06:56.739000	-	4957742
+es	-	-	-	0:06:53.579000	0:06:56.739000	-	4957743
+Ihnen	-	-	-	0:06:53.579000	0:06:56.739000	-	4957744
+schwer	-	-	-	0:06:53.579000	0:06:56.739000	-	4957745
+fallen	-	-	-	0:06:53.579000	0:06:56.739000	-	4957746
+von	-	-	-	0:06:53.579000	0:06:56.739000	-	4957747
+hier	-	-	-	0:06:53.579000	0:06:56.739000	-	4957748
+wegzuziehen	-	-	-	0:06:53.579000	0:06:56.739000	-	4957749
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:06:56.739000" end="0:07:03.159000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:06:56.739000	0:06:59.759000	-	4960208
+kommt	-	-	-	0:06:56.739000	0:06:59.759000	-	4960209
+sehr	-	-	-	0:06:56.739000	0:06:59.759000	-	4960210
+darauf	-	-	-	0:06:56.739000	0:06:59.759000	-	4960211
+an	-	-	-	0:06:56.739000	0:06:59.759000	-	4960212
+wohin	-	-	-	0:06:56.739000	0:06:59.759000	-	4960213
+in	-	-	-	0:06:59.759000	0:07:03.159000	-	4960216
+in	-	-	-	0:06:59.759000	0:07:03.159000	-	4960218
+die	-	-	-	0:06:59.759000	0:07:03.159000	-	4960219
+nähere	-	-	-	0:06:59.759000	0:07:03.159000	-	4960220
+Umgebung	-	-	-	0:06:59.759000	0:07:03.159000	-	4960221
+nicht	-	-	-	0:06:59.759000	0:07:03.159000	-	4960223
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:03.159000" end="0:07:03.839000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:07:03.839000" end="0:07:08.292000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+auf	-	-	-	0:07:03.839000	0:07:04.812000	-	4960225
+keinen	-	-	-	0:07:03.839000	0:07:04.812000	-	4960226
+Fall	-	-	-	0:07:03.839000	0:07:04.812000	-	4960227
+weiter	-	-	-	0:07:04.812000	0:07:08.292000	-	4960230
+weg	-	-	-	0:07:04.812000	0:07:08.292000	-	4960231
+irgendwie	-	-	-	0:07:04.812000	0:07:08.292000	-	4960232
+schon	-	-	-	0:07:04.812000	0:07:08.292000	-	4960233
+ja	-	-	-	0:07:04.812000	0:07:08.292000	-	4960234
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:08.292000" end="0:07:15.165000" persName="Informant EXP15" age_lower="1" age_upper="999">
+also	-	-	-	0:07:08.292000	0:07:10.739000	-	4957756
+sie	-	-	-	0:07:08.292000	0:07:10.739000	-	4957757
+könnten	-	-	-	0:07:08.292000	0:07:10.739000	-	4957758
+sich	-	-	-	0:07:08.292000	0:07:10.739000	-	4957759
+es	-	-	-	0:07:08.292000	0:07:10.739000	-	4957760
+aber	-	-	-	0:07:08.292000	0:07:10.739000	-	4957761
+durchaus	-	-	-	0:07:08.292000	0:07:10.739000	-	4957762
+vorstellen	-	-	-	0:07:08.292000	0:07:10.739000	-	4957763
+jetzt	-	-	-	0:07:10.739000	0:07:15.165000	-	4957766
+unabhängig	-	-	-	0:07:10.739000	0:07:15.165000	-	4957767
+davon	-	-	-	0:07:10.739000	0:07:15.165000	-	4957768
+dass	-	-	-	0:07:10.739000	0:07:15.165000	-	4957769
+Sie	-	-	-	0:07:10.739000	0:07:15.165000	-	4957770
+<<kichernd>	-	-	-	0:07:10.739000	0:07:15.165000	-	4957771
+grade	-	-	-	0:07:10.739000	0:07:15.165000	-	4957772
+ihr	-	-	-	0:07:10.739000	0:07:15.165000	-	4957773
+haus>	-	-	-	0:07:10.739000	0:07:15.165000	-	4957774
+baut	-	-	-	0:07:10.739000	0:07:15.165000	-	4957776
+haben	-	-	-	0:07:10.739000	0:07:15.165000	-	4957777
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:07:10.739000" end="0:07:18.305000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:07:10.739000	0:07:12.799000	-	4960237
+ich	-	-	-	0:07:10.739000	0:07:12.799000	-	4960238
+es	-	-	-	0:07:15.419000	0:07:17.772000	-	4960242
+könnte	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:07:15.419000	0:07:17.772000	-	4960243
+ich	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+|KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:07:15.419000	0:07:17.772000	-	4960244
+mir	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:07:15.419000	0:07:17.772000	-	4960245
+durchaus	-	-	-	0:07:15.419000	0:07:17.772000	-	4960246
+vorstellen	-	-	-	0:07:15.419000	0:07:17.772000	-	4960247
+schon	-	-	-	0:07:17.772000	0:07:18.305000	-	4960250
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:18.305000" end="0:07:25.459000" persName="Informant EXP15" age_lower="1" age_upper="999">
+darf	-	-	-	0:07:20.952000	0:07:24.372000	-	4957787
+ich	-	-	-	0:07:20.952000	0:07:24.372000	-	4957788
+Sie	-	-	-	0:07:20.952000	0:07:24.372000	-	4957789
+fragen	-	-	-	0:07:20.952000	0:07:24.372000	-	4957790
+wie	-	-	-	0:07:20.952000	0:07:24.372000	-	4957791
+Ihre	-	-	-	0:07:20.952000	0:07:24.372000	-	4957792
+Freizeitgestaltung	-	-	-	0:07:20.952000	0:07:24.372000	-	4957793
+aussieht	-	-	-	0:07:20.952000	0:07:24.372000	-	4957794
+haben	-	-	-	0:07:24.372000	0:07:25.459000	-	4957796
+sie	-	-	-	0:07:24.372000	0:07:25.459000	-	4957797
+Hobbys	-	-	-	0:07:24.372000	0:07:25.459000	-	4957798
+oder	-	-	-	0:07:24.372000	0:07:25.459000	-	4957799
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:07:25.459000" end="0:07:33.759000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:07:27.459000	0:07:28.052000	-	4960253
+es	-	-	-	0:07:28.052000	0:07:29.519000	-	4960256
+war	-	-	-	0:07:28.052000	0:07:29.519000	-	4960257
+eigentlich	-	-	-	0:07:28.052000	0:07:29.519000	-	4960258
+immer	-	-	-	0:07:28.052000	0:07:29.519000	-	4960259
+ich	-	-	-	0:07:29.519000	0:07:33.759000	-	4960262
+habe	-	-	-	0:07:29.519000	0:07:33.759000	-	4960263
+eigentlich	-	-	-	0:07:29.519000	0:07:33.759000	-	4960264
+meine	-	-	-	0:07:29.519000	0:07:33.759000	-	4960265
+Hobbys	-	-	-	0:07:29.519000	0:07:33.759000	-	4960267
+zum	-	-	-	0:07:29.519000	0:07:33.759000	-	4960269
+<<kichernd>	-	-	-	0:07:29.519000	0:07:33.759000	-	4960270
+Beruf	-	-	-	0:07:29.519000	0:07:33.759000	-	4960271
+gmocht;>	-	-	-	0:07:29.519000	0:07:33.759000	-	4960272
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:33.759000" end="0:07:35.472000" persName="Informant EXP15" age_lower="1" age_upper="999">
+schön	-	-	-	0:07:34.365000	0:07:35.472000	-	4957803
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:07:34.365000" end="0:08:02.072000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ah	-	-	-	0:07:34.365000	0:07:35.219000	-	4960274
+Musik	-	-	-	0:07:35.472000	0:07:37.745000	-	4960277
+war	-	-	-	0:07:35.472000	0:07:37.745000	-	4960278
+immer	-	-	-	0:07:35.472000	0:07:37.745000	-	4960279
+mein	-	-	-	0:07:35.472000	0:07:37.745000	-	4960280
+Hobby	-	-	-	0:07:35.472000	0:07:37.745000	-	4960281
+wird	-	-	-	0:07:37.745000	0:07:39.232000	-	4960284
+jetzt	-	-	-	0:07:37.745000	0:07:39.232000	-	4960285
+immer	-	-	-	0:07:37.745000	0:07:39.232000	-	4960286
+mehr	-	-	-	0:07:37.745000	0:07:39.232000	-	4960287
+da	-	-	-	0:07:37.745000	0:07:39.232000	-	4960288
+Beruf	-	-	-	0:07:37.745000	0:07:39.232000	-	4960289
+hmpf	-	-	-	0:07:39.232000	0:07:40.485000	-	4960292
+das	-	-	-	0:07:40.485000	0:07:43.172000	-	4960295
+ist	-	-	-	0:07:40.485000	0:07:43.172000	-	4960296
+dann	-	-	-	0:07:40.485000	0:07:43.172000	-	4960297
+oft	-	-	-	0:07:40.485000	0:07:43.172000	-	4960298
+so	-	-	-	0:07:40.485000	0:07:43.172000	-	4960299
+dass	-	-	-	0:07:40.485000	0:07:43.172000	-	4960300
+man	-	-	-	0:07:40.485000	0:07:43.172000	-	4960301
+dann	-	-	-	0:07:43.172000	0:07:46.712000	-	4960304
+sonst	-	-	-	0:07:43.172000	0:07:46.712000	-	4960305
+keine	-	-	-	0:07:43.172000	0:07:46.712000	-	4960307
+Lust	-	-	-	0:07:43.172000	0:07:46.712000	-	4960308
+mehr	-	-	-	0:07:43.172000	0:07:46.712000	-	4960309
+hat	-	-	-	0:07:43.172000	0:07:46.712000	-	4960310
+oder	-	-	-	0:07:46.712000	0:07:47.659000	-	4960312
+nimmer	-	-	-	0:07:46.712000	0:07:47.659000	-	4960313
+so	-	-	-	0:07:46.712000	0:07:47.659000	-	4960314
+viel	-	-	-	0:07:46.712000	0:07:47.659000	-	4960315
+weil	-	-	-	0:07:47.659000	0:07:51.225000	-	4960317
+man	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(akk.) klit+	0:07:47.659000	0:07:51.225000	-	4960318
+ist	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(akk.) klit+	0:07:47.659000	0:07:51.225000	-	4960319
+eh	-	-	-	0:07:47.659000	0:07:51.225000	-	4960320
+so	-	-	-	0:07:47.659000	0:07:51.225000	-	4960321
+viel	-	-	-	0:07:47.659000	0:07:51.225000	-	4960323
+betreiben	-	-	-	0:07:47.659000	0:07:51.225000	-	4960324
+muss	-	-	-	0:07:47.659000	0:07:51.225000	-	4960325
+ja	-	-	-	0:07:51.225000	0:07:52.965000	-	4960328
+sonst	-	-	-	0:07:51.225000	0:07:52.965000	-	4960329
+Hobbys	-	-	-	0:07:51.225000	0:07:52.965000	-	4960330
+ich	-	-	-	0:07:52.965000	0:07:54.045000	-	4960333
+bastel	-	-	-	0:07:52.965000	0:07:54.045000	-	4960334
+ganz	-	-	-	0:07:52.965000	0:07:54.045000	-	4960335
+gern	-	-	-	0:07:52.965000	0:07:54.045000	-	4960336
+f	-	-	-	0:07:54.045000	0:07:57.425000	-	4960339
+mache	-	-	-	0:07:54.045000	0:07:57.425000	-	4960340
+teilweise	-	-	-	0:07:57.425000	0:07:59.585000	-	4960344
+auch	-	-	-	0:07:57.425000	0:07:59.585000	-	4960345
+mit	-	-	-	0:07:57.425000	0:07:59.585000	-	4960346
+n	-	-	-	0:07:57.425000	0:07:59.585000	-	4960347
+Beruf	-	-	-	0:07:57.425000	0:07:59.585000	-	4960348
+verbunden	-	-	-	0:07:57.425000	0:07:59.585000	-	4960349
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:07:59.585000	0:08:02.072000	-	4960352
+immer	-	-	-	0:07:59.585000	0:08:02.072000	-	4960353
+irgendwas	-	-	-	0:07:59.585000	0:08:02.072000	-	4960354
+bauen	-	-	-	0:07:59.585000	0:08:02.072000	-	4960355
+muss	-	-	-	0:07:59.585000	0:08:02.072000	-	4960356
+fürs	-	-	-	0:07:59.585000	0:08:02.072000	-	4960357
+gewerbe	-	-	-	0:07:59.585000	0:08:02.072000	-	4960358
+und	-	-	-	0:07:59.585000	0:08:02.072000	-	4960359
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:00.665000" end="0:08:01.152000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:02.072000" end="0:08:07.225000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+irgendwelche	-	-	-	0:08:02.072000	0:08:04.785000	-	4960362
+holzkisten	-	-	-	0:08:02.072000	0:08:04.785000	-	4960363
+oder	-	-	-	0:08:02.072000	0:08:04.785000	-	4960364
+also	-	-	-	0:08:02.072000	0:08:04.785000	-	4960365
+es	-	-	-	0:08:04.785000	0:08:07.225000	-	4960368
+gibt	-	-	-	0:08:04.785000	0:08:07.225000	-	4960369
+immer	-	-	-	0:08:04.785000	0:08:07.225000	-	4960370
+irgendwas	-	-	-	0:08:04.785000	0:08:07.225000	-	4960371
+zum	-	-	-	0:08:04.785000	0:08:07.225000	-	4960372
+Basteln	-	-	-	0:08:04.785000	0:08:07.225000	-	4960373
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:07.225000" end="0:08:07.885000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:07.885000" end="0:08:13.399000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:08:07.885000	0:08:09.605000	-	4960376
+ist	-	-	-	0:08:07.885000	0:08:09.605000	-	4960377
+ein	-	-	-	0:08:07.885000	0:08:09.605000	-	4960378
+Hobby	-	-	-	0:08:07.885000	0:08:09.605000	-	4960379
+ja	-	-	-	0:08:09.605000	0:08:11.979000	-	4960383
+bisschen	-	-	-	0:08:09.605000	0:08:11.979000	-	4960385
+natürlich	-	-	-	0:08:09.605000	0:08:11.979000	-	4960386
+Sport	-	-	-	0:08:09.605000	0:08:11.979000	-	4960387
+soweit	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:08:11.979000	0:08:13.399000	-	4960390
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:08:11.979000	0:08:13.399000	-	4960391
+geht	-	-	-	0:08:11.979000	0:08:13.399000	-	4960392
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:13.399000" end="0:08:22.739000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:08:14.039000	0:08:15.739000	-	4957815
+wenn	-	-	-	0:08:14.039000	0:08:15.739000	-	4957816
+Sie	-	-	-	0:08:14.039000	0:08:15.739000	-	4957817
+da	-	-	-	0:08:14.039000	0:08:15.739000	-	4957818
+so	-	-	-	0:08:14.039000	0:08:15.739000	-	4957819
+Basteln	-	-	-	0:08:14.039000	0:08:15.739000	-	4957820
+was	-	-	-	0:08:15.739000	0:08:18.699000	-	4957824
+gefällt	-	-	-	0:08:15.739000	0:08:18.699000	-	4957825
+Ihnen	-	-	-	0:08:15.739000	0:08:18.699000	-	4957826
+da	-	-	-	0:08:15.739000	0:08:18.699000	-	4957827
+besonders	-	-	-	0:08:15.739000	0:08:18.699000	-	4957828
+daran	-	-	-	0:08:15.739000	0:08:18.699000	-	4957829
+also	-	-	-	0:08:18.699000	0:08:22.272000	-	4957831
+liegt	-	-	-	0:08:18.699000	0:08:22.272000	-	4957833
+es	-	-	-	0:08:18.699000	0:08:22.272000	-	4957834
+daran	-	-	-	0:08:18.699000	0:08:22.272000	-	4957835
+dass	-	-	-	0:08:18.699000	0:08:22.272000	-	4957836
+sie	-	-	-	0:08:18.699000	0:08:22.272000	-	4957837
+da	-	-	-	0:08:18.699000	0:08:22.272000	-	4957838
+mit	-	-	-	0:08:18.699000	0:08:22.272000	-	4957839
+Holz	-	-	-	0:08:18.699000	0:08:22.272000	-	4957840
+arbeiten	-	-	-	0:08:18.699000	0:08:22.272000	-	4957842
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:22.272000" end="0:08:23.679000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:08:22.272000	0:08:23.679000	-	4960394
+ich	-	-	-	0:08:22.272000	0:08:23.679000	-	4960395
+habe	-	-	-	0:08:22.272000	0:08:23.679000	-	4960396
+Holz	-	-	-	0:08:22.272000	0:08:23.679000	-	4960397
+sehr	-	-	-	0:08:22.272000	0:08:23.679000	-	4960398
+gern	-	-	-	0:08:22.272000	0:08:23.679000	-	4960399
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:23.679000" end="0:08:24.019000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:24.019000" end="0:08:26.752000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+allgemein	-	-	-	0:08:24.019000	0:08:26.752000	-	4960402
+als	-	-	-	0:08:24.019000	0:08:26.752000	-	4960403
+Stoff	-	-	-	0:08:24.019000	0:08:26.752000	-	4960405
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:26.752000" end="0:08:27.345000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:26.752000" end="0:08:28.912000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+sieht	-	-	-	0:08:26.752000	0:08:28.912000	-	4960408
+man	-	-	-	0:08:26.752000	0:08:28.912000	-	4960409
+auch	-	-	-	0:08:26.752000	0:08:28.912000	-	4960410
+da	-	-	-	0:08:26.752000	0:08:28.912000	-	4960411
+herinnen	-	-	-	0:08:26.752000	0:08:28.912000	-	4960412
+vielleicht	-	-	-	0:08:26.752000	0:08:28.912000	-	4960413
+ein	-	-	-	0:08:26.752000	0:08:28.912000	-	4960414
+bisschen	-	-	-	0:08:26.752000	0:08:28.912000	-	4960415
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:28.325000" end="0:08:28.672000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ja	-	-	-	0:08:28.325000	0:08:28.672000	-	4957853
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:28.912000" end="0:08:32.491000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:08:28.912000	0:08:31.252000	-	4960417
+Holz	-	-	-	0:08:28.912000	0:08:31.252000	-	4960419
+ist	-	-	-	0:08:28.912000	0:08:31.252000	-	4960420
+ist	-	-	-	0:08:28.912000	0:08:31.252000	-	4960421
+super	-	-	-	0:08:28.912000	0:08:31.252000	-	4960422
+habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:08:31.252000	0:08:32.491000	-	4960424
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:08:31.252000	0:08:32.491000	-	4960425
+gern	-	-	-	0:08:31.252000	0:08:32.491000	-	4960426
+in	-	-	-	0:08:31.252000	0:08:32.491000	-	4960428
+Händen	-	-	-	0:08:31.252000	0:08:32.491000	-	4960429
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:32.139000" end="0:08:32.491000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:32.491000" end="0:08:36.871000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+riecht	-	-	-	0:08:32.491000	0:08:33.152000	-	4960432
+gut	-	-	-	0:08:32.491000	0:08:33.152000	-	4960433
+es	-	-	-	0:08:33.152000	0:08:35.265000	-	4960437
+ist	-	-	-	0:08:33.152000	0:08:35.265000	-	4960439
+leicht	-	-	-	0:08:33.152000	0:08:35.265000	-	4960440
+zu	-	-	-	0:08:33.152000	0:08:35.265000	-	4960441
+bearbeiten	-	-	-	0:08:33.152000	0:08:35.265000	-	4960442
+ja	-	-	-	0:08:35.265000	0:08:36.871000	-	4960445
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:36.871000" end="0:08:45.139000" persName="Informant EXP15" age_lower="1" age_upper="999">
+mit	-	-	-	0:08:40.592000	0:08:45.139000	-	4957867
+welchen	-	-	-	0:08:40.592000	0:08:45.139000	-	4957868
+Personen	-	-	-	0:08:40.592000	0:08:45.139000	-	4957869
+verbringen	-	-	-	0:08:40.592000	0:08:45.139000	-	4957870
+Sie	-	-	-	0:08:40.592000	0:08:45.139000	-	4957871
+meistens	-	-	-	0:08:40.592000	0:08:45.139000	-	4957872
+Ihre	-	-	-	0:08:40.592000	0:08:45.139000	-	4957873
+Freizeit	-	-	-	0:08:40.592000	0:08:45.139000	-	4957874
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:45.139000" end="0:08:47.305000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:08:47.305000" end="0:08:50.625000" persName="Informant EXP15" age_lower="1" age_upper="999">
+also	-	-	-	0:08:47.305000	0:08:49.465000	-	4957876
+eher	-	-	-	0:08:47.305000	0:08:49.465000	-	4957877
+mit	-	-	-	0:08:47.305000	0:08:49.465000	-	4957878
+Personen	-	-	-	0:08:47.305000	0:08:49.465000	-	4957879
+aus	-	-	-	0:08:47.305000	0:08:49.465000	-	4957880
+der	-	-	-	0:08:47.305000	0:08:49.465000	-	4957881
+Familie	-	-	-	0:08:47.305000	0:08:49.465000	-	4957882
+oder	-	-	-	0:08:49.465000	0:08:50.625000	-	4957884
+mit	-	-	-	0:08:49.465000	0:08:50.625000	-	4957885
+Freunden	-	-	-	0:08:49.465000	0:08:50.625000	-	4957886
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:08:50.625000" end="0:09:22.732000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+n	-	-	-	0:08:53.559000	0:08:54.799000	-	4960449
+ja	-	-	-	0:08:53.559000	0:08:54.799000	-	4960450
+f	-	-	-	0:08:53.559000	0:08:54.799000	-	4960451
+beides	-	-	-	0:08:54.799000	0:08:56.599000	-	4960454
+eher	-	-	-	0:08:56.599000	0:08:59.119000	-	4960456
+eher	-	-	-	0:08:56.599000	0:08:59.119000	-	4960457
+aus	-	-	-	0:08:56.599000	0:08:59.119000	-	4960458
+der	-	-	-	0:08:56.599000	0:08:59.119000	-	4960459
+Familie	-	-	-	0:08:56.599000	0:08:59.119000	-	4960460
+momentan	-	-	-	0:08:56.599000	0:08:59.119000	-	4960461
+weil	-	-	-	0:09:01.119000	0:09:02.585000	-	4960464
+jetzt	-	-	-	0:09:01.119000	0:09:02.585000	-	4960465
+so	-	-	-	0:09:01.119000	0:09:02.585000	-	4960466
+Freunde	-	-	-	0:09:01.119000	0:09:02.585000	-	4960467
+war	-	-	-	0:09:02.585000	0:09:06.632000	-	4960470
+früher	-	-	-	0:09:02.585000	0:09:06.632000	-	4960471
+mehr	-	-	-	0:09:02.585000	0:09:06.632000	-	4960472
+so	-	-	-	0:09:02.585000	0:09:06.632000	-	4960473
+dass	-	-	-	0:09:02.585000	0:09:06.632000	-	4960474
+meine	-	-	-	0:09:02.585000	0:09:06.632000	-	4960475
+Freunde	-	-	-	0:09:02.585000	0:09:06.632000	-	4960476
+in	-	-	-	0:09:02.585000	0:09:06.632000	-	4960477
+der	-	-	-	0:09:02.585000	0:09:06.632000	-	4960478
+unmittelbaren	-	-	-	0:09:02.585000	0:09:06.632000	-	4960479
+Umgebung	-	-	-	0:09:02.585000	0:09:06.632000	-	4960480
+waren	-	-	-	0:09:02.585000	0:09:06.632000	-	4960481
+dadurch	-	-	-	0:09:06.632000	0:09:09.925000	-	4960484
+sehr	-	-	-	0:09:06.632000	0:09:09.925000	-	4960486
+schnell	-	-	-	0:09:06.632000	0:09:09.925000	-	4960487
+sich	-	-	-	0:09:06.632000	0:09:09.925000	-	4960489
+was	-	-	-	0:09:06.632000	0:09:09.925000	-	4960490
+ergeben	-	-	-	0:09:06.632000	0:09:09.925000	-	4960491
+hat	-	-	-	0:09:06.632000	0:09:09.925000	-	4960492
+ist	-	-	-	0:09:09.925000	0:09:12.059000	-	4960495
+jetzt	-	-	-	0:09:09.925000	0:09:12.059000	-	4960496
+leider	-	-	-	0:09:09.925000	0:09:12.059000	-	4960497
+nicht	-	-	-	0:09:09.925000	0:09:12.059000	-	4960498
+mehr	-	-	-	0:09:09.925000	0:09:12.059000	-	4960499
+so	-	-	-	0:09:09.925000	0:09:12.059000	-	4960500
+ich	-	-	-	0:09:12.059000	0:09:14.625000	-	4960503
+habe	-	-	-	0:09:12.059000	0:09:14.625000	-	4960504
+im	-	-	-	0:09:12.059000	0:09:14.625000	-	4960506
+Ort	-	-	-	0:09:12.059000	0:09:14.625000	-	4960507
+schon	-	-	-	0:09:12.059000	0:09:14.625000	-	4960508
+f	-	-	-	0:09:14.625000	0:09:17.252000	-	4960510
+Freunde	-	-	-	0:09:14.625000	0:09:17.252000	-	4960511
+ah	-	-	-	0:09:14.625000	0:09:17.252000	-	4960512
+wenig	-	-	-	0:09:14.625000	0:09:17.252000	-	4960514
+eigentlich	-	-	-	0:09:14.625000	0:09:17.252000	-	4960515
+aber	-	-	-	0:09:17.252000	0:09:21.992000	-	4960518
+jetzt	-	-	-	0:09:17.252000	0:09:21.992000	-	4960519
+so	-	-	-	0:09:17.252000	0:09:21.992000	-	4960520
+nimmer	-	-	-	0:09:17.252000	0:09:21.992000	-	4960521
+so	-	-	-	0:09:17.252000	0:09:21.992000	-	4960522
+dass	-	-	-	0:09:17.252000	0:09:21.992000	-	4960523
+meine	-	-	-	0:09:17.252000	0:09:21.992000	-	4960524
+Freunde	-	-	-	0:09:17.252000	0:09:21.992000	-	4960525
+wirklich	-	-	-	0:09:17.252000	0:09:21.992000	-	4960526
+die	-	-	-	0:09:17.252000	0:09:21.992000	-	4960528
+die	-	-	-	0:09:17.252000	0:09:21.992000	-	4960529
+Nachbarn	-	-	-	0:09:17.252000	0:09:21.992000	-	4960530
+waren	-	-	-	0:09:17.252000	0:09:21.992000	-	4960531
+so	-	-	-	0:09:21.992000	0:09:22.579000	-	4960533
+wie	-	-	-	0:09:21.992000	0:09:22.579000	-	4960534
+früher	-	-	-	0:09:21.992000	0:09:22.579000	-	4960535
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:22.732000" end="0:09:23.385000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:09:22.732000" end="0:09:31.825000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:09:22.732000	0:09:24.285000	-	4960540
+ist	-	-	-	0:09:22.732000	0:09:24.285000	-	4960541
+leider	-	-	-	0:09:22.732000	0:09:24.285000	-	4960542
+nicht	-	-	-	0:09:22.732000	0:09:24.285000	-	4960543
+mehr	-	-	-	0:09:22.732000	0:09:24.285000	-	4960544
+dadurch	-	-	-	0:09:24.285000	0:09:28.532000	-	4960547
+ist	-	-	-	0:09:24.285000	0:09:28.532000	-	4960549
+e	-	-	-	0:09:24.285000	0:09:28.532000	-	4960550
+ist	-	-	-	0:09:24.285000	0:09:28.532000	-	4960551
+mir	-	-	-	0:09:24.285000	0:09:28.532000	-	4960552
+eher	-	-	-	0:09:24.285000	0:09:28.532000	-	4960553
+darauf	-	-	-	0:09:24.285000	0:09:28.532000	-	4960554
+angewiesen	-	-	-	0:09:24.285000	0:09:28.532000	-	4960555
+dass	-	-	-	0:09:24.285000	0:09:28.532000	-	4960556
+man	-	-	-	0:09:24.285000	0:09:28.532000	-	4960557
+sich	-	-	-	0:09:24.285000	0:09:28.532000	-	4960558
+irgendwas	-	-	-	0:09:24.285000	0:09:28.532000	-	4960559
+ausmacht	-	-	-	0:09:24.285000	0:09:28.532000	-	4960560
+und	-	-	-	0:09:28.532000	0:09:29.859000	-	4960562
+äh	-	-	-	0:09:28.532000	0:09:29.859000	-	4960563
+organisiert	-	-	-	0:09:28.532000	0:09:29.859000	-	4960564
+nimmer	-	-	-	0:09:29.859000	0:09:31.825000	-	4960567
+so	-	-	-	0:09:29.859000	0:09:31.825000	-	4960568
+spontan	-	-	-	0:09:29.859000	0:09:31.825000	-	4960569
+wie	-	-	-	0:09:29.859000	0:09:31.825000	-	4960570
+das	-	-	-	0:09:29.859000	0:09:31.825000	-	4960571
+früher	-	-	-	0:09:29.859000	0:09:31.825000	-	4960572
+war	-	-	-	0:09:29.859000	0:09:31.825000	-	4960573
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:31.699000" end="0:09:32.112000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:09:32.112000" end="0:09:35.025000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+so	-	-	-	0:09:32.112000	0:09:35.025000	-	4960576
+also	-	-	-	0:09:32.112000	0:09:35.025000	-	4960577
+jetzt	-	-	-	0:09:32.112000	0:09:35.025000	-	4960578
+eher	-	-	-	0:09:32.112000	0:09:35.025000	-	4960579
+mehr	-	-	-	0:09:32.112000	0:09:35.025000	-	4960580
+Familie	-	-	-	0:09:32.112000	0:09:35.025000	-	4960582
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:35.025000" end="0:09:43.605000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:09:35.025000	0:09:39.952000	-	4957897
+wenn	-	-	-	0:09:35.025000	0:09:39.952000	-	4957898
+Sie	-	-	-	0:09:35.025000	0:09:39.952000	-	4957899
+sich	-	-	-	0:09:35.025000	0:09:39.952000	-	4957900
+mit	-	-	-	0:09:35.025000	0:09:39.952000	-	4957901
+Ihrer	-	-	-	0:09:35.025000	0:09:39.952000	-	4957902
+Familie	-	-	-	0:09:35.025000	0:09:39.952000	-	4957903
+oder	-	-	-	0:09:35.025000	0:09:39.952000	-	4957904
+mit	-	-	-	0:09:35.025000	0:09:39.952000	-	4957905
+den	-	-	-	0:09:35.025000	0:09:39.952000	-	4957906
+Freunden	-	-	-	0:09:35.025000	0:09:39.952000	-	4957907
+treffen	-	-	-	0:09:35.025000	0:09:39.952000	-	4957908
+wo	-	-	-	0:09:39.952000	0:09:41.885000	-	4957910
+treffen	-	-	-	0:09:39.952000	0:09:41.885000	-	4957911
+Sie	-	-	-	0:09:39.952000	0:09:41.885000	-	4957912
+sich	-	-	-	0:09:39.952000	0:09:41.885000	-	4957913
+da	-	-	-	0:09:39.952000	0:09:41.885000	-	4957914
+typischerweise	-	-	-	0:09:39.952000	0:09:41.885000	-	4957915
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:09:43.605000" end="0:09:58.179000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:09:48.605000	0:09:49.325000	-	4960586
+jeweils	-	-	-	0:09:52.725000	0:09:58.179000	-	4960589
+im	-	-	-	0:09:52.725000	0:09:58.179000	-	4960590
+Wohnung	-	-	-	0:09:52.725000	0:09:58.179000	-	4960593
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:58.179000" end="0:10:00.545000" persName="Informant EXP15" age_lower="1" age_upper="999">
+also	-	-	-	0:09:58.179000	0:10:00.545000	-	4957921
+bei	-	-	-	0:09:58.179000	0:10:00.545000	-	4957922
+denen	-	-	-	0:09:58.179000	0:10:00.545000	-	4957923
+zuhause	-	-	-	0:09:58.179000	0:10:00.545000	-	4957924
+zum	-	-	-	0:09:58.179000	0:10:00.545000	-	4957925
+Beispiel	-	-	-	0:09:58.179000	0:10:00.545000	-	4957926
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:09:59.819000" end="0:10:00.545000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+im	-	-	-	0:09:59.819000	0:10:00.545000	-	4960595
+privaten	-	-	-	0:09:59.819000	0:10:00.545000	-	4960596
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:00.545000" end="0:10:01.252000" persName="Informant EXP15" age_lower="1" age_upper="999">
+oder	-	-	-	0:10:00.545000	0:10:01.252000	-	4957928
+bei	-	-	-	0:10:00.545000	0:10:01.252000	-	4957929
+Ihnen	-	-	-	0:10:00.545000	0:10:01.252000	-	4957930
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:00.545000" end="0:10:01.252000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:10:00.545000	0:10:01.252000	-	4960599
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:01.252000" end="0:10:01.759000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:01.252000" end="0:10:02.065000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:10:01.252000	0:10:02.065000	-	4960602
+so	-	-	-	0:10:01.252000	0:10:02.065000	-	4960603
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:02.065000" end="0:10:05.805000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:10:03.005000	0:10:04.859000	-	4957942
+Ihre	-	-	-	0:10:03.005000	0:10:04.859000	-	4957943
+Freunde	-	-	-	0:10:03.005000	0:10:04.859000	-	4957944
+kommen	-	-	-	0:10:04.859000	0:10:05.805000	-	4957947
+die	-	-	-	0:10:04.859000	0:10:05.805000	-	4957948
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:05.805000" end="0:10:09.679000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ah	-	-	-	0:10:08.705000	0:10:09.679000	-	4960606
+ja	-	-	-	0:10:08.705000	0:10:09.679000	-	4960608
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:09.679000" end="0:10:13.425000" persName="Informant EXP15" age_lower="1" age_upper="999">
+also	-	-	-	0:10:09.679000	0:10:11.792000	-	4957950
+auch	-	-	-	0:10:09.679000	0:10:11.792000	-	4957951
+hier	-	-	-	0:10:09.679000	0:10:11.792000	-	4957952
+aus	-	-	-	0:10:09.679000	0:10:11.792000	-	4957953
+ORT	ORT	-	-	0:10:09.679000	0:10:11.792000	ORT	4957954
+oder	-	-	-	0:10:09.679000	0:10:11.792000	-	4957955
+oder	-	-	-	0:10:11.792000	0:10:13.425000	-	4957958
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:13.425000" end="0:10:24.445000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+manche	-	-	-	0:10:13.425000	0:10:14.552000	-	4960612
+ja	-	-	-	0:10:13.425000	0:10:14.552000	-	4960613
+manche	-	-	-	0:10:14.552000	0:10:15.812000	-	4960615
+aus	-	-	-	0:10:14.552000	0:10:15.812000	-	4960616
+ORT	ORT	-	-	0:10:14.552000	0:10:15.812000	ORT	4960617
+natürlich	-	-	-	0:10:18.352000	0:10:23.559000	-	4960621
+manche	-	-	-	0:10:18.352000	0:10:23.559000	-	4960622
+aus	-	-	-	0:10:18.352000	0:10:23.559000	-	4960624
+dem	-	-	-	0:10:18.352000	0:10:23.559000	-	4960626
+Bereich	-	-	-	0:10:18.352000	0:10:23.559000	-	4960627
+wo	-	-	-	0:10:18.352000	0:10:23.559000	-	4960628
+meine	-	-	-	0:10:18.352000	0:10:23.559000	-	4960629
+Frau	-	-	-	0:10:18.352000	0:10:23.559000	-	4960630
+herkommt	-	-	-	0:10:18.352000	0:10:23.559000	-	4960631
+aus	-	-	-	0:10:23.559000	0:10:24.445000	-	4960633
+ORT	ORT	-	-	0:10:23.559000	0:10:24.445000	ORT	4960635
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:24.445000" end="0:10:25.352000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:25.352000" end="0:10:31.619000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:10:25.352000	0:10:28.319000	-	4960638
+sind	-	-	-	0:10:25.352000	0:10:28.319000	-	4960639
+so	-	-	-	0:10:25.352000	0:10:28.319000	-	4960640
+grob	-	-	-	0:10:25.352000	0:10:28.319000	-	4960641
+die	-	-	-	0:10:25.352000	0:10:28.319000	-	4960642
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:31.619000" end="0:10:32.012000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:32.012000" end="0:10:33.332000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+Bereiche	-	-	-	0:10:32.012000	0:10:33.332000	-	4960646
+ja	-	-	-	0:10:32.012000	0:10:33.332000	-	4960647
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:33.332000" end="0:10:44.285000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:10:33.332000	0:10:35.572000	-	4957968
+hier	-	-	-	0:10:33.332000	0:10:35.572000	-	4957969
+in	-	-	-	0:10:33.332000	0:10:35.572000	-	4957970
+ORT	ORT	-	-	0:10:33.332000	0:10:35.572000	ORT	4957971
+also	-	-	-	0:10:35.572000	0:10:39.112000	-	4957974
+ausser	-	-	-	0:10:35.572000	0:10:39.112000	-	4957975
+dass	-	-	-	0:10:35.572000	0:10:39.112000	-	4957976
+jetzt	-	-	-	0:10:35.572000	0:10:39.112000	-	4957977
+vor	-	-	-	0:10:35.572000	0:10:39.112000	-	4957978
+ihrem	-	-	-	0:10:35.572000	0:10:39.112000	-	4957979
+Haus	-	-	-	0:10:35.572000	0:10:39.112000	-	4957980
+diese	-	-	-	0:10:35.572000	0:10:39.112000	-	4957982
+Straße	-	-	-	0:10:35.572000	0:10:39.112000	-	4957983
+da	-	-	-	0:10:35.572000	0:10:39.112000	-	4957984
+ist	-	-	-	0:10:35.572000	0:10:39.112000	-	4957985
+aber	-	-	-	0:10:39.112000	0:10:41.032000	-	4957987
+gibt	-	-	-	0:10:39.112000	0:10:41.032000	-	4957988
+es	-	-	-	0:10:39.112000	0:10:41.032000	-	4957989
+irgendwas	-	-	-	0:10:39.112000	0:10:41.032000	-	4957990
+Sie	-	-	-	0:10:39.112000	0:10:41.032000	-	4957992
+stört	-	-	-	0:10:39.112000	0:10:41.032000	-	4957993
+was	-	-	-	0:10:41.032000	0:10:42.192000	-	4957996
+Sie	-	-	-	0:10:41.032000	0:10:42.192000	-	4957997
+ärgert	-	-	-	0:10:41.032000	0:10:42.192000	-	4957998
+was	-	-	-	0:10:42.192000	0:10:44.285000	-	4958000
+Sie	-	-	-	0:10:42.192000	0:10:44.285000	-	4958001
+verändern	-	-	-	0:10:42.192000	0:10:44.285000	-	4958002
+würden	-	-	-	0:10:42.192000	0:10:44.285000	-	4958003
+oder	-	-	-	0:10:42.192000	0:10:44.285000	-	4958004
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:10:44.285000" end="0:11:26.298000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:10:44.285000	0:10:46.698000	-	4960650
+jetzt	-	-	-	0:10:44.285000	0:10:46.698000	-	4960651
+wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:10:44.285000	0:10:46.698000	-	4960652
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:10:44.285000	0:10:46.698000	-	4960653
+kritisch	-	-	-	0:10:44.285000	0:10:46.698000	-	4960654
+ja	-	-	-	0:10:47.225000	0:10:50.872000	-	4960659
+es	-	-	-	0:10:47.225000	0:10:50.872000	-	4960660
+gibt	-	-	-	0:10:47.225000	0:10:50.872000	-	4960661
+es	-	-	-	0:10:47.225000	0:10:50.872000	-	4960662
+gibt	-	-	-	0:10:47.225000	0:10:50.872000	-	4960663
+es	-	-	-	0:10:47.225000	0:10:50.872000	-	4960664
+gibt	-	-	-	0:10:47.225000	0:10:50.872000	-	4960665
+Vieles	-	-	-	0:10:47.225000	0:10:50.872000	-	4960666
+es	-	-	-	0:10:50.872000	0:10:54.698000	-	4960669
+gibt	-	-	-	0:10:50.872000	0:10:54.698000	-	4960670
+Vieles	-	-	-	0:10:50.872000	0:10:54.698000	-	4960671
+was	-	-	-	0:10:50.872000	0:10:54.698000	-	4960672
+immer	-	-	-	0:10:50.872000	0:10:54.698000	-	4960674
+noch	-	-	-	0:10:50.872000	0:10:54.698000	-	4960675
+ganz	-	-	-	0:10:50.872000	0:10:54.698000	-	4960676
+schön	-	-	-	0:10:50.872000	0:10:54.698000	-	4960677
+ist	-	-	-	0:10:50.872000	0:10:54.698000	-	4960678
+und	-	-	-	0:10:54.698000	0:10:58.292000	-	4960680
+es	-	-	-	0:10:54.698000	0:10:58.292000	-	4960681
+gibt	-	-	-	0:10:54.698000	0:10:58.292000	-	4960682
+einiges	-	-	-	0:10:54.698000	0:10:58.292000	-	4960683
+wo	-	-	-	0:10:54.698000	0:10:58.292000	-	4960684
+was	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _mich klit-	0:10:54.698000	0:10:58.292000	-	4960686
+mich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _mich klit-	0:10:54.698000	0:10:58.292000	-	4960687
+ärgert	-	-	-	0:10:54.698000	0:10:58.292000	-	4960688
+und	-	-	-	0:10:58.292000	0:11:02.305000	-	4960690
+was	-	-	-	0:10:58.292000	0:11:02.305000	-	4960691
+was	-	-	-	0:10:58.292000	0:11:02.305000	-	4960693
+man	-	-	-	0:10:58.292000	0:11:02.305000	-	4960694
+kaum	-	-	-	0:10:58.292000	0:11:02.305000	-	4960696
+ändern	-	-	-	0:10:58.292000	0:11:02.305000	-	4960697
+kann	-	-	-	0:10:58.292000	0:11:02.305000	-	4960699
+ah	-	-	-	0:11:02.305000	0:11:06.612000	-	4960702
+zum	-	-	-	0:11:02.305000	0:11:06.612000	-	4960704
+Beispiel	-	-	-	0:11:02.305000	0:11:06.612000	-	4960705
+em	-	-	-	0:11:02.305000	0:11:06.612000	-	4960706
+visavis	-	-	-	0:11:02.305000	0:11:06.612000	-	4960707
+von	-	-	-	0:11:02.305000	0:11:06.612000	-	4960708
+mir	-	-	-	0:11:02.305000	0:11:06.612000	-	4960709
+ist	-	-	-	0:11:06.612000	0:11:10.178000	-	4960712
+so	-	-	-	0:11:06.612000	0:11:10.178000	-	4960714
+ein	-	-	-	0:11:06.612000	0:11:10.178000	-	4960715
+Gebiet	-	-	-	0:11:06.612000	0:11:10.178000	-	4960716
+wo	-	-	-	0:11:10.178000	0:11:12.212000	-	4960719
+wirklich	-	-	-	0:11:10.178000	0:11:12.212000	-	4960720
+das	-	-	-	0:11:12.212000	0:11:15.198000	-	4960723
+war	-	-	-	0:11:12.212000	0:11:15.198000	-	4960724
+vor	-	-	-	0:11:12.212000	0:11:15.198000	-	4960726
+weiss	-	-	KlitPron KlitReal PronForm _ich klit-	0:11:12.212000	0:11:15.198000	-	4960728
+ich	-	-	KlitPron KlitReal PronForm _ich klit-	0:11:12.212000	0:11:15.198000	-	4960729
+nicht	-	-	-	0:11:12.212000	0:11:15.198000	-	4960730
+zehn	-	-	-	0:11:15.198000	0:11:16.565000	-	4960733
+Jahren	-	-	-	0:11:15.198000	0:11:16.565000	-	4960734
+noch	-	-	-	0:11:16.565000	0:11:18.698000	-	4960737
+komplett	-	-	-	0:11:16.565000	0:11:18.698000	-	4960738
+Acker	-	-	-	0:11:16.565000	0:11:18.698000	-	4960739
+und	-	-	-	0:11:18.698000	0:11:21.538000	-	4960742
+ist	-	-	-	0:11:18.698000	0:11:21.538000	-	4960743
+komplett	-	-	-	0:11:18.698000	0:11:21.538000	-	4960744
+verbaut	-	-	-	0:11:18.698000	0:11:21.538000	-	4960745
+worden	-	-	-	0:11:18.698000	0:11:21.538000	-	4960746
+wird	-	-	-	0:11:21.538000	0:11:23.538000	-	4960748
+immer	-	-	-	0:11:21.538000	0:11:23.538000	-	4960749
+noch	-	-	-	0:11:21.538000	0:11:23.538000	-	4960750
+weiter	-	-	-	0:11:21.538000	0:11:23.538000	-	4960751
+verbaut	-	-	-	0:11:21.538000	0:11:23.538000	-	4960752
+und	-	-	-	0:11:23.538000	0:11:26.298000	-	4960755
+ist	-	-	-	0:11:23.538000	0:11:26.298000	-	4960756
+komplett	-	-	-	0:11:23.538000	0:11:26.298000	-	4960758
+daneben	-	-	-	0:11:23.538000	0:11:26.298000	-	4960759
+gegangen	-	-	-	0:11:23.538000	0:11:26.298000	-	4960760
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:26.298000" end="0:11:26.685000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:26.685000" end="0:12:49.692000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+komplett	-	-	-	0:11:26.685000	0:11:27.785000	-	4960763
+daneben	-	-	-	0:11:26.685000	0:11:27.785000	-	4960764
+es	-	-	-	0:11:27.785000	0:11:30.938000	-	4960766
+ist	-	-	-	0:11:27.785000	0:11:30.938000	-	4960767
+ah	-	-	-	0:11:27.785000	0:11:30.938000	-	4960768
+raumplanerisch	-	-	-	0:11:27.785000	0:11:30.938000	-	4960770
+daneben	-	-	-	0:11:27.785000	0:11:30.938000	-	4960771
+weil	-	-	-	0:11:30.938000	0:11:36.858000	-	4960773
+Einfamilienhäuser	-	-	-	0:11:30.938000	0:11:36.858000	-	4960774
+stehen	-	-	-	0:11:30.938000	0:11:36.858000	-	4960775
+neben	-	-	-	0:11:30.938000	0:11:36.858000	-	4960776
+zwanzig	-	-	-	0:11:30.938000	0:11:36.858000	-	4960778
+Meter	-	-	-	0:11:30.938000	0:11:36.858000	-	4960779
+hohen	-	-	-	0:11:30.938000	0:11:36.858000	-	4960780
+wohnbauten	-	-	-	0:11:30.938000	0:11:36.858000	-	4960781
+mit	-	-	-	0:11:36.858000	0:11:38.045000	-	4960783
+fünf	-	-	-	0:11:36.858000	0:11:38.045000	-	4960784
+geschossen	-	-	-	0:11:36.858000	0:11:38.045000	-	4960785
+und	-	-	-	0:11:38.045000	0:11:40.472000	-	4960787
+es	-	-	-	0:11:38.045000	0:11:40.472000	-	4960789
+ist	-	-	-	0:11:38.045000	0:11:40.472000	-	4960790
+nichts	-	-	-	0:11:38.045000	0:11:40.472000	-	4960791
+einheitlich	-	-	-	0:11:38.045000	0:11:40.472000	-	4960792
+es	-	-	-	0:11:40.472000	0:11:45.518000	-	4960795
+ist	-	-	-	0:11:40.472000	0:11:45.518000	-	4960796
+alles	-	-	-	0:11:40.472000	0:11:45.518000	-	4960797
+kraut	-	-	-	0:11:40.472000	0:11:45.518000	-	4960799
+und	-	-	-	0:11:40.472000	0:11:45.518000	-	4960800
+rüben	-	-	-	0:11:40.472000	0:11:45.518000	-	4960801
+durcheinander	-	-	-	0:11:40.472000	0:11:45.518000	-	4960802
+gemischt	-	-	-	0:11:40.472000	0:11:45.518000	-	4960803
+keine	-	-	-	0:11:45.518000	0:11:47.792000	-	4960806
+Ahnung	-	-	-	0:11:45.518000	0:11:47.792000	-	4960807
+wer	-	-	-	0:11:45.518000	0:11:47.792000	-	4960808
+das	-	-	-	0:11:45.518000	0:11:47.792000	-	4960809
+so	-	-	-	0:11:45.518000	0:11:47.792000	-	4960810
+genehmigt	-	-	-	0:11:45.518000	0:11:47.792000	-	4960811
+also	-	-	-	0:11:47.792000	0:11:49.618000	-	4960813
+ja	-	-	-	0:11:47.792000	0:11:49.618000	-	4960814
+natürlich	-	-	-	0:11:47.792000	0:11:49.618000	-	4960815
+die	-	-	-	0:11:47.792000	0:11:49.618000	-	4960816
+Gemeinde	-	-	-	0:11:47.792000	0:11:49.618000	-	4960817
+warum	-	-	-	0:11:49.618000	0:11:52.325000	-	4960820
+das	-	-	-	0:11:49.618000	0:11:52.325000	-	4960821
+so	-	-	-	0:11:49.618000	0:11:52.325000	-	4960822
+ist	-	-	-	0:11:49.618000	0:11:52.325000	-	4960823
+man	-	-	-	0:11:52.325000	0:11:55.578000	-	4960826
+das	-	-	-	0:11:52.325000	0:11:55.578000	-	4960827
+nicht	-	-	-	0:11:52.325000	0:11:55.578000	-	4960828
+schafft	-	-	-	0:11:52.325000	0:11:55.578000	-	4960829
+dass	-	-	-	0:11:52.325000	0:11:55.578000	-	4960830
+des	-	-	-	0:11:52.325000	0:11:55.578000	-	4960831
+irgendwie	-	-	-	0:11:52.325000	0:11:55.578000	-	4960832
+zusammenpasst	-	-	-	0:11:52.325000	0:11:55.578000	-	4960833
+und	-	-	-	0:11:55.578000	0:11:58.198000	-	4960836
+zumindest	-	-	-	0:11:55.578000	0:11:58.198000	-	4960838
+von	-	-	-	0:11:55.578000	0:11:58.198000	-	4960839
+der	-	-	-	0:11:55.578000	0:11:58.198000	-	4960840
+bauklasse	-	-	-	0:11:55.578000	0:11:58.198000	-	4960841
+her	-	-	-	0:11:55.578000	0:11:58.198000	-	4960842
+müssen	-	-	-	0:11:58.198000	0:12:00.118000	-	4960845
+sogar	-	-	-	0:11:58.198000	0:12:00.118000	-	4960846
+verschiedene	-	-	-	0:11:58.198000	0:12:00.118000	-	4960847
+bauklassen	-	-	-	0:11:58.198000	0:12:00.118000	-	4960848
+sein	-	-	-	0:11:58.198000	0:12:00.118000	-	4960849
+und	-	-	-	0:12:00.118000	0:12:04.098000	-	4960852
+teilweise	-	-	-	0:12:00.118000	0:12:04.098000	-	4960853
+sind	-	-	-	0:12:00.118000	0:12:04.098000	-	4960854
+die	-	-	-	0:12:00.118000	0:12:04.098000	-	4960855
+Gebäude	-	-	-	0:12:00.118000	0:12:04.098000	-	4960856
+auch	-	-	-	0:12:00.118000	0:12:04.098000	-	4960857
+architektonisch	-	-	-	0:12:00.118000	0:12:04.098000	-	4960859
+so	-	-	-	0:12:00.118000	0:12:04.098000	-	4960860
+dass	-	-	-	0:12:04.098000	0:12:09.785000	-	4960863
+man	-	-	-	0:12:04.098000	0:12:09.785000	-	4960864
+die	-	-	-	0:12:04.098000	0:12:09.785000	-	4960865
+ah	-	-	-	0:12:04.098000	0:12:09.785000	-	4960867
+Vorschriften	-	-	-	0:12:04.098000	0:12:09.785000	-	4960869
+quasi	-	-	-	0:12:04.098000	0:12:09.785000	-	4960870
+austrickst	-	-	-	0:12:04.098000	0:12:09.785000	-	4960871
+dass	-	-	-	0:12:09.785000	0:12:11.438000	-	4960873
+man	-	-	-	0:12:09.785000	0:12:11.438000	-	4960874
+ja	-	-	-	0:12:09.785000	0:12:11.438000	-	4960875
+hoch	-	-	-	0:12:09.785000	0:12:11.438000	-	4960876
+bauen	-	-	-	0:12:09.785000	0:12:11.438000	-	4960877
+kann	-	-	-	0:12:09.785000	0:12:11.438000	-	4960878
+man	-	-	-	0:12:11.438000	0:12:13.098000	-	4960881
+das	-	-	-	0:12:11.438000	0:12:13.098000	-	4960882
+Dach	-	-	-	0:12:11.438000	0:12:13.098000	-	4960883
+weiter	-	-	-	0:12:11.438000	0:12:13.098000	-	4960884
+runter	-	-	-	0:12:11.438000	0:12:13.098000	-	4960885
+s	-	-	-	0:12:13.098000	0:12:15.385000	-	4960889
+so	-	-	-	0:12:13.098000	0:12:15.385000	-	4960890
+Schmähs	-	-	-	0:12:13.098000	0:12:15.385000	-	4960891
+werden	-	-	-	0:12:13.098000	0:12:15.385000	-	4960892
+verwendet	-	-	-	0:12:13.098000	0:12:15.385000	-	4960893
+dass	-	-	-	0:12:15.385000	0:12:18.218000	-	4960896
+man	-	-	-	0:12:15.385000	0:12:18.218000	-	4960897
+ja	-	-	-	0:12:15.385000	0:12:18.218000	-	4960898
+das	-	-	-	0:12:15.385000	0:12:18.218000	-	4960899
+machen	-	-	-	0:12:15.385000	0:12:18.218000	-	4960900
+kann	-	-	-	0:12:15.385000	0:12:18.218000	-	4960901
+was	-	-	-	0:12:15.385000	0:12:18.218000	-	4960902
+man	-	-	-	0:12:15.385000	0:12:18.218000	-	4960903
+will	-	-	-	0:12:15.385000	0:12:18.218000	-	4960904
+also	-	-	-	0:12:18.218000	0:12:20.938000	-	4960907
+sowas	-	-	-	0:12:18.218000	0:12:20.938000	-	4960908
+ärgert	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:18.218000	0:12:20.938000	-	4960909
+mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:18.218000	0:12:20.938000	-	4960910
+schon	-	-	-	0:12:18.218000	0:12:20.938000	-	4960912
+weil	-	-	-	0:12:20.938000	0:12:24.512000	-	4960915
+das	-	-	-	0:12:20.938000	0:12:24.512000	-	4960917
+war	-	-	-	0:12:20.938000	0:12:24.512000	-	4960918
+eigentlich	-	-	-	0:12:20.938000	0:12:24.512000	-	4960919
+ein	-	-	-	0:12:20.938000	0:12:24.512000	-	4960920
+schöner	-	-	-	0:12:20.938000	0:12:24.512000	-	4960921
+fleck	-	-	-	0:12:20.938000	0:12:24.512000	-	4960922
+da	-	-	-	0:12:24.512000	0:12:27.992000	-	4960925
+hätten	-	-	-	0:12:24.512000	0:12:27.992000	-	4960926
+wir	-	-	-	0:12:24.512000	0:12:27.992000	-	4960927
+mit	-	-	-	0:12:24.512000	0:12:27.992000	-	4960928
+ein	-	-	-	0:12:24.512000	0:12:27.992000	-	4960929
+bisschen	-	-	-	0:12:24.512000	0:12:27.992000	-	4960930
+Plan	-	-	-	0:12:24.512000	0:12:27.992000	-	4960931
+was	-	-	-	0:12:24.512000	0:12:27.992000	-	4960933
+daraus	-	-	-	0:12:24.512000	0:12:27.992000	-	4960934
+machen	-	-	-	0:12:24.512000	0:12:27.992000	-	4960935
+können	-	-	-	0:12:24.512000	0:12:27.992000	-	4960936
+so	-	-	-	0:12:27.992000	0:12:29.178000	-	4960939
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:12:27.992000	0:12:29.178000	-	4960940
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:12:27.992000	0:12:29.178000	-	4960941
+jetzt	-	-	-	0:12:27.992000	0:12:29.178000	-	4960942
+es	-	-	-	0:12:29.178000	0:12:31.592000	-	4960945
+ist	-	-	-	0:12:29.178000	0:12:31.592000	-	4960946
+wirklich	-	-	-	0:12:29.178000	0:12:31.592000	-	4960947
+ein	-	-	-	0:12:29.178000	0:12:31.592000	-	4960948
+negativbeispiel	-	-	-	0:12:29.178000	0:12:31.592000	-	4960949
+ich	-	-	-	0:12:31.592000	0:12:32.958000	-	4960952
+habe	-	-	-	0:12:31.592000	0:12:32.958000	-	4960953
+ein	-	-	-	0:12:31.592000	0:12:32.958000	-	4960954
+Bekannte	-	-	-	0:12:31.592000	0:12:32.958000	-	4960955
+die	-	-	-	0:12:32.958000	0:12:36.938000	-	4960958
+in	-	-	-	0:12:32.958000	0:12:36.938000	-	4960960
+ORT	ORT	-	-	0:12:32.958000	0:12:36.938000	ORT	4960961
+Geographie	-	-	-	0:12:32.958000	0:12:36.938000	-	4960962
+studiert	-	-	-	0:12:32.958000	0:12:36.938000	-	4960963
+hat	-	-	-	0:12:32.958000	0:12:36.938000	-	4960964
+und	-	-	-	0:12:36.938000	0:12:39.072000	-	4960967
+ah	-	-	-	0:12:39.072000	0:12:40.865000	-	4960970
+sie	-	-	-	0:12:40.865000	0:12:43.538000	-	4960973
+hat	-	-	-	0:12:40.865000	0:12:43.538000	-	4960974
+sie	-	-	-	0:12:40.865000	0:12:43.538000	-	4960975
+hat	-	-	-	0:12:40.865000	0:12:43.538000	-	4960976
+sogar	-	-	-	0:12:40.865000	0:12:43.538000	-	4960977
+mir	-	-	-	0:12:40.865000	0:12:43.538000	-	4960978
+erzählt	-	-	-	0:12:40.865000	0:12:43.538000	-	4960979
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:12:43.538000	0:12:47.692000	-	4960982
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:12:43.538000	0:12:47.692000	-	4960983
+als	-	-	-	0:12:43.538000	0:12:47.692000	-	4960984
+negativbeispiel	-	-	-	0:12:43.538000	0:12:47.692000	-	4960985
+angeführt	-	-	-	0:12:43.538000	0:12:47.692000	-	4960987
+wird	-	-	-	0:12:43.538000	0:12:47.692000	-	4960988
+zum	-	-	-	0:12:43.538000	0:12:47.692000	-	4960989
+Teil	-	-	-	0:12:43.538000	0:12:47.692000	-	4960990
+der	-	-	-	0:12:47.692000	0:12:49.692000	-	4960993
+Ausbildung	-	-	-	0:12:47.692000	0:12:49.692000	-	4960994
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:49.692000" end="0:12:50.672000" persName="Informant EXP15" age_lower="1" age_upper="999">
+dieser	-	-	-	0:12:49.692000	0:12:50.672000	-	4958008
+Komplex	-	-	-	0:12:49.692000	0:12:50.672000	-	4958009
+da	-	-	-	0:12:49.692000	0:12:50.672000	-	4958010
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:50.672000" end="0:12:51.152000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:12:50.672000	0:12:51.152000	-	4960996
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:51.152000" end="0:12:51.812000" persName="Informant EXP15" age_lower="1" age_upper="999">
+Wahnsinn	-	-	-	0:12:51.152000	0:12:51.812000	-	4958012
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:51.152000" end="0:12:58.152000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+äh	-	-	-	0:12:51.152000	0:12:51.812000	-	4960999
+das	-	-	-	0:12:51.812000	0:12:53.638000	-	4961002
+hat	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:51.812000	0:12:53.638000	-	4961003
+mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:12:51.812000	0:12:53.638000	-	4961004
+total	-	-	-	0:12:51.812000	0:12:53.638000	-	4961005
+ge	-	-	-	0:12:51.812000	0:12:53.638000	-	4961006
+verwundert	-	-	-	0:12:51.812000	0:12:53.638000	-	4961007
+dass	-	-	-	0:12:53.638000	0:12:57.118000	-	4961010
+d	-	-	-	0:12:53.638000	0:12:57.118000	-	4961012
+wie	-	-	-	0:12:53.638000	0:12:57.118000	-	4961013
+wie	-	-	-	0:12:53.638000	0:12:57.118000	-	4961014
+wie	-	-	-	0:12:53.638000	0:12:57.118000	-	4961015
+negativ	-	-	-	0:12:53.638000	0:12:57.118000	-	4961016
+man	-	-	-	0:12:53.638000	0:12:57.118000	-	4961017
+sowas	-	-	-	0:12:53.638000	0:12:57.118000	-	4961018
+lösen	-	-	-	0:12:53.638000	0:12:57.118000	-	4961019
+kann	-	-	-	0:12:53.638000	0:12:57.118000	-	4961020
+ja	-	-	-	0:12:53.638000	0:12:57.118000	-	4961021
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:58.152000" end="0:12:58.798000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:58.798000" end="0:13:07.225000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:12:58.798000	0:13:00.505000	-	4961027
+ist	-	-	-	0:12:58.798000	0:13:00.505000	-	4961028
+visavis	-	-	-	0:12:58.798000	0:13:00.505000	-	4961029
+also	-	-	-	0:13:00.505000	0:13:03.105000	-	4961032
+ja	-	-	-	0:13:00.505000	0:13:03.105000	-	4961034
+das	-	-	-	0:13:00.505000	0:13:03.105000	-	4961035
+ärgert	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:13:00.505000	0:13:03.105000	-	4961036
+mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:13:00.505000	0:13:03.105000	-	4961037
+irgendwie	-	-	-	0:13:00.505000	0:13:03.105000	-	4961038
+schon	-	-	-	0:13:00.505000	0:13:03.105000	-	4961039
+jetzt	-	-	-	0:13:03.105000	0:13:05.378000	-	4961042
+wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:13:03.105000	0:13:05.378000	-	4961043
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:13:03.105000	0:13:05.378000	-	4961044
+wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:13:03.105000	0:13:05.378000	-	4961045
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:13:03.105000	0:13:05.378000	-	4961046
+um	-	-	-	0:13:03.105000	0:13:05.378000	-	4961047
+ORT	ORT	-	-	0:13:03.105000	0:13:05.378000	ORT	4961048
+geht	-	-	-	0:13:03.105000	0:13:05.378000	-	4961049
+das	-	-	-	0:13:05.378000	0:13:07.225000	-	4961052
+ist	-	-	-	0:13:05.378000	0:13:07.225000	-	4961054
+einfach	-	-	-	0:13:05.378000	0:13:07.225000	-	4961055
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:07.225000" end="0:13:14.252000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:13:07.865000	0:13:10.705000	-	4958020
+das	-	-	-	0:13:07.865000	0:13:10.705000	-	4958021
+führt	-	-	-	0:13:07.865000	0:13:10.705000	-	4958022
+mich	-	-	-	0:13:07.865000	0:13:10.705000	-	4958023
+auch	-	-	-	0:13:07.865000	0:13:10.705000	-	4958024
+zur	-	-	-	0:13:07.865000	0:13:10.705000	-	4958025
+nächsten	-	-	-	0:13:07.865000	0:13:10.705000	-	4958026
+Frage	-	-	-	0:13:07.865000	0:13:10.705000	-	4958027
+nämlich	-	-	-	0:13:10.705000	0:13:14.252000	-	4958029
+was	-	-	-	0:13:10.705000	0:13:14.252000	-	4958030
+würden	-	-	-	0:13:10.705000	0:13:14.252000	-	4958031
+Sie	-	-	-	0:13:10.705000	0:13:14.252000	-	4958032
+tun	-	-	-	0:13:10.705000	0:13:14.252000	-	4958033
+wenn	-	-	-	0:13:10.705000	0:13:14.252000	-	4958034
+Sie	-	-	-	0:13:10.705000	0:13:14.252000	-	4958035
+Bürgermeister	-	-	-	0:13:10.705000	0:13:14.252000	-	4958036
+von	-	-	-	0:13:10.705000	0:13:14.252000	-	4958037
+hier	-	-	-	0:13:10.705000	0:13:14.252000	-	4958038
+wären	-	-	-	0:13:10.705000	0:13:14.252000	-	4958039
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:14.252000" end="0:13:15.125000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ha	-	-	-	0:13:14.252000	0:13:15.125000	-	4961057
+oh	-	-	-	0:13:14.252000	0:13:15.125000	-	4961058
+Gott	-	-	-	0:13:14.252000	0:13:15.125000	-	4961059
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:15.125000" end="0:13:16.078000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:16.078000" end="0:13:20.325000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:13:16.078000	0:13:18.325000	-	4961062
+möchte	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:13:16.078000	0:13:18.325000	-	4961063
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:13:16.078000	0:13:18.325000	-	4961064
+nicht	-	-	-	0:13:16.078000	0:13:18.325000	-	4961065
+sein	-	-	-	0:13:16.078000	0:13:18.325000	-	4961066
+das	-	-	-	0:13:18.325000	0:13:20.325000	-	4961068
+ist	-	-	-	0:13:18.325000	0:13:20.325000	-	4961069
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:13:18.325000	0:13:20.325000	-	4961070
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:13:18.325000	0:13:20.325000	-	4961071
+auch	-	-	-	0:13:18.325000	0:13:20.325000	-	4961072
+sehr	-	-	-	0:13:18.325000	0:13:20.325000	-	4961073
+undankbarer	-	-	-	0:13:18.325000	0:13:20.325000	-	4961074
+Job	-	-	-	0:13:18.325000	0:13:20.325000	-	4961075
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:20.325000" end="0:13:21.392000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:21.392000" end="0:13:30.312000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+was	-	-	-	0:13:21.392000	0:13:22.952000	-	4961078
+würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:13:21.392000	0:13:22.952000	-	4961079
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:13:21.392000	0:13:22.952000	-	4961080
+tun	-	-	-	0:13:21.392000	0:13:22.952000	-	4961081
+ja	-	-	-	0:13:24.952000	0:13:29.465000	-	4961084
+das	-	-	-	0:13:24.952000	0:13:29.465000	-	4961085
+ist	-	-	-	0:13:24.952000	0:13:29.465000	-	4961086
+das	-	-	-	0:13:24.952000	0:13:29.465000	-	4961087
+angesprochene	-	-	-	0:13:24.952000	0:13:29.465000	-	4961088
+Problem	-	-	-	0:13:24.952000	0:13:29.465000	-	4961089
+ist	-	-	-	0:13:24.952000	0:13:29.465000	-	4961090
+ja	-	-	-	0:13:24.952000	0:13:29.465000	-	4961091
+jetzt	-	-	-	0:13:24.952000	0:13:29.465000	-	4961092
+nimmer	-	-	-	0:13:24.952000	0:13:29.465000	-	4961093
+wirklich	-	-	-	0:13:24.952000	0:13:29.465000	-	4961094
+zu	-	-	-	0:13:24.952000	0:13:29.465000	-	4961095
+ändern	-	-	-	0:13:24.952000	0:13:29.465000	-	4961096
+kaum	-	-	-	0:13:29.465000	0:13:30.312000	-	4961100
+mehr	-	-	-	0:13:29.465000	0:13:30.312000	-	4961101
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:30.312000" end="0:13:30.765000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:30.765000" end="0:13:55.318000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:13:33.972000	0:13:38.518000	-	4961104
+ich	-	-	-	0:13:33.972000	0:13:38.518000	-	4961105
+würde	-	-	-	0:13:33.972000	0:13:38.518000	-	4961106
+versuchen	-	-	-	0:13:33.972000	0:13:38.518000	-	4961108
+mich	-	-	-	0:13:33.972000	0:13:38.518000	-	4961110
+dafür	-	-	-	0:13:33.972000	0:13:38.518000	-	4961111
+einzusetzen	-	-	-	0:13:33.972000	0:13:38.518000	-	4961112
+dass	-	-	-	0:13:33.972000	0:13:38.518000	-	4961113
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	0:13:38.518000	0:13:42.845000	-	4961116
+wir	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit-	0:13:38.518000	0:13:42.845000	-	4961117
+irgendwie	-	-	-	0:13:38.518000	0:13:42.845000	-	4961118
+vom	-	-	-	0:13:38.518000	0:13:42.845000	-	4961119
+Verkehr	-	-	-	0:13:38.518000	0:13:42.845000	-	4961120
+entlastet	-	-	-	0:13:38.518000	0:13:42.845000	-	4961121
+werden	-	-	-	0:13:38.518000	0:13:42.845000	-	4961122
+das	-	-	-	0:13:42.845000	0:13:50.252000	-	4961126
+ist	-	-	-	0:13:42.845000	0:13:50.252000	-	4961128
+aber	-	-	-	0:13:42.845000	0:13:50.252000	-	4961129
+sicher	-	-	-	0:13:42.845000	0:13:50.252000	-	4961130
+im	-	-	-	0:13:42.845000	0:13:50.252000	-	4961131
+Umland	-	-	-	0:13:42.845000	0:13:50.252000	-	4961133
+von	-	-	-	0:13:42.845000	0:13:50.252000	-	4961134
+ORT	ORT	-	-	0:13:42.845000	0:13:50.252000	ORT	4961135
+haben	-	-	-	0:13:42.845000	0:13:50.252000	-	4961137
+das	-	-	-	0:13:42.845000	0:13:50.252000	-	4961138
+viele	-	-	-	0:13:42.845000	0:13:50.252000	-	4961139
+gemeinden	-	-	-	0:13:42.845000	0:13:50.252000	-	4961140
+das	-	-	-	0:13:42.845000	0:13:50.252000	-	4961141
+Problem	-	-	-	0:13:42.845000	0:13:50.252000	-	4961142
+vermutlich	-	-	-	0:13:42.845000	0:13:50.252000	-	4961143
+es	-	-	-	0:13:50.252000	0:13:55.318000	-	4961146
+ist	-	-	-	0:13:50.252000	0:13:55.318000	-	4961147
+wenig	-	-	-	0:13:50.252000	0:13:55.318000	-	4961148
+Platz	-	-	-	0:13:50.252000	0:13:55.318000	-	4961149
+da	-	-	-	0:13:50.252000	0:13:55.318000	-	4961150
+dass	-	-	-	0:13:50.252000	0:13:55.318000	-	4961151
+wir	-	-	-	0:13:50.252000	0:13:55.318000	-	4961152
+irgendwo	-	-	-	0:13:50.252000	0:13:55.318000	-	4961153
+ausweichrouten	-	-	-	0:13:50.252000	0:13:55.318000	-	4961155
+schaffen	-	-	-	0:13:50.252000	0:13:55.318000	-	4961156
+kann	-	-	-	0:13:50.252000	0:13:55.318000	-	4961157
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:54.572000" end="0:13:54.945000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:55.318000" end="0:14:31.045000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+aber	-	-	-	0:13:55.318000	0:13:58.405000	-	4961159
+es	-	-	-	0:13:55.318000	0:13:58.405000	-	4961160
+ginge	-	-	-	0:13:55.318000	0:13:58.405000	-	4961162
+es	-	-	-	0:13:55.318000	0:13:58.405000	-	4961163
+gibt	-	-	-	0:13:55.318000	0:13:58.405000	-	4961164
+schon	-	-	-	0:13:55.318000	0:13:58.405000	-	4961165
+zum	-	-	-	0:13:55.318000	0:13:58.405000	-	4961166
+Teil	-	-	-	0:13:55.318000	0:13:58.405000	-	4961167
+Möglichkeiten	-	-	-	0:13:55.318000	0:13:58.405000	-	4961168
+also	-	-	-	0:13:58.405000	0:14:03.232000	-	4961171
+das	-	-	-	0:13:58.405000	0:14:03.232000	-	4961172
+wäre	-	-	-	0:13:58.405000	0:14:03.232000	-	4961173
+ein	-	-	-	0:13:58.405000	0:14:03.232000	-	4961174
+das	-	-	-	0:13:58.405000	0:14:03.232000	-	4961176
+wäre	-	-	-	0:13:58.405000	0:14:03.232000	-	4961177
+ein	-	-	-	0:13:58.405000	0:14:03.232000	-	4961178
+versuche	-	-	-	0:13:58.405000	0:14:03.232000	-	4961179
+ah	-	-	-	0:14:03.232000	0:14:10.892000	-	4961182
+ich	-	-	-	0:14:03.232000	0:14:10.892000	-	4961184
+würde	-	-	-	0:14:03.232000	0:14:10.892000	-	4961185
+versuchen	-	-	-	0:14:03.232000	0:14:10.892000	-	4961186
+zum	-	-	-	0:14:03.232000	0:14:10.892000	-	4961187
+Beispiel	-	-	-	0:14:03.232000	0:14:10.892000	-	4961188
+dass	-	-	-	0:14:03.232000	0:14:10.892000	-	4961189
+da	-	-	-	0:14:03.232000	0:14:10.892000	-	4961191
+ortskern	-	-	-	0:14:03.232000	0:14:10.892000	-	4961192
+belebt	-	-	-	0:14:03.232000	0:14:10.892000	-	4961193
+wird	-	-	-	0:14:03.232000	0:14:10.892000	-	4961194
+wir	-	-	-	0:14:10.892000	0:14:16.378000	-	4961197
+haben	-	-	-	0:14:10.892000	0:14:16.378000	-	4961198
+ja	-	-	-	0:14:10.892000	0:14:16.378000	-	4961199
+eigentlich	-	-	-	0:14:10.892000	0:14:16.378000	-	4961201
+ist	-	-	-	0:14:10.892000	0:14:16.378000	-	4961202
+das	-	-	-	0:14:10.892000	0:14:16.378000	-	4961203
+Einzige	-	-	-	0:14:10.892000	0:14:16.378000	-	4961204
+wofür	-	-	-	0:14:10.892000	0:14:16.378000	-	4961205
+ORT	ORT	-	-	0:14:10.892000	0:14:16.378000	ORT	4961206
+bekannt	-	-	-	0:14:10.892000	0:14:16.378000	-	4961207
+ist	-	-	-	0:14:10.892000	0:14:16.378000	-	4961208
+über	-	-	-	0:14:16.378000	0:14:17.598000	-	4961210
+die	-	-	-	0:14:16.378000	0:14:17.598000	-	4961211
+grenzen	-	-	-	0:14:16.378000	0:14:17.598000	-	4961212
+hinaus	-	-	-	0:14:16.378000	0:14:17.598000	-	4961213
+ist	-	-	-	0:14:17.598000	0:14:19.191000	-	4961215
+ja	-	-	-	0:14:17.598000	0:14:19.191000	-	4961216
+das	-	-	-	0:14:17.598000	0:14:19.191000	-	4961217
+neue	-	-	-	0:14:17.598000	0:14:19.191000	-	4961218
+shopping	-	-	-	0:14:17.598000	0:14:19.191000	-	4961219
+center	-	-	-	0:14:17.598000	0:14:19.191000	-	4961220
+ORT	ORT	-	-	0:14:19.191000	0:14:21.191000	ORT	4961223
+drei	-	-	-	0:14:19.191000	0:14:21.191000	-	4961224
+das	-	-	-	0:14:21.191000	0:14:22.438000	-	4961226
+ist	-	-	-	0:14:21.191000	0:14:22.438000	-	4961227
+aber	-	-	-	0:14:21.191000	0:14:22.438000	-	4961228
+da	-	-	-	0:14:22.438000	0:14:25.551000	-	4961231
+gel	-	-	-	0:14:22.438000	0:14:25.551000	-	4961232
+glauben	-	-	-	0:14:22.438000	0:14:25.551000	-	4961233
+die	-	-	-	0:14:22.438000	0:14:25.551000	-	4961234
+Leute	-	-	-	0:14:22.438000	0:14:25.551000	-	4961235
+die	-	-	-	0:14:22.438000	0:14:25.551000	-	4961236
+halt	-	-	-	0:14:22.438000	0:14:25.551000	-	4961237
+von	-	-	-	0:14:22.438000	0:14:25.551000	-	4961238
+weiter	-	-	-	0:14:22.438000	0:14:25.551000	-	4961239
+her	-	-	-	0:14:22.438000	0:14:25.551000	-	4961240
+kommen	-	-	-	0:14:22.438000	0:14:25.551000	-	4961241
+das	-	-	-	0:14:25.551000	0:14:27.045000	-	4961243
+ist	-	-	-	0:14:25.551000	0:14:27.045000	-	4961244
+jetzt	-	-	-	0:14:25.551000	0:14:27.045000	-	4961245
+neben	-	-	-	0:14:25.551000	0:14:27.045000	-	4961246
+der	-	-	-	0:14:25.551000	0:14:27.045000	-	4961247
+Kirche	-	-	-	0:14:25.551000	0:14:27.045000	-	4961248
+weil	-	-	-	0:14:27.045000	0:14:31.045000	-	4961251
+ORT	ORT	-	-	0:14:27.045000	0:14:31.045000	ORT	4961252
+und	-	-	-	0:14:27.045000	0:14:31.045000	-	4961253
+die	-	-	-	0:14:27.045000	0:14:31.045000	-	4961254
+geben	-	-	-	0:14:27.045000	0:14:31.045000	-	4961255
+ins	-	-	-	0:14:27.045000	0:14:31.045000	-	4961256
+navi	-	-	-	0:14:27.045000	0:14:31.045000	-	4961257
+ein	-	-	-	0:14:27.045000	0:14:31.045000	-	4961258
+ORT	ORT	-	-	0:14:27.045000	0:14:31.045000	ORT	4961259
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:31.045000" end="0:14:31.698000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:31.045000" end="0:14:35.131000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:14:31.045000	0:14:33.505000	-	4961261
+das	-	-	-	0:14:31.045000	0:14:33.505000	-	4961262
+führt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(pl.akk.) klit-	0:14:31.045000	0:14:33.505000	-	4961263
+Sie	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(pl.akk.) klit-	0:14:31.045000	0:14:33.505000	-	4961264
+zur	-	-	-	0:14:31.045000	0:14:33.505000	-	4961265
+ins	-	-	-	0:14:31.045000	0:14:33.505000	-	4961267
+Zentrum	-	-	-	0:14:31.045000	0:14:33.505000	-	4961268
+zur	-	-	-	0:14:31.045000	0:14:33.505000	-	4961269
+Kirche	-	-	-	0:14:31.045000	0:14:33.505000	-	4961270
+zu	-	-	-	0:14:33.505000	0:14:35.131000	-	4961272
+zum	-	-	-	0:14:33.505000	0:14:35.131000	-	4961273
+zum	-	-	-	0:14:33.505000	0:14:35.131000	-	4961274
+Rathausplatz	-	-	-	0:14:33.505000	0:14:35.131000	-	4961275
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:14:35.131000" end="0:14:35.838000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:35.838000" end="0:15:03.005000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:14:35.838000	0:14:37.065000	-	4961278
+dann	-	-	-	0:14:35.838000	0:14:37.065000	-	4961279
+bleiben	-	-	-	0:14:35.838000	0:14:37.065000	-	4961280
+die	-	-	-	0:14:35.838000	0:14:37.065000	-	4961281
+dort	-	-	-	0:14:35.838000	0:14:37.065000	-	4961282
+stehen	-	-	-	0:14:35.838000	0:14:37.065000	-	4961283
+wenn	-	-	-	0:14:37.065000	0:14:38.465000	-	4961286
+man	-	-	-	0:14:37.065000	0:14:38.465000	-	4961287
+spazieren	-	-	-	0:14:37.065000	0:14:38.465000	-	4961288
+geht	-	-	-	0:14:37.065000	0:14:38.465000	-	4961289
+im	-	-	-	0:14:37.065000	0:14:38.465000	-	4961290
+Ort	-	-	-	0:14:37.065000	0:14:38.465000	-	4961291
+war	-	-	-	0:14:38.465000	0:14:42.491000	-	4961294
+ein	-	-	-	0:14:38.465000	0:14:42.491000	-	4961295
+zeitlang	-	-	-	0:14:38.465000	0:14:42.491000	-	4961296
+dass	-	-	-	0:14:38.465000	0:14:42.491000	-	4961297
+man	-	-	-	0:14:38.465000	0:14:42.491000	-	4961298
+jeden	-	-	-	0:14:38.465000	0:14:42.491000	-	4961299
+Tag	-	-	-	0:14:38.465000	0:14:42.491000	-	4961300
+garantiert	-	-	-	0:14:38.465000	0:14:42.491000	-	4961301
+die	-	-	-	0:14:38.465000	0:14:42.491000	-	4961302
+Frage	-	-	-	0:14:38.465000	0:14:42.491000	-	4961303
+kriegt	-	-	-	0:14:38.465000	0:14:42.491000	-	4961304
+hat	-	-	-	0:14:38.465000	0:14:42.491000	-	4961305
+von	-	-	-	0:14:42.491000	0:14:45.378000	-	4961307
+am	-	-	-	0:14:42.491000	0:14:45.378000	-	4961308
+Autofahrer	-	-	-	0:14:42.491000	0:14:45.378000	-	4961309
+der	-	-	-	0:14:42.491000	0:14:45.378000	-	4961310
+von	-	-	-	0:14:42.491000	0:14:45.378000	-	4961312
+weiß	-	-	-	0:14:42.491000	0:14:45.378000	-	4961313
+Gott	-	-	-	0:14:42.491000	0:14:45.378000	-	4961314
+wo	-	-	-	0:14:42.491000	0:14:45.378000	-	4961315
+kommt	-	-	-	0:14:42.491000	0:14:45.378000	-	4961316
+von	-	-	-	0:14:45.378000	0:14:47.151000	-	4961319
+Tschechien	-	-	-	0:14:45.378000	0:14:47.151000	-	4961320
+von	-	-	-	0:14:45.378000	0:14:47.151000	-	4961321
+der	-	-	-	0:14:45.378000	0:14:47.151000	-	4961322
+Slowakei	-	-	-	0:14:45.378000	0:14:47.151000	-	4961323
+ah	-	-	-	0:14:47.151000	0:14:49.518000	-	4961326
+wo	-	-	-	0:14:47.151000	0:14:49.518000	-	4961328
+ist	-	-	-	0:14:47.151000	0:14:49.518000	-	4961329
+denn	-	-	-	0:14:47.151000	0:14:49.518000	-	4961330
+das	-	-	-	0:14:47.151000	0:14:49.518000	-	4961331
+ORT	ORT	-	-	0:14:47.151000	0:14:49.518000	ORT	4961332
+drei	-	-	-	0:14:47.151000	0:14:49.518000	-	4961333
+allen	-	-	-	0:14:49.518000	0:14:50.638000	-	4961336
+Sprachen	-	-	-	0:14:49.518000	0:14:50.638000	-	4961337
+wo	-	-	-	0:14:50.638000	0:14:53.331000	-	4961340
+man	-	-	-	0:14:50.638000	0:14:53.331000	-	4961341
+sagt	-	-	-	0:14:50.638000	0:14:53.331000	-	4961342
+da	-	-	-	0:14:50.638000	0:14:53.331000	-	4961343
+nein	-	-	-	0:14:50.638000	0:14:53.331000	-	4961344
+das	-	-	-	0:14:50.638000	0:14:53.331000	-	4961345
+ist	-	-	-	0:14:50.638000	0:14:53.331000	-	4961346
+nicht	-	-	-	0:14:50.638000	0:14:53.331000	-	4961347
+hier	-	-	-	0:14:50.638000	0:14:53.331000	-	4961348
+im	-	-	-	0:14:50.638000	0:14:53.331000	-	4961349
+Ort	-	-	-	0:14:50.638000	0:14:53.331000	-	4961350
+das	-	-	-	0:14:53.331000	0:14:55.778000	-	4961353
+ist	-	-	-	0:14:53.331000	0:14:55.778000	-	4961354
+vier	-	-	-	0:14:53.331000	0:14:55.778000	-	4961355
+Kilometer	-	-	-	0:14:53.331000	0:14:55.778000	-	4961356
+nordwestlich	-	-	-	0:14:53.331000	0:14:55.778000	-	4961357
+außerhalb	-	-	-	0:14:55.778000	0:14:56.818000	-	4961359
+vom	-	-	-	0:14:55.778000	0:14:56.818000	-	4961360
+Ort	-	-	-	0:14:55.778000	0:14:56.818000	-	4961361
+weil	-	-	-	0:14:56.818000	0:14:58.638000	-	4961364
+das	-	-	-	0:14:56.818000	0:14:58.638000	-	4961365
+ja	-	-	-	0:14:56.818000	0:14:58.638000	-	4961366
+riesen	-	-	-	0:14:56.818000	0:14:58.638000	-	4961368
+einkaufszentrum	-	-	-	0:14:56.818000	0:14:58.638000	-	4961369
+ist	-	-	-	0:14:56.818000	0:14:58.638000	-	4961370
+und	-	-	-	0:14:58.638000	0:15:03.005000	-	4961373
+das	-	-	-	0:14:58.638000	0:15:03.005000	-	4961374
+zieht	-	-	-	0:14:58.638000	0:15:03.005000	-	4961375
+natürlich	-	-	-	0:14:58.638000	0:15:03.005000	-	4961376
+alles	-	-	-	0:14:58.638000	0:15:03.005000	-	4961377
+irgendwie	-	-	-	0:14:58.638000	0:15:03.005000	-	4961378
+schon	-	-	-	0:14:58.638000	0:15:03.005000	-	4961379
+da	-	-	-	0:14:58.638000	0:15:03.005000	-	4961380
+raus	-	-	-	0:14:58.638000	0:15:03.005000	-	4961381
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:03.005000" end="0:15:03.891000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:03.891000" end="0:15:15.338000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:15:03.891000	0:15:08.738000	-	4961384
+äh	-	-	-	0:15:03.891000	0:15:08.738000	-	4961386
+also	-	-	-	0:15:03.891000	0:15:08.738000	-	4961387
+im	-	-	-	0:15:03.891000	0:15:08.738000	-	4961388
+Ort	-	-	-	0:15:03.891000	0:15:08.738000	-	4961389
+gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:03.891000	0:15:08.738000	-	4961390
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:03.891000	0:15:08.738000	-	4961391
+schon	-	-	-	0:15:03.891000	0:15:08.738000	-	4961392
+entlang	-	-	-	0:15:03.891000	0:15:08.738000	-	4961393
+der	-	-	-	0:15:03.891000	0:15:08.738000	-	4961394
+Hauptstraße	-	-	-	0:15:03.891000	0:15:08.738000	-	4961395
+beziehungsweise	-	-	-	0:15:08.738000	0:15:10.558000	-	4961398
+dann	-	-	-	0:15:08.738000	0:15:10.558000	-	4961399
+wie	-	-	-	0:15:10.558000	0:15:12.478000	-	4961402
+hasst	-	-	-	0:15:10.558000	0:15:12.478000	-	4961403
+die	-	-	-	0:15:10.558000	0:15:12.478000	-	4961404
+überhaupt	-	-	-	0:15:10.558000	0:15:12.478000	-	4961405
+ORT	ORT	-	-	0:15:12.478000	0:15:13.805000	ORT	4961407
+Richtung	-	-	-	0:15:13.805000	0:15:15.338000	-	4961410
+ORT	ORT	-	-	0:15:13.805000	0:15:15.338000	ORT	4961411
+rein	-	-	-	0:15:13.805000	0:15:15.338000	-	4961412
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:15.338000" end="0:15:15.798000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:15.798000" end="0:15:38.618000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:15.798000	0:15:18.291000	-	4961414
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:15.798000	0:15:18.291000	-	4961415
+schon	-	-	-	0:15:15.798000	0:15:18.291000	-	4961416
+ein	-	-	-	0:15:15.798000	0:15:18.291000	-	4961418
+paar	-	-	-	0:15:15.798000	0:15:18.291000	-	4961419
+Geschäfte	-	-	-	0:15:15.798000	0:15:18.291000	-	4961420
+wird	-	-	-	0:15:18.291000	0:15:19.638000	-	4961423
+auch	-	-	-	0:15:18.291000	0:15:19.638000	-	4961424
+jetzt	-	-	-	0:15:18.291000	0:15:19.638000	-	4961425
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:15:18.291000	0:15:19.638000	-	4961426
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:15:18.291000	0:15:19.638000	-	4961427
+mehr	-	-	-	0:15:18.291000	0:15:19.638000	-	4961428
+aber	-	-	-	0:15:19.638000	0:15:22.738000	-	4961431
+jetzt	-	-	-	0:15:19.638000	0:15:22.738000	-	4961432
+nicht	-	-	-	0:15:19.638000	0:15:22.738000	-	4961433
+direkt	-	-	-	0:15:19.638000	0:15:22.738000	-	4961434
+im	-	-	-	0:15:19.638000	0:15:22.738000	-	4961435
+ortskern	-	-	-	0:15:19.638000	0:15:22.738000	-	4961436
+beim	-	-	-	0:15:22.738000	0:15:23.745000	-	4961438
+beim	-	-	-	0:15:22.738000	0:15:23.745000	-	4961439
+Rathaus	-	-	-	0:15:22.738000	0:15:23.745000	-	4961440
+bei	-	-	-	0:15:23.745000	0:15:24.298000	-	4961442
+der	-	-	-	0:15:23.745000	0:15:24.298000	-	4961443
+Kirche	-	-	-	0:15:23.745000	0:15:24.298000	-	4961444
+da	-	-	-	0:15:24.298000	0:15:25.771000	-	4961446
+ist	-	-	-	0:15:24.298000	0:15:25.771000	-	4961447
+der	-	-	-	0:15:24.298000	0:15:25.771000	-	4961448
+ist	-	-	-	0:15:24.298000	0:15:25.771000	-	4961449
+eigentlich	-	-	-	0:15:24.298000	0:15:25.771000	-	4961450
+nix	-	-	-	0:15:24.298000	0:15:25.771000	-	4961451
+und	-	-	-	0:15:25.771000	0:15:29.251000	-	4961454
+da	-	-	-	0:15:25.771000	0:15:29.251000	-	4961455
+gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:25.771000	0:15:29.251000	-	4961456
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:25.771000	0:15:29.251000	-	4961457
+zum	-	-	-	0:15:25.771000	0:15:29.251000	-	4961458
+Beispiel	-	-	-	0:15:25.771000	0:15:29.251000	-	4961459
+auch	-	-	-	0:15:25.771000	0:15:29.251000	-	4961460
+in	-	-	-	0:15:25.771000	0:15:29.251000	-	4961461
+manchen	-	-	-	0:15:25.771000	0:15:29.251000	-	4961462
+anderen	-	-	-	0:15:25.771000	0:15:29.251000	-	4961463
+gemeinden	-	-	-	0:15:25.771000	0:15:29.251000	-	4961464
+ich	-	-	-	0:15:29.251000	0:15:31.391000	-	4961467
+darf	-	-	-	0:15:29.251000	0:15:31.391000	-	4961468
+wahrscheinlich	-	-	-	0:15:29.251000	0:15:31.391000	-	4961469
+alles	-	-	-	0:15:29.251000	0:15:31.391000	-	4961470
+sagen	-	-	-	0:15:29.251000	0:15:31.391000	-	4961471
+es	-	-	-	0:15:31.391000	0:15:32.438000	-	4961474
+ist	-	-	-	0:15:31.391000	0:15:32.438000	-	4961475
+eh	-	-	-	0:15:31.391000	0:15:32.438000	-	4961476
+etwas	-	-	-	0:15:31.391000	0:15:32.438000	-	4961477
+Positives	-	-	-	0:15:31.391000	0:15:32.438000	-	4961478
+in	-	-	-	0:15:32.438000	0:15:33.985000	-	4961481
+ORT	ORT	-	-	0:15:32.438000	0:15:33.985000	ORT	4961482
+zum	-	-	-	0:15:32.438000	0:15:33.985000	-	4961483
+Beispiel	-	-	-	0:15:32.438000	0:15:33.985000	-	4961484
+ist	-	-	-	0:15:33.985000	0:15:36.845000	-	4961487
+ein	-	-	-	0:15:33.985000	0:15:36.845000	-	4961488
+ähnliche	-	-	-	0:15:33.985000	0:15:36.845000	-	4961489
+Situation	-	-	-	0:15:33.985000	0:15:36.845000	-	4961490
+wie	-	-	-	0:15:33.985000	0:15:36.845000	-	4961491
+wie	-	-	-	0:15:33.985000	0:15:36.845000	-	4961493
+wir	-	-	-	0:15:33.985000	0:15:36.845000	-	4961494
+die	-	-	-	0:15:36.845000	0:15:38.618000	-	4961497
+nächste	-	-	-	0:15:36.845000	0:15:38.618000	-	4961498
+Gemeinde	-	-	-	0:15:36.845000	0:15:38.618000	-	4961499
+nach	-	-	-	0:15:36.845000	0:15:38.618000	-	4961500
+ORT	ORT	-	-	0:15:36.845000	0:15:38.618000	ORT	4961501
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:38.618000" end="0:15:39.145000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:39.145000" end="0:15:49.445000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ah	-	-	-	0:15:39.145000	0:15:43.491000	-	4961504
+gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:39.145000	0:15:43.491000	-	4961506
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:39.145000	0:15:43.491000	-	4961507
+zum	-	-	-	0:15:39.145000	0:15:43.491000	-	4961508
+Beispiel	-	-	-	0:15:39.145000	0:15:43.491000	-	4961509
+wochenmärkte	-	-	-	0:15:39.145000	0:15:43.491000	-	4961510
+oder	-	-	-	0:15:39.145000	0:15:43.491000	-	4961511
+sowos	-	-	-	0:15:39.145000	0:15:43.491000	-	4961512
+weiß	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:43.491000	0:15:47.191000	-	4961514
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:43.491000	0:15:47.191000	-	4961515
+dass	-	-	-	0:15:43.491000	0:15:47.191000	-	4961516
+da	-	-	-	0:15:43.491000	0:15:47.191000	-	4961517
+jeden	-	-	-	0:15:43.491000	0:15:47.191000	-	4961518
+Samstag	-	-	-	0:15:43.491000	0:15:47.191000	-	4961519
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:43.491000	0:15:47.191000	-	4961520
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:43.491000	0:15:47.191000	-	4961521
+auch	-	-	-	0:15:43.491000	0:15:47.191000	-	4961522
+Markt	-	-	-	0:15:43.491000	0:15:47.191000	-	4961523
+ist	-	-	-	0:15:43.491000	0:15:47.191000	-	4961524
+bauernmarkt	-	-	-	0:15:47.191000	0:15:47.971000	-	4961526
+das	-	-	-	0:15:47.971000	0:15:49.445000	-	4961529
+hat	-	-	-	0:15:47.971000	0:15:49.445000	-	4961530
+sich	-	-	-	0:15:47.971000	0:15:49.445000	-	4961531
+bei	-	-	-	0:15:47.971000	0:15:49.445000	-	4961532
+uns	-	-	-	0:15:47.971000	0:15:49.445000	-	4961533
+aufgehört	-	-	-	0:15:47.971000	0:15:49.445000	-	4961534
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:49.445000" end="0:15:50.471000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:49.445000" end="0:15:56.285000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+es	-	-	-	0:15:49.445000	0:15:50.471000	-	4961536
+hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:49.445000	0:15:50.471000	-	4961537
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:15:49.445000	0:15:50.471000	-	4961538
+früher	-	-	-	0:15:49.445000	0:15:50.471000	-	4961539
+auch	-	-	-	0:15:49.445000	0:15:50.471000	-	4961540
+geben	-	-	-	0:15:49.445000	0:15:50.471000	-	4961541
+das	-	-	-	0:15:50.471000	0:15:53.218000	-	4961544
+wäre	-	-	-	0:15:50.471000	0:15:53.218000	-	4961545
+schön	-	-	-	0:15:50.471000	0:15:53.218000	-	4961546
+we	-	-	-	0:15:50.471000	0:15:53.218000	-	4961547
+man	-	-	-	0:15:50.471000	0:15:53.218000	-	4961548
+sowas	-	-	-	0:15:50.471000	0:15:53.218000	-	4961549
+wieder	-	-	-	0:15:50.471000	0:15:53.218000	-	4961550
+etabliert	-	-	-	0:15:50.471000	0:15:53.218000	-	4961551
+und	-	-	-	0:15:53.218000	0:15:56.285000	-	4961554
+auch	-	-	-	0:15:53.218000	0:15:56.285000	-	4961555
+im	-	-	-	0:15:53.218000	0:15:56.285000	-	4961556
+im	-	-	-	0:15:53.218000	0:15:56.285000	-	4961557
+ortskern	-	-	-	0:15:53.218000	0:15:56.285000	-	4961558
+sowas	-	-	-	0:15:53.218000	0:15:56.285000	-	4961560
+macht	-	-	-	0:15:53.218000	0:15:56.285000	-	4961561
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:56.285000" end="0:15:57.698000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:56.725000" end="0:15:58.758000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:56.725000	0:15:58.758000	-	4961564
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:15:56.725000	0:15:58.758000	-	4961565
+versuchen	-	-	-	0:15:56.725000	0:15:58.758000	-	4961566
+als	-	-	-	0:15:56.725000	0:15:58.758000	-	4961567
+Bürgermeister	-	-	-	0:15:56.725000	0:15:58.758000	-	4961568
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:58.758000" end="0:16:07.118000" persName="Informant EXP15" age_lower="1" age_upper="999">
+schön	-	-	-	0:15:59.505000	0:16:01.358000	-	4958081
+ich	-	-	-	0:16:01.898000	0:16:04.698000	-	4958086
+würde	-	-	-	0:16:01.898000	0:16:04.698000	-	4958087
+jetzt	-	-	-	0:16:01.898000	0:16:04.698000	-	4958088
+zu	-	-	-	0:16:01.898000	0:16:04.698000	-	4958089
+einen	-	-	-	0:16:01.898000	0:16:04.698000	-	4958090
+anderen	-	-	-	0:16:01.898000	0:16:04.698000	-	4958091
+Thema	-	-	-	0:16:01.898000	0:16:04.698000	-	4958092
+kommen	-	-	-	0:16:01.898000	0:16:04.698000	-	4958093
+und	-	-	-	0:16:04.698000	0:16:07.118000	-	4958095
+mit	-	-	-	0:16:04.698000	0:16:07.118000	-	4958096
+Ihnen	-	-	-	0:16:04.698000	0:16:07.118000	-	4958097
+ein	-	-	-	0:16:04.698000	0:16:07.118000	-	4958098
+bisschen	-	-	-	0:16:04.698000	0:16:07.118000	-	4958099
+über	-	-	-	0:16:04.698000	0:16:07.118000	-	4958100
+Sprache	-	-	-	0:16:04.698000	0:16:07.118000	-	4958101
+sprechen	-	-	-	0:16:04.698000	0:16:07.118000	-	4958102
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:07.118000" end="0:16:07.418000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:16:07.118000	0:16:07.418000	-	4961570
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:07.418000" end="0:16:11.898000" persName="Informant EXP15" age_lower="1" age_upper="999">
+was	-	-	-	0:16:07.418000	0:16:08.211000	-	4958105
+da	-	-	-	0:16:08.211000	0:16:09.311000	-	4958108
+ist	-	-	-	0:16:08.211000	0:16:09.311000	-	4958109
+meine	-	-	-	0:16:08.211000	0:16:09.311000	-	4958110
+erste	-	-	-	0:16:08.211000	0:16:09.311000	-	4958111
+Frage	-	-	-	0:16:08.211000	0:16:09.311000	-	4958112
+was	-	-	-	0:16:09.311000	0:16:11.898000	-	4958114
+verstehen	-	-	-	0:16:09.311000	0:16:11.898000	-	4958115
+Sie	-	-	-	0:16:09.311000	0:16:11.898000	-	4958116
+unter	-	-	-	0:16:09.311000	0:16:11.898000	-	4958117
+dem	-	-	-	0:16:09.311000	0:16:11.898000	-	4958118
+Begriff	-	-	-	0:16:09.311000	0:16:11.898000	-	4958119
+Dialekt	-	-	-	0:16:09.311000	0:16:11.898000	-	4958120
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:10.638000" end="0:16:39.525000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ich	-	-	-	0:16:17.898000	0:16:20.271000	-	4961575
+verstehe	-	-	-	0:16:17.898000	0:16:20.271000	-	4961576
+darunter	-	-	-	0:16:17.898000	0:16:20.271000	-	4961577
+eine	-	-	-	0:16:17.898000	0:16:20.271000	-	4961578
+äh	-	-	-	0:16:25.271000	0:16:26.065000	-	4961581
+an	-	-	-	0:16:28.391000	0:16:32.998000	-	4961585
+einen	-	-	-	0:16:28.391000	0:16:32.998000	-	4961586
+spezi	-	-	-	0:16:28.391000	0:16:32.998000	-	4961587
+ein	-	-	-	0:16:28.391000	0:16:32.998000	-	4961588
+ein	-	-	-	0:16:28.391000	0:16:32.998000	-	4961589
+spezifisches	-	-	-	0:16:28.391000	0:16:32.998000	-	4961590
+Gebiet	-	-	-	0:16:28.391000	0:16:32.998000	-	4961591
+gebundene	-	-	-	0:16:28.391000	0:16:32.998000	-	4961593
+Form	-	-	-	0:16:34.011000	0:16:36.531000	-	4961598
+der	-	-	-	0:16:34.011000	0:16:36.531000	-	4961600
+Sprache	-	-	-	0:16:34.011000	0:16:36.531000	-	4961601
+ah	-	-	-	0:16:36.531000	0:16:39.525000	-	4961603
+eine	-	-	-	0:16:36.531000	0:16:39.525000	-	4961604
+eine	-	-	-	0:16:36.531000	0:16:39.525000	-	4961605
+gebietstypische	-	-	-	0:16:36.531000	0:16:39.525000	-	4961607
+Umgangssprache	-	-	-	0:16:36.531000	0:16:39.525000	-	4961608
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:39.525000" end="0:16:44.051000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:16:40.331000	0:16:44.051000	-	4958127
+wie	-	-	-	0:16:40.331000	0:16:44.051000	-	4958128
+würden	-	-	-	0:16:40.331000	0:16:44.051000	-	4958129
+Sie	-	-	-	0:16:40.331000	0:16:44.051000	-	4958130
+das	-	-	-	0:16:40.331000	0:16:44.051000	-	4958131
+Gegenteil	-	-	-	0:16:40.331000	0:16:44.051000	-	4958132
+von	-	-	-	0:16:40.331000	0:16:44.051000	-	4958133
+Dialekt	-	-	-	0:16:40.331000	0:16:44.051000	-	4958134
+nennen	-	-	-	0:16:40.331000	0:16:44.051000	-	4958135
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:44.051000" end="0:16:44.805000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+Hochsprache	-	-	-	0:16:44.051000	0:16:44.805000	-	4961610
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:16:44.805000" end="0:16:49.365000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:16:45.618000	0:16:49.365000	-	4958142
+können	-	-	-	0:16:45.618000	0:16:49.365000	-	4958143
+Sie	-	-	-	0:16:45.618000	0:16:49.365000	-	4958144
+Dialekt	-	-	-	0:16:45.618000	0:16:49.365000	-	4958145
+und	-	-	-	0:16:45.618000	0:16:49.365000	-	4958146
+Hochsprache	-	-	-	0:16:45.618000	0:16:49.365000	-	4958147
+sprechen	-	-	-	0:16:45.618000	0:16:49.365000	-	4958148
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:49.365000" end="0:17:02.765000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+äh	-	-	-	0:16:51.258000	0:16:53.718000	-	4961615
+ich	-	-	-	0:16:56.331000	0:16:59.971000	-	4961618
+müsste	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:16:56.331000	0:16:59.971000	-	4961619
+mich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:16:56.331000	0:16:59.971000	-	4961620
+sehr	-	-	-	0:16:56.331000	0:16:59.971000	-	4961621
+bemühen	-	-	-	0:16:56.331000	0:16:59.971000	-	4961622
+wahscheinlich	-	-	-	0:16:56.331000	0:16:59.971000	-	4961623
+um	-	-	-	0:16:56.331000	0:16:59.971000	-	4961624
+wirklich	-	-	-	0:16:56.331000	0:16:59.971000	-	4961625
+Hochsprache	-	-	-	0:16:56.331000	0:16:59.971000	-	4961626
+zu	-	-	-	0:16:56.331000	0:16:59.971000	-	4961627
+sprechen	-	-	-	0:16:56.331000	0:16:59.971000	-	4961628
+es	-	-	-	0:16:59.971000	0:17:02.765000	-	4961632
+könnte	-	-	-	0:16:59.971000	0:17:02.765000	-	4961633
+klappen	-	-	-	0:16:59.971000	0:17:02.765000	-	4961634
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:01.391000" end="0:17:04.231000" persName="Informant EXP15" age_lower="1" age_upper="999">
+gibt	-	-	-	0:17:02.765000	0:17:04.231000	-	4958154
+es	-	-	-	0:17:02.765000	0:17:04.231000	-	4958155
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:02.765000" end="0:17:04.231000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+Dialekt	-	-	-	0:17:02.765000	0:17:04.231000	-	4961637
+ja	-	-	-	0:17:02.765000	0:17:04.231000	-	4961638
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:04.231000" end="0:17:05.545000" persName="Informant EXP15" age_lower="1" age_upper="999">
+entschuldigung	-	-	-	0:17:04.231000	0:17:05.078000	-	4958158
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:05.545000" end="0:17:29.358000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+äh	-	-	-	0:17:07.545000	0:17:11.505000	-	4961642
+es	-	-	-	0:17:07.545000	0:17:11.505000	-	4961643
+ja	-	-	-	0:17:07.545000	0:17:11.505000	-	4961644
+so	-	-	-	0:17:07.545000	0:17:11.505000	-	4961645
+echten	-	-	-	0:17:07.545000	0:17:11.505000	-	4961646
+Dialekt	-	-	-	0:17:07.545000	0:17:11.505000	-	4961647
+ist	-	-	-	0:17:07.545000	0:17:11.505000	-	4961649
+die	-	-	-	0:17:07.545000	0:17:11.505000	-	4961650
+Frage	-	-	-	0:17:07.545000	0:17:11.505000	-	4961651
+es	-	-	-	0:17:11.505000	0:17:13.125000	-	4961654
+ist	-	-	-	0:17:11.505000	0:17:13.125000	-	4961655
+ich	-	-	-	0:17:13.125000	0:17:19.458000	-	4961658
+ich	-	-	-	0:17:13.125000	0:17:19.458000	-	4961660
+ich	-	-	-	0:17:13.125000	0:17:19.458000	-	4961661
+ich	-	-	-	0:17:13.125000	0:17:19.458000	-	4961662
+weiß	-	-	-	0:17:13.125000	0:17:19.458000	-	4961663
+nicht	-	-	-	0:17:13.125000	0:17:19.458000	-	4961664
+ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:13.125000	0:17:19.458000	-	4961665
+zwischen	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:13.125000	0:17:19.458000	-	4961666
+Umgangssprache	-	-	-	0:17:13.125000	0:17:19.458000	-	4961668
+und	-	-	-	0:17:13.125000	0:17:19.458000	-	4961669
+Dialekt	-	-	-	0:17:13.125000	0:17:19.458000	-	4961670
+wirklich	-	-	-	0:17:13.125000	0:17:19.458000	-	4961671
+die	-	-	-	0:17:13.125000	0:17:19.458000	-	4961672
+Unterscheidung	-	-	-	0:17:13.125000	0:17:19.458000	-	4961673
+gibt	-	-	-	0:17:13.125000	0:17:19.458000	-	4961674
+es	-	-	-	0:17:13.125000	0:17:19.458000	-	4961675
+das	-	-	-	0:17:21.758000	0:17:24.391000	-	4961678
+habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:17:21.758000	0:17:24.391000	-	4961680
+i	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:17:21.758000	0:17:24.391000	-	4961681
+nimmer	-	-	-	0:17:21.758000	0:17:24.391000	-	4961682
+so	-	-	-	0:17:21.758000	0:17:24.391000	-	4961683
+im	-	-	-	0:17:21.758000	0:17:24.391000	-	4961684
+äh	-	-	-	0:17:24.391000	0:17:27.991000	-	4961687
+ich	-	-	-	0:17:24.391000	0:17:27.991000	-	4961688
+würde	-	-	-	0:17:24.391000	0:17:27.991000	-	4961689
+sagen	-	-	-	0:17:24.391000	0:17:27.991000	-	4961690
+es	-	-	-	0:17:24.391000	0:17:27.991000	-	4961691
+ist	-	-	-	0:17:24.391000	0:17:27.991000	-	4961692
+Umgangssprache	-	-	-	0:17:24.391000	0:17:27.991000	-	4961693
+ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:27.991000	0:17:29.358000	-	4961695
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:27.991000	0:17:29.358000	-	4961696
+wirklich	-	-	-	0:17:27.991000	0:17:29.358000	-	4961697
+Dialekt	-	-	-	0:17:27.991000	0:17:29.358000	-	4961698
+ist	-	-	-	0:17:27.991000	0:17:29.358000	-	4961699
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:29.358000" end="0:17:33.871000" persName="Informant EXP15" age_lower="1" age_upper="999">
+was	-	-	-	0:17:31.485000	0:17:33.871000	-	4958168
+Sie	-	-	-	0:17:31.485000	0:17:33.871000	-	4958169
+jetzt	-	-	-	0:17:31.485000	0:17:33.871000	-	4958170
+sprechen	-	-	-	0:17:31.485000	0:17:33.871000	-	4958171
+meinen	-	-	-	0:17:31.485000	0:17:33.871000	-	4958172
+Sie	-	-	-	0:17:31.485000	0:17:33.871000	-	4958173
+oder	-	-	-	0:17:31.485000	0:17:33.871000	-	4958174
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:33.378000" end="0:17:34.465000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+was	-	-	*klit KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich	0:17:33.378000	0:17:34.465000	-	4961701
+ich	-	-	*klit KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich	0:17:33.378000	0:17:34.465000	-	4961702
+jetzt	-	-	-	0:17:33.378000	0:17:34.465000	-	4961703
+spreche	-	-	-	0:17:33.378000	0:17:34.465000	-	4961704
+ja	-	-	-	0:17:33.378000	0:17:34.465000	-	4961705
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:33.871000" end="0:17:34.718000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:34.465000" end="0:17:35.805000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+oder	-	-	-	0:17:34.465000	0:17:35.805000	-	4961707
+was	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:17:34.465000	0:17:35.805000	-	4961708
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:17:34.465000	0:17:35.805000	-	4961709
+sprechen	-	-	-	0:17:34.465000	0:17:35.805000	-	4961710
+könnte	-	-	-	0:17:34.465000	0:17:35.805000	-	4961711
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:35.805000" end="0:17:36.938000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:35.805000" end="0:17:43.791000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+Dialekt	-	-	-	0:17:35.805000	0:17:39.358000	-	4961714
+müsste	-	-	-	0:17:35.805000	0:17:39.358000	-	4961715
+müsste	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:17:35.805000	0:17:39.358000	-	4961716
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:17:35.805000	0:17:39.358000	-	4961717
+wahrscheinlich	-	-	-	0:17:35.805000	0:17:39.358000	-	4961718
+lernen	-	-	-	0:17:35.805000	0:17:39.358000	-	4961720
+so	-	-	-	0:17:39.358000	0:17:43.791000	-	4961723
+jetzt	-	-	-	0:17:39.358000	0:17:43.791000	-	4961724
+wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:39.358000	0:17:43.791000	-	4961725
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:17:39.358000	0:17:43.791000	-	4961726
+echt	-	-	-	0:17:39.358000	0:17:43.791000	-	4961727
+echter	-	-	-	0:17:39.358000	0:17:43.791000	-	4961729
+Dialekt	-	-	-	0:17:39.358000	0:17:43.791000	-	4961730
+wäre	-	-	-	0:17:39.358000	0:17:43.791000	-	4961732
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:43.571000" end="0:17:56.411000" persName="Informant EXP15" age_lower="1" age_upper="999">
+gibt	-	-	-	0:17:45.918000	0:17:49.491000	-	4958189
+es	-	-	-	0:17:45.918000	0:17:49.491000	-	4958190
+Situationen	-	-	-	0:17:45.918000	0:17:49.491000	-	4958191
+beziehungsweise	-	-	-	0:17:45.918000	0:17:49.491000	-	4958192
+Anlässe	-	-	-	0:17:45.918000	0:17:49.491000	-	4958193
+und	-	-	-	0:17:49.491000	0:17:50.464000	-	4958195
+wenn	-	-	-	0:17:49.491000	0:17:50.464000	-	4958196
+ja	-	-	-	0:17:49.491000	0:17:50.464000	-	4958197
+welche	-	-	-	0:17:49.491000	0:17:50.464000	-	4958198
+in	-	-	-	0:17:50.464000	0:17:52.724000	-	4958201
+denen	-	-	-	0:17:50.464000	0:17:52.724000	-	4958202
+Sie	-	-	-	0:17:50.464000	0:17:52.724000	-	4958203
+hoch	-	-	-	0:17:50.464000	0:17:52.724000	-	4958204
+was	-	-	-	0:17:52.724000	0:17:53.584000	-	4958207
+haben	-	-	-	0:17:52.724000	0:17:53.584000	-	4958208
+Sie	-	-	-	0:17:52.724000	0:17:53.584000	-	4958209
+gesagt	-	-	-	0:17:52.724000	0:17:53.584000	-	4958210
+Hochdeutsch	-	-	-	0:17:53.584000	0:17:54.278000	-	4958212
+haben	-	-	-	0:17:54.278000	0:17:55.144000	-	4958215
+Sie	-	-	-	0:17:54.278000	0:17:55.144000	-	4958216
+es	-	-	-	0:17:54.278000	0:17:55.144000	-	4958217
+genannt	-	-	-	0:17:54.278000	0:17:55.144000	-	4958218
+Hochsprache	-	-	-	0:17:55.144000	0:17:56.411000	-	4958221
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:55.144000" end="0:17:55.931000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+Hochsprache	-	-	-	0:17:55.144000	0:17:55.931000	-	4961734
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:17:56.411000" end="0:17:58.784000" persName="Informant EXP15" age_lower="1" age_upper="999">
+denen	-	-	-	0:17:56.411000	0:17:58.784000	-	4958224
+Sie	-	-	-	0:17:56.411000	0:17:58.784000	-	4958225
+Hochsprache	-	-	-	0:17:56.411000	0:17:58.784000	-	4958226
+sprechen	-	-	-	0:17:56.411000	0:17:58.784000	-	4958227
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:58.784000" end="0:18:14.184000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:18:01.384000	0:18:02.638000	-	4961737
+berufsbedingt	-	-	-	0:18:01.384000	0:18:02.638000	-	4961738
+wenn	-	-	-	0:18:02.638000	0:18:03.098000	-	4961740
+zum	-	-	-	0:18:03.098000	0:18:09.278000	-	4961745
+Beispiel	-	-	-	0:18:03.098000	0:18:09.278000	-	4961746
+in	-	-	-	0:18:03.098000	0:18:09.278000	-	4961747
+der	-	-	-	0:18:03.098000	0:18:09.278000	-	4961748
+Situation	-	-	-	0:18:03.098000	0:18:09.278000	-	4961749
+als	-	-	-	0:18:03.098000	0:18:09.278000	-	4961750
+als	-	-	-	0:18:03.098000	0:18:09.278000	-	4961752
+Lehrer	-	-	-	0:18:03.098000	0:18:09.278000	-	4961753
+muss	-	-	-	0:18:09.278000	0:18:14.184000	-	4961756
+man	-	-	-	0:18:09.278000	0:18:14.184000	-	4961757
+natürlich	-	-	-	0:18:09.278000	0:18:14.184000	-	4961758
+dafür	-	-	-	0:18:09.278000	0:18:14.184000	-	4961760
+sorgen	-	-	-	0:18:09.278000	0:18:14.184000	-	4961761
+dass	-	-	-	0:18:09.278000	0:18:14.184000	-	4961762
+man	-	-	-	0:18:09.278000	0:18:14.184000	-	4961763
+gut	-	-	-	0:18:09.278000	0:18:14.184000	-	4961764
+verstanden	-	-	-	0:18:09.278000	0:18:14.184000	-	4961765
+wird	-	-	-	0:18:09.278000	0:18:14.184000	-	4961766
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:14.184000" end="0:18:14.838000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:14.838000" end="0:18:22.398000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:18:14.838000	0:18:17.618000	-	4961769
+dementsprechend	-	-	-	0:18:14.838000	0:18:17.618000	-	4961770
+sich	-	-	-	0:18:14.838000	0:18:17.618000	-	4961771
+um	-	-	-	0:18:14.838000	0:18:17.618000	-	4961772
+deutlichkeit	-	-	-	0:18:14.838000	0:18:17.618000	-	4961773
+bemühen	-	-	-	0:18:14.838000	0:18:17.618000	-	4961774
+nicht	-	-	-	0:18:17.618000	0:18:19.324000	-	4961777
+unbedingt	-	-	-	0:18:17.618000	0:18:19.324000	-	4961778
+meine	-	-	-	0:18:17.618000	0:18:19.324000	-	4961779
+Stärke	-	-	-	0:18:17.618000	0:18:19.324000	-	4961780
+es	-	-	-	0:18:19.324000	0:18:22.398000	-	4961784
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:18:19.324000	0:18:22.398000	-	4961785
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:18:19.324000	0:18:22.398000	-	4961786
+zumindest	-	-	-	0:18:19.324000	0:18:22.398000	-	4961787
+bewusst	-	-	-	0:18:19.324000	0:18:22.398000	-	4961788
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:22.398000" end="0:18:24.258000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:18:22.398000	0:18:24.258000	-	4958234
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:22.398000" end="0:18:25.998000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+oder	-	-	-	0:18:22.398000	0:18:25.998000	-	4961791
+eben	-	-	-	0:18:22.398000	0:18:25.998000	-	4961792
+wenn	-	-	-	0:18:22.398000	0:18:25.998000	-	4961793
+man	-	-	-	0:18:22.398000	0:18:25.998000	-	4961794
+vor	-	-	-	0:18:22.398000	0:18:25.998000	-	4961795
+mehreren	-	-	-	0:18:22.398000	0:18:25.998000	-	4961796
+Leuten	-	-	-	0:18:22.398000	0:18:25.998000	-	4961797
+spricht	-	-	-	0:18:22.398000	0:18:25.998000	-	4961798
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:25.998000" end="0:18:26.438000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:26.438000" end="0:18:30.544000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+wo	-	-	-	0:18:26.438000	0:18:27.658000	-	4961801
+auch	-	-	-	0:18:26.438000	0:18:27.658000	-	4961802
+immer	-	-	-	0:18:26.438000	0:18:27.658000	-	4961803
+dann	-	-	-	0:18:27.658000	0:18:30.544000	-	4961806
+bemüht	-	-	-	0:18:27.658000	0:18:30.544000	-	4961807
+man	-	-	-	0:18:27.658000	0:18:30.544000	-	4961808
+sich	-	-	-	0:18:27.658000	0:18:30.544000	-	4961809
+zumindest	-	-	-	0:18:27.658000	0:18:30.544000	-	4961810
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:30.544000" end="0:18:41.338000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:18:30.544000	0:18:32.758000	-	4958240
+umgekehrt	-	-	-	0:18:30.544000	0:18:32.758000	-	4958241
+ah	-	-	-	0:18:32.758000	0:18:35.891000	-	4958243
+in	-	-	-	0:18:32.758000	0:18:35.891000	-	4958245
+welchen	-	-	-	0:18:32.758000	0:18:35.891000	-	4958246
+Situationen	-	-	-	0:18:32.758000	0:18:35.891000	-	4958247
+beziehungsweise	-	-	-	0:18:32.758000	0:18:35.891000	-	4958248
+bei	-	-	-	0:18:35.891000	0:18:38.718000	-	4958254
+welchen	-	-	-	0:18:35.891000	0:18:38.718000	-	4958255
+Gelegenheiten	-	-	-	0:18:35.891000	0:18:38.718000	-	4958256
+sprechen	-	-	-	0:18:35.891000	0:18:38.718000	-	4958257
+Sie	-	-	-	0:18:35.891000	0:18:38.718000	-	4958258
+Dialekt	-	-	-	0:18:35.891000	0:18:38.718000	-	4958259
+oder	-	-	-	0:18:38.718000	0:18:41.338000	-	4958261
+wie	-	-	-	0:18:38.718000	0:18:41.338000	-	4958262
+Sie	-	-	-	0:18:38.718000	0:18:41.338000	-	4958263
+vorher	-	-	-	0:18:38.718000	0:18:41.338000	-	4958264
+gesagt	-	-	-	0:18:38.718000	0:18:41.338000	-	4958265
+haben	-	-	-	0:18:38.718000	0:18:41.338000	-	4958266
+Umgangssprache	-	-	-	0:18:38.718000	0:18:41.338000	-	4958268
+oder	-	-	-	0:18:38.718000	0:18:41.338000	-	4958269
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:41.024000" end="0:18:43.471000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ist	-	-	-	0:18:41.024000	0:18:43.471000	-	4961812
+sehr	-	-	-	0:18:41.024000	0:18:43.471000	-	4961813
+abhängig	-	-	-	0:18:41.024000	0:18:43.471000	-	4961814
+vom	-	-	-	0:18:41.024000	0:18:43.471000	-	4961815
+gesprächspartner	-	-	-	0:18:41.024000	0:18:43.471000	-	4961816
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:18:43.471000" end="0:18:44.158000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:44.158000" end="0:19:11.264000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ich	-	-	-	0:18:44.158000	0:18:48.691000	-	4961819
+habe	-	-	-	0:18:44.158000	0:18:48.691000	-	4961820
+das	-	-	-	0:18:44.158000	0:18:48.691000	-	4961821
+schon	-	-	-	0:18:44.158000	0:18:48.691000	-	4961822
+manchmal	-	-	-	0:18:44.158000	0:18:48.691000	-	4961823
+beobachtet	-	-	-	0:18:44.158000	0:18:48.691000	-	4961824
+dass	-	-	-	0:18:44.158000	0:18:48.691000	-	4961825
+ah	-	-	-	0:18:44.158000	0:18:48.691000	-	4961826
+Leute	-	-	-	0:18:44.158000	0:18:48.691000	-	4961827
+die	-	-	-	0:18:44.158000	0:18:48.691000	-	4961828
+selber	-	-	-	0:18:44.158000	0:18:48.691000	-	4961829
+sehr	-	-	-	0:18:44.158000	0:18:48.691000	-	4961831
+umgangssprachlich	-	-	-	0:18:48.691000	0:18:52.458000	-	4961834
+sprechen	-	-	-	0:18:48.691000	0:18:52.458000	-	4961835
+mich	-	-	-	0:18:52.458000	0:18:55.258000	-	4961838
+auch	-	-	-	0:18:52.458000	0:18:55.258000	-	4961839
+sofort	-	-	-	0:18:52.458000	0:18:55.258000	-	4961840
+dazu	-	-	-	0:18:52.458000	0:18:55.258000	-	4961842
+bewegen	-	-	-	0:18:52.458000	0:18:55.258000	-	4961843
+das	-	-	-	0:18:55.258000	0:18:57.978000	-	4961846
+aber	-	-	-	0:18:55.258000	0:18:57.978000	-	4961847
+ziemlich	-	-	-	0:18:55.258000	0:18:57.978000	-	4961849
+unbewusst	-	-	-	0:18:55.258000	0:18:57.978000	-	4961850
+also	-	-	-	0:18:57.978000	0:19:03.244000	-	4961853
+man	-	-	-	0:18:57.978000	0:19:03.244000	-	4961855
+wechselt	-	-	-	0:18:57.978000	0:19:03.244000	-	4961856
+sofort	-	-	-	0:18:57.978000	0:19:03.244000	-	4961857
+dann	-	-	-	0:18:57.978000	0:19:03.244000	-	4961859
+ein	-	-	-	0:18:57.978000	0:19:03.244000	-	4961860
+bisschen	-	-	-	0:18:57.978000	0:19:03.244000	-	4961861
+die	-	-	-	0:18:57.978000	0:19:03.244000	-	4961862
+sprach	-	-	-	0:18:57.978000	0:19:03.244000	-	4961863
+bei	-	-	-	0:19:03.244000	0:19:04.304000	-	4961866
+den	-	-	-	0:19:03.244000	0:19:04.304000	-	4961867
+Eltern	-	-	-	0:19:03.244000	0:19:04.304000	-	4961868
+ich	-	-	-	0:19:04.304000	0:19:07.738000	-	4961871
+habe	-	-	-	0:19:04.304000	0:19:07.738000	-	4961872
+zum	-	-	-	0:19:04.304000	0:19:07.738000	-	4961873
+Beispiel	-	-	-	0:19:04.304000	0:19:07.738000	-	4961874
+einen	-	-	-	0:19:04.304000	0:19:07.738000	-	4961875
+musikerkollegen	-	-	-	0:19:04.304000	0:19:07.738000	-	4961876
+d	-	-	-	0:19:07.738000	0:19:11.264000	-	4961879
+der	-	-	-	0:19:07.738000	0:19:11.264000	-	4961880
+schon	-	-	-	0:19:07.738000	0:19:11.264000	-	4961881
+ist	-	-	-	0:19:07.738000	0:19:11.264000	-	4961883
+ein	-	-	-	0:19:07.738000	0:19:11.264000	-	4961884
+ZAHL	ZAHL	-	-	0:19:07.738000	0:19:11.264000	ZAHL	4961885
+Jahrgang	-	-	-	0:19:07.738000	0:19:11.264000	-	4961886
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:11.264000" end="0:19:12.071000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:12.071000" end="0:19:31.778000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:19:12.071000	0:19:13.151000	-	4961889
+ich	-	-	-	0:19:13.151000	0:19:18.658000	-	4961892
+ein	-	-	-	0:19:13.151000	0:19:18.658000	-	4961893
+hat	-	-	-	0:19:13.151000	0:19:18.658000	-	4961894
+größten	-	-	-	0:19:13.151000	0:19:18.658000	-	4961895
+Teil	-	-	-	0:19:13.151000	0:19:18.658000	-	4961896
+seines	-	-	-	0:19:13.151000	0:19:18.658000	-	4961897
+Lebens	-	-	-	0:19:13.151000	0:19:18.658000	-	4961898
+in	-	-	-	0:19:13.151000	0:19:18.658000	-	4961899
+in	-	-	-	0:19:13.151000	0:19:18.658000	-	4961900
+ORT	ORT	-	-	0:19:13.151000	0:19:18.658000	ORT	4961901
+und	-	-	-	0:19:13.151000	0:19:18.658000	-	4961902
+ORT	ORT	-	-	0:19:13.151000	0:19:18.658000	ORT	4961903
+verbracht	-	-	-	0:19:13.151000	0:19:18.658000	-	4961904
+und	-	-	-	0:19:18.658000	0:19:21.164000	-	4961907
+ist	-	-	-	0:19:18.658000	0:19:21.164000	-	4961908
+em	-	-	-	0:19:18.658000	0:19:21.164000	-	4961909
+schon	-	-	-	0:19:18.658000	0:19:21.164000	-	4961910
+etwas	-	-	-	0:19:18.658000	0:19:21.164000	-	4961912
+älter	-	-	-	0:19:18.658000	0:19:21.164000	-	4961913
+und	-	-	-	0:19:21.164000	0:19:31.778000	-	4961916
+zum	-	-	-	0:19:21.164000	0:19:31.778000	-	4961917
+mit	-	-	-	0:19:21.164000	0:19:31.778000	-	4961919
+ihm	-	-	-	0:19:21.164000	0:19:31.778000	-	4961920
+spreche	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:19:21.164000	0:19:31.778000	-	4961922
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:19:21.164000	0:19:31.778000	-	4961923
+schon	-	-	-	0:19:21.164000	0:19:31.778000	-	4961924
+deutlich	-	-	-	0:19:21.164000	0:19:31.778000	-	4961926
+umgangssprachlicher	-	-	-	0:19:21.164000	0:19:31.778000	-	4961928
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:31.778000" end="0:19:32.771000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:31.778000" end="0:19:35.871000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+oder	-	-	-	0:19:31.778000	0:19:34.904000	-	4961931
+in	-	-	-	0:19:31.778000	0:19:34.904000	-	4961933
+Richtung	-	-	-	0:19:31.778000	0:19:34.904000	-	4961934
+Dialekt	-	-	-	0:19:31.778000	0:19:34.904000	-	4961936
+wenn	-	-	-	0:19:34.904000	0:19:35.871000	-	4961938
+man	-	-	-	0:19:34.904000	0:19:35.871000	-	4961939
+das	-	-	-	0:19:34.904000	0:19:35.871000	-	4961940
+jetzt	-	-	-	0:19:34.904000	0:19:35.871000	-	4961941
+so	-	-	-	0:19:34.904000	0:19:35.871000	-	4961942
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:19:35.871000" end="0:19:54.978000" persName="Informant EXP15" age_lower="1" age_upper="999">
+weil	-	-	-	0:19:36.638000	0:19:39.498000	-	4958288
+Sie	-	-	-	0:19:36.638000	0:19:39.498000	-	4958289
+gerade	-	-	-	0:19:36.638000	0:19:39.498000	-	4958290
+vorher	-	-	-	0:19:36.638000	0:19:39.498000	-	4958291
+angesprochen	-	-	-	0:19:36.638000	0:19:39.498000	-	4958292
+haben	-	-	-	0:19:36.638000	0:19:39.498000	-	4958293
+haben	-	-	-	0:19:39.498000	0:19:40.831000	-	4958296
+dass	-	-	-	0:19:40.831000	0:19:44.011000	-	4958299
+sie	-	-	-	0:19:40.831000	0:19:44.011000	-	4958300
+da	-	-	-	0:19:40.831000	0:19:44.011000	-	4958301
+hin	-	-	-	0:19:40.831000	0:19:44.011000	-	4958302
+und	-	-	-	0:19:40.831000	0:19:44.011000	-	4958303
+her	-	-	-	0:19:40.831000	0:19:44.011000	-	4958304
+wechseln	-	-	-	0:19:40.831000	0:19:44.011000	-	4958305
+fällt	-	-	-	0:19:44.011000	0:19:48.071000	-	4958310
+Ihnen	-	-	-	0:19:44.011000	0:19:48.071000	-	4958311
+das	-	-	-	0:19:44.011000	0:19:48.071000	-	4958312
+schwer	-	-	-	0:19:44.011000	0:19:48.071000	-	4958313
+dann	-	-	-	0:19:44.011000	0:19:48.071000	-	4958314
+hin	-	-	-	0:19:44.011000	0:19:48.071000	-	4958315
+und	-	-	-	0:19:44.011000	0:19:48.071000	-	4958316
+her	-	-	-	0:19:44.011000	0:19:48.071000	-	4958317
+zu	-	-	-	0:19:44.011000	0:19:48.071000	-	4958318
+wechseln	-	-	-	0:19:44.011000	0:19:48.071000	-	4958319
+zwischen	-	-	-	0:19:48.071000	0:19:53.404000	-	4958323
+Hochdeutsch	-	-	-	0:19:48.071000	0:19:53.404000	-	4958324
+und	-	-	-	0:19:48.071000	0:19:53.404000	-	4958325
+äh	-	-	-	0:19:48.071000	0:19:53.404000	-	4958326
+eben	-	-	-	0:19:48.071000	0:19:53.404000	-	4958327
+Dialekt	-	-	-	0:19:48.071000	0:19:53.404000	-	4958328
+oder	-	-	-	0:19:48.071000	0:19:53.404000	-	4958329
+Umgangssprache	-	-	-	0:19:48.071000	0:19:53.404000	-	4958330
+fällt	-	-	-	0:19:53.404000	0:19:54.978000	-	4958333
+Ihnen	-	-	-	0:19:53.404000	0:19:54.978000	-	4958334
+das	-	-	-	0:19:53.404000	0:19:54.978000	-	4958335
+eher	-	-	-	0:19:53.404000	0:19:54.978000	-	4958336
+leicht	-	-	-	0:19:53.404000	0:19:54.978000	-	4958337
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:54.978000" end="0:20:05.878000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+mir	-	-	-	0:19:54.978000	0:20:03.544000	-	4961945
+fällt	-	-	-	0:19:54.978000	0:20:03.544000	-	4961946
+da	-	-	-	0:19:54.978000	0:20:03.544000	-	4961947
+Wechsel	-	-	-	0:19:54.978000	0:20:03.544000	-	4961949
+in	-	-	-	0:19:54.978000	0:20:03.544000	-	4961950
+die	-	-	-	0:19:54.978000	0:20:03.544000	-	4961951
+eher	-	-	-	0:19:54.978000	0:20:03.544000	-	4961952
+Umgangssprache	-	-	-	0:19:54.978000	0:20:03.544000	-	4961953
+äh	-	-	-	0:19:54.978000	0:20:03.544000	-	4961954
+Dialekt	-	-	-	0:19:54.978000	0:20:03.544000	-	4961955
+leicht	-	-	-	0:19:54.978000	0:20:03.544000	-	4961957
+und	-	-	-	0:20:03.544000	0:20:05.878000	-	4961959
+und	-	-	-	0:20:03.544000	0:20:05.878000	-	4961960
+auch	-	-	-	0:20:03.544000	0:20:05.878000	-	4961961
+eigentlich	-	-	-	0:20:03.544000	0:20:05.878000	-	4961963
+nicht	-	-	-	0:20:03.544000	0:20:05.878000	-	4961964
+auf	-	-	-	0:20:03.544000	0:20:05.878000	-	4961965
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:05.878000" end="0:20:06.791000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:05.878000" end="0:20:07.824000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ich	-	-	-	0:20:05.878000	0:20:07.824000	-	4961968
+muss	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:20:05.878000	0:20:07.824000	-	4961969
+mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:20:05.878000	0:20:07.824000	-	4961970
+darauf	-	-	-	0:20:05.878000	0:20:07.824000	-	4961971
+konzentrieren	-	-	-	0:20:05.878000	0:20:07.824000	-	4961972
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:07.824000" end="0:20:08.584000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:07.824000" end="0:20:09.824000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+fällt	-	-	-	0:20:07.824000	0:20:09.824000	-	4961975
+da	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit-	0:20:07.824000	0:20:09.824000	-	4961976
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit-	0:20:07.824000	0:20:09.824000	-	4961977
+in	-	-	-	0:20:07.824000	0:20:09.824000	-	4961978
+der	-	-	-	0:20:07.824000	0:20:09.824000	-	4961979
+Situation	-	-	-	0:20:07.824000	0:20:09.824000	-	4961980
+nicht	-	-	-	0:20:07.824000	0:20:09.824000	-	4961981
+auf	-	-	-	0:20:07.824000	0:20:09.824000	-	4961982
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:09.824000" end="0:20:10.411000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:10.411000" end="0:20:14.191000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+da	-	-	-	0:20:10.411000	0:20:12.998000	-	4961984
+Wechsel	-	-	-	0:20:10.411000	0:20:12.998000	-	4961985
+in	-	-	-	0:20:10.411000	0:20:12.998000	-	4961986
+Richtung	-	-	-	0:20:10.411000	0:20:12.998000	-	4961987
+Hochsprache	-	-	-	0:20:10.411000	0:20:12.998000	-	4961988
+schon	-	-	-	0:20:10.411000	0:20:12.998000	-	4961989
+fällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:20:12.998000	0:20:14.191000	-	4961991
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:20:12.998000	0:20:14.191000	-	4961992
+auch	-	-	-	0:20:12.998000	0:20:14.191000	-	4961993
+viel	-	-	-	0:20:12.998000	0:20:14.191000	-	4961994
+schwerer	-	-	-	0:20:12.998000	0:20:14.191000	-	4961995
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:14.191000" end="0:20:20.084000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:20:14.838000	0:20:20.084000	-	4958356
+ah	-	-	-	0:20:14.838000	0:20:20.084000	-	4958357
+welche	-	-	-	0:20:14.838000	0:20:20.084000	-	4958359
+Sprechweise	-	-	-	0:20:14.838000	0:20:20.084000	-	4958360
+sprechen	-	-	-	0:20:14.838000	0:20:20.084000	-	4958361
+Sie	-	-	-	0:20:14.838000	0:20:20.084000	-	4958362
+am	-	-	-	0:20:14.838000	0:20:20.084000	-	4958363
+liebsten	-	-	-	0:20:14.838000	0:20:20.084000	-	4958364
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:20.084000" end="0:20:35.671000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+n	-	-	-	0:20:25.818000	0:20:31.424000	-	4961998
+ja	-	-	-	0:20:25.818000	0:20:31.424000	-	4961999
+die	-	-	-	0:20:25.818000	0:20:31.424000	-	4962000
+die	-	-	-	0:20:25.818000	0:20:31.424000	-	4962001
+gewöhnlich	-	-	-	0:20:25.818000	0:20:31.424000	-	4962002
+f	-	-	-	0:20:25.818000	0:20:31.424000	-	4962003
+äh	-	-	-	0:20:25.818000	0:20:31.424000	-	4962004
+die	-	-	-	0:20:25.818000	0:20:31.424000	-	4962006
+meiste	-	-	-	0:20:25.818000	0:20:31.424000	-	4962007
+Zeit	-	-	-	0:20:25.818000	0:20:31.424000	-	4962008
+so	-	-	-	0:20:25.818000	0:20:31.424000	-	4962009
+verwendet	-	-	-	0:20:25.818000	0:20:31.424000	-	4962011
+wird	-	-	-	0:20:25.818000	0:20:31.424000	-	4962012
+also	-	-	-	0:20:31.424000	0:20:35.671000	-	4962015
+die	-	-	-	0:20:31.424000	0:20:35.671000	-	4962016
+Hochsprache	-	-	-	0:20:31.424000	0:20:35.671000	-	4962017
+ist	-	-	-	0:20:31.424000	0:20:35.671000	-	4962018
+mit	-	-	-	0:20:31.424000	0:20:35.671000	-	4962019
+Konzentration	-	-	-	0:20:31.424000	0:20:35.671000	-	4962020
+verbunden	-	-	-	0:20:31.424000	0:20:35.671000	-	4962021
+eigentlich	-	-	-	0:20:31.424000	0:20:35.671000	-	4962022
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:35.498000" end="0:20:35.851000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:35.851000" end="0:20:39.638000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+dadurch	-	-	-	0:20:35.851000	0:20:39.638000	-	4962025
+auch	-	-	-	0:20:35.851000	0:20:39.638000	-	4962026
+nicht	-	-	-	0:20:35.851000	0:20:39.638000	-	4962027
+so	-	-	-	0:20:35.851000	0:20:39.638000	-	4962028
+gern	-	-	-	0:20:35.851000	0:20:39.638000	-	4962030
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:39.638000" end="0:20:40.598000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:39.638000" end="0:20:40.598000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:20:40.598000" end="0:20:46.591000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:20:40.598000	0:20:46.591000	-	4958372
+und	-	-	-	0:20:40.598000	0:20:46.591000	-	4958373
+was	-	-	-	0:20:40.598000	0:20:46.591000	-	4958374
+glauben	-	-	-	0:20:40.598000	0:20:46.591000	-	4958375
+Sie	-	-	-	0:20:40.598000	0:20:46.591000	-	4958376
+welches	-	-	-	0:20:40.598000	0:20:46.591000	-	4958377
+Ansehen	-	-	-	0:20:40.598000	0:20:46.591000	-	4958378
+hat	-	-	-	0:20:40.598000	0:20:46.591000	-	4958379
+Dialekt	-	-	-	0:20:40.598000	0:20:46.591000	-	4958380
+hier	-	-	-	0:20:40.598000	0:20:46.591000	-	4958381
+in	-	-	-	0:20:40.598000	0:20:46.591000	-	4958382
+ORT	ORT	-	-	0:20:40.598000	0:20:46.591000	ORT	4958383
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:46.591000" end="0:21:25.444000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ich	-	-	-	0:20:55.298000	0:20:58.031000	-	4962034
+glaube	-	-	-	0:20:55.298000	0:20:58.031000	-	4962035
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:20:55.298000	0:20:58.031000	-	4962036
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:20:55.298000	0:20:58.031000	-	4962037
+hier	-	-	-	0:20:55.298000	0:20:58.031000	-	4962038
+in	-	-	-	0:20:55.298000	0:20:58.031000	-	4962039
+ORT	ORT	-	-	0:20:55.298000	0:20:58.031000	ORT	4962040
+noch	-	-	-	0:20:55.298000	0:20:58.031000	-	4962041
+da	-	-	-	0:21:05.438000	0:21:06.584000	-	4962044
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:05.438000	0:21:06.584000	-	4962045
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:05.438000	0:21:06.584000	-	4962046
+ah	-	-	-	0:21:05.438000	0:21:06.584000	-	4962047
+relativ	-	-	-	0:21:06.584000	0:21:10.964000	-	4962050
+als	-	-	-	0:21:06.584000	0:21:10.964000	-	4962052
+normal	-	-	-	0:21:06.584000	0:21:10.964000	-	4962053
+betrachtet	-	-	-	0:21:06.584000	0:21:10.964000	-	4962054
+wird	-	-	-	0:21:06.584000	0:21:10.964000	-	4962055
+vom	-	-	-	0:21:10.964000	0:21:12.831000	-	4962058
+Ansehen	-	-	-	0:21:10.964000	0:21:12.831000	-	4962059
+her	-	-	-	0:21:10.964000	0:21:12.831000	-	4962060
+pf	-	-	-	0:21:12.831000	0:21:15.031000	-	4962064
+dass	-	-	-	0:21:15.031000	0:21:18.471000	-	4962067
+das	-	-	-	0:21:15.031000	0:21:18.471000	-	4962068
+Ansehen	-	-	-	0:21:15.031000	0:21:18.471000	-	4962069
+nicht	-	-	-	0:21:15.031000	0:21:18.471000	-	4962070
+so	-	-	-	0:21:15.031000	0:21:18.471000	-	4962071
+beeinflusst	-	-	-	0:21:15.031000	0:21:18.471000	-	4962072
+es	-	-	-	0:21:18.471000	0:21:25.444000	-	4962076
+kommt	-	-	-	0:21:18.471000	0:21:25.444000	-	4962077
+dann	-	-	-	0:21:18.471000	0:21:25.444000	-	4962078
+auf	-	-	-	0:21:18.471000	0:21:25.444000	-	4962079
+die	-	-	-	0:21:18.471000	0:21:25.444000	-	4962080
+individuelle	-	-	-	0:21:18.471000	0:21:25.444000	-	4962081
+Sprache	-	-	-	0:21:18.471000	0:21:25.444000	-	4962083
+sicher	-	-	-	0:21:18.471000	0:21:25.444000	-	4962084
+einen	-	-	-	0:21:18.471000	0:21:25.444000	-	4962085
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:25.444000" end="0:21:26.051000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:26.051000" end="0:21:45.264000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+es	-	-	-	0:21:26.051000	0:21:31.717000	-	4962087
+gibt	-	-	-	0:21:26.051000	0:21:31.717000	-	4962088
+ja	-	-	-	0:21:26.051000	0:21:31.717000	-	4962089
+auch	-	-	-	0:21:26.051000	0:21:31.717000	-	4962090
+innerhalb	-	-	-	0:21:26.051000	0:21:31.717000	-	4962091
+vom	-	-	-	0:21:26.051000	0:21:31.717000	-	4962092
+Dialekt	-	-	-	0:21:26.051000	0:21:31.717000	-	4962094
+oder	-	-	-	0:21:26.051000	0:21:31.717000	-	4962095
+Umgangssprache	-	-	-	0:21:26.051000	0:21:31.717000	-	4962096
+auch	-	-	-	0:21:26.051000	0:21:31.717000	-	4962097
+noch	-	-	-	0:21:26.051000	0:21:31.717000	-	4962098
+ein	-	-	-	0:21:26.051000	0:21:31.717000	-	4962099
+Spektrum	-	-	-	0:21:26.051000	0:21:31.717000	-	4962100
+und	-	-	-	0:21:33.924000	0:21:38.784000	-	4962103
+innerhalb	-	-	-	0:21:33.924000	0:21:38.784000	-	4962105
+dessen	-	-	-	0:21:33.924000	0:21:38.784000	-	4962106
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:21:33.924000	0:21:38.784000	-	4962107
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:21:33.924000	0:21:38.784000	-	4962108
+schon	-	-	-	0:21:33.924000	0:21:38.784000	-	4962109
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:33.924000	0:21:38.784000	-	4962110
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:33.924000	0:21:38.784000	-	4962111
+mit	-	-	-	0:21:33.924000	0:21:38.784000	-	4962112
+dem	-	-	-	0:21:33.924000	0:21:38.784000	-	4962113
+Ansehen	-	-	-	0:21:33.924000	0:21:38.784000	-	4962114
+irgendwie	-	-	-	0:21:33.924000	0:21:38.784000	-	4962115
+dann	-	-	-	0:21:33.924000	0:21:38.784000	-	4962116
+zu	-	-	-	0:21:33.924000	0:21:38.784000	-	4962118
+tun	-	-	-	0:21:33.924000	0:21:38.784000	-	4962119
+haben	-	-	-	0:21:33.924000	0:21:38.784000	-	4962120
+kein	-	-	-	0:21:33.924000	0:21:38.784000	-	4962121
+aber	-	-	-	0:21:38.784000	0:21:43.417000	-	4962124
+ich	-	-	-	0:21:38.784000	0:21:43.417000	-	4962125
+glaube	-	-	-	0:21:38.784000	0:21:43.417000	-	4962126
+jetzt	-	-	-	0:21:38.784000	0:21:43.417000	-	4962127
+nicht	-	-	-	0:21:38.784000	0:21:43.417000	-	4962128
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:38.784000	0:21:43.417000	-	4962129
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:21:38.784000	0:21:43.417000	-	4962130
+bei	-	-	-	0:21:38.784000	0:21:43.417000	-	4962131
+uns	-	-	-	0:21:38.784000	0:21:43.417000	-	4962132
+so	-	-	-	0:21:38.784000	0:21:43.417000	-	4962133
+die	-	-	-	0:21:38.784000	0:21:43.417000	-	4962135
+Rolle	-	-	-	0:21:38.784000	0:21:43.417000	-	4962136
+spielt	-	-	-	0:21:38.784000	0:21:43.417000	-	4962137
+in	-	-	-	0:21:43.417000	0:21:45.264000	-	4962140
+ORT	ORT	-	-	0:21:43.417000	0:21:45.264000	ORT	4962141
+selber	-	-	-	0:21:43.417000	0:21:45.264000	-	4962142
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:21:45.264000" end="0:21:56.191000" persName="Informant EXP15" age_lower="1" age_upper="999">
+äh	-	-	-	0:21:46.877000	0:21:53.697000	-	4958393
+haben	-	-	-	0:21:46.877000	0:21:53.697000	-	4958394
+Sie	-	-	-	0:21:46.877000	0:21:53.697000	-	4958395
+den	-	-	-	0:21:46.877000	0:21:53.697000	-	4958396
+Eindruck	-	-	-	0:21:46.877000	0:21:53.697000	-	4958397
+oder	-	-	-	0:21:46.877000	0:21:53.697000	-	4958398
+vielleicht	-	-	-	0:21:46.877000	0:21:53.697000	-	4958399
+auch	-	-	-	0:21:46.877000	0:21:53.697000	-	4958400
+schon	-	-	-	0:21:46.877000	0:21:53.697000	-	4958401
+die	-	-	-	0:21:46.877000	0:21:53.697000	-	4958402
+Erfahrung	-	-	-	0:21:46.877000	0:21:53.697000	-	4958403
+gemacht	-	-	-	0:21:46.877000	0:21:53.697000	-	4958404
+dass	-	-	-	0:21:46.877000	0:21:53.697000	-	4958405
+man	-	-	-	0:21:46.877000	0:21:53.697000	-	4958406
+ihen	-	-	-	0:21:46.877000	0:21:53.697000	-	4958407
+anhört	-	-	-	0:21:46.877000	0:21:53.697000	-	4958408
+dass	-	-	-	0:21:46.877000	0:21:53.697000	-	4958409
+Sie	-	-	-	0:21:46.877000	0:21:53.697000	-	4958410
+aus	-	-	-	0:21:46.877000	0:21:53.697000	-	4958411
+ORT	ORT	-	-	0:21:46.877000	0:21:53.697000	ORT	4958412
+oder	-	-	-	0:21:53.697000	0:21:56.191000	-	4958415
+zumindest	-	-	-	0:21:53.697000	0:21:56.191000	-	4958417
+hier	-	-	-	0:21:53.697000	0:21:56.191000	-	4958418
+aus	-	-	-	0:21:53.697000	0:21:56.191000	-	4958419
+der	-	-	-	0:21:53.697000	0:21:56.191000	-	4958420
+Region	-	-	-	0:21:53.697000	0:21:56.191000	-	4958421
+kommen	-	-	-	0:21:53.697000	0:21:56.191000	-	4958422
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:56.191000" end="0:22:06.544000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:21:58.931000	0:22:00.177000	-	4962145
+ich	-	-	-	0:22:00.177000	0:22:06.544000	-	4962148
+habe	-	-	-	0:22:00.177000	0:22:06.544000	-	4962149
+gestern	-	-	-	0:22:00.177000	0:22:06.544000	-	4962150
+mit	-	-	-	0:22:00.177000	0:22:06.544000	-	4962151
+einem	-	-	-	0:22:00.177000	0:22:06.544000	-	4962152
+mit	-	-	-	0:22:00.177000	0:22:06.544000	-	4962153
+meinem	-	-	-	0:22:00.177000	0:22:06.544000	-	4962154
+Arbeitskollegen	-	-	-	0:22:00.177000	0:22:06.544000	-	4962155
+über	-	-	-	0:22:00.177000	0:22:06.544000	-	4962156
+dies	-	-	-	0:22:00.177000	0:22:06.544000	-	4962157
+Gespräch	-	-	-	0:22:00.177000	0:22:06.544000	-	4962158
+jetzt	-	-	-	0:22:00.177000	0:22:06.544000	-	4962159
+gesprochen	-	-	-	0:22:00.177000	0:22:06.544000	-	4962160
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:06.544000" end="0:22:07.351000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:07.351000" end="0:22:58.024000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:22:07.351000	0:22:10.117000	-	4962163
+äh	-	-	-	0:22:07.351000	0:22:10.117000	-	4962165
+der	-	-	-	0:22:07.351000	0:22:10.117000	-	4962167
+ist	-	-	-	0:22:07.351000	0:22:10.117000	-	4962168
+ein	-	-	-	0:22:07.351000	0:22:10.117000	-	4962169
+ORT	ORT	-	-	0:22:07.351000	0:22:10.117000	ORT	4962170
+und	-	-	-	0:22:10.117000	0:22:17.031000	-	4962173
+hat	-	-	-	0:22:10.117000	0:22:17.031000	-	4962175
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:22:10.117000	0:22:17.031000	-	4962176
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:22:10.117000	0:22:17.031000	-	4962177
+Wurzeln	-	-	-	0:22:10.117000	0:22:17.031000	-	4962179
+in	-	-	-	0:22:10.117000	0:22:17.031000	-	4962180
+Bulgarien	-	-	-	0:22:10.117000	0:22:17.031000	-	4962182
+ein	-	-	-	0:22:17.031000	0:22:19.397000	-	4962186
+elternteil	-	-	-	0:22:17.031000	0:22:19.397000	-	4962187
+irgendwie	-	-	-	0:22:17.031000	0:22:19.397000	-	4962188
+so	-	-	-	0:22:17.031000	0:22:19.397000	-	4962189
+aber	-	-	-	0:22:19.397000	0:22:21.144000	-	4962192
+ist	-	-	-	0:22:19.397000	0:22:21.144000	-	4962194
+ORT	ORT	-	-	0:22:19.397000	0:22:21.144000	ORT	4962195
+und	-	-	-	0:22:21.144000	0:22:25.504000	-	4962198
+wir	-	-	-	0:22:21.144000	0:22:25.504000	-	4962200
+haben	-	-	-	0:22:21.144000	0:22:25.504000	-	4962201
+em	-	-	-	0:22:21.144000	0:22:25.504000	-	4962202
+gesprochen	-	-	-	0:22:21.144000	0:22:25.504000	-	4962203
+darüber	-	-	-	0:22:21.144000	0:22:25.504000	-	4962204
+und	-	-	-	0:22:25.504000	0:22:27.517000	-	4962206
+er	-	-	-	0:22:25.504000	0:22:27.517000	-	4962207
+hat	-	-	-	0:22:25.504000	0:22:27.517000	-	4962208
+gesagt	-	-	-	0:22:25.504000	0:22:27.517000	-	4962209
+nein	-	-	-	0:22:25.504000	0:22:27.517000	-	4962210
+eigentlich	-	-	-	0:22:25.504000	0:22:27.517000	-	4962211
+redest	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _du klit-	0:22:25.504000	0:22:27.517000	-	4962212
+du	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _du klit-	0:22:25.504000	0:22:27.517000	-	4962213
+ORT	ORT	-	-	0:22:25.504000	0:22:27.517000	ORT	4962214
+oder	-	-	-	0:22:25.504000	0:22:27.517000	-	4962215
+un	-	-	-	0:22:27.517000	0:22:30.071000	-	4962218
+ich	-	-	-	0:22:27.517000	0:22:30.071000	-	4962219
+habe	-	-	-	0:22:27.517000	0:22:30.071000	-	4962220
+gesagt	-	-	-	0:22:27.517000	0:22:30.071000	-	4962221
+ja	-	-	-	0:22:27.517000	0:22:30.071000	-	4962222
+ich	-	-	-	0:22:27.517000	0:22:30.071000	-	4962223
+wass	-	-	-	0:22:27.517000	0:22:30.071000	-	4962224
+es	-	-	-	0:22:27.517000	0:22:30.071000	-	4962225
+nicht	-	-	-	0:22:27.517000	0:22:30.071000	-	4962226
+ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:22:27.517000	0:22:30.071000	-	4962227
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:22:27.517000	0:22:30.071000	-	4962228
+also	-	-	-	0:22:30.071000	0:22:33.671000	-	4962231
+eine	-	-	-	0:22:30.071000	0:22:33.671000	-	4962232
+ORT	ORT	-	-	0:22:30.071000	0:22:33.671000	ORT	4962233
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:22:30.071000	0:22:33.671000	-	4962235
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:22:30.071000	0:22:33.671000	-	4962236
+nicht	-	-	-	0:22:30.071000	0:22:33.671000	-	4962237
+bewusst	-	-	-	0:22:30.071000	0:22:33.671000	-	4962238
+ist	-	-	-	0:22:33.671000	0:22:34.431000	-	4962241
+so	-	-	-	0:22:33.671000	0:22:34.431000	-	4962242
+ORT	ORT	-	-	0:22:34.431000	0:22:39.564000	ORT	4962245
+ist	-	-	-	0:22:34.431000	0:22:39.564000	-	4962246
+es	-	-	-	0:22:34.431000	0:22:39.564000	-	4962247
+nicht	-	-	-	0:22:34.431000	0:22:39.564000	-	4962249
+und	-	-	-	0:22:39.564000	0:22:40.417000	-	4962251
+ORT	ORT	-	-	0:22:39.564000	0:22:40.417000	ORT	4962252
+o	-	-	-	0:22:40.417000	0:22:42.171000	-	4962254
+es	-	-	-	0:22:40.417000	0:22:42.171000	-	4962255
+ist	-	-	-	0:22:40.417000	0:22:42.171000	-	4962256
+bei	-	-	-	0:22:40.417000	0:22:42.171000	-	4962257
+oder	-	-	-	0:22:40.417000	0:22:42.171000	-	4962258
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:22:40.417000	0:22:42.171000	-	4962259
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:22:40.417000	0:22:42.171000	-	4962260
+beides	-	-	-	0:22:40.417000	0:22:42.171000	-	4962261
+nix	-	-	-	0:22:42.171000	0:22:42.777000	-	4962264
+ich	-	-	-	0:22:42.777000	0:22:43.377000	-	4962266
+weiss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:22:42.777000	0:22:43.377000	-	4962267
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:22:42.777000	0:22:43.377000	-	4962268
+nicht	-	-	-	0:22:42.777000	0:22:43.377000	-	4962269
+aber	-	-	-	0:22:43.377000	0:22:45.917000	-	4962272
+jetzt	-	-	-	0:22:43.377000	0:22:45.917000	-	4962273
+so	-	-	-	0:22:43.377000	0:22:45.917000	-	4962274
+typisch	-	-	-	0:22:43.377000	0:22:45.917000	-	4962275
+ORT	ORT	-	-	0:22:43.377000	0:22:45.917000	ORT	4962276
+dass	-	-	-	0:22:45.917000	0:22:49.717000	-	4962279
+jemand	-	-	-	0:22:45.917000	0:22:49.717000	-	4962280
+gesagt	-	-	-	0:22:45.917000	0:22:49.717000	-	4962281
+hat	-	-	-	0:22:45.917000	0:22:49.717000	-	4962282
+du	-	-	-	0:22:45.917000	0:22:49.717000	-	4962283
+bist	-	-	-	0:22:45.917000	0:22:49.717000	-	4962284
+du	-	-	-	0:22:45.917000	0:22:49.717000	-	4962285
+bist	-	-	-	0:22:45.917000	0:22:49.717000	-	4962286
+garantiert	-	-	-	0:22:45.917000	0:22:49.717000	-	4962287
+ein	-	-	-	0:22:45.917000	0:22:49.717000	-	4962288
+ORT	ORT	-	-	0:22:45.917000	0:22:49.717000	ORT	4962289
+habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:22:49.717000	0:22:51.544000	-	4962292
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:22:49.717000	0:22:51.544000	-	4962293
+noch	-	-	-	0:22:49.717000	0:22:51.544000	-	4962294
+nicht	-	-	-	0:22:49.717000	0:22:51.544000	-	4962295
+gehört	-	-	-	0:22:49.717000	0:22:51.544000	-	4962296
+so	-	-	-	0:22:51.544000	0:22:53.911000	-	4962299
+in	-	-	-	0:22:51.544000	0:22:53.911000	-	4962300
+Richtung	-	-	-	0:22:51.544000	0:22:53.911000	-	4962301
+ORT	ORT	-	-	0:22:51.544000	0:22:53.911000	ORT	4962302
+oder	-	-	-	0:22:51.544000	0:22:53.911000	-	4962303
+ORT	ORT	-	-	0:22:51.544000	0:22:53.911000	ORT	4962304
+das	-	-	-	0:22:53.911000	0:22:58.024000	-	4962307
+das	-	-	-	0:22:53.911000	0:22:58.024000	-	4962308
+sagen	-	-	-	0:22:53.911000	0:22:58.024000	-	4962309
+eim	-	-	-	0:22:53.911000	0:22:58.024000	-	4962310
+die	-	-	-	0:22:53.911000	0:22:58.024000	-	4962311
+Leute	-	-	-	0:22:53.911000	0:22:58.024000	-	4962312
+immer	-	-	-	0:22:53.911000	0:22:58.024000	-	4962313
+wieder	-	-	-	0:22:53.911000	0:22:58.024000	-	4962314
+wenn	-	-	-	0:22:53.911000	0:22:58.024000	-	4962315
+man	-	-	-	0:22:53.911000	0:22:58.024000	-	4962316
+jetzt	-	-	-	0:22:53.911000	0:22:58.024000	-	4962317
+weiter	-	-	-	0:22:53.911000	0:22:58.024000	-	4962318
+wo	-	-	-	0:22:53.911000	0:22:58.024000	-	4962319
+hinfohrt	-	-	-	0:22:53.911000	0:22:58.024000	-	4962320
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:22:58.024000" end="0:22:58.557000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:58.557000" end="0:23:04.684000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+auf	-	-	-	0:22:58.557000	0:22:59.544000	-	4962322
+Urlaub	-	-	-	0:22:58.557000	0:22:59.544000	-	4962323
+oder	-	-	-	0:22:58.557000	0:22:59.544000	-	4962324
+so	-	-	-	0:22:58.557000	0:22:59.544000	-	4962325
+dann	-	-	-	0:22:59.544000	0:23:01.017000	-	4962327
+sagen	-	-	-	0:22:59.544000	0:23:01.017000	-	4962328
+die	-	-	-	0:22:59.544000	0:23:01.017000	-	4962329
+Leute	-	-	-	0:22:59.544000	0:23:01.017000	-	4962330
+nein	-	-	-	0:22:59.544000	0:23:01.017000	-	4962331
+sie	-	-	-	0:22:59.544000	0:23:01.017000	-	4962332
+sind	-	-	-	0:22:59.544000	0:23:01.017000	-	4962333
+ORT	ORT	-	-	0:23:01.017000	0:23:02.497000	ORT	4962336
+oder	-	-	-	0:23:02.497000	0:23:04.684000	-	4962338
+nieder	-	-	-	0:23:02.497000	0:23:04.684000	-	4962339
+oder	-	-	-	0:23:02.497000	0:23:04.684000	-	4962340
+ORT	ORT	-	-	0:23:02.497000	0:23:04.684000	ORT	4962341
+oder	-	-	-	0:23:02.497000	0:23:04.684000	-	4962342
+sowos	-	-	-	0:23:02.497000	0:23:04.684000	-	4962343
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:04.684000" end="0:23:05.097000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:04.684000" end="0:23:05.797000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+schon	-	-	-	0:23:04.684000	0:23:05.797000	-	4962347
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:05.797000" end="0:23:13.624000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:23:05.797000	0:23:09.957000	-	4958437
+passiert	-	-	-	0:23:05.797000	0:23:09.957000	-	4958438
+das	-	-	-	0:23:05.797000	0:23:09.957000	-	4958439
+wenn	-	-	-	0:23:05.797000	0:23:09.957000	-	4958441
+Sie	-	-	-	0:23:05.797000	0:23:09.957000	-	4958442
+Umgangssprache	-	-	-	0:23:05.797000	0:23:09.957000	-	4958443
+sprechen	-	-	-	0:23:05.797000	0:23:09.957000	-	4958444
+oder	-	-	-	0:23:09.957000	0:23:13.624000	-	4958446
+passiert	-	-	-	0:23:09.957000	0:23:13.624000	-	4958447
+das	-	-	-	0:23:09.957000	0:23:13.624000	-	4958448
+auch	-	-	-	0:23:09.957000	0:23:13.624000	-	4958449
+wenn	-	-	-	0:23:09.957000	0:23:13.624000	-	4958450
+sie	-	-	-	0:23:09.957000	0:23:13.624000	-	4958451
+ah	-	-	-	0:23:09.957000	0:23:13.624000	-	4958453
+Hochsprache	-	-	-	0:23:09.957000	0:23:13.624000	-	4958454
+sprechen	-	-	-	0:23:09.957000	0:23:13.624000	-	4958455
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:13.624000" end="0:23:19.351000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:23:15.624000	0:23:17.471000	-	4962350
+kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:15.624000	0:23:17.471000	-	4962351
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:15.624000	0:23:17.471000	-	4962352
+von	-	-	-	0:23:15.624000	0:23:17.471000	-	4962353
+der	-	-	-	0:23:15.624000	0:23:17.471000	-	4962354
+Hochsprache	-	-	-	0:23:15.624000	0:23:17.471000	-	4962355
+nicht	-	-	-	0:23:15.624000	0:23:17.471000	-	4962356
+sagen	-	-	-	0:23:15.624000	0:23:17.471000	-	4962357
+weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:23:17.471000	0:23:19.351000	-	4962359
+das	-	-	-	0:23:17.471000	0:23:19.351000	-	4962361
+eigentlich	-	-	-	0:23:17.471000	0:23:19.351000	-	4962362
+nie	-	-	-	0:23:17.471000	0:23:19.351000	-	4962363
+probiert	-	-	-	0:23:17.471000	0:23:19.351000	-	4962364
+habe	-	-	-	0:23:17.471000	0:23:19.351000	-	4962365
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:19.351000" end="0:23:20.557000" persName="Informant EXP15" age_lower="1" age_upper="999">
+okay	-	-	-	0:23:19.351000	0:23:19.811000	-	4958457
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:19.811000" end="0:23:21.971000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+Umgangssprache	-	-	-	0:23:20.557000	0:23:21.971000	-	4962369
+ja	-	-	-	0:23:20.557000	0:23:21.971000	-	4962370
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:21.971000" end="0:23:33.831000" persName="Informant EXP15" age_lower="1" age_upper="999">
+jaja	-	-	-	0:23:22.684000	0:23:23.251000	-	4958464
+okay	-	-	-	0:23:23.251000	0:23:23.911000	-	4958467
+können	-	-	-	0:23:25.291000	0:23:29.431000	-	4958473
+Sie	-	-	-	0:23:25.291000	0:23:29.431000	-	4958474
+andere	-	-	-	0:23:25.291000	0:23:29.431000	-	4958475
+anahand	-	-	-	0:23:25.291000	0:23:29.431000	-	4958476
+ihrer	-	-	-	0:23:25.291000	0:23:29.431000	-	4958477
+Sprechweise	-	-	-	0:23:25.291000	0:23:29.431000	-	4958478
+zuordnen	-	-	-	0:23:25.291000	0:23:29.431000	-	4958479
+also	-	-	-	0:23:29.431000	0:23:33.831000	-	4958482
+dass	-	-	-	0:23:29.431000	0:23:33.831000	-	4958483
+Sie	-	-	-	0:23:29.431000	0:23:33.831000	-	4958484
+sagen	-	-	-	0:23:29.431000	0:23:33.831000	-	4958485
+können	-	-	-	0:23:29.431000	0:23:33.831000	-	4958486
+aus	-	-	-	0:23:29.431000	0:23:33.831000	-	4958487
+welcher	-	-	-	0:23:29.431000	0:23:33.831000	-	4958488
+Region	-	-	-	0:23:29.431000	0:23:33.831000	-	4958489
+oder	-	-	-	0:23:29.431000	0:23:33.831000	-	4958490
+woher	-	-	-	0:23:29.431000	0:23:33.831000	-	4958491
+der	-	-	-	0:23:29.431000	0:23:33.831000	-	4958492
+kommt	-	-	-	0:23:29.431000	0:23:33.831000	-	4958493
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:29.431000" end="0:23:46.124000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:23:33.831000	0:23:36.404000	-	4962375
+es	-	-	-	0:23:33.831000	0:23:36.404000	-	4962376
+kommt	-	-	-	0:23:33.831000	0:23:36.404000	-	4962377
+sehr	-	-	-	0:23:33.831000	0:23:36.404000	-	4962378
+auf	-	-	-	0:23:33.831000	0:23:36.404000	-	4962379
+die	-	-	-	0:23:33.831000	0:23:36.404000	-	4962380
+Region	-	-	-	0:23:33.831000	0:23:36.404000	-	4962381
+an	-	-	-	0:23:33.831000	0:23:36.404000	-	4962382
+ja	-	-	-	0:23:36.931000	0:23:39.131000	-	4962387
+in	-	-	-	0:23:39.131000	0:23:41.651000	-	4962389
+manche	-	-	-	0:23:39.131000	0:23:41.651000	-	4962390
+bei	-	-	-	0:23:39.131000	0:23:41.651000	-	4962391
+manchen	-	-	-	0:23:39.131000	0:23:41.651000	-	4962392
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:23:39.131000	0:23:41.651000	-	4962393
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:23:39.131000	0:23:41.651000	-	4962394
+recht	-	-	-	0:23:39.131000	0:23:41.651000	-	4962396
+einfach	-	-	-	0:23:39.131000	0:23:41.651000	-	4962397
+ich	-	-	-	0:23:41.651000	0:23:46.124000	-	4962400
+habe	-	-	-	0:23:41.651000	0:23:46.124000	-	4962401
+auch	-	-	-	0:23:41.651000	0:23:46.124000	-	4962402
+viele	-	-	-	0:23:41.651000	0:23:46.124000	-	4962403
+Studienkollegen	-	-	-	0:23:41.651000	0:23:46.124000	-	4962404
+eben	-	-	-	0:23:41.651000	0:23:46.124000	-	4962405
+aus	-	-	-	0:23:41.651000	0:23:46.124000	-	4962406
+anderen	-	-	-	0:23:41.651000	0:23:46.124000	-	4962407
+Bundesländern	-	-	-	0:23:41.651000	0:23:46.124000	-	4962408
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:46.124000" end="0:23:46.751000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:46.751000" end="0:24:07.237000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:23:46.751000	0:23:49.031000	-	4962410
+dadurch	-	-	-	0:23:46.751000	0:23:49.031000	-	4962411
+weiss	-	-	-	0:23:46.751000	0:23:49.031000	-	4962413
+man	-	-	-	0:23:46.751000	0:23:49.031000	-	4962414
+kann	-	-	-	0:23:49.031000	0:23:50.811000	-	4962417
+man	-	-	-	0:23:49.031000	0:23:50.811000	-	4962418
+das	-	-	-	0:23:49.031000	0:23:50.811000	-	4962419
+gut	-	-	-	0:23:49.031000	0:23:50.811000	-	4962420
+verknüpfen	-	-	-	0:23:49.031000	0:23:50.811000	-	4962421
+man	-	-	-	0:23:50.811000	0:23:52.537000	-	4962424
+von	-	-	-	0:23:50.811000	0:23:52.537000	-	4962425
+jedem	-	-	-	0:23:50.811000	0:23:52.537000	-	4962426
+die	-	-	-	0:23:50.811000	0:23:52.537000	-	4962427
+Herkunft	-	-	-	0:23:50.811000	0:23:52.537000	-	4962428
+weiß	-	-	-	0:23:50.811000	0:23:52.537000	-	4962429
+und	-	-	-	0:23:52.537000	0:23:54.537000	-	4962431
+man	-	-	-	0:23:52.537000	0:23:54.537000	-	4962433
+hört	-	-	-	0:23:52.537000	0:23:54.537000	-	4962434
+die	-	-	-	0:23:52.537000	0:23:54.537000	-	4962435
+Sprache	-	-	-	0:23:52.537000	0:23:54.537000	-	4962436
+und	-	-	-	0:23:54.537000	0:23:58.377000	-	4962439
+em	-	-	-	0:23:54.537000	0:23:58.377000	-	4962440
+ein	-	-	-	0:23:54.537000	0:23:58.377000	-	4962441
+elternteil	-	-	-	0:23:54.537000	0:23:58.377000	-	4962442
+von	-	-	-	0:23:54.537000	0:23:58.377000	-	4962443
+mir	-	-	-	0:23:54.537000	0:23:58.377000	-	4962444
+waren	-	-	-	0:23:54.537000	0:23:58.377000	-	4962445
+ORT	ORT	-	-	0:23:54.537000	0:23:58.377000	ORT	4962446
+da	-	-	-	0:23:58.377000	0:23:59.984000	-	4962448
+gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:23:58.377000	0:23:59.984000	-	4962449
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:23:58.377000	0:23:59.984000	-	4962450
+noch	-	-	-	0:23:58.377000	0:23:59.984000	-	4962451
+Verwandte	-	-	-	0:23:58.377000	0:23:59.984000	-	4962452
+also	-	-	-	0:23:59.984000	0:24:03.597000	-	4962456
+ORT	ORT	-	-	0:23:59.984000	0:24:03.597000	ORT	4962457
+erkenne	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:59.984000	0:24:03.597000	-	4962459
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:23:59.984000	0:24:03.597000	-	4962460
+halbwegs	-	-	-	0:23:59.984000	0:24:03.597000	-	4962461
+ORT	ORT	-	-	0:24:03.597000	0:24:04.377000	ORT	4962463
+ich	-	-	-	0:24:04.377000	0:24:07.237000	-	4962466
+habe	-	-	-	0:24:04.377000	0:24:07.237000	-	4962467
+mit	-	-	-	0:24:04.377000	0:24:07.237000	-	4962468
+am	-	-	-	0:24:04.377000	0:24:07.237000	-	4962469
+ORT	ORT	-	-	0:24:04.377000	0:24:07.237000	ORT	4962470
+tontechnik	-	-	-	0:24:04.377000	0:24:07.237000	-	4962471
+studiert	-	-	-	0:24:04.377000	0:24:07.237000	-	4962472
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:07.237000" end="0:24:08.004000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:07.237000" end="0:24:15.477000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+mit	-	-	-	0:24:07.237000	0:24:08.564000	-	4962475
+einem	-	-	-	0:24:07.237000	0:24:08.564000	-	4962476
+ORT	ORT	-	-	0:24:07.237000	0:24:08.564000	ORT	4962477
+also	-	-	-	0:24:08.564000	0:24:10.977000	-	4962480
+das	-	-	-	0:24:08.564000	0:24:10.977000	-	4962481
+traue	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:24:08.564000	0:24:10.977000	-	4962482
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+|KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:24:08.564000	0:24:10.977000	-	4962483
+mir	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:24:08.564000	0:24:10.977000	-	4962484
+jetzt	-	-	-	0:24:08.564000	0:24:10.977000	-	4962485
+fast	-	-	-	0:24:08.564000	0:24:10.977000	-	4962486
+schon	-	-	-	0:24:08.564000	0:24:10.977000	-	4962487
+zu	-	-	-	0:24:08.564000	0:24:10.977000	-	4962488
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:24:10.977000	0:24:12.004000	-	4962490
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:24:10.977000	0:24:12.004000	-	4962491
+ORT	ORT	-	-	0:24:10.977000	0:24:12.004000	ORT	4962492
+erke	-	-	-	0:24:10.977000	0:24:12.004000	-	4962493
+halt	-	-	-	0:24:12.004000	0:24:13.157000	-	4962496
+Tiroler	-	-	-	0:24:12.004000	0:24:13.157000	-	4962498
+Kärnten	-	-	-	0:24:13.157000	0:24:15.477000	-	4962501
+natürlich	-	-	-	0:24:13.157000	0:24:15.477000	-	4962502
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:15.477000" end="0:24:16.477000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:15.477000" end="0:24:17.897000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+Kärnten	-	-	-	0:24:15.477000	0:24:17.897000	-	4962505
+finde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:24:15.477000	0:24:17.897000	-	4962506
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:24:15.477000	0:24:17.897000	-	4962507
+ganz	-	-	-	0:24:15.477000	0:24:17.897000	-	4962508
+spezifisch	-	-	-	0:24:15.477000	0:24:17.897000	-	4962509
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:17.897000" end="0:24:21.797000" persName="Informant EXP15" age_lower="1" age_upper="999">
+u	-	-	-	0:24:17.897000	0:24:21.797000	-	4958505
+was	-	-	-	0:24:17.897000	0:24:21.797000	-	4958506
+ist	-	-	-	0:24:17.897000	0:24:21.797000	-	4958507
+da	-	-	-	0:24:17.897000	0:24:21.797000	-	4958508
+das	-	-	-	0:24:17.897000	0:24:21.797000	-	4958509
+spezifische	-	-	-	0:24:17.897000	0:24:21.797000	-	4958510
+Ihrer	-	-	-	0:24:17.897000	0:24:21.797000	-	4958511
+Meinung	-	-	-	0:24:17.897000	0:24:21.797000	-	4958512
+nach	-	-	-	0:24:17.897000	0:24:21.797000	-	4958513
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:21.797000" end="0:24:59.257000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:24:21.797000	0:24:27.544000	-	4962512
+dass	-	-	-	0:24:21.797000	0:24:27.544000	-	4962513
+sehr	-	-	-	0:24:21.797000	0:24:27.544000	-	4962514
+sehr	-	-	-	0:24:21.797000	0:24:27.544000	-	4962515
+die	-	-	-	0:24:21.797000	0:24:27.544000	-	4962516
+vokale	-	-	-	0:24:21.797000	0:24:27.544000	-	4962517
+ausgekostet	-	-	-	0:24:21.797000	0:24:27.544000	-	4962519
+werden	-	-	-	0:24:21.797000	0:24:27.544000	-	4962520
+und	-	-	-	0:24:27.544000	0:24:30.377000	-	4962522
+und	-	-	-	0:24:27.544000	0:24:30.377000	-	4962523
+und	-	-	-	0:24:27.544000	0:24:30.377000	-	4962524
+kaum	-	-	-	0:24:27.544000	0:24:30.377000	-	4962526
+Konsonanten	-	-	-	0:24:27.544000	0:24:30.377000	-	4962527
+man	-	-	-	0:24:27.544000	0:24:30.377000	-	4962528
+teilweis	-	-	-	0:24:27.544000	0:24:30.377000	-	4962529
+hört	-	-	-	0:24:27.544000	0:24:30.377000	-	4962530
+aber	-	-	-	0:24:30.377000	0:24:32.184000	-	4962533
+es	-	-	-	0:24:30.377000	0:24:32.184000	-	4962534
+ist	-	-	-	0:24:30.377000	0:24:32.184000	-	4962535
+ja	-	-	-	0:24:30.377000	0:24:32.184000	-	4962536
+schwer	-	-	-	0:24:32.184000	0:24:34.744000	-	4962539
+zu	-	-	-	0:24:32.184000	0:24:34.744000	-	4962540
+beschreiben	-	-	-	0:24:32.184000	0:24:34.744000	-	4962541
+es	-	-	-	0:24:37.844000	0:24:38.431000	-	4962544
+ist	-	-	-	0:24:37.844000	0:24:38.431000	-	4962545
+ja	-	-	-	0:24:46.031000	0:24:46.397000	-	4962548
+würde	-	-	-	0:24:46.397000	0:24:53.404000	-	4962551
+sagen	-	-	-	0:24:46.397000	0:24:53.404000	-	4962552
+es	-	-	-	0:24:46.397000	0:24:53.404000	-	4962553
+es	-	-	-	0:24:46.397000	0:24:53.404000	-	4962555
+ist	-	-	-	0:24:46.397000	0:24:53.404000	-	4962556
+eine	-	-	-	0:24:46.397000	0:24:53.404000	-	4962557
+sehr	-	-	-	0:24:46.397000	0:24:53.404000	-	4962558
+vokalbetonte	-	-	-	0:24:46.397000	0:24:53.404000	-	4962559
+Umgangssprache	-	-	-	0:24:46.397000	0:24:53.404000	-	4962561
+oder	-	-	-	0:24:55.817000	0:24:57.457000	-	4962564
+es	-	-	-	0:24:55.817000	0:24:57.457000	-	4962565
+ist	-	-	-	0:24:55.817000	0:24:57.457000	-	4962566
+alles	-	-	-	0:24:55.817000	0:24:57.457000	-	4962567
+auch	-	-	-	0:24:55.817000	0:24:57.457000	-	4962568
+sehr	-	-	-	0:24:55.817000	0:24:57.457000	-	4962569
+verbunden	-	-	-	0:24:55.817000	0:24:57.457000	-	4962570
+es	-	-	-	0:24:57.457000	0:24:59.257000	-	4962572
+ist	-	-	-	0:24:57.457000	0:24:59.257000	-	4962573
+so	-	-	-	0:24:57.457000	0:24:59.257000	-	4962574
+es	-	-	-	0:24:57.457000	0:24:59.257000	-	4962575
+ich	-	-	-	0:24:57.457000	0:24:59.257000	-	4962576
+es	-	-	-	0:24:57.457000	0:24:59.257000	-	4962577
+fliesst	-	-	-	0:24:57.457000	0:24:59.257000	-	4962578
+so	-	-	-	0:24:57.457000	0:24:59.257000	-	4962579
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:59.257000" end="0:25:00.284000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:00.284000" end="0:25:01.044000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+kommt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:25:00.284000	0:25:01.044000	-	4962581
+man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:25:00.284000	0:25:01.044000	-	4962582
+vor	-	-	-	0:25:00.284000	0:25:01.044000	-	4962583
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:01.044000" end="0:25:03.944000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:25:01.044000	0:25:03.944000	-	4958518
+beim	-	-	-	0:25:01.044000	0:25:03.944000	-	4958519
+Tiroler	-	-	-	0:25:01.044000	0:25:03.944000	-	4958520
+ist	-	-	-	0:25:01.044000	0:25:03.944000	-	4958521
+das	-	-	-	0:25:01.044000	0:25:03.944000	-	4958522
+anders	-	-	-	0:25:01.044000	0:25:03.944000	-	4958523
+oder	-	-	-	0:25:01.044000	0:25:03.944000	-	4958524
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:03.944000" end="0:25:27.144000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:25:03.944000	0:25:10.110000	-	4962586
+Tiroler	-	-	-	0:25:03.944000	0:25:10.110000	-	4962589
+hat	-	-	-	0:25:03.944000	0:25:10.110000	-	4962590
+diese	-	-	-	0:25:03.944000	0:25:10.110000	-	4962591
+berühmten	-	-	-	0:25:03.944000	0:25:10.110000	-	4962592
+mit	-	-	-	0:25:10.110000	0:25:12.710000	-	4962597
+dem	-	-	-	0:25:10.110000	0:25:12.710000	-	4962598
+ja	-	-	-	0:25:19.110000	0:25:20.804000	-	4962601
+das	-	-	-	0:25:19.110000	0:25:20.804000	-	4962602
+wäre	-	-	-	0:25:19.110000	0:25:20.804000	-	4962603
+das	-	-	-	0:25:19.110000	0:25:20.804000	-	4962604
+ist	-	-	-	0:25:19.110000	0:25:20.804000	-	4962605
+eigentlich	-	-	-	0:25:19.110000	0:25:20.804000	-	4962606
+das	-	-	-	0:25:20.804000	0:25:27.144000	-	4962609
+wäre	-	-	-	0:25:20.804000	0:25:27.144000	-	4962610
+für	-	-	-	0:25:20.804000	0:25:27.144000	-	4962611
+mich	-	-	-	0:25:20.804000	0:25:27.144000	-	4962612
+so	-	-	-	0:25:20.804000	0:25:27.144000	-	4962613
+das	-	-	-	0:25:20.804000	0:25:27.144000	-	4962614
+assoziationskriterium	-	-	-	0:25:20.804000	0:25:27.144000	-	4962616
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:27.144000" end="0:25:28.150000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:27.144000" end="0:25:28.584000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+für	-	-	-	0:25:27.830000	0:25:28.584000	-	4962619
+Tiroler	-	-	-	0:25:27.830000	0:25:28.584000	-	4962620
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:28.584000" end="0:25:30.910000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:30.910000" end="0:25:33.737000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ein	-	-	-	0:25:30.910000	0:25:33.737000	-	4962622
+Oberösterreicher	-	-	-	0:25:30.910000	0:25:33.737000	-	4962623
+ist	-	-	-	0:25:30.910000	0:25:33.737000	-	4962624
+me	-	-	-	0:25:30.910000	0:25:33.737000	-	4962625
+sind	-	-	-	0:25:30.910000	0:25:33.737000	-	4962626
+mehr	-	-	-	0:25:30.910000	0:25:33.737000	-	4962627
+ist	-	-	-	0:25:30.910000	0:25:33.737000	-	4962628
+mehr	-	-	-	0:25:30.910000	0:25:33.737000	-	4962629
+die	-	-	-	0:25:30.910000	0:25:33.737000	-	4962630
+Wortwahl	-	-	-	0:25:30.910000	0:25:33.737000	-	4962631
+eigentlich	-	-	-	0:25:30.910000	0:25:33.737000	-	4962632
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:33.737000" end="0:25:35.177000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:35.064000" end="0:25:55.417000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+oder	-	-	-	0:25:35.064000	0:25:37.770000	-	4962634
+so	-	-	-	0:25:35.064000	0:25:37.770000	-	4962635
+ein	-	-	-	0:25:35.064000	0:25:37.770000	-	4962636
+so	-	-	-	0:25:35.064000	0:25:37.770000	-	4962637
+ein	-	-	-	0:25:35.064000	0:25:37.770000	-	4962638
+geschlossenes	-	-	-	0:25:35.064000	0:25:37.770000	-	4962640
+o	-	-	-	0:25:35.064000	0:25:37.770000	-	4962641
+so	-	-	-	0:25:37.770000	0:25:38.577000	-	4962643
+alles	-	-	-	0:25:37.770000	0:25:38.577000	-	4962644
+schauen	-	-	-	0:25:38.577000	0:25:41.524000	-	4962647
+mir	-	-	-	0:25:38.577000	0:25:41.524000	-	4962648
+uns	-	-	-	0:25:38.577000	0:25:41.524000	-	4962649
+als	-	-	-	0:25:38.577000	0:25:41.524000	-	4962650
+au	-	-	-	0:25:38.577000	0:25:41.524000	-	4962651
+o	-	-	-	0:25:41.524000	0:25:42.864000	-	4962654
+als	-	-	-	0:25:41.524000	0:25:42.864000	-	4962655
+oder	-	-	-	0:25:44.864000	0:25:48.844000	-	4962658
+oder	-	-	-	0:25:44.864000	0:25:48.844000	-	4962659
+das	-	-	-	0:25:44.864000	0:25:48.844000	-	4962660
+das	-	-	-	0:25:44.864000	0:25:48.844000	-	4962661
+äh	-	-	-	0:25:44.864000	0:25:48.844000	-	4962662
+was	-	-	-	0:25:44.864000	0:25:48.844000	-	4962664
+goi	-	-	-	0:25:44.864000	0:25:48.844000	-	4962666
+goi	-	-	-	0:25:48.844000	0:25:49.817000	-	4962669
+das	-	-	-	0:25:49.817000	0:25:53.204000	-	4962672
+habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:25:49.817000	0:25:53.204000	-	4962673
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:25:49.817000	0:25:53.204000	-	4962674
+auch	-	-	-	0:25:49.817000	0:25:53.204000	-	4962675
+nur	-	-	-	0:25:49.817000	0:25:53.204000	-	4962676
+von	-	-	-	0:25:49.817000	0:25:53.204000	-	4962677
+Verwandtschaft	-	-	-	0:25:49.817000	0:25:53.204000	-	4962678
+gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:25:53.204000	0:25:55.417000	-	4962680
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:25:53.204000	0:25:55.417000	-	4962681
+einige	-	-	-	0:25:53.204000	0:25:55.417000	-	4962682
+die	-	-	-	0:25:53.204000	0:25:55.417000	-	4962683
+sagen	-	-	-	0:25:53.204000	0:25:55.417000	-	4962684
+das	-	-	-	0:25:53.204000	0:25:55.417000	-	4962685
+wirklich	-	-	-	0:25:53.204000	0:25:55.417000	-	4962686
+so	-	-	-	0:25:53.204000	0:25:55.417000	-	4962687
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:55.417000" end="0:25:56.517000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:55.417000" end="0:26:08.837000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:25:55.417000	0:25:58.150000	-	4962690
+ich	-	-	-	0:25:55.417000	0:25:58.150000	-	4962691
+f	-	-	-	0:25:55.417000	0:25:58.150000	-	4962692
+ich	-	-	-	0:25:55.417000	0:25:58.150000	-	4962693
+kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:25:55.417000	0:25:58.150000	-	4962694
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:25:55.417000	0:25:58.150000	-	4962695
+nicht	-	-	-	0:25:55.417000	0:25:58.150000	-	4962696
+so	-	-	-	0:25:55.417000	0:25:58.150000	-	4962697
+imitieren	-	-	-	0:25:55.417000	0:25:58.150000	-	4962698
+aber	-	-	-	0:25:55.417000	0:25:58.150000	-	4962699
+da	-	-	-	0:25:58.150000	0:26:01.017000	-	4962702
+ist	-	-	-	0:25:58.150000	0:26:01.017000	-	4962703
+der	-	-	-	0:25:58.150000	0:26:01.017000	-	4962704
+sind	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:25:58.150000	0:26:01.017000	-	4962705
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:25:58.150000	0:26:01.017000	-	4962706
+mehr	-	-	-	0:25:58.150000	0:26:01.017000	-	4962707
+die	-	-	-	0:25:58.150000	0:26:01.017000	-	4962708
+Wörter	-	-	-	0:25:58.150000	0:26:01.017000	-	4962709
+gar	-	-	-	0:26:01.017000	0:26:03.530000	-	4962712
+nicht	-	-	-	0:26:01.017000	0:26:03.530000	-	4962713
+so	-	-	-	0:26:01.017000	0:26:03.530000	-	4962714
+jetzt	-	-	-	0:26:01.017000	0:26:03.530000	-	4962715
+die	-	-	-	0:26:01.017000	0:26:03.530000	-	4962716
+da	-	-	-	0:26:01.017000	0:26:03.530000	-	4962718
+Klang	-	-	-	0:26:01.017000	0:26:03.530000	-	4962719
+aber	-	-	-	0:26:03.530000	0:26:08.837000	-	4962722
+an	-	-	-	0:26:03.530000	0:26:08.837000	-	4962723
+an	-	-	-	0:26:03.530000	0:26:08.837000	-	4962724
+manchen	-	-	-	0:26:03.530000	0:26:08.837000	-	4962725
+Wörtern	-	-	-	0:26:03.530000	0:26:08.837000	-	4962726
+erkennt	-	-	-	0:26:03.530000	0:26:08.837000	-	4962728
+man	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(akk.) klit+	0:26:03.530000	0:26:08.837000	-	4962729
+es	-	-	KlitBasis KlitPron KlitReal Pron+Kl PronForm _es(akk.) klit+	0:26:03.530000	0:26:08.837000	-	4962730
+dann	-	-	-	0:26:03.530000	0:26:08.837000	-	4962731
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:07.064000" end="0:26:15.590000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:26:08.837000	0:26:15.590000	-	4958545
+gibt	-	-	-	0:26:08.837000	0:26:15.590000	-	4958546
+es	-	-	-	0:26:08.837000	0:26:15.590000	-	4958547
+eine	-	-	-	0:26:08.837000	0:26:15.590000	-	4958548
+Sprechweise	-	-	-	0:26:08.837000	0:26:15.590000	-	4958549
+einer	-	-	-	0:26:08.837000	0:26:15.590000	-	4958550
+bestimmten	-	-	-	0:26:08.837000	0:26:15.590000	-	4958551
+Region	-	-	-	0:26:08.837000	0:26:15.590000	-	4958552
+ah	-	-	-	0:26:08.837000	0:26:15.590000	-	4958553
+die	-	-	-	0:26:08.837000	0:26:15.590000	-	4958554
+Ihnen	-	-	-	0:26:08.837000	0:26:15.590000	-	4958555
+besonders	-	-	-	0:26:08.837000	0:26:15.590000	-	4958556
+gut	-	-	-	0:26:08.837000	0:26:15.590000	-	4958557
+gefällt	-	-	-	0:26:08.837000	0:26:15.590000	-	4958558
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:15.590000" end="0:26:19.844000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+mir	-	-	-	0:26:15.590000	0:26:18.370000	-	4962734
+gefallen	-	-	-	0:26:15.590000	0:26:18.370000	-	4962735
+viele	-	-	-	0:26:15.590000	0:26:18.370000	-	4962736
+gut	-	-	-	0:26:15.590000	0:26:18.370000	-	4962737
+Kärntnerisch	-	-	-	0:26:18.370000	0:26:19.844000	-	4962739
+gefällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:26:18.370000	0:26:19.844000	-	4962740
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:26:18.370000	0:26:19.844000	-	4962741
+sehr	-	-	-	0:26:18.370000	0:26:19.844000	-	4962742
+gut	-	-	-	0:26:18.370000	0:26:19.844000	-	4962743
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:19.844000" end="0:26:20.724000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:19.844000" end="0:26:22.157000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:26:19.844000	0:26:21.524000	-	4962746
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:26:19.844000	0:26:21.524000	-	4962747
+kaum	-	-	-	0:26:19.844000	0:26:21.524000	-	4962748
+imitieren	-	-	-	0:26:19.844000	0:26:21.524000	-	4962749
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:26:21.524000	0:26:22.157000	-	4962752
+gern	-	-	-	0:26:21.524000	0:26:22.157000	-	4962753
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:22.157000" end="0:26:28.324000" persName="Informant EXP15" age_lower="1" age_upper="999">
+eben	-	-	-	0:26:23.144000	0:26:28.324000	-	4958567
+aus	-	-	-	0:26:23.144000	0:26:28.324000	-	4958568
+den	-	-	-	0:26:23.144000	0:26:28.324000	-	4958569
+genannten	-	-	-	0:26:23.144000	0:26:28.324000	-	4958570
+spezifika	-	-	-	0:26:23.144000	0:26:28.324000	-	4958572
+oder	-	-	-	0:26:23.144000	0:26:28.324000	-	4958573
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:28.324000" end="0:26:31.464000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:26:28.324000	0:26:31.464000	-	4962756
+es	-	-	-	0:26:28.324000	0:26:31.464000	-	4962757
+klingt	-	-	-	0:26:28.324000	0:26:31.464000	-	4962758
+für	-	-	-	0:26:28.324000	0:26:31.464000	-	4962759
+mich	-	-	-	0:26:28.324000	0:26:31.464000	-	4962760
+lustig	-	-	-	0:26:28.324000	0:26:31.464000	-	4962761
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:31.464000" end="0:26:32.444000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:31.464000" end="0:26:33.004000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:26:31.464000	0:26:33.004000	-	4962763
+irgendwie	-	-	-	0:26:31.464000	0:26:33.004000	-	4962764
+ja	-	-	-	0:26:31.464000	0:26:33.004000	-	4962766
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:33.004000" end="0:26:34.090000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:34.090000" end="0:26:53.164000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ah	-	-	-	0:26:37.224000	0:26:40.024000	-	4962769
+ja	-	-	-	0:26:37.224000	0:26:40.024000	-	4962771
+Kärntnerisch	-	-	-	0:26:37.224000	0:26:40.024000	-	4962772
+gefällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:26:37.224000	0:26:40.024000	-	4962773
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:26:37.224000	0:26:40.024000	-	4962774
+sehr	-	-	-	0:26:37.224000	0:26:40.024000	-	4962775
+gut	-	-	-	0:26:37.224000	0:26:40.024000	-	4962776
+vermu	-	-	-	0:26:40.024000	0:26:44.064000	-	4962779
+ja	-	-	-	0:26:40.024000	0:26:44.064000	-	4962780
+auch	-	-	-	0:26:40.024000	0:26:44.064000	-	4962781
+tirolerisch	-	-	-	0:26:40.024000	0:26:44.064000	-	4962782
+also	-	-	-	0:26:44.064000	0:26:45.290000	-	4962785
+die	-	-	-	0:26:44.064000	0:26:45.290000	-	4962787
+und	-	-	-	0:26:48.904000	0:26:52.210000	-	4962790
+auch	-	-	-	0:26:48.904000	0:26:52.210000	-	4962791
+Richtung	-	-	-	0:26:48.904000	0:26:52.210000	-	4962792
+Richtung	-	-	-	0:26:48.904000	0:26:52.210000	-	4962793
+ah	-	-	-	0:26:48.904000	0:26:52.210000	-	4962794
+Oberösterreich	-	-	-	0:26:48.904000	0:26:52.210000	-	4962795
+Grenze	-	-	-	0:26:48.904000	0:26:52.210000	-	4962796
+Bayern	-	-	-	0:26:48.904000	0:26:52.210000	-	4962797
+ich	-	-	KlitPron KlitReal PronForm _ich klit+	0:26:52.210000	0:26:53.164000	-	4962800
+einen	-	-	-	0:26:52.210000	0:26:53.164000	-	4962801
+Kollegen	-	-	-	0:26:52.210000	0:26:53.164000	-	4962802
+auch	-	-	-	0:26:52.210000	0:26:53.164000	-	4962803
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:26:53.164000" end="0:26:53.717000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:53.717000" end="0:27:01.204000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:26:53.717000	0:26:54.877000	-	4962805
+ist	-	-	-	0:26:53.717000	0:26:54.877000	-	4962806
+auch	-	-	-	0:26:53.717000	0:26:54.877000	-	4962807
+super	-	-	-	0:26:53.717000	0:26:54.877000	-	4962808
+also	-	-	-	0:26:54.877000	0:26:58.570000	-	4962811
+ist	-	-	-	0:26:54.877000	0:26:58.570000	-	4962812
+eigentlich	-	-	-	0:26:54.877000	0:26:58.570000	-	4962813
+fast	-	-	-	0:26:54.877000	0:26:58.570000	-	4962814
+schon	-	-	-	0:26:54.877000	0:26:58.570000	-	4962815
+Kollegen	-	-	-	0:26:54.877000	0:26:58.570000	-	4962817
+aus	-	-	-	0:26:54.877000	0:26:58.570000	-	4962818
+ORT	ORT	-	-	0:26:54.877000	0:26:58.570000	ORT	4962819
+und	-	-	-	0:26:58.570000	0:27:01.204000	-	4962822
+redet	-	-	-	0:26:58.570000	0:27:01.204000	-	4962823
+eigentlich	-	-	-	0:26:58.570000	0:27:01.204000	-	4962824
+fast	-	-	-	0:26:58.570000	0:27:01.204000	-	4962825
+bayrisch	-	-	-	0:26:58.570000	0:27:01.204000	-	4962826
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:01.204000" end="0:27:02.370000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:01.204000" end="0:27:05.717000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ist	-	-	-	0:27:01.204000	0:27:02.904000	-	4962828
+au	-	-	-	0:27:01.204000	0:27:02.904000	-	4962830
+eine	-	-	-	0:27:01.204000	0:27:02.904000	-	4962831
+ganz	-	-	-	0:27:01.204000	0:27:02.904000	-	4962832
+spannend	-	-	-	0:27:01.204000	0:27:02.904000	-	4962833
+also	-	-	-	0:27:02.904000	0:27:05.717000	-	4962835
+ist	-	-	-	0:27:02.904000	0:27:05.717000	-	4962836
+eigentlich	-	-	-	0:27:02.904000	0:27:05.717000	-	4962837
+total	-	-	-	0:27:02.904000	0:27:05.717000	-	4962838
+schön	-	-	-	0:27:02.904000	0:27:05.717000	-	4962840
+zum	-	-	-	0:27:02.904000	0:27:05.717000	-	4962841
+zuhören	-	-	-	0:27:02.904000	0:27:05.717000	-	4962842
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:05.717000" end="0:27:15.610000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:27:08.097000	0:27:10.390000	-	4958591
+wenn	-	-	-	0:27:08.097000	0:27:10.390000	-	4958592
+Sie	-	-	-	0:27:08.097000	0:27:10.390000	-	4958593
+an	-	-	-	0:27:08.097000	0:27:10.390000	-	4958594
+Ihre	-	-	-	0:27:08.097000	0:27:10.390000	-	4958595
+Kindheit	-	-	-	0:27:08.097000	0:27:10.390000	-	4958596
+denken	-	-	-	0:27:08.097000	0:27:10.390000	-	4958597
+können	-	-	-	0:27:10.390000	0:27:15.610000	-	4958599
+Sie	-	-	-	0:27:10.390000	0:27:15.610000	-	4958600
+sich	-	-	-	0:27:10.390000	0:27:15.610000	-	4958601
+erinnern	-	-	-	0:27:10.390000	0:27:15.610000	-	4958602
+wie	-	-	-	0:27:10.390000	0:27:15.610000	-	4958603
+ihre	-	-	-	0:27:10.390000	0:27:15.610000	-	4958604
+Eltern	-	-	-	0:27:10.390000	0:27:15.610000	-	4958605
+in	-	-	-	0:27:10.390000	0:27:15.610000	-	4958607
+Ihrer	-	-	-	0:27:10.390000	0:27:15.610000	-	4958608
+Kindheit	-	-	-	0:27:10.390000	0:27:15.610000	-	4958609
+untereinander	-	-	-	0:27:10.390000	0:27:15.610000	-	4958610
+gesprochen	-	-	-	0:27:10.390000	0:27:15.610000	-	4958611
+haben	-	-	-	0:27:10.390000	0:27:15.610000	-	4958612
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:15.610000" end="0:27:21.050000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:27:15.610000	0:27:21.050000	-	4962845
+es	-	-	-	0:27:15.610000	0:27:21.050000	-	4962846
+war	-	-	-	0:27:15.610000	0:27:21.050000	-	4962847
+sehr	-	-	-	0:27:15.610000	0:27:21.050000	-	4962849
+in	-	-	-	0:27:15.610000	0:27:21.050000	-	4962851
+Richtung	-	-	-	0:27:15.610000	0:27:21.050000	-	4962852
+Umgangssprache	-	-	-	0:27:15.610000	0:27:21.050000	-	4962853
+Dialekt	-	-	-	0:27:15.610000	0:27:21.050000	-	4962854
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:21.050000" end="0:27:25.417000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:27:21.777000	0:27:25.417000	-	4958619
+haben	-	-	-	0:27:21.777000	0:27:25.417000	-	4958620
+Ihre	-	-	-	0:27:21.777000	0:27:25.417000	-	4958621
+Eltern	-	-	-	0:27:21.777000	0:27:25.417000	-	4958622
+mit	-	-	-	0:27:21.777000	0:27:25.417000	-	4958623
+Ihnen	-	-	-	0:27:21.777000	0:27:25.417000	-	4958624
+auch	-	-	-	0:27:21.777000	0:27:25.417000	-	4958625
+so	-	-	-	0:27:21.777000	0:27:25.417000	-	4958626
+gesprochen	-	-	-	0:27:21.777000	0:27:25.417000	-	4958627
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:25.004000" end="0:27:25.417000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:27:25.004000	0:27:25.417000	-	4962856
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:25.417000" end="0:27:33.617000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ja	-	-	-	0:27:25.417000	0:27:25.750000	-	4958629
+haben	-	-	-	0:27:27.990000	0:27:33.617000	-	4958635
+Sie	-	-	-	0:27:27.990000	0:27:33.617000	-	4958636
+den	-	-	-	0:27:27.990000	0:27:33.617000	-	4958637
+Eindruck	-	-	-	0:27:27.990000	0:27:33.617000	-	4958638
+dass	-	-	-	0:27:27.990000	0:27:33.617000	-	4958639
+sich	-	-	-	0:27:27.990000	0:27:33.617000	-	4958640
+bei	-	-	-	0:27:27.990000	0:27:33.617000	-	4958641
+Ihnen	-	-	-	0:27:27.990000	0:27:33.617000	-	4958642
+mit	-	-	-	0:27:27.990000	0:27:33.617000	-	4958643
+Schuleintritt	-	-	-	0:27:27.990000	0:27:33.617000	-	4958644
+etwas	-	-	-	0:27:27.990000	0:27:33.617000	-	4958645
+an	-	-	-	0:27:27.990000	0:27:33.617000	-	4958646
+ihrer	-	-	-	0:27:27.990000	0:27:33.617000	-	4958647
+Sprechweise	-	-	-	0:27:27.990000	0:27:33.617000	-	4958648
+verändert	-	-	-	0:27:27.990000	0:27:33.617000	-	4958649
+hat	-	-	-	0:27:27.990000	0:27:33.617000	-	4958650
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:33.617000" end="0:27:46.857000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+mit	-	-	-	0:27:38.750000	0:27:40.157000	-	4962859
+Schuleintritt	-	-	-	0:27:38.750000	0:27:40.157000	-	4962860
+also	-	-	-	0:27:40.157000	0:27:43.124000	-	4962863
+nicht	-	-	-	0:27:40.157000	0:27:43.124000	-	4962864
+unmittelbar	-	-	-	0:27:40.157000	0:27:43.124000	-	4962865
+es	-	-	-	0:27:43.124000	0:27:46.857000	-	4962868
+wa	-	-	-	0:27:43.124000	0:27:46.857000	-	4962869
+es	-	-	-	0:27:43.124000	0:27:46.857000	-	4962870
+war	-	-	-	0:27:43.124000	0:27:46.857000	-	4962871
+vermutlich	-	-	-	0:27:43.124000	0:27:46.857000	-	4962872
+viel	-	-	-	0:27:43.124000	0:27:46.857000	-	4962874
+später	-	-	-	0:27:43.124000	0:27:46.857000	-	4962875
+erst	-	-	-	0:27:43.124000	0:27:46.857000	-	4962876
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:46.857000" end="0:27:50.404000" persName="Informant EXP15" age_lower="1" age_upper="999">
+mit	-	-	-	0:27:47.710000	0:27:50.404000	-	4958657
+berufseintritt	-	-	-	0:27:47.710000	0:27:50.404000	-	4958658
+oder	-	-	-	0:27:47.710000	0:27:50.404000	-	4958659
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:50.404000" end="0:27:56.224000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+nein	-	-	-	0:27:50.404000	0:27:56.224000	-	4962879
+ja	-	-	-	0:27:50.404000	0:27:56.224000	-	4962880
+mit	-	-	-	0:27:50.404000	0:27:56.224000	-	4962881
+Beginn	-	-	-	0:27:50.404000	0:27:56.224000	-	4962883
+Oberstufe	-	-	-	0:27:50.404000	0:27:56.224000	-	4962884
+würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:27:50.404000	0:27:56.224000	-	4962885
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:27:50.404000	0:27:56.224000	-	4962886
+sagen	-	-	-	0:27:50.404000	0:27:56.224000	-	4962887
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:54.310000" end="0:27:57.144000" persName="Informant EXP15" age_lower="1" age_upper="999">
+oder	-	-	-	0:27:54.310000	0:27:54.664000	-	4958661
+aha	-	-	-	0:27:56.224000	0:27:56.637000	-	4958663
+okay	-	-	-	0:27:56.637000	0:27:57.144000	-	4958665
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:56.637000" end="0:27:58.530000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+weil	-	-	-	0:27:56.637000	0:27:58.530000	-	4962890
+die	-	-	-	0:27:56.637000	0:27:58.530000	-	4962891
+Hauptschule	-	-	-	0:27:56.637000	0:27:58.530000	-	4962892
+war	-	-	-	0:27:56.637000	0:27:58.530000	-	4962893
+auch	-	-	-	0:27:56.637000	0:27:58.530000	-	4962894
+hier	-	-	-	0:27:56.637000	0:27:58.530000	-	4962895
+im	-	-	-	0:27:56.637000	0:27:58.530000	-	4962896
+Ort	-	-	-	0:27:56.637000	0:27:58.530000	-	4962897
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:27:58.530000" end="0:27:59.150000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:59.150000" end="0:28:01.190000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+vielleicht	-	-	-	0:27:59.150000	0:28:01.190000	-	4962900
+hängt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:27:59.150000	0:28:01.190000	-	4962901
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:27:59.150000	0:28:01.190000	-	4962902
+damit	-	-	-	0:27:59.150000	0:28:01.190000	-	4962903
+zusammen	-	-	-	0:27:59.150000	0:28:01.190000	-	4962904
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:01.070000" end="0:28:01.537000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:01.190000" end="0:28:03.697000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+dass	-	-	-	0:28:01.190000	0:28:03.697000	-	4962906
+man	-	-	-	0:28:01.190000	0:28:03.697000	-	4962907
+aus	-	-	-	0:28:01.190000	0:28:03.697000	-	4962908
+dem	-	-	-	0:28:01.190000	0:28:03.697000	-	4962909
+gar	-	-	-	0:28:01.190000	0:28:03.697000	-	4962911
+nicht	-	-	-	0:28:01.190000	0:28:03.697000	-	4962912
+so	-	-	-	0:28:01.190000	0:28:03.697000	-	4962913
+rauskommt	-	-	-	0:28:01.190000	0:28:03.697000	-	4962914
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:03.697000" end="0:28:08.284000" persName="Informant EXP15" age_lower="1" age_upper="999">
+waren	-	-	-	0:28:03.697000	0:28:08.284000	-	4958674
+sie	-	-	-	0:28:03.697000	0:28:08.284000	-	4958675
+dann	-	-	-	0:28:03.697000	0:28:08.284000	-	4958676
+ah	-	-	-	0:28:03.697000	0:28:08.284000	-	4958677
+in	-	-	-	0:28:03.697000	0:28:08.284000	-	4958678
+der	-	-	-	0:28:03.697000	0:28:08.284000	-	4958679
+Oberstufe	-	-	-	0:28:03.697000	0:28:08.284000	-	4958680
+in	-	-	-	0:28:03.697000	0:28:08.284000	-	4958681
+in	-	-	-	0:28:03.697000	0:28:08.284000	-	4958683
+ORT	ORT	-	-	0:28:03.697000	0:28:08.284000	ORT	4958684
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:07.210000" end="0:28:07.870000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+in	-	-	-	0:28:07.210000	0:28:07.870000	-	4962916
+ORT	ORT	-	-	0:28:07.210000	0:28:07.870000	ORT	4962917
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:08.284000" end="0:28:08.937000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:08.284000" end="0:28:08.704000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:28:08.284000	0:28:08.704000	-	4962919
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:08.937000" end="0:28:16.917000" persName="Informant EXP15" age_lower="1" age_upper="999">
+okay	-	-	-	0:28:08.937000	0:28:10.870000	-	4958691
+ah	-	-	-	0:28:10.870000	0:28:16.917000	-	4958694
+und	-	-	-	0:28:10.870000	0:28:16.917000	-	4958695
+wie	-	-	-	0:28:10.870000	0:28:16.917000	-	4958696
+sollten	-	-	-	0:28:10.870000	0:28:16.917000	-	4958697
+Ihrer	-	-	-	0:28:10.870000	0:28:16.917000	-	4958698
+Meinung	-	-	-	0:28:10.870000	0:28:16.917000	-	4958699
+nach	-	-	-	0:28:10.870000	0:28:16.917000	-	4958700
+Lehrer	-	-	-	0:28:10.870000	0:28:16.917000	-	4958701
+beziehungsweise	-	-	-	0:28:10.870000	0:28:16.917000	-	4958702
+Lehrerinnen	-	-	-	0:28:10.870000	0:28:16.917000	-	4958703
+sprechen	-	-	-	0:28:10.870000	0:28:16.917000	-	4958704
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:16.917000" end="0:28:39.170000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:28:19.657000	0:28:22.410000	-	4962922
+meiner	-	-	-	0:28:19.657000	0:28:22.410000	-	4962923
+ganz	-	-	-	0:28:19.657000	0:28:22.410000	-	4962924
+persönlichen	-	-	-	0:28:19.657000	0:28:22.410000	-	4962925
+Meinung	-	-	-	0:28:19.657000	0:28:22.410000	-	4962926
+nach	-	-	-	0:28:19.657000	0:28:22.410000	-	4962927
+auf	-	-	-	0:28:22.410000	0:28:25.084000	-	4962930
+jeden	-	-	-	0:28:22.410000	0:28:25.084000	-	4962931
+Fall	-	-	-	0:28:22.410000	0:28:25.084000	-	4962932
+so	-	-	-	0:28:22.410000	0:28:25.084000	-	4962933
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _sie(pl.nom.) klit-	0:28:25.084000	0:28:27.410000	-	4962935
+Sie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _sie(pl.nom.) klit-	0:28:25.084000	0:28:27.410000	-	4962936
+gut	-	-	-	0:28:25.084000	0:28:27.410000	-	4962938
+verständlich	-	-	-	0:28:25.084000	0:28:27.410000	-	4962939
+sind	-	-	-	0:28:25.084000	0:28:27.410000	-	4962940
+inhaltlich	-	-	-	0:28:27.410000	0:28:28.217000	-	4962942
+aber	-	-	-	0:28:28.217000	0:28:34.370000	-	4962945
+ich	-	-	-	0:28:28.217000	0:28:34.370000	-	4962946
+bin	-	-	-	0:28:28.217000	0:28:34.370000	-	4962947
+persönlich	-	-	-	0:28:28.217000	0:28:34.370000	-	4962948
+nicht	-	-	-	0:28:28.217000	0:28:34.370000	-	4962949
+der	-	-	-	0:28:28.217000	0:28:34.370000	-	4962950
+Meinung	-	-	-	0:28:28.217000	0:28:34.370000	-	4962951
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:28:28.217000	0:28:34.370000	-	4962952
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:28:28.217000	0:28:34.370000	-	4962953
+super	-	-	-	0:28:28.217000	0:28:34.370000	-	4962954
+Hochsprache	-	-	-	0:28:28.217000	0:28:34.370000	-	4962955
+sein	-	-	-	0:28:28.217000	0:28:34.370000	-	4962956
+muss	-	-	-	0:28:28.217000	0:28:34.370000	-	4962957
+sondern	-	-	-	0:28:34.370000	0:28:39.170000	-	4962959
+meine	-	-	-	0:28:34.370000	0:28:39.170000	-	4962961
+Meinung	-	-	-	0:28:34.370000	0:28:39.170000	-	4962962
+ist	-	-	-	0:28:34.370000	0:28:39.170000	-	4962963
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:28:34.370000	0:28:39.170000	-	4962964
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:28:34.370000	0:28:39.170000	-	4962965
+besser	-	-	-	0:28:34.370000	0:28:39.170000	-	4962966
+ist	-	-	-	0:28:34.370000	0:28:39.170000	-	4962967
+wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:28:34.370000	0:28:39.170000	-	4962968
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:28:34.370000	0:28:39.170000	-	4962969
+authentisch	-	-	-	0:28:34.370000	0:28:39.170000	-	4962970
+ist	-	-	-	0:28:34.370000	0:28:39.170000	-	4962971
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:39.170000" end="0:28:39.817000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:39.817000" end="0:29:03.303000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:28:39.817000	0:28:41.963000	-	4962974
+ich	-	-	-	0:28:39.817000	0:28:41.963000	-	4962975
+wir	-	-	-	0:28:39.817000	0:28:41.963000	-	4962976
+arbeiten	-	-	-	0:28:39.817000	0:28:41.963000	-	4962977
+ja	-	-	-	0:28:39.817000	0:28:41.963000	-	4962978
+sehr	-	-	-	0:28:39.817000	0:28:41.963000	-	4962979
+viel	-	-	-	0:28:39.817000	0:28:41.963000	-	4962980
+bin	-	-	-	0:28:41.963000	0:28:43.230000	-	4962983
+ja	-	-	-	0:28:41.963000	0:28:43.230000	-	4962984
+jetzt	-	-	-	0:28:41.963000	0:28:43.230000	-	4962985
+eben	-	-	-	0:28:41.963000	0:28:43.230000	-	4962986
+in	-	-	-	0:28:41.963000	0:28:43.230000	-	4962987
+der	-	-	-	0:28:41.963000	0:28:43.230000	-	4962988
+Ausbildung	-	-	-	0:28:41.963000	0:28:43.230000	-	4962989
+arbeiten	-	-	-	0:28:43.230000	0:28:46.310000	-	4962992
+viel	-	-	-	0:28:43.230000	0:28:46.310000	-	4962993
+daran	-	-	-	0:28:43.230000	0:28:46.310000	-	4962994
+wie	-	-	-	0:28:43.230000	0:28:46.310000	-	4962995
+die	-	-	-	0:28:43.230000	0:28:46.310000	-	4962996
+Sprache	-	-	-	0:28:43.230000	0:28:46.310000	-	4962997
+ist	-	-	-	0:28:43.230000	0:28:46.310000	-	4962998
+wie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _sie(f.sg.nom.) klit-	0:28:46.310000	0:28:48.357000	-	4963001
+sie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _sie(f.sg.nom.) klit-	0:28:46.310000	0:28:48.357000	-	4963002
+sein	-	-	-	0:28:46.310000	0:28:48.357000	-	4963003
+soll	-	-	-	0:28:46.310000	0:28:48.357000	-	4963004
+ob	-	-	-	0:28:48.357000	0:28:49.843000	-	4963006
+das	-	-	-	0:28:48.357000	0:28:49.843000	-	4963007
+gut	-	-	-	0:28:48.357000	0:28:49.843000	-	4963008
+verständlich	-	-	-	0:28:48.357000	0:28:49.843000	-	4963009
+ist	-	-	-	0:28:48.357000	0:28:49.843000	-	4963010
+für	-	-	-	0:28:52.770000	0:28:56.963000	-	4963013
+mich	-	-	-	0:28:52.770000	0:28:56.963000	-	4963014
+wirkt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:52.770000	0:28:56.963000	-	4963015
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:52.770000	0:28:56.963000	-	4963016
+am	-	-	-	0:28:52.770000	0:28:56.963000	-	4963017
+besten	-	-	-	0:28:52.770000	0:28:56.963000	-	4963018
+au	-	-	-	0:28:52.770000	0:28:56.963000	-	4963019
+wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:28:52.770000	0:28:56.963000	-	4963020
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:28:52.770000	0:28:56.963000	-	4963021
+bei	-	-	-	0:28:52.770000	0:28:56.963000	-	4963022
+Kollegen	-	-	-	0:28:52.770000	0:28:56.963000	-	4963023
+beobachten	-	-	-	0:28:52.770000	0:28:56.963000	-	4963024
+darf	-	-	-	0:28:52.770000	0:28:56.963000	-	4963025
+für	-	-	-	0:28:56.963000	0:29:00.210000	-	4963027
+mich	-	-	-	0:28:56.963000	0:29:00.210000	-	4963028
+wirkt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:56.963000	0:29:00.210000	-	4963029
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:28:56.963000	0:29:00.210000	-	4963030
+am	-	-	-	0:28:56.963000	0:29:00.210000	-	4963031
+besten	-	-	-	0:28:56.963000	0:29:00.210000	-	4963032
+wenn	-	-	-	0:28:56.963000	0:29:00.210000	-	4963033
+wenn	-	-	-	0:28:56.963000	0:29:00.210000	-	4963035
+das	-	-	-	0:28:56.963000	0:29:00.210000	-	4963037
+authentisch	-	-	-	0:28:56.963000	0:29:00.210000	-	4963038
+ist	-	-	-	0:28:56.963000	0:29:00.210000	-	4963039
+und	-	-	-	0:29:00.210000	0:29:03.303000	-	4963041
+wenn	-	-	-	0:29:00.210000	0:29:03.303000	-	4963042
+wenn	-	-	-	0:29:00.210000	0:29:03.303000	-	4963044
+sich	-	-	-	0:29:00.210000	0:29:03.303000	-	4963045
+die	-	-	-	0:29:00.210000	0:29:03.303000	-	4963046
+Kollegen	-	-	-	0:29:00.210000	0:29:03.303000	-	4963047
+nicht	-	-	-	0:29:00.210000	0:29:03.303000	-	4963048
+so	-	-	-	0:29:00.210000	0:29:03.303000	-	4963049
+sehr	-	-	-	0:29:00.210000	0:29:03.303000	-	4963050
+bemühen	-	-	-	0:29:00.210000	0:29:03.303000	-	4963051
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:03.303000" end="0:29:04.177000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:03.303000" end="0:29:07.710000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ein	-	-	-	0:29:03.303000	0:29:07.710000	-	4963054
+Sprache	-	-	-	0:29:03.303000	0:29:07.710000	-	4963055
+zu	-	-	-	0:29:03.303000	0:29:07.710000	-	4963056
+verwenden	-	-	-	0:29:03.303000	0:29:07.710000	-	4963057
+die	-	-	-	0:29:03.303000	0:29:07.710000	-	4963058
+Ihnen	-	-	-	0:29:03.303000	0:29:07.710000	-	4963059
+eigentlich	-	-	-	0:29:03.303000	0:29:07.710000	-	4963060
+sonst	-	-	-	0:29:03.303000	0:29:07.710000	-	4963061
+nicht	-	-	-	0:29:03.303000	0:29:07.710000	-	4963062
+geläufig	-	-	-	0:29:03.303000	0:29:07.710000	-	4963063
+ist	-	-	-	0:29:03.303000	0:29:07.710000	-	4963064
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:07.710000" end="0:29:20.237000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:29:13.357000	0:29:20.237000	-	4958717
+sprechen	-	-	-	0:29:13.357000	0:29:20.237000	-	4958718
+Sie	-	-	-	0:29:13.357000	0:29:20.237000	-	4958719
+mit	-	-	-	0:29:13.357000	0:29:20.237000	-	4958720
+bestimmten	-	-	-	0:29:13.357000	0:29:20.237000	-	4958721
+personenkreisen	-	-	-	0:29:13.357000	0:29:20.237000	-	4958722
+aus	-	-	-	0:29:13.357000	0:29:20.237000	-	4958723
+Ihrem	-	-	-	0:29:13.357000	0:29:20.237000	-	4958724
+familiären	-	-	-	0:29:13.357000	0:29:20.237000	-	4958725
+oder	-	-	-	0:29:13.357000	0:29:20.237000	-	4958726
+freundschaftlichen	-	-	-	0:29:13.357000	0:29:20.237000	-	4958727
+Umfeld	-	-	-	0:29:13.357000	0:29:20.237000	-	4958729
+unterschiedlich	-	-	-	0:29:13.357000	0:29:20.237000	-	4958730
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:20.237000" end="0:29:46.517000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+hmpf	-	-	-	0:29:26.850000	0:29:28.263000	-	4963067
+oh	-	-	-	0:29:37.503000	0:29:38.010000	-	4963070
+je	-	-	-	0:29:37.503000	0:29:38.010000	-	4963071
+pf	-	-	-	0:29:38.010000	0:29:39.203000	-	4963073
+ja	-	-	-	0:29:38.010000	0:29:39.203000	-	4963074
+vielleicht	-	-	-	0:29:39.203000	0:29:43.730000	-	4963077
+mit	-	-	-	0:29:39.203000	0:29:43.730000	-	4963078
+Freunden	-	-	-	0:29:39.203000	0:29:43.730000	-	4963079
+bisschen	-	-	-	0:29:39.203000	0:29:43.730000	-	4963080
+anders	-	-	-	0:29:39.203000	0:29:43.730000	-	4963081
+als	-	-	-	0:29:39.203000	0:29:43.730000	-	4963082
+mit	-	-	-	0:29:39.203000	0:29:43.730000	-	4963083
+Familie	-	-	-	0:29:39.203000	0:29:43.730000	-	4963085
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:46.517000" end="0:29:46.930000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:46.930000" end="0:29:57.397000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+aber	-	-	-	0:29:46.930000	0:29:57.397000	-	4963089
+das	-	-	-	0:29:46.930000	0:29:57.397000	-	4963090
+ist	-	-	-	0:29:46.930000	0:29:57.397000	-	4963091
+jetzt	-	-	-	0:29:46.930000	0:29:57.397000	-	4963093
+aus	-	-	-	0:29:46.930000	0:29:57.397000	-	4963094
+meiner	-	-	-	0:29:46.930000	0:29:57.397000	-	4963095
+Sicht	-	-	-	0:29:46.930000	0:29:57.397000	-	4963096
+eher	-	-	-	0:29:46.930000	0:29:57.397000	-	4963097
+minimal	-	-	-	0:29:46.930000	0:29:57.397000	-	4963099
+der	-	-	-	0:29:46.930000	0:29:57.397000	-	4963100
+Unterschied	-	-	-	0:29:46.930000	0:29:57.397000	-	4963101
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:57.397000" end="0:30:03.617000" persName="Informant EXP15" age_lower="1" age_upper="999">
+okay	-	-	-	0:29:57.397000	0:29:58.617000	-	4958738
+und	-	-	-	0:29:58.617000	0:30:03.617000	-	4958742
+sprechen	-	-	-	0:29:58.617000	0:30:03.617000	-	4958743
+Sie	-	-	-	0:29:58.617000	0:30:03.617000	-	4958744
+mit	-	-	-	0:29:58.617000	0:30:03.617000	-	4958745
+Ihren	-	-	-	0:29:58.617000	0:30:03.617000	-	4958746
+Freunden	-	-	-	0:29:58.617000	0:30:03.617000	-	4958747
+auch	-	-	-	0:29:58.617000	0:30:03.617000	-	4958748
+andere	-	-	-	0:29:58.617000	0:30:03.617000	-	4958749
+sprachen	-	-	-	0:29:58.617000	0:30:03.617000	-	4958750
+als	-	-	-	0:29:58.617000	0:30:03.617000	-	4958751
+deutsch	-	-	-	0:29:58.617000	0:30:03.617000	-	4958752
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:03.617000" end="0:30:17.210000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+nein	-	-	-	0:30:07.237000	0:30:07.643000	-	4963104
+so	-	-	-	0:30:07.643000	0:30:11.797000	-	4963106
+im	-	-	-	0:30:07.643000	0:30:11.797000	-	4963107
+normalen	-	-	-	0:30:07.643000	0:30:11.797000	-	4963108
+Gespräch	-	-	-	0:30:07.643000	0:30:11.797000	-	4963109
+nicht	-	-	-	0:30:07.643000	0:30:11.797000	-	4963111
+es	-	-	-	0:30:11.797000	0:30:12.917000	-	4963114
+wäre	-	-	-	0:30:11.797000	0:30:12.917000	-	4963115
+nur	-	-	-	0:30:11.797000	0:30:12.917000	-	4963116
+wenn	-	-	-	0:30:11.797000	0:30:12.917000	-	4963117
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:30:12.917000	0:30:17.210000	-	4963120
+bei	-	-	-	0:30:12.917000	0:30:17.210000	-	4963121
+mir	-	-	-	0:30:12.917000	0:30:17.210000	-	4963122
+verbunden	-	-	-	0:30:12.917000	0:30:17.210000	-	4963124
+teilweise	-	-	-	0:30:12.917000	0:30:17.210000	-	4963125
+Freunde	-	-	-	0:30:12.917000	0:30:17.210000	-	4963126
+die	-	-	-	0:30:12.917000	0:30:17.210000	-	4963127
+auch	-	-	-	0:30:12.917000	0:30:17.210000	-	4963128
+mit	-	-	-	0:30:12.917000	0:30:17.210000	-	4963129
+mir	-	-	-	0:30:12.917000	0:30:17.210000	-	4963130
+gemeinsam	-	-	-	0:30:12.917000	0:30:17.210000	-	4963131
+arbeiten	-	-	-	0:30:12.917000	0:30:17.210000	-	4963132
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:17.210000" end="0:30:17.797000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:17.797000" end="0:30:27.497000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:30:17.797000	0:30:23.377000	-	4963135
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:30:17.797000	0:30:23.377000	-	4963136
+dann	-	-	-	0:30:17.797000	0:30:23.377000	-	4963138
+im	-	-	-	0:30:17.797000	0:30:23.377000	-	4963140
+arbeitsumfeld	-	-	-	0:30:17.797000	0:30:23.377000	-	4963141
+Englisch	-	-	-	0:30:17.797000	0:30:23.377000	-	4963142
+sein	-	-	-	0:30:17.797000	0:30:23.377000	-	4963143
+muss	-	-	-	0:30:17.797000	0:30:23.377000	-	4963144
+dann	-	-	-	0:30:23.377000	0:30:24.070000	-	4963146
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:23.377000	0:30:24.070000	-	4963147
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:23.377000	0:30:24.070000	-	4963148
+Englisch	-	-	-	0:30:23.377000	0:30:24.070000	-	4963149
+jetzt	-	-	-	0:30:24.070000	0:30:27.497000	-	4963152
+so	-	-	-	0:30:24.070000	0:30:27.497000	-	4963153
+im	-	-	-	0:30:24.070000	0:30:27.497000	-	4963154
+privaten	-	-	-	0:30:24.070000	0:30:27.497000	-	4963155
+Bereich	-	-	-	0:30:24.070000	0:30:27.497000	-	4963157
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:24.070000	0:30:27.497000	-	4963159
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:30:24.070000	0:30:27.497000	-	4963160
+ein	-	-	-	0:30:24.070000	0:30:27.497000	-	4963161
+nur	-	-	-	0:30:24.070000	0:30:27.497000	-	4963162
+Deutsch	-	-	-	0:30:24.070000	0:30:27.497000	-	4963163
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:27.497000" end="0:30:33.617000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:30:28.177000	0:30:30.843000	-	4958764
+generell	-	-	-	0:30:28.177000	0:30:30.843000	-	4958765
+Sie	-	-	-	0:30:30.843000	0:30:33.617000	-	4958768
+beruflich	-	-	-	0:30:30.843000	0:30:33.617000	-	4958769
+anders	-	-	-	0:30:30.843000	0:30:33.617000	-	4958770
+als	-	-	-	0:30:30.843000	0:30:33.617000	-	4958771
+privat	-	-	-	0:30:30.843000	0:30:33.617000	-	4958772
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:33.617000" end="0:30:34.923000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:30:33.617000	0:30:34.923000	-	4963166
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:30:40.823000" end="0:30:45.017000" persName="Informant EXP15" age_lower="1" age_upper="999">
+<<kichernd>	-	-	-	0:30:42.097000	0:30:45.017000	-	4958776
+wie	-	-	-	0:30:42.097000	0:30:45.017000	-	4958777
+sprechen	-	-	-	0:30:42.097000	0:30:45.017000	-	4958778
+Sie	-	-	-	0:30:42.097000	0:30:45.017000	-	4958779
+an	-	-	-	0:30:42.097000	0:30:45.017000	-	4958780
+ihrer	-	-	-	0:30:42.097000	0:30:45.017000	-	4958781
+arbeitsstelle,>	-	-	-	0:30:42.097000	0:30:45.017000	-	4958782
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:43.730000" end="0:31:03.070000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:30:49.917000	0:30:57.323000	-	4963170
+ich	-	-	-	0:30:49.917000	0:30:57.323000	-	4963171
+versuche	-	-	-	0:30:49.917000	0:30:57.323000	-	4963172
+eben	-	-	-	0:30:49.917000	0:30:57.323000	-	4963173
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:30:49.917000	0:30:57.323000	-	4963175
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:30:49.917000	0:30:57.323000	-	4963176
+nicht	-	-	-	0:30:49.917000	0:30:57.323000	-	4963177
+zu	-	-	-	0:30:49.917000	0:30:57.323000	-	4963178
+sehr	-	-	-	0:30:49.917000	0:30:57.323000	-	4963179
+Umgangssprache	-	-	-	0:30:49.917000	0:30:57.323000	-	4963181
+Dialekt	-	-	-	0:30:49.917000	0:30:57.323000	-	4963182
+ist	-	-	-	0:30:49.917000	0:30:57.323000	-	4963184
+sondern	-	-	-	0:30:57.323000	0:31:03.070000	-	4963187
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:30:57.323000	0:31:03.070000	-	4963188
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:30:57.323000	0:31:03.070000	-	4963189
+eben	-	-	-	0:30:57.323000	0:31:03.070000	-	4963191
+zumindest	-	-	-	0:30:57.323000	0:31:03.070000	-	4963193
+gut	-	-	-	0:30:57.323000	0:31:03.070000	-	4963194
+verständlich	-	-	-	0:30:57.323000	0:31:03.070000	-	4963195
+ist	-	-	-	0:30:57.323000	0:31:03.070000	-	4963196
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:03.070000" end="0:31:12.883000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:31:03.623000	0:31:04.950000	-	4958787
+mit	-	-	-	0:31:03.623000	0:31:04.950000	-	4958789
+Kunden	-	-	-	0:31:03.623000	0:31:04.950000	-	4958790
+oder	-	-	-	0:31:04.950000	0:31:06.117000	-	4958792
+mit	-	-	-	0:31:04.950000	0:31:06.117000	-	4958793
+Kollegen	-	-	-	0:31:04.950000	0:31:06.117000	-	4958794
+weil	-	-	-	0:31:06.117000	0:31:09.203000	-	4958797
+ich	-	-	-	0:31:06.117000	0:31:09.203000	-	4958798
+glaube	-	-	-	0:31:06.117000	0:31:09.203000	-	4958799
+wir	-	-	-	0:31:06.117000	0:31:09.203000	-	4958800
+reden	-	-	-	0:31:06.117000	0:31:09.203000	-	4958801
+wenn	-	-	-	0:31:06.117000	0:31:09.203000	-	4958802
+man	-	-	-	0:31:06.117000	0:31:09.203000	-	4958803
+von	-	-	-	0:31:06.117000	0:31:09.203000	-	4958804
+der	-	-	-	0:31:06.117000	0:31:09.203000	-	4958805
+Arbeit	-	-	-	0:31:06.117000	0:31:09.203000	-	4958806
+reden	-	-	-	0:31:06.117000	0:31:09.203000	-	4958807
+Sie	-	-	-	0:31:09.203000	0:31:10.037000	-	4958809
+sind	-	-	-	0:31:09.203000	0:31:10.037000	-	4958810
+ja	-	-	-	0:31:09.203000	0:31:10.037000	-	4958811
+selbstständig	-	-	-	0:31:09.203000	0:31:10.037000	-	4958812
+sie	-	-	-	0:31:10.037000	0:31:12.883000	-	4958815
+sind	-	-	-	0:31:10.037000	0:31:12.883000	-	4958816
+ja	-	-	-	0:31:10.037000	0:31:12.883000	-	4958817
+ihr	-	-	-	0:31:10.037000	0:31:12.883000	-	4958818
+eigener	-	-	-	0:31:10.037000	0:31:12.883000	-	4958819
+Vorgesetzter	-	-	-	0:31:10.037000	0:31:12.883000	-	4958820
+sozusagen	-	-	-	0:31:10.037000	0:31:12.883000	-	4958821
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:12.130000" end="0:31:14.883000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:31:12.130000	0:31:14.883000	-	4963198
+mit	-	-	-	0:31:12.130000	0:31:14.883000	-	4963199
+Kunden	-	-	-	0:31:12.130000	0:31:14.883000	-	4963200
+auch	-	-	-	0:31:12.130000	0:31:14.883000	-	4963201
+in	-	-	-	0:31:12.130000	0:31:14.883000	-	4963202
+die	-	-	-	0:31:12.130000	0:31:14.883000	-	4963203
+Richtung	-	-	-	0:31:12.130000	0:31:14.883000	-	4963204
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:14.883000" end="0:31:15.843000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:15.843000" end="0:31:32.003000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+weil	-	-	-	0:31:15.843000	0:31:20.517000	-	4963207
+weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:31:15.843000	0:31:20.517000	-	4963209
+ja	-	-	-	0:31:15.843000	0:31:20.517000	-	4963211
+nie	-	-	-	0:31:15.843000	0:31:20.517000	-	4963212
+genau	-	-	-	0:31:15.843000	0:31:20.517000	-	4963213
+weiss	-	-	-	0:31:15.843000	0:31:20.517000	-	4963214
+es	-	-	-	0:31:15.843000	0:31:20.517000	-	4963215
+äh	-	-	-	0:31:15.843000	0:31:20.517000	-	4963216
+es	-	-	-	0:31:20.517000	0:31:25.610000	-	4963219
+gibt	-	-	-	0:31:20.517000	0:31:25.610000	-	4963220
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:31:20.517000	0:31:25.610000	-	4963221
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:31:20.517000	0:31:25.610000	-	4963222
+schon	-	-	-	0:31:20.517000	0:31:25.610000	-	4963223
+Leute	-	-	-	0:31:20.517000	0:31:25.610000	-	4963224
+bei	-	-	-	0:31:20.517000	0:31:25.610000	-	4963225
+denen	-	-	-	0:31:20.517000	0:31:25.610000	-	4963226
+das	-	-	-	0:31:20.517000	0:31:25.610000	-	4963227
+ein	-	-	-	0:31:20.517000	0:31:25.610000	-	4963228
+kriterium	-	-	-	0:31:20.517000	0:31:25.610000	-	4963229
+ist	-	-	-	0:31:20.517000	0:31:25.610000	-	4963230
+auch	-	-	-	0:31:20.517000	0:31:25.610000	-	4963231
+oder	-	-	-	0:31:25.610000	0:31:29.803000	-	4963234
+bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:31:25.610000	0:31:29.803000	-	4963236
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:31:25.610000	0:31:29.803000	-	4963237
+sicher	-	-	-	0:31:25.610000	0:31:29.803000	-	4963238
+dass	-	-	-	0:31:25.610000	0:31:29.803000	-	4963239
+das	-	-	-	0:31:25.610000	0:31:29.803000	-	4963240
+so	-	-	-	0:31:25.610000	0:31:29.803000	-	4963241
+ist	-	-	-	0:31:25.610000	0:31:29.803000	-	4963242
+es	-	-	-	0:31:29.803000	0:31:32.003000	-	4963244
+ist	-	-	-	0:31:29.803000	0:31:32.003000	-	4963245
+bei	-	-	-	0:31:29.803000	0:31:32.003000	-	4963246
+mir	-	-	-	0:31:29.803000	0:31:32.003000	-	4963247
+auch	-	-	-	0:31:29.803000	0:31:32.003000	-	4963248
+zum	-	-	-	0:31:29.803000	0:31:32.003000	-	4963249
+Teil	-	-	-	0:31:29.803000	0:31:32.003000	-	4963250
+so	-	-	-	0:31:29.803000	0:31:32.003000	-	4963251
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:32.003000" end="0:31:32.970000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:32.970000" end="0:31:59.897000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:31:32.970000	0:31:34.763000	-	4963254
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:31:32.970000	0:31:34.763000	-	4963255
+ein	-	-	-	0:31:32.970000	0:31:34.763000	-	4963256
+kriterium	-	-	-	0:31:32.970000	0:31:34.763000	-	4963257
+ist	-	-	-	0:31:32.970000	0:31:34.763000	-	4963258
+die	-	-	-	0:31:34.763000	0:31:36.230000	-	4963261
+Sprache	-	-	-	0:31:34.763000	0:31:36.230000	-	4963262
+wie	-	-	-	0:31:36.230000	0:31:38.810000	-	4963265
+jemand	-	-	-	0:31:36.230000	0:31:38.810000	-	4963267
+eingeschätzt	-	-	-	0:31:36.230000	0:31:38.810000	-	4963268
+wird	-	-	-	0:31:36.230000	0:31:38.810000	-	4963269
+auch	-	-	-	0:31:38.810000	0:31:41.697000	-	4963272
+vom	-	-	-	0:31:38.810000	0:31:41.697000	-	4963273
+<<kichernd>	-	-	-	0:31:44.797000	0:31:46.470000	-	4963276
+möchte	-	-	-	0:31:44.797000	0:31:46.470000	-	4963277
+nicht	-	-	-	0:31:44.797000	0:31:46.470000	-	4963278
+sagen	-	-	-	0:31:44.797000	0:31:46.470000	-	4963279
+geisteszustand,>	-	-	-	0:31:44.797000	0:31:46.470000	-	4963280
+mir	-	-	-	0:31:46.470000	0:31:48.157000	-	4963283
+fällt	-	-	-	0:31:46.470000	0:31:48.157000	-	4963284
+nix	-	-	-	0:31:46.470000	0:31:48.157000	-	4963285
+Gescheites	-	-	-	0:31:46.470000	0:31:48.157000	-	4963286
+ein	-	-	-	0:31:46.470000	0:31:48.157000	-	4963287
+ja	-	-	-	0:31:48.157000	0:31:51.150000	-	4963290
+von	-	-	-	0:31:48.157000	0:31:51.150000	-	4963291
+der	-	-	-	0:31:48.157000	0:31:51.150000	-	4963292
+Persönlichkeit	-	-	-	0:31:48.157000	0:31:51.150000	-	4963293
+oder	-	-	-	0:31:51.150000	0:31:58.810000	-	4963295
+da	-	-	-	0:31:51.150000	0:31:58.810000	-	4963296
+da	-	-	-	0:31:51.150000	0:31:58.810000	-	4963297
+dass	-	-	-	0:31:51.150000	0:31:58.810000	-	4963298
+das	-	-	-	0:31:51.150000	0:31:58.810000	-	4963299
+dass	-	-	-	0:31:51.150000	0:31:58.810000	-	4963301
+die	-	-	-	0:31:51.150000	0:31:58.810000	-	4963302
+Sprache	-	-	-	0:31:51.150000	0:31:58.810000	-	4963303
+dazu	-	-	-	0:31:51.150000	0:31:58.810000	-	4963305
+beiträgt	-	-	-	0:31:51.150000	0:31:58.810000	-	4963306
+wie	-	-	-	0:31:51.150000	0:31:58.810000	-	4963307
+wie	-	-	-	0:31:51.150000	0:31:58.810000	-	4963308
+d	-	-	-	0:31:51.150000	0:31:58.810000	-	4963309
+wie	-	-	-	0:31:51.150000	0:31:58.810000	-	4963310
+das	-	-	-	0:31:51.150000	0:31:58.810000	-	4963311
+Gegenüber	-	-	-	0:31:51.150000	0:31:58.810000	-	4963312
+einfach	-	-	-	0:31:51.150000	0:31:58.810000	-	4963313
+wahrgenommen	-	-	-	0:31:51.150000	0:31:58.810000	-	4963315
+wird	-	-	-	0:31:51.150000	0:31:58.810000	-	4963316
+und	-	-	-	0:31:58.810000	0:31:59.897000	-	4963318
+eingeschätzt	-	-	-	0:31:58.810000	0:31:59.897000	-	4963319
+wird	-	-	-	0:31:58.810000	0:31:59.897000	-	4963320
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:59.897000" end="0:32:02.963000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:59.897000" end="0:32:20.910000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:31:59.897000	0:32:02.963000	-	4963322
+und	-	-	-	0:31:59.897000	0:32:02.963000	-	4963323
+auch	-	-	-	0:31:59.897000	0:32:02.963000	-	4963325
+irgendwie	-	-	-	0:31:59.897000	0:32:02.963000	-	4963326
+eingestuft	-	-	-	0:31:59.897000	0:32:02.963000	-	4963327
+wird	-	-	-	0:31:59.897000	0:32:02.963000	-	4963328
+versucht	-	-	-	0:32:02.963000	0:32:11.276000	-	4963331
+man	-	-	-	0:32:02.963000	0:32:11.276000	-	4963332
+natürlich	-	-	-	0:32:02.963000	0:32:11.276000	-	4963333
+bei	-	-	-	0:32:02.963000	0:32:11.276000	-	4963334
+am	-	-	-	0:32:02.963000	0:32:11.276000	-	4963335
+Kunden	-	-	-	0:32:02.963000	0:32:11.276000	-	4963336
+das	-	-	-	0:32:02.963000	0:32:11.276000	-	4963338
+so	-	-	-	0:32:02.963000	0:32:11.276000	-	4963339
+zu	-	-	-	0:32:02.963000	0:32:11.276000	-	4963340
+gestalten	-	-	-	0:32:02.963000	0:32:11.276000	-	4963341
+dass	-	-	-	0:32:11.276000	0:32:16.156000	-	4963343
+da	-	-	-	0:32:11.276000	0:32:16.156000	-	4963344
+Kunde	-	-	-	0:32:11.276000	0:32:16.156000	-	4963345
+einen	-	-	-	0:32:11.276000	0:32:16.156000	-	4963347
+als	-	-	-	0:32:11.276000	0:32:16.156000	-	4963348
+einen	-	-	-	0:32:11.276000	0:32:16.156000	-	4963350
+ernst	-	-	-	0:32:11.276000	0:32:16.156000	-	4963351
+nimmt	-	-	-	0:32:11.276000	0:32:16.156000	-	4963352
+einen	-	-	-	0:32:16.156000	0:32:20.910000	-	4963355
+als	-	-	-	0:32:16.156000	0:32:20.910000	-	4963356
+vertrauenswürdig	-	-	-	0:32:16.156000	0:32:20.910000	-	4963358
+Empfinden	-	-	-	0:32:16.156000	0:32:20.910000	-	4963359
+kann	-	-	-	0:32:16.156000	0:32:20.910000	-	4963360
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:20.176000" end="0:32:27.210000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:32:23.316000	0:32:25.896000	-	4958838
+ah	-	-	-	0:32:23.316000	0:32:25.896000	-	4958839
+wenn	-	-	-	0:32:23.316000	0:32:25.896000	-	4958840
+Sie	-	-	-	0:32:23.316000	0:32:25.896000	-	4958841
+sich	-	-	-	0:32:23.316000	0:32:25.896000	-	4958842
+vorstellen	-	-	-	0:32:23.316000	0:32:25.896000	-	4958843
+als	-	-	-	0:32:25.896000	0:32:27.210000	-	4958846
+haben	-	-	-	0:32:25.896000	0:32:27.210000	-	4958847
+Sie	-	-	-	0:32:25.896000	0:32:27.210000	-	4958848
+Kinder	-	-	-	0:32:25.896000	0:32:27.210000	-	4958849
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:27.210000" end="0:32:28.050000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+noch	-	-	-	0:32:27.210000	0:32:28.050000	-	4963363
+nicht	-	-	-	0:32:27.210000	0:32:28.050000	-	4963364
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:28.050000" end="0:32:33.290000" persName="Informant EXP15" age_lower="1" age_upper="999">
+nicht	-	-	-	0:32:28.050000	0:32:28.470000	-	4958852
+wenn	-	-	-	0:32:28.470000	0:32:31.230000	-	4958854
+Sie	-	-	-	0:32:28.470000	0:32:31.230000	-	4958855
+sich	-	-	-	0:32:28.470000	0:32:31.230000	-	4958856
+vorstellen	-	-	-	0:32:28.470000	0:32:31.230000	-	4958857
+dass	-	-	-	0:32:28.470000	0:32:31.230000	-	4958858
+sie	-	-	-	0:32:28.470000	0:32:31.230000	-	4958859
+Kinder	-	-	-	0:32:28.470000	0:32:31.230000	-	4958860
+haben	-	-	-	0:32:28.470000	0:32:31.230000	-	4958861
+wie	-	-	-	0:32:31.230000	0:32:33.290000	-	4958863
+würden	-	-	-	0:32:31.230000	0:32:33.290000	-	4958864
+Sie	-	-	-	0:32:31.230000	0:32:33.290000	-	4958865
+mit	-	-	-	0:32:31.230000	0:32:33.290000	-	4958866
+Ihren	-	-	-	0:32:31.230000	0:32:33.290000	-	4958867
+Kindern	-	-	-	0:32:31.230000	0:32:33.290000	-	4958868
+sprechen	-	-	-	0:32:31.230000	0:32:33.290000	-	4958869
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:33.290000" end="0:32:57.556000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:32:41.056000	0:32:43.236000	-	4963367
+ich	-	-	-	0:32:41.056000	0:32:43.236000	-	4963368
+bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:32:41.056000	0:32:43.236000	-	4963369
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:32:41.056000	0:32:43.236000	-	4963370
+sicher	-	-	-	0:32:41.056000	0:32:43.236000	-	4963371
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:32:41.056000	0:32:43.236000	-	4963372
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:32:41.056000	0:32:43.236000	-	4963373
+ein	-	-	-	0:32:41.056000	0:32:43.236000	-	4963374
+ah	-	-	-	0:32:41.056000	0:32:43.236000	-	4963375
+dass	-	-	-	0:32:43.236000	0:32:45.776000	-	4965800
+ich	-	-	-	0:32:43.236000	0:32:45.776000	-	4963377
+die	-	-	-	0:32:43.236000	0:32:45.776000	-	4963378
+Umgangssprache	-	-	-	0:32:43.236000	0:32:45.776000	-	4963379
+einstellen	-	-	-	0:32:43.236000	0:32:45.776000	-	4963380
+wird	-	-	-	0:32:43.236000	0:32:45.776000	-	4963381
+ah	-	-	-	0:32:43.236000	0:32:45.776000	-	4963382
+so	-	-	-	0:32:45.776000	0:32:50.150000	-	4963384
+sehr	-	-	-	0:32:45.776000	0:32:50.150000	-	4963385
+kann	-	-	-	0:32:45.776000	0:32:50.150000	-	4963386
+ma	-	-	-	0:32:45.776000	0:32:50.150000	-	4963387
+si	-	-	-	0:32:45.776000	0:32:50.150000	-	4963388
+über	-	-	-	0:32:45.776000	0:32:50.150000	-	4963389
+gar	-	-	-	0:32:45.776000	0:32:50.150000	-	4963390
+nicht	-	-	-	0:32:45.776000	0:32:50.150000	-	4963391
+bemühen	-	-	-	0:32:45.776000	0:32:50.150000	-	4963392
+wenn	-	-	-	0:32:45.776000	0:32:50.150000	-	4963393
+man	-	-	-	0:32:45.776000	0:32:50.150000	-	4963394
+jeden	-	-	-	0:32:45.776000	0:32:50.150000	-	4963395
+Tag	-	-	-	0:32:45.776000	0:32:50.150000	-	4963396
+Kontakt	-	-	-	0:32:45.776000	0:32:50.150000	-	4963398
+hat	-	-	-	0:32:45.776000	0:32:50.150000	-	4963399
+ich	-	-	-	0:32:50.150000	0:32:55.036000	-	4963402
+würde	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:32:50.150000	0:32:55.036000	-	4963403
+mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:32:50.150000	0:32:55.036000	-	4963404
+bemühen	-	-	-	0:32:50.150000	0:32:55.036000	-	4963405
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:32:50.150000	0:32:55.036000	-	4963406
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+|KlitBasis KlitPron KlitReal PronForm _es(akk.) klPron+Kl klit+	0:32:50.150000	0:32:55.036000	-	4963407
+es	-	-	KlitBasis KlitPron KlitReal PronForm _es(akk.) klPron+Kl klit+	0:32:50.150000	0:32:55.036000	-	4963408
+nicht	-	-	-	0:32:50.150000	0:32:55.036000	-	4963409
+zu	-	-	-	0:32:50.150000	0:32:55.036000	-	4963410
+sehr	-	-	-	0:32:50.150000	0:32:55.036000	-	4963412
+umgangssprachlich	-	-	-	0:32:50.150000	0:32:55.036000	-	4963413
+und	-	-	-	0:32:55.036000	0:32:57.556000	-	4963415
+aber	-	-	-	0:32:55.036000	0:32:57.556000	-	4963417
+es	-	-	-	0:32:55.036000	0:32:57.556000	-	4963418
+wird	-	-	-	0:32:55.036000	0:32:57.556000	-	4963419
+nicht	-	-	-	0:32:55.036000	0:32:57.556000	-	4963420
+gelingen	-	-	-	0:32:55.036000	0:32:57.556000	-	4963421
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:57.556000" end="0:32:58.410000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:57.556000" end="0:32:58.903000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+traue	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:32:57.556000	0:32:58.903000	-	4963425
+ich	-	-	?klit KlitBasis KlitPron KlitReal PronForm _mich klPron+Kl|KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:32:57.556000	0:32:58.903000	-	4963426
+mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm _mich klPron+Kl	0:32:57.556000	0:32:58.903000	-	4963427
+jetzt	-	-	-	0:32:57.556000	0:32:58.903000	-	4963428
+schon	-	-	-	0:32:57.556000	0:32:58.903000	-	4963429
+sagen	-	-	-	0:32:57.556000	0:32:58.903000	-	4963430
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:58.903000" end="0:32:59.543000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:59.543000" end="0:33:04.603000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+weil	-	-	-	0:32:59.543000	0:33:02.763000	-	4963432
+man	-	-	-	0:32:59.543000	0:33:02.763000	-	4963434
+kann	-	-	-	0:32:59.543000	0:33:02.763000	-	4963435
+sich	-	-	-	0:32:59.543000	0:33:02.763000	-	4963436
+nicht	-	-	-	0:32:59.543000	0:33:02.763000	-	4963437
+jeden	-	-	-	0:32:59.543000	0:33:02.763000	-	4963438
+Tag	-	-	-	0:32:59.543000	0:33:02.763000	-	4963439
+ma	-	-	-	0:33:02.763000	0:33:04.603000	-	4963442
+ka	-	-	-	0:33:02.763000	0:33:04.603000	-	4963443
+nicht	-	-	-	0:33:02.763000	0:33:04.603000	-	4963444
+jeden	-	-	-	0:33:02.763000	0:33:04.603000	-	4963445
+Tag	-	-	-	0:33:02.763000	0:33:04.603000	-	4963446
+so	-	-	-	0:33:02.763000	0:33:04.603000	-	4963447
+aufpassen	-	-	-	0:33:02.763000	0:33:04.603000	-	4963448
+dass	-	-	-	0:33:02.763000	0:33:04.603000	-	4963449
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:04.603000" end="0:33:05.290000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:05.290000" end="0:33:10.523000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+aber	-	-	-	0:33:05.290000	0:33:06.976000	-	4963452
+bemühen	-	-	-	0:33:05.290000	0:33:06.976000	-	4963453
+würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:05.290000	0:33:06.976000	-	4963454
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:05.290000	0:33:06.976000	-	4963455
+ich	-	-	-	0:33:06.976000	0:33:08.936000	-	4963458
+würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:33:06.976000	0:33:08.936000	-	4963459
+man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:33:06.976000	0:33:08.936000	-	4963460
+den	-	-	-	0:33:06.976000	0:33:08.936000	-	4963461
+vorsatz	-	-	-	0:33:06.976000	0:33:08.936000	-	4963462
+nehmen	-	-	-	0:33:06.976000	0:33:08.936000	-	4963463
+es	-	-	-	0:33:08.936000	0:33:10.523000	-	4963466
+würde	-	-	-	0:33:08.936000	0:33:10.523000	-	4963467
+dann	-	-	-	0:33:08.936000	0:33:10.523000	-	4963468
+nicht	-	-	-	0:33:08.936000	0:33:10.523000	-	4963469
+funktionieren	-	-	-	0:33:08.936000	0:33:10.523000	-	4963470
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:10.523000" end="0:33:11.970000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:10.523000" end="0:33:11.136000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+so	-	-	-	0:33:10.523000	0:33:11.136000	-	4963472
+ungefähr	-	-	-	0:33:10.523000	0:33:11.136000	-	4963473
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:11.970000" end="0:33:25.536000" persName="Informant EXP15" age_lower="1" age_upper="999">
+okay	-	-	-	0:33:11.970000	0:33:12.530000	-	4958882
+wenn	-	-	-	0:33:12.530000	0:33:17.443000	-	4958886
+Sie	-	-	-	0:33:12.530000	0:33:17.443000	-	4958887
+jetzt	-	-	-	0:33:12.530000	0:33:17.443000	-	4958888
+an	-	-	-	0:33:12.530000	0:33:17.443000	-	4958889
+die	-	-	-	0:33:12.530000	0:33:17.443000	-	4958890
+gesprochene	-	-	-	0:33:12.530000	0:33:17.443000	-	4958891
+Sprache	-	-	-	0:33:12.530000	0:33:17.443000	-	4958892
+in	-	-	-	0:33:12.530000	0:33:17.443000	-	4958893
+ORT	ORT	-	-	0:33:12.530000	0:33:17.443000	ORT	4958894
+und	-	-	-	0:33:12.530000	0:33:17.443000	-	4958895
+in	-	-	-	0:33:12.530000	0:33:17.443000	-	4958896
+ORT	ORT	-	-	0:33:12.530000	0:33:17.443000	ORT	4958897
+denken	-	-	-	0:33:12.530000	0:33:17.443000	-	4958898
+dass	-	-	-	0:33:17.443000	0:33:25.536000	-	4958901
+sich	-	-	-	0:33:17.443000	0:33:25.536000	-	4958902
+das	-	-	-	0:33:17.443000	0:33:25.536000	-	4958903
+gesprochene	-	-	-	0:33:17.443000	0:33:25.536000	-	4958904
+Deutsch	-	-	-	0:33:17.443000	0:33:25.536000	-	4958905
+in	-	-	-	0:33:17.443000	0:33:25.536000	-	4958906
+Wien	-	-	-	0:33:17.443000	0:33:25.536000	-	4958907
+von	-	-	-	0:33:17.443000	0:33:25.536000	-	4958908
+der	-	-	-	0:33:17.443000	0:33:25.536000	-	4958909
+gesprochenen	-	-	-	0:33:17.443000	0:33:25.536000	-	4958910
+ORT	ORT	-	-	0:33:17.443000	0:33:25.536000	ORT	4958911
+dem	-	-	-	0:33:17.443000	0:33:25.536000	-	4958912
+Gesprochenen	-	-	-	0:33:17.443000	0:33:25.536000	-	4958913
+Deutsch	-	-	-	0:33:17.443000	0:33:25.536000	-	4958914
+in	-	-	-	0:33:17.443000	0:33:25.536000	-	4958916
+Graz	-	-	-	0:33:17.443000	0:33:25.536000	-	4958917
+unterscheidet	-	-	-	0:33:17.443000	0:33:25.536000	-	4958918
+haben	-	-	-	0:33:17.443000	0:33:25.536000	-	4958919
+Sie	-	-	-	0:33:17.443000	0:33:25.536000	-	4958920
+ORT	ORT	-	-	0:33:17.443000	0:33:25.536000	ORT	4958921
+Eindruck	-	-	-	0:33:17.443000	0:33:25.536000	-	4958922
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:25.536000" end="0:33:30.663000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+<<lachend>	-	-	-	0:33:25.536000	0:33:26.770000	-	4963475
+oh	-	-	-	0:33:25.536000	0:33:26.770000	-	4963476
+ha	-	-	-	0:33:25.536000	0:33:26.770000	-	4963477
+ha	-	-	-	0:33:25.536000	0:33:26.770000	-	4963478
+ho>	-	-	-	0:33:25.536000	0:33:26.770000	-	4963479
+in	-	-	-	0:33:26.770000	0:33:28.470000	-	4963481
+ORT	ORT	-	-	0:33:26.770000	0:33:28.470000	ORT	4963482
+ich	-	-	-	0:33:28.470000	0:33:30.663000	-	4963484
+war	-	-	-	0:33:28.470000	0:33:30.663000	-	4963485
+einmal	-	-	-	0:33:28.470000	0:33:30.663000	-	4963486
+in	-	-	-	0:33:28.470000	0:33:30.663000	-	4963487
+meinem	-	-	-	0:33:28.470000	0:33:30.663000	-	4963488
+Leben	-	-	-	0:33:28.470000	0:33:30.663000	-	4963489
+in	-	-	-	0:33:28.470000	0:33:30.663000	-	4963490
+ORT	ORT	-	-	0:33:28.470000	0:33:30.663000	ORT	4963491
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:30.663000" end="0:33:32.203000" persName="Informant EXP15" age_lower="1" age_upper="999">
+aha	-	-	-	0:33:30.663000	0:33:31.190000	-	4958924
+<<kichernd>	-	-	-	0:33:31.190000	0:33:32.203000	-	4958927
+okay;>	-	-	-	0:33:31.190000	0:33:32.203000	-	4958928
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:32.203000" end="0:33:49.863000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:33:32.203000	0:33:34.003000	-	4963494
+aber	-	-	-	0:33:34.003000	0:33:38.843000	-	4963497
+gesprochenes	-	-	-	0:33:34.003000	0:33:38.843000	-	4963499
+Deutsch	-	-	-	0:33:34.003000	0:33:38.843000	-	4963500
+in	-	-	-	0:33:34.003000	0:33:38.843000	-	4963501
+ORT	ORT	-	-	0:33:34.003000	0:33:38.843000	ORT	4963502
+ist	-	-	-	0:33:34.003000	0:33:38.843000	-	4963503
+natürlich	-	-	-	0:33:34.003000	0:33:38.843000	-	4963504
+pf	-	-	-	0:33:38.843000	0:33:39.883000	-	4963507
+das	-	-	-	0:33:39.883000	0:33:45.296000	-	4963510
+kann	-	-	-	0:33:39.883000	0:33:45.296000	-	4963511
+ja	-	-	-	0:33:39.883000	0:33:45.296000	-	4963512
+ganz	-	-	-	0:33:39.883000	0:33:45.296000	-	4963514
+viel	-	-	-	0:33:39.883000	0:33:45.296000	-	4963515
+bedeuten	-	-	-	0:33:39.883000	0:33:45.296000	-	4963516
+weil	-	-	-	0:33:45.296000	0:33:49.863000	-	4963519
+so	-	-	-	0:33:45.296000	0:33:49.863000	-	4963520
+gesprochenes	-	-	-	0:33:45.296000	0:33:49.863000	-	4963521
+Deutsch	-	-	-	0:33:45.296000	0:33:49.863000	-	4963522
+in	-	-	-	0:33:45.296000	0:33:49.863000	-	4963523
+erstens	-	-	-	0:33:45.296000	0:33:49.863000	-	4963524
+einmal	-	-	-	0:33:45.296000	0:33:49.863000	-	4963525
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:45.296000	0:33:49.863000	-	4963526
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:45.296000	0:33:49.863000	-	4963527
+wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:33:45.296000	0:33:49.863000	-	4963528
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:33:45.296000	0:33:49.863000	-	4963529
+immer	-	-	-	0:33:45.296000	0:33:49.863000	-	4963530
+<<kichernd>	-	-	-	0:33:45.296000	0:33:49.863000	-	4963531
+weniger,>	-	-	-	0:33:45.296000	0:33:49.863000	-	4963532
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:49.863000" end="0:33:51.436000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:49.863000" end="0:33:57.583000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:33:49.863000	0:33:51.436000	-	4963534
+jetzt	-	-	-	0:33:49.863000	0:33:51.436000	-	4963535
+so	-	-	-	0:33:49.863000	0:33:51.436000	-	4963536
+es	-	-	-	0:33:51.436000	0:33:57.583000	-	4963539
+gibt	-	-	-	0:33:51.436000	0:33:57.583000	-	4963540
+Zeiten	-	-	-	0:33:51.436000	0:33:57.583000	-	4963541
+muss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:51.436000	0:33:57.583000	-	4963542
+i	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:33:51.436000	0:33:57.583000	-	4963543
+leider	-	-	-	0:33:51.436000	0:33:57.583000	-	4963544
+sagen	-	-	-	0:33:51.436000	0:33:57.583000	-	4963545
+wo	-	-	-	0:33:51.436000	0:33:57.583000	-	4963547
+wir	-	-	-	0:33:51.436000	0:33:57.583000	-	4963548
+in	-	-	-	0:33:51.436000	0:33:57.583000	-	4963549
+da	-	-	-	0:33:51.436000	0:33:57.583000	-	4963550
+U	-	-	-	0:33:51.436000	0:33:57.583000	-	4963551
+Bahn	-	-	-	0:33:51.436000	0:33:57.583000	-	4963552
+mit	-	-	-	0:33:51.436000	0:33:57.583000	-	4963553
+Deutsch	-	-	-	0:33:51.436000	0:33:57.583000	-	4963554
+nimmer	-	-	-	0:33:51.436000	0:33:57.583000	-	4963555
+weit	-	-	-	0:33:51.436000	0:33:57.583000	-	4963556
+kommt	-	-	-	0:33:51.436000	0:33:57.583000	-	4963557
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:57.583000" end="0:33:58.323000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:58.323000" end="0:34:04.070000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ist	-	-	-	0:33:58.323000	0:34:01.036000	-	4963560
+jetzt	-	-	-	0:33:58.323000	0:34:01.036000	-	4963561
+äh	-	-	-	0:33:58.323000	0:34:01.036000	-	4963562
+auch	-	-	-	0:33:58.323000	0:34:01.036000	-	4963563
+ortsabhängig	-	-	-	0:33:58.323000	0:34:01.036000	-	4963564
+abhängig	-	-	-	0:34:01.036000	0:34:04.070000	-	4963567
+von	-	-	-	0:34:01.036000	0:34:04.070000	-	4963568
+da	-	-	-	0:34:01.036000	0:34:04.070000	-	4963569
+u	-	-	-	0:34:01.036000	0:34:04.070000	-	4963570
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:04.070000" end="0:34:05.070000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:04.070000" end="0:34:33.983000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+aber	-	-	-	0:34:04.070000	0:34:05.070000	-	4963574
+Deutsch	-	-	-	0:34:05.070000	0:34:10.530000	-	4963577
+ist	-	-	-	0:34:05.070000	0:34:10.530000	-	4963578
+also	-	-	-	0:34:05.070000	0:34:10.530000	-	4963579
+die	-	-	-	0:34:05.070000	0:34:10.530000	-	4963580
+Leute	-	-	-	0:34:05.070000	0:34:10.530000	-	4963582
+die	-	-	-	0:34:05.070000	0:34:10.530000	-	4963583
+Deutsch	-	-	-	0:34:05.070000	0:34:10.530000	-	4963584
+sprechen	-	-	-	0:34:05.070000	0:34:10.530000	-	4963585
+oder	-	-	-	0:34:10.530000	0:34:12.943000	-	4963588
+es	-	-	-	0:34:10.530000	0:34:12.943000	-	4963589
+sind	-	-	-	0:34:10.530000	0:34:12.943000	-	4963590
+die	-	-	-	0:34:10.530000	0:34:12.943000	-	4963591
+ruhiger	-	-	-	0:34:10.530000	0:34:12.943000	-	4963592
+weiss	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:34:12.943000	0:34:13.516000	-	4963595
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:34:12.943000	0:34:13.516000	-	4963596
+nicht	-	-	-	0:34:12.943000	0:34:13.516000	-	4963597
+es	-	-	-	0:34:13.516000	0:34:19.775000	-	4963601
+ist	-	-	-	0:34:13.516000	0:34:19.775000	-	4963602
+nimmer	-	-	-	0:34:13.516000	0:34:19.775000	-	4963603
+so	-	-	-	0:34:13.516000	0:34:19.775000	-	4963604
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:34:13.516000	0:34:19.775000	-	4963605
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:34:13.516000	0:34:19.775000	-	4963606
+deutlich	-	-	-	0:34:13.516000	0:34:19.775000	-	4963607
+im	-	-	-	0:34:13.516000	0:34:19.775000	-	4963608
+Vordergrund	-	-	-	0:34:13.516000	0:34:19.775000	-	4963609
+steht	-	-	-	0:34:13.516000	0:34:19.775000	-	4963610
+vor	-	-	-	0:34:13.516000	0:34:19.775000	-	4963611
+anderen	-	-	-	0:34:13.516000	0:34:19.775000	-	4963612
+Sprachen	-	-	-	0:34:13.516000	0:34:19.775000	-	4963613
+und	-	-	-	0:34:19.775000	0:34:23.795000	-	4963616
+gesprochenes	-	-	-	0:34:19.775000	0:34:23.795000	-	4963617
+Deutsch	-	-	-	0:34:19.775000	0:34:23.795000	-	4963618
+in	-	-	-	0:34:19.775000	0:34:23.795000	-	4963619
+ORT	ORT	-	-	0:34:19.775000	0:34:23.795000	ORT	4963620
+kann	-	-	-	0:34:23.795000	0:34:29.556000	-	4963623
+natürlich	-	-	-	0:34:23.795000	0:34:29.556000	-	4963624
+jetzt	-	-	-	0:34:23.795000	0:34:29.556000	-	4963625
+von	-	-	-	0:34:23.795000	0:34:29.556000	-	4963626
+Leuten	-	-	-	0:34:23.795000	0:34:29.556000	-	4963627
+mit	-	-	-	0:34:23.795000	0:34:29.556000	-	4963628
+Migrationshintergrund	-	-	-	0:34:23.795000	0:34:29.556000	-	4963629
+ganz	-	-	-	0:34:23.795000	0:34:29.556000	-	4963630
+anders	-	-	-	0:34:23.795000	0:34:29.556000	-	4963631
+sein	-	-	-	0:34:23.795000	0:34:29.556000	-	4963632
+von	-	-	-	0:34:29.556000	0:34:33.983000	-	4963636
+quasi	-	-	-	0:34:29.556000	0:34:33.983000	-	4963638
+Einheimischen	-	-	-	0:34:29.556000	0:34:33.983000	-	4963639
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:33.983000" end="0:34:34.989000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:34.989000" end="0:34:46.810000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:34:34.989000	0:34:36.696000	-	4963642
+ich	-	-	-	0:34:34.989000	0:34:36.696000	-	4963643
+tue	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:34:34.989000	0:34:36.696000	-	4963644
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:34:34.989000	0:34:36.696000	-	4963645
+schwer	-	-	-	0:34:34.989000	0:34:36.696000	-	4963646
+pf	-	-	-	0:34:36.696000	0:34:39.263000	-	4963648
+ja	-	-	-	0:34:36.696000	0:34:39.263000	-	4963649
+jetzt	-	-	-	0:34:36.696000	0:34:39.263000	-	4963650
+im	-	-	-	0:34:36.696000	0:34:39.263000	-	4963651
+Unterschied	-	-	-	0:34:36.696000	0:34:39.263000	-	4963652
+zu	-	-	-	0:34:36.696000	0:34:39.263000	-	4963654
+ORT	ORT	-	-	0:34:36.696000	0:34:39.263000	ORT	4963655
+puh	-	-	-	0:34:39.263000	0:34:40.449000	-	4963658
+ich	-	-	-	0:34:44.870000	0:34:46.810000	-	4963661
+kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:34:44.870000	0:34:46.810000	-	4963662
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:34:44.870000	0:34:46.810000	-	4963663
+nein	-	-	-	0:34:44.870000	0:34:46.810000	-	4963664
+ich	-	-	-	0:34:44.870000	0:34:46.810000	-	4963665
+kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:34:44.870000	0:34:46.810000	-	4963666
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:34:44.870000	0:34:46.810000	-	4963667
+nicht	-	-	-	0:34:44.870000	0:34:46.810000	-	4963668
+beantworten	-	-	-	0:34:44.870000	0:34:46.810000	-	4963669
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:46.810000" end="0:34:47.690000" persName="Informant EXP15" age_lower="1" age_upper="999">
+okay	-	-	-	0:34:46.810000	0:34:47.690000	-	4958945
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:46.810000" end="0:34:47.690000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+keine	-	-	-	0:34:46.810000	0:34:47.690000	-	4963672
+Ahnung	-	-	-	0:34:46.810000	0:34:47.690000	-	4963673
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:47.690000" end="0:34:55.503000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ein	-	-	-	0:34:49.376000	0:34:55.503000	-	4958951
+die	-	-	-	0:34:49.376000	0:34:55.503000	-	4958952
+man	-	-	-	0:34:49.376000	0:34:55.503000	-	4958953
+als	-	-	-	0:34:49.376000	0:34:55.503000	-	4958954
+typisch	-	-	-	0:34:49.376000	0:34:55.503000	-	4958955
+für	-	-	-	0:34:49.376000	0:34:55.503000	-	4958957
+Wien	-	-	-	0:34:49.376000	0:34:55.503000	-	4958958
+ah	-	-	-	0:34:49.376000	0:34:55.503000	-	4958959
+bezeichnen	-	-	-	0:34:49.376000	0:34:55.503000	-	4958960
+könnte	-	-	-	0:34:49.376000	0:34:55.503000	-	4958961
+redewendung	-	-	-	0:34:49.376000	0:34:55.503000	-	4958962
+Wörter	-	-	-	0:34:49.376000	0:34:55.503000	-	4958963
+ORT	ORT	-	-	0:34:49.376000	0:34:55.503000	ORT	4958964
+fallen	-	-	-	0:34:49.376000	0:34:55.503000	-	4958965
+Ihnen	-	-	-	0:34:49.376000	0:34:55.503000	-	4958966
+ah	-	-	-	0:34:49.376000	0:34:55.503000	-	4958967
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:55.503000" end="0:34:57.330000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:34:55.503000	0:34:57.330000	-	4963676
+sicher	-	-	-	0:34:55.503000	0:34:57.330000	-	4963677
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:57.330000" end="0:34:58.503000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:58.503000" end="0:35:02.650000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+Wörter	-	-	-	0:35:00.903000	0:35:02.650000	-	4963680
+und	-	-	-	0:35:00.903000	0:35:02.650000	-	4963681
+Redewendungen	-	-	-	0:35:00.903000	0:35:02.650000	-	4963682
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:02.650000" end="0:35:03.376000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:35:02.650000	0:35:03.376000	-	4958971
+oder	-	-	-	0:35:02.650000	0:35:03.376000	-	4958972
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:03.376000" end="0:35:16.923000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+nein	-	-	-	0:35:03.376000	0:35:07.996000	-	4963685
+ja	-	-	-	0:35:03.376000	0:35:07.996000	-	4963686
+so	-	-	-	0:35:03.376000	0:35:07.996000	-	4963687
+herst	-	-	-	0:35:03.376000	0:35:07.996000	-	4963689
+oder	-	-	-	0:35:07.996000	0:35:10.516000	-	4963692
+herst	-	-	-	0:35:07.996000	0:35:10.516000	-	4963693
+Alter	-	-	-	0:35:07.996000	0:35:10.516000	-	4963694
+ist	-	-	-	0:35:10.516000	0:35:14.443000	-	4963697
+jetzt	-	-	-	0:35:10.516000	0:35:14.443000	-	4963698
+eher	-	-	-	0:35:10.516000	0:35:14.443000	-	4963700
+jünger	-	-	-	0:35:10.516000	0:35:14.443000	-	4963701
+vermutlich	-	-	-	0:35:10.516000	0:35:14.443000	-	4963702
+wass	-	-	-	0:35:14.443000	0:35:15.536000	-	4963705
+nicht	-	-	-	0:35:14.443000	0:35:15.536000	-	4963706
+ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:35:14.443000	0:35:15.536000	-	4963707
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:35:14.443000	0:35:15.536000	-	4963708
+das	-	-	-	0:35:14.443000	0:35:15.536000	-	4963709
+schon	-	-	-	0:35:14.443000	0:35:15.536000	-	4963710
+ewig	-	-	-	0:35:14.443000	0:35:15.536000	-	4963711
+gibt	-	-	-	0:35:14.443000	0:35:15.536000	-	4963712
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:35:15.536000	0:35:16.923000	-	4963715
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:35:15.536000	0:35:16.923000	-	4963716
+nicht	-	-	-	0:35:15.536000	0:35:16.923000	-	4963717
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:19.290000" end="0:35:21.996000" persName="Informant EXP15" age_lower="1" age_upper="999">
+oder	-	-	-	0:35:19.290000	0:35:21.996000	-	4958974
+vielleicht	-	-	-	0:35:19.290000	0:35:21.996000	-	4958975
+auch	-	-	-	0:35:19.290000	0:35:21.996000	-	4958976
+so	-	-	-	0:35:19.290000	0:35:21.996000	-	4958977
+grammatische	-	-	-	0:35:19.290000	0:35:21.996000	-	4958978
+Besonderheiten	-	-	-	0:35:19.290000	0:35:21.996000	-	4958979
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:19.290000" end="0:36:06.283000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:35:19.290000	0:35:20.003000	-	4963719
+äh	-	-	-	0:35:19.290000	0:35:20.003000	-	4963720
+ah	-	-	-	0:35:21.996000	0:35:23.476000	-	4963723
+ah	-	-	-	0:35:26.376000	0:35:27.610000	-	4963726
+jaja	-	-	-	0:35:26.376000	0:35:27.610000	-	4963727
+ich	-	-	-	0:35:29.850000	0:35:31.743000	-	4963730
+habe	-	-	-	0:35:29.850000	0:35:31.743000	-	4963731
+viel	-	-	-	0:35:29.850000	0:35:31.743000	-	4963732
+ORT	ORT	-	-	0:35:29.850000	0:35:31.743000	ORT	4963733
+Lieder	-	-	-	0:35:29.850000	0:35:31.743000	-	4963734
+musiziert	-	-	-	0:35:29.850000	0:35:31.743000	-	4963735
+kommt	-	-	-	0:35:31.743000	0:35:33.650000	-	4963738
+natürlich	-	-	-	0:35:31.743000	0:35:33.650000	-	4963739
+alles	-	-	-	0:35:31.743000	0:35:33.650000	-	4963740
+mögliche	-	-	-	0:35:31.743000	0:35:33.650000	-	4963741
+vor	-	-	-	0:35:31.743000	0:35:33.650000	-	4963742
+aber	-	-	-	0:35:33.650000	0:35:36.243000	-	4963745
+ich	-	-	-	0:35:33.650000	0:35:36.243000	-	4963746
+muss	-	-	-	0:35:33.650000	0:35:36.243000	-	4963747
+nachdenken	-	-	-	0:35:33.650000	0:35:36.243000	-	4963748
+grammatikalisch	-	-	-	0:35:41.543000	0:35:42.736000	-	4963751
+ah	-	-	-	0:35:45.096000	0:35:46.656000	-	4963754
+mir	-	-	-	0:35:45.096000	0:35:46.656000	-	4963755
+fällt	-	-	-	0:35:45.096000	0:35:46.656000	-	4963756
+gar	-	-	-	0:35:45.096000	0:35:46.656000	-	4963757
+nix	-	-	-	0:35:45.096000	0:35:46.656000	-	4963758
+ein	-	-	-	0:35:45.096000	0:35:46.656000	-	4963759
+war	-	-	-	0:35:48.796000	0:35:50.003000	-	4963763
+jetzt	-	-	-	0:35:48.796000	0:35:50.003000	-	4963764
+zu	-	-	-	0:35:48.796000	0:35:50.003000	-	4963765
+spontan	-	-	-	0:35:48.796000	0:35:50.003000	-	4963766
+nein	-	-	-	0:36:01.429000	0:36:02.063000	-	4963772
+ist	-	-	-	0:36:01.429000	0:36:02.063000	-	4963773
+ich	-	-	-	0:36:04.003000	0:36:05.303000	-	4963776
+sage	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:36:04.003000	0:36:05.303000	-	4963777
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:36:04.003000	0:36:05.303000	-	4963778
+Ihnen	-	-	-	0:36:04.003000	0:36:05.303000	-	4963779
+in	-	-	-	0:36:04.003000	0:36:05.303000	-	4963780
+einer	-	-	-	0:36:04.003000	0:36:05.303000	-	4963781
+Wochen	-	-	-	0:36:04.003000	0:36:05.303000	-	4963782
+ich	-	-	-	0:36:05.303000	0:36:06.283000	-	4963784
+schreibe	-	-	-	0:36:05.303000	0:36:06.283000	-	4963785
+Ihnen	-	-	-	0:36:05.303000	0:36:06.283000	-	4963786
+ein	-	-	-	0:36:05.303000	0:36:06.283000	-	4963787
+Mail	-	-	-	0:36:05.303000	0:36:06.283000	-	4963788
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:05.969000" end="0:36:06.896000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:06.896000" end="0:36:09.976000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+nein	-	-	-	0:36:06.896000	0:36:09.389000	-	4963790
+es	-	-	-	0:36:06.896000	0:36:09.389000	-	4963791
+gibt	-	-	-	0:36:06.896000	0:36:09.389000	-	4963792
+unzähli	-	-	-	0:36:06.896000	0:36:09.389000	-	4963793
+unzähliges	-	-	-	0:36:06.896000	0:36:09.389000	-	4963794
+Zeug	-	-	-	0:36:06.896000	0:36:09.389000	-	4963795
+was	-	-	-	0:36:09.389000	0:36:09.976000	-	4963797
+da	-	-	-	0:36:09.389000	0:36:09.976000	-	4963798
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:09.976000" end="0:36:20.483000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:36:12.203000	0:36:14.796000	-	4958983
+in	-	-	-	0:36:12.203000	0:36:14.796000	-	4958984
+Bezug	-	-	-	0:36:12.203000	0:36:14.796000	-	4958985
+auf	-	-	-	0:36:12.203000	0:36:14.796000	-	4958986
+ausspracheeigenheiten	-	-	-	0:36:12.203000	0:36:14.796000	-	4958987
+fällt	-	-	-	0:36:14.796000	0:36:16.323000	-	4958989
+Ihnen	-	-	-	0:36:14.796000	0:36:16.323000	-	4958990
+da	-	-	-	0:36:14.796000	0:36:16.323000	-	4958991
+irgendetwas	-	-	-	0:36:14.796000	0:36:16.323000	-	4958992
+ein	-	-	-	0:36:14.796000	0:36:16.323000	-	4958993
+die	-	-	-	0:36:16.323000	0:36:20.483000	-	4958996
+man	-	-	-	0:36:16.323000	0:36:20.483000	-	4958997
+so	-	-	-	0:36:16.323000	0:36:20.483000	-	4958998
+als	-	-	-	0:36:16.323000	0:36:20.483000	-	4958999
+typisch	-	-	-	0:36:16.323000	0:36:20.483000	-	4959000
+für	-	-	-	0:36:16.323000	0:36:20.483000	-	4959001
+ORT	ORT	-	-	0:36:16.323000	0:36:20.483000	ORT	4959002
+ansieht	-	-	-	0:36:16.323000	0:36:20.483000	-	4959004
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:18.896000" end="0:36:19.816000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+typisch	-	-	-	0:36:18.896000	0:36:19.816000	-	4963800
+für	-	-	-	0:36:18.896000	0:36:19.816000	-	4963801
+ORT	ORT	-	-	0:36:18.896000	0:36:19.816000	ORT	4963802
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:20.483000" end="0:36:22.163000" persName="Informant EXP15" age_lower="1" age_upper="999">
+bezeichnen	-	-	-	0:36:20.483000	0:36:22.163000	-	4959008
+könnte	-	-	-	0:36:20.483000	0:36:22.163000	-	4959009
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:22.163000" end="0:36:43.123000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+na	-	-	-	0:36:29.403000	0:36:31.983000	-	4963805
+ja	-	-	-	0:36:29.403000	0:36:31.983000	-	4963806
+rein	-	-	-	0:36:29.403000	0:36:31.983000	-	4963807
+von	-	-	-	0:36:29.403000	0:36:31.983000	-	4963808
+der	-	-	-	0:36:29.403000	0:36:31.983000	-	4963809
+Aussprache	-	-	-	0:36:29.403000	0:36:31.983000	-	4963810
+ja	-	-	-	0:36:29.403000	0:36:31.983000	-	4963811
+äh	-	-	-	0:36:29.403000	0:36:31.983000	-	4963812
+vermutlich	-	-	-	0:36:31.983000	0:36:35.503000	-	4963815
+nicht	-	-	-	0:36:31.983000	0:36:35.503000	-	4963816
+sehr	-	-	-	0:36:31.983000	0:36:35.503000	-	4963817
+deutlich	-	-	-	0:36:31.983000	0:36:35.503000	-	4963818
+sondern	-	-	-	0:36:35.503000	0:36:42.489000	-	4963821
+eher	-	-	-	0:36:35.503000	0:36:42.489000	-	4963822
+so	-	-	-	0:36:35.503000	0:36:42.489000	-	4963824
+ein	-	-	-	0:36:35.503000	0:36:42.489000	-	4963826
+bisschen	-	-	-	0:36:35.503000	0:36:42.489000	-	4963827
+murmelnd	-	-	-	0:36:35.503000	0:36:42.489000	-	4963829
+oder	-	-	-	0:36:42.489000	0:36:43.123000	-	4963831
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:43.123000" end="0:36:44.876000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:44.876000" end="0:37:10.209000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:36:44.876000	0:36:52.743000	-	4963834
+also	-	-	-	0:36:44.876000	0:36:52.743000	-	4963835
+ich	-	-	-	0:36:44.876000	0:36:52.743000	-	4963836
+glaube	-	-	-	0:36:44.876000	0:36:52.743000	-	4963837
+nicht	-	-	-	0:36:44.876000	0:36:52.743000	-	4963839
+dass	-	-	-	0:36:44.876000	0:36:52.743000	-	4963840
+man	-	-	-	0:36:44.876000	0:36:52.743000	-	4963841
+mit	-	-	-	0:36:44.876000	0:36:52.743000	-	4963842
+dem	-	-	-	0:36:44.876000	0:36:52.743000	-	4963843
+ORT	ORT	-	-	0:36:44.876000	0:36:52.743000	ORT	4963844
+jetzt	-	-	-	0:36:44.876000	0:36:52.743000	-	4963845
+sehr	-	-	-	0:36:44.876000	0:36:52.743000	-	4963846
+deutliche	-	-	-	0:36:44.876000	0:36:52.743000	-	4963848
+Sprache	-	-	-	0:36:44.876000	0:36:52.743000	-	4963849
+weil	-	-	-	0:36:52.743000	0:36:53.589000	-	4963851
+ist	-	-	-	0:36:52.743000	0:36:53.589000	-	4963852
+auch	-	-	-	0:36:52.743000	0:36:53.589000	-	4963853
+so	-	-	-	0:36:52.743000	0:36:53.589000	-	4963854
+eh	-	-	-	0:36:53.589000	0:36:57.529000	-	4963857
+bisschen	-	-	-	0:36:53.589000	0:36:57.529000	-	4963858
+so	-	-	-	0:36:53.589000	0:36:57.529000	-	4963859
+das	-	-	-	0:36:53.589000	0:36:57.529000	-	4963860
+image	-	-	-	0:36:53.589000	0:36:57.529000	-	4963861
+ist	-	-	-	0:36:53.589000	0:36:57.529000	-	4963863
+ja	-	-	-	0:36:53.589000	0:36:57.529000	-	4963864
+so	-	-	-	0:36:53.589000	0:36:57.529000	-	4963865
+raunzen	-	-	-	0:36:53.589000	0:36:57.529000	-	4963867
+und	-	-	-	0:36:57.529000	0:37:02.336000	-	4963870
+so	-	-	-	0:36:57.529000	0:37:02.336000	-	4963871
+ein	-	-	-	0:36:57.529000	0:37:02.336000	-	4963873
+bisschen	-	-	-	0:36:57.529000	0:37:02.336000	-	4963874
+ah	-	-	-	0:36:57.529000	0:37:02.336000	-	4963876
+dass	-	-	-	0:37:05.409000	0:37:07.403000	-	4963879
+ja	-	-	-	0:37:05.409000	0:37:07.403000	-	4963880
+eher	-	-	-	0:37:05.409000	0:37:07.403000	-	4963881
+so	-	-	-	0:37:05.409000	0:37:07.403000	-	4963882
+das	-	-	-	0:37:05.409000	0:37:07.403000	-	4963883
+raunz	-	-	-	0:37:05.409000	0:37:07.403000	-	4963884
+äh	-	-	-	0:37:05.409000	0:37:07.403000	-	4963885
+so	-	-	-	0:37:05.409000	0:37:07.403000	-	4963886
+ja	-	-	-	0:37:07.403000	0:37:09.449000	-	4963888
+also	-	-	-	0:37:07.403000	0:37:09.449000	-	4963889
+in	-	-	-	0:37:07.403000	0:37:09.449000	-	4963890
+ORT	ORT	-	-	0:37:07.403000	0:37:09.449000	ORT	4963891
+sagt	-	-	-	0:37:07.403000	0:37:09.449000	-	4963892
+man	-	-	-	0:37:07.403000	0:37:09.449000	-	4963893
+sudern	-	-	-	0:37:07.403000	0:37:09.449000	-	4963894
+oder	-	-	bestford final Int medial PosSatz PosTurn QTForm QTFunk QTKonj QuestTag resp RespType rise	0:37:09.449000	0:37:10.209000	-	4963897
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:10.209000" end="0:37:10.763000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:10.763000" end="0:37:16.036000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+und	-	-	-	0:37:10.763000	0:37:16.036000	-	4963900
+das	-	-	-	0:37:10.763000	0:37:16.036000	-	4963901
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:37:10.763000	0:37:16.036000	-	4963903
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:37:10.763000	0:37:16.036000	-	4963904
+schon	-	-	-	0:37:10.763000	0:37:16.036000	-	4963905
+dass	-	-	-	0:37:10.763000	0:37:16.036000	-	4963906
+sich	-	-	-	0:37:10.763000	0:37:16.036000	-	4963907
+das	-	-	-	0:37:10.763000	0:37:16.036000	-	4963908
+in	-	-	-	0:37:10.763000	0:37:16.036000	-	4963909
+der	-	-	-	0:37:10.763000	0:37:16.036000	-	4963910
+Sprache	-	-	-	0:37:10.763000	0:37:16.036000	-	4963911
+auch	-	-	-	0:37:10.763000	0:37:16.036000	-	4963912
+ein	-	-	-	0:37:10.763000	0:37:16.036000	-	4963913
+bisschen	-	-	-	0:37:10.763000	0:37:16.036000	-	4963914
+ausdrückt	-	-	-	0:37:10.763000	0:37:16.036000	-	4963916
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:16.036000" end="0:37:16.696000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:16.696000" end="0:37:25.996000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:37:16.696000	0:37:19.523000	-	4963918
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:37:16.696000	0:37:19.523000	-	4963919
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:37:16.696000	0:37:19.523000	-	4963920
+nicht	-	-	-	0:37:16.696000	0:37:19.523000	-	4963921
+da	-	-	-	0:37:16.696000	0:37:19.523000	-	4963922
+dass	-	-	-	0:37:16.696000	0:37:19.523000	-	4963924
+so	-	-	-	0:37:16.696000	0:37:19.523000	-	4963925
+ein	-	-	-	0:37:16.696000	0:37:19.523000	-	4963926
+bisschen	-	-	-	0:37:16.696000	0:37:19.523000	-	4963927
+sudert	-	-	-	0:37:16.696000	0:37:19.523000	-	4963928
+und	-	-	-	0:37:19.523000	0:37:21.523000	-	4963930
+äh	-	-	-	0:37:19.523000	0:37:21.523000	-	4963931
+ist	-	-	-	0:37:19.523000	0:37:21.523000	-	4963932
+in	-	-	-	0:37:19.523000	0:37:21.523000	-	4963933
+ihrer	-	-	-	0:37:19.523000	0:37:21.523000	-	4963934
+Sprache	-	-	-	0:37:19.523000	0:37:21.523000	-	4963935
+die	-	-	-	0:37:21.523000	0:37:25.996000	-	4963938
+Sprache	-	-	-	0:37:21.523000	0:37:25.996000	-	4963939
+sudert	-	-	-	0:37:21.523000	0:37:25.996000	-	4963940
+auch	-	-	-	0:37:21.523000	0:37:25.996000	-	4963941
+irgendwie	-	-	-	0:37:21.523000	0:37:25.996000	-	4963942
+vom	-	-	-	0:37:21.523000	0:37:25.996000	-	4963943
+Klang	-	-	-	0:37:21.523000	0:37:25.996000	-	4963944
+her	-	-	-	0:37:21.523000	0:37:25.996000	-	4963945
+dann	-	-	-	0:37:21.523000	0:37:25.996000	-	4963946
+schon	-	-	-	0:37:21.523000	0:37:25.996000	-	4963947
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:25.996000" end="0:37:27.236000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:25.996000" end="0:37:58.983000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+wahrscheinlich	-	-	-	0:37:25.996000	0:37:28.489000	-	4963950
+ist	-	-	-	0:37:25.996000	0:37:28.489000	-	4963951
+das	-	-	-	0:37:25.996000	0:37:28.489000	-	4963952
+eh	-	-	-	0:37:25.996000	0:37:28.489000	-	4963953
+bei	-	-	-	0:37:25.996000	0:37:28.489000	-	4963954
+mir	-	-	-	0:37:25.996000	0:37:28.489000	-	4963955
+auch	-	-	-	0:37:25.996000	0:37:28.489000	-	4963956
+so	-	-	-	0:37:25.996000	0:37:28.489000	-	4963957
+aber	-	-	-	0:37:31.989000	0:37:33.556000	-	4963960
+so	-	-	-	0:37:31.989000	0:37:33.556000	-	4963961
+Redewendungen	-	-	-	0:37:31.989000	0:37:33.556000	-	4963962
+mah	-	-	-	0:37:33.556000	0:37:34.036000	-	4963965
+nein	-	-	-	0:37:39.036000	0:37:40.629000	-	4963968
+ja	-	-	-	0:37:39.036000	0:37:40.629000	-	4963969
+es	-	-	-	0:37:39.036000	0:37:40.629000	-	4963970
+sind	-	-	-	0:37:39.036000	0:37:40.629000	-	4963971
+Wörter	-	-	-	0:37:39.036000	0:37:40.629000	-	4963972
+so	-	-	-	0:37:39.036000	0:37:40.629000	-	4963973
+ja	-	-	-	0:37:40.629000	0:37:43.223000	-	4963976
+braucht	-	-	-	0:37:40.629000	0:37:43.223000	-	4963978
+man	-	-	-	0:37:40.629000	0:37:43.223000	-	4963979
+sich	-	-	-	0:37:40.629000	0:37:43.223000	-	4963980
+nur	-	-	-	0:37:40.629000	0:37:43.223000	-	4963981
+Georg	-	-	-	0:37:40.629000	0:37:43.223000	-	4963982
+Danzer	-	-	-	0:37:40.629000	0:37:43.223000	-	4963983
+anhören	-	-	-	0:37:40.629000	0:37:43.223000	-	4963984
+hockenstaat	-	-	-	0:37:43.223000	0:37:45.903000	-	4963987
+oder	-	-	-	0:37:49.323000	0:37:53.709000	-	4963990
+oder	-	-	-	0:37:49.323000	0:37:53.709000	-	4963991
+ich	-	-	-	0:37:49.323000	0:37:53.709000	-	4963993
+früher	-	-	-	0:37:49.323000	0:37:53.709000	-	4963995
+war	-	-	-	0:37:49.323000	0:37:53.709000	-	4963996
+ja	-	-	-	0:37:49.323000	0:37:53.709000	-	4963997
+viel	-	-	-	0:37:49.323000	0:37:53.709000	-	4963998
+aus	-	-	-	0:37:49.323000	0:37:53.709000	-	4963999
+aus	-	-	-	0:37:49.323000	0:37:53.709000	-	4964001
+französischen	-	-	-	0:37:49.323000	0:37:53.709000	-	4964003
+also	-	-	-	0:37:53.709000	0:37:58.983000	-	4964006
+in	-	-	-	0:37:53.709000	0:37:58.983000	-	4964008
+alten	-	-	-	0:37:53.709000	0:37:58.983000	-	4964009
+ORT	ORT	-	-	0:37:53.709000	0:37:58.983000	ORT	4964010
+Liedern	-	-	-	0:37:53.709000	0:37:58.983000	-	4964011
+kommen	-	-	-	0:37:53.709000	0:37:58.983000	-	4964012
+vül	-	-	-	0:37:53.709000	0:37:58.983000	-	4964013
+Wörter	-	-	-	0:37:53.709000	0:37:58.983000	-	4964014
+vor	-	-	-	0:37:53.709000	0:37:58.983000	-	4964015
+die	-	-	-	0:37:53.709000	0:37:58.983000	-	4964016
+irgendwie	-	-	-	0:37:53.709000	0:37:58.983000	-	4964017
+dem	-	-	-	0:37:53.709000	0:37:58.983000	-	4964018
+französischen	-	-	-	0:37:53.709000	0:37:58.983000	-	4964019
+entnommen	-	-	-	0:37:53.709000	0:37:58.983000	-	4964020
+sind	-	-	-	0:37:53.709000	0:37:58.983000	-	4964021
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:58.983000" end="0:38:00.223000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:58.983000" end="0:38:07.136000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:37:58.983000	0:38:00.763000	-	4964024
+ich	-	-	?klit KlitBasis KlitPron KlitReal PronForm _mich klPron+Kl|KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:37:58.983000	0:38:00.763000	-	4964025
+mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm _mich klPron+Kl	0:37:58.983000	0:38:00.763000	-	4964026
+erinnern	-	-	-	0:37:58.983000	0:38:00.763000	-	4964027
+bis	-	-	-	0:38:00.763000	0:38:04.736000	-	4964030
+es	-	-	-	0:38:00.763000	0:38:04.736000	-	4964031
+bis	-	-	-	0:38:00.763000	0:38:04.736000	-	4964032
+von	-	-	-	0:38:00.763000	0:38:04.736000	-	4964033
+Trottoir	-	-	-	0:38:00.763000	0:38:04.736000	-	4964034
+bis	-	-	-	0:38:00.763000	0:38:04.736000	-	4964035
+bis	-	-	-	0:38:00.763000	0:38:04.736000	-	4964036
+tramway	-	-	-	0:38:00.763000	0:38:04.736000	-	4964038
+und	-	-	-	0:38:04.736000	0:38:07.136000	-	4964040
+so	-	-	-	0:38:04.736000	0:38:07.136000	-	4964042
+Sachen	-	-	-	0:38:04.736000	0:38:07.136000	-	4964044
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:10.589000" end="0:38:18.376000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:38:10.589000	0:38:15.063000	-	4959031
+glauben	-	-	-	0:38:10.589000	0:38:15.063000	-	4959032
+Sie	-	-	-	0:38:10.589000	0:38:15.063000	-	4959033
+dass	-	-	-	0:38:10.589000	0:38:15.063000	-	4959034
+ORT	ORT	-	-	0:38:10.589000	0:38:15.063000	ORT	4959035
+oder	-	-	-	0:38:10.589000	0:38:15.063000	-	4959036
+eine	-	-	-	0:38:10.589000	0:38:15.063000	-	4959037
+andere	-	-	-	0:38:10.589000	0:38:15.063000	-	4959038
+Stadt	-	-	-	0:38:10.589000	0:38:15.063000	-	4959039
+in	-	-	-	0:38:10.589000	0:38:15.063000	-	4959040
+Österreich	-	-	-	0:38:10.589000	0:38:15.063000	-	4959041
+einen	-	-	-	0:38:15.063000	0:38:18.376000	-	4959043
+Einfluss	-	-	-	0:38:15.063000	0:38:18.376000	-	4959044
+auf	-	-	-	0:38:15.063000	0:38:18.376000	-	4959045
+das	-	-	-	0:38:15.063000	0:38:18.376000	-	4959046
+gesprochene	-	-	-	0:38:15.063000	0:38:18.376000	-	4959047
+Deutsch	-	-	-	0:38:15.063000	0:38:18.376000	-	4959048
+in	-	-	-	0:38:15.063000	0:38:18.376000	-	4959049
+Österreich	-	-	-	0:38:15.063000	0:38:18.376000	-	4959050
+generell	-	-	-	0:38:15.063000	0:38:18.376000	-	4959051
+hat	-	-	-	0:38:15.063000	0:38:18.376000	-	4959052
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:18.376000" end="0:38:30.143000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+10.6	-	-	-	0:38:18.376000	0:38:29.049000	-	4964046
+nein	-	-	-	0:38:29.049000	0:38:30.143000	-	4964047
+das	-	-	-	0:38:29.049000	0:38:30.143000	-	4964048
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:38:29.049000	0:38:30.143000	-	4964049
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:38:29.049000	0:38:30.143000	-	4964050
+nicht	-	-	-	0:38:29.049000	0:38:30.143000	-	4964051
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:30.143000" end="0:38:31.176000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:31.176000" end="0:38:41.316000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ich	-	-	-	0:38:31.176000	0:38:41.316000	-	4964054
+glaube	-	-	-	0:38:31.176000	0:38:41.316000	-	4964055
+dass	-	-	-	0:38:31.176000	0:38:41.316000	-	4964056
+da	-	-	-	0:38:31.176000	0:38:41.316000	-	4964057
+die	-	-	-	0:38:31.176000	0:38:41.316000	-	4964058
+Regionen	-	-	-	0:38:31.176000	0:38:41.316000	-	4964060
+schon	-	-	-	0:38:31.176000	0:38:41.316000	-	4964062
+noch	-	-	-	0:38:31.176000	0:38:41.316000	-	4964063
+in	-	-	-	0:38:31.176000	0:38:41.316000	-	4964064
+Ihrem	-	-	-	0:38:31.176000	0:38:41.316000	-	4964065
+typischen	-	-	-	0:38:31.176000	0:38:41.316000	-	4964066
+Schema	-	-	-	0:38:31.176000	0:38:41.316000	-	4964068
+bleiben	-	-	-	0:38:31.176000	0:38:41.316000	-	4964070
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:41.316000" end="0:38:42.223000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:42.223000" end="0:38:44.356000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+trotz	-	-	-	0:38:42.223000	0:38:44.356000	-	4964073
+aller	-	-	-	0:38:42.223000	0:38:44.356000	-	4964074
+vernetztheit	-	-	-	0:38:42.223000	0:38:44.356000	-	4964076
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:43.316000" end="0:38:44.356000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:44.356000" end="0:38:44.956000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:38:44.956000" end="0:38:57.563000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:38:47.563000	0:38:50.596000	-	4959070
+glauben	-	-	-	0:38:47.563000	0:38:50.596000	-	4959072
+Sie	-	-	-	0:38:47.563000	0:38:50.596000	-	4959073
+dass	-	-	-	0:38:47.563000	0:38:50.596000	-	4959074
+ORT	ORT	-	-	0:38:47.563000	0:38:50.596000	ORT	4959075
+ah	-	-	-	0:38:50.596000	0:38:54.143000	-	4959078
+und	-	-	-	0:38:50.596000	0:38:54.143000	-	4959079
+ORT	ORT	-	-	0:38:50.596000	0:38:54.143000	ORT	4959080
+als	-	-	-	0:38:50.596000	0:38:54.143000	-	4959081
+zweitgrößte	-	-	-	0:38:50.596000	0:38:54.143000	-	4959082
+Stadt	-	-	-	0:38:50.596000	0:38:54.143000	-	4959083
+Österreichs	-	-	-	0:38:50.596000	0:38:54.143000	-	4959084
+ah	-	-	-	0:38:54.143000	0:38:57.563000	-	4959086
+sich	-	-	-	0:38:54.143000	0:38:57.563000	-	4959087
+gegenseitig	-	-	-	0:38:54.143000	0:38:57.563000	-	4959088
+ah	-	-	-	0:38:54.143000	0:38:57.563000	-	4959089
+sprachlich	-	-	-	0:38:54.143000	0:38:57.563000	-	4959091
+beeinflussen	-	-	-	0:38:54.143000	0:38:57.563000	-	4959092
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:57.563000" end="0:39:00.676000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+es	-	-	-	0:38:59.803000	0:39:00.676000	-	4964080
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:38:59.803000	0:39:00.676000	-	4964081
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:38:59.803000	0:39:00.676000	-	4964082
+auch	-	-	-	0:38:59.803000	0:39:00.676000	-	4964083
+nicht	-	-	-	0:38:59.803000	0:39:00.676000	-	4964084
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:00.676000" end="0:39:17.569000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:39:05.549000	0:39:11.269000	-	4959098
+würden	-	-	-	0:39:05.549000	0:39:11.269000	-	4959099
+Sie	-	-	-	0:39:05.549000	0:39:11.269000	-	4959100
+sagen	-	-	-	0:39:05.549000	0:39:11.269000	-	4959101
+ah	-	-	-	0:39:05.549000	0:39:11.269000	-	4959103
+dass	-	-	-	0:39:05.549000	0:39:11.269000	-	4959105
+sich	-	-	-	0:39:05.549000	0:39:11.269000	-	4959106
+die	-	-	-	0:39:05.549000	0:39:11.269000	-	4959108
+sprachform	-	-	-	0:39:05.549000	0:39:11.269000	-	4959109
+hier	-	-	-	0:39:05.549000	0:39:11.269000	-	4959110
+ah	-	-	-	0:39:11.269000	0:39:15.116000	-	4959113
+in	-	-	-	0:39:11.269000	0:39:15.116000	-	4959114
+ORT	ORT	-	-	0:39:11.269000	0:39:15.116000	ORT	4959115
+von	-	-	-	0:39:11.269000	0:39:15.116000	-	4959116
+der	-	-	-	0:39:11.269000	0:39:15.116000	-	4959117
+von	-	-	-	0:39:11.269000	0:39:15.116000	-	4959118
+ORT	ORT	-	-	0:39:11.269000	0:39:15.116000	ORT	4959119
+unterscheidet	-	-	-	0:39:11.269000	0:39:15.116000	-	4959120
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:17.569000" end="0:39:21.002000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:39:17.569000	0:39:20.369000	-	4964087
+laut	-	-	-	0:39:17.569000	0:39:20.369000	-	4964088
+meinem	-	-	-	0:39:17.569000	0:39:20.369000	-	4964089
+Kollegen	-	-	-	0:39:17.569000	0:39:20.369000	-	4964090
+nicht	-	-	-	0:39:17.569000	0:39:20.369000	-	4964091
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:21.002000" end="0:39:21.496000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:21.496000" end="0:39:50.569000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ah	-	-	-	0:39:21.496000	0:39:22.262000	-	4964094
+vermutlich	-	-	-	0:39:22.262000	0:39:25.216000	-	4964098
+wenig	-	-	-	0:39:22.262000	0:39:25.216000	-	4964099
+es	-	-	-	0:39:25.216000	0:39:26.669000	-	4964101
+es	-	-	-	0:39:25.216000	0:39:26.669000	-	4964102
+wird	-	-	-	0:39:25.216000	0:39:26.669000	-	4964103
+Einflüsse	-	-	-	0:39:25.216000	0:39:26.669000	-	4964104
+geben	-	-	-	0:39:25.216000	0:39:26.669000	-	4964105
+äh	-	-	-	0:39:26.669000	0:39:30.289000	-	4964107
+eben	-	-	-	0:39:26.669000	0:39:30.289000	-	4964109
+auch	-	-	-	0:39:26.669000	0:39:30.289000	-	4964110
+abhängig	-	-	-	0:39:26.669000	0:39:30.289000	-	4964112
+davon	-	-	-	0:39:26.669000	0:39:30.289000	-	4964113
+woher	-	-	-	0:39:26.669000	0:39:30.289000	-	4964114
+die	-	-	-	0:39:26.669000	0:39:30.289000	-	4964115
+Leute	-	-	-	0:39:26.669000	0:39:30.289000	-	4964116
+kommen	-	-	-	0:39:26.669000	0:39:30.289000	-	4964117
+es	-	-	-	0:39:30.289000	0:39:33.789000	-	4964121
+heiraten	-	-	-	0:39:30.289000	0:39:33.789000	-	4964122
+ja	-	-	-	0:39:30.289000	0:39:33.789000	-	4964123
+viele	-	-	-	0:39:30.289000	0:39:33.789000	-	4964124
+ORT	ORT	-	-	0:39:30.289000	0:39:33.789000	ORT	4964125
+da	-	-	-	0:39:30.289000	0:39:33.789000	-	4964126
+her	-	-	-	0:39:30.289000	0:39:33.789000	-	4964127
+oder	-	-	-	0:39:33.789000	0:39:36.316000	-	4964130
+haben	-	-	-	0:39:33.789000	0:39:36.316000	-	4964131
+irgendwie	-	-	-	0:39:33.789000	0:39:36.316000	-	4964132
+Familien	-	-	-	0:39:33.789000	0:39:36.316000	-	4964133
+im	-	-	-	0:39:33.789000	0:39:36.316000	-	4964134
+ORT	ORT	-	-	0:39:33.789000	0:39:36.316000	ORT	4964135
+die	-	-	-	0:39:36.316000	0:39:41.136000	-	4964139
+werden	-	-	-	0:39:36.316000	0:39:41.136000	-	4964141
+vermutlich	-	-	-	0:39:36.316000	0:39:41.136000	-	4964142
+die	-	-	-	0:39:36.316000	0:39:41.136000	-	4964143
+Sprache	-	-	-	0:39:36.316000	0:39:41.136000	-	4964144
+da	-	-	-	0:39:36.316000	0:39:41.136000	-	4964145
+bisschen	-	-	-	0:39:36.316000	0:39:41.136000	-	4964147
+mit	-	-	-	0:39:36.316000	0:39:41.136000	-	4964148
+hertragen	-	-	-	0:39:36.316000	0:39:41.136000	-	4964149
+und	-	-	-	0:39:41.136000	0:39:44.902000	-	4964152
+wird	-	-	-	0:39:41.136000	0:39:44.902000	-	4964153
+sich	-	-	-	0:39:41.136000	0:39:44.902000	-	4964154
+mischen	-	-	-	0:39:41.136000	0:39:44.902000	-	4964155
+mit	-	-	-	0:39:41.136000	0:39:44.902000	-	4964156
+dem	-	-	-	0:39:41.136000	0:39:44.902000	-	4964157
+ORT	ORT	-	-	0:39:41.136000	0:39:44.902000	ORT	4964158
+ist	-	-	-	0:39:44.902000	0:39:49.622000	-	4964161
+eine	-	-	-	0:39:44.902000	0:39:49.622000	-	4964163
+Mischung	-	-	-	0:39:44.902000	0:39:49.622000	-	4964164
+aus	-	-	-	0:39:44.902000	0:39:49.622000	-	4964165
+den	-	-	-	0:39:44.902000	0:39:49.622000	-	4964167
+beiden	-	-	-	0:39:44.902000	0:39:49.622000	-	4964168
+Sachen	-	-	-	0:39:44.902000	0:39:49.622000	-	4964169
+würde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:39:44.902000	0:39:49.622000	-	4964170
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:39:44.902000	0:39:49.622000	-	4964171
+sagen	-	-	-	0:39:44.902000	0:39:49.622000	-	4964172
+persönlich	-	-	-	0:39:49.622000	0:39:50.569000	-	4964175
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:50.569000" end="0:39:51.309000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:51.309000" end="0:39:52.062000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+meiner	-	-	-	0:39:51.309000	0:39:52.062000	-	4964177
+Meinung	-	-	-	0:39:51.309000	0:39:52.062000	-	4964178
+nach	-	-	-	0:39:51.309000	0:39:52.062000	-	4964179
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:52.062000" end="0:40:02.702000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:39:52.062000	0:39:56.582000	-	4959131
+würden	-	-	-	0:39:52.062000	0:39:56.582000	-	4959132
+Sie	-	-	-	0:39:52.062000	0:39:56.582000	-	4959133
+sagen	-	-	-	0:39:52.062000	0:39:56.582000	-	4959134
+dass	-	-	-	0:39:52.062000	0:39:56.582000	-	4959135
+sich	-	-	-	0:39:52.062000	0:39:56.582000	-	4959136
+dass	-	-	-	0:39:57.682000	0:40:02.702000	-	4959142
+es	-	-	-	0:39:57.682000	0:40:02.702000	-	4959143
+zwischen	-	-	-	0:39:57.682000	0:40:02.702000	-	4959144
+ORT	ORT	-	-	0:39:57.682000	0:40:02.702000	ORT	4959145
+und	-	-	-	0:39:57.682000	0:40:02.702000	-	4959146
+ORT	ORT	-	-	0:39:57.682000	0:40:02.702000	ORT	4959147
+einen	-	-	-	0:39:57.682000	0:40:02.702000	-	4959148
+sprachlichen	-	-	-	0:39:57.682000	0:40:02.702000	-	4959149
+Einfluss	-	-	-	0:39:57.682000	0:40:02.702000	-	4959150
+gibt	-	-	-	0:39:57.682000	0:40:02.702000	-	4959151
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:02.702000" end="0:40:03.996000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:40:02.702000	0:40:03.996000	-	4964182
+sicher	-	-	-	0:40:02.702000	0:40:03.996000	-	4964183
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:03.622000" end="0:40:06.796000" persName="Informant EXP15" age_lower="1" age_upper="999">
+dass	-	-	-	0:40:03.622000	0:40:03.996000	-	4959153
+sich	-	-	-	0:40:03.622000	0:40:03.996000	-	4959154
+also	-	-	-	0:40:03.996000	0:40:06.796000	-	4959157
+ich	-	-	-	0:40:03.996000	0:40:06.796000	-	4959159
+meine	-	-	-	0:40:03.996000	0:40:06.796000	-	4959160
+Sie	-	-	-	0:40:03.996000	0:40:06.796000	-	4959161
+haben	-	-	-	0:40:03.996000	0:40:06.796000	-	4959162
+es	-	-	-	0:40:03.996000	0:40:06.796000	-	4959163
+zwar	-	-	-	0:40:03.996000	0:40:06.796000	-	4959164
+eh	-	-	-	0:40:03.996000	0:40:06.796000	-	4959165
+gerade	-	-	-	0:40:03.996000	0:40:06.796000	-	4959166
+gesagt	-	-	-	0:40:03.996000	0:40:06.796000	-	4959167
+eigentlich	-	-	-	0:40:03.996000	0:40:06.796000	-	4959168
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:06.382000" end="0:40:06.796000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:40:06.382000	0:40:06.796000	-	4964185
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:06.796000" end="0:40:11.369000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:40:07.882000	0:40:11.369000	-	4959176
+ah	-	-	-	0:40:07.882000	0:40:11.369000	-	4959177
+wodurch	-	-	-	0:40:07.882000	0:40:11.369000	-	4959179
+glauben	-	-	-	0:40:07.882000	0:40:11.369000	-	4959180
+Sie	-	-	-	0:40:07.882000	0:40:11.369000	-	4959181
+entsteht	-	-	-	0:40:07.882000	0:40:11.369000	-	4959182
+das	-	-	-	0:40:07.882000	0:40:11.369000	-	4959183
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:11.369000" end="0:40:19.129000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+dadurch	-	-	-	0:40:11.369000	0:40:17.576000	-	4964188
+dass	-	-	-	0:40:11.369000	0:40:17.576000	-	4964189
+ein	-	-	-	0:40:11.369000	0:40:17.576000	-	4964190
+Großteil	-	-	-	0:40:11.369000	0:40:17.576000	-	4964192
+der	-	-	-	0:40:11.369000	0:40:17.576000	-	4964193
+ORT	ORT	-	-	0:40:11.369000	0:40:17.576000	ORT	4964194
+Bevölkerung	-	-	-	0:40:11.369000	0:40:17.576000	-	4964195
+in	-	-	-	0:40:11.369000	0:40:17.576000	-	4964196
+ORT	ORT	-	-	0:40:11.369000	0:40:17.576000	ORT	4964197
+arbeitstätig	-	-	-	0:40:11.369000	0:40:17.576000	-	4964198
+ist	-	-	-	0:40:11.369000	0:40:17.576000	-	4964199
+und	-	-	-	0:40:17.576000	0:40:19.129000	-	4964201
+täglich	-	-	-	0:40:17.576000	0:40:19.129000	-	4964202
+reinpendelt	-	-	-	0:40:17.576000	0:40:19.129000	-	4964204
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:40:19.129000" end="0:40:35.476000" persName="Informant EXP15" age_lower="1" age_upper="999">
+also	-	-	-	0:40:23.236000	0:40:24.736000	-	4959191
+glauben	-	-	-	0:40:29.482000	0:40:32.969000	-	4959194
+Sie	-	-	-	0:40:29.482000	0:40:32.969000	-	4959195
+geht	-	-	-	0:40:29.482000	0:40:32.969000	-	4959196
+dir	-	-	-	0:40:29.482000	0:40:32.969000	-	4959197
+der	-	-	-	0:40:29.482000	0:40:32.969000	-	4959198
+Einfluss	-	-	-	0:40:29.482000	0:40:32.969000	-	4959199
+dann	-	-	-	0:40:29.482000	0:40:32.969000	-	4959200
+von	-	-	-	0:40:29.482000	0:40:32.969000	-	4959202
+ORT	ORT	-	-	0:40:29.482000	0:40:32.969000	ORT	4959203
+aus	-	-	-	0:40:29.482000	0:40:32.969000	-	4959204
+oder	-	-	-	0:40:32.969000	0:40:35.476000	-	4959207
+von	-	-	-	0:40:32.969000	0:40:35.476000	-	4959208
+von	-	-	-	0:40:32.969000	0:40:35.476000	-	4959210
+ORT	ORT	-	-	0:40:32.969000	0:40:35.476000	ORT	4959211
+aus	-	-	-	0:40:32.969000	0:40:35.476000	-	4959212
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:35.476000" end="0:41:14.809000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+nein	-	-	-	0:40:38.322000	0:40:41.276000	-	4964207
+ich	-	-	-	0:40:38.322000	0:40:41.276000	-	4964208
+glaube	-	-	-	0:40:38.322000	0:40:41.276000	-	4964209
+kaum	-	-	-	0:40:38.322000	0:40:41.276000	-	4964210
+dass	-	-	-	0:40:38.322000	0:40:41.276000	-	4964211
+ORT	ORT	-	-	0:40:38.322000	0:40:41.276000	ORT	4964212
+ORT	ORT	-	-	0:40:38.322000	0:40:41.276000	ORT	4964213
+beeinflussen	-	-	-	0:40:38.322000	0:40:41.276000	-	4964214
+kann	-	-	-	0:40:38.322000	0:40:41.276000	-	4964215
+aber	-	-	-	0:40:44.296000	0:40:47.249000	-	4964218
+das	-	-	-	0:40:44.296000	0:40:47.249000	-	4964220
+mit	-	-	-	0:40:44.296000	0:40:47.249000	-	4964221
+ORT	ORT	-	-	0:40:44.296000	0:40:47.249000	ORT	4964222
+ist	-	-	-	0:40:44.296000	0:40:47.249000	-	4964223
+ich	-	-	-	0:40:47.249000	0:40:48.776000	-	4964225
+tue	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:40:47.249000	0:40:48.776000	-	4964226
+man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:40:47.249000	0:40:48.776000	-	4964227
+so	-	-	-	0:40:47.249000	0:40:48.776000	-	4964228
+schwer	-	-	-	0:40:47.249000	0:40:48.776000	-	4964229
+mit	-	-	-	0:40:47.249000	0:40:48.776000	-	4964230
+dem	-	-	-	0:40:47.249000	0:40:48.776000	-	4964231
+Begriff	-	-	-	0:40:47.249000	0:40:48.776000	-	4964232
+weil	-	-	-	0:40:48.776000	0:40:49.676000	-	4964234
+ORT	ORT	-	-	0:40:48.776000	0:40:49.676000	ORT	4964235
+ja	-	-	-	0:40:48.776000	0:40:49.676000	-	4964236
+wie	-	-	-	0:40:49.676000	0:40:52.822000	-	4964239
+viel	-	-	-	0:40:49.676000	0:40:52.822000	-	4964240
+wie	-	-	-	0:40:49.676000	0:40:52.822000	-	4964241
+viel	-	-	-	0:40:49.676000	0:40:52.822000	-	4964242
+ORT	ORT	-	-	0:40:49.676000	0:40:52.822000	ORT	4964243
+in	-	-	-	0:40:49.676000	0:40:52.822000	-	4964244
+hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:40:52.822000	0:40:55.782000	-	4964247
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:40:52.822000	0:40:55.782000	-	4964248
+überhaupt	-	-	-	0:40:52.822000	0:40:55.782000	-	4964249
+schon	-	-	-	0:40:52.822000	0:40:55.782000	-	4964250
+jemals	-	-	-	0:40:52.822000	0:40:55.782000	-	4964251
+ORT	ORT	-	-	0:40:52.822000	0:40:55.782000	ORT	4964252
+geben	-	-	-	0:40:52.822000	0:40:55.782000	-	4964253
+ORT	ORT	-	-	0:40:55.782000	0:40:59.882000	ORT	4964256
+war	-	-	-	0:40:55.782000	0:40:59.882000	-	4964257
+ja	-	-	-	0:40:55.782000	0:40:59.882000	-	4964258
+immer	-	-	-	0:40:55.782000	0:40:59.882000	-	4964259
+so	-	-	-	0:40:55.782000	0:40:59.882000	-	4964260
+auch	-	-	-	0:40:59.882000	0:41:01.002000	-	4964264
+in	-	-	-	0:40:59.882000	0:41:01.002000	-	4964265
+der	-	-	-	0:40:59.882000	0:41:01.002000	-	4964266
+Monarchie	-	-	-	0:40:59.882000	0:41:01.002000	-	4964267
+jetzt	-	-	-	0:41:01.002000	0:41:02.349000	-	4964270
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:41:01.002000	0:41:02.349000	-	4964271
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:41:01.002000	0:41:02.349000	-	4964272
+wieder	-	-	-	0:41:01.002000	0:41:02.349000	-	4964273
+so	-	-	-	0:41:01.002000	0:41:02.349000	-	4964274
+wer	-	-	-	0:41:02.349000	0:41:04.102000	-	4964277
+wer	-	-	-	0:41:02.349000	0:41:04.102000	-	4964278
+ist	-	-	-	0:41:02.349000	0:41:04.102000	-	4964279
+eigentlich	-	-	-	0:41:02.349000	0:41:04.102000	-	4964280
+der	-	-	-	0:41:02.349000	0:41:04.102000	-	4964281
+ORT	ORT	-	-	0:41:02.349000	0:41:04.102000	ORT	4964282
+d	-	-	-	0:41:04.102000	0:41:06.709000	-	4964284
+da	-	-	-	0:41:04.102000	0:41:06.709000	-	4964285
+ist	-	-	-	0:41:04.102000	0:41:06.709000	-	4964286
+der	-	-	-	0:41:04.102000	0:41:06.709000	-	4964287
+tichatschek	-	-	-	0:41:04.102000	0:41:06.709000	-	4964289
+und	-	-	-	0:41:06.709000	0:41:07.682000	-	4964291
+da	-	-	-	0:41:06.709000	0:41:07.682000	-	4964292
+novatschek	-	-	-	0:41:06.709000	0:41:07.682000	-	4964293
+und	-	-	-	0:41:07.682000	0:41:09.322000	-	4964295
+lauter	-	-	-	0:41:07.682000	0:41:09.322000	-	4964296
+so	-	-	-	0:41:07.682000	0:41:09.322000	-	4964297
+tschechische	-	-	-	0:41:07.682000	0:41:09.322000	-	4964298
+Namen	-	-	-	0:41:07.682000	0:41:09.322000	-	4964299
+das	-	-	-	0:41:09.322000	0:41:10.749000	-	4964302
+sind	-	-	-	0:41:09.322000	0:41:10.749000	-	4964303
+aber	-	-	-	0:41:09.322000	0:41:10.749000	-	4964304
+jetzt	-	-	-	0:41:09.322000	0:41:10.749000	-	4964305
+ORT	ORT	-	-	0:41:09.322000	0:41:10.749000	ORT	4964306
+ja	-	-	-	0:41:10.749000	0:41:11.982000	-	4964310
+pf	-	-	-	0:41:10.749000	0:41:11.982000	-	4964312
+was	-	-	-	0:41:11.982000	0:41:14.809000	-	4964315
+ist	-	-	-	0:41:11.982000	0:41:14.809000	-	4964316
+schon	-	-	-	0:41:11.982000	0:41:14.809000	-	4964317
+was	-	-	-	0:41:11.982000	0:41:14.809000	-	4964318
+ist	-	-	-	0:41:11.982000	0:41:14.809000	-	4964319
+schon	-	-	-	0:41:11.982000	0:41:14.809000	-	4964320
+ORT	ORT	-	-	0:41:11.982000	0:41:14.809000	ORT	4964321
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:14.809000" end="0:41:15.389000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:15.389000" end="0:41:25.696000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ich	-	-	-	0:41:15.389000	0:41:18.616000	-	4964324
+das	-	-	-	0:41:15.389000	0:41:18.616000	-	4964325
+kein	-	-	-	0:41:15.389000	0:41:18.616000	-	4964326
+kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:41:15.389000	0:41:18.616000	-	4964327
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:41:15.389000	0:41:18.616000	-	4964328
+kaum	-	-	-	0:41:15.389000	0:41:18.616000	-	4964329
+sagen	-	-	-	0:41:15.389000	0:41:18.616000	-	4964330
+der	-	-	-	0:41:18.616000	0:41:21.316000	-	4964334
+Einfluss	-	-	-	0:41:18.616000	0:41:21.316000	-	4964335
+von	-	-	-	0:41:18.616000	0:41:21.316000	-	4964336
+ORT	ORT	-	-	0:41:18.616000	0:41:21.316000	ORT	4964337
+aus	-	-	-	0:41:18.616000	0:41:21.316000	-	4964338
+ja	-	-	-	0:41:21.316000	0:41:24.756000	-	4964340
+das	-	-	-	0:41:21.316000	0:41:24.756000	-	4964342
+kommt	-	-	-	0:41:21.316000	0:41:24.756000	-	4964343
+darauf	-	-	-	0:41:21.316000	0:41:24.756000	-	4964344
+an	-	-	-	0:41:21.316000	0:41:24.756000	-	4964345
+mit	-	-	-	0:41:21.316000	0:41:24.756000	-	4964346
+wem	-	-	-	0:41:21.316000	0:41:24.756000	-	4964347
+man	-	-	-	0:41:21.316000	0:41:24.756000	-	4964348
+zu	-	-	-	0:41:21.316000	0:41:24.756000	-	4964349
+tun	-	-	-	0:41:21.316000	0:41:24.756000	-	4964350
+hat	-	-	-	0:41:21.316000	0:41:24.756000	-	4964351
+ich	-	-	-	0:41:24.756000	0:41:25.696000	-	4964353
+d	-	-	-	0:41:24.756000	0:41:25.696000	-	4964354
+pf	-	-	-	0:41:24.756000	0:41:25.696000	-	4964356
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:41:25.696000" end="0:41:31.002000" persName="Informant EXP15" age_lower="1" age_upper="999">
+aber	-	-	-	0:41:25.696000	0:41:31.002000	-	4959218
+wie	-	-	-	0:41:25.696000	0:41:31.002000	-	4959220
+würden	-	-	-	0:41:25.696000	0:41:31.002000	-	4959221
+Sie	-	-	-	0:41:25.696000	0:41:31.002000	-	4959222
+das	-	-	-	0:41:25.696000	0:41:31.002000	-	4959223
+dann	-	-	-	0:41:25.696000	0:41:31.002000	-	4959224
+bezeichnen	-	-	-	0:41:25.696000	0:41:31.002000	-	4959225
+wie	-	-	-	0:41:25.696000	0:41:31.002000	-	4959226
+man	-	-	-	0:41:25.696000	0:41:31.002000	-	4959227
+in	-	-	-	0:41:25.696000	0:41:31.002000	-	4959228
+ORT	ORT	-	-	0:41:25.696000	0:41:31.002000	ORT	4959229
+spricht	-	-	-	0:41:25.696000	0:41:31.002000	-	4959230
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:31.002000" end="0:42:03.956000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:41:31.002000	0:41:34.442000	-	4964359
+jeder	-	-	-	0:41:31.002000	0:41:34.442000	-	4964360
+so	-	-	-	0:41:31.002000	0:41:34.442000	-	4964361
+wie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	0:41:31.002000	0:41:34.442000	-	4964362
+er	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _er klit-	0:41:31.002000	0:41:34.442000	-	4964363
+<<lachend>	-	-	-	0:41:31.002000	0:41:34.442000	-	4964364
+glaubt;>	-	-	-	0:41:31.002000	0:41:34.442000	-	4964365
+nein	-	-	-	0:41:35.162000	0:41:36.209000	-	4964368
+ts	-	-	-	0:41:41.209000	0:41:47.002000	-	4964371
+äh	-	-	-	0:41:41.209000	0:41:47.002000	-	4964372
+abhängig	-	-	-	0:41:41.209000	0:41:47.002000	-	4964374
+von	-	-	-	0:41:41.209000	0:41:47.002000	-	4964375
+da	-	-	-	0:41:41.209000	0:41:47.002000	-	4964376
+vom	-	-	-	0:41:41.209000	0:41:47.002000	-	4964377
+und	-	-	-	0:41:49.116000	0:41:54.422000	-	4964382
+von	-	-	-	0:41:49.116000	0:41:54.422000	-	4964384
+von	-	-	-	0:41:49.116000	0:41:54.422000	-	4964386
+Herkunft	-	-	-	0:41:49.116000	0:41:54.422000	-	4964387
+aber	-	-	-	0:41:54.422000	0:41:59.916000	-	4964390
+wie	-	-	-	0:41:54.422000	0:41:59.916000	-	4964392
+spricht	-	-	-	0:41:54.422000	0:41:59.916000	-	4964393
+da	-	-	-	0:41:54.422000	0:41:59.916000	-	4964394
+typische	-	-	-	0:41:54.422000	0:41:59.916000	-	4964395
+ORT	ORT	-	-	0:41:54.422000	0:41:59.916000	ORT	4964396
+das	-	-	-	0:41:59.916000	0:42:01.116000	-	4964398
+ist	-	-	-	0:41:59.916000	0:42:01.116000	-	4964399
+ja	-	-	-	0:41:59.916000	0:42:01.116000	-	4964401
+schwierig	-	-	-	0:41:59.916000	0:42:01.116000	-	4964402
+weil	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:42:01.116000	0:42:03.956000	-	4964405
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:42:01.116000	0:42:03.956000	-	4964406
+den	-	-	-	0:42:01.116000	0:42:03.956000	-	4964408
+kaum	-	-	-	0:42:01.116000	0:42:03.956000	-	4964410
+gibt	-	-	-	0:42:01.116000	0:42:03.956000	-	4964411
+meiner	-	-	-	0:42:01.116000	0:42:03.956000	-	4964412
+Meinung	-	-	-	0:42:01.116000	0:42:03.956000	-	4964413
+nach	-	-	-	0:42:01.116000	0:42:03.956000	-	4964414
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:03.956000" end="0:42:11.622000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:42:05.956000	0:42:11.622000	-	4959233
+und	-	-	-	0:42:05.956000	0:42:11.622000	-	4959234
+generell	-	-	-	0:42:05.956000	0:42:11.622000	-	4959235
+gefällt	-	-	-	0:42:05.956000	0:42:11.622000	-	4959236
+Ihnen	-	-	-	0:42:05.956000	0:42:11.622000	-	4959237
+die	-	-	-	0:42:05.956000	0:42:11.622000	-	4959238
+Sprechweise	-	-	-	0:42:05.956000	0:42:11.622000	-	4959239
+die	-	-	-	0:42:05.956000	0:42:11.622000	-	4959241
+man	-	-	-	0:42:05.956000	0:42:11.622000	-	4959242
+in	-	-	-	0:42:05.956000	0:42:11.622000	-	4959243
+ORT	ORT	-	-	0:42:05.956000	0:42:11.622000	ORT	4959244
+spricht	-	-	-	0:42:05.956000	0:42:11.622000	-	4959246
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:11.622000" end="0:42:26.289000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:42:13.922000	0:42:17.589000	-	4964417
+die	-	-	-	0:42:13.922000	0:42:17.589000	-	4964418
+wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:42:13.922000	0:42:17.589000	-	4964419
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:42:13.922000	0:42:17.589000	-	4964420
+d	-	-	-	0:42:13.922000	0:42:17.589000	-	4964421
+an	-	-	-	0:42:13.922000	0:42:17.589000	-	4964422
+das	-	-	-	0:42:13.922000	0:42:17.589000	-	4964423
+denke	-	-	-	0:42:13.922000	0:42:17.589000	-	4964424
+was	-	-	-	0:42:13.922000	0:42:17.589000	-	4964425
+für	-	-	-	0:42:13.922000	0:42:17.589000	-	4964426
+mich	-	-	-	0:42:13.922000	0:42:17.589000	-	4964427
+jetzt	-	-	-	0:42:13.922000	0:42:17.589000	-	4964428
+ORT	ORT	-	-	0:42:13.922000	0:42:17.589000	ORT	4964429
+ist	-	-	-	0:42:13.922000	0:42:17.589000	-	4964430
+irgendwie	-	-	-	0:42:17.589000	0:42:19.809000	-	4964433
+ja	-	-	-	0:42:17.589000	0:42:19.809000	-	4964434
+weil	-	-	-	0:42:19.809000	0:42:26.289000	-	4964437
+es	-	-	-	0:42:19.809000	0:42:26.289000	-	4964438
+hat	-	-	-	0:42:19.809000	0:42:26.289000	-	4964439
+für	-	-	-	0:42:19.809000	0:42:26.289000	-	4964441
+mich	-	-	-	0:42:19.809000	0:42:26.289000	-	4964442
+so	-	-	-	0:42:19.809000	0:42:26.289000	-	4964443
+das	-	-	-	0:42:19.809000	0:42:26.289000	-	4964444
+image	-	-	-	0:42:19.809000	0:42:26.289000	-	4964445
+das	-	-	-	0:42:19.809000	0:42:26.289000	-	4964446
+liebenswerten	-	-	-	0:42:19.809000	0:42:26.289000	-	4964448
+suderanten	-	-	-	0:42:19.809000	0:42:26.289000	-	4964449
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:20.996000" end="0:42:27.262000" persName="Informant EXP15" age_lower="1" age_upper="999">
+<<kichernd>	-	-	-	0:42:26.289000	0:42:27.262000	-	4959252
+okay,>	-	-	-	0:42:26.289000	0:42:27.262000	-	4959253
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:27.262000" end="0:42:28.549000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:42:27.262000	0:42:28.549000	-	4964452
+gefällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:42:27.262000	0:42:28.549000	-	4964453
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:42:27.262000	0:42:28.549000	-	4964454
+irgendwie	-	-	-	0:42:27.262000	0:42:28.549000	-	4964455
+schon	-	-	-	0:42:27.262000	0:42:28.549000	-	4964456
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:28.136000" end="0:42:32.349000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:42:28.136000	0:42:31.236000	-	4959254
+ist	-	-	-	0:42:28.136000	0:42:31.236000	-	4959255
+das	-	-	-	0:42:28.136000	0:42:31.236000	-	4959256
+auch	-	-	-	0:42:28.136000	0:42:31.236000	-	4959257
+das	-	-	-	0:42:28.136000	0:42:31.236000	-	4959258
+was	-	-	-	0:42:28.136000	0:42:31.236000	-	4959259
+dieses	-	-	-	0:42:28.136000	0:42:31.236000	-	4959260
+ORT	ORT	-	-	0:42:28.136000	0:42:31.236000	ORT	4959261
+ausmacht	-	-	-	0:42:28.136000	0:42:31.236000	-	4959262
+dieses	-	-	-	0:42:31.236000	0:42:32.349000	-	4959264
+Sudern	-	-	-	0:42:31.236000	0:42:32.349000	-	4959265
+und	-	-	-	0:42:31.236000	0:42:32.349000	-	4959266
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:32.349000" end="0:42:34.996000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ein	-	-	-	0:42:32.349000	0:42:34.996000	-	4964459
+Teil	-	-	-	0:42:32.349000	0:42:34.996000	-	4964460
+ein	-	-	-	0:42:32.349000	0:42:34.996000	-	4964461
+Teil	-	-	-	0:42:32.349000	0:42:34.996000	-	4964462
+dessen	-	-	-	0:42:32.349000	0:42:34.996000	-	4964463
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:34.996000" end="0:42:35.729000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:35.729000" end="0:42:51.842000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+aber	-	-	-	0:42:35.729000	0:42:40.689000	-	4964466
+ich	-	-	-	0:42:35.729000	0:42:40.689000	-	4964467
+das	-	-	-	0:42:35.729000	0:42:40.689000	-	4964469
+ist	-	-	-	0:42:35.729000	0:42:40.689000	-	4964470
+ja	-	-	-	0:42:35.729000	0:42:40.689000	-	4964471
+eher	-	-	-	0:42:35.729000	0:42:40.689000	-	4964472
+se	-	-	-	0:42:35.729000	0:42:40.689000	-	4964473
+ein	-	-	-	0:42:35.729000	0:42:40.689000	-	4964474
+so	-	-	-	0:42:35.729000	0:42:40.689000	-	4964475
+ein	-	-	-	0:42:35.729000	0:42:40.689000	-	4964476
+nicht	-	-	-	0:42:40.689000	0:42:41.976000	-	4964481
+unbedingt	-	-	-	0:42:40.689000	0:42:41.976000	-	4964482
+Sprache	-	-	-	0:42:40.689000	0:42:41.976000	-	4964483
+aber	-	-	-	0:42:41.976000	0:42:43.189000	-	4964486
+oder	-	-	-	0:42:46.296000	0:42:47.336000	-	4964489
+das	-	-	-	0:42:46.296000	0:42:47.336000	-	4964490
+so	-	-	-	0:42:46.296000	0:42:47.336000	-	4964491
+ja	-	-	-	0:42:46.296000	0:42:47.336000	-	4964492
+äh	-	-	-	0:42:47.336000	0:42:51.842000	-	4964494
+so	-	-	-	0:42:47.336000	0:42:51.842000	-	4964495
+jammern	-	-	-	0:42:47.336000	0:42:51.842000	-	4964497
+au	-	-	-	0:42:47.336000	0:42:51.842000	-	4964498
+e	-	-	-	0:42:47.336000	0:42:51.842000	-	4964499
+eben	-	-	-	0:42:47.336000	0:42:51.842000	-	4964501
+auf	-	-	-	0:42:47.336000	0:42:51.842000	-	4964502
+hohem	-	-	-	0:42:47.336000	0:42:51.842000	-	4964503
+Niveau	-	-	-	0:42:47.336000	0:42:51.842000	-	4964504
+in	-	-	-	0:42:47.336000	0:42:51.842000	-	4964505
+Wirklichkeit	-	-	-	0:42:47.336000	0:42:51.842000	-	4964506
+jammern	-	-	-	0:42:47.336000	0:42:51.842000	-	4964507
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:51.842000" end="0:42:53.762000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:51.842000" end="0:42:56.755000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:42:51.842000	0:42:56.755000	-	4964510
+für	-	-	-	0:42:51.842000	0:42:56.755000	-	4964511
+mich	-	-	-	0:42:51.842000	0:42:56.755000	-	4964512
+so	-	-	-	0:42:51.842000	0:42:56.755000	-	4964513
+charakteristisch	-	-	-	0:42:51.842000	0:42:56.755000	-	4964515
+schon	-	-	-	0:42:51.842000	0:42:56.755000	-	4964517
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:42:59.389000" end="0:43:08.235000" persName="Informant EXP15" age_lower="1" age_upper="999">
+haben	-	-	-	0:42:59.389000	0:43:05.702000	-	4959274
+Sie	-	-	-	0:42:59.389000	0:43:05.702000	-	4959275
+den	-	-	-	0:42:59.389000	0:43:05.702000	-	4959276
+Eindruck	-	-	-	0:42:59.389000	0:43:05.702000	-	4959277
+dass	-	-	-	0:42:59.389000	0:43:05.702000	-	4959278
+sich	-	-	-	0:42:59.389000	0:43:05.702000	-	4959279
+die	-	-	-	0:42:59.389000	0:43:05.702000	-	4959280
+ah	-	-	-	0:42:59.389000	0:43:05.702000	-	4959282
+deutsche	-	-	-	0:42:59.389000	0:43:05.702000	-	4959283
+Sprache	-	-	-	0:42:59.389000	0:43:05.702000	-	4959284
+in	-	-	-	0:42:59.389000	0:43:05.702000	-	4959285
+Österreich	-	-	-	0:42:59.389000	0:43:05.702000	-	4959286
+derzeit	-	-	-	0:42:59.389000	0:43:05.702000	-	4959287
+verändert	-	-	-	0:42:59.389000	0:43:05.702000	-	4959289
+durch	-	-	-	0:43:05.702000	0:43:08.235000	-	4959292
+den	-	-	-	0:43:05.702000	0:43:08.235000	-	4959293
+Kontakt	-	-	-	0:43:05.702000	0:43:08.235000	-	4959294
+mit	-	-	-	0:43:05.702000	0:43:08.235000	-	4959295
+anderen	-	-	-	0:43:05.702000	0:43:08.235000	-	4959296
+Sprachen	-	-	-	0:43:05.702000	0:43:08.235000	-	4959297
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:08.235000" end="0:43:09.195000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:43:08.235000	0:43:09.195000	-	4964519
+sehr	-	-	-	0:43:08.235000	0:43:09.195000	-	4964520
+stark	-	-	-	0:43:08.235000	0:43:09.195000	-	4964521
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:09.195000" end="0:43:11.989000" persName="Informant EXP15" age_lower="1" age_upper="999">
+also	-	-	-	0:43:09.195000	0:43:11.989000	-	4959299
+oder	-	-	-	0:43:09.195000	0:43:11.989000	-	4959300
+auch	-	-	-	0:43:09.195000	0:43:11.989000	-	4959301
+durch	-	-	-	0:43:09.195000	0:43:11.989000	-	4959302
+den	-	-	-	0:43:09.195000	0:43:11.989000	-	4959303
+Einfluss	-	-	-	0:43:09.195000	0:43:11.989000	-	4959304
+von	-	-	-	0:43:09.195000	0:43:11.989000	-	4959305
+anderen	-	-	-	0:43:09.195000	0:43:11.989000	-	4959306
+Sprachen	-	-	-	0:43:09.195000	0:43:11.989000	-	4959307
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:11.989000" end="0:43:12.649000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+sehr	-	-	-	0:43:11.989000	0:43:12.649000	-	4964523
+stark	-	-	-	0:43:11.989000	0:43:12.649000	-	4964524
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:12.649000" end="0:43:14.695000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:43:13.189000	0:43:14.695000	-	4959313
+inwiefern	-	-	-	0:43:13.189000	0:43:14.695000	-	4959314
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:14.695000" end="0:44:10.975000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:43:14.695000	0:43:21.349000	-	4964527
+Anglizismen	-	-	-	0:43:14.695000	0:43:21.349000	-	4964528
+sind	-	-	-	0:43:14.695000	0:43:21.349000	-	4964529
+ja	-	-	-	0:43:14.695000	0:43:21.349000	-	4964530
+seit	-	-	-	0:43:14.695000	0:43:21.349000	-	4964531
+seit	-	-	-	0:43:14.695000	0:43:21.349000	-	4964532
+Jahren	-	-	-	0:43:14.695000	0:43:21.349000	-	4964533
+sehr	-	-	-	0:43:14.695000	0:43:21.349000	-	4964535
+stark	-	-	-	0:43:14.695000	0:43:21.349000	-	4964536
+vorhanden	-	-	-	0:43:14.695000	0:43:21.349000	-	4964537
+auch	-	-	-	0:43:21.349000	0:43:27.955000	-	4964539
+jetzt	-	-	-	0:43:21.349000	0:43:27.955000	-	4964540
+Abkürzungen	-	-	-	0:43:21.349000	0:43:27.955000	-	4964542
+vermutlich	-	-	-	0:43:21.349000	0:43:27.955000	-	4964544
+und	-	-	-	0:43:27.955000	0:43:33.962000	-	4964546
+und	-	-	-	0:43:27.955000	0:43:33.962000	-	4964547
+Ausdrücke	-	-	-	0:43:27.955000	0:43:33.962000	-	4964548
+die	-	-	-	0:43:27.955000	0:43:33.962000	-	4964549
+sich	-	-	-	0:43:27.955000	0:43:33.962000	-	4964550
+im	-	-	-	0:43:27.955000	0:43:33.962000	-	4964551
+im	-	-	-	0:43:27.955000	0:43:33.962000	-	4964553
+Internet	-	-	-	0:43:27.955000	0:43:33.962000	-	4964554
+und	-	-	-	0:43:33.962000	0:43:36.375000	-	4964559
+die	-	-	-	0:43:33.962000	0:43:36.375000	-	4964560
+dann	-	-	-	0:43:33.962000	0:43:36.375000	-	4964561
+auch	-	-	-	0:43:33.962000	0:43:36.375000	-	4964562
+oder	-	-	-	0:43:36.375000	0:43:38.735000	-	4964565
+die	-	-	-	0:43:36.375000	0:43:38.735000	-	4964566
+eigentlich	-	-	-	0:43:36.375000	0:43:38.735000	-	4964567
+nur	-	-	-	0:43:36.375000	0:43:38.735000	-	4964568
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:43:38.735000	0:43:44.415000	-	4964571
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:43:38.735000	0:43:44.415000	-	4964572
+eigentlich	-	-	-	0:43:38.735000	0:43:44.415000	-	4964573
+nur	-	-	-	0:43:38.735000	0:43:44.415000	-	4964574
+als	-	-	-	0:43:38.735000	0:43:44.415000	-	4964575
+in	-	-	-	0:43:38.735000	0:43:44.415000	-	4964577
+der	-	-	-	0:43:38.735000	0:43:44.415000	-	4964578
+Schrift	-	-	-	0:43:38.735000	0:43:44.415000	-	4964579
+entstanden	-	-	-	0:43:38.735000	0:43:44.415000	-	4964581
+sind	-	-	-	0:43:38.735000	0:43:44.415000	-	4964582
+ich	-	-	-	0:43:44.415000	0:43:45.469000	-	4964586
+wass	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:43:44.415000	0:43:45.469000	-	4964587
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit-	0:43:44.415000	0:43:45.469000	-	4964588
+nicht	-	-	-	0:43:44.415000	0:43:45.469000	-	4964589
+äh	-	-	-	0:43:45.469000	0:43:46.935000	-	4964591
+ist	-	-	-	0:43:45.469000	0:43:46.935000	-	4964592
+jetzt	-	-	-	0:43:45.469000	0:43:46.935000	-	4964593
+nicht	-	-	-	0:43:45.469000	0:43:46.935000	-	4964594
+so	-	-	-	0:43:45.469000	0:43:46.935000	-	4964595
+jetzt	-	-	-	0:43:46.935000	0:43:48.489000	-	4964598
+kein	-	-	-	0:43:46.935000	0:43:48.489000	-	4964599
+Information	-	-	-	0:43:46.935000	0:43:48.489000	-	4964600
+nur	-	-	-	0:43:48.489000	0:43:49.415000	-	4964603
+mein	-	-	-	0:43:48.489000	0:43:49.415000	-	4964604
+die	-	-	-	0:43:51.415000	0:43:52.909000	-	4964607
+einli	-	-	-	0:43:51.415000	0:43:52.909000	-	4964608
+in	-	-	-	0:43:51.415000	0:43:52.909000	-	4964609
+der	-	-	-	0:43:51.415000	0:43:52.909000	-	4964610
+Schrift	-	-	-	0:43:51.415000	0:43:52.909000	-	4964611
+entstanden	-	-	-	0:43:51.415000	0:43:52.909000	-	4964612
+sind	-	-	-	0:43:51.415000	0:43:52.909000	-	4964613
+dann	-	-	-	0:43:52.909000	0:43:55.209000	-	4964616
+doch	-	-	-	0:43:52.909000	0:43:55.209000	-	4964618
+auch	-	-	-	0:43:52.909000	0:43:55.209000	-	4964619
+gesprochen	-	-	-	0:43:52.909000	0:43:55.209000	-	4964620
+werden	-	-	-	0:43:52.909000	0:43:55.209000	-	4964621
+die	-	-	-	0:43:55.209000	0:43:56.955000	-	4964624
+d	-	-	-	0:43:55.209000	0:43:56.955000	-	4964625
+eben	-	-	-	0:43:55.209000	0:43:56.955000	-	4964626
+so	-	-	-	0:43:55.209000	0:43:56.955000	-	4964627
+Abkürzungen	-	-	-	0:43:55.209000	0:43:56.955000	-	4964628
+oder	-	-	-	0:43:56.955000	0:44:00.182000	-	4964630
+ich	-	-	-	0:43:56.955000	0:44:00.182000	-	4964632
+bin	-	-	-	0:43:56.955000	0:44:00.182000	-	4964633
+da	-	-	-	0:43:56.955000	0:44:00.182000	-	4964634
+nicht	-	-	-	0:43:56.955000	0:44:00.182000	-	4964635
+so	-	-	-	0:43:56.955000	0:44:00.182000	-	4964636
+am	-	-	-	0:43:56.955000	0:44:00.182000	-	4964637
+letzten	-	-	-	0:43:56.955000	0:44:00.182000	-	4964639
+stand	-	-	-	0:43:56.955000	0:44:00.182000	-	4964640
+immer	-	-	-	0:43:56.955000	0:44:00.182000	-	4964641
+oder	-	-	-	0:44:00.182000	0:44:05.002000	-	4964644
+dass	-	-	-	0:44:00.182000	0:44:05.002000	-	4964645
+jetzt	-	-	-	0:44:00.182000	0:44:05.002000	-	4964646
+äh	-	-	-	0:44:00.182000	0:44:05.002000	-	4964647
+die	-	-	-	0:44:00.182000	0:44:05.002000	-	4964648
+emojis	-	-	-	0:44:00.182000	0:44:05.002000	-	4964649
+überhaupt	-	-	-	0:44:00.182000	0:44:05.002000	-	4964650
+die	-	-	-	0:44:00.182000	0:44:05.002000	-	4964651
+Sprache	-	-	-	0:44:00.182000	0:44:05.002000	-	4964652
+überflüssig	-	-	-	0:44:00.182000	0:44:05.002000	-	4964653
+machen	-	-	-	0:44:00.182000	0:44:05.002000	-	4964654
+man	-	-	-	0:44:05.002000	0:44:09.909000	-	4964656
+kommuniziert	-	-	-	0:44:05.002000	0:44:09.909000	-	4964658
+nur	-	-	-	0:44:05.002000	0:44:09.909000	-	4964659
+mehr	-	-	-	0:44:05.002000	0:44:09.909000	-	4964660
+mit	-	-	-	0:44:05.002000	0:44:09.909000	-	4964661
+dem	-	-	-	0:44:05.002000	0:44:09.909000	-	4964662
+man	-	-	-	0:44:05.002000	0:44:09.909000	-	4964663
+irgendweche	-	-	-	0:44:05.002000	0:44:09.909000	-	4964664
+gsichter	-	-	-	0:44:05.002000	0:44:09.909000	-	4964665
+ins	-	-	-	0:44:05.002000	0:44:09.909000	-	4964667
+Handy	-	-	-	0:44:05.002000	0:44:09.909000	-	4964668
+tippt	-	-	-	0:44:05.002000	0:44:09.909000	-	4964669
+dann	-	-	-	0:44:09.909000	0:44:10.975000	-	4964671
+brauche	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:44:09.909000	0:44:10.975000	-	4964672
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:44:09.909000	0:44:10.975000	-	4964673
+nix	-	-	-	0:44:09.909000	0:44:10.975000	-	4964674
+mehr	-	-	-	0:44:09.909000	0:44:10.975000	-	4964675
+schreiben	-	-	-	0:44:09.909000	0:44:10.975000	-	4964676
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:10.975000" end="0:44:11.875000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:11.875000" end="0:44:16.662000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:44:11.875000	0:44:14.362000	-	4964678
+sprechen	-	-	-	0:44:11.875000	0:44:14.362000	-	4964680
+äh	-	-	-	0:44:11.875000	0:44:14.362000	-	4964682
+sprechen	-	-	-	0:44:11.875000	0:44:14.362000	-	4964683
+überhaupt	-	-	-	0:44:11.875000	0:44:14.362000	-	4964684
+weil	-	-	-	0:44:14.362000	0:44:15.575000	-	4964686
+jetzt	-	-	-	0:44:14.362000	0:44:15.575000	-	4964687
+gibt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:44:14.362000	0:44:15.575000	-	4964688
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:44:14.362000	0:44:15.575000	-	4964689
+eh	-	-	-	0:44:14.362000	0:44:15.575000	-	4964690
+whatsapp	-	-	-	0:44:14.362000	0:44:15.575000	-	4964691
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:44:15.575000	0:44:16.502000	-	4964694
+nimmer	-	-	-	0:44:15.575000	0:44:16.502000	-	4964695
+arufen	-	-	-	0:44:15.575000	0:44:16.502000	-	4964696
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:16.662000" end="0:44:17.222000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:17.222000" end="0:44:29.022000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+aber	-	-	-	0:44:17.222000	0:44:19.235000	-	4964701
+ja	-	-	-	0:44:22.135000	0:44:24.395000	-	4964704
+wenn	-	-	-	0:44:22.135000	0:44:24.395000	-	4964705
+man	-	-	-	0:44:22.135000	0:44:24.395000	-	4964706
+so	-	-	-	0:44:22.135000	0:44:24.395000	-	4964707
+diese	-	-	-	0:44:22.135000	0:44:24.395000	-	4964708
+Wörter	-	-	-	0:44:22.135000	0:44:24.395000	-	4964710
+das	-	-	-	0:44:22.135000	0:44:24.395000	-	4964711
+Jahr	-	-	-	0:44:22.135000	0:44:24.395000	-	4964712
+unwörter	-	-	-	0:44:24.395000	0:44:25.862000	-	4964715
+des	-	-	-	0:44:24.395000	0:44:25.862000	-	4964716
+Jahres	-	-	-	0:44:24.395000	0:44:25.862000	-	4964717
+treibt	-	-	-	0:44:26.002000	0:44:29.022000	-	4964721
+schon	-	-	-	0:44:26.002000	0:44:29.022000	-	4964722
+ziemliche	-	-	-	0:44:26.002000	0:44:29.022000	-	4964723
+blüten	-	-	-	0:44:26.002000	0:44:29.022000	-	4964724
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:32.222000" end="0:44:32.589000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:32.589000" end="0:45:03.789000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:44:32.589000	0:44:34.542000	-	4964726
+ich	-	-	-	0:44:32.589000	0:44:34.542000	-	4964727
+glaube	-	-	-	0:44:32.589000	0:44:34.542000	-	4964728
+schon	-	-	-	0:44:32.589000	0:44:34.542000	-	4964729
+dass	-	-	-	0:44:32.589000	0:44:34.542000	-	4964730
+sich	-	-	-	0:44:32.589000	0:44:34.542000	-	4964731
+das	-	-	-	0:44:32.589000	0:44:34.542000	-	4964732
+stark	-	-	-	0:44:32.589000	0:44:34.542000	-	4964733
+verändert	-	-	-	0:44:32.589000	0:44:34.542000	-	4964734
+aber	-	-	-	0:44:34.542000	0:44:36.862000	-	4964737
+ja	-	-	-	0:44:36.862000	0:44:38.935000	-	4964740
+es	-	-	-	0:44:38.935000	0:44:40.302000	-	4964742
+war	-	-	-	0:44:38.935000	0:44:40.302000	-	4964743
+wahrscheinlich	-	-	-	0:44:38.935000	0:44:40.302000	-	4964744
+eh	-	-	-	0:44:38.935000	0:44:40.302000	-	4964745
+immer	-	-	-	0:44:38.935000	0:44:40.302000	-	4964746
+es	-	-	-	0:44:38.935000	0:44:40.302000	-	4964747
+ja	-	-	-	0:44:40.302000	0:44:41.662000	-	4964749
+ja	-	-	-	0:44:40.302000	0:44:41.662000	-	4964751
+mit	-	-	-	0:44:41.662000	0:44:44.722000	-	4964754
+Anglizismen	-	-	-	0:44:41.662000	0:44:44.722000	-	4964755
+das	-	-	-	0:44:41.662000	0:44:44.722000	-	4964756
+wird	-	-	-	0:44:41.662000	0:44:44.722000	-	4964757
+wahrscheinlich	-	-	-	0:44:41.662000	0:44:44.722000	-	4964758
+ärger	-	-	-	0:44:41.662000	0:44:44.722000	-	4964759
+ich	-	-	-	0:44:44.722000	0:44:46.049000	-	4964762
+ich	-	-	-	0:44:44.722000	0:44:46.049000	-	4964763
+habe	-	-	-	0:44:44.722000	0:44:46.049000	-	4964764
+jetzt	-	-	-	0:44:44.722000	0:44:46.049000	-	4964765
+nicht	-	-	-	0:44:44.722000	0:44:46.049000	-	4964766
+ich	-	-	-	0:44:46.049000	0:44:47.369000	-	4964768
+habe	-	-	-	0:44:46.049000	0:44:47.369000	-	4964769
+nicht	-	-	-	0:44:46.049000	0:44:47.369000	-	4964770
+das	-	-	-	0:44:46.049000	0:44:47.369000	-	4964771
+Problem	-	-	-	0:44:46.049000	0:44:47.369000	-	4964772
+damit	-	-	-	0:44:46.049000	0:44:47.369000	-	4964773
+ich	-	-	-	0:44:47.369000	0:44:50.809000	-	4964775
+kenne	-	-	-	0:44:47.369000	0:44:50.809000	-	4964776
+schon	-	-	-	0:44:47.369000	0:44:50.809000	-	4964777
+einige	-	-	-	0:44:47.369000	0:44:50.809000	-	4964778
+Leute	-	-	-	0:44:47.369000	0:44:50.809000	-	4964779
+die	-	-	-	0:44:47.369000	0:44:50.809000	-	4964780
+sich	-	-	-	0:44:47.369000	0:44:50.809000	-	4964782
+aufregen	-	-	-	0:44:47.369000	0:44:50.809000	-	4964783
+äh	-	-	-	0:44:50.809000	0:44:52.849000	-	4964785
+die	-	-	-	0:44:50.809000	0:44:52.849000	-	4964786
+ja	-	-	-	0:44:50.809000	0:44:52.849000	-	4964787
+ältere	-	-	-	0:44:50.809000	0:44:52.849000	-	4964788
+Semester	-	-	-	0:44:50.809000	0:44:52.849000	-	4964789
+die	-	-	-	0:44:52.849000	0:44:57.335000	-	4964791
+halt	-	-	-	0:44:52.849000	0:44:57.335000	-	4964793
+auf	-	-	-	0:44:52.849000	0:44:57.335000	-	4964795
+die	-	-	-	0:44:52.849000	0:44:57.335000	-	4964796
+deutsche	-	-	-	0:44:52.849000	0:44:57.335000	-	4964797
+Sprache	-	-	-	0:44:52.849000	0:44:57.335000	-	4964798
+viel	-	-	-	0:44:52.849000	0:44:57.335000	-	4964800
+Wert	-	-	-	0:44:52.849000	0:44:57.335000	-	4964801
+legen	-	-	-	0:44:52.849000	0:44:57.335000	-	4964802
+und	-	-	-	0:44:57.335000	0:44:58.042000	-	4964804
+die	-	-	-	0:44:57.335000	0:44:58.042000	-	4964805
+sagen	-	-	-	0:44:57.335000	0:44:58.042000	-	4964806
+ja	-	-	-	0:44:57.335000	0:44:58.042000	-	4964807
+müssen	-	-	-	0:44:58.042000	0:45:00.409000	-	4964810
+da	-	-	-	0:44:58.042000	0:45:00.409000	-	4964811
+mehr	-	-	-	0:44:58.042000	0:45:00.409000	-	4964812
+darauf	-	-	-	0:44:58.042000	0:45:00.409000	-	4964814
+acht	-	-	-	0:44:58.042000	0:45:00.409000	-	4964815
+geben	-	-	-	0:44:58.042000	0:45:00.409000	-	4964816
+muss	-	-	-	0:45:00.409000	0:45:02.729000	-	4964819
+man	-	-	-	0:45:00.409000	0:45:02.729000	-	4964820
+kann	-	-	-	0:45:00.409000	0:45:02.729000	-	4964821
+ja	-	-	-	0:45:00.409000	0:45:02.729000	-	4964822
+sagen	-	-	-	0:45:00.409000	0:45:02.729000	-	4964823
+blitznachrichten	-	-	-	0:45:00.409000	0:45:02.729000	-	4964824
+nicht	-	-	-	0:45:02.729000	0:45:03.789000	-	4964827
+<<engl	-	-	-	0:45:02.729000	0:45:03.789000	-	4964828
+aussprache>	-	-	-	0:45:02.729000	0:45:03.789000	-	4964830
+newsflash,>	-	-	-	0:45:02.729000	0:45:03.789000	-	4964831
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:03.789000" end="0:45:04.929000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:04.929000" end="0:45:06.222000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:45:04.929000	0:45:06.222000	-	4964832
+ich	-	-	-	0:45:04.929000	0:45:06.222000	-	4964833
+kenne	-	-	-	0:45:04.929000	0:45:06.222000	-	4964834
+schon	-	-	-	0:45:04.929000	0:45:06.222000	-	4964835
+solche	-	-	-	0:45:04.929000	0:45:06.222000	-	4964836
+Leute	-	-	-	0:45:04.929000	0:45:06.222000	-	4964837
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:06.222000" end="0:45:06.922000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:06.922000" end="0:45:12.009000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+mich	-	-	-	0:45:06.922000	0:45:08.822000	-	4964839
+persönlich	-	-	-	0:45:06.922000	0:45:08.822000	-	4964840
+regt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:45:06.922000	0:45:08.822000	-	4964841
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:45:06.922000	0:45:08.822000	-	4964842
+nicht	-	-	-	0:45:06.922000	0:45:08.822000	-	4964843
+auf	-	-	-	0:45:06.922000	0:45:08.822000	-	4964844
+weil	-	-	-	0:45:08.822000	0:45:10.595000	-	4964846
+Englisch	-	-	-	0:45:08.822000	0:45:10.595000	-	4964847
+ist	-	-	-	0:45:08.822000	0:45:10.595000	-	4964848
+so	-	-	-	0:45:08.822000	0:45:10.595000	-	4964849
+verbreitet	-	-	-	0:45:08.822000	0:45:10.595000	-	4964850
+jetzt	-	-	-	0:45:08.822000	0:45:10.595000	-	4964851
+soll	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:45:10.595000	0:45:12.009000	-	4964854
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:45:10.595000	0:45:12.009000	-	4964855
+nicht	-	-	-	0:45:10.595000	0:45:12.009000	-	4964856
+bei	-	-	-	0:45:10.595000	0:45:12.009000	-	4964857
+uns	-	-	-	0:45:10.595000	0:45:12.009000	-	4964858
+auch	-	-	-	0:45:10.595000	0:45:12.009000	-	4964859
+sein	-	-	-	0:45:10.595000	0:45:12.009000	-	4964860
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:12.009000" end="0:45:19.769000" persName="Informant EXP15" age_lower="1" age_upper="999">
+also	-	-	-	0:45:12.855000	0:45:15.415000	-	4959340
+jetzt	-	-	-	0:45:12.855000	0:45:15.415000	-	4959341
+abgesegen	-	-	-	0:45:12.855000	0:45:15.415000	-	4959342
+vom	-	-	-	0:45:12.855000	0:45:15.415000	-	4959343
+englischen	-	-	-	0:45:12.855000	0:45:15.415000	-	4959344
+welche	-	-	-	0:45:15.415000	0:45:19.769000	-	4959346
+Sprachen	-	-	-	0:45:15.415000	0:45:19.769000	-	4959347
+sehen	-	-	-	0:45:15.415000	0:45:19.769000	-	4959348
+Sie	-	-	-	0:45:15.415000	0:45:19.769000	-	4959349
+noch	-	-	-	0:45:15.415000	0:45:19.769000	-	4959350
+sehen	-	-	-	0:45:15.415000	0:45:19.769000	-	4959351
+Sie	-	-	-	0:45:15.415000	0:45:19.769000	-	4959352
+hier	-	-	-	0:45:15.415000	0:45:19.769000	-	4959353
+noch	-	-	-	0:45:15.415000	0:45:19.769000	-	4959354
+als	-	-	-	0:45:15.415000	0:45:19.769000	-	4959355
+besonders	-	-	-	0:45:15.415000	0:45:19.769000	-	4959356
+einflussreich	-	-	-	0:45:15.415000	0:45:19.769000	-	4959357
+an	-	-	-	0:45:15.415000	0:45:19.769000	-	4959358
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:19.769000" end="0:45:34.302000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+14.5	-	-	-	0:45:19.769000	0:45:34.302000	-	4964862
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:45:34.302000" end="0:45:38.322000" persName="Informant EXP15" age_lower="1" age_upper="999">
+beziehungsweise	-	-	-	0:45:34.302000	0:45:38.322000	-	4959360
+sehen	-	-	-	0:45:34.302000	0:45:38.322000	-	4959361
+Sie	-	-	-	0:45:34.302000	0:45:38.322000	-	4959362
+da	-	-	-	0:45:34.302000	0:45:38.322000	-	4959363
+auch	-	-	-	0:45:34.302000	0:45:38.322000	-	4959364
+noch	-	-	-	0:45:34.302000	0:45:38.322000	-	4959365
+andere	-	-	-	0:45:34.302000	0:45:38.322000	-	4959366
+sprachen	-	-	-	0:45:34.302000	0:45:38.322000	-	4959368
+als	-	-	-	0:45:34.302000	0:45:38.322000	-	4959369
+einflussreich	-	-	-	0:45:34.302000	0:45:38.322000	-	4959370
+an	-	-	-	0:45:34.302000	0:45:38.322000	-	4959371
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:38.322000" end="0:46:10.802000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+15.7	-	-	-	0:45:38.322000	0:45:54.062000	-	4964863
+na	-	-	-	0:46:00.822000	0:46:01.509000	-	4964867
+ja	-	-	-	0:46:00.822000	0:46:01.509000	-	4964868
+ich	-	-	-	0:46:06.609000	0:46:08.862000	-	4964871
+glaube	-	-	-	0:46:06.609000	0:46:08.862000	-	4964872
+dass	-	-	-	0:46:06.609000	0:46:08.862000	-	4964873
+eben	-	-	-	0:46:06.609000	0:46:08.862000	-	4964874
+Französisch	-	-	-	0:46:06.609000	0:46:08.862000	-	4964875
+früher	-	-	-	0:46:06.609000	0:46:08.862000	-	4964876
+mehr	-	-	-	0:46:06.609000	0:46:08.862000	-	4964877
+war	-	-	-	0:46:06.609000	0:46:08.862000	-	4964878
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:46:08.862000	0:46:10.802000	-	4964881
+jetzt	-	-	-	0:46:08.862000	0:46:10.802000	-	4964882
+eigentlich	-	-	-	0:46:08.862000	0:46:10.802000	-	4964883
+fast	-	-	-	0:46:08.862000	0:46:10.802000	-	4964884
+weniger	-	-	-	0:46:08.862000	0:46:10.802000	-	4964885
+ist	-	-	-	0:46:08.862000	0:46:10.802000	-	4964886
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:10.802000" end="0:46:11.782000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:11.782000" end="0:46:17.815000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+sonst	-	-	-	0:46:11.782000	0:46:15.962000	-	4964889
+ja	-	-	-	0:46:11.782000	0:46:15.962000	-	4964890
+tschechisch	-	-	-	0:46:11.782000	0:46:15.962000	-	4964891
+äh	-	-	-	0:46:11.782000	0:46:15.962000	-	4964892
+im	-	-	-	0:46:11.782000	0:46:15.962000	-	4964893
+Namen	-	-	-	0:46:11.782000	0:46:15.962000	-	4964894
+oder	-	-	-	0:46:11.782000	0:46:15.962000	-	4964895
+sowos	-	-	-	0:46:11.782000	0:46:15.962000	-	4964896
+oder	-	-	-	0:46:15.962000	0:46:17.815000	-	4964898
+oder	-	-	-	0:46:15.962000	0:46:17.815000	-	4964899
+aber	-	-	-	0:46:15.962000	0:46:17.815000	-	4964900
+sonst	-	-	-	0:46:15.962000	0:46:17.815000	-	4964901
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:17.369000" end="0:46:17.815000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:17.815000" end="0:46:29.002000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+also	-	-	-	0:46:17.815000	0:46:23.415000	-	4964904
+ich	-	-	-	0:46:17.815000	0:46:23.415000	-	4964905
+nehme	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:46:17.815000	0:46:23.415000	-	4964906
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:46:17.815000	0:46:23.415000	-	4964907
+jetzt	-	-	-	0:46:17.815000	0:46:23.415000	-	4964908
+nicht	-	-	-	0:46:17.815000	0:46:23.415000	-	4964909
+so	-	-	-	0:46:17.815000	0:46:23.415000	-	4964910
+wahr	-	-	-	0:46:17.815000	0:46:23.415000	-	4964912
+jetzt	-	-	-	0:46:23.415000	0:46:25.688000	-	4964914
+in	-	-	-	0:46:23.415000	0:46:25.688000	-	4964915
+der	-	-	-	0:46:23.415000	0:46:25.688000	-	4964916
+kurzen	-	-	-	0:46:23.415000	0:46:25.688000	-	4964917
+nachdenkzeit	-	-	-	0:46:23.415000	0:46:25.688000	-	4964918
+fällt	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:46:25.688000	0:46:29.002000	-	4964921
+mir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:46:25.688000	0:46:29.002000	-	4964922
+nicht	-	-	-	0:46:25.688000	0:46:29.002000	-	4964923
+viel	-	-	-	0:46:25.688000	0:46:29.002000	-	4964924
+ein	-	-	-	0:46:25.688000	0:46:29.002000	-	4964925
+außer	-	-	-	0:46:25.688000	0:46:29.002000	-	4964926
+Englisch	-	-	-	0:46:25.688000	0:46:29.002000	-	4964927
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:29.002000" end="0:46:43.255000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:46:32.642000	0:46:37.735000	-	4959385
+welche	-	-	-	0:46:32.642000	0:46:37.735000	-	4959386
+der	-	-	-	0:46:32.642000	0:46:37.735000	-	4959387
+sprachformen	-	-	-	0:46:32.642000	0:46:37.735000	-	4959388
+über	-	-	-	0:46:32.642000	0:46:37.735000	-	4959389
+die	-	-	-	0:46:32.642000	0:46:37.735000	-	4959390
+wir	-	-	-	0:46:32.642000	0:46:37.735000	-	4959391
+gesprochen	-	-	-	0:46:32.642000	0:46:37.735000	-	4959392
+haben	-	-	-	0:46:32.642000	0:46:37.735000	-	4959393
+betrifft	-	-	-	0:46:32.642000	0:46:37.735000	-	4959394
+das	-	-	-	0:46:32.642000	0:46:37.735000	-	4959395
+Ihrer	-	-	-	0:46:32.642000	0:46:37.735000	-	4959396
+ansicht	-	-	-	0:46:32.642000	0:46:37.735000	-	4959397
+nach	-	-	-	0:46:32.642000	0:46:37.735000	-	4959398
+also	-	-	-	0:46:37.735000	0:46:41.855000	-	4959400
+wir	-	-	-	0:46:37.735000	0:46:41.855000	-	4959401
+haben	-	-	-	0:46:37.735000	0:46:41.855000	-	4959402
+gesprochen	-	-	-	0:46:37.735000	0:46:41.855000	-	4959403
+über	-	-	-	0:46:37.735000	0:46:41.855000	-	4959404
+Umgangssprache	-	-	-	0:46:37.735000	0:46:41.855000	-	4959405
+Dialekt	-	-	-	0:46:37.735000	0:46:41.855000	-	4959406
+und	-	-	-	0:46:37.735000	0:46:41.855000	-	4959407
+über	-	-	-	0:46:37.735000	0:46:41.855000	-	4959408
+ah	-	-	-	0:46:37.735000	0:46:41.855000	-	4959410
+Hochsprache	-	-	-	0:46:37.735000	0:46:41.855000	-	4959411
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:43.255000" end="0:47:22.608000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:46:45.255000	0:46:46.915000	-	4964930
+vermutlich	-	-	-	0:46:45.255000	0:46:46.915000	-	4964931
+die	-	-	-	0:46:45.255000	0:46:46.915000	-	4964932
+Hochsprache	-	-	-	0:46:45.255000	0:46:46.915000	-	4964933
+weil	-	-	-	0:46:46.915000	0:46:52.682000	-	4964936
+die	-	-	-	0:46:46.915000	0:46:52.682000	-	4964937
+Umgangssprache	-	-	-	0:46:46.915000	0:46:52.682000	-	4964938
+ist	-	-	-	0:46:46.915000	0:46:52.682000	-	4964939
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:46:46.915000	0:46:52.682000	-	4964941
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:46:46.915000	0:46:52.682000	-	4964942
+eher	-	-	-	0:46:46.915000	0:46:52.682000	-	4964943
+immun	-	-	-	0:46:46.915000	0:46:52.682000	-	4964944
+gegen	-	-	-	0:46:46.915000	0:46:52.682000	-	4964945
+sowas	-	-	-	0:46:46.915000	0:46:52.682000	-	4964946
+ich	-	-	-	0:46:52.682000	0:46:54.342000	-	4964949
+na	-	-	-	0:46:52.682000	0:46:54.342000	-	4964950
+ja	-	-	-	0:46:52.682000	0:46:54.342000	-	4964951
+na	-	-	-	0:46:52.682000	0:46:54.342000	-	4964952
+es	-	-	-	0:46:54.342000	0:46:58.788000	-	4964955
+g	-	-	-	0:46:54.342000	0:46:58.788000	-	4964956
+Anglizismen	-	-	-	0:46:54.342000	0:46:58.788000	-	4964957
+sind	-	-	-	0:46:54.342000	0:46:58.788000	-	4964959
+überall	-	-	-	0:46:54.342000	0:46:58.788000	-	4964960
+vermutlich	-	-	-	0:46:54.342000	0:46:58.788000	-	4964961
+oder	-	-	-	0:47:03.888000	0:47:06.388000	-	4964964
+vielleicht	-	-	-	0:47:03.888000	0:47:06.388000	-	4964965
+sogar	-	-	-	0:47:03.888000	0:47:06.388000	-	4964966
+gerade	-	-	-	0:47:03.888000	0:47:06.388000	-	4964967
+mehr	-	-	-	0:47:03.888000	0:47:06.388000	-	4964968
+in	-	-	-	0:47:03.888000	0:47:06.388000	-	4964969
+der	-	-	-	0:47:03.888000	0:47:06.388000	-	4964970
+Umgangssprache	-	-	-	0:47:03.888000	0:47:06.388000	-	4964971
+weil	-	-	-	0:47:06.388000	0:47:10.235000	-	4964975
+man	-	-	-	0:47:06.388000	0:47:10.235000	-	4964976
+ja	-	-	-	0:47:06.388000	0:47:10.235000	-	4964977
+v	-	-	-	0:47:06.388000	0:47:10.235000	-	4964978
+schnell	-	-	-	0:47:06.388000	0:47:10.235000	-	4964979
+über	-	-	-	0:47:06.388000	0:47:10.235000	-	4964980
+was	-	-	-	0:47:06.388000	0:47:10.235000	-	4964981
+reden	-	-	-	0:47:06.388000	0:47:10.235000	-	4964982
+ja	-	-	-	0:47:10.235000	0:47:11.875000	-	4964985
+oft	-	-	-	0:47:10.235000	0:47:11.875000	-	4964986
+so	-	-	-	0:47:10.235000	0:47:11.875000	-	4964987
+kurze	-	-	-	0:47:10.235000	0:47:11.875000	-	4964988
+Begriffe	-	-	-	0:47:10.235000	0:47:11.875000	-	4964989
+mir	-	-	-	0:47:11.875000	0:47:14.375000	-	4964992
+recht	-	-	-	0:47:11.875000	0:47:14.375000	-	4964993
+schnell	-	-	-	0:47:11.875000	0:47:14.375000	-	4964994
+verwendet	-	-	-	0:47:11.875000	0:47:14.375000	-	4964996
+wenn	-	-	-	0:47:14.375000	0:47:19.288000	-	4965000
+man	-	-	-	0:47:14.375000	0:47:19.288000	-	4965001
+umgangssprachlich	-	-	-	0:47:14.375000	0:47:19.288000	-	4965002
+probiert	-	-	-	0:47:14.375000	0:47:19.288000	-	4965003
+sich	-	-	-	0:47:14.375000	0:47:19.288000	-	4965004
+kurz	-	-	-	0:47:14.375000	0:47:19.288000	-	4965005
+rasch	-	-	-	0:47:14.375000	0:47:19.288000	-	4965006
+über	-	-	-	0:47:14.375000	0:47:19.288000	-	4965007
+was	-	-	-	0:47:14.375000	0:47:19.288000	-	4965008
+auszutauschen	-	-	-	0:47:14.375000	0:47:19.288000	-	4965009
+könnte	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:47:19.288000	0:47:22.608000	-	4965012
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:47:19.288000	0:47:22.608000	-	4965013
+sogar	-	-	-	0:47:19.288000	0:47:22.608000	-	4965014
+sein	-	-	-	0:47:19.288000	0:47:22.608000	-	4965015
+dass	-	-	-	0:47:19.288000	0:47:22.608000	-	4965016
+man	-	-	-	0:47:19.288000	0:47:22.608000	-	4965017
+das	-	-	-	0:47:19.288000	0:47:22.608000	-	4965018
+eher	-	-	-	0:47:19.288000	0:47:22.608000	-	4965019
+verwendet	-	-	-	0:47:19.288000	0:47:22.608000	-	4965020
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:23.402000" end="0:47:23.975000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:23.402000" end="0:47:32.355000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+alles	-	-	-	0:47:23.402000	0:47:25.968000	-	4965023
+wenn	-	-	-	0:47:23.402000	0:47:25.968000	-	4965024
+man	-	-	-	0:47:23.402000	0:47:25.968000	-	4965025
+jetzt	-	-	-	0:47:23.402000	0:47:25.968000	-	4965026
+Zeit	-	-	-	0:47:23.402000	0:47:25.968000	-	4965027
+hat	-	-	-	0:47:23.402000	0:47:25.968000	-	4965028
+was	-	-	-	0:47:23.402000	0:47:25.968000	-	4965029
+zu	-	-	-	0:47:23.402000	0:47:25.968000	-	4965030
+formulieren	-	-	-	0:47:23.402000	0:47:25.968000	-	4965031
+sich	-	-	-	0:47:25.968000	0:47:27.188000	-	4965034
+was	-	-	-	0:47:25.968000	0:47:27.188000	-	4965035
+zammdenkt	-	-	-	0:47:25.968000	0:47:27.188000	-	4965036
+kommt	-	-	-	0:47:27.188000	0:47:29.455000	-	4965039
+man	-	-	-	0:47:27.188000	0:47:29.455000	-	4965040
+vielleicht	-	-	-	0:47:27.188000	0:47:29.455000	-	4965041
+sogar	-	-	-	0:47:27.188000	0:47:29.455000	-	4965042
+ohne	-	-	-	0:47:27.188000	0:47:29.455000	-	4965043
+aus	-	-	-	0:47:27.188000	0:47:29.455000	-	4965044
+o	-	-	-	0:47:29.455000	0:47:31.735000	-	4965046
+oder	-	-	-	0:47:29.455000	0:47:31.735000	-	4965048
+man	-	-	-	0:47:29.455000	0:47:31.735000	-	4965049
+will	-	-	-	0:47:29.455000	0:47:31.735000	-	4965050
+eh	-	-	-	0:47:29.455000	0:47:31.735000	-	4965051
+gar	-	-	-	0:47:29.455000	0:47:31.735000	-	4965052
+nicht	-	-	-	0:47:29.455000	0:47:31.735000	-	4965053
+ohne	-	-	-	0:47:29.455000	0:47:31.735000	-	4965054
+auskommen	-	-	-	0:47:29.455000	0:47:31.735000	-	4965055
+keine	-	-	-	0:47:31.735000	0:47:32.355000	-	4965057
+Ahnung	-	-	-	0:47:31.735000	0:47:32.355000	-	4965058
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:32.355000" end="0:47:53.548000" persName="Informant EXP15" age_lower="1" age_upper="999">
+ah	-	-	-	0:47:34.215000	0:47:40.548000	-	4959428
+Deutsch	-	-	-	0:47:34.215000	0:47:40.548000	-	4959429
+war	-	-	-	0:47:34.215000	0:47:40.548000	-	4959430
+in	-	-	-	0:47:34.215000	0:47:40.548000	-	4959431
+der	-	-	-	0:47:34.215000	0:47:40.548000	-	4959432
+Geschichte	-	-	-	0:47:34.215000	0:47:40.548000	-	4959433
+Österreichs	-	-	-	0:47:34.215000	0:47:40.548000	-	4959434
+ja	-	-	-	0:47:34.215000	0:47:40.548000	-	4959435
+schon	-	-	-	0:47:34.215000	0:47:40.548000	-	4959436
+immer	-	-	-	0:47:34.215000	0:47:40.548000	-	4959437
+im	-	-	-	0:47:34.215000	0:47:40.548000	-	4959438
+intensiven	-	-	-	0:47:34.215000	0:47:40.548000	-	4959439
+Kontakt	-	-	-	0:47:34.215000	0:47:40.548000	-	4959440
+mit	-	-	-	0:47:34.215000	0:47:40.548000	-	4959441
+anderen	-	-	-	0:47:34.215000	0:47:40.548000	-	4959442
+Sprachen	-	-	-	0:47:34.215000	0:47:40.548000	-	4959443
+haben	-	-	-	0:47:40.548000	0:47:41.935000	-	4959446
+das	-	-	-	0:47:40.548000	0:47:41.935000	-	4959447
+vorhin	-	-	-	0:47:40.548000	0:47:41.935000	-	4959448
+auch	-	-	-	0:47:40.548000	0:47:41.935000	-	4959449
+schon	-	-	-	0:47:40.548000	0:47:41.935000	-	4959450
+erwähnt	-	-	-	0:47:40.548000	0:47:41.935000	-	4959451
+da	-	-	-	0:47:41.935000	0:47:43.108000	-	4959454
+Monarchie	-	-	-	0:47:41.935000	0:47:43.108000	-	4959455
+und	-	-	-	0:47:41.935000	0:47:43.108000	-	4959456
+so	-	-	-	0:47:41.935000	0:47:43.108000	-	4959457
+ah	-	-	-	0:47:43.108000	0:47:46.655000	-	4959460
+welche	-	-	-	0:47:43.108000	0:47:46.655000	-	4959461
+waren	-	-	-	0:47:43.108000	0:47:46.655000	-	4959462
+da	-	-	-	0:47:43.108000	0:47:46.655000	-	4959463
+aus	-	-	-	0:47:43.108000	0:47:46.655000	-	4959464
+Ihrer	-	-	-	0:47:43.108000	0:47:46.655000	-	4959465
+Sicht	-	-	-	0:47:43.108000	0:47:46.655000	-	4959466
+entscheidend	-	-	-	0:47:43.108000	0:47:46.655000	-	4959467
+also	-	-	-	0:47:46.655000	0:47:49.255000	-	4959470
+ich	-	-	-	0:47:46.655000	0:47:49.255000	-	4959472
+weiß	-	-	-	0:47:46.655000	0:47:49.255000	-	4959473
+Sie	-	-	-	0:47:46.655000	0:47:49.255000	-	4959474
+haben	-	-	-	0:47:46.655000	0:47:49.255000	-	4959475
+schon	-	-	-	0:47:46.655000	0:47:49.255000	-	4959476
+Einiges	-	-	-	0:47:46.655000	0:47:49.255000	-	4959477
+erwähnt	-	-	-	0:47:46.655000	0:47:49.255000	-	4959478
+nur	-	-	-	0:47:49.255000	0:47:51.742000	-	4959481
+um	-	-	-	0:47:49.255000	0:47:51.742000	-	4959482
+das	-	-	-	0:47:49.255000	0:47:51.742000	-	4959483
+nochmal	-	-	-	0:47:49.255000	0:47:51.742000	-	4959484
+zusammenzufassen	-	-	-	0:47:49.255000	0:47:51.742000	-	4959485
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:53.548000" end="0:48:16.295000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:47:53.548000	0:47:56.122000	-	4965060
+ich	-	-	-	0:47:53.548000	0:47:56.122000	-	4965061
+bin	-	-	-	0:47:53.548000	0:47:56.122000	-	4965062
+echt	-	-	-	0:47:53.548000	0:47:56.122000	-	4965063
+nicht	-	-	-	0:47:53.548000	0:47:56.122000	-	4965064
+so	-	-	-	0:47:53.548000	0:47:56.122000	-	4965065
+der	-	-	-	0:47:53.548000	0:47:56.122000	-	4965066
+historiker	-	-	-	0:47:53.548000	0:47:56.122000	-	4965067
+ja	-	-	-	0:47:56.122000	0:48:07.268000	-	4965071
+das	-	-	-	0:47:56.122000	0:48:07.268000	-	4965072
+waren	-	-	-	0:47:56.122000	0:48:07.268000	-	4965073
+eben	-	-	-	0:47:56.122000	0:48:07.268000	-	4965074
+die	-	-	-	0:47:56.122000	0:48:07.268000	-	4965075
+wahrscheinlich	-	-	-	0:47:56.122000	0:48:07.268000	-	4965076
+die	-	-	-	0:47:56.122000	0:48:07.268000	-	4965077
+die	-	-	-	0:47:56.122000	0:48:07.268000	-	4965079
+die	-	-	-	0:47:56.122000	0:48:07.268000	-	4965081
+Länder	-	-	-	0:47:56.122000	0:48:07.268000	-	4965082
+in	-	-	-	0:47:56.122000	0:48:07.268000	-	4965083
+der	-	-	-	0:47:56.122000	0:48:07.268000	-	4965084
+die	-	-	-	0:47:56.122000	0:48:07.268000	-	4965086
+Länder	-	-	-	0:47:56.122000	0:48:07.268000	-	4965087
+in	-	-	-	0:47:56.122000	0:48:07.268000	-	4965088
+der	-	-	-	0:47:56.122000	0:48:07.268000	-	4965089
+donaumonarchie	-	-	-	0:47:56.122000	0:48:07.268000	-	4965090
+und	-	-	-	0:48:09.402000	0:48:11.195000	-	4965093
+und	-	-	-	0:48:09.402000	0:48:11.195000	-	4965094
+sicher	-	-	-	0:48:09.402000	0:48:11.195000	-	4965095
+Frankreich	-	-	-	0:48:09.402000	0:48:11.195000	-	4965096
+da	-	-	-	0:48:11.195000	0:48:12.622000	-	4965098
+bin	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:11.195000	0:48:12.622000	-	4965099
+ich	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+|KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:11.195000	0:48:12.622000	-	4965100
+man	-	-	KlitBasis KlitPron KlitReal PronForm _mir klPron+Kl klit+	0:48:11.195000	0:48:12.622000	-	4965101
+relativ	-	-	-	0:48:11.195000	0:48:12.622000	-	4965102
+sicher	-	-	-	0:48:11.195000	0:48:12.622000	-	4965103
+also	-	-	-	0:48:12.622000	0:48:16.295000	-	4965106
+ich	-	-	-	0:48:12.622000	0:48:16.295000	-	4965107
+glaube	-	-	-	0:48:12.622000	0:48:16.295000	-	4965108
+viel	-	-	-	0:48:12.622000	0:48:16.295000	-	4965109
+mehr	-	-	-	0:48:12.622000	0:48:16.295000	-	4965110
+als	-	-	-	0:48:12.622000	0:48:16.295000	-	4965111
+als	-	-	-	0:48:12.622000	0:48:16.295000	-	4965112
+Englisch	-	-	-	0:48:12.622000	0:48:16.295000	-	4965113
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:16.295000" end="0:48:17.622000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:22.122000" end="0:48:26.635000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ansonsten	-	-	-	0:48:22.122000	0:48:23.175000	-	4965115
+ja	-	-	-	0:48:23.175000	0:48:26.635000	-	4965118
+aber	-	-	-	0:48:23.175000	0:48:26.635000	-	4965119
+vielleicht	-	-	-	0:48:23.175000	0:48:26.635000	-	4965120
+Italienisch	-	-	-	0:48:23.175000	0:48:26.635000	-	4965121
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:29.262000" end="0:48:35.442000" persName="Informant EXP15" age_lower="1" age_upper="999">
+und	-	-	-	0:48:29.262000	0:48:35.442000	-	4959494
+sehen	-	-	-	0:48:29.262000	0:48:35.442000	-	4959495
+Sie	-	-	-	0:48:29.262000	0:48:35.442000	-	4959496
+diese	-	-	-	0:48:29.262000	0:48:35.442000	-	4959497
+Sprachen	-	-	-	0:48:29.262000	0:48:35.442000	-	4959498
+auch	-	-	-	0:48:29.262000	0:48:35.442000	-	4959499
+als	-	-	-	0:48:29.262000	0:48:35.442000	-	4959500
+einflussreich	-	-	-	0:48:29.262000	0:48:35.442000	-	4959501
+an	-	-	-	0:48:29.262000	0:48:35.442000	-	4959502
+für	-	-	-	0:48:29.262000	0:48:35.442000	-	4959503
+die	-	-	-	0:48:29.262000	0:48:35.442000	-	4959504
+ah	-	-	-	0:48:29.262000	0:48:35.442000	-	4959506
+deutsche	-	-	-	0:48:29.262000	0:48:35.442000	-	4959507
+Sprache	-	-	-	0:48:29.262000	0:48:35.442000	-	4959508
+in	-	-	-	0:48:29.262000	0:48:35.442000	-	4959509
+Österreich	-	-	-	0:48:29.262000	0:48:35.442000	-	4959510
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:35.442000" end="0:48:55.542000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+pah	-	-	-	0:48:39.875000	0:48:40.408000	-	4965124
+13.4	-	-	-	0:48:40.408000	0:48:53.815000	-	4965126
+kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:53.815000	0:48:55.542000	-	4965127
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:53.815000	0:48:55.542000	-	4965128
+nicht	-	-	-	0:48:53.815000	0:48:55.542000	-	4965129
+kann	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:53.815000	0:48:55.542000	-	4965130
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:48:53.815000	0:48:55.542000	-	4965131
+nicht	-	-	-	0:48:53.815000	0:48:55.542000	-	4965132
+beantworten	-	-	-	0:48:53.815000	0:48:55.542000	-	4965133
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:55.542000" end="0:49:06.282000" persName="Informant EXP15" age_lower="1" age_upper="999">
+okay	-	-	-	0:48:55.902000	0:48:57.042000	-	4959515
+die	-	-	-	0:48:57.042000	0:48:58.695000	-	4959518
+letzte	-	-	-	0:48:57.042000	0:48:58.695000	-	4959519
+Frage	-	-	-	0:48:57.042000	0:48:58.695000	-	4959520
+ah	-	-	-	0:48:58.695000	0:49:02.695000	-	4959523
+wie	-	-	-	0:48:58.695000	0:49:02.695000	-	4959524
+sehen	-	-	-	0:48:58.695000	0:49:02.695000	-	4959525
+sie	-	-	-	0:48:58.695000	0:49:02.695000	-	4959526
+die	-	-	-	0:48:58.695000	0:49:02.695000	-	4959527
+Zukunft	-	-	-	0:48:58.695000	0:49:02.695000	-	4959528
+der	-	-	-	0:48:58.695000	0:49:02.695000	-	4959529
+deutschen	-	-	-	0:48:58.695000	0:49:02.695000	-	4959530
+Sprache	-	-	-	0:48:58.695000	0:49:02.695000	-	4959531
+in	-	-	-	0:48:58.695000	0:49:02.695000	-	4959532
+Österreich	-	-	-	0:48:58.695000	0:49:02.695000	-	4959533
+beziehungsweise	-	-	-	0:49:02.695000	0:49:06.282000	-	4959535
+wie	-	-	-	0:49:02.695000	0:49:06.282000	-	4959537
+glauben	-	-	-	0:49:02.695000	0:49:06.282000	-	4959538
+Sie	-	-	-	0:49:02.695000	0:49:06.282000	-	4959539
+wird	-	-	-	0:49:02.695000	0:49:06.282000	-	4959540
+sich	-	-	-	0:49:02.695000	0:49:06.282000	-	4959541
+die	-	-	-	0:49:02.695000	0:49:06.282000	-	4959542
+Sprache	-	-	-	0:49:02.695000	0:49:06.282000	-	4959543
+verändern	-	-	-	0:49:02.695000	0:49:06.282000	-	4959544
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:06.282000" end="0:49:57.161000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+ja	-	-	-	0:49:15.988000	0:49:21.548000	-	4965136
+es	-	-	-	0:49:15.988000	0:49:21.548000	-	4965137
+ist	-	-	-	0:49:15.988000	0:49:21.548000	-	4965138
+schwierige	-	-	-	0:49:15.988000	0:49:21.548000	-	4965139
+Zeit	-	-	-	0:49:15.988000	0:49:21.548000	-	4965140
+um	-	-	-	0:49:15.988000	0:49:21.548000	-	4965141
+so	-	-	-	0:49:15.988000	0:49:21.548000	-	4965142
+zukunftsperspektiven	-	-	-	0:49:15.988000	0:49:21.548000	-	4965143
+zu	-	-	-	0:49:15.988000	0:49:21.548000	-	4965144
+beantworten	-	-	-	0:49:15.988000	0:49:21.548000	-	4965146
+ich	-	-	-	0:49:21.548000	0:49:24.055000	-	4965149
+glaube	-	-	-	0:49:21.548000	0:49:24.055000	-	4965150
+schon	-	-	-	0:49:21.548000	0:49:24.055000	-	4965151
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:49:21.548000	0:49:24.055000	-	4965152
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:49:21.548000	0:49:24.055000	-	4965153
+dass	-	-	-	0:49:26.955000	0:49:30.088000	-	4965156
+Englisch	-	-	-	0:49:26.955000	0:49:30.088000	-	4965157
+einflussreich	-	-	-	0:49:26.955000	0:49:30.088000	-	4965159
+sein	-	-	-	0:49:26.955000	0:49:30.088000	-	4965160
+wird	-	-	-	0:49:26.955000	0:49:30.088000	-	4965161
+dass	-	-	-	0:49:33.595000	0:49:37.582000	-	4965164
+überhaupt	-	-	-	0:49:33.595000	0:49:37.582000	-	4965165
+die	-	-	-	0:49:33.595000	0:49:37.582000	-	4965166
+Leute	-	-	-	0:49:33.595000	0:49:37.582000	-	4965167
+mehr	-	-	-	0:49:33.595000	0:49:37.582000	-	4965168
+Sprachen	-	-	-	0:49:33.595000	0:49:37.582000	-	4965169
+sprechen	-	-	-	0:49:33.595000	0:49:37.582000	-	4965170
+werden	-	-	-	0:49:33.595000	0:49:37.582000	-	4965171
+verschiedene	-	-	-	0:49:33.595000	0:49:37.582000	-	4965172
+wir	-	-	-	0:49:37.582000	0:49:39.368000	-	4965175
+eben	-	-	-	0:49:37.582000	0:49:39.368000	-	4965176
+mehr	-	-	-	0:49:37.582000	0:49:39.368000	-	4965177
+herumkommt	-	-	-	0:49:37.582000	0:49:39.368000	-	4965178
+leicht	-	-	-	0:49:39.368000	0:49:43.248000	-	4965182
+irgendwohin	-	-	-	0:49:39.368000	0:49:43.248000	-	4965183
+verreisen	-	-	-	0:49:39.368000	0:49:43.248000	-	4965184
+kann	-	-	-	0:49:39.368000	0:49:43.248000	-	4965185
+ja	-	-	-	0:49:43.248000	0:49:50.128000	-	4965188
+manchmal	-	-	-	0:49:43.248000	0:49:50.128000	-	4965189
+für	-	-	-	0:49:43.248000	0:49:50.128000	-	4965190
+mich	-	-	-	0:49:43.248000	0:49:50.128000	-	4965191
+selber	-	-	-	0:49:43.248000	0:49:50.128000	-	4965192
+den	-	-	-	0:49:43.248000	0:49:50.128000	-	4965193
+Eindruck	-	-	-	0:49:43.248000	0:49:50.128000	-	4965194
+dass	-	-	-	0:49:43.248000	0:49:50.128000	-	4965195
+man	-	-	-	0:49:43.248000	0:49:50.128000	-	4965196
+eigentlich	-	-	-	0:49:43.248000	0:49:50.128000	-	4965197
+schon	-	-	-	0:49:43.248000	0:49:50.128000	-	4965198
+verpflichtet	-	-	-	0:49:43.248000	0:49:50.128000	-	4965199
+ist	-	-	-	0:49:43.248000	0:49:50.128000	-	4965201
+ein	-	-	-	0:49:43.248000	0:49:50.128000	-	4965202
+Auslandssemester	-	-	-	0:49:43.248000	0:49:50.128000	-	4965203
+zu	-	-	-	0:49:43.248000	0:49:50.128000	-	4965204
+machen	-	-	-	0:49:43.248000	0:49:50.128000	-	4965205
+ich	-	-	-	0:49:43.248000	0:49:50.128000	-	4965206
+habe	-	-	-	0:49:43.248000	0:49:50.128000	-	4965207
+also	-	-	-	0:49:50.128000	0:49:53.342000	-	4965210
+ich	-	-	-	0:49:50.128000	0:49:53.342000	-	4965211
+genier	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:49:50.128000	0:49:53.342000	-	4965212
+mich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit-	0:49:50.128000	0:49:53.342000	-	4965213
+fast	-	-	-	0:49:50.128000	0:49:53.342000	-	4965214
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:49:50.128000	0:49:53.342000	-	4965215
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit-	0:49:50.128000	0:49:53.342000	-	4965216
+keines	-	-	-	0:49:50.128000	0:49:53.342000	-	4965217
+gemacht	-	-	-	0:49:50.128000	0:49:53.342000	-	4965219
+habe	-	-	-	0:49:50.128000	0:49:53.342000	-	4965220
+aber	-	-	-	0:49:53.342000	0:49:56.288000	-	4965223
+ich	-	-	-	0:49:53.342000	0:49:56.288000	-	4965224
+mache	-	-	-	0:49:53.342000	0:49:56.288000	-	4965225
+jetzt	-	-	-	0:49:53.342000	0:49:56.288000	-	4965226
+ein	-	-	-	0:49:53.342000	0:49:56.288000	-	4965227
+keines	-	-	-	0:49:53.342000	0:49:56.288000	-	4965228
+mehr	-	-	-	0:49:53.342000	0:49:56.288000	-	4965229
+muss	-	-	-	0:49:56.288000	0:49:57.161000	-	4965232
+so	-	-	-	0:49:56.288000	0:49:57.161000	-	4965233
+gehen	-	-	-	0:49:56.288000	0:49:57.161000	-	4965234
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:49:57.161000" end="0:49:58.101000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:58.101000" end="0:50:32.695000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+aber	-	-	-	0:49:58.101000	0:50:00.088000	-	4965236
+es	-	-	-	0:49:58.101000	0:50:00.088000	-	4965238
+machen	-	-	-	0:49:58.101000	0:50:00.088000	-	4965239
+sehr	-	-	-	0:49:58.101000	0:50:00.088000	-	4965240
+viele	-	-	-	0:49:58.101000	0:50:00.088000	-	4965241
+ist	-	-	-	0:50:00.088000	0:50:02.695000	-	4965244
+warsch	-	-	-	0:50:00.088000	0:50:02.695000	-	4965245
+es	-	-	-	0:50:00.088000	0:50:02.695000	-	4965246
+ist	-	-	-	0:50:00.088000	0:50:02.695000	-	4965247
+f	-	-	-	0:50:00.088000	0:50:02.695000	-	4965248
+sicher	-	-	-	0:50:00.088000	0:50:02.695000	-	4965250
+eine	-	-	-	0:50:00.088000	0:50:02.695000	-	4965251
+Bereicherung	-	-	-	0:50:00.088000	0:50:02.695000	-	4965253
+es	-	-	-	0:50:02.695000	0:50:05.048000	-	4965255
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:50:02.695000	0:50:05.048000	-	4965257
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:50:02.695000	0:50:05.048000	-	4965258
+auf	-	-	-	0:50:02.695000	0:50:05.048000	-	4965259
+jeden	-	-	-	0:50:02.695000	0:50:05.048000	-	4965260
+Fall	-	-	-	0:50:02.695000	0:50:05.048000	-	4965261
+gar	-	-	-	0:50:05.048000	0:50:07.675000	-	4965264
+nicht	-	-	-	0:50:05.048000	0:50:07.675000	-	4965265
+so	-	-	-	0:50:05.048000	0:50:07.675000	-	4965266
+wegen	-	-	-	0:50:05.048000	0:50:07.675000	-	4965267
+der	-	-	-	0:50:05.048000	0:50:07.675000	-	4965268
+Sprache	-	-	-	0:50:05.048000	0:50:07.675000	-	4965269
+nein	-	-	-	0:50:11.055000	0:50:16.695000	-	4965274
+ja	-	-	-	0:50:11.055000	0:50:16.695000	-	4965275
+dass	-	-	-	0:50:11.055000	0:50:16.695000	-	4965276
+f	-	-	-	0:50:11.055000	0:50:16.695000	-	4965277
+die	-	-	-	0:50:11.055000	0:50:16.695000	-	4965279
+Franzosen	-	-	-	0:50:11.055000	0:50:16.695000	-	4965280
+haben	-	-	-	0:50:11.055000	0:50:16.695000	-	4965281
+ja	-	-	-	0:50:11.055000	0:50:16.695000	-	4965282
+eigene	-	-	-	0:50:11.055000	0:50:16.695000	-	4965284
+Institution	-	-	-	0:50:11.055000	0:50:16.695000	-	4965286
+die	-	-	-	0:50:11.055000	0:50:16.695000	-	4965287
+über	-	-	-	0:50:11.055000	0:50:16.695000	-	4965288
+die	-	-	-	0:50:11.055000	0:50:16.695000	-	4965289
+Sprache	-	-	-	0:50:11.055000	0:50:16.695000	-	4965290
+wacht	-	-	-	0:50:11.055000	0:50:16.695000	-	4965291
+was	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:50:16.695000	0:50:17.501000	-	4965294
+ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:50:16.695000	0:50:17.501000	-	4965295
+wass	-	-	-	0:50:16.695000	0:50:17.501000	-	4965296
+und	-	-	-	0:50:17.501000	0:50:20.035000	-	4965299
+die	-	-	-	0:50:17.501000	0:50:20.035000	-	4965300
+aufpasst	-	-	-	0:50:17.501000	0:50:20.035000	-	4965301
+dass	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:50:17.501000	0:50:20.035000	-	4965302
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit-	0:50:17.501000	0:50:20.035000	-	4965303
+eh	-	-	-	0:50:17.501000	0:50:20.035000	-	4965304
+Französisch	-	-	-	0:50:17.501000	0:50:20.035000	-	4965305
+bleibt	-	-	-	0:50:17.501000	0:50:20.035000	-	4965306
+also	-	-	-	0:50:22.435000	0:50:24.495000	-	4965309
+ich	-	-	-	0:50:22.435000	0:50:24.495000	-	4965310
+glaube	-	-	-	0:50:22.435000	0:50:24.495000	-	4965311
+bei	-	-	-	0:50:22.435000	0:50:24.495000	-	4965313
+uns	-	-	-	0:50:22.435000	0:50:24.495000	-	4965314
+wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:50:22.435000	0:50:24.495000	-	4965315
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:50:22.435000	0:50:24.495000	-	4965316
+immer	-	-	-	0:50:22.435000	0:50:24.495000	-	4965317
+wird	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:50:27.315000	0:50:28.541000	-	4965320
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:50:27.315000	0:50:28.541000	-	4965321
+immer	-	-	-	0:50:27.315000	0:50:28.541000	-	4965322
+Einflüsse	-	-	-	0:50:27.315000	0:50:28.541000	-	4965323
+geben	-	-	-	0:50:27.315000	0:50:28.541000	-	4965324
+eher	-	-	-	0:50:28.541000	0:50:31.208000	-	4965327
+wahrscheinlich	-	-	-	0:50:28.541000	0:50:31.208000	-	4965328
+Englisch	-	-	-	0:50:28.541000	0:50:31.208000	-	4965329
+am	-	-	-	0:50:28.541000	0:50:31.208000	-	4965330
+am	-	-	-	0:50:28.541000	0:50:31.208000	-	4965331
+meisten	-	-	-	0:50:28.541000	0:50:31.208000	-	4965332
+glaube	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:50:31.208000	0:50:32.695000	-	4965334
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:50:31.208000	0:50:32.695000	-	4965335
+schon	-	-	-	0:50:31.208000	0:50:32.695000	-	4965336
+dass	-	-	-	0:50:31.208000	0:50:32.695000	-	4965337
+das	-	-	-	0:50:31.208000	0:50:32.695000	-	4965338
+so	-	-	-	0:50:31.208000	0:50:32.695000	-	4965339
+bleiben	-	-	-	0:50:31.208000	0:50:32.695000	-	4965340
+wird	-	-	-	0:50:31.208000	0:50:32.695000	-	4965341
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:50:32.695000" end="0:50:33.935000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:50:33.935000" end="0:51:36.855000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+aber	-	-	-	0:50:38.088000	0:50:38.708000	-	4965344
+ja	-	-	-	0:50:42.108000	0:50:45.688000	-	4965347
+es	-	-	-	0:50:42.108000	0:50:45.688000	-	4965348
+ist	-	-	-	0:50:42.108000	0:50:45.688000	-	4965349
+ich	-	-	-	0:50:42.108000	0:50:45.688000	-	4965351
+bin	-	-	-	0:50:42.108000	0:50:45.688000	-	4965352
+em	-	-	-	0:50:42.108000	0:50:45.688000	-	4965353
+viel	-	-	-	0:50:42.108000	0:50:45.688000	-	4965354
+in	-	-	-	0:50:42.108000	0:50:45.688000	-	4965355
+ORT	ORT	-	-	0:50:42.108000	0:50:45.688000	ORT	4965356
+unterwegs	-	-	-	0:50:42.108000	0:50:45.688000	-	4965357
+und	-	-	-	0:50:45.688000	0:50:50.461000	-	4965360
+höre	-	-	-	0:50:45.688000	0:50:50.461000	-	4965362
+viel	-	-	-	0:50:45.688000	0:50:50.461000	-	4965363
+Leute	-	-	-	0:50:45.688000	0:50:50.461000	-	4965364
+em	-	-	-	0:50:45.688000	0:50:50.461000	-	4965365
+mit	-	-	-	0:50:45.688000	0:50:50.461000	-	4965366
+Migrationshintergrund	-	-	-	0:50:45.688000	0:50:50.461000	-	4965367
+grammatikalisch	-	-	-	0:50:50.461000	0:50:52.675000	-	4965370
+halt	-	-	-	0:50:50.461000	0:50:52.675000	-	4965371
+Sachen	-	-	-	0:50:50.461000	0:50:52.675000	-	4965372
+verdrehen	-	-	-	0:50:50.461000	0:50:52.675000	-	4965373
+und	-	-	-	0:50:52.675000	0:50:55.221000	-	4965376
+Sätze	-	-	-	0:50:52.675000	0:50:55.221000	-	4965378
+anders	-	-	-	0:50:52.675000	0:50:55.221000	-	4965379
+aussprechen	-	-	-	0:50:52.675000	0:50:55.221000	-	4965380
+und	-	-	-	0:50:55.221000	0:50:59.108000	-	4965383
+da	-	-	-	0:50:55.221000	0:50:59.108000	-	4965384
+fra	-	-	-	0:50:55.221000	0:50:59.108000	-	4965385
+ich	-	-	-	0:50:55.221000	0:50:59.108000	-	4965386
+frage	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:50:55.221000	0:50:59.108000	-	4965387
+mich	-	-	?klit KlitBasis KlitPron KlitReal PronForm V+Kl _mich	0:50:55.221000	0:50:59.108000	-	4965388
+dann	-	-	-	0:50:55.221000	0:50:59.108000	-	4965389
+schon	-	-	-	0:50:55.221000	0:50:59.108000	-	4965390
+hin	-	-	-	0:50:55.221000	0:50:59.108000	-	4965391
+und	-	-	-	0:50:55.221000	0:50:59.108000	-	4965392
+wieder	-	-	-	0:50:55.221000	0:50:59.108000	-	4965393
+ob	-	-	-	0:50:59.108000	0:51:06.015000	-	4965396
+ob	-	-	-	0:50:59.108000	0:51:06.015000	-	4965398
+das	-	-	-	0:50:59.108000	0:51:06.015000	-	4965399
+so	-	-	-	0:50:59.108000	0:51:06.015000	-	4965400
+äh	-	-	-	0:50:59.108000	0:51:06.015000	-	4965402
+so	-	-	-	0:50:59.108000	0:51:06.015000	-	4965404
+wie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:50:59.108000	0:51:06.015000	-	4965405
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:50:59.108000	0:51:06.015000	-	4965406
+jetzt	-	-	-	0:50:59.108000	0:51:06.015000	-	4965407
+ist	-	-	-	0:50:59.108000	0:51:06.015000	-	4965408
+bleiben	-	-	-	0:50:59.108000	0:51:06.015000	-	4965409
+wird	-	-	-	0:50:59.108000	0:51:06.015000	-	4965410
+oder	-	-	-	0:51:06.015000	0:51:12.728000	-	4965412
+ob	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:51:06.015000	0:51:12.728000	-	4965413
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:51:06.015000	0:51:12.728000	-	4965414
+irgendwann	-	-	-	0:51:06.015000	0:51:12.728000	-	4965415
+da	-	-	-	0:51:06.015000	0:51:12.728000	-	4965417
+ob	-	-	-	0:51:06.015000	0:51:12.728000	-	4965419
+die	-	-	-	0:51:06.015000	0:51:12.728000	-	4965420
+Regeln	-	-	-	0:51:06.015000	0:51:12.728000	-	4965421
+quasi	-	-	-	0:51:06.015000	0:51:12.728000	-	4965422
+so	-	-	-	0:51:06.015000	0:51:12.728000	-	4965423
+vereinfacht	-	-	-	0:51:06.015000	0:51:12.728000	-	4965424
+werden	-	-	-	0:51:06.015000	0:51:12.728000	-	4965425
+dann	-	-	-	0:51:12.728000	0:51:15.048000	-	4965429
+eh	-	-	-	0:51:12.728000	0:51:15.048000	-	4965430
+alles	-	-	-	0:51:12.728000	0:51:15.048000	-	4965431
+egal	-	-	-	0:51:12.728000	0:51:15.048000	-	4965432
+is	-	-	-	0:51:12.728000	0:51:15.048000	-	4965433
+dass	-	-	-	0:51:15.048000	0:51:20.475000	-	4965436
+die	-	-	-	0:51:15.048000	0:51:20.475000	-	4965437
+dass	-	-	-	0:51:15.048000	0:51:20.475000	-	4965439
+man	-	-	-	0:51:15.048000	0:51:20.475000	-	4965440
+dann	-	-	-	0:51:15.048000	0:51:20.475000	-	4965441
+einen	-	-	-	0:51:15.048000	0:51:20.475000	-	4965442
+Satz	-	-	-	0:51:15.048000	0:51:20.475000	-	4965443
+bauen	-	-	-	0:51:15.048000	0:51:20.475000	-	4965444
+kann	-	-	-	0:51:15.048000	0:51:20.475000	-	4965445
+wie	-	-	-	0:51:15.048000	0:51:20.475000	-	4965446
+man	-	-	-	0:51:15.048000	0:51:20.475000	-	4965447
+möchte	-	-	-	0:51:15.048000	0:51:20.475000	-	4965449
+Einheimischen	-	-	-	0:51:20.475000	0:51:25.968000	-	4965453
+sprechen	-	-	-	0:51:20.475000	0:51:25.968000	-	4965454
+auch	-	-	-	0:51:20.475000	0:51:25.968000	-	4965455
+mit	-	-	-	0:51:20.475000	0:51:25.968000	-	4965456
+Leuten	-	-	-	0:51:20.475000	0:51:25.968000	-	4965457
+mit	-	-	-	0:51:20.475000	0:51:25.968000	-	4965458
+Migrationshintergrund	-	-	-	0:51:20.475000	0:51:25.968000	-	4965460
+passen	-	-	-	0:51:25.968000	0:51:27.355000	-	4965462
+sich	-	-	-	0:51:25.968000	0:51:27.355000	-	4965463
+dann	-	-	-	0:51:25.968000	0:51:27.355000	-	4965464
+dem	-	-	-	0:51:25.968000	0:51:27.355000	-	4965465
+an	-	-	-	0:51:25.968000	0:51:27.355000	-	4965466
+und	-	-	-	0:51:27.355000	0:51:29.755000	-	4965469
+verdrehen	-	-	-	0:51:27.355000	0:51:29.755000	-	4965470
+die	-	-	-	0:51:27.355000	0:51:29.755000	-	4965471
+Sätze	-	-	-	0:51:27.355000	0:51:29.755000	-	4965472
+auch	-	-	-	0:51:27.355000	0:51:29.755000	-	4965473
+so	-	-	-	0:51:27.355000	0:51:29.755000	-	4965474
+und	-	-	-	0:51:29.755000	0:51:32.628000	-	4965477
+glauben	-	-	-	0:51:29.755000	0:51:32.628000	-	4965478
+Sie	-	-	-	0:51:29.755000	0:51:32.628000	-	4965479
+sind	-	-	-	0:51:29.755000	0:51:32.628000	-	4965480
+dann	-	-	-	0:51:29.755000	0:51:32.628000	-	4965481
+besser	-	-	-	0:51:29.755000	0:51:32.628000	-	4965482
+verständlich	-	-	-	0:51:29.755000	0:51:32.628000	-	4965483
+das	-	-	-	0:51:34.975000	0:51:36.401000	-	4965486
+macht	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:51:34.975000	0:51:36.401000	-	4965487
+man	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mir klit+	0:51:34.975000	0:51:36.401000	-	4965488
+schon	-	-	-	0:51:34.975000	0:51:36.401000	-	4965489
+ein	-	-	-	0:51:34.975000	0:51:36.401000	-	4965490
+bisschen	-	-	-	0:51:34.975000	0:51:36.401000	-	4965491
+Sorgen	-	-	-	0:51:34.975000	0:51:36.401000	-	4965492
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:36.855000" end="0:51:37.448000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:36.855000" end="0:51:41.888000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+<<lachend>	-	-	-	0:51:36.855000	0:51:41.888000	-	4965496
+wei>	-	-	-	0:51:36.855000	0:51:41.888000	-	4965497
+da	-	-	-	0:51:36.855000	0:51:41.888000	-	4965499
+ist	-	-	-	0:51:36.855000	0:51:41.888000	-	4965500
+dann	-	-	-	0:51:36.855000	0:51:41.888000	-	4965501
+schon	-	-	-	0:51:36.855000	0:51:41.888000	-	4965502
+alles	-	-	-	0:51:36.855000	0:51:41.888000	-	4965503
+irgendwie	-	-	-	0:51:36.855000	0:51:41.888000	-	4965504
+egal	-	-	-	0:51:36.855000	0:51:41.888000	-	4965506
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:39.068000" end="0:51:39.781000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:41.888000" end="0:51:58.915000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+so	-	-	-	0:51:41.888000	0:51:43.795000	-	4965509
+bei	-	-	-	0:51:41.888000	0:51:43.795000	-	4965510
+der	-	-	-	0:51:41.888000	0:51:43.795000	-	4965511
+Rechtschreibung	-	-	-	0:51:41.888000	0:51:43.795000	-	4965512
+ist	-	-	-	0:51:41.888000	0:51:43.795000	-	4965513
+au	-	-	-	0:51:41.888000	0:51:43.795000	-	4965514
+kenne	-	-	-	0:51:43.795000	0:51:46.921000	-	4965517
+viel	-	-	-	0:51:43.795000	0:51:46.921000	-	4965518
+Leute	-	-	-	0:51:43.795000	0:51:46.921000	-	4965519
+die	-	-	-	0:51:43.795000	0:51:46.921000	-	4965520
+sagen	-	-	-	0:51:43.795000	0:51:46.921000	-	4965521
+ja	-	-	-	0:51:43.795000	0:51:46.921000	-	4965522
+ich	-	-	-	0:51:43.795000	0:51:46.921000	-	4965523
+schreibe	-	-	-	0:51:43.795000	0:51:46.921000	-	4965524
+jetzt	-	-	-	0:51:43.795000	0:51:46.921000	-	4965525
+schon	-	-	-	0:51:43.795000	0:51:46.921000	-	4965526
+wie	-	-	-	0:51:43.795000	0:51:46.921000	-	4965527
+ich	-	-	-	0:51:43.795000	0:51:46.921000	-	4965528
+will	-	-	-	0:51:43.795000	0:51:46.921000	-	4965529
+es	-	-	-	0:51:46.921000	0:51:49.555000	-	4965532
+weiß	-	-	-	0:51:46.921000	0:51:49.555000	-	4965534
+eh	-	-	-	0:51:46.921000	0:51:49.555000	-	4965535
+niemand	-	-	-	0:51:46.921000	0:51:49.555000	-	4965536
+mehr	-	-	-	0:51:46.921000	0:51:49.555000	-	4965537
+es	-	-	-	0:51:49.555000	0:51:51.015000	-	4965540
+jetzt	-	-	-	0:51:49.555000	0:51:51.015000	-	4965541
+neue	-	-	-	0:51:49.555000	0:51:51.015000	-	4965542
+Rechtschreibung	-	-	-	0:51:49.555000	0:51:51.015000	-	4965543
+alte	-	-	-	0:51:51.015000	0:51:52.708000	-	4965547
+es	-	-	-	0:51:52.708000	0:51:54.101000	-	4965550
+kennt	-	-	-	0:51:52.708000	0:51:54.101000	-	4965551
+sich	-	-	-	0:51:52.708000	0:51:54.101000	-	4965552
+kaum	-	-	-	0:51:52.708000	0:51:54.101000	-	4965553
+mehr	-	-	-	0:51:52.708000	0:51:54.101000	-	4965554
+wer	-	-	-	0:51:52.708000	0:51:54.101000	-	4965555
+aus	-	-	-	0:51:52.708000	0:51:54.101000	-	4965556
+schreibe	-	-	-	0:51:54.101000	0:51:55.828000	-	4965559
+jetzt	-	-	-	0:51:54.101000	0:51:55.828000	-	4965560
+so	-	-	-	0:51:54.101000	0:51:55.828000	-	4965561
+wie	-	-	-	0:51:54.101000	0:51:55.828000	-	4965562
+es	-	-	-	0:51:54.101000	0:51:55.828000	-	4965563
+pf	-	-	-	0:51:54.101000	0:51:55.828000	-	4965565
+es	-	-	-	0:51:55.828000	0:51:57.155000	-	4965568
+ist	-	-	-	0:51:55.828000	0:51:57.155000	-	4965569
+eh	-	-	-	0:51:55.828000	0:51:57.155000	-	4965570
+immer	-	-	-	0:51:55.828000	0:51:57.155000	-	4965571
+ist	-	-	-	0:51:57.155000	0:51:58.915000	-	4965574
+ein	-	-	-	0:51:57.155000	0:51:58.915000	-	4965576
+bisschen	-	-	-	0:51:57.155000	0:51:58.915000	-	4965577
+falsch	-	-	-	0:51:57.155000	0:51:58.915000	-	4965578
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:51:58.195000" end="0:51:58.535000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:58.915000" end="0:53:08.021000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+aber	-	-	-	0:51:58.915000	0:52:03.195000	-	4965582
+das	-	-	-	0:51:58.915000	0:52:03.195000	-	4965583
+ich	-	-	-	0:51:58.915000	0:52:03.195000	-	4965584
+irgendwie	-	-	-	0:51:58.915000	0:52:03.195000	-	4965585
+ist	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:51:58.915000	0:52:03.195000	-	4965586
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit-	0:51:58.915000	0:52:03.195000	-	4965587
+auch	-	-	-	0:51:58.915000	0:52:03.195000	-	4965588
+schade	-	-	-	0:51:58.915000	0:52:03.195000	-	4965589
+also	-	-	-	0:52:03.195000	0:52:06.308000	-	4965592
+wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:52:03.195000	0:52:06.308000	-	4965593
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:52:03.195000	0:52:06.308000	-	4965594
+bei	-	-	-	0:52:03.195000	0:52:06.308000	-	4965595
+der	-	-	-	0:52:03.195000	0:52:06.308000	-	4965596
+Sprache	-	-	-	0:52:03.195000	0:52:06.308000	-	4965597
+so	-	-	-	0:52:03.195000	0:52:06.308000	-	4965598
+wäre	-	-	-	0:52:03.195000	0:52:06.308000	-	4965599
+also	-	-	-	0:52:06.308000	0:52:13.555000	-	4965602
+ich	-	-	-	0:52:06.308000	0:52:13.555000	-	4965603
+finde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:52:06.308000	0:52:13.555000	-	4965604
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:52:06.308000	0:52:13.555000	-	4965605
+schon	-	-	-	0:52:06.308000	0:52:13.555000	-	4965606
+gut	-	-	-	0:52:06.308000	0:52:13.555000	-	4965607
+wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:52:06.308000	0:52:13.555000	-	4965608
+es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:52:06.308000	0:52:13.555000	-	4965609
+relativ	-	-	-	0:52:06.308000	0:52:13.555000	-	4965611
+klar	-	-	-	0:52:06.308000	0:52:13.555000	-	4965612
+ist	-	-	-	0:52:06.308000	0:52:13.555000	-	4965613
+vom	-	-	-	0:52:13.555000	0:52:16.275000	-	4965616
+als	-	-	-	0:52:13.555000	0:52:16.275000	-	4965617
+grammatikalisch	-	-	-	0:52:13.555000	0:52:16.275000	-	4965618
+jetzt	-	-	-	0:52:13.555000	0:52:16.275000	-	4965619
+oder	-	-	-	0:52:13.555000	0:52:16.275000	-	4965620
+so	-	-	-	0:52:13.555000	0:52:16.275000	-	4965621
+ich	-	-	-	0:52:18.975000	0:52:20.975000	-	4965624
+finde	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:52:18.975000	0:52:20.975000	-	4965625
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(akk.) klit+	0:52:18.975000	0:52:20.975000	-	4965626
+auch	-	-	-	0:52:18.975000	0:52:20.975000	-	4965627
+gut	-	-	-	0:52:18.975000	0:52:20.975000	-	4965628
+wenn	-	-	-	0:52:18.975000	0:52:20.975000	-	4965629
+also	-	-	-	0:52:20.975000	0:52:26.621000	-	4965632
+ich	-	-	-	0:52:20.975000	0:52:26.621000	-	4965633
+habe	-	-	-	0:52:20.975000	0:52:26.621000	-	4965634
+sehr	-	-	-	0:52:20.975000	0:52:26.621000	-	4965635
+viel	-	-	-	0:52:20.975000	0:52:26.621000	-	4965636
+Respekt	-	-	-	0:52:20.975000	0:52:26.621000	-	4965637
+vor	-	-	-	0:52:20.975000	0:52:26.621000	-	4965638
+Leuten	-	-	-	0:52:20.975000	0:52:26.621000	-	4965639
+die	-	-	-	0:52:20.975000	0:52:26.621000	-	4965641
+immigrieren	-	-	-	0:52:20.975000	0:52:26.621000	-	4965643
+die	-	-	-	0:52:26.621000	0:52:30.488000	-	4965646
+die	-	-	-	0:52:26.621000	0:52:30.488000	-	4965647
+das	-	-	-	0:52:26.621000	0:52:30.488000	-	4965648
+schnell	-	-	-	0:52:26.621000	0:52:30.488000	-	4965649
+gut	-	-	-	0:52:26.621000	0:52:30.488000	-	4965651
+drauf	-	-	-	0:52:26.621000	0:52:30.488000	-	4965652
+haben	-	-	-	0:52:26.621000	0:52:30.488000	-	4965653
+habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:52:31.935000	0:52:34.308000	-	4965657
+ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit-	0:52:31.935000	0:52:34.308000	-	4965658
+viel	-	-	-	0:52:31.935000	0:52:34.308000	-	4965659
+Respekt	-	-	-	0:52:31.935000	0:52:34.308000	-	4965660
+weil	-	-	-	0:52:34.308000	0:52:36.721000	-	4965663
+es	-	-	-	0:52:34.308000	0:52:36.721000	-	4965664
+geich	-	-	-	0:52:34.308000	0:52:36.721000	-	4965665
+es	-	-	-	0:52:34.308000	0:52:36.721000	-	4965666
+gibt	-	-	-	0:52:34.308000	0:52:36.721000	-	4965667
+sicher	-	-	-	0:52:34.308000	0:52:36.721000	-	4965668
+einige	-	-	-	0:52:34.308000	0:52:36.721000	-	4965669
+ich	-	-	-	0:52:36.721000	0:52:39.001000	-	4965672
+habe	-	-	-	0:52:36.721000	0:52:39.001000	-	4965673
+in	-	-	-	0:52:36.721000	0:52:39.001000	-	4965674
+da	-	-	-	0:52:36.721000	0:52:39.001000	-	4965675
+Oberstufe	-	-	-	0:52:36.721000	0:52:39.001000	-	4965676
+es	-	-	-	0:52:39.001000	0:52:42.121000	-	4965679
+war	-	-	-	0:52:39.001000	0:52:42.121000	-	4965680
+ein	-	-	-	0:52:39.001000	0:52:42.121000	-	4965681
+sehr	-	-	-	0:52:39.001000	0:52:42.121000	-	4965682
+sehr	-	-	-	0:52:39.001000	0:52:42.121000	-	4965683
+bunt	-	-	-	0:52:39.001000	0:52:42.121000	-	4965684
+gemischte	-	-	-	0:52:39.001000	0:52:42.121000	-	4965685
+Klasse	-	-	-	0:52:39.001000	0:52:42.121000	-	4965686
+es	-	-	-	0:52:42.121000	0:52:44.995000	-	4965688
+war	-	-	-	0:52:42.121000	0:52:44.995000	-	4965689
+der	-	-	-	0:52:42.121000	0:52:44.995000	-	4965691
+Nachteil	-	-	-	0:52:42.121000	0:52:44.995000	-	4965692
+dass	-	-	-	0:52:42.121000	0:52:44.995000	-	4965693
+kaum	-	-	-	0:52:42.121000	0:52:44.995000	-	4965694
+Gemeinschaft	-	-	-	0:52:42.121000	0:52:44.995000	-	4965695
+da	-	-	-	0:52:42.121000	0:52:44.995000	-	4965696
+war	-	-	-	0:52:42.121000	0:52:44.995000	-	4965697
+da	-	-	-	0:52:44.995000	0:52:50.601000	-	4965700
+Vorteil	-	-	-	0:52:44.995000	0:52:50.601000	-	4965701
+man	-	-	-	0:52:44.995000	0:52:50.601000	-	4965702
+halt	-	-	-	0:52:44.995000	0:52:50.601000	-	4965703
+sehr	-	-	-	0:52:44.995000	0:52:50.601000	-	4965704
+viele	-	-	-	0:52:44.995000	0:52:50.601000	-	4965705
+Kulturen	-	-	-	0:52:44.995000	0:52:50.601000	-	4965707
+wenn	-	-	-	0:52:44.995000	0:52:50.601000	-	4965708
+man	-	-	-	0:52:44.995000	0:52:50.601000	-	4965709
+das	-	-	-	0:52:44.995000	0:52:50.601000	-	4965710
+so	-	-	-	0:52:44.995000	0:52:50.601000	-	4965711
+sagen	-	-	-	0:52:44.995000	0:52:50.601000	-	4965712
+kann	-	-	-	0:52:44.995000	0:52:50.601000	-	4965713
+sehr	-	-	-	0:52:50.601000	0:52:53.795000	-	4965716
+viel	-	-	-	0:52:50.601000	0:52:53.795000	-	4965717
+Leute	-	-	-	0:52:50.601000	0:52:53.795000	-	4965718
+zammkommen	-	-	-	0:52:50.601000	0:52:53.795000	-	4965719
+von	-	-	-	0:52:50.601000	0:52:53.795000	-	4965720
+weiß	-	-	-	0:52:50.601000	0:52:53.795000	-	4965722
+Gott	-	-	-	0:52:50.601000	0:52:53.795000	-	4965723
+wo	-	-	-	0:52:50.601000	0:52:53.795000	-	4965724
+Ungarn	-	-	-	0:52:53.795000	0:52:55.421000	-	4965727
+äh	-	-	-	0:52:55.421000	0:52:58.761000	-	4965730
+und	-	-	-	0:52:55.421000	0:52:58.761000	-	4965731
+sehr	-	-	-	0:52:55.421000	0:52:58.761000	-	4965732
+viel	-	-	-	0:52:55.421000	0:52:58.761000	-	4965733
+China	-	-	-	0:52:55.421000	0:52:58.761000	-	4965735
+und	-	-	-	0:52:58.761000	0:53:03.108000	-	4965738
+da	-	-	-	0:52:58.761000	0:53:03.108000	-	4965740
+hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:52:58.761000	0:53:03.108000	-	4965741
+es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:52:58.761000	0:53:03.108000	-	4965742
+chinesinnen	-	-	-	0:52:58.761000	0:53:03.108000	-	4965744
+geben	-	-	-	0:52:58.761000	0:53:03.108000	-	4965745
+die	-	-	-	0:53:03.108000	0:53:05.615000	-	4965747
+eigentlich	-	-	-	0:53:03.108000	0:53:05.615000	-	4965748
+fast	-	-	-	0:53:03.108000	0:53:05.615000	-	4965749
+NAME	NAME	-	-	0:53:03.108000	0:53:05.615000	NAME	4965750
+gesprochen	-	-	-	0:53:03.108000	0:53:05.615000	-	4965751
+haben	-	-	-	0:53:03.108000	0:53:05.615000	-	4965752
+das	-	-	-	0:53:05.615000	0:53:07.701000	-	4965755
+war	-	-	-	0:53:05.615000	0:53:07.701000	-	4965756
+absolut	-	-	-	0:53:05.615000	0:53:07.701000	-	4965758
+ein	-	-	-	0:53:05.615000	0:53:07.701000	-	4965759
+attraktion	-	-	-	0:53:05.615000	0:53:07.701000	-	4965760
+also	-	-	-	0:53:07.701000	0:53:08.021000	-	4965762
+ich	-	-	-	0:53:07.701000	0:53:08.021000	-	4965763
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:53:08.021000" end="0:53:09.088000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:09.088000" end="0:53:20.195000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
+das	-	-	-	0:53:09.088000	0:53:10.328000	-	4965766
+war	-	-	-	0:53:09.088000	0:53:10.328000	-	4965767
+echt	-	-	-	0:53:09.088000	0:53:10.328000	-	4965768
+super	-	-	-	0:53:09.088000	0:53:10.328000	-	4965769
+manche	-	-	-	0:53:10.328000	0:53:14.121000	-	4965772
+anderen	-	-	-	0:53:10.328000	0:53:14.121000	-	4965773
+die	-	-	-	0:53:10.328000	0:53:14.121000	-	4965774
+nicht	-	-	-	0:53:10.328000	0:53:14.121000	-	4965776
+einmal	-	-	-	0:53:10.328000	0:53:14.121000	-	4965777
+Deutsch	-	-	-	0:53:10.328000	0:53:14.121000	-	4965778
+gesprochen	-	-	-	0:53:10.328000	0:53:14.121000	-	4965779
+haben	-	-	-	0:53:10.328000	0:53:14.121000	-	4965780
+und	-	-	-	0:53:14.121000	0:53:17.121000	-	4965783
+dann	-	-	-	0:53:14.121000	0:53:17.121000	-	4965784
+wieder	-	-	-	0:53:14.121000	0:53:17.121000	-	4965785
+ein	-	-	-	0:53:14.121000	0:53:17.121000	-	4965786
+einige	-	-	-	0:53:14.121000	0:53:17.121000	-	4965787
+wenige	-	-	-	0:53:14.121000	0:53:17.121000	-	4965788
+die	-	-	-	0:53:17.121000	0:53:20.195000	-	4965791
+mit	-	-	-	0:53:17.121000	0:53:20.195000	-	4965793
+dir	-	-	-	0:53:17.121000	0:53:20.195000	-	4965794
+NAME	NAME	-	-	0:53:17.121000	0:53:20.195000	NAME	4965795
+geredet	-	-	-	0:53:17.121000	0:53:20.195000	-	4965796
+haben	-	-	-	0:53:17.121000	0:53:20.195000	-	4965797
+</u>
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:53:20.195000" end="0:53:29.188000" persName="Informant EXP15" age_lower="1" age_upper="999">
+</u>
+<u who="spk_695" sex="male" age="jung (20-30) männlich" name="Informant 4057" subproject="PP04" standard_competence="4" dialect_competence="5" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:20.195000" end="0:53:29.188000" persName="Informant 4057" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" affiliation="PP04" age_lower="20" age_upper="30">
 </u>
 </file>
 </doc>
