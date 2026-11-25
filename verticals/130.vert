@@ -9012,7 +9012,7 @@ ich	-	-	-	0:33:53.058000	0:33:53.450000	-	5466061
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:53.450000" end="0:33:56.007000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:33:53.450000	0:33:54.823000	SONSTIGE	6735940
 Person	-	-	-	0:33:53.450000	0:33:54.823000	-	6735941
-: ja	-	-	-	0:33:53.450000	0:33:54.823000	-	6735942
+: ja	-	-	-	0:33:53.450000	0:33:54.823000	-	6735942
 den	-	-	-	0:33:53.450000	0:33:54.823000	-	6735943
 haben	-	-	-	0:33:53.450000	0:33:54.823000	-	6735944
 sie	-	-	-	0:33:53.450000	0:33:54.823000	-	6735945
@@ -9229,7 +9229,7 @@ mhm	-	-	-	0:34:31.274000	0:34:32.114000	-	5466197
 .	-	-	-	0:34:31.274000	0:34:32.114000	-	5466198
 SONSTIGE	SONSTIGE	-	-	0:34:32.114000	0:34:33.108000	SONSTIGE	6735981
 Person	-	-	-	0:34:32.114000	0:34:33.108000	-	6735982
-: sogar	-	-	-	0:34:32.114000	0:34:33.108000	-	6735983
+: sogar	-	-	-	0:34:32.114000	0:34:33.108000	-	6735983
 drei	-	-	-	0:34:32.114000	0:34:33.108000	-	6735984
 Tage	-	-	-	0:34:32.114000	0:34:33.108000	-	6735985
 Fest	-	-	-	0:34:32.114000	0:34:33.108000	-	6735986
@@ -9258,7 +9258,7 @@ ein	-	-	-	0:34:37.572000	0:34:38.893000	-	5466206
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:34:38.893000" end="0:34:39.924000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:34:38.893000	0:34:39.924000	SONSTIGE	6735998
 Person	-	-	-	0:34:38.893000	0:34:39.924000	-	6735999
-: jedes	-	-	-	0:34:38.893000	0:34:39.924000	-	6736000
+: jedes	-	-	-	0:34:38.893000	0:34:39.924000	-	6736000
 Jahr	-	-	-	0:34:38.893000	0:34:39.924000	-	6736001
 ein	-	-	-	0:34:38.893000	0:34:39.924000	-	6736002
 anderer	-	-	-	0:34:38.893000	0:34:39.924000	-	6736003
@@ -9446,7 +9446,7 @@ der	-	-	-	0:35:10.680000	0:35:11.599000	-	5471163
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:35:11.599000" end="0:35:12.126000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:35:11.599000	0:35:12.126000	SONSTIGE	6736072
 Person	-	-	-	0:35:11.599000	0:35:12.126000	-	6736073
-: und	-	-	-	0:35:11.599000	0:35:12.126000	-	6736074
+: und	-	-	-	0:35:11.599000	0:35:12.126000	-	6736074
 dann	-	-	-	0:35:11.599000	0:35:12.126000	-	6736075
 </u>
 <u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" subproject="PP03" standard_competence="5" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:11.599000" end="0:35:12.126000" persName="Informant 0330" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -9980,7 +9980,7 @@ auch	-	-	-	0:36:39.752000	0:36:40.208000	-	5466631
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:36:40.208000" end="0:36:40.822000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:36:40.208000	0:36:40.542000	SONSTIGE	6736125
 Person	-	-	-	0:36:40.208000	0:36:40.542000	-	6736126
-: er	-	-	-	0:36:40.208000	0:36:40.542000	-	6736127
+: er	-	-	-	0:36:40.208000	0:36:40.542000	-	6736127
 fragt	-	-	-	0:36:40.208000	0:36:40.542000	-	6736128
 bei	-	-	-	0:36:40.542000	0:36:40.822000	-	6736129
 mir	-	-	-	0:36:40.542000	0:36:40.822000	-	6736130
@@ -10171,7 +10171,7 @@ ja	-	-	-	0:37:13.833000	0:37:14.032000	-	5466763
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:14.032000" end="0:37:15.175000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:37:14.032000	0:37:14.543000	SONSTIGE	6736142
 Person	-	-	-	0:37:14.032000	0:37:14.543000	-	6736143
-: zu	-	-	-	0:37:14.032000	0:37:14.543000	-	6736144
+: zu	-	-	-	0:37:14.032000	0:37:14.543000	-	6736144
 mir	-	-	-	0:37:14.032000	0:37:14.543000	-	6736145
 SONSTIGE	SONSTIGE	-	-	0:37:14.032000	0:37:14.543000	SONSTIGE	6736146
 ja	-	-	-	0:37:14.543000	0:37:15.175000	-	5466767
@@ -10345,7 +10345,7 @@ nicht	-	-	-	0:37:35.395000	0:37:35.879000	-	5466830
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:37:35.879000" end="0:37:37.766000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:37:35.879000	0:37:37.371000	SONSTIGE	6736193
 Person	-	-	-	0:37:35.879000	0:37:37.371000	-	6736194
-: Dienstag	-	-	-	0:37:35.879000	0:37:37.371000	-	6736195
+: Dienstag	-	-	-	0:37:35.879000	0:37:37.371000	-	6736195
 ö/	-	-	-	0:37:35.879000	0:37:37.371000	-	6736196
 SONSTIGE	SONSTIGE	-	-	0:37:35.879000	0:37:37.371000	SONSTIGE	6736197
 ja	-	-	-	0:37:37.371000	0:37:37.766000	-	5466835
@@ -12123,7 +12123,7 @@ wie	-	-	-	0:43:48.992000	0:43:49.457000	-	5468168
 ?	-	-	-	0:43:48.992000	0:43:49.457000	-	5468169
 SONSTIGE	SONSTIGE	-	-	0:43:49.457000	0:43:50.387000	SONSTIGE	6736285
 Person	-	-	-	0:43:49.457000	0:43:50.387000	-	6736286
-: Lavoir	-	-	-	0:43:49.457000	0:43:50.387000	-	6736287
+: Lavoir	-	-	-	0:43:49.457000	0:43:50.387000	-	6736287
 SONSTIGE	SONSTIGE	-	-	0:43:49.457000	0:43:50.387000	SONSTIGE	6736288
 </u>
 <u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" subproject="PP03" standard_competence="5" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:49.457000" end="0:43:50.387000" persName="Informant 0330" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -12144,7 +12144,7 @@ aber	-	-	-	0:43:50.387000	0:43:50.982000	-	5468178
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:50.982000" end="0:43:52.278000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:43:50.982000	0:43:52.278000	SONSTIGE	6736289
 Person	-	-	-	0:43:50.982000	0:43:52.278000	-	6736290
-: *ist*	-	-	-	0:43:50.982000	0:43:52.278000	-	6736291
+: *ist*	-	-	-	0:43:50.982000	0:43:52.278000	-	6736291
 aber	-	-	-	0:43:50.982000	0:43:52.278000	-	6736292
 französisch	-	-	-	0:43:50.982000	0:43:52.278000	-	6736293
 SONSTIGE	SONSTIGE	-	-	0:43:50.982000	0:43:52.278000	SONSTIGE	6736294
@@ -12220,7 +12220,7 @@ die	-	-	-	0:44:00.569000	0:44:01.592000	-	5468218
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:01.592000" end="0:44:03.179000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:44:01.592000	0:44:01.862000	SONSTIGE	6736303
 Person	-	-	-	0:44:01.592000	0:44:01.862000	-	6736304
-. wir	-	-	-	0:44:01.592000	0:44:01.862000	-	6736305
+. wir	-	-	-	0:44:01.592000	0:44:01.862000	-	6736305
 haben	-	-	-	0:44:01.592000	0:44:01.862000	-	6736306
 allweil	-	-	-	0:44:01.862000	0:44:03.179000	-	6736307
 "Lavor"	-	-	-	0:44:01.862000	0:44:03.179000	-	6736308
@@ -12916,7 +12916,7 @@ es	-	-	-	0:46:23.690000	0:46:24.028000	-	5468848
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:24.028000" end="0:46:24.822000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:46:24.028000	0:46:24.822000	SONSTIGE	6736353
 Person	-	-	-	0:46:24.028000	0:46:24.822000	-	6736354
-: das	-	-	-	0:46:24.028000	0:46:24.822000	-	6736355
+: das	-	-	-	0:46:24.028000	0:46:24.822000	-	6736355
 ist	-	-	-	0:46:24.028000	0:46:24.822000	-	6736356
 /.	-	-	-	0:46:24.028000	0:46:24.822000	-	6736357
 </u>
@@ -13463,7 +13463,7 @@ nicht	-	-	KONJ	0:47:49.620000	0:47:50.393000	-	5469481
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:47:50.393000" end="0:47:57.321000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:47:50.393000	0:47:51.168000	SONSTIGE	6736447
 Person	-	-	-	0:47:50.393000	0:47:51.168000	-	6736448
-: ja	-	-	-	0:47:50.393000	0:47:51.168000	-	6736449
+: ja	-	-	-	0:47:50.393000	0:47:51.168000	-	6736449
 ich	-	-	-	0:47:50.393000	0:47:51.168000	-	6736450
 weiß	-	-	-	0:47:50.393000	0:47:51.168000	-	6736451
 nicht	-	-	-	0:47:50.393000	0:47:51.168000	-	6736452
@@ -13600,7 +13600,7 @@ gebrochenes	-	-	-	0:48:16.612000	0:48:17.811000	-	5469552
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:17.811000" end="0:48:18.527000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:48:17.811000	0:48:18.527000	SONSTIGE	6736485
 Person	-	-	-	0:48:17.811000	0:48:18.527000	-	6736486
-: *sind*	-	-	-	0:48:17.811000	0:48:18.527000	-	6736487
+: *sind*	-	-	-	0:48:17.811000	0:48:18.527000	-	6736487
 nicht	-	-	-	0:48:17.811000	0:48:18.527000	-	6736488
 </u>
 <u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" subproject="PP03" standard_competence="5" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:17.811000" end="0:48:18.527000" persName="Informant 0330" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -13786,7 +13786,7 @@ mhm	-	-	-	0:48:46.943000	0:48:47.292000	-	5469656
 .	-	-	-	0:48:46.943000	0:48:47.292000	-	5469657
 SONSTIGE	SONSTIGE	-	-	0:48:47.292000	0:48:48.985000	SONSTIGE	6736511
 Person	-	-	-	0:48:47.292000	0:48:48.985000	-	6736512
-: die	-	-	-	0:48:47.292000	0:48:48.985000	-	6736513
+: die	-	-	-	0:48:47.292000	0:48:48.985000	-	6736513
 redet	-	-	-	0:48:47.292000	0:48:48.985000	-	6736514
 nicht	-	-	-	0:48:47.292000	0:48:48.985000	-	6736515
 Hochdeutsch	-	-	-	0:48:47.292000	0:48:48.985000	-	6736516
@@ -14439,7 +14439,7 @@ nein	-	-	-	0:51:07.267000	0:51:07.521000	-	5470170
 .	-	-	-	0:51:07.267000	0:51:07.521000	-	5470171
 SONSTIGE	SONSTIGE	-	-	0:51:07.521000	0:51:08.153000	SONSTIGE	6736528
 Person	-	-	-	0:51:07.521000	0:51:08.153000	-	6736529
-: _soaml_	-	-	-	0:51:07.521000	0:51:08.153000	-	6736530
+: _soaml_	-	-	-	0:51:07.521000	0:51:08.153000	-	6736530
 </u>
 <u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" subproject="PP03" standard_competence="5" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:07.521000" end="0:51:08.153000" persName="Informant 0330" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 _soaml_	-	-	-	0:51:07.521000	0:51:08.153000	-	5470172
@@ -16141,7 +16141,7 @@ das	-	-	-	0:56:53.084000	0:56:53.671000	-	5471525
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:56:53.671000" end="0:56:56.088000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:56:53.671000	0:56:54.467000	SONSTIGE	6736600
 Person	-	-	-	0:56:53.671000	0:56:54.467000	-	6736601
-: Todesanzeigen	-	-	-	0:56:53.671000	0:56:54.467000	-	6736602
+: Todesanzeigen	-	-	-	0:56:53.671000	0:56:54.467000	-	6736602
 SONSTIGE	SONSTIGE	-	-	0:56:53.671000	0:56:54.467000	SONSTIGE	6736603
 ach	-	-	-	0:56:54.467000	0:56:56.088000	-	5471530
 so	-	-	-	0:56:54.467000	0:56:56.088000	-	5471531
@@ -16152,7 +16152,7 @@ so	-	-	-	0:56:54.467000	0:56:56.088000	-	5471531
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:56:56.088000" end="0:56:57.949000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:56:56.088000	0:56:57.949000	SONSTIGE	6736604
 Person	-	-	-	0:56:56.088000	0:56:57.949000	-	6736605
-: die	-	-	-	0:56:56.088000	0:56:57.949000	-	6736606
+: die	-	-	-	0:56:56.088000	0:56:57.949000	-	6736606
 Gestorbenen	-	-	-	0:56:56.088000	0:56:57.949000	-	6736607
 ,	-	-	-	0:56:56.088000	0:56:57.949000	-	6736608
 ja	-	-	-	0:56:56.088000	0:56:57.949000	-	6736609
@@ -16493,7 +16493,7 @@ ja	-	-	-	0:58:09.528000	0:58:09.865000	-	5472333
 .	-	-	-	0:58:09.528000	0:58:09.865000	-	5472334
 SONSTIGE	SONSTIGE	-	-	0:58:09.865000	0:58:10.525000	SONSTIGE	6736627
 Person	-	-	-	0:58:09.865000	0:58:10.525000	-	6736628
-: wir	-	-	-	0:58:09.865000	0:58:10.525000	-	6736629
+: wir	-	-	-	0:58:09.865000	0:58:10.525000	-	6736629
 treffen	-	-	-	0:58:09.865000	0:58:10.525000	-	6736630
 </u>
 <u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" subproject="PP03" standard_competence="5" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:09.865000" end="0:58:10.525000" persName="Informant 0330" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -16623,7 +16623,7 @@ mehr	-	-	-	0:58:31.130000	0:58:32.862000	-	5472412
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:58:32.862000" end="0:58:33.265000" persName="Informant EXP4" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:58:32.862000	0:58:33.265000	SONSTIGE	6736652
 Person	-	-	-	0:58:32.862000	0:58:33.265000	-	6736653
-: ehrlich	-	-	-	0:58:32.862000	0:58:33.265000	-	6736654
+: ehrlich	-	-	-	0:58:32.862000	0:58:33.265000	-	6736654
 SONSTIGE	SONSTIGE	-	-	0:58:32.862000	0:58:33.265000	SONSTIGE	6736655
 </u>
 <u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" subproject="PP03" standard_competence="5" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:33.265000" end="0:58:34.284000" persName="Informant 0330" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -16766,7 +16766,7 @@ mhm	-	-	-	0:59:02.453000	0:59:03.242000	-	5472509
 .	-	-	-	0:59:02.453000	0:59:03.242000	-	5472510
 SONSTIGE	SONSTIGE	-	-	0:59:03.242000	0:59:04.229000	SONSTIGE	6736675
 Person	-	-	-	0:59:03.242000	0:59:04.229000	-	6736676
-: oder	-	-	-	0:59:03.242000	0:59:04.229000	-	6736677
+: oder	-	-	-	0:59:03.242000	0:59:04.229000	-	6736677
 Nudelsuppe	-	-	-	0:59:03.242000	0:59:04.229000	-	6736678
 ?	-	-	-	0:59:04.229000	0:59:05.021000	-	6736679
 </u>

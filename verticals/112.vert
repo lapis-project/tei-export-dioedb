@@ -8278,7 +8278,7 @@ und	und	CCONJ	-	0:35:08.012000	0:35:09.225000	-	1308289
 das	der	PRON	-	0:35:08.012000	0:35:09.225000	-	1315172
 ist	sein	AUX	-	0:35:08.012000	0:35:09.225000	-	1311012
 die	der	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:35:08.012000	0:35:09.225000	-	1311433
-einzige	einzig			+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|igReal igVar LautNach P Vpal	0:35:08.012000	0:35:09.225000	uɐ̯nt͡sɪg̥ɛ	1312844
+einzige	einzig	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|igReal igVar LautNach P Vpal	0:35:08.012000	0:35:09.225000	uɐ̯nt͡sɪg̥ɛ	1312844
 Erinnerung	Erinnerung	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:35:08.012000	0:35:09.225000	-	1314444
 ,	-	-	-	0:35:08.012000	0:35:09.225000	-	1316047
 was	was	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:35:09.225000	0:35:09.692000	-	1307584

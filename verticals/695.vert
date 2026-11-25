@@ -1716,7 +1716,7 @@ so	-	-	-	0:07:17.738000	0:07:18.883000	-	6012170
 .	-	-	-	0:07:17.738000	0:07:18.883000	-	6012171
 </u>
 <u who="spk_626" sex="male" age="UNK" name="Informant EXP11" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:18.883000" end="0:07:25.057000" persName="Informant EXP11" age_lower="1" age_upper="999">
-((1,2s)) also	-	-	-	0:07:18.883000	0:07:22.133000	-	6012172
+((1,2s)) also	-	-	-	0:07:18.883000	0:07:22.133000	-	6012172
 Sie	-	-	-	0:07:18.883000	0:07:22.133000	-	6012173
 werden	-	-	-	0:07:18.883000	0:07:22.133000	-	6012174
 wahrscheinlich	-	-	-	0:07:18.883000	0:07:22.133000	-	6012175

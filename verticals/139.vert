@@ -3375,7 +3375,7 @@ ist	-	-	-	0:10:45.979000	0:10:47.446000	-	1630411
 es	-	-	-	0:10:45.979000	0:10:47.446000	-	1628031
 mir	-	-	-	0:10:45.979000	0:10:47.446000	-	1626391
 nicht	-	-	-	0:10:45.979000	0:10:47.446000	-	1626792
-_da_ _wert_	-	-	-	0:10:45.979000	0:10:47.446000	-	1626083
+_da_ _wert_	-	-	-	0:10:45.979000	0:10:47.446000	-	1626083
 .	-	-	-	0:10:45.979000	0:10:47.446000	-	1626749
 </u>
 <u who="spk_91" sex="male" age="jung (18-35) -matura" name="Informant 0506" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:47.446000" end="0:10:48.813000" persName="Informant 0506" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -3612,7 +3612,7 @@ Nachmittag	-	-	-	0:11:28.199000	0:11:29.033000	-	1627571
 </u>
 <u who="spk_90" sex="male" age="jung (18-35) +matura" name="Informant 0505" subproject="PP03" standard_competence="4" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:28.199000" end="0:11:29.033000" persName="Informant 0505" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 gekommen	-	-	-	0:11:28.199000	0:11:29.033000	-	1638649
-_gi_ _bschüttna_	-	-	-	0:11:28.199000	0:11:29.033000	-	1633351
+_gi_ _bschüttna_	-	-	-	0:11:28.199000	0:11:29.033000	-	1633351
 </u>
 <u who="spk_91" sex="male" age="jung (18-35) -matura" name="Informant 0506" subproject="PP03" standard_competence="5" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:29.033000" end="0:11:30.059000" persName="Informant 0506" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 *hast*	-	-	-	0:11:29.033000	0:11:30.059000	-	1627427
@@ -5216,7 +5216,7 @@ oder	-	-	-	0:16:18.006000	0:16:20.253000	-	1635117
 einmal	-	-	-	0:16:18.006000	0:16:20.253000	-	1629986
 einmal	-	-	-	0:16:18.006000	0:16:20.253000	-	1629473
 _an_	-	-	-	0:16:18.006000	0:16:20.253000	-	1631114
-_Schwätz_ _tua_	-	-	​æ Af äReal äVar F lang LautNach LautVor mhd. /e/ Wurzel	0:16:18.006000	0:16:20.253000	ʃvæːt͡s	1634894
+_Schwätz_ _tua_	-	-	​æ Af äReal äVar F lang LautNach LautVor mhd. /e/ Wurzel	0:16:18.006000	0:16:20.253000	ʃvæːt͡s	1634894
 ,	-	-	-	0:16:18.006000	0:16:20.253000	-	1633104
 oder	oder	CCONJ	-	0:16:20.253000	0:16:21.586000	-	1632192
 was	was	PRON	-	0:16:20.253000	0:16:21.586000	-	1638617
@@ -5525,7 +5525,7 @@ brutal	brutal	ADJ	-	0:17:15.759000	0:17:17.413000	-	1636421
 .	-	-	-	0:17:15.759000	0:17:17.413000	-	1626075
 </u>
 <u who="spk_90" sex="male" age="jung (18-35) +matura" name="Informant 0505" subproject="PP03" standard_competence="4" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:15.759000" end="0:17:17.413000" persName="Informant 0505" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-_leck_ _mi_ _doch_ _tschöpli_	-	-	-	0:17:15.759000	0:17:17.413000	-	1636300
+_leck_ _mi_ _doch_ _tschöpli_	-	-	-	0:17:15.759000	0:17:17.413000	-	1636300
 ,	-	-	-	0:17:15.759000	0:17:17.413000	-	1636708
 du	du	PRON	-	0:17:15.759000	0:17:17.413000	-	1637906
 .	-	-	-	0:17:15.759000	0:17:17.413000	-	1635968

@@ -4606,7 +4606,7 @@ her	her	ADP	-	0:15:07.651000	0:15:11.278000	-	1323674
 ,	-	-	-	0:15:07.651000	0:15:11.278000	-	1330981
 weil	weil	SCONJ	-	0:15:11.278000	0:15:16.765000	-	1321140
 da	da	ADV	-	0:15:11.278000	0:15:16.765000	-	1330742
-einfach	einfach			aeDiph ae-Diph eiReal F LautNach LautVor MG mhd. /ei/	0:15:11.278000	0:15:16.765000	aɛ̯̃fɔx	1329219
+einfach	einfach	-	aeDiph ae-Diph eiReal F LautNach LautVor MG mhd. /ei/	0:15:11.278000	0:15:16.765000	aɛ̯̃fɔx	1329219
 viele	viel	DET	-	0:15:11.278000	0:15:16.765000	-	1327767
 Sachen	Sache	NOUN	-	0:15:11.278000	0:15:16.765000	-	1326997
 auch	auch	ADV	-	0:15:11.278000	0:15:16.765000	-	1324380

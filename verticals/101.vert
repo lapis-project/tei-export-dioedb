@@ -6207,7 +6207,7 @@ das	der	PRON	-	0:27:52.686000	0:27:54.114000	-	1164830
 fast	fast	ADV	LautNach LautVor Ons Ons- P sPal sPal+ sPal-t Vvel	0:27:54.114000	0:27:54.569000	fɔʃt	1167835
 ein	einen	DET	-	0:27:54.569000	0:27:54.699000	-	1165186
 biss=	bissel	ADJ	-le DIM Interf Interf- SDent Suff U- Uml sd-	0:27:54.569000	0:27:54.699000	-	1163757
-chen	  	SPACE	-le DIM Interf Interf- SDent Suff U- Uml sd-	0:27:54.699000	0:27:55.399000	-	1165886
+chen	-	SPACE	-le DIM Interf Interf- SDent Suff U- Uml sd-	0:27:54.699000	0:27:55.399000	-	1165886
 ,	-	-	-	0:27:54.699000	0:27:55.399000	-	1172832
 gell	gell	ADJ	-	0:27:54.699000	0:27:55.399000	-	1172429
 ?	-	-	-	0:27:54.699000	0:27:55.399000	-	1166344
