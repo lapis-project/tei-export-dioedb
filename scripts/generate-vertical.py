@@ -1,12 +1,15 @@
-import sys
-import os
 import glob
+import os
+import re
+import sys
+
 from lxml import etree
 
 NS = {
     "tei": "http://www.tei-c.org/ns/1.0",
     "xml": "http://www.w3.org/XML/1998/namespace",
 }
+FIELD_WHITESPACE = re.compile(r"\s")
 
 
 def load_speaker_data(standoff_path):
@@ -224,18 +227,6 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
                             if not word:
                                 continue
 
-                            lemma = node.get("lemma", "-")
-                            if lemma == " ":
-                                lemma = "-"
-                            pos = node.get("type", "-")
-                            raw_phon = node.get("phon") or ""
-                            phon = (
-                                raw_phon.replace("\t", " ")
-                                .replace("\r", " ")
-                                .replace("\n", " ")
-                                .strip()
-                                or "-"
-                            )
                             raw_xml_id = (node.get(f"{{{NS['xml']}}}id") or "").strip()
                             if raw_xml_id.startswith("t") and raw_xml_id[1:].isdigit():
                                 token_id = raw_xml_id[1:]
@@ -274,9 +265,22 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
                             t_start = timeline_map.get(t_start_ref, "-")
                             t_end = timeline_map.get(t_end_ref, "-")
 
-                            f_out.write(
-                                f"{word}\t{lemma}\t{pos}\t{merge_strings(str_morph, str_syntax)}\t{t_start}\t{t_end}\t{phon}\t{token_id}\n"
+                            fields = (
+                                word,
+                                node.get("lemma", ""),
+                                node.get("type", ""),
+                                merge_strings(str_morph, str_syntax),
+                                t_start,
+                                t_end,
+                                (node.get("phon") or "").strip(),
+                                token_id,
                             )
+                            # Normalize whitespace before adding the tab separators.
+                            safe_fields = [
+                                FIELD_WHITESPACE.sub(" ", field) if field.strip() else "-"
+                                for field in fields
+                            ]
+                            f_out.write("\t".join(safe_fields) + "\n")
 
                         elif tag_name == "pause":
                             dur = node.get("duration", "")
