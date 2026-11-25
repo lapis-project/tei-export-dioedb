@@ -12,6 +12,8 @@ ATTRIBUTE pos
 ATTRIBUTE feats
 ATTRIBUTE tm_start
 ATTRIBUTE tm_end
+ATTRIBUTE phon
+ATTRIBUTE token_id
 
 ATTRIBUTE lc {
     LABEL "word (lowercase)"
