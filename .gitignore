@@ -1,0 +1,13 @@
+scripts/cache
+scripts/tei-files
+scripts/verticals
+scripts/standoff
+scripts/vert_finished
+anonymisation/anon/
+anonymisation/audio/
+anonymisation/audio_muted/
+
+venv/
+__pycache__/
+.env
+*.htpasswd
