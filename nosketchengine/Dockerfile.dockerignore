@@ -1,0 +1,10 @@
+# Send only deployment inputs to BuildKit, excluding local credentials and caches.
+**
+!verticals/
+!verticals/**
+!nosketchengine/
+!nosketchengine/Dockerfile
+!nosketchengine/dioedbcorpus
+!nosketchengine/auth.conf
+!nosketchengine/validate-auth.py
+!nosketchengine/healthz
