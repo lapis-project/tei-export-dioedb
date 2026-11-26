@@ -98,7 +98,7 @@ aufgewachsen	aufwachsen	VERB	-	0:00:19.646000	0:00:23.219000	-	511401
 </u>
 <u who="spk_118" sex="female" age="jung (18-35) -matura" name="Informant 0514" subproject="PP03" standard_competence="5" dialect_competence="3" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:23.219000" end="0:00:24.586000" persName="Informant 0514" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:00:23.219000	0:00:24.586000	-	509772
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:00:23.219000	0:00:24.586000	-	506181
+ORT	ORT	PROPN	-	0:00:23.219000	0:00:24.586000	ORT	506181
 .	-	-	-	0:00:23.219000	0:00:24.586000	-	506588
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:24.586000" end="0:00:28.399000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -127,7 +127,7 @@ Gaweinstal?	-	-	-	0:00:28.399000	0:00:29.093000	-	510592
 <u who="spk_118" sex="female" age="jung (18-35) -matura" name="Informant 0514" subproject="PP03" standard_competence="5" dialect_competence="3" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:29.093000" end="0:00:30.019000" persName="Informant 0514" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 hier	hier	ADV	-	0:00:29.093000	0:00:30.019000	-	508601
 in	in	ADP	-	0:00:29.093000	0:00:30.019000	-	505589
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:00:29.093000	0:00:30.019000	-	507061
+ORT	ORT	PROPN	-	0:00:29.093000	0:00:30.019000	ORT	507061
 .	-	-	-	0:00:29.093000	0:00:30.019000	-	508807
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:29.093000" end="0:00:33.393000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -788,7 +788,7 @@ sagen	sagen	VERB	KONJ	0:02:59.999000	0:03:06.646000	-	511194
 ,	-	-	-	0:02:59.999000	0:03:06.646000	-	508829
 in	-	-	-	0:02:59.999000	0:03:06.646000	-	511407
 in	-	-	-	0:02:59.999000	0:03:06.646000	-	509631
-[Gaweinstal]O	-	-	-	0:02:59.999000	0:03:06.646000	-	506559
+ORT	ORT	-	-	0:02:59.999000	0:03:06.646000	ORT	506559
 ,	-	-	-	0:02:59.999000	0:03:06.646000	-	508541
 also	-	-	-	0:02:59.999000	0:03:06.646000	-	508256
 da	-	-	-	0:02:59.999000	0:03:06.646000	-	506760
@@ -6829,9 +6829,9 @@ von	von	ADP	-	0:25:16.424000	0:25:20.637000	-	509387
 hundert	hundert	NUM	-	0:25:16.424000	0:25:20.637000	-	511134
 Jahre	Jahr	NOUN	-	0:25:16.424000	0:25:20.637000	-	506473
 von	von	ADP	-	0:25:16.424000	0:25:20.637000	-	510584
-[Gaunersdorf]O	Gaunersdorf	PROPN	-	0:25:16.424000	0:25:20.637000	-	506971
+ORT	ORT	PROPN	-	0:25:16.424000	0:25:20.637000	ORT	506971
 zu	zu	ADP	-	0:25:16.424000	0:25:20.637000	-	511511
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:25:16.424000	0:25:20.637000	-	505750
+ORT	ORT	PROPN	-	0:25:16.424000	0:25:20.637000	ORT	505750
 diese	dies	DET	-	0:25:16.424000	0:25:20.637000	-	505883
 Namensumbenennung	Namensumbenennung	NOUN	-	0:25:16.424000	0:25:20.637000	-	511508
 ja	ja	ADV	-	0:25:16.424000	0:25:20.637000	-	506163

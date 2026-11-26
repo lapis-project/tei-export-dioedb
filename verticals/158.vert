@@ -14336,7 +14336,7 @@ die	der	PRON	-	0:39:12.917000	0:39:14.917000	-	1871025
 ja	ja	ADV	-	0:39:12.917000	0:39:14.917000	-	1860016
 miteinander	miteinander	ADV	-	0:39:12.917000	0:39:14.917000	-	1867797
 NAME	NAME	-	-	0:39:12.917000	0:39:14.917000	NAME	1859106
-Feuerwehr]S/	-	-	-	0:39:12.917000	0:39:14.917000	-	1869040
+SONSTIGE	SONSTIGE	-	-	0:39:12.917000	0:39:14.917000	SONSTIGE	1869040
 .	-	-	-	0:39:12.917000	0:39:14.917000	-	1858784
 </u>
 <u who="spk_493" sex="female" age="jung (18-35) -matura" name="Informant 0668" subproject="PP03" standard_competence="UNK" dialect_competence="UNK" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:39:14.917000" end="0:39:17.204000" persName="Informant 0668" residence="Tux, Schwaz, Tirol, 6293, Österreich" affiliation="PP03" age_lower="18" age_upper="35">

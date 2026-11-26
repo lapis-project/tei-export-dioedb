@@ -56,14 +56,14 @@ aufgewachsen	aufwachsen	VERB	-	0:00:11.406000	0:00:14.406000	-	527783
 ?	-	-	-	0:00:11.406000	0:00:14.406000	-	529047
 </u>
 <u who="spk_108" sex="female" age="jung (18-35) +matura" name="Informant 0515" subproject="PP03" standard_competence="4" dialect_competence="6" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:14.406000" end="0:00:15.519000" persName="Informant 0515" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:00:14.406000	0:00:15.193000	-	532892
+ORT	ORT	PROPN	-	0:00:14.406000	0:00:15.193000	ORT	532892
 ,	-	-	-	0:00:14.406000	0:00:15.193000	-	529336
 hier	hier	ADV	-	0:00:15.193000	0:00:15.519000	-	528500
 .	-	-	-	0:00:15.193000	0:00:15.519000	-	533497
 </u>
 <u who="spk_617" sex="female" age="UNK" name="Informant EXP2" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:15.193000" end="0:00:15.826000" persName="Informant EXP2" age_lower="1" age_upper="999">
-[Gawein=	Gaweinstal	PROPN	-	0:00:15.193000	0:00:15.519000	-	534849
-stal]O	-	SPACE	-	0:00:15.519000	0:00:15.826000	-	528955
+ORT	ORT	PROPN	-	0:00:15.193000	0:00:15.519000	ORT	534849
+ORT	ORT	SPACE	-	0:00:15.519000	0:00:15.826000	ORT	528955
 .	-	-	-	0:00:15.519000	0:00:15.826000	-	529285
 </u>
 <u who="spk_108" sex="female" age="jung (18-35) +matura" name="Informant 0515" subproject="PP03" standard_competence="4" dialect_competence="6" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:15.826000" end="0:00:16.178000" persName="Informant 0515" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -386,7 +386,7 @@ der	der	PRON	-	0:01:18.793000	0:01:20.946000	-	530905
 auch	auch	ADV	-	0:01:18.793000	0:01:20.946000	-	536750
 hier	hier	ADV	-	0:01:18.793000	0:01:20.946000	-	536509
 in	in	ADP	-	0:01:18.793000	0:01:20.946000	-	533399
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:01:18.793000	0:01:20.946000	-	536704
+ORT	ORT	PROPN	-	0:01:18.793000	0:01:20.946000	ORT	536704
 aufgewa	aufgewa	VERB	-	0:01:18.793000	0:01:20.946000	-	539011
 </u>
 <u who="spk_108" sex="female" age="jung (18-35) +matura" name="Informant 0515" subproject="PP03" standard_competence="4" dialect_competence="6" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:20.946000" end="0:01:21.419000" persName="Informant 0515" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -1105,7 +1105,7 @@ alteingesessene	alteingesessene	ADJ	-	0:04:02.526000	0:04:07.059000	-	538434
 Bewohner	Bewohner	NOUN	-	0:04:02.526000	0:04:07.059000	-	532060
 hier	hier	ADV	-	0:04:02.526000	0:04:07.059000	-	531671
 in	in	ADP	-	0:04:02.526000	0:04:07.059000	-	527795
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:04:02.526000	0:04:07.059000	-	537317
+ORT	ORT	PROPN	-	0:04:02.526000	0:04:07.059000	ORT	537317
 typischerweise	typischerweise	ADV	-	0:04:02.526000	0:04:07.059000	-	539810
 hier	hier	ADV	-	0:04:02.526000	0:04:07.059000	-	534955
 miteinander	miteinander	ADV	-	0:04:02.526000	0:04:07.059000	-	535546
@@ -1364,7 +1364,7 @@ es	ich	PRON	-	0:04:57.199000	0:04:59.519000	-	533521
 ist	sein	AUX	-	0:04:57.199000	0:04:59.519000	-	526700
 ein	einen	DET	-	0:04:57.199000	0:04:59.519000	-	540182
 spezifisch	spezifisch	ADJ	-	0:04:57.199000	0:04:59.519000	-	538621
-[gaweinstalerisch]O	Gaweinstalerisch	ADJ	-	0:04:57.199000	0:04:59.519000	-	530929
+ORT	ORT	ADJ	-	0:04:57.199000	0:04:59.519000	ORT	530929
 ?	-	-	-	0:04:57.199000	0:04:59.519000	-	538729
 </u>
 <u who="spk_108" sex="female" age="jung (18-35) +matura" name="Informant 0515" subproject="PP03" standard_competence="4" dialect_competence="6" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:59.519000" end="0:05:10.639000" persName="Informant 0515" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -1406,7 +1406,7 @@ sagt	sagen	VERB	-	0:05:08.033000	0:05:08.579000	-	529284
 und	und	CCONJ	-	0:05:08.579000	0:05:10.639000	-	531781
 dann	dann	ADV	-	0:05:08.579000	0:05:10.639000	-	540493
 in	in	ADP	-	0:05:08.579000	0:05:10.639000	-	532895
-[Poysdorf]O	Poysdorf	PROPN	-	0:05:08.579000	0:05:10.639000	-	527075
+ORT	ORT	PROPN	-	0:05:08.579000	0:05:10.639000	ORT	527075
 draußen	draußen	ADV	-	0:05:08.579000	0:05:10.639000	-	535267
 sagen	sagen	VERB	-	0:05:08.579000	0:05:10.639000	-	532539
 sie	ich	PRON	-	0:05:08.579000	0:05:10.639000	-	537374
@@ -2287,11 +2287,11 @@ treffe	treffen	VERB	-	0:08:13.646000	0:08:15.379000	-	540665
 die	der	DET	-	0:08:15.379000	0:08:17.473000	-	531587
 da	da	ADV	-	0:08:15.379000	0:08:17.473000	-	532755
 in	in	ADP	-	0:08:15.379000	0:08:17.473000	-	533786
-[Poysdorf]O	Poysdorf	PROPN	-	0:08:15.379000	0:08:17.473000	-	534704
+ORT	ORT	PROPN	-	0:08:15.379000	0:08:17.473000	ORT	534704
 wohnen	wohnen	VERB	-	0:08:15.379000	0:08:17.473000	-	538892
 oder	oder	CCONJ	-	0:08:15.379000	0:08:17.473000	-	530567
 in	in	ADP	-	0:08:15.379000	0:08:17.473000	-	531306
-[Mistelbach]O	Mistelbach	PROPN	-	0:08:15.379000	0:08:17.473000	-	534352
+ORT	ORT	PROPN	-	0:08:15.379000	0:08:17.473000	ORT	534352
 ,	-	-	-	0:08:15.379000	0:08:17.473000	-	530820
 würde	werden	AUX	KONJ	0:08:17.473000	0:08:19.546000	-	532538
 ich	ich	PRON	KONJ	0:08:17.473000	0:08:19.546000	-	535965
@@ -3402,7 +3402,7 @@ Beispiel	Beispiel	NOUN	-	0:12:04.768000	0:12:08.906000	-	540298
 bei	bei	ADP	-	0:12:04.768000	0:12:08.906000	-	533557
 uns	sich	PRON	-	0:12:04.768000	0:12:08.906000	-	536170
 in	in	ADP	-	0:12:04.768000	0:12:08.906000	-	534717
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:12:04.768000	0:12:08.906000	-	533931
+ORT	ORT	PROPN	-	0:12:04.768000	0:12:08.906000	ORT	533931
 immer	immer	ADV	-	0:12:04.768000	0:12:08.906000	-	539555
 wieder	wieder	ADV	-	0:12:04.768000	0:12:08.906000	-	536331
 das	der	DET	-	0:12:04.768000	0:12:08.906000	-	527421
@@ -4223,7 +4223,7 @@ bei	bei	ADP	-	0:14:48.306000	0:14:53.018000	-	533722
 ihnen	ich	PRON	-	0:14:48.306000	0:14:53.018000	-	537984
 hier	hier	ADV	-	0:14:48.306000	0:14:53.018000	-	531041
 in	in	ADP	-	0:14:48.306000	0:14:53.018000	-	536115
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:14:48.306000	0:14:53.018000	-	537177
+ORT	ORT	PROPN	-	0:14:48.306000	0:14:53.018000	ORT	537177
 sprechen	sprechen	VERB	-	0:14:48.306000	0:14:53.018000	-	534908
 denn	denn	ADV	-	0:14:48.306000	0:14:53.018000	-	532181
 Weinviertlerisch	Weinviertlerisch	ADJ	-	0:14:48.306000	0:14:53.018000	-	526892
@@ -4273,7 +4273,7 @@ ja	ja	PART	-	0:15:03.831000	0:15:04.362000	-	528451
 wir	ich	PRON	-	0:15:04.362000	0:15:07.481000	-	535084
 haben	haben	AUX	-	0:15:04.362000	0:15:07.481000	-	537835
 in	in	ADP	-	0:15:04.362000	0:15:07.481000	-	533373
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:15:04.362000	0:15:07.481000	-	537189
+ORT	ORT	PROPN	-	0:15:04.362000	0:15:07.481000	ORT	537189
 einen	ein	DET	-	0:15:04.362000	0:15:07.481000	-	538189
 großen	groß	ADJ	-	0:15:04.362000	0:15:07.481000	-	533450
 Zuzug	Zuzug	NOUN	-	0:15:04.362000	0:15:07.481000	-	533802
@@ -4764,7 +4764,7 @@ dass	dass	SCONJ	-	0:16:52.415000	0:16:54.592000	-	537274
 das	der	PRON	-	0:16:52.415000	0:16:54.592000	-	529891
 hier	hier	ADV	-	0:16:52.415000	0:16:54.592000	-	536198
 auf	auf	ADP	-	0:16:52.415000	0:16:54.592000	-	534738
-[Gaweinstal]O	Gaweinstal	NOUN	-	0:16:52.415000	0:16:54.592000	-	528802
+ORT	ORT	NOUN	-	0:16:52.415000	0:16:54.592000	ORT	528802
 beschränkt	beschränken	VERB	-	0:16:52.415000	0:16:54.592000	-	529060
 ist	sein	AUX	-	0:16:52.415000	0:16:54.592000	-	530021
 oder	oder	CCONJ	-	0:16:54.592000	0:16:57.075000	-	530012
@@ -11116,7 +11116,7 @@ Ort	Ort	NOUN	-	0:41:45.512000	0:41:46.893000	-	526468
 ,	-	-	-	0:41:45.512000	0:41:46.893000	-	527055
 also	also	ADV	-	0:41:46.893000	0:41:47.906000	-	534278
 in	in	ADP	-	0:41:46.893000	0:41:47.906000	-	526702
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:41:46.893000	0:41:47.906000	-	534299
+ORT	ORT	PROPN	-	0:41:46.893000	0:41:47.906000	ORT	534299
 ,	-	-	-	0:41:46.893000	0:41:47.906000	-	537150
 noch	noch	ADV	-	0:41:47.906000	0:41:49.318000	-	537079
 andere	ander	ADJ	-	0:41:47.906000	0:41:49.318000	-	537014
@@ -11244,7 +11244,7 @@ die	der	PRON	-	0:42:23.743000	0:42:25.124000	-	540759
 ist	sein	AUX	-	0:42:23.743000	0:42:25.124000	-	536134
 mit	mit	ADP	-	0:42:23.743000	0:42:25.124000	-	536877
 einem	einer	DET	-	0:42:23.743000	0:42:25.124000	-	528212
-[Gaweinstaler]O	Gaweinstaler	NOUN	-	0:42:23.743000	0:42:25.124000	-	529905
+ORT	ORT	NOUN	-	0:42:23.743000	0:42:25.124000	ORT	529905
 verheiratet	verheiraten	VERB	-	0:42:23.743000	0:42:25.124000	-	537613
 ,	-	-	-	0:42:23.743000	0:42:25.124000	-	537462
 die	der	PRON	-	0:42:25.124000	0:42:25.793000	-	539049
@@ -11283,7 +11283,7 @@ so	so	ADV	-	0:42:27.918000	0:42:31.681000	-	537770
 oder	oder	CCONJ	-	0:42:31.681000	0:42:34.149000	-	534142
 irgendwie	irgendwie	ADV	-	0:42:31.681000	0:42:34.149000	-	529448
 spezifisch	spezifisch	ADJ	-	0:42:31.681000	0:42:34.149000	-	527872
-[Gaweinstalerisch]O	Gaweinstalerisch	NOUN	-	0:42:31.681000	0:42:34.149000	-	528357
+ORT	ORT	NOUN	-	0:42:31.681000	0:42:34.149000	ORT	528357
 ,	-	-	-	0:42:31.681000	0:42:34.149000	-	526625
 würde	werden	AUX	KONJ	0:42:34.149000	0:42:35.118000	-	536350
 ich	ich	PRON	KONJ	0:42:34.149000	0:42:35.118000	-	535771
@@ -11563,7 +11563,7 @@ sagen	sagen	VERB	-	0:43:32.368000	0:43:34.043000	-	530294
 die	der	DET	-	0:43:32.368000	0:43:34.043000	-	534276
 da	da	ADV	-	0:43:32.368000	0:43:34.043000	-	540449
 in	in	ADP	-	0:43:32.368000	0:43:34.043000	-	532743
-[Loidesthal]O	Loidesthal	PROPN	-	0:43:32.368000	0:43:34.043000	-	539719
+ORT	ORT	PROPN	-	0:43:32.368000	0:43:34.043000	ORT	539719
 draußen"	draußen	ADV	-	0:43:32.368000	0:43:34.043000	-	539984
 .	-	-	-	0:43:32.368000	0:43:34.043000	-	539304
 <pause duration="0,5s"/>
@@ -11614,7 +11614,7 @@ würde	werden	AUX	KONJ	0:43:41.818000	0:43:44.543000	-	531220
 ich	ich	PRON	KONJ	0:43:41.818000	0:43:44.543000	-	539305
 uns	sich	PRON	KONJ	0:43:41.818000	0:43:44.543000	-	534024
 in	in	ADP	-	0:43:41.818000	0:43:44.543000	-	529471
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:43:41.818000	0:43:44.543000	-	533301
+ORT	ORT	PROPN	-	0:43:41.818000	0:43:44.543000	ORT	533301
 nicht	nicht	PART	KONJ	0:43:41.818000	0:43:44.543000	-	539591
 so	so	ADV	KONJ	0:43:41.818000	0:43:44.543000	-	536591
 einschätzen	einschätzen	VERB	KONJ	0:43:41.818000	0:43:44.543000	-	536224
@@ -11661,7 +11661,7 @@ ja	ja	PART	-	0:43:50.512000	0:43:51.199000	-	526591
 </u>
 <u who="spk_108" sex="female" age="jung (18-35) +matura" name="Informant 0515" subproject="PP03" standard_competence="4" dialect_competence="6" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:51.199000" end="0:43:57.174000" persName="Informant 0515" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:43:51.199000	0:43:53.187000	-	529513
-[Hohenruppersdorf]O	Hohenruppersdorf	PROPN	-	0:43:51.199000	0:43:53.187000	-	537038
+ORT	ORT	PROPN	-	0:43:51.199000	0:43:53.187000	ORT	537038
 ,	-	-	-	0:43:51.199000	0:43:53.187000	-	539367
 das	der	PRON	-	0:43:51.199000	0:43:53.187000	-	536035
 sind	sein	AUX	-	0:43:51.199000	0:43:53.187000	-	536828
@@ -11684,7 +11684,7 @@ so	so	ADV	-	0:43:54.162000	0:43:55.981000	-	527726
 ja	ja	PART	-	0:43:54.162000	0:43:55.981000	-	538715
 ?	-	-	-	0:43:54.162000	0:43:55.981000	-	536242
 und	und	CCONJ	-	0:43:55.981000	0:43:57.174000	-	528152
-[Loidesthal]O	Loidesthal	PROPN	-	0:43:55.981000	0:43:57.174000	-	534596
+ORT	ORT	PROPN	-	0:43:55.981000	0:43:57.174000	ORT	534596
 wahrscheinli=	wahrscheinlich	ADJ	-	0:43:55.981000	0:43:57.174000	-	528054
 </u>
 <u who="spk_617" sex="female" age="UNK" name="Informant EXP2" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:43:57.174000" end="0:43:57.668000" persName="Informant EXP2" age_lower="1" age_upper="999">
@@ -11782,7 +11782,7 @@ es	ich	PRON	-	0:44:11.687000	0:44:13.268000	-	539201
 bei	bei	ADP	-	0:44:11.687000	0:44:13.268000	-	528076
 uns	sich	PRON	-	0:44:11.687000	0:44:13.268000	-	530573
 in	in	ADP	-	0:44:11.687000	0:44:13.268000	-	531144
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:44:11.687000	0:44:13.268000	-	537930
+ORT	ORT	PROPN	-	0:44:11.687000	0:44:13.268000	ORT	537930
 nicht	nicht	PART	-	0:44:11.687000	0:44:13.268000	-	535693
 .	-	-	-	0:44:11.687000	0:44:13.268000	-	537207
 also	also	ADV	-	0:44:13.268000	0:44:13.937000	-	529677
@@ -11797,7 +11797,7 @@ sagt	sagen	VERB	-	0:44:13.937000	0:44:14.837000	-	530940
 sagen	sagen	VERB	-	0:44:14.837000	0:44:16.243000	-	532906
 nur	nur	ADV	-	0:44:14.837000	0:44:16.243000	-	539720
 die	der	DET	-	0:44:14.837000	0:44:16.243000	-	530679
-[Gaweinstaler]O"	Gaweinstaler	NOUN	-	0:44:14.837000	0:44:16.243000	-	537036
+ORT	ORT	NOUN	-	0:44:14.837000	0:44:16.243000	ORT	537036
 .	-	-	-	0:44:14.837000	0:44:16.243000	-	540220
 </u>
 <u who="spk_617" sex="female" age="UNK" name="Informant EXP2" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:16.243000" end="0:44:17.218000" persName="Informant EXP2" age_lower="1" age_upper="999">
@@ -11831,7 +11831,7 @@ ich	ich	PRON	-	0:44:19.581000	0:44:20.056000	-	533464
 dass	dass	SCONJ	-	0:44:20.056000	0:44:22.399000	-	536460
 dass	dass	SCONJ	-	0:44:20.056000	0:44:22.399000	-	530346
 in	in	ADP	-	0:44:20.056000	0:44:22.399000	-	533331
-[Hohenruppersdorf]O	Hohenruppersdorf	PROPN	-	0:44:20.056000	0:44:22.399000	-	537663
+ORT	ORT	PROPN	-	0:44:20.056000	0:44:22.399000	ORT	537663
 würden	werden	AUX	KONJ	0:44:20.056000	0:44:22.399000	-	540703
 die	der	PRON	KONJ	0:44:20.056000	0:44:22.399000	-	535883
 das	der	PRON	KONJ	0:44:20.056000	0:44:22.399000	-	526928
@@ -14556,8 +14556,8 @@ die	der	PRON	-	0:53:54.492000	0:53:56.425000	-	538076
 auch	auch	ADV	-	0:53:54.492000	0:53:56.425000	-	533942
 hier	hier	ADV	-	0:53:54.492000	0:53:56.425000	-	534870
 aus	aus	ADP	-	0:53:54.492000	0:53:56.425000	-	532224
-[Gaweins=	Gaweinstal	PROPN	-	0:53:54.492000	0:53:56.425000	-	532419
-tal]O	-	SPACE	-	0:53:56.425000	0:53:56.847000	-	527982
+ORT	ORT	PROPN	-	0:53:54.492000	0:53:56.425000	ORT	532419
+ORT	ORT	SPACE	-	0:53:56.425000	0:53:56.847000	ORT	527982
 ?	-	-	-	0:53:56.425000	0:53:56.847000	-	538180
 </u>
 <u who="spk_108" sex="female" age="jung (18-35) +matura" name="Informant 0515" subproject="PP03" standard_competence="4" dialect_competence="6" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:56.425000" end="0:54:15.770000" persName="Informant 0515" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -14721,7 +14721,7 @@ ansonsten	ansonsten	ADV	-	0:54:27.903000	0:54:29.547000	-	538699
 die	der	PRON	-	0:54:29.547000	0:54:31.303000	-	532852
 sind	sein	AUX	-	0:54:29.547000	0:54:31.303000	-	536798
 von	von	ADP	-	0:54:29.547000	0:54:31.303000	-	530213
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:54:29.547000	0:54:31.303000	-	533862
+ORT	ORT	PROPN	-	0:54:29.547000	0:54:31.303000	ORT	533862
 ,	-	-	-	0:54:29.547000	0:54:31.303000	-	527450
 aber	aber	CCONJ	-	0:54:31.303000	0:54:31.858000	-	535615
 wie	wie	ADV	-	0:54:31.303000	0:54:31.858000	-	533062
@@ -15115,7 +15115,7 @@ Ahnung	Ahnung	NOUN	-	0:55:50.164000	0:55:51.136000	-	529703
 wenn	wenn	SCONJ	-	0:55:51.136000	0:55:52.625000	-	527065
 ich	ich	PRON	-	0:55:51.136000	0:55:52.625000	-	537520
 bei	bei	ADP	-	0:55:51.136000	0:55:52.625000	-	534081
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:55:51.136000	0:55:52.625000	-	535743
+ORT	ORT	PROPN	-	0:55:51.136000	0:55:52.625000	ORT	535743
 reinfahre	reinfahre	VERB	-	0:55:51.136000	0:55:52.625000	-	532922
 ,	-	-	-	0:55:51.136000	0:55:52.625000	-	539729
 dann	dann	ADV	-	0:55:52.625000	0:55:53.764000	-	531499
@@ -15993,7 +15993,7 @@ er	ich	PRON	-	0:58:52.726000	0:58:56.506000	-	538427
 jetzt	jetzt	ADV	-	0:58:52.726000	0:58:56.506000	-	537107
 auch	auch	ADV	-	0:58:52.726000	0:58:56.506000	-	538597
 von	von	ADP	-	0:58:52.726000	0:58:56.506000	-	534093
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:58:52.726000	0:58:56.506000	-	526295
+ORT	ORT	PROPN	-	0:58:52.726000	0:58:56.506000	ORT	526295
 nur	nur	ADV	-	0:58:52.726000	0:58:56.506000	-	539207
 mehr	mehr	ADV	-	0:58:52.726000	0:58:56.506000	-	540523
 nach	nach	ADP	-	0:58:52.726000	0:58:56.506000	-	529816

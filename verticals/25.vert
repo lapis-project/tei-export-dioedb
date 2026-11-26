@@ -89,12 +89,12 @@ aufgewachsen	aufwachsen	VERB	-	0:00:24.726000	0:00:27.586000	-	269358
 </u>
 <u who="spk_88" sex="female" age="jung (18-35) -matura" name="Informant 0503" subproject="PP03" standard_competence="3" dialect_competence="6" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:27.586000" end="0:00:28.173000" persName="Informant 0503" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:00:27.586000	0:00:28.173000	-	269310
-[Raggal]O	Raggal	PROPN	-	0:00:27.586000	0:00:28.173000	-	267406
+ORT	ORT	PROPN	-	0:00:27.586000	0:00:28.173000	ORT	267406
 .	-	-	-	0:00:27.586000	0:00:28.173000	-	269795
 </u>
 <u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:28.173000" end="0:00:31.686000" persName="Informant EXP5" age_lower="1" age_upper="999">
 in	in	ADP	-	0:00:28.173000	0:00:29.586000	-	269686
-[Raggal]O	Raggal	PROPN	-	0:00:28.173000	0:00:29.586000	-	266797
+ORT	ORT	PROPN	-	0:00:28.173000	0:00:29.586000	ORT	266797
 okay	okay	VERB	-	0:00:28.173000	0:00:29.586000	-	264029
 .	-	-	-	0:00:28.173000	0:00:29.586000	-	274057
 haben	haben	AUX	-	0:00:29.586000	0:00:31.686000	-	267253

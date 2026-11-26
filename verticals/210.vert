@@ -912,7 +912,7 @@ immer	immer	ADV	-	0:02:42.106000	0:02:44.093000	-	2509334
 <u who="spk_501" sex="female" age="jung (18-35) +matura" name="Informant 0491" subproject="PP03" standard_competence="5" dialect_competence="4" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:02:44.093000" end="0:02:46.426000" persName="Informant 0491" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 zum	zum	ADP	-	0:02:44.093000	0:02:45.899000	-	2518391
 SONSTIGE	SONSTIGE	ADJ	+menschl -belebt ?? App Gen PM PR Pkon Poss Prel Prop pränomin spatial	0:02:44.093000	0:02:45.899000	SONSTIGE	2509206
-Bäcker]S	Bäcker	NOUN	+menschl -belebt ?? App Gen PM PR Pkon Poss Prel Prop pränomin spatial|äReal äVar ɛ lang LautNach LautVor mhd. /e/ P Wurzel	0:02:44.093000	0:02:45.899000	b̥ɛːkɐ	2513998
+SONSTIGE	SONSTIGE	NOUN	+menschl -belebt ?? App Gen PM PR Pkon Poss Prel Prop pränomin spatial|äReal äVar ɛ lang LautNach LautVor mhd. /e/ P Wurzel	0:02:44.093000	0:02:45.899000	SONSTIGE	2513998
 und	und	CCONJ	-	0:02:44.093000	0:02:45.899000	-	2521132
 zum	zum	ADP	-	0:02:44.093000	0:02:45.899000	-	2506675
 SONSTIGE	SONSTIGE	NOUN	-	0:02:44.093000	0:02:45.899000	SONSTIGE	2510449

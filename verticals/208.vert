@@ -15442,7 +15442,7 @@ _ding_	-	-	-	0:50:27.990000	0:50:31.010000	-	2485817
 ,	-	-	-	0:50:27.990000	0:50:31.010000	-	2491673
 von	von	ADP	-	0:50:27.990000	0:50:31.010000	-	2481882
 der	der	DET	-	0:50:27.990000	0:50:31.010000	-	2490248
-[Toyota]S	Toyota	NOUN	-	0:50:27.990000	0:50:31.010000	-	2490991
+SONSTIGE	SONSTIGE	NOUN	-	0:50:27.990000	0:50:31.010000	SONSTIGE	2490991
 zur	zur	ADP	-	0:50:27.990000	0:50:31.010000	-	2492474
 Verfügung	Verfügung	NOUN	-	0:50:27.990000	0:50:31.010000	-	2496579
 gestellt	stellen	VERB	DATP GeVe Pass Patiens Pert Pert- Rez Rsubj kriegenP	0:50:27.990000	0:50:31.010000	-	2481648
@@ -15484,7 +15484,7 @@ die	der	PRON	-	0:50:38.383000	0:50:39.570000	-	2482690
 haben	haben	AUX	-	0:50:38.383000	0:50:39.570000	-	2488303
 Autos	Auto	NOUN	-	0:50:38.383000	0:50:39.570000	-	2491033
 von	von	ADP	-	0:50:39.570000	0:50:41.297000	-	2484405
-[Toyota]S	Toyota	PROPN	-	0:50:39.570000	0:50:41.297000	-	2482919
+SONSTIGE	SONSTIGE	PROPN	-	0:50:39.570000	0:50:41.297000	SONSTIGE	2482919
 Österreich	Österreich	PROPN	-	0:50:39.570000	0:50:41.297000	-	2497337
 zur	zur	ADP	-	0:50:39.570000	0:50:41.297000	-	2495684
 Verfügung	Verfügung	NOUN	-	0:50:39.570000	0:50:41.297000	-	2489453
@@ -18405,7 +18405,7 @@ das	der	PRON	-	1:00:50.016000	1:00:50.483000	-	2495320
 </u>
 <u who="spk_322" sex="male" age="Alt (65+)" name="Informant 0443" subproject="PP03" standard_competence="5" dialect_competence="7" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="1:00:50.483000" end="1:00:51.369000" persName="Informant 0443" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 aus	aus	ADP	-	1:00:50.483000	1:00:51.369000	-	2482312
-[Wagholming]O	Wagholming	PROPN	-	1:00:50.483000	1:00:51.369000	-	2493642
+ORT	ORT	PROPN	-	1:00:50.483000	1:00:51.369000	ORT	2493642
 .	-	-	-	1:00:50.483000	1:00:51.369000	-	2492779
 </u>
 <u who="spk_500" sex="male" age="Alt (65+)" name="Informant 0444" subproject="PP03" standard_competence="UNK" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="1:00:51.369000" end="1:00:57.163000" persName="Informant 0444" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="65" age_upper="999">

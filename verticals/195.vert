@@ -3518,7 +3518,7 @@ der	der	DET	-	0:12:44.973000	0:12:47.673000	-	2334322
 Pfarrer	Pfarrer	NOUN	-	0:12:44.973000	0:12:47.673000	-	2345751
 ist	sein	AUX	-	0:12:44.973000	0:12:47.673000	-	2334895
 aus	aus	ADP	-	0:12:44.973000	0:12:47.673000	-	2342728
-[Vorarlberg]O	Vorarlberg	PROPN	-	0:12:44.973000	0:12:47.673000	-	2346496
+ORT	ORT	PROPN	-	0:12:44.973000	0:12:47.673000	ORT	2346496
 ,	-	-	-	0:12:44.973000	0:12:47.673000	-	2341253
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:47.673000" end="0:12:47.999000" persName="Informant EXP3" age_lower="1" age_upper="999">
@@ -4063,7 +4063,7 @@ ja	ja	PART	-	0:14:52.073000	0:14:52.326000	-	2339780
 weil	weil	SCONJ	-	0:14:52.326000	0:14:53.955000	-	2335741
 in	in	ADP	-	0:14:52.326000	0:14:53.955000	-	2345241
 in	in	ADP	-	0:14:52.326000	0:14:53.955000	-	2340292
-[Piringsdorf]O	Piringsdorf	PROPN	?? Asp Asp- lang LautNach LautVor Len Len+ MG Nas pLen PPräp stimm stimm- Vpal	0:14:53.955000	0:14:55.502000	b̥iːɾɪŋg̥sd̥ɔɐ̯f	2334634
+ORT	ORT	PROPN	?? Asp Asp- lang LautNach LautVor Len Len+ MG Nas pLen PPräp stimm stimm- Vpal	0:14:53.955000	0:14:55.502000	ORT	2334634
 zum	zum	ADP	-	0:14:55.502000	0:14:56.826000	-	2342358
 Bei/	-	-	-	0:14:55.502000	0:14:56.826000	-	2336606
 zum	zum	ADP	-	0:14:55.502000	0:14:56.826000	-	2341465
@@ -4242,7 +4242,7 @@ ja	ja	PART	-	0:15:31.793000	0:15:33.599000	-	2335491
 .	-	-	-	0:15:31.793000	0:15:33.599000	-	2336627
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:33.599000" end="0:15:34.406000" persName="Informant EXP3" age_lower="1" age_upper="999">
-[Piringsdorf]O	Piringsdorf	PROPN	-	0:15:33.599000	0:15:34.406000	-	2341294
+ORT	ORT	PROPN	-	0:15:33.599000	0:15:34.406000	ORT	2341294
 </u>
 <u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" subproject="PP03" standard_competence="4" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:15:34.406000" end="0:15:36.233000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 ah	ah	X	-	0:15:34.406000	0:15:36.233000	-	2336926
@@ -5728,7 +5728,7 @@ das	der	DET	-	0:22:00.979000	0:22:02.152000	-	2337117
 nächste	nächst	ADJ	-	0:22:00.979000	0:22:02.152000	-	2338319
 dann	dann	ADV	-	0:22:00.979000	0:22:02.152000	-	2335116
 in	in	ADP	-	0:22:00.979000	0:22:02.152000	-	2337278
-[Oberpullendorf]O	Oberpullendorf	PROPN	-	0:22:02.152000	0:22:03.692000	-	2341615
+ORT	ORT	PROPN	-	0:22:02.152000	0:22:03.692000	ORT	2341615
 oder	oder	CCONJ	-	0:22:02.152000	0:22:03.692000	-	2344277
 so	so	ADV	-	0:22:02.152000	0:22:03.692000	-	2340823
 ?	-	-	-	0:22:02.152000	0:22:03.692000	-	2334774
@@ -5820,7 +5820,7 @@ in	in	ADP	-	0:22:20.259000	0:22:22.769000	-	2336790
 die	der	DET	-	0:22:20.259000	0:22:22.769000	-	2339704
 Bezirkshauptmannschaft	Bezirkshauptmannschaft	NOUN	App -belebt irrelevant Komp Pkon PM Poss PR Prel Zug	0:22:20.259000	0:22:22.769000	-	2334830
 in	in	ADP	??	0:22:20.259000	0:22:22.769000	-	2334967
-[Oberpullendorf]O	Oberpullendorf	PROPN	??|?? Asp Asp- kurz LautNach LautVor Len Len+ pLen PPräp stimm stimm- Vvel	0:22:22.769000	0:22:23.761000	oːb̥ɐb̥ʊln̩d̥ɒf	2341794
+ORT	ORT	PROPN	??|?? Asp Asp- kurz LautNach LautVor Len Len+ pLen PPräp stimm stimm- Vvel	0:22:22.769000	0:22:23.761000	ORT	2341794
 gehe	gehen	VERB	-	0:22:23.761000	0:22:24.039000	-	2345624
 ,	-	-	-	0:22:23.761000	0:22:24.039000	-	2346559
 </u>
@@ -9868,7 +9868,7 @@ ja	ja	PART	-	0:38:37.672000	0:38:38.512000	-	2334521
 ich	ich	PRON	-	0:38:38.512000	0:38:40.619000	-	2340223
 habe	habe	AUX	-	0:38:38.512000	0:38:40.619000	-	2338928
 den	der	DET	-	0:38:38.512000	0:38:40.619000	-	2341474
-[Seniorenbund]S	Seniorenbund	NOUN	App -belebt irrelevant Komp +menschl Pkon PM Poss PR Prel Soz	0:38:38.512000	0:38:40.619000	-	2342087
+SONSTIGE	SONSTIGE	NOUN	App -belebt irrelevant Komp +menschl Pkon PM Poss PR Prel Soz	0:38:38.512000	0:38:40.619000	SONSTIGE	2342087
 über	über	ADP	-	0:38:38.512000	0:38:40.619000	-	2344158
 .	-	-	-	0:38:38.512000	0:38:40.619000	-	2339445
 </u>
@@ -12906,12 +12906,12 @@ ich	ich	PRON	-	0:50:41	0:50:42.212000	-	2339443
 habe	habe	AUX	-	0:50:41	0:50:42.212000	-	2342215
 <pause duration="1,6s"/>
 ZAHL	ZAHL	NUM	-	0:50:42.212000	0:50:45.598000	ZAHL	2340302
-Jahre]Z	Jahr	NOUN	-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:50:42.212000	0:50:45.598000	-	2336109
+ZAHL	ZAHL	NOUN	-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:50:42.212000	0:50:45.598000	ZAHL	2336109
 die	der	DET	-	0:50:42.212000	0:50:45.598000	-	2339675
 die	der	DET	-	0:50:42.212000	0:50:45.598000	-	2334909
 ähm	ähm	ADJ	-	0:50:42.212000	0:50:45.598000	-	2337267
-[österreichische	österreichisch	ADJ	LautNach LautVor Ons Ons- P sPal sPal- sPal-t Vpal	0:50:45.598000	0:50:46.944000	øːsd̥ɐɾæe̯çiʃɛ	2335514
-Frauenbewegung]S	Frauenbewegung	NOUN	-	0:50:46.944000	0:50:47.528000	-	2343582
+SONSTIGE	SONSTIGE	ADJ	LautNach LautVor Ons Ons- P sPal sPal- sPal-t Vpal	0:50:45.598000	0:50:46.944000	SONSTIGE	2335514
+SONSTIGE	SONSTIGE	NOUN	-	0:50:46.944000	0:50:47.528000	SONSTIGE	2343582
 geleitet	leiten	VERB	ae-Diph äeDiph Asp Asp- eiReal Fort kurz L lang LautNach LautVor Len mhd. /ei/ P stimm stimm- tLen Vpal	0:50:47.528000	0:50:48.063000	g̥ɛlæe̯tɛd̥	2339707
 in	in	ADP	-	0:50:48.063000	0:50:48.662000	-	2336219
 ORT	ORT	NOUN	-	0:50:48.063000	0:50:48.662000	ORT	2343734
@@ -12931,9 +12931,9 @@ dann	dann	ADV	-	0:50:49.950000	0:50:51.896000	-	2340747
 war	sein	AUX	-	0:50:49.950000	0:50:51.896000	-	2345847
 ich	ich	PRON	-	0:50:49.950000	0:50:51.896000	-	2340099
 ZAHL	ZAHL	NUM	-	0:50:49.950000	0:50:51.896000	ZAHL	2346069
-Jahre]Z	Jahr	NOUN	-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:50:49.950000	0:50:51.896000	-	2342112
+ZAHL	ZAHL	NOUN	-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:50:49.950000	0:50:51.896000	ZAHL	2342112
 im	im	ADP	-	0:50:49.950000	0:50:51.896000	-	2335045
-[Gemeinderat]S	Gemeinderat	NOUN	ae-Diph äeDiph App -belebt eiReal irrelevant Komp LautNach LautVor mhd. /ei/ Nas Pkon PM Poss PR Prel Zug	0:50:51.896000	0:50:52.579000	g̥ɛmæe̯ndɛɾaːt	2340854
+SONSTIGE	SONSTIGE	NOUN	ae-Diph äeDiph App -belebt eiReal irrelevant Komp LautNach LautVor mhd. /ei/ Nas Pkon PM Poss PR Prel Zug	0:50:51.896000	0:50:52.579000	SONSTIGE	2340854
 tätig	tätigen	ADJ	äReal äVar e lang LautNach LautVor mhd. /æ/ P Wurzel	0:50:52.579000	0:50:53.190000	d̥eːd̥ɪç	2338819
 .	-	-	-	0:50:52.579000	0:50:53.190000	-	2344010
 ich	ich	PRON	-	0:50:53.190000	0:50:53.462000	-	2338916
@@ -12946,9 +12946,9 @@ ja	ja	PART	-	0:50:53.190000	0:50:53.462000	-	2345509
 habe	habe	AUX	-	0:50:53.462000	0:50:56.381000	-	2344498
 die	der	DET	-	0:50:53.462000	0:50:56.381000	-	2337801
 ZAHL	ZAHL	NUM	-	0:50:53.462000	0:50:56.381000	ZAHL	2343073
-Jahre]Z	Jahr	NOUN	-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:50:53.462000	0:50:56.381000	-	2339942
+ZAHL	ZAHL	NOUN	-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:50:53.462000	0:50:56.381000	ZAHL	2339942
 die	der	DET	-	0:50:53.462000	0:50:56.381000	-	2338935
-[Kultur]S	Kultur	NOUN	-	0:50:53.462000	0:50:56.381000	-	2345682
+SONSTIGE	SONSTIGE	NOUN	-	0:50:53.462000	0:50:56.381000	SONSTIGE	2345682
 übergehabt	übergehabt	VERB	-	0:50:53.462000	0:50:56.381000	-	2339589
 .	-	-	-	0:50:53.462000	0:50:56.381000	-	2335581
 <pause duration="0,8s"/>
@@ -14922,7 +14922,7 @@ wir	ich	PRON	-	0:57:59.001000	0:58:01.096000	-	2338172
 in	in	ADP	-	0:57:59.001000	0:58:01.096000	-	2345015
 <pause duration="0,7s"/>
 in	in	ADP	-	0:57:59.001000	0:58:01.096000	-	2338058
-[Malta]O	Malta	PROPN	-	0:58:01.096000	0:58:01.819000	maːltɐ	2340440
+ORT	ORT	PROPN	-	0:58:01.096000	0:58:01.819000	ORT	2340440
 .	-	-	-	0:58:01.096000	0:58:01.819000	-	2411566
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:58:01.819000" end="0:58:03.266000" persName="Informant EXP3" age_lower="1" age_upper="999">
@@ -14934,18 +14934,18 @@ schön	schön	ADJ	-	0:58:01.819000	0:58:03.266000	-	2342125
 </u>
 <u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" subproject="PP03" standard_competence="4" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:58:03.266000" end="0:58:09.313000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 in	in	ADP	-	0:58:03.266000	0:58:04.347000	-	2335099
-[Lourdes]O	Lourdes	PROPN	-	0:58:03.266000	0:58:04.347000	-	2342506
+ORT	ORT	PROPN	-	0:58:03.266000	0:58:04.347000	ORT	2342506
 waren	sein	AUX	-	0:58:03.266000	0:58:04.347000	-	2343351
 wir	ich	PRON	-	0:58:03.266000	0:58:04.347000	-	2343480
 zwei	zwei	NUM	ae-Diph äMono eiReal F LautNach LautVor MG mhd. /ei/ Nas	0:58:04.347000	0:58:04.719000	t͜svæː	2346214
 mal	mal	NOUN	-	0:58:04.719000	0:58:05.072000	-	2344201
 .	-	-	-	0:58:04.719000	0:58:05.072000	-	2341533
 <pause duration="0,8s"/>
-[Fatima]O	Fatima	NOUN	-	0:58:05.072000	0:58:06.489000	-	2341499
+ORT	ORT	NOUN	-	0:58:05.072000	0:58:06.489000	ORT	2341499
 ,	-	-	-	0:58:05.072000	0:58:06.489000	-	2336690
 <pause duration="1,0s"/>
 in	in	ADP	-	0:58:06.489000	0:58:08.030000	-	2345441
-[Rom]O	Rom	PROPN	-	0:58:06.489000	0:58:08.030000	-	2345247
+ORT	ORT	PROPN	-	0:58:06.489000	0:58:08.030000	ORT	2345247
 .	-	-	-	0:58:06.489000	0:58:08.030000	-	2338379
 ja	ja	PART	-	0:58:08.030000	0:58:09.313000	-	2335433
 ,	-	-	-	0:58:08.030000	0:58:09.313000	-	2334622
@@ -15119,11 +15119,11 @@ so	so	ADV	-	0:58:42.419000	0:58:46.089000	-	2339872
 wie	wie	CCONJ	-	0:58:42.419000	0:58:46.089000	-	2336603
 die	der	PRON	-	0:58:42.419000	0:58:46.089000	-	2338887
 die	der	DET	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond irrelevant	0:58:42.419000	0:58:46.089000	-	2344092
-[Frauenbewegung]S	Frauenbewegung	NOUN	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond irrelevant|App -belebt irrelevant Komp +menschl Pkon PM Poss PR Prel Quel	0:58:42.419000	0:58:46.089000	-	2337040
+SONSTIGE	SONSTIGE	NOUN	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond irrelevant|App -belebt irrelevant Komp +menschl Pkon PM Poss PR Prel Quel	0:58:42.419000	0:58:46.089000	SONSTIGE	2337040
 habe	habe	AUX	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond irrelevant	0:58:42.419000	0:58:46.089000	-	2343715
 ich	ich	PRON	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond irrelevant	0:58:42.419000	0:58:46.089000	-	2344549
 ZAHL	ZAHL	NUM	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond irrelevant	0:58:42.419000	0:58:46.089000	ZAHL	2334407
-Jahre]Z	Jahr	NOUN	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond irrelevant|-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:58:42.419000	0:58:46.089000	-	2339120
+ZAHL	ZAHL	NOUN	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond irrelevant|-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:58:42.419000	0:58:46.089000	ZAHL	2339120
 gehabt	haben	AUX	+menschl -belebt ?? App PM PR Pkon Poss Prel Präd Psond irrelevant|aReal aVar dumpf- F LautNach LautVor mhd. /a/ P Wurzel	0:58:42.419000	0:58:46.089000	g̥ɛhab̥tʰ	2336734
 ,	-	-	-	0:58:42.419000	0:58:46.089000	-	2339363
 nicht	nicht	PART	QuestTag	0:58:46.089000	0:58:48.577000	-	2346108
@@ -15159,7 +15159,7 @@ Gemeinderat	Gemeinderat	NOUN	aReal aVar dumpf- L LautNach LautVor mhd. /â/ P Wu
 war	sein	AUX	-	0:58:54.772000	0:58:55.936000	-	2334898
 ich	ich	PRON	-	0:58:54.772000	0:58:55.936000	-	2338126
 ZAHL	ZAHL	NUM	aReal aVar dumpf- F LautNach LautVor MG mhd. /a/ Wurzel	0:58:54.772000	0:58:55.936000	ZAHL	2335166
-Jahre]Z	Jahr	NOUN	-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:58:54.772000	0:58:55.936000	-	2338329
+ZAHL	ZAHL	NOUN	-e Interf Interf- NPL sd+ SDent Suff U- Uml	0:58:54.772000	0:58:55.936000	ZAHL	2338329
 ,	-	-	-	0:58:54.772000	0:58:55.936000	-	2335579
 da	da	ADV	-	0:58:55.936000	0:58:57.169000	-	2340058
 habe	habe	AUX	-	0:58:55.936000	0:58:57.169000	-	2342593
@@ -15211,7 +15211,7 @@ gemacht	machen	VERB	aReal aVar dumpf- F LautNach LautVor mhd. /a/ Nas Wurzel	0:5
 ,	-	-	-	0:59:07.719000	0:59:08.336000	-	2340110
 meistens	meistens	ADV	ADVS ae-Diph äeDiph ASond eiReal F LautNach LautVor mhd. /ei/ Nas Ons Ons- P sd+ SDent sPal sPal- sPal-t suppl Vpal	0:59:08.336000	0:59:08.865000	mæe̯sn̩s	2340618
 nach	nach	ADP	aReal aVar dumpf+ dumpfa F LautNach LautVor mhd. /â/ Nas Wurzel	0:59:08.865000	0:59:09.495000	nɒx	2342031
-[Wien]O	Wien	PROPN	-	0:59:08.865000	0:59:09.495000	-	2338859
+ORT	ORT	PROPN	-	0:59:08.865000	0:59:09.495000	ORT	2338859
 .	-	-	-	0:59:08.865000	0:59:09.495000	-	2337597
 gibt	geben	VERB	-	0:59:09.495000	0:59:10.817000	-	2341524
 es	ich	PRON	-	0:59:09.495000	0:59:10.817000	-	2336728
@@ -15363,25 +15363,25 @@ engagiert	engagieren	VERB	-	0:59:40.358000	0:59:41.958000	-	2343294
 <u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" subproject="PP03" standard_competence="4" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:59:41.958000" end="0:59:43.938000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 <pause duration="0,7s"/>
 im	im	ADP	-	0:59:41.958000	0:59:43.478000	-	2339793
-[Senioren=	Seniorenbund	NOUN	-	0:59:41.958000	0:59:43.478000	-	2343390
-bund]S	-	SPACE	-	0:59:43.478000	0:59:43.938000	-	2335220
+SONSTIGE	SONSTIGE	NOUN	-	0:59:41.958000	0:59:43.478000	SONSTIGE	2343390
+SONSTIGE	SONSTIGE	SPACE	-	0:59:43.478000	0:59:43.938000	SONSTIGE	2335220
 .	-	-	-	0:59:43.478000	0:59:43.938000	-	2344622
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:43.478000" end="0:59:44.225000" persName="Informant EXP3" age_lower="1" age_upper="999">
 im	im	ADP	-	0:59:43.478000	0:59:43.938000	-	2338399
-[Senio=	Seniorenbund	NOUN	-	0:59:43.478000	0:59:43.938000	-	2338865
-renbund]S	-	SPACE	-	0:59:43.938000	0:59:44.225000	-	2339435
+SONSTIGE	SONSTIGE	NOUN	-	0:59:43.478000	0:59:43.938000	SONSTIGE	2338865
+SONSTIGE	SONSTIGE	SPACE	-	0:59:43.938000	0:59:44.225000	SONSTIGE	2339435
 ,	-	-	-	0:59:43.938000	0:59:44.225000	-	2343228
 </u>
 <u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" subproject="PP03" standard_competence="4" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:59:44.225000" end="0:59:44.785000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
-[Senioren=	Seniorenbund	PROPN	-	0:59:44.225000	0:59:44.785000	-	2342287
+SONSTIGE	SONSTIGE	PROPN	-	0:59:44.225000	0:59:44.785000	SONSTIGE	2342287
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:44.225000" end="0:59:44.785000" persName="Informant EXP3" age_lower="1" age_upper="999">
 mhm	mhm	PROPN	-	0:59:44.225000	0:59:44.785000	-	2338257
 .	-	-	-	0:59:44.225000	0:59:44.785000	-	2339272
 </u>
 <u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" subproject="PP03" standard_competence="4" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:59:44.785000" end="1:00:00.892000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
-bund]S	-	SPACE	-	0:59:44.785000	0:59:45.452000	-	2335559
+SONSTIGE	SONSTIGE	SPACE	-	0:59:44.785000	0:59:45.452000	SONSTIGE	2335559
 ,	-	-	-	0:59:44.785000	0:59:45.452000	-	2334929
 ja	ja	PART	-	0:59:44.785000	0:59:45.452000	-	2341631
 .	-	-	-	0:59:44.785000	0:59:45.452000	-	2339056
@@ -15564,7 +15564,7 @@ vor/	-	-	-	1:00:18.652000	1:00:20.485000	-	2338264
 <pause duration="0,8s"/>
 ähm	ähm	X	-	1:00:20.485000	1:00:24.736000	-	2339489
 der	der	DET	-	1:00:20.485000	1:00:24.736000	-	2337236
-[Seniorenbestun/]S	Seniorenbestun	NOUN	-	1:00:20.485000	1:00:24.736000	-	2336490
+SONSTIGE	SONSTIGE	NOUN	-	1:00:20.485000	1:00:24.736000	SONSTIGE	2336490
 best/	-	-	-	1:00:20.485000	1:00:24.736000	-	2335629
 ähm	ähm	ADJ	-	1:00:20.485000	1:00:24.736000	-	2342122
 -bund	-bund	NOUN	-	1:00:20.485000	1:00:24.736000	-	2342307

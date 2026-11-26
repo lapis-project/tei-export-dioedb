@@ -2589,7 +2589,7 @@ ja	ja	PART	-	0:18:02.798000	0:18:03.565000	-	154647
 <u who="spk_144" sex="male" age="jung (18-35) -matura" name="Informant 0220" subproject="PP03" standard_competence="UNK" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:18:02.798000" end="0:18:36.451000" persName="Informant 0220" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (hm)	hm	PROPN	-	0:18:02.798000	0:18:03.565000	-	157124
 <pause duration="0,9s"/>
-[Neckenmarkt]O	Neckenmarkt	PROPN	-	0:18:03.565000	0:18:07.005000	-	154229
+ORT	ORT	PROPN	-	0:18:03.565000	0:18:07.005000	ORT	154229
 ,	-	-	-	0:18:03.565000	0:18:07.005000	-	157410
 nicht	nicht	PART	-	0:18:03.565000	0:18:07.005000	-	154346
 ?	-	-	-	0:18:03.565000	0:18:07.005000	-	154266
@@ -2949,7 +2949,7 @@ dass	dass	SCONJ	-	0:21:11.424000	0:21:14.584000	-	158154
 ich	ich	PRON	-	0:21:11.424000	0:21:14.584000	-	153848
 da	da	ADV	-	0:21:11.424000	0:21:14.584000	-	156176
 in	in	ADP	-	0:21:11.424000	0:21:14.584000	-	157926
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:21:11.424000	0:21:14.584000	-	153574
+ORT	ORT	NOUN	-	0:21:11.424000	0:21:14.584000	ORT	153574
 wohnen	wohnen	VERB	-	0:21:11.424000	0:21:14.584000	-	154032
 darf	dürfen	VERB	-	0:21:11.424000	0:21:14.584000	-	153032
 ,	-	-	-	0:21:11.424000	0:21:14.584000	-	155521
@@ -3083,7 +3083,7 @@ passt	passt	PROPN	-	0:22:12.844000	0:22:17.324000	-	154391
 <pause duration="1,1s"/>
 da	da	ADV	-	0:22:12.844000	0:22:17.324000	-	154342
 (in)	in	ADP	-	0:22:12.844000	0:22:17.324000	-	153820
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:22:12.844000	0:22:17.324000	-	157037
+ORT	ORT	NOUN	-	0:22:12.844000	0:22:17.324000	ORT	157037
 .	-	-	-	0:22:12.844000	0:22:17.324000	-	155110
 <pause duration="1,5s"/>
 </u>

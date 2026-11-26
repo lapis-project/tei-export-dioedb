@@ -4610,10 +4610,10 @@ Dialekt	-	-	-	0:16:07.043000	0:16:07.985000	-	5648252
 und	-	-	-	0:16:07.985000	0:16:09.044000	-	5648253
 lebt	-	-	-	0:16:07.985000	0:16:09.044000	-	5648254
 in	-	-	-	0:16:07.985000	0:16:09.044000	-	5648255
-[Tirol]x	-	-	-	0:16:07.985000	0:16:09.044000	-	5648256
-,	-	-	-	0:16:07.985000	0:16:09.044000	-	5648257
-nicht	-	-	-	0:16:07.985000	0:16:09.044000	-	5648258
-?	-	-	-	0:16:07.985000	0:16:09.044000	-	5648259
+ORT	ORT	-	-	0:16:07.985000	0:16:09.044000	ORT	5648256
+ORT	ORT	-	-	0:16:07.985000	0:16:09.044000	ORT	5648257
+ORT	ORT	-	-	0:16:07.985000	0:16:09.044000	ORT	5648258
+ORT	ORT	-	-	0:16:07.985000	0:16:09.044000	ORT	5648259
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:09.044000" end="0:16:09.890000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:16:09.044000	0:16:09.890000	-	5648260
@@ -4623,17 +4623,18 @@ oder	-	-	-	0:16:09.044000	0:16:09.890000	-	5648263
 ?	-	-	-	0:16:09.044000	0:16:09.890000	-	5648264
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:09.890000" end="0:16:10.968000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-das	-	-	-	0:16:09.890000	0:16:10.968000	-	5648265
-hat	-	-	-	0:16:09.890000	0:16:10.968000	-	5648266
-auch	-	-	-	0:16:09.890000	0:16:10.968000	-	5648267
-ein	-	-	-	0:16:09.890000	0:16:10.968000	-	5648268
-Zeitl	-	-	DIM	0:16:09.890000	0:16:10.968000	-	5648269
-gebraucht	-	-	-	0:16:09.890000	0:16:10.968000	-	5648270
-.	-	-	-	0:16:09.890000	0:16:10.968000	-	5648271
+ORT	ORT	-	-	0:16:09.890000	0:16:10.968000	ORT	5648265
+ORT	ORT	-	-	0:16:09.890000	0:16:10.968000	ORT	5648266
+ORT	ORT	-	-	0:16:09.890000	0:16:10.968000	ORT	5648267
+ORT	ORT	-	-	0:16:09.890000	0:16:10.968000	ORT	5648268
+ORT	ORT	-	DIM	0:16:09.890000	0:16:10.968000	ORT	5648269
+ORT	ORT	-	-	0:16:09.890000	0:16:10.968000	ORT	5648270
+ORT	ORT	-	-	0:16:09.890000	0:16:10.968000	ORT	5648271
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:10.968000" end="0:16:13.616000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:10.968000" end="0:16:13.616000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+ORT	ORT	-	-	0:16:10.968000	0:16:13.616000	ORT	5648273
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:13.616000" end="0:16:22.319000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 *dass*	-	-	-	0:16:13.616000	0:16:14.771000	-	5648274
@@ -4662,20 +4663,20 @@ nicht	-	-	-	0:16:18.277000	0:16:22.319000	-	5648298
 ?	-	-	-	0:16:18.277000	0:16:22.319000	-	5648299
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:22.319000" end="0:16:23.150000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:16:22.319000	0:16:23.150000	-	5648301
-?	-	-	-	0:16:22.319000	0:16:23.150000	-	5713989
+ORT	ORT	-	-	0:16:22.319000	0:16:23.150000	ORT	5648301
+ORT	ORT	-	-	0:16:22.319000	0:16:23.150000	ORT	5713989
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:23.150000" end="0:16:23.911000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:16:23.150000	0:16:23.911000	-	5648302
 .	-	-	-	0:16:23.150000	0:16:23.911000	-	5648303
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:23.911000" end="0:16:25.245000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:16:23.911000	0:16:25.245000	-	5648305
-wie	-	-	-	0:16:23.911000	0:16:25.245000	-	5648306
-gesagt	-	-	-	0:16:23.911000	0:16:25.245000	-	5648307
-ich	-	-	-	0:16:23.911000	0:16:25.245000	-	5648309
-habe	-	-	-	0:16:23.911000	0:16:25.245000	-	5648310
-eh	-	-	-	0:16:23.911000	0:16:25.245000	-	5648311
+ORT	ORT	-	-	0:16:23.911000	0:16:25.245000	ORT	5648305
+ORT	ORT	-	-	0:16:23.911000	0:16:25.245000	ORT	5648306
+ORT	ORT	-	-	0:16:23.911000	0:16:25.245000	ORT	5648307
+ORT	ORT	-	-	0:16:23.911000	0:16:25.245000	ORT	5648309
+ORT	ORT	-	-	0:16:23.911000	0:16:25.245000	ORT	5648310
+ORT	ORT	-	-	0:16:23.911000	0:16:25.245000	ORT	5648311
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:25.245000" end="0:16:26.239000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (langsam	-	-	-	0:16:25.245000	0:16:26.239000	-	5648318
@@ -4683,14 +4684,14 @@ eh	-	-	-	0:16:23.911000	0:16:25.245000	-	5648311
 nicht)	-	-	-	0:16:25.245000	0:16:26.239000	-	5648320
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:25.245000" end="0:16:26.624000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ein	-	-	-	0:16:25.245000	0:16:26.239000	-	5648312
-Zeitl	-	-	DIM	0:16:25.245000	0:16:26.239000	-	5648313
-gelebt	-	-	-	0:16:25.245000	0:16:26.239000	-	5648314
-in	-	-	-	0:16:25.245000	0:16:26.239000	-	5648315
+ORT	ORT	-	-	0:16:25.245000	0:16:26.239000	ORT	5648312
+ORT	ORT	-	DIM	0:16:25.245000	0:16:26.239000	ORT	5648313
+ORT	ORT	-	-	0:16:25.245000	0:16:26.239000	ORT	5648314
+ORT	ORT	-	-	0:16:25.245000	0:16:26.239000	ORT	5648315
 ORT	ORT	-	-	0:16:25.245000	0:16:26.239000	ORT	5648316
-,	-	-	-	0:16:25.245000	0:16:26.239000	-	5648317
-aber	-	-	-	0:16:26.239000	0:16:26.624000	-	5648321
-/.	-	-	-	0:16:26.239000	0:16:26.624000	-	5648329
+ORT	ORT	-	-	0:16:25.245000	0:16:26.239000	ORT	5648317
+ORT	ORT	-	-	0:16:26.239000	0:16:26.624000	ORT	5648321
+ORT	ORT	-	-	0:16:26.239000	0:16:26.624000	ORT	5648329
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:26.624000" end="0:16:29.109000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:16:26.624000	0:16:28.803000	-	5648322
@@ -4705,40 +4706,40 @@ damit	-	-	-	0:16:26.624000	0:16:28.803000	-	5648328
 .	-	-	-	0:16:28.803000	0:16:29.109000	-	5648332
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:28.803000" end="0:16:30.064000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-werden	-	-	-	0:16:28.803000	0:16:29.109000	-	5648333
-wir	-	-	-	0:16:28.803000	0:16:29.109000	-	5648334
-nicht	-	-	-	0:16:29.109000	0:16:30.064000	-	5648335
-warm	-	-	-	0:16:29.109000	0:16:30.064000	-	5648336
-damit	-	-	-	0:16:29.109000	0:16:30.064000	-	5648337
-.	-	-	-	0:16:29.109000	0:16:30.064000	-	5648338
+ORT	ORT	-	-	0:16:28.803000	0:16:29.109000	ORT	5648333
+ORT	ORT	-	-	0:16:28.803000	0:16:29.109000	ORT	5648334
+ORT	ORT	-	-	0:16:29.109000	0:16:30.064000	ORT	5648335
+ORT	ORT	-	-	0:16:29.109000	0:16:30.064000	ORT	5648336
+ORT	ORT	-	-	0:16:29.109000	0:16:30.064000	ORT	5648337
+ORT	ORT	-	-	0:16:29.109000	0:16:30.064000	ORT	5648338
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:30.064000" end="0:16:30.759000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:16:30.064000	0:16:30.759000	-	5648339
 .	-	-	-	0:16:30.064000	0:16:30.759000	-	5648340
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:30.759000" end="0:16:35.329000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-das	-	-	-	0:16:30.759000	0:16:31.259000	-	5648341
-einzige	-	-	-	0:16:30.759000	0:16:31.259000	-	5648342
-,	-	-	-	0:16:30.759000	0:16:31.259000	-	5648343
-das	-	-	-	0:16:31.259000	0:16:33.272000	-	5648344
-"ur"	-	-	-	0:16:31.259000	0:16:33.272000	-	5648345
-finde	-	-	-	0:16:31.259000	0:16:33.272000	-	5648346
-ich	-	-	-	0:16:31.259000	0:16:33.272000	-	5648347
-ab	-	-	-	0:16:31.259000	0:16:33.272000	-	5648348
-und	-	-	-	0:16:31.259000	0:16:33.272000	-	5648349
-zu	-	-	-	0:16:31.259000	0:16:33.272000	-	5648350
-ganz	-	-	-	0:16:31.259000	0:16:33.272000	-	5648351
-(dankbar)	-	-	-	0:16:31.259000	0:16:33.272000	-	5648352
-,	-	-	-	0:16:31.259000	0:16:33.272000	-	5648353
-aber	-	-	-	0:16:33.272000	0:16:35.329000	-	5648354
-das	-	-	-	0:16:33.272000	0:16:35.329000	-	5648355
-ist	-	-	-	0:16:33.272000	0:16:35.329000	-	5648356
-eher	-	-	-	0:16:33.272000	0:16:35.329000	-	5648357
-Jugendsprache	-	-	-	0:16:33.272000	0:16:35.329000	-	5648358
-schon	-	-	-	0:16:33.272000	0:16:35.329000	-	5648359
-wieder	-	-	-	0:16:33.272000	0:16:35.329000	-	5648360
-fast	-	-	-	0:16:33.272000	0:16:35.329000	-	5648361
-.	-	-	-	0:16:33.272000	0:16:35.329000	-	5648362
+ORT	ORT	-	-	0:16:30.759000	0:16:31.259000	ORT	5648341
+ORT	ORT	-	-	0:16:30.759000	0:16:31.259000	ORT	5648342
+ORT	ORT	-	-	0:16:30.759000	0:16:31.259000	ORT	5648343
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648344
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648345
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648346
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648347
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648348
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648349
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648350
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648351
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648352
+ORT	ORT	-	-	0:16:31.259000	0:16:33.272000	ORT	5648353
+ORT	ORT	-	-	0:16:33.272000	0:16:35.329000	ORT	5648354
+ORT	ORT	-	-	0:16:33.272000	0:16:35.329000	ORT	5648355
+ORT	ORT	-	-	0:16:33.272000	0:16:35.329000	ORT	5648356
+ORT	ORT	-	-	0:16:33.272000	0:16:35.329000	ORT	5648357
+ORT	ORT	-	-	0:16:33.272000	0:16:35.329000	ORT	5648358
+ORT	ORT	-	-	0:16:33.272000	0:16:35.329000	ORT	5648359
+ORT	ORT	-	-	0:16:33.272000	0:16:35.329000	ORT	5648360
+ORT	ORT	-	-	0:16:33.272000	0:16:35.329000	ORT	5648361
+ORT	ORT	-	-	0:16:33.272000	0:16:35.329000	ORT	5648362
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:35.329000" end="0:16:39.601000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:16:35.329000	0:16:35.692000	-	5648363
@@ -4757,21 +4758,21 @@ noch	-	-	-	0:16:37.134000	0:16:37.839000	-	5648371
 ,	-	-	-	0:16:38.290000	0:16:39.601000	-	5648379
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:38.290000" end="0:16:39.601000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-(ja)	-	-	-	0:16:38.290000	0:16:39.601000	-	5648376
+ORT	ORT	-	-	0:16:38.290000	0:16:39.601000	ORT	5648376
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:39.601000" end="0:16:40.103000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 oder	-	-	-	0:16:39.601000	0:16:40.103000	-	5648377
 ?	-	-	-	0:16:39.601000	0:16:40.103000	-	5648378
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:39.601000" end="0:16:40.103000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-schon	-	-	-	0:16:39.601000	0:16:40.103000	-	5648380
-?	-	-	-	0:16:39.601000	0:16:40.103000	-	5713990
+ORT	ORT	-	-	0:16:39.601000	0:16:40.103000	ORT	5648380
+ORT	ORT	-	-	0:16:39.601000	0:16:40.103000	ORT	5713990
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:40.103000" end="0:16:41.406000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:40.103000" end="0:16:41.406000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,3s"/>
+ORT	ORT	-	-	0:16:40.103000	0:16:41.406000	ORT	5648382
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:41.406000" end="0:16:42.736000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 sagt	-	-	-	0:16:41.406000	0:16:42.736000	-	5648384
@@ -4782,19 +4783,21 @@ mehr	-	-	-	0:16:41.406000	0:16:42.736000	-	5648387
 ?	-	-	-	0:16:41.406000	0:16:42.736000	-	5648388
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:41.406000" end="0:16:45.452000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:16:41.406000	0:16:42.736000	-	5648390
-,	-	-	-	0:16:41.406000	0:16:42.736000	-	5648392
-es	-	-	-	0:16:41.406000	0:16:42.736000	-	5648391
-ist	-	-	-	0:16:41.406000	0:16:42.736000	-	5648393
-(ja)	-	-	-	0:16:41.406000	0:16:42.736000	-	5648394
-mehr	-	-	-	0:16:41.406000	0:16:42.736000	-	5648395
-so	-	-	-	0:16:41.406000	0:16:42.736000	-	5648396
-dieses	-	-	-	0:16:41.406000	0:16:42.736000	-	5648397
-"(?)	-	-	-	0:16:42.736000	0:16:45.452000	-	5648398
-heast	-	-	-	0:16:42.736000	0:16:45.452000	-	5648399
-Hawara"	-	-	-	0:16:42.736000	0:16:45.452000	-	5648400
-((Prosodie	-	-	-	0:16:42.736000	0:16:45.452000	-	5648406
-imitierend)	-	-	-	0:16:42.736000	0:16:45.452000	-	5648407
+ORT	ORT	-	-	0:16:41.406000	0:16:42.736000	ORT	5648390
+ORT	ORT	-	-	0:16:41.406000	0:16:42.736000	ORT	5648392
+ORT	ORT	-	-	0:16:41.406000	0:16:42.736000	ORT	5648391
+ORT	ORT	-	-	0:16:41.406000	0:16:42.736000	ORT	5648393
+ORT	ORT	-	-	0:16:41.406000	0:16:42.736000	ORT	5648394
+ORT	ORT	-	-	0:16:41.406000	0:16:42.736000	ORT	5648395
+ORT	ORT	-	-	0:16:41.406000	0:16:42.736000	ORT	5648396
+ORT	ORT	-	-	0:16:41.406000	0:16:42.736000	ORT	5648397
+ORT	ORT	-	-	0:16:42.736000	0:16:45.452000	ORT	5648398
+ORT	ORT	-	-	0:16:42.736000	0:16:45.452000	ORT	5648399
+ORT	ORT	-	-	0:16:42.736000	0:16:45.452000	ORT	5648400
+ORT	ORT	-	-	0:16:42.736000	0:16:45.452000	ORT	5648401
+ORT	ORT	-	-	0:16:42.736000	0:16:45.452000	ORT	5648406
+ORT	ORT	-	-	0:16:42.736000	0:16:45.452000	ORT	5648407
+ORT	ORT	-	-	0:16:42.736000	0:16:45.452000	ORT	5648402
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:45.452000" end="0:16:47.290000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 _ma_	-	-	-	0:16:45.452000	0:16:45.974000	-	5648403
@@ -4803,7 +4806,7 @@ ja	-	-	-	0:16:45.452000	0:16:45.974000	-	5648404
 <pause duration="1,3s"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:45.974000" end="0:16:47.290000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,3s"/>
+ORT	ORT	-	-	0:16:45.974000	0:16:47.290000	ORT	5648409
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:47.290000" end="0:16:49.817000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 "is	-	-	-	0:16:47.290000	0:16:48.543000	-	5648410
@@ -4815,17 +4818,17 @@ woa	-	-	-	0:16:48.543000	0:16:49.817000	-	5648415
 ,	-	-	-	0:16:48.543000	0:16:49.817000	-	5648422
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:48.543000" end="0:16:50.556000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-"leiwand"	-	-	-	0:16:48.543000	0:16:49.817000	-	5648416
-,	-	-	-	0:16:48.543000	0:16:49.817000	-	5648423
-(Aussprache	-	-	-	0:16:48.543000	0:16:49.817000	-	5648417
-noch	-	-	-	0:16:48.543000	0:16:49.817000	-	5648419
-stärker	-	-	-	0:16:48.543000	0:16:49.817000	-	5648420
-imitierend))	-	-	-	0:16:48.543000	0:16:49.817000	-	5648421
-"ja"	-	-	-	0:16:49.817000	0:16:50.556000	-	5648424
-,	-	-	-	0:16:49.817000	0:16:50.556000	-	5648432
-((Aussprache	-	-	-	0:16:49.817000	0:16:50.556000	-	5648425
-stark	-	-	-	0:16:49.817000	0:16:50.556000	-	5648427
-imitierend))	-	-	-	0:16:49.817000	0:16:50.556000	-	5648428
+ORT	ORT	-	-	0:16:48.543000	0:16:49.817000	ORT	5648416
+ORT	ORT	-	-	0:16:48.543000	0:16:49.817000	ORT	5648423
+ORT	ORT	-	-	0:16:48.543000	0:16:49.817000	ORT	5648417
+ORT	ORT	-	-	0:16:48.543000	0:16:49.817000	ORT	5648419
+ORT	ORT	-	-	0:16:48.543000	0:16:49.817000	ORT	5648420
+ORT	ORT	-	-	0:16:48.543000	0:16:49.817000	ORT	5648421
+ORT	ORT	-	-	0:16:49.817000	0:16:50.556000	ORT	5648424
+ORT	ORT	-	-	0:16:49.817000	0:16:50.556000	ORT	5648432
+ORT	ORT	-	-	0:16:49.817000	0:16:50.556000	ORT	5648425
+ORT	ORT	-	-	0:16:49.817000	0:16:50.556000	ORT	5648427
+ORT	ORT	-	-	0:16:49.817000	0:16:50.556000	ORT	5648428
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:50.556000" end="0:16:51.462000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 so	-	-	-	0:16:50.556000	0:16:51.462000	-	5648429
@@ -4833,14 +4836,14 @@ _schiach_	-	-	-	0:16:50.556000	0:16:51.462000	-	5648430
 .	-	-	-	0:16:50.556000	0:16:51.462000	-	5648431
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:51.462000" end="0:16:53.887000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-"küss	-	-	-	0:16:51.462000	0:16:53.887000	-	5648433
-die	-	-	-	0:16:51.462000	0:16:53.887000	-	5648434
-Hand	-	-	-	0:16:51.462000	0:16:53.887000	-	5648435
-gnädige	-	-	-	0:16:51.462000	0:16:53.887000	-	5648436
-Frau"	-	-	-	0:16:51.462000	0:16:53.887000	-	5648437
-((Aussprache	-	-	-	0:16:51.462000	0:16:53.887000	-	5648438
-stark	-	-	-	0:16:51.462000	0:16:53.887000	-	5648440
-imitierend))	-	-	-	0:16:51.462000	0:16:53.887000	-	5648441
+ORT	ORT	-	-	0:16:51.462000	0:16:53.887000	ORT	5648433
+ORT	ORT	-	-	0:16:51.462000	0:16:53.887000	ORT	5648434
+ORT	ORT	-	-	0:16:51.462000	0:16:53.887000	ORT	5648435
+ORT	ORT	-	-	0:16:51.462000	0:16:53.887000	ORT	5648436
+ORT	ORT	-	-	0:16:51.462000	0:16:53.887000	ORT	5648437
+ORT	ORT	-	-	0:16:51.462000	0:16:53.887000	ORT	5648438
+ORT	ORT	-	-	0:16:51.462000	0:16:53.887000	ORT	5648440
+ORT	ORT	-	-	0:16:51.462000	0:16:53.887000	ORT	5648441
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:53.887000" end="0:16:56.470000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 pfui	-	-	-	0:16:53.887000	0:16:54.263000	-	5648442
@@ -4857,11 +4860,11 @@ schon	-	-	-	0:16:55.701000	0:16:56.470000	-	5648452
 ,	-	-	-	0:16:55.701000	0:16:56.470000	-	5648453
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:55.701000" end="0:16:56.470000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-na	-	-	-	0:16:55.701000	0:16:56.470000	-	5648454
-,	-	-	-	0:16:55.701000	0:16:56.470000	-	5713992
-na	-	-	-	0:16:55.701000	0:16:56.470000	-	5713994
-na	-	-	-	0:16:55.701000	0:16:56.470000	-	5713993
-,	-	-	-	0:16:55.701000	0:16:56.470000	-	5713995
+ORT	ORT	-	-	0:16:55.701000	0:16:56.470000	ORT	5648454
+ORT	ORT	-	-	0:16:55.701000	0:16:56.470000	ORT	5713992
+ORT	ORT	-	-	0:16:55.701000	0:16:56.470000	ORT	5713994
+ORT	ORT	-	-	0:16:55.701000	0:16:56.470000	ORT	5713993
+ORT	ORT	-	-	0:16:55.701000	0:16:56.470000	ORT	5713995
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:56.470000" end="0:16:58.459000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 voll	-	-	-	0:16:56.470000	0:16:56.970000	-	5648455
@@ -4878,17 +4881,18 @@ schon	-	-	-	0:16:56.970000	0:16:58.459000	-	5648467
 .	-	-	-	0:16:56.970000	0:16:58.459000	-	5648470
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:56.970000" end="0:16:58.459000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-(geliebt)	-	-	-	0:16:56.970000	0:16:58.459000	-	5648459
-als	-	-	-	0:16:56.970000	0:16:58.459000	-	5648460
-Stadt	-	-	-	0:16:56.970000	0:16:58.459000	-	5648461
-.	-	-	-	0:16:56.970000	0:16:58.459000	-	5648469
+ORT	ORT	-	-	0:16:56.970000	0:16:58.459000	ORT	5648458
+ORT	ORT	-	-	0:16:56.970000	0:16:58.459000	ORT	5648459
+ORT	ORT	-	-	0:16:56.970000	0:16:58.459000	ORT	5648460
+ORT	ORT	-	-	0:16:56.970000	0:16:58.459000	ORT	5648461
+ORT	ORT	-	-	0:16:56.970000	0:16:58.459000	ORT	5648469
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:58.459000" end="0:16:58.816000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 rede	-	-	-	0:16:58.459000	0:16:58.816000	-	5648471
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:58.459000" end="0:16:58.816000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-freilich	-	-	-	0:16:58.459000	0:16:58.816000	-	5648472
-.	-	-	-	0:16:58.459000	0:16:58.816000	-	5648473
+ORT	ORT	-	-	0:16:58.459000	0:16:58.816000	ORT	5648472
+ORT	ORT	-	-	0:16:58.459000	0:16:58.816000	ORT	5648473
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:58.816000" end="0:17:03.784000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 über	-	-	-	0:16:58.816000	0:16:59.509000	-	5648474
@@ -4916,10 +4920,10 @@ oder	-	-	-	0:17:01.739000	0:17:03.784000	-	5648495
 ?	-	-	-	0:17:01.739000	0:17:03.784000	-	5648496
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:03.784000" end="0:17:04.865000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="0,5s"/>
-ja	-	-	-	0:17:03.784000	0:17:04.865000	-	5648498
-freilich	-	-	-	0:17:03.784000	0:17:04.865000	-	5648499
-,	-	-	-	0:17:03.784000	0:17:04.865000	-	5648500
+ORT	ORT	-	-	0:17:03.784000	0:17:04.865000	ORT	5648497
+ORT	ORT	-	-	0:17:03.784000	0:17:04.865000	ORT	5648498
+ORT	ORT	-	-	0:17:03.784000	0:17:04.865000	ORT	5648499
+ORT	ORT	-	-	0:17:03.784000	0:17:04.865000	ORT	5648500
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:04.865000" end="0:17:05.854000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (über)	-	-	-	0:17:04.865000	0:17:05.854000	-	5648501
@@ -4927,7 +4931,8 @@ Heimat	-	-	-	0:17:04.865000	0:17:05.854000	-	5648502
 ,	-	-	-	0:17:04.865000	0:17:05.854000	-	5713997
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:04.865000" end="0:17:06.627000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-Taufkirchen	-	-	-	0:17:04.865000	0:17:05.854000	-	5648504
+ORT	ORT	-	-	0:17:04.865000	0:17:05.854000	ORT	5648504
+ORT	ORT	-	-	0:17:05.854000	0:17:06.627000	ORT	5648505
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:06.627000" end="0:17:11.612000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
@@ -4936,28 +4941,31 @@ die	-	-	-	0:17:06.627000	0:17:07.875000	-	5648508
 Heimat	-	-	-	0:17:06.627000	0:17:07.875000	-	5648509
 ,	-	-	-	0:17:06.627000	0:17:07.875000	-	5648510
 über	-	-	-	0:17:07.875000	0:17:08.752000	-	5648511
-[Taufkirchen]O	-	-	-	0:17:07.875000	0:17:08.752000	-	5648512
+ORT	ORT	-	-	0:17:07.875000	0:17:08.752000	ORT	5648512
 hm	-	-	-	0:17:08.752000	0:17:10.358000	-	5648513
 ja	-	-	-	0:17:08.752000	0:17:10.358000	-	5648514
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:10.358000" end="0:17:11.612000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+ORT	ORT	-	-	0:17:10.358000	0:17:11.612000	ORT	5648516
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:11.612000" end="0:17:13.646000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:11.612000" end="0:17:13.646000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-da	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	-	5648517
-hätten	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	-	5648518
-wir	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	-	5648519
-jetzt	-	-	-	0:17:11.612000	0:17:13.646000	-	5648520
-den	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	-	5648521
-NAME	NAME	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	NAME	5648522
-gebraucht	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	-	5648523
-dazu	-	-	-	0:17:11.612000	0:17:13.646000	-	5648524
-.	-	-	-	0:17:11.612000	0:17:13.646000	-	5648525
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	ORT	5648517
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	ORT	5648518
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	ORT	5648519
+ORT	ORT	-	-	0:17:11.612000	0:17:13.646000	ORT	5648520
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	ORT	5648521
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	ORT	5648522
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:17:11.612000	0:17:13.646000	ORT	5648523
+ORT	ORT	-	-	0:17:11.612000	0:17:13.646000	ORT	5648524
+ORT	ORT	-	-	0:17:11.612000	0:17:13.646000	ORT	5648525
+ORT	ORT	-	-	0:17:11.612000	0:17:13.646000	ORT	5648526
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:13.646000" end="0:17:15.472000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:13.646000" end="0:17:15.472000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+ORT	ORT	-	-	0:17:13.646000	0:17:15.472000	ORT	5648529
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:15.472000" end="0:17:18.174000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 warum	-	-	-	0:17:15.472000	0:17:15.949000	-	5648530
@@ -4972,30 +4980,31 @@ dann	-	-	-	0:17:16.964000	0:17:18.174000	-	5648538
 /.	-	-	-	0:17:16.964000	0:17:18.174000	-	5648545
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:16.964000" end="0:17:20.306000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:17:16.964000	0:17:18.174000	-	5648540
-weil	-	-	-	0:17:16.964000	0:17:18.174000	-	5648541
-er	-	-	-	0:17:16.964000	0:17:18.174000	-	5648542
-ja	-	-	-	0:17:16.964000	0:17:18.174000	-	5648543
-ewig	-	-	-	0:17:16.964000	0:17:18.174000	-	5648544
-/.	-	-	-	0:17:16.964000	0:17:18.174000	-	5713998
-weil	-	-	-	0:17:18.174000	0:17:18.690000	-	5648546
-er	-	-	-	0:17:18.174000	0:17:18.690000	-	5648547
-gesagt	-	-	-	0:17:18.174000	0:17:18.690000	-	5648548
-hat	-	-	-	0:17:18.174000	0:17:18.690000	-	5648549
-,	-	-	-	0:17:18.174000	0:17:18.690000	-	5648550
-auf	-	-	-	0:17:18.690000	0:17:20.306000	-	5648551
+ORT	ORT	-	-	0:17:16.964000	0:17:18.174000	ORT	5648540
+ORT	ORT	-	-	0:17:16.964000	0:17:18.174000	ORT	5648541
+ORT	ORT	-	-	0:17:16.964000	0:17:18.174000	ORT	5648542
+ORT	ORT	-	-	0:17:16.964000	0:17:18.174000	ORT	5648543
+ORT	ORT	-	-	0:17:16.964000	0:17:18.174000	ORT	5648544
+ORT	ORT	-	-	0:17:16.964000	0:17:18.174000	ORT	5713998
+ORT	ORT	-	-	0:17:18.174000	0:17:18.690000	ORT	5648546
+ORT	ORT	-	-	0:17:18.174000	0:17:18.690000	ORT	5648547
+ORT	ORT	-	-	0:17:18.174000	0:17:18.690000	ORT	5648548
+ORT	ORT	-	-	0:17:18.174000	0:17:18.690000	ORT	5648549
+ORT	ORT	-	-	0:17:18.174000	0:17:18.690000	ORT	5648550
+ORT	ORT	-	-	0:17:18.690000	0:17:20.306000	ORT	5648551
 ORT	ORT	-	-	0:17:18.690000	0:17:20.306000	ORT	5648552
-zieht	-	-	-	0:17:18.690000	0:17:20.306000	-	5648553
-er	-	-	-	0:17:18.690000	0:17:20.306000	-	5648554
-sicher	-	-	-	0:17:18.690000	0:17:20.306000	-	5648555
-nie	-	-	-	0:17:18.690000	0:17:20.306000	-	5648556
-.	-	-	-	0:17:18.690000	0:17:20.306000	-	5648558
+ORT	ORT	-	-	0:17:18.690000	0:17:20.306000	ORT	5648553
+ORT	ORT	-	-	0:17:18.690000	0:17:20.306000	ORT	5648554
+ORT	ORT	-	-	0:17:18.690000	0:17:20.306000	ORT	5648555
+ORT	ORT	-	-	0:17:18.690000	0:17:20.306000	ORT	5648556
+ORT	ORT	-	-	0:17:18.690000	0:17:20.306000	ORT	5648558
+ORT	ORT	-	-	0:17:18.690000	0:17:20.306000	ORT	5648557
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:20.306000" end="0:17:21.346000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:20.306000" end="0:17:21.346000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,0s"/>
+ORT	ORT	-	-	0:17:20.306000	0:17:21.346000	ORT	5648560
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:21.346000" end="0:17:26.434000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:17:21.346000	0:17:22.776000	-	5648561
@@ -5022,9 +5031,9 @@ einfach	-	-	-	0:17:25.718000	0:17:26.434000	-	5648581
 nicht	-	-	-	0:17:25.718000	0:17:26.434000	-	5648582
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:25.718000" end="0:17:26.434000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ah	-	-	-	0:17:25.718000	0:17:26.434000	-	5648583
-okay	-	-	-	0:17:25.718000	0:17:26.434000	-	5648584
-.	-	-	-	0:17:25.718000	0:17:26.434000	-	5648585
+ORT	ORT	-	-	0:17:25.718000	0:17:26.434000	ORT	5648583
+ORT	ORT	-	-	0:17:25.718000	0:17:26.434000	ORT	5648584
+ORT	ORT	-	-	0:17:25.718000	0:17:26.434000	ORT	5648585
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:26.434000" end="0:17:29.980000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
@@ -5036,12 +5045,13 @@ nicht	-	-	-	0:17:27.625000	0:17:29.980000	-	5648591
 .	-	-	-	0:17:27.625000	0:17:29.980000	-	5648592
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:29.980000" end="0:17:32.901000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:17:29.980000	0:17:30.640000	-	5648594
-ähm	-	-	-	0:17:29.980000	0:17:30.640000	-	5648595
-,	-	-	-	0:17:29.980000	0:17:30.640000	-	5648596
-verstehe	-	-	-	0:17:30.640000	0:17:32.901000	-	5648597
-ich	-	-	-	0:17:30.640000	0:17:32.901000	-	5648598
-auch	-	-	-	0:17:30.640000	0:17:32.901000	-	5648599
+ORT	ORT	-	-	0:17:29.980000	0:17:30.640000	ORT	5648594
+ORT	ORT	-	-	0:17:29.980000	0:17:30.640000	ORT	5648595
+ORT	ORT	-	-	0:17:29.980000	0:17:30.640000	ORT	5648596
+ORT	ORT	-	-	0:17:30.640000	0:17:32.901000	ORT	5648597
+ORT	ORT	-	-	0:17:30.640000	0:17:32.901000	ORT	5648598
+ORT	ORT	-	-	0:17:30.640000	0:17:32.901000	ORT	5648599
+ORT	ORT	-	-	0:17:30.640000	0:17:32.901000	ORT	5648600
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:32.901000" end="0:17:45.223000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:32.901000	0:17:34.754000	-	5648601
@@ -5091,161 +5101,164 @@ nicht	-	-	-	0:17:42.586000	0:17:44.244000	-	5648641
 bleibe)	-	-	-	0:17:44.244000	0:17:45.223000	-	5648645
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:44.244000" end="0:17:45.223000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-(aber	-	-	-	0:17:44.244000	0:17:45.223000	-	5648648
-ich)	-	-	-	0:17:44.244000	0:17:45.223000	-	5648649
+ORT	ORT	-	-	0:17:44.244000	0:17:45.223000	ORT	5648648
+ORT	ORT	-	-	0:17:44.244000	0:17:45.223000	ORT	5648649
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:45.223000" end="0:17:46.708000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 einfach	-	-	-	0:17:45.223000	0:17:45.830000	-	5648646
 nicht	-	-	-	0:17:45.223000	0:17:45.830000	-	5648647
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:45.830000" end="0:18:03.688000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ich	-	-	-	0:17:45.830000	0:17:46.708000	-	5648651
-finde	-	-	-	0:17:45.830000	0:17:46.708000	-	5648652
-es	-	-	-	0:17:45.830000	0:17:46.708000	-	5648653
-eigentlich	-	-	-	0:17:45.830000	0:17:46.708000	-	5648654
-da	-	-	-	0:17:46.708000	0:17:47.748000	-	5648655
-schon	-	-	-	0:17:46.708000	0:17:47.748000	-	5648656
-dankbar	-	-	-	0:17:46.708000	0:17:47.748000	-	5648657
-,	-	-	-	0:17:46.708000	0:17:47.748000	-	5648658
-weil	-	-	-	0:17:47.748000	0:17:48.529000	-	5648659
-da	-	-	-	0:17:47.748000	0:17:48.529000	-	5648660
-*hast*	-	-	-	0:17:47.748000	0:17:48.529000	-	5648661
-deine	-	-	-	0:17:47.748000	0:17:48.529000	-	5648662
-/.	-	-	-	0:17:47.748000	0:17:48.529000	-	5648663
-*meine*	-	-	-	0:17:48.529000	0:17:48.959000	-	5648664
-,	-	-	-	0:17:48.529000	0:17:48.959000	-	5648665
-natürlich	-	-	-	0:17:48.959000	0:17:52.550000	-	5648666
-von	-	-	-	0:17:48.959000	0:17:52.550000	-	5648667
-Ried	-	-	-	0:17:48.959000	0:17:52.550000	-	5648668
-*bist*	-	-	-	0:17:48.959000	0:17:52.550000	-	5648669
-nicht	-	-	-	0:17:48.959000	0:17:52.550000	-	5648670
-so	-	-	-	0:17:48.959000	0:17:52.550000	-	5648671
-weit	-	-	-	0:17:48.959000	0:17:52.550000	-	5648672
-weg	-	-	-	0:17:48.959000	0:17:52.550000	-	5648673
-vom	-	-	-	0:17:48.959000	0:17:52.550000	-	5648674
-Salzkammergut	-	-	-	0:17:48.959000	0:17:52.550000	-	5648675
-,	-	-	-	0:17:48.959000	0:17:52.550000	-	5648676
-<pause duration="0,7s"/>
-aber	-	-	-	0:17:52.550000	0:17:59.386000	-	5648677
-(du)	-	-	-	0:17:52.550000	0:17:59.386000	-	5648678
-hast	-	-	-	0:17:52.550000	0:17:59.386000	-	5648679
-<pause duration="1,0s"/>
-da	-	-	-	0:17:52.550000	0:17:59.386000	-	5648681
-jetzt	-	-	-	0:17:52.550000	0:17:59.386000	-	5648682
-zum	-	-	-	0:17:52.550000	0:17:59.386000	-	5648683
-Beispiel	-	-	-	0:17:52.550000	0:17:59.386000	-	5648684
-genau	-	-	-	0:17:52.550000	0:17:59.386000	-	5648685
-die	-	-	-	0:17:52.550000	0:17:59.386000	-	5648686
-Grenzen	-	-	-	0:17:52.550000	0:17:59.386000	-	5648687
-vom	-	-	-	0:17:52.550000	0:17:59.386000	-	5648688
-Sauwald	-	-	-	0:17:52.550000	0:17:59.386000	-	5648689
-und	-	-	-	0:17:52.550000	0:17:59.386000	-	5648690
-vom	-	-	-	0:17:52.550000	0:17:59.386000	-	5648691
-Flachland	-	-	-	0:17:52.550000	0:17:59.386000	-	5648692
-im	-	-	-	0:17:52.550000	0:17:59.386000	-	5648693
-Endeffekt	-	-	-	0:17:52.550000	0:17:59.386000	-	5648694
-,	-	-	-	0:17:52.550000	0:17:59.386000	-	5648695
-eben	-	-	-	0:17:59.386000	0:18:00.243000	-	5648697
-Richtung	-	-	-	0:17:59.386000	0:18:00.243000	-	5648698
-Ried	-	-	-	0:17:59.386000	0:18:00.243000	-	5648699
-,	-	-	-	0:17:59.386000	0:18:00.243000	-	5648700
-<pause duration="0,5s"/>
-*wennsd*	-	-	-	0:18:00.243000	0:18:01.474000	-	5648702
-jetzt	-	-	-	0:18:00.243000	0:18:01.474000	-	5648703
-(einen)	-	-	-	0:18:00.243000	0:18:01.474000	-	5648704
-/.	-	-	-	0:18:00.243000	0:18:01.474000	-	5648705
-gut	-	-	-	0:18:01.474000	0:18:03.688000	-	5648706
-,	-	-	-	0:18:01.474000	0:18:03.688000	-	5648707
-ein	-	-	-	0:18:01.474000	0:18:03.688000	-	5648708
-Rieder	-	-	-	0:18:01.474000	0:18:03.688000	-	5648709
-hat	-	-	-	0:18:01.474000	0:18:03.688000	-	5648710
-dann	-	-	-	0:18:01.474000	0:18:03.688000	-	5648711
-Hausruckwald	-	-	-	0:18:01.474000	0:18:03.688000	-	5648713
-wieder	-	-	-	0:18:01.474000	0:18:03.688000	-	5648714
-,	-	-	-	0:18:01.474000	0:18:03.688000	-	5648715
-nicht	-	-	-	0:18:01.474000	0:18:03.688000	-	5648716
-?	-	-	-	0:18:01.474000	0:18:03.688000	-	5648717
+ORT	ORT	-	-	0:17:45.830000	0:17:46.708000	ORT	5648651
+ORT	ORT	-	-	0:17:45.830000	0:17:46.708000	ORT	5648652
+ORT	ORT	-	-	0:17:45.830000	0:17:46.708000	ORT	5648653
+ORT	ORT	-	-	0:17:45.830000	0:17:46.708000	ORT	5648654
+ORT	ORT	-	-	0:17:46.708000	0:17:47.748000	ORT	5648655
+ORT	ORT	-	-	0:17:46.708000	0:17:47.748000	ORT	5648656
+ORT	ORT	-	-	0:17:46.708000	0:17:47.748000	ORT	5648657
+ORT	ORT	-	-	0:17:46.708000	0:17:47.748000	ORT	5648658
+ORT	ORT	-	-	0:17:47.748000	0:17:48.529000	ORT	5648659
+ORT	ORT	-	-	0:17:47.748000	0:17:48.529000	ORT	5648660
+ORT	ORT	-	-	0:17:47.748000	0:17:48.529000	ORT	5648661
+ORT	ORT	-	-	0:17:47.748000	0:17:48.529000	ORT	5648662
+ORT	ORT	-	-	0:17:47.748000	0:17:48.529000	ORT	5648663
+ORT	ORT	-	-	0:17:48.529000	0:17:48.959000	ORT	5648664
+ORT	ORT	-	-	0:17:48.529000	0:17:48.959000	ORT	5648665
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648666
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648667
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648668
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648669
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648670
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648671
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648672
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648673
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648674
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648675
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648676
+ORT	ORT	-	-	0:17:48.959000	0:17:52.550000	ORT	5648696
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648677
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648678
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648679
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648680
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648681
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648682
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648683
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648684
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648685
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648686
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648687
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648688
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648689
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648690
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648691
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648692
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648693
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648694
+ORT	ORT	-	-	0:17:52.550000	0:17:59.386000	ORT	5648695
+ORT	ORT	-	-	0:17:59.386000	0:18:00.243000	ORT	5648697
+ORT	ORT	-	-	0:17:59.386000	0:18:00.243000	ORT	5648698
+ORT	ORT	-	-	0:17:59.386000	0:18:00.243000	ORT	5648699
+ORT	ORT	-	-	0:17:59.386000	0:18:00.243000	ORT	5648700
+ORT	ORT	-	-	0:18:00.243000	0:18:01.474000	ORT	5648701
+ORT	ORT	-	-	0:18:00.243000	0:18:01.474000	ORT	5648702
+ORT	ORT	-	-	0:18:00.243000	0:18:01.474000	ORT	5648703
+ORT	ORT	-	-	0:18:00.243000	0:18:01.474000	ORT	5648704
+ORT	ORT	-	-	0:18:00.243000	0:18:01.474000	ORT	5648705
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648706
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648707
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648708
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648709
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648710
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648711
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648712
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648713
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648714
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648715
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648716
+ORT	ORT	-	-	0:18:01.474000	0:18:03.688000	ORT	5648717
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:03.688000" end="0:18:03.969000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:03.688000	0:18:03.969000	-	5648718
 .	-	-	-	0:18:03.688000	0:18:03.969000	-	5648719
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:03.969000" end="0:18:15.015000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,0s"/>
-aber	-	-	-	0:18:04.985000	0:18:09.315000	-	5648721
-<pause duration="0,6s"/>
-zum	-	-	-	0:18:04.985000	0:18:09.315000	-	5648723
-Beispiel	-	-	-	0:18:04.985000	0:18:09.315000	-	5648724
-eben	-	-	-	0:18:04.985000	0:18:09.315000	-	5648725
-<pause duration="0,5s"/>
-der	-	-	-	0:18:04.985000	0:18:09.315000	-	5648727
-NAME	NAME	-	-	0:18:04.985000	0:18:09.315000	NAME	5648728
-und	-	-	-	0:18:04.985000	0:18:09.315000	-	5648729
-die	-	-	-	0:18:04.985000	0:18:09.315000	-	5648730
-NAME	NAME	-	-	0:18:04.985000	0:18:09.315000	NAME	5648731
-,	-	-	-	0:18:04.985000	0:18:09.315000	-	5648732
-eben	-	-	-	0:18:09.315000	0:18:10.071000	-	5648733
-die	-	-	-	0:18:09.315000	0:18:10.071000	-	5648734
-aus	-	-	-	0:18:09.315000	0:18:10.071000	-	5648735
-die	-	-	-	0:18:10.071000	0:18:11.445000	-	5648736
-jetzt	-	-	-	0:18:10.071000	0:18:11.445000	-	5648737
-in	-	-	-	0:18:10.071000	0:18:11.445000	-	5648738
+ORT	ORT	-	-	0:18:03.969000	0:18:04.985000	ORT	5648720
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648721
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648722
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648723
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648724
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648725
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648726
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648727
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648728
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648729
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648730
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648731
+ORT	ORT	-	-	0:18:04.985000	0:18:09.315000	ORT	5648732
+ORT	ORT	-	-	0:18:09.315000	0:18:10.071000	ORT	5648733
+ORT	ORT	-	-	0:18:09.315000	0:18:10.071000	ORT	5648734
+ORT	ORT	-	-	0:18:09.315000	0:18:10.071000	ORT	5648735
+ORT	ORT	-	-	0:18:10.071000	0:18:11.445000	ORT	5648736
+ORT	ORT	-	-	0:18:10.071000	0:18:11.445000	ORT	5648737
+ORT	ORT	-	-	0:18:10.071000	0:18:11.445000	ORT	5648738
 ORT	ORT	-	-	0:18:10.071000	0:18:11.445000	ORT	5648739
-wohnen	-	-	-	0:18:10.071000	0:18:11.445000	-	5648740
-,	-	-	-	0:18:10.071000	0:18:11.445000	-	5648741
-<pause duration="0,7s"/>
-die	-	-	-	0:18:11.445000	0:18:13.587000	-	5648743
-machen	-	-	-	0:18:11.445000	0:18:13.587000	-	5648744
-beide	-	-	-	0:18:11.445000	0:18:13.587000	-	5648745
-Triathlon	-	-	-	0:18:11.445000	0:18:13.587000	-	5648746
-und	-	-	-	0:18:13.587000	0:18:15.015000	-	5648747
-tun	-	-	-	0:18:13.587000	0:18:15.015000	-	5648748
-viel	-	-	-	0:18:13.587000	0:18:15.015000	-	5648749
-Radlfahren	-	-	DIM	0:18:13.587000	0:18:15.015000	-	5648750
-das	-	-	-	0:18:13.587000	0:18:15.015000	-	5648752
+ORT	ORT	-	-	0:18:10.071000	0:18:11.445000	ORT	5648740
+ORT	ORT	-	-	0:18:10.071000	0:18:11.445000	ORT	5648741
+ORT	ORT	-	-	0:18:11.445000	0:18:13.587000	ORT	5648742
+ORT	ORT	-	-	0:18:11.445000	0:18:13.587000	ORT	5648743
+ORT	ORT	-	-	0:18:11.445000	0:18:13.587000	ORT	5648744
+ORT	ORT	-	-	0:18:11.445000	0:18:13.587000	ORT	5648745
+ORT	ORT	-	-	0:18:11.445000	0:18:13.587000	ORT	5648746
+ORT	ORT	-	-	0:18:13.587000	0:18:15.015000	ORT	5648747
+ORT	ORT	-	-	0:18:13.587000	0:18:15.015000	ORT	5648748
+ORT	ORT	-	-	0:18:13.587000	0:18:15.015000	ORT	5648749
+ORT	ORT	-	DIM	0:18:13.587000	0:18:15.015000	ORT	5648750
+ORT	ORT	-	-	0:18:13.587000	0:18:15.015000	ORT	5648751
+ORT	ORT	-	-	0:18:13.587000	0:18:15.015000	ORT	5648752
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:15.015000" end="0:18:15.699000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:18:15.015000	0:18:15.699000	-	5648753
 .	-	-	-	0:18:15.015000	0:18:15.699000	-	5648754
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:15.699000" end="0:18:24.710000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:18:15.699000	0:18:16.346000	-	5648755
-die	-	-	-	0:18:15.699000	0:18:16.346000	-	5648756
-sagen	-	-	-	0:18:15.699000	0:18:16.346000	-	5648757
-halt	-	-	-	0:18:15.699000	0:18:16.346000	-	5648758
-auch	-	-	-	0:18:15.699000	0:18:16.346000	-	5648759
-,	-	-	-	0:18:15.699000	0:18:16.346000	-	5648760
-naja	-	-	-	0:18:16.346000	0:18:17.302000	-	5648761
-,	-	-	-	0:18:16.346000	0:18:17.302000	-	5648762
-(weil)	-	-	-	0:18:17.302000	0:18:19.539000	-	5648764
-da	-	-	-	0:18:17.302000	0:18:19.539000	-	5648765
-*fährst*	-	-	-	0:18:17.302000	0:18:19.539000	-	5648766
-die	-	-	-	0:18:17.302000	0:18:19.539000	-	5648767
-Flüsse	-	-	-	0:18:17.302000	0:18:19.539000	-	5648768
-entlang	-	-	-	0:18:17.302000	0:18:19.539000	-	5648769
-<pause duration="0,8s"/>
-und	-	-	-	0:18:19.539000	0:18:21.483000	-	5648771
-da	-	-	-	0:18:19.539000	0:18:21.483000	-	5648772
-ist	-	-	-	0:18:19.539000	0:18:21.483000	-	5648773
-halt	-	-	-	0:18:19.539000	0:18:21.483000	-	5648774
-viel	-	-	-	0:18:19.539000	0:18:21.483000	-	5648775
-Verkehr	-	-	-	0:18:19.539000	0:18:21.483000	-	5648776
-oder	-	-	-	0:18:21.483000	0:18:23.518000	-	5648777
-du	-	-	-	0:18:21.483000	0:18:23.518000	-	5648778
-musst	-	-	-	0:18:21.483000	0:18:23.518000	-	5648779
-halt	-	-	-	0:18:21.483000	0:18:23.518000	-	5648780
-(einen)	-	-	-	0:18:21.483000	0:18:23.518000	-	5648781
-Berg	-	-	-	0:18:21.483000	0:18:23.518000	-	5648782
-hinauf	-	-	-	0:18:21.483000	0:18:23.518000	-	5648783
-fahren	-	-	-	0:18:21.483000	0:18:23.518000	-	5648784
-,	-	-	-	0:18:21.483000	0:18:23.518000	-	5648785
-dann	-	-	-	0:18:23.518000	0:18:24.710000	-	5648786
-gleich	-	-	-	0:18:23.518000	0:18:24.710000	-	5648787
-so	-	-	-	0:18:23.518000	0:18:24.710000	-	5648788
-richtig	-	-	-	0:18:23.518000	0:18:24.710000	-	5648789
-,	-	-	-	0:18:23.518000	0:18:24.710000	-	5648790
-nicht	-	-	-	0:18:23.518000	0:18:24.710000	-	5648791
-?	-	-	-	0:18:23.518000	0:18:24.710000	-	5648792
+ORT	ORT	-	-	0:18:15.699000	0:18:16.346000	ORT	5648755
+ORT	ORT	-	-	0:18:15.699000	0:18:16.346000	ORT	5648756
+ORT	ORT	-	-	0:18:15.699000	0:18:16.346000	ORT	5648757
+ORT	ORT	-	-	0:18:15.699000	0:18:16.346000	ORT	5648758
+ORT	ORT	-	-	0:18:15.699000	0:18:16.346000	ORT	5648759
+ORT	ORT	-	-	0:18:15.699000	0:18:16.346000	ORT	5648760
+ORT	ORT	-	-	0:18:16.346000	0:18:17.302000	ORT	5648761
+ORT	ORT	-	-	0:18:16.346000	0:18:17.302000	ORT	5648763
+ORT	ORT	-	-	0:18:16.346000	0:18:17.302000	ORT	5648762
+ORT	ORT	-	-	0:18:17.302000	0:18:19.539000	ORT	5648764
+ORT	ORT	-	-	0:18:17.302000	0:18:19.539000	ORT	5648765
+ORT	ORT	-	-	0:18:17.302000	0:18:19.539000	ORT	5648766
+ORT	ORT	-	-	0:18:17.302000	0:18:19.539000	ORT	5648767
+ORT	ORT	-	-	0:18:17.302000	0:18:19.539000	ORT	5648768
+ORT	ORT	-	-	0:18:17.302000	0:18:19.539000	ORT	5648769
+ORT	ORT	-	-	0:18:19.539000	0:18:21.483000	ORT	5648770
+ORT	ORT	-	-	0:18:19.539000	0:18:21.483000	ORT	5648771
+ORT	ORT	-	-	0:18:19.539000	0:18:21.483000	ORT	5648772
+ORT	ORT	-	-	0:18:19.539000	0:18:21.483000	ORT	5648773
+ORT	ORT	-	-	0:18:19.539000	0:18:21.483000	ORT	5648774
+ORT	ORT	-	-	0:18:19.539000	0:18:21.483000	ORT	5648775
+ORT	ORT	-	-	0:18:19.539000	0:18:21.483000	ORT	5648776
+ORT	ORT	-	-	0:18:21.483000	0:18:23.518000	ORT	5648777
+ORT	ORT	-	-	0:18:21.483000	0:18:23.518000	ORT	5648778
+ORT	ORT	-	-	0:18:21.483000	0:18:23.518000	ORT	5648779
+ORT	ORT	-	-	0:18:21.483000	0:18:23.518000	ORT	5648780
+ORT	ORT	-	-	0:18:21.483000	0:18:23.518000	ORT	5648781
+ORT	ORT	-	-	0:18:21.483000	0:18:23.518000	ORT	5648782
+ORT	ORT	-	-	0:18:21.483000	0:18:23.518000	ORT	5648783
+ORT	ORT	-	-	0:18:21.483000	0:18:23.518000	ORT	5648784
+ORT	ORT	-	-	0:18:21.483000	0:18:23.518000	ORT	5648785
+ORT	ORT	-	-	0:18:23.518000	0:18:24.710000	ORT	5648786
+ORT	ORT	-	-	0:18:23.518000	0:18:24.710000	ORT	5648787
+ORT	ORT	-	-	0:18:23.518000	0:18:24.710000	ORT	5648788
+ORT	ORT	-	-	0:18:23.518000	0:18:24.710000	ORT	5648789
+ORT	ORT	-	-	0:18:23.518000	0:18:24.710000	ORT	5648790
+ORT	ORT	-	-	0:18:23.518000	0:18:24.710000	ORT	5648791
+ORT	ORT	-	-	0:18:23.518000	0:18:24.710000	ORT	5648792
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:24.710000" end="0:18:26.226000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:24.710000	0:18:25.407000	-	5648793
@@ -5257,11 +5270,11 @@ nicht	-	-	-	0:18:25.407000	0:18:26.226000	-	5648798
 wirklich	-	-	-	0:18:25.407000	0:18:26.226000	-	5648799
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:25.407000" end="0:18:26.226000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-jetzt	-	-	-	0:18:25.407000	0:18:26.226000	-	5648813
-haben	-	-	-	0:18:25.407000	0:18:26.226000	-	5648814
-wir	-	-	-	0:18:25.407000	0:18:26.226000	-	5648815
-eh	-	-	-	0:18:25.407000	0:18:26.226000	-	5648816
-aus/	-	-	-	0:18:25.407000	0:18:26.226000	-	5648817
+ORT	ORT	-	-	0:18:25.407000	0:18:26.226000	ORT	5648813
+ORT	ORT	-	-	0:18:25.407000	0:18:26.226000	ORT	5648814
+ORT	ORT	-	-	0:18:25.407000	0:18:26.226000	ORT	5648815
+ORT	ORT	-	-	0:18:25.407000	0:18:26.226000	ORT	5648816
+ORT	ORT	-	-	0:18:25.407000	0:18:26.226000	ORT	5648817
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:26.226000" end="0:18:27.170000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 viele	-	-	-	0:18:26.226000	0:18:27.170000	-	5648800
@@ -5271,59 +5284,60 @@ nein	-	-	-	0:18:26.226000	0:18:27.170000	-	5648803
 ,	-	-	-	0:18:26.226000	0:18:27.170000	-	5648806
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:27.170000" end="0:18:27.561000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-jetzt	-	-	-	0:18:27.170000	0:18:27.561000	-	5648804
-haben	-	-	-	0:18:27.170000	0:18:27.561000	-	5648805
+ORT	ORT	-	-	0:18:27.170000	0:18:27.561000	ORT	5648804
+ORT	ORT	-	-	0:18:27.170000	0:18:27.561000	ORT	5648805
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:27.561000" end="0:18:27.691000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 nein	-	-	-	0:18:27.561000	0:18:27.691000	-	5648807
 .	-	-	-	0:18:27.561000	0:18:27.691000	-	5648808
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:27.561000" end="0:18:29.656000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-wir	-	-	-	0:18:27.561000	0:18:27.691000	-	5648809
-eh	-	-	-	0:18:27.561000	0:18:27.691000	-	5648810
-ausgemacht	-	-	-	0:18:27.691000	0:18:28.181000	-	5648811
-,	-	-	-	0:18:27.691000	0:18:28.181000	-	5648812
-sie	-	-	-	0:18:28.181000	0:18:29.656000	-	5648818
-kommen	-	-	-	0:18:28.181000	0:18:29.656000	-	5648819
-in	-	-	-	0:18:28.181000	0:18:29.656000	-	5648820
-die	-	-	-	0:18:28.181000	0:18:29.656000	-	5648821
-Ferien	-	-	-	0:18:28.181000	0:18:29.656000	-	5648822
-einmal	-	-	-	0:18:28.181000	0:18:29.656000	-	5648823
-zu	-	-	-	0:18:28.181000	0:18:29.656000	-	5648824
-uns	-	-	-	0:18:28.181000	0:18:29.656000	-	5648825
+ORT	ORT	-	-	0:18:27.561000	0:18:27.691000	ORT	5648809
+ORT	ORT	-	-	0:18:27.561000	0:18:27.691000	ORT	5648810
+ORT	ORT	-	-	0:18:27.691000	0:18:28.181000	ORT	5648811
+ORT	ORT	-	-	0:18:27.691000	0:18:28.181000	ORT	5648812
+ORT	ORT	-	-	0:18:28.181000	0:18:29.656000	ORT	5648818
+ORT	ORT	-	-	0:18:28.181000	0:18:29.656000	ORT	5648819
+ORT	ORT	-	-	0:18:28.181000	0:18:29.656000	ORT	5648820
+ORT	ORT	-	-	0:18:28.181000	0:18:29.656000	ORT	5648821
+ORT	ORT	-	-	0:18:28.181000	0:18:29.656000	ORT	5648822
+ORT	ORT	-	-	0:18:28.181000	0:18:29.656000	ORT	5648823
+ORT	ORT	-	-	0:18:28.181000	0:18:29.656000	ORT	5648824
+ORT	ORT	-	-	0:18:28.181000	0:18:29.656000	ORT	5648825
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:29.656000" end="0:18:30.089000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:18:29.656000	0:18:30.089000	-	5648826
 .	-	-	-	0:18:29.656000	0:18:30.089000	-	5648827
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:30.089000" end="0:18:36.680000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:18:30.089000	0:18:31.491000	-	5648902
-dann	-	-	-	0:18:30.089000	0:18:31.491000	-	5648903
-tun	-	-	-	0:18:30.089000	0:18:31.491000	-	5648904
-wir	-	-	-	0:18:30.089000	0:18:31.491000	-	5648905
-im	-	-	-	0:18:30.089000	0:18:31.491000	-	5648906
-Sauwald	-	-	-	0:18:30.089000	0:18:31.491000	-	5648907
-fahren	-	-	-	0:18:30.089000	0:18:31.491000	-	5648908
-,	-	-	-	0:18:30.089000	0:18:31.491000	-	5648909
-weil	-	-	-	0:18:31.491000	0:18:35.645000	-	5648910
-da	-	-	-	0:18:31.491000	0:18:35.645000	-	5648911
-*hast*	-	-	-	0:18:31.491000	0:18:35.645000	-	5648912
-halt	-	-	-	0:18:31.491000	0:18:35.645000	-	5648913
-allweil	-	-	-	0:18:31.491000	0:18:35.645000	-	5648914
-so	-	-	-	0:18:31.491000	0:18:35.645000	-	5648915
-maximale	-	-	-	0:18:31.491000	0:18:35.645000	-	5648916
-Steigung	-	-	-	0:18:31.491000	0:18:35.645000	-	5648917
-von	-	-	-	0:18:31.491000	0:18:35.645000	-	5648918
-zwei-	-	-	-	0:18:31.491000	0:18:35.645000	-	5648920
-dreihundert	-	-	-	0:18:31.491000	0:18:35.645000	-	5648921
-Höhenmeter	-	-	-	0:18:31.491000	0:18:35.645000	-	5648922
-und	-	-	-	0:18:35.645000	0:18:36.680000	-	5648923
-dann	-	-	-	0:18:35.645000	0:18:36.680000	-	5648924
-war	-	-	-	0:18:35.645000	0:18:36.680000	-	5648925
-es	-	-	-	0:18:35.645000	0:18:36.680000	-	5648926
-das	-	-	-	0:18:35.645000	0:18:36.680000	-	5648927
-aber	-	-	-	0:18:35.645000	0:18:36.680000	-	5648928
-wieder	-	-	-	0:18:35.645000	0:18:36.680000	-	5648929
+ORT	ORT	-	-	0:18:30.089000	0:18:31.491000	ORT	5648902
+ORT	ORT	-	-	0:18:30.089000	0:18:31.491000	ORT	5648903
+ORT	ORT	-	-	0:18:30.089000	0:18:31.491000	ORT	5648904
+ORT	ORT	-	-	0:18:30.089000	0:18:31.491000	ORT	5648905
+ORT	ORT	-	-	0:18:30.089000	0:18:31.491000	ORT	5648906
+ORT	ORT	-	-	0:18:30.089000	0:18:31.491000	ORT	5648907
+ORT	ORT	-	-	0:18:30.089000	0:18:31.491000	ORT	5648908
+ORT	ORT	-	-	0:18:30.089000	0:18:31.491000	ORT	5648909
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648910
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648911
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648912
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648913
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648914
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648915
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648919
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648916
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648917
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648918
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648920
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648921
+ORT	ORT	-	-	0:18:31.491000	0:18:35.645000	ORT	5648922
+ORT	ORT	-	-	0:18:35.645000	0:18:36.680000	ORT	5648923
+ORT	ORT	-	-	0:18:35.645000	0:18:36.680000	ORT	5648924
+ORT	ORT	-	-	0:18:35.645000	0:18:36.680000	ORT	5648925
+ORT	ORT	-	-	0:18:35.645000	0:18:36.680000	ORT	5648926
+ORT	ORT	-	-	0:18:35.645000	0:18:36.680000	ORT	5648927
+ORT	ORT	-	-	0:18:35.645000	0:18:36.680000	ORT	5648928
+ORT	ORT	-	-	0:18:35.645000	0:18:36.680000	ORT	5648929
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:36.680000" end="0:18:37.185000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:18:36.680000	0:18:37.185000	-	5648930
@@ -5333,7 +5347,7 @@ wieder	-	-	-	0:18:36.680000	0:18:37.185000	-	5648933
 ,	-	-	-	0:18:36.680000	0:18:37.185000	-	5648935
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:36.680000" end="0:18:37.185000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-(und)	-	-	-	0:18:36.680000	0:18:37.185000	-	5648934
+ORT	ORT	-	-	0:18:36.680000	0:18:37.185000	ORT	5648934
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:37.185000" end="0:18:38.484000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:37.185000	0:18:38.484000	-	5648936
@@ -5343,14 +5357,14 @@ stimmt	-	-	-	0:18:37.185000	0:18:38.484000	-	5648939
 .	-	-	-	0:18:37.185000	0:18:38.484000	-	5648940
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:37.185000" end="0:18:40.087000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-das	-	-	-	0:18:37.185000	0:18:38.484000	-	5648941
-ist	-	-	-	0:18:37.185000	0:18:38.484000	-	5648942
-zum	-	-	-	0:18:37.185000	0:18:38.484000	-	5648943
-täglichen	-	-	-	0:18:38.484000	0:18:40.087000	-	5648944
-Fahren	-	-	-	0:18:38.484000	0:18:40.087000	-	5648945
-voll	-	-	-	0:18:38.484000	0:18:40.087000	-	5648946
-angenehm	-	-	-	0:18:38.484000	0:18:40.087000	-	5648947
-.	-	-	-	0:18:38.484000	0:18:40.087000	-	5648948
+ORT	ORT	-	-	0:18:37.185000	0:18:38.484000	ORT	5648941
+ORT	ORT	-	-	0:18:37.185000	0:18:38.484000	ORT	5648942
+ORT	ORT	-	-	0:18:37.185000	0:18:38.484000	ORT	5648943
+ORT	ORT	-	-	0:18:38.484000	0:18:40.087000	ORT	5648944
+ORT	ORT	-	-	0:18:38.484000	0:18:40.087000	ORT	5648945
+ORT	ORT	-	-	0:18:38.484000	0:18:40.087000	ORT	5648946
+ORT	ORT	-	-	0:18:38.484000	0:18:40.087000	ORT	5648947
+ORT	ORT	-	-	0:18:38.484000	0:18:40.087000	ORT	5648948
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:40.087000" end="0:18:44.127000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:40.087000	0:18:40.443000	-	5648949
@@ -5372,8 +5386,8 @@ viele	-	-	-	0:18:42.994000	0:18:43.531000	-	5648964
 Möglichkeiten	-	-	-	0:18:43.531000	0:18:44.127000	-	5648965
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:43.531000" end="0:18:44.127000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-genau	-	-	-	0:18:43.531000	0:18:44.127000	-	5648966
-.	-	-	-	0:18:43.531000	0:18:44.127000	-	5648967
+ORT	ORT	-	-	0:18:43.531000	0:18:44.127000	ORT	5648966
+ORT	ORT	-	-	0:18:43.531000	0:18:44.127000	ORT	5648967
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:44.127000" end="0:18:46.139000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:18:44.127000	0:18:44.857000	-	5648968
@@ -5391,52 +5405,53 @@ nicht	-	-	-	0:18:44.857000	0:18:46.139000	-	5648979
 ?	-	-	-	0:18:44.857000	0:18:46.139000	-	5648980
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:46.139000" end="0:18:48.073000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:18:46.139000	0:18:46.644000	-	5648981
-genau	-	-	-	0:18:46.139000	0:18:46.644000	-	5648982
-,	-	-	-	0:18:46.139000	0:18:46.644000	-	5648983
-*wennsd*	-	-	-	0:18:46.644000	0:18:47.211000	-	5648984
-sagst	-	-	-	0:18:46.644000	0:18:47.211000	-	5648985
-,	-	-	-	0:18:46.644000	0:18:47.211000	-	5648986
-heute	-	-	-	0:18:47.211000	0:18:48.073000	-	5648987
-_zahts_	-	-	-	0:18:47.211000	0:18:48.073000	-	5648988
-mich	-	-	-	0:18:47.211000	0:18:48.073000	-	5648989
-nicht	-	-	-	0:18:47.211000	0:18:48.073000	-	5648990
+ORT	ORT	-	-	0:18:46.139000	0:18:46.644000	ORT	5648981
+ORT	ORT	-	-	0:18:46.139000	0:18:46.644000	ORT	5648982
+ORT	ORT	-	-	0:18:46.139000	0:18:46.644000	ORT	5648983
+ORT	ORT	-	-	0:18:46.644000	0:18:47.211000	ORT	5648984
+ORT	ORT	-	-	0:18:46.644000	0:18:47.211000	ORT	5648985
+ORT	ORT	-	-	0:18:46.644000	0:18:47.211000	ORT	5648986
+ORT	ORT	-	-	0:18:47.211000	0:18:48.073000	ORT	5648987
+ORT	ORT	-	-	0:18:47.211000	0:18:48.073000	ORT	5648988
+ORT	ORT	-	-	0:18:47.211000	0:18:48.073000	ORT	5648989
+ORT	ORT	-	-	0:18:47.211000	0:18:48.073000	ORT	5648990
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:48.073000" end="0:18:48.633000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:48.073000	0:18:48.633000	-	5648992
 .	-	-	-	0:18:48.073000	0:18:48.633000	-	5648993
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:48.073000" end="0:18:52.183000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-(im)	-	-	-	0:18:48.073000	0:18:48.633000	-	5648991
-lieber	-	-	-	0:18:48.633000	0:18:50.061000	-	5648995
-im	-	-	-	0:18:48.633000	0:18:50.061000	-	5648996
-Flachen	-	-	-	0:18:48.633000	0:18:50.061000	-	5648997
-(drücken)	-	-	-	0:18:48.633000	0:18:50.061000	-	5648998
-,	-	-	-	0:18:48.633000	0:18:50.061000	-	5648999
-dann	-	-	-	0:18:50.061000	0:18:52.183000	-	5649000
-*fährst*	-	-	-	0:18:50.061000	0:18:52.183000	-	5649001
-in	-	-	-	0:18:50.061000	0:18:52.183000	-	5649002
-die	-	-	-	0:18:50.061000	0:18:52.183000	-	5649003
-Richtung	-	-	-	0:18:50.061000	0:18:52.183000	-	5649004
-hinaus	-	-	-	0:18:50.061000	0:18:52.183000	-	5649005
+ORT	ORT	-	-	0:18:48.073000	0:18:48.633000	ORT	5648991
+ORT	ORT	-	-	0:18:48.633000	0:18:50.061000	ORT	5648994
+ORT	ORT	-	-	0:18:48.633000	0:18:50.061000	ORT	5648995
+ORT	ORT	-	-	0:18:48.633000	0:18:50.061000	ORT	5648996
+ORT	ORT	-	-	0:18:48.633000	0:18:50.061000	ORT	5648997
+ORT	ORT	-	-	0:18:48.633000	0:18:50.061000	ORT	5648998
+ORT	ORT	-	-	0:18:48.633000	0:18:50.061000	ORT	5648999
+ORT	ORT	-	-	0:18:50.061000	0:18:52.183000	ORT	5649000
+ORT	ORT	-	-	0:18:50.061000	0:18:52.183000	ORT	5649001
+ORT	ORT	-	-	0:18:50.061000	0:18:52.183000	ORT	5649002
+ORT	ORT	-	-	0:18:50.061000	0:18:52.183000	ORT	5649003
+ORT	ORT	-	-	0:18:50.061000	0:18:52.183000	ORT	5649004
+ORT	ORT	-	-	0:18:50.061000	0:18:52.183000	ORT	5649005
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:52.183000" end="0:18:53.544000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:52.183000" end="0:18:53.544000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,4s"/>
+ORT	ORT	-	-	0:18:52.183000	0:18:53.544000	ORT	5649007
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:53.544000" end="0:18:53.931000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:18:53.544000	0:18:53.931000	-	5713999
 .	-	-	-	0:18:53.544000	0:18:53.931000	-	5714000
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:53.544000" end="0:18:54.890000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:18:53.544000	0:18:53.931000	-	5714001
-*hast*	-	-	-	0:18:53.931000	0:18:54.890000	-	5649008
-auch	-	-	-	0:18:53.931000	0:18:54.890000	-	5649010
-gleich	-	-	-	0:18:53.931000	0:18:54.890000	-	5649011
-alles	-	-	-	0:18:53.931000	0:18:54.890000	-	5649012
-.	-	-	-	0:18:53.931000	0:18:54.890000	-	5649013
+ORT	ORT	-	-	0:18:53.544000	0:18:53.931000	ORT	5714001
+ORT	ORT	-	-	0:18:53.931000	0:18:54.890000	ORT	5649008
+ORT	ORT	-	-	0:18:53.931000	0:18:54.890000	ORT	5649010
+ORT	ORT	-	-	0:18:53.931000	0:18:54.890000	ORT	5649011
+ORT	ORT	-	-	0:18:53.931000	0:18:54.890000	ORT	5649012
+ORT	ORT	-	-	0:18:53.931000	0:18:54.890000	ORT	5649013
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:54.890000" end="0:18:58.205000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:18:54.890000	0:18:57.209000	-	5649015
@@ -5450,62 +5465,62 @@ was	-	-	-	0:18:54.890000	0:18:57.209000	-	5649022
 ?	-	-	-	0:18:54.890000	0:18:57.209000	-	5649023
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:57.209000" end="0:19:04.899000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:18:57.209000	0:18:58.205000	-	5649025
-ich	-	-	-	0:18:57.209000	0:18:58.205000	-	5649026
-ich	-	-	-	0:18:58.205000	0:18:58.815000	-	5649027
-weiß	-	-	-	0:18:58.205000	0:18:58.815000	-	5649028
-nicht	-	-	-	0:18:58.205000	0:18:58.815000	-	5649029
-,	-	-	-	0:18:58.205000	0:18:58.815000	-	5649030
-ob	-	-	-	0:18:58.815000	0:18:59.929000	-	5649031
-(es)	-	-	-	0:18:58.815000	0:18:59.929000	-	5649032
-sich	-	-	-	0:18:58.815000	0:18:59.929000	-	5649033
-bei	-	-	-	0:18:58.815000	0:18:59.929000	-	5649034
-ihnen	-	-	-	0:18:58.815000	0:18:59.929000	-	5649035
-ausgeht	-	-	-	0:18:58.815000	0:18:59.929000	-	5649036
-,	-	-	-	0:18:58.815000	0:18:59.929000	-	5649037
-aber	-	-	-	0:18:59.929000	0:19:00.370000	-	5649038
-ich	-	-	-	0:18:59.929000	0:19:00.370000	-	5649039
-glaube	-	-	-	0:18:59.929000	0:19:00.370000	-	5649040
-,	-	-	-	0:18:59.929000	0:19:00.370000	-	5649041
-die	-	-	-	0:19:00.370000	0:19:00.735000	-	5649042
-mach/	-	-	-	0:19:00.370000	0:19:00.735000	-	5649043
-/.	-	-	-	0:19:00.370000	0:19:00.735000	-	5649044
-weil	-	-	-	0:19:00.735000	0:19:01.947000	-	5649045
-die	-	-	-	0:19:00.735000	0:19:01.947000	-	5649046
-heiraten	-	-	-	0:19:00.735000	0:19:01.947000	-	5649047
-im	-	-	-	0:19:00.735000	0:19:01.947000	-	5649048
-<pause duration="0,9s"/>
-Ende	-	-	-	0:19:01.947000	0:19:04.899000	-	5649050
-<pause duration="0,6s"/>
-September	-	-	-	0:19:01.947000	0:19:04.899000	-	5649052
-,	-	-	-	0:19:01.947000	0:19:04.899000	-	5649053
-ja	-	-	-	0:19:01.947000	0:19:04.899000	-	5649054
+ORT	ORT	-	-	0:18:57.209000	0:18:58.205000	ORT	5649025
+ORT	ORT	-	-	0:18:57.209000	0:18:58.205000	ORT	5649026
+ORT	ORT	-	-	0:18:58.205000	0:18:58.815000	ORT	5649027
+ORT	ORT	-	-	0:18:58.205000	0:18:58.815000	ORT	5649028
+ORT	ORT	-	-	0:18:58.205000	0:18:58.815000	ORT	5649029
+ORT	ORT	-	-	0:18:58.205000	0:18:58.815000	ORT	5649030
+ORT	ORT	-	-	0:18:58.815000	0:18:59.929000	ORT	5649031
+ORT	ORT	-	-	0:18:58.815000	0:18:59.929000	ORT	5649032
+ORT	ORT	-	-	0:18:58.815000	0:18:59.929000	ORT	5649033
+ORT	ORT	-	-	0:18:58.815000	0:18:59.929000	ORT	5649034
+ORT	ORT	-	-	0:18:58.815000	0:18:59.929000	ORT	5649035
+ORT	ORT	-	-	0:18:58.815000	0:18:59.929000	ORT	5649036
+ORT	ORT	-	-	0:18:58.815000	0:18:59.929000	ORT	5649037
+ORT	ORT	-	-	0:18:59.929000	0:19:00.370000	ORT	5649038
+ORT	ORT	-	-	0:18:59.929000	0:19:00.370000	ORT	5649039
+ORT	ORT	-	-	0:18:59.929000	0:19:00.370000	ORT	5649040
+ORT	ORT	-	-	0:18:59.929000	0:19:00.370000	ORT	5649041
+ORT	ORT	-	-	0:19:00.370000	0:19:00.735000	ORT	5649042
+ORT	ORT	-	-	0:19:00.370000	0:19:00.735000	ORT	5649043
+ORT	ORT	-	-	0:19:00.370000	0:19:00.735000	ORT	5649044
+ORT	ORT	-	-	0:19:00.735000	0:19:01.947000	ORT	5649045
+ORT	ORT	-	-	0:19:00.735000	0:19:01.947000	ORT	5649046
+ORT	ORT	-	-	0:19:00.735000	0:19:01.947000	ORT	5649047
+ORT	ORT	-	-	0:19:00.735000	0:19:01.947000	ORT	5649048
+ORT	ORT	-	-	0:19:01.947000	0:19:04.899000	ORT	5649049
+ORT	ORT	-	-	0:19:01.947000	0:19:04.899000	ORT	5649050
+ORT	ORT	-	-	0:19:01.947000	0:19:04.899000	ORT	5649051
+ORT	ORT	-	-	0:19:01.947000	0:19:04.899000	ORT	5649052
+ORT	ORT	-	-	0:19:01.947000	0:19:04.899000	ORT	5649053
+ORT	ORT	-	-	0:19:01.947000	0:19:04.899000	ORT	5649054
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:04.899000" end="0:19:05.565000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:19:04.899000	0:19:05.565000	-	5649055
 .	-	-	-	0:19:04.899000	0:19:05.565000	-	5649056
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:05.565000" end="0:19:10.631000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:19:05.565000	0:19:07.117000	-	5649131
-aber	-	-	-	0:19:07.117000	0:19:07.611000	-	5649132
-ich	-	-	-	0:19:07.117000	0:19:07.611000	-	5649133
-glaube	-	-	-	0:19:07.117000	0:19:07.611000	-	5649134
-,	-	-	-	0:19:07.117000	0:19:07.611000	-	5649135
-die	-	-	-	0:19:07.611000	0:19:08.307000	-	5649136
-(tun)	-	-	-	0:19:07.611000	0:19:08.307000	-	5649137
-jetzt	-	-	-	0:19:07.611000	0:19:08.307000	-	5649138
-eh	-	-	-	0:19:07.611000	0:19:08.307000	-	5649139
-nicht	-	-	-	0:19:07.611000	0:19:08.307000	-	5649140
-so	-	-	-	0:19:07.611000	0:19:08.307000	-	5649141
-,	-	-	-	0:19:07.611000	0:19:08.307000	-	5649142
-*dass*	-	-	-	0:19:08.307000	0:19:10.631000	-	5649143
-da	-	-	-	0:19:08.307000	0:19:10.631000	-	5649144
-mords	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:19:08.307000	0:19:10.631000	-	5649145
-die	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:19:08.307000	0:19:10.631000	-	5649146
-dramatische	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:19:08.307000	0:19:10.631000	-	5649147
-Hochzeit	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:19:08.307000	0:19:10.631000	-	5649148
-machen	-	-	-	0:19:08.307000	0:19:10.631000	-	5649149
-.	-	-	-	0:19:08.307000	0:19:10.631000	-	5649150
+ORT	ORT	-	-	0:19:05.565000	0:19:07.117000	ORT	5649131
+ORT	ORT	-	-	0:19:07.117000	0:19:07.611000	ORT	5649132
+ORT	ORT	-	-	0:19:07.117000	0:19:07.611000	ORT	5649133
+ORT	ORT	-	-	0:19:07.117000	0:19:07.611000	ORT	5649134
+ORT	ORT	-	-	0:19:07.117000	0:19:07.611000	ORT	5649135
+ORT	ORT	-	-	0:19:07.611000	0:19:08.307000	ORT	5649136
+ORT	ORT	-	-	0:19:07.611000	0:19:08.307000	ORT	5649137
+ORT	ORT	-	-	0:19:07.611000	0:19:08.307000	ORT	5649138
+ORT	ORT	-	-	0:19:07.611000	0:19:08.307000	ORT	5649139
+ORT	ORT	-	-	0:19:07.611000	0:19:08.307000	ORT	5649140
+ORT	ORT	-	-	0:19:07.611000	0:19:08.307000	ORT	5649141
+ORT	ORT	-	-	0:19:07.611000	0:19:08.307000	ORT	5649142
+ORT	ORT	-	-	0:19:08.307000	0:19:10.631000	ORT	5649143
+ORT	ORT	-	-	0:19:08.307000	0:19:10.631000	ORT	5649144
+ORT	ORT	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:19:08.307000	0:19:10.631000	ORT	5649145
+ORT	ORT	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:19:08.307000	0:19:10.631000	ORT	5649146
+ORT	ORT	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:19:08.307000	0:19:10.631000	ORT	5649147
+ORT	ORT	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:19:08.307000	0:19:10.631000	ORT	5649148
+ORT	ORT	-	-	0:19:08.307000	0:19:10.631000	ORT	5649149
+ORT	ORT	-	-	0:19:08.307000	0:19:10.631000	ORT	5649150
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:10.631000" end="0:19:11.732000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (Zeit	-	-	-	0:19:10.631000	0:19:11.425000	-	5649151
@@ -5514,22 +5529,22 @@ leicht	-	-	-	0:19:10.631000	0:19:11.425000	-	5649153
 ?	-	-	-	0:19:10.631000	0:19:11.425000	-	5649154
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:11.425000" end="0:19:11.732000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-freilich	-	-	-	0:19:11.425000	0:19:11.732000	-	5649155
-,	-	-	-	0:19:11.425000	0:19:11.732000	-	5649157
+ORT	ORT	-	-	0:19:11.425000	0:19:11.732000	ORT	5649155
+ORT	ORT	-	-	0:19:11.425000	0:19:11.732000	ORT	5649157
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:11.732000" end="0:19:12.796000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:19:11.732000	0:19:12.796000	-	5649160
 .	-	-	-	0:19:11.732000	0:19:12.796000	-	5649161
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:11.732000" end="0:19:14.508000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-freilich	-	-	-	0:19:11.732000	0:19:12.796000	-	5649158
-.	-	-	-	0:19:11.732000	0:19:12.796000	-	5649159
-drei	-	-	-	0:19:12.796000	0:19:14.508000	-	5649162
-Hochzeiten	-	-	-	0:19:12.796000	0:19:14.508000	-	5649163
-schon	-	-	-	0:19:12.796000	0:19:14.508000	-	5649164
-dieses	-	-	-	0:19:12.796000	0:19:14.508000	-	5649165
-Jahr	-	-	-	0:19:12.796000	0:19:14.508000	-	5649166
-.	-	-	-	0:19:12.796000	0:19:14.508000	-	5649167
+ORT	ORT	-	-	0:19:11.732000	0:19:12.796000	ORT	5649158
+ORT	ORT	-	-	0:19:11.732000	0:19:12.796000	ORT	5649159
+ORT	ORT	-	-	0:19:12.796000	0:19:14.508000	ORT	5649162
+ORT	ORT	-	-	0:19:12.796000	0:19:14.508000	ORT	5649163
+ORT	ORT	-	-	0:19:12.796000	0:19:14.508000	ORT	5649164
+ORT	ORT	-	-	0:19:12.796000	0:19:14.508000	ORT	5649165
+ORT	ORT	-	-	0:19:12.796000	0:19:14.508000	ORT	5649166
+ORT	ORT	-	-	0:19:12.796000	0:19:14.508000	ORT	5649167
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:14.508000" end="0:19:17.714000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 geh	-	-	-	0:19:14.508000	0:19:17.714000	-	5649168
@@ -5541,16 +5556,17 @@ verrückt	-	-	-	0:19:14.508000	0:19:17.714000	-	5649173
 .	-	-	-	0:19:14.508000	0:19:17.714000	-	5649174
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:14.508000" end="0:19:19.417000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-(werden	-	-	-	0:19:17.714000	0:19:18.390000	-	5714002
-sie)	-	-	-	0:19:17.714000	0:19:18.390000	-	5714003
-_damisch_	-	-	-	0:19:17.714000	0:19:18.390000	-	5714004
-,	-	-	-	0:19:17.714000	0:19:18.390000	-	5714005
-a/	-	-	-	0:19:18.390000	0:19:19.417000	-	5649177
-alle	-	-	-	0:19:18.390000	0:19:19.417000	-	5649181
-in	-	-	-	0:19:18.390000	0:19:19.417000	-	5649182
-die	-	-	-	0:19:18.390000	0:19:19.417000	-	5649183
-Ferien	-	-	-	0:19:18.390000	0:19:19.417000	-	5649184
-.	-	-	-	0:19:18.390000	0:19:19.417000	-	5649185
+ORT	ORT	-	-	0:19:14.508000	0:19:17.714000	ORT	5649176
+ORT	ORT	-	-	0:19:17.714000	0:19:18.390000	ORT	5714002
+ORT	ORT	-	-	0:19:17.714000	0:19:18.390000	ORT	5714003
+ORT	ORT	-	-	0:19:17.714000	0:19:18.390000	ORT	5714004
+ORT	ORT	-	-	0:19:17.714000	0:19:18.390000	ORT	5714005
+ORT	ORT	-	-	0:19:18.390000	0:19:19.417000	ORT	5649177
+ORT	ORT	-	-	0:19:18.390000	0:19:19.417000	ORT	5649181
+ORT	ORT	-	-	0:19:18.390000	0:19:19.417000	ORT	5649182
+ORT	ORT	-	-	0:19:18.390000	0:19:19.417000	ORT	5649183
+ORT	ORT	-	-	0:19:18.390000	0:19:19.417000	ORT	5649184
+ORT	ORT	-	-	0:19:18.390000	0:19:19.417000	ORT	5649185
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:19.417000" end="0:19:21.489000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
@@ -5560,9 +5576,9 @@ war	-	-	-	0:19:20.423000	0:19:21.489000	-	5649192
 auch	-	-	-	0:19:20.423000	0:19:21.489000	-	5649193
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:20.423000" end="0:19:21.489000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:19:20.423000	0:19:21.489000	-	5649189
-Blödsinn	-	-	-	0:19:20.423000	0:19:21.489000	-	5649190
-.	-	-	-	0:19:20.423000	0:19:21.489000	-	5649191
+ORT	ORT	-	-	0:19:20.423000	0:19:21.489000	ORT	5649189
+ORT	ORT	-	-	0:19:20.423000	0:19:21.489000	ORT	5649190
+ORT	ORT	-	-	0:19:20.423000	0:19:21.489000	ORT	5649191
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:21.489000" end="0:19:24.904000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 Sommer	-	-	-	0:19:21.489000	0:19:23.014000	-	5649196
@@ -5588,13 +5604,13 @@ nicht	-	-	-	0:19:24.054000	0:19:24.904000	-	5649215
 ?	-	-	-	0:19:24.054000	0:19:24.904000	-	5649216
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:24.054000" end="0:19:25.377000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:19:24.054000	0:19:24.904000	-	5649217
-nein	-	-	-	0:19:24.054000	0:19:24.904000	-	5649218
-,	-	-	-	0:19:24.054000	0:19:24.904000	-	5649219
-Blödsinn	-	-	-	0:19:24.054000	0:19:24.904000	-	5649220
-,	-	-	-	0:19:24.054000	0:19:24.904000	-	5649221
-es	-	-	-	0:19:24.904000	0:19:25.377000	-	5649222
-passt	-	-	-	0:19:24.904000	0:19:25.377000	-	5649223
+ORT	ORT	-	-	0:19:24.054000	0:19:24.904000	ORT	5649217
+ORT	ORT	-	-	0:19:24.054000	0:19:24.904000	ORT	5649218
+ORT	ORT	-	-	0:19:24.054000	0:19:24.904000	ORT	5649219
+ORT	ORT	-	-	0:19:24.054000	0:19:24.904000	ORT	5649220
+ORT	ORT	-	-	0:19:24.054000	0:19:24.904000	ORT	5649221
+ORT	ORT	-	-	0:19:24.904000	0:19:25.377000	ORT	5649222
+ORT	ORT	-	-	0:19:24.904000	0:19:25.377000	ORT	5649223
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:25.377000" end="0:19:25.653000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 eh	-	-	-	0:19:25.377000	0:19:25.653000	-	5649224
@@ -5602,46 +5618,46 @@ nicht	-	-	-	0:19:25.377000	0:19:25.653000	-	5649225
 ?	-	-	-	0:19:25.377000	0:19:25.653000	-	5649226
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:25.377000" end="0:19:29.448000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-genau	-	-	-	0:19:25.377000	0:19:25.653000	-	5649227
-eigentlich	-	-	-	0:19:25.653000	0:19:26.063000	-	5649228
-,	-	-	-	0:19:25.653000	0:19:26.063000	-	5649229
-weil	-	-	-	0:19:26.063000	0:19:28.468000	-	5649230
-die	-	-	-	0:19:26.063000	0:19:28.468000	-	5649231
-erste	-	-	-	0:19:26.063000	0:19:28.468000	-	5649232
-heiratet	-	-	-	0:19:26.063000	0:19:28.468000	-	5649233
-gleich	-	-	-	0:19:26.063000	0:19:28.468000	-	5649234
-am	-	-	-	0:19:26.063000	0:19:28.468000	-	5649235
-Samstag	-	-	-	0:19:26.063000	0:19:28.468000	-	5649236
-,	-	-	-	0:19:26.063000	0:19:28.468000	-	5649237
-(wo)	-	-	-	0:19:28.468000	0:19:29.448000	-	5649238
-die	-	-	-	0:19:28.468000	0:19:29.448000	-	5649239
-Ferien	-	-	-	0:19:28.468000	0:19:29.448000	-	5649240
-angehen	-	-	-	0:19:28.468000	0:19:29.448000	-	5649241
-,	-	-	-	0:19:28.468000	0:19:29.448000	-	5649242
+ORT	ORT	-	-	0:19:25.377000	0:19:25.653000	ORT	5649227
+ORT	ORT	-	-	0:19:25.653000	0:19:26.063000	ORT	5649228
+ORT	ORT	-	-	0:19:25.653000	0:19:26.063000	ORT	5649229
+ORT	ORT	-	-	0:19:26.063000	0:19:28.468000	ORT	5649230
+ORT	ORT	-	-	0:19:26.063000	0:19:28.468000	ORT	5649231
+ORT	ORT	-	-	0:19:26.063000	0:19:28.468000	ORT	5649232
+ORT	ORT	-	-	0:19:26.063000	0:19:28.468000	ORT	5649233
+ORT	ORT	-	-	0:19:26.063000	0:19:28.468000	ORT	5649234
+ORT	ORT	-	-	0:19:26.063000	0:19:28.468000	ORT	5649235
+ORT	ORT	-	-	0:19:26.063000	0:19:28.468000	ORT	5649236
+ORT	ORT	-	-	0:19:26.063000	0:19:28.468000	ORT	5649237
+ORT	ORT	-	-	0:19:28.468000	0:19:29.448000	ORT	5649238
+ORT	ORT	-	-	0:19:28.468000	0:19:29.448000	ORT	5649239
+ORT	ORT	-	-	0:19:28.468000	0:19:29.448000	ORT	5649240
+ORT	ORT	-	-	0:19:28.468000	0:19:29.448000	ORT	5649241
+ORT	ORT	-	-	0:19:28.468000	0:19:29.448000	ORT	5649242
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:29.448000" end="0:19:29.934000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:19:29.448000	0:19:29.934000	-	5649243
 .	-	-	-	0:19:29.448000	0:19:29.934000	-	5649244
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:29.934000" end="0:19:37.200000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,5s"/>
-das	-	-	-	0:19:31.468000	0:19:32.283000	-	5649246
-ist	-	-	-	0:19:31.468000	0:19:32.283000	-	5649247
-die	-	-	-	0:19:31.468000	0:19:32.283000	-	5649248
-,	-	-	-	0:19:31.468000	0:19:32.283000	-	5649249
-die	-	-	-	0:19:32.283000	0:19:37.200000	-	5649250
-mit	-	-	-	0:19:32.283000	0:19:37.200000	-	5649251
-der	-	-	-	0:19:32.283000	0:19:37.200000	-	5649252
-NAME	NAME	-	-	0:19:32.283000	0:19:37.200000	NAME	5649253
-ähm	-	-	-	0:19:32.283000	0:19:37.200000	-	5649254
-<pause duration="0,7s"/>
-in	-	-	-	0:19:32.283000	0:19:37.200000	-	5649256
+ORT	ORT	-	-	0:19:29.934000	0:19:31.468000	ORT	5649245
+ORT	ORT	-	-	0:19:31.468000	0:19:32.283000	ORT	5649246
+ORT	ORT	-	-	0:19:31.468000	0:19:32.283000	ORT	5649247
+ORT	ORT	-	-	0:19:31.468000	0:19:32.283000	ORT	5649248
+ORT	ORT	-	-	0:19:31.468000	0:19:32.283000	ORT	5649249
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649250
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649251
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649252
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649253
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649254
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649255
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649256
 ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649257
-das	-	-	-	0:19:32.283000	0:19:37.200000	-	5649258
-Praktikumsjahr	-	-	-	0:19:32.283000	0:19:37.200000	-	5649259
-gemacht	-	-	-	0:19:32.283000	0:19:37.200000	-	5649260
-hat	-	-	-	0:19:32.283000	0:19:37.200000	-	5649261
-,	-	-	-	0:19:32.283000	0:19:37.200000	-	5649262
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649258
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649259
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649260
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649261
+ORT	ORT	-	-	0:19:32.283000	0:19:37.200000	ORT	5649262
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:37.200000" end="0:19:38.151000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
@@ -5649,31 +5665,31 @@ okay	-	-	-	0:19:37.200000	0:19:38.151000	-	5649264
 .	-	-	-	0:19:37.200000	0:19:38.151000	-	5649265
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:38.151000" end="0:19:43.341000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:19:38.151000	0:19:43.341000	-	5649266
-<pause duration="0,8s"/>
-dann	-	-	-	0:19:38.151000	0:19:43.341000	-	5649268
-heiratet	-	-	-	0:19:38.151000	0:19:43.341000	-	5649269
-<pause duration="0,6s"/>
-NAME	NAME	-	-	0:19:38.151000	0:19:43.341000	NAME	5649271
-und	-	-	-	0:19:38.151000	0:19:43.341000	-	5649272
-NAME	NAME	-	-	0:19:38.151000	0:19:43.341000	NAME	5649273
-,	-	-	-	0:19:38.151000	0:19:43.341000	-	5649274
+ORT	ORT	-	-	0:19:38.151000	0:19:43.341000	ORT	5649266
+ORT	ORT	-	-	0:19:38.151000	0:19:43.341000	ORT	5649267
+ORT	ORT	-	-	0:19:38.151000	0:19:43.341000	ORT	5649268
+ORT	ORT	-	-	0:19:38.151000	0:19:43.341000	ORT	5649269
+ORT	ORT	-	-	0:19:38.151000	0:19:43.341000	ORT	5649270
+ORT	ORT	-	-	0:19:38.151000	0:19:43.341000	ORT	5649271
+ORT	ORT	-	-	0:19:38.151000	0:19:43.341000	ORT	5649272
+ORT	ORT	-	-	0:19:38.151000	0:19:43.341000	ORT	5649273
+ORT	ORT	-	-	0:19:38.151000	0:19:43.341000	ORT	5649274
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:43.341000" end="0:19:45.327000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 aha	-	-	-	0:19:43.341000	0:19:45.327000	-	5649275
 ,	-	-	-	0:19:43.341000	0:19:45.327000	-	5649276
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:43.341000" end="0:19:45.327000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-die	-	-	-	0:19:43.341000	0:19:45.327000	-	5649277
-heiraten	-	-	-	0:19:43.341000	0:19:45.327000	-	5649278
+ORT	ORT	-	-	0:19:43.341000	0:19:45.327000	ORT	5649277
+ORT	ORT	-	-	0:19:43.341000	0:19:45.327000	ORT	5649278
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:45.327000" end="0:19:45.742000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 das	-	-	-	0:19:45.327000	0:19:45.742000	-	5649281
 ist	-	-	-	0:19:45.327000	0:19:45.742000	-	5649282
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:45.327000" end="0:19:45.742000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-da	-	-	-	0:19:45.327000	0:19:45.742000	-	5649279
-/.	-	-	-	0:19:45.327000	0:19:45.742000	-	5649280
+ORT	ORT	-	-	0:19:45.327000	0:19:45.742000	ORT	5649279
+ORT	ORT	-	-	0:19:45.327000	0:19:45.742000	ORT	5649280
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:45.742000" end="0:19:49.207000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 der	-	-	-	0:19:45.742000	0:19:46.672000	-	5649283
@@ -5683,31 +5699,33 @@ oder	-	-	-	0:19:45.742000	0:19:46.672000	-	5649286
 ?	-	-	-	0:19:45.742000	0:19:46.672000	-	5649287
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:46.672000" end="0:19:49.207000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,0s"/>
-ja	-	-	-	0:19:46.672000	0:19:49.207000	-	5649289
-.	-	-	-	0:19:46.672000	0:19:49.207000	-	5649290
+ORT	ORT	-	-	0:19:46.672000	0:19:49.207000	ORT	5649288
+ORT	ORT	-	-	0:19:46.672000	0:19:49.207000	ORT	5649289
+ORT	ORT	-	-	0:19:46.672000	0:19:49.207000	ORT	5649290
+ORT	ORT	-	-	0:19:46.672000	0:19:49.207000	ORT	5649291
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:49.207000" end="0:19:50.009000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:19:49.207000	0:19:50.009000	-	5649295
 .	-	-	-	0:19:49.207000	0:19:50.009000	-	5649296
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:49.207000" end="0:19:50.009000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-also	-	-	-	0:19:49.207000	0:19:50.009000	-	5649293
-das	-	-	-	0:19:49.207000	0:19:50.009000	-	5649294
+ORT	ORT	-	-	0:19:49.207000	0:19:50.009000	ORT	5649293
+ORT	ORT	-	-	0:19:49.207000	0:19:50.009000	ORT	5649294
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:50.009000" end="0:19:50.972000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:50.009000" end="0:19:50.972000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-kommt	-	-	-	0:19:50.009000	0:19:50.972000	-	5649297
-jetzt	-	-	-	0:19:50.009000	0:19:50.972000	-	5649298
-nicht	-	-	-	0:19:50.009000	0:19:50.972000	-	5649299
-auf	-	-	-	0:19:50.009000	0:19:50.972000	-	5649300
-Band	-	-	-	0:19:50.009000	0:19:50.972000	-	5649301
-.	-	-	-	0:19:50.009000	0:19:50.972000	-	5649302
+ORT	ORT	-	-	0:19:50.009000	0:19:50.972000	ORT	5649297
+ORT	ORT	-	-	0:19:50.009000	0:19:50.972000	ORT	5649298
+ORT	ORT	-	-	0:19:50.009000	0:19:50.972000	ORT	5649299
+ORT	ORT	-	-	0:19:50.009000	0:19:50.972000	ORT	5649300
+ORT	ORT	-	-	0:19:50.009000	0:19:50.972000	ORT	5649301
+ORT	ORT	-	-	0:19:50.009000	0:19:50.972000	ORT	5649302
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:50.972000" end="0:19:53.054000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:50.972000" end="0:19:53.054000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+ORT	ORT	-	-	0:19:50.972000	0:19:53.054000	ORT	5649305
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:53.054000" end="0:19:55.266000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (ich	-	-	-	0:19:53.054000	0:19:55.266000	-	5649308
@@ -5716,19 +5734,19 @@ den	-	-	-	0:19:53.054000	0:19:55.266000	-	5649310
 Blick)	-	-	-	0:19:53.054000	0:19:55.266000	-	5649311
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:55.266000" end="0:19:56.191000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-kunnt/	-	-	-	0:19:55.266000	0:19:56.191000	-	5649312
-könnte	-	-	IRR	0:19:55.266000	0:19:56.191000	-	5649313
-es	-	-	-	0:19:55.266000	0:19:56.191000	-	5649314
+ORT	ORT	-	-	0:19:55.266000	0:19:56.191000	ORT	5649312
+ORT	ORT	-	IRR	0:19:55.266000	0:19:56.191000	ORT	5649313
+ORT	ORT	-	-	0:19:55.266000	0:19:56.191000	ORT	5649314
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:56.191000" end="0:19:57.093000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:19:56.191000	0:19:57.093000	-	5649318
 ja	-	-	-	0:19:56.191000	0:19:57.093000	-	5649319
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:56.191000" end="0:19:57.093000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-könnte	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL-	0:19:56.191000	0:19:57.093000	-	5649315
-ich	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL-	0:19:56.191000	0:19:57.093000	-	5649316
-voll	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL-	0:19:56.191000	0:19:57.093000	-	5649317
-(kennen)	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL-	0:19:56.191000	0:19:57.093000	-	5649321
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL-	0:19:56.191000	0:19:57.093000	ORT	5649315
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL-	0:19:56.191000	0:19:57.093000	ORT	5649316
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL-	0:19:56.191000	0:19:57.093000	ORT	5649317
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL-	0:19:56.191000	0:19:57.093000	ORT	5649321
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:57.093000" end="0:20:01.876000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:57.093000	0:19:59.093000	-	5649322
@@ -5746,63 +5764,65 @@ dann	-	-	-	0:19:59.093000	0:20:01.876000	-	5649337
 .	-	-	-	0:19:59.093000	0:20:01.876000	-	5649338
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:59.093000" end="0:20:01.876000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+ORT	ORT	-	-	0:19:59.093000	0:20:01.876000	ORT	5649340
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:01.876000" end="0:20:03.317000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:01.876000" end="0:20:03.922000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ähm	-	-	-	0:20:03.317000	0:20:03.922000	-	5649439
+ORT	ORT	-	-	0:20:01.876000	0:20:03.317000	ORT	5649438
+ORT	ORT	-	-	0:20:03.317000	0:20:03.922000	ORT	5649439
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:03.922000" end="0:20:05.442000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:03.922000" end="0:20:07.665000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:20:03.922000	0:20:05.442000	-	5649440
-ähm	-	-	-	0:20:03.922000	0:20:05.442000	-	5649441
-<pause duration="0,9s"/>
-der	-	-	-	0:20:05.442000	0:20:07.665000	-	5649444
-macht	-	-	-	0:20:05.442000	0:20:07.665000	-	5649445
-eh	-	-	-	0:20:05.442000	0:20:07.665000	-	5649446
-ganz	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:20:05.442000	0:20:07.665000	-	5649447
-was	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:20:05.442000	0:20:07.665000	-	5649448
-anderes	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:20:05.442000	0:20:07.665000	-	5649449
-.	-	-	-	0:20:05.442000	0:20:07.665000	-	5649452
+ORT	ORT	-	-	0:20:03.922000	0:20:05.442000	ORT	5649440
+ORT	ORT	-	-	0:20:03.922000	0:20:05.442000	ORT	5649441
+ORT	ORT	-	-	0:20:05.442000	0:20:07.665000	ORT	5649443
+ORT	ORT	-	-	0:20:05.442000	0:20:07.665000	ORT	5649444
+ORT	ORT	-	-	0:20:05.442000	0:20:07.665000	ORT	5649445
+ORT	ORT	-	-	0:20:05.442000	0:20:07.665000	ORT	5649446
+ORT	ORT	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:20:05.442000	0:20:07.665000	ORT	5649447
+ORT	ORT	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:20:05.442000	0:20:07.665000	ORT	5649448
+ORT	ORT	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:20:05.442000	0:20:07.665000	ORT	5649449
+ORT	ORT	-	-	0:20:05.442000	0:20:07.665000	ORT	5649452
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:07.665000" end="0:20:08.225000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:20:07.665000	0:20:08.225000	-	5649450
 .	-	-	-	0:20:07.665000	0:20:08.225000	-	5649451
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:08.225000" end="0:20:19.363000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:20:08.225000	0:20:09.629000	-	5649453
-<pause duration="0,5s"/>
-und	-	-	-	0:20:09.629000	0:20:13.351000	-	5649455
-das	-	-	-	0:20:09.629000	0:20:13.351000	-	5649456
-ist	-	-	-	0:20:09.629000	0:20:13.351000	-	5649457
-schon	-	-	-	0:20:09.629000	0:20:13.351000	-	5649458
-außerhalb	-	-	-	0:20:09.629000	0:20:13.351000	-	5649459
-die	-	-	-	0:20:09.629000	0:20:13.351000	-	5649460
-Ferien	-	-	-	0:20:09.629000	0:20:13.351000	-	5649461
-<pause duration="0,5s"/>
-Mitte	-	-	-	0:20:09.629000	0:20:13.351000	-	5649463
-September	-	-	-	0:20:09.629000	0:20:13.351000	-	5649464
-und	-	-	-	0:20:13.351000	0:20:19.363000	-	5649465
-Ende	-	-	-	0:20:13.351000	0:20:19.363000	-	5649466
-September	-	-	-	0:20:13.351000	0:20:19.363000	-	5649467
-ist	-	-	-	0:20:13.351000	0:20:19.363000	-	5649468
-dann	-	-	-	0:20:13.351000	0:20:19.363000	-	5649469
-<pause duration="0,7s"/>
-ähm	-	-	-	0:20:13.351000	0:20:19.363000	-	5649471
-<pause duration="0,7s"/>
-NAME	NAME	-	-	0:20:13.351000	0:20:19.363000	NAME	5649473
-und	-	-	-	0:20:13.351000	0:20:19.363000	-	5649474
-<pause duration="1,0s"/>
-und	-	-	-	0:20:13.351000	0:20:19.363000	-	5649476
-NAME	NAME	-	-	0:20:13.351000	0:20:19.363000	NAME	5649477
-.	-	-	-	0:20:13.351000	0:20:19.363000	-	5649478
+ORT	ORT	-	-	0:20:08.225000	0:20:09.629000	ORT	5649453
+ORT	ORT	-	-	0:20:08.225000	0:20:09.629000	ORT	5649454
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649455
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649456
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649457
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649458
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649459
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649460
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649461
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649462
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649463
+ORT	ORT	-	-	0:20:09.629000	0:20:13.351000	ORT	5649464
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649465
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649466
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649467
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649468
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649469
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649470
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649471
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649472
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649473
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649474
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649475
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649476
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649477
+ORT	ORT	-	-	0:20:13.351000	0:20:19.363000	ORT	5649478
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:19.363000" end="0:20:20.385000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:19.363000" end="0:20:20.385000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,0s"/>
+ORT	ORT	-	-	0:20:19.363000	0:20:20.385000	ORT	5649480
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:20.385000" end="0:20:21.198000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 kenne	-	-	-	0:20:20.385000	0:20:21.198000	-	5649481
@@ -5811,18 +5831,18 @@ nicht	-	-	-	0:20:20.385000	0:20:21.198000	-	5649483
 .	-	-	-	0:20:20.385000	0:20:21.198000	-	5649484
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:21.198000" end="0:20:23.158000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:20:21.198000	0:20:22.117000	-	5649485
-die	-	-	-	0:20:21.198000	0:20:22.117000	-	5649486
-sind	-	-	-	0:20:21.198000	0:20:22.117000	-	5649487
-die	-	-	-	0:20:21.198000	0:20:22.117000	-	5649488
-,	-	-	-	0:20:21.198000	0:20:22.117000	-	5649489
-die	-	-	-	0:20:22.117000	0:20:23.158000	-	5649490
-in	-	-	-	0:20:22.117000	0:20:23.158000	-	5649491
+ORT	ORT	-	-	0:20:21.198000	0:20:22.117000	ORT	5649485
+ORT	ORT	-	-	0:20:21.198000	0:20:22.117000	ORT	5649486
+ORT	ORT	-	-	0:20:21.198000	0:20:22.117000	ORT	5649487
+ORT	ORT	-	-	0:20:21.198000	0:20:22.117000	ORT	5649488
+ORT	ORT	-	-	0:20:21.198000	0:20:22.117000	ORT	5649489
+ORT	ORT	-	-	0:20:22.117000	0:20:23.158000	ORT	5649490
+ORT	ORT	-	-	0:20:22.117000	0:20:23.158000	ORT	5649491
 ORT	ORT	-	-	0:20:22.117000	0:20:23.158000	ORT	5649492
-wohnen	-	-	-	0:20:22.117000	0:20:23.158000	-	5649493
-,	-	-	-	0:20:22.117000	0:20:23.158000	-	5649494
-nicht	-	-	-	0:20:22.117000	0:20:23.158000	-	5649495
-?	-	-	-	0:20:22.117000	0:20:23.158000	-	5649496
+ORT	ORT	-	-	0:20:22.117000	0:20:23.158000	ORT	5649493
+ORT	ORT	-	-	0:20:22.117000	0:20:23.158000	ORT	5649494
+ORT	ORT	-	-	0:20:22.117000	0:20:23.158000	ORT	5649495
+ORT	ORT	-	-	0:20:22.117000	0:20:23.158000	ORT	5649496
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:23.158000" end="0:20:28.026000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:20:23.158000	0:20:24.373000	-	5649497
@@ -5840,94 +5860,99 @@ aha	-	-	-	0:20:27.248000	0:20:28.026000	-	5649509
 .	-	-	-	0:20:27.248000	0:20:28.026000	-	5649510
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:27.248000" end="0:20:37.804000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:20:27.248000	0:20:28.026000	-	5649511
-das	-	-	-	0:20:27.248000	0:20:28.026000	-	5649512
-ist	-	-	-	0:20:27.248000	0:20:28.026000	-	5649513
-so	-	-	-	0:20:27.248000	0:20:28.026000	-	5649514
-ein	-	-	-	0:20:27.248000	0:20:28.026000	-	5649515
-/.	-	-	-	0:20:27.248000	0:20:28.026000	-	5649518
-<pause duration="0,6s"/>
-am	-	-	-	0:20:28.026000	0:20:30.026000	-	5649519
-Samstag	-	-	-	0:20:28.026000	0:20:30.026000	-	5649520
-ist	-	-	-	0:20:28.026000	0:20:30.026000	-	5649521
-die	-	-	-	0:20:28.026000	0:20:30.026000	-	5649522
-Hochzeit	-	-	-	0:20:28.026000	0:20:30.026000	-	5649523
-,	-	-	-	0:20:28.026000	0:20:30.026000	-	5714007
-<pause duration="0,6s"/>
-am	-	-	-	0:20:30.026000	0:20:33.069000	-	5649526
-Sonntag	-	-	-	0:20:30.026000	0:20:33.069000	-	5649527
-wollten	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	-	5649528
-wir	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	-	5649529
-eigentlich	-	-	-	0:20:30.026000	0:20:33.069000	-	5649530
-noch	-	-	-	0:20:30.026000	0:20:33.069000	-	5649531
-nach	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	-	5649532
-Innsbruck	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	-	5649533
-fahren	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	-	5649534
-,	-	-	-	0:20:30.026000	0:20:33.069000	-	5649535
-weil	-	-	-	0:20:33.069000	0:20:36.537000	-	5649536
-da	-	-	-	0:20:33.069000	0:20:36.537000	-	5649537
-<pause duration="0,7s"/>
-das	-	-	-	0:20:33.069000	0:20:36.537000	-	5649539
-Finale	-	-	-	0:20:33.069000	0:20:36.537000	-	5649540
-von	-	-	-	0:20:33.069000	0:20:36.537000	-	5649541
-der	-	-	-	0:20:33.069000	0:20:36.537000	-	5649542
-Radl-WM	-	-	DIM	0:20:33.069000	0:20:36.537000	-	5649543
-ist	-	-	-	0:20:33.069000	0:20:36.537000	-	5649544
-,	-	-	-	0:20:33.069000	0:20:36.537000	-	5649545
-die	-	-	-	0:20:36.537000	0:20:37.804000	-	5649546
-ist	-	-	-	0:20:36.537000	0:20:37.804000	-	5649547
-dieses	-	-	-	0:20:36.537000	0:20:37.804000	-	5649548
-Jahr	-	-	-	0:20:36.537000	0:20:37.804000	-	5649549
-in	-	-	-	0:20:36.537000	0:20:37.804000	-	5649550
-Innsbruck	-	-	-	0:20:36.537000	0:20:37.804000	-	5649551
-,	-	-	-	0:20:36.537000	0:20:37.804000	-	5649554
+ORT	ORT	-	-	0:20:27.248000	0:20:28.026000	ORT	5649511
+ORT	ORT	-	-	0:20:27.248000	0:20:28.026000	ORT	5649512
+ORT	ORT	-	-	0:20:27.248000	0:20:28.026000	ORT	5649513
+ORT	ORT	-	-	0:20:27.248000	0:20:28.026000	ORT	5649514
+ORT	ORT	-	-	0:20:27.248000	0:20:28.026000	ORT	5649515
+ORT	ORT	-	-	0:20:27.248000	0:20:28.026000	ORT	5649518
+ORT	ORT	-	-	0:20:28.026000	0:20:30.026000	ORT	5649525
+ORT	ORT	-	-	0:20:28.026000	0:20:30.026000	ORT	5649519
+ORT	ORT	-	-	0:20:28.026000	0:20:30.026000	ORT	5649520
+ORT	ORT	-	-	0:20:28.026000	0:20:30.026000	ORT	5649521
+ORT	ORT	-	-	0:20:28.026000	0:20:30.026000	ORT	5649522
+ORT	ORT	-	-	0:20:28.026000	0:20:30.026000	ORT	5649523
+ORT	ORT	-	-	0:20:28.026000	0:20:30.026000	ORT	5714007
+ORT	ORT	-	-	0:20:30.026000	0:20:33.069000	ORT	5649524
+ORT	ORT	-	-	0:20:30.026000	0:20:33.069000	ORT	5649526
+ORT	ORT	-	-	0:20:30.026000	0:20:33.069000	ORT	5649527
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	ORT	5649528
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	ORT	5649529
+ORT	ORT	-	-	0:20:30.026000	0:20:33.069000	ORT	5649530
+ORT	ORT	-	-	0:20:30.026000	0:20:33.069000	ORT	5649531
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	ORT	5649532
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	ORT	5649533
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:20:30.026000	0:20:33.069000	ORT	5649534
+ORT	ORT	-	-	0:20:30.026000	0:20:33.069000	ORT	5649535
+ORT	ORT	-	-	0:20:33.069000	0:20:36.537000	ORT	5649536
+ORT	ORT	-	-	0:20:33.069000	0:20:36.537000	ORT	5649537
+ORT	ORT	-	-	0:20:33.069000	0:20:36.537000	ORT	5649538
+ORT	ORT	-	-	0:20:33.069000	0:20:36.537000	ORT	5649539
+ORT	ORT	-	-	0:20:33.069000	0:20:36.537000	ORT	5649540
+ORT	ORT	-	-	0:20:33.069000	0:20:36.537000	ORT	5649541
+ORT	ORT	-	-	0:20:33.069000	0:20:36.537000	ORT	5649542
+ORT	ORT	-	DIM	0:20:33.069000	0:20:36.537000	ORT	5649543
+ORT	ORT	-	-	0:20:33.069000	0:20:36.537000	ORT	5649544
+ORT	ORT	-	-	0:20:33.069000	0:20:36.537000	ORT	5649545
+ORT	ORT	-	-	0:20:36.537000	0:20:37.804000	ORT	5649546
+ORT	ORT	-	-	0:20:36.537000	0:20:37.804000	ORT	5649547
+ORT	ORT	-	-	0:20:36.537000	0:20:37.804000	ORT	5649548
+ORT	ORT	-	-	0:20:36.537000	0:20:37.804000	ORT	5649549
+ORT	ORT	-	-	0:20:36.537000	0:20:37.804000	ORT	5649550
+ORT	ORT	-	-	0:20:36.537000	0:20:37.804000	ORT	5649551
+ORT	ORT	-	-	0:20:36.537000	0:20:37.804000	ORT	5649554
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:37.804000" end="0:20:38.801000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (Maria	-	-	-	0:20:37.804000	0:20:38.801000	-	5649552
 na)	-	-	-	0:20:37.804000	0:20:38.801000	-	5649553
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:38.801000" end="0:20:42.655000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-aber	-	-	-	0:20:38.801000	0:20:41.234000	-	5649555
-halt	-	-	-	0:20:38.801000	0:20:41.234000	-	5649556
-auch	-	-	-	0:20:38.801000	0:20:41.234000	-	5649557
-Montag	-	-	-	0:20:38.801000	0:20:41.234000	-	5649558
-bei	-	-	-	0:20:38.801000	0:20:41.234000	-	5649559
-mir	-	-	-	0:20:38.801000	0:20:41.234000	-	5649560
-das	-	-	-	0:20:38.801000	0:20:41.234000	-	5649561
-Studium	-	-	-	0:20:38.801000	0:20:41.234000	-	5649562
-losgeht	-	-	-	0:20:38.801000	0:20:41.234000	-	5649563
-,	-	-	-	0:20:38.801000	0:20:41.234000	-	5649564
-weiß	-	-	-	0:20:41.234000	0:20:41.917000	-	5649565
-ich	-	-	-	0:20:41.234000	0:20:41.917000	-	5649566
-jetzt	-	-	-	0:20:41.234000	0:20:41.917000	-	5649567
-nicht	-	-	-	0:20:41.234000	0:20:41.917000	-	5649568
-,	-	-	-	0:20:41.234000	0:20:41.917000	-	5649569
-wie	-	-	-	0:20:41.917000	0:20:42.655000	-	5649570
-wir	-	-	-	0:20:41.917000	0:20:42.655000	-	5649571
-da	-	-	-	0:20:41.917000	0:20:42.655000	-	5649572
-tun	-	-	-	0:20:41.917000	0:20:42.655000	-	5649573
-,	-	-	-	0:20:41.917000	0:20:42.655000	-	5649574
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649555
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649556
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649557
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649558
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649559
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649560
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649561
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649562
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649563
+ORT	ORT	-	-	0:20:38.801000	0:20:41.234000	ORT	5649564
+ORT	ORT	-	-	0:20:41.234000	0:20:41.917000	ORT	5649565
+ORT	ORT	-	-	0:20:41.234000	0:20:41.917000	ORT	5649566
+ORT	ORT	-	-	0:20:41.234000	0:20:41.917000	ORT	5649567
+ORT	ORT	-	-	0:20:41.234000	0:20:41.917000	ORT	5649568
+ORT	ORT	-	-	0:20:41.234000	0:20:41.917000	ORT	5649569
+ORT	ORT	-	-	0:20:41.917000	0:20:42.655000	ORT	5649570
+ORT	ORT	-	-	0:20:41.917000	0:20:42.655000	ORT	5649571
+ORT	ORT	-	-	0:20:41.917000	0:20:42.655000	ORT	5649572
+ORT	ORT	-	-	0:20:41.917000	0:20:42.655000	ORT	5649573
+ORT	ORT	-	-	0:20:41.917000	0:20:42.655000	ORT	5649574
+ORT	ORT	-	-	0:20:41.917000	0:20:42.655000	ORT	5649577
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:42.655000" end="0:20:44.655000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="seufzen"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:42.655000" end="0:20:44.655000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-das	-	-	-	0:20:42.655000	0:20:44.655000	-	5649578
-wird	-	-	-	0:20:42.655000	0:20:44.655000	-	5649579
-schon	-	-	-	0:20:42.655000	0:20:44.655000	-	5649580
-wieder	-	-	-	0:20:42.655000	0:20:44.655000	-	5649581
+ORT	ORT	-	-	0:20:42.655000	0:20:44.655000	ORT	5649578
+ORT	ORT	-	-	0:20:42.655000	0:20:44.655000	ORT	5649579
+ORT	ORT	-	-	0:20:42.655000	0:20:44.655000	ORT	5649580
+ORT	ORT	-	-	0:20:42.655000	0:20:44.655000	ORT	5649581
+ORT	ORT	-	-	0:20:42.655000	0:20:44.655000	ORT	5649582
+ORT	ORT	-	-	0:20:42.655000	0:20:44.655000	ORT	5649583
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:44.655000" end="0:20:45.949000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:44.655000" end="0:20:45.949000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-erster	-	-	-	0:20:44.655000	0:20:45.949000	-	5649585
-Tag	-	-	-	0:20:44.655000	0:20:45.949000	-	5649586
-Uni	-	-	DIM	0:20:44.655000	0:20:45.949000	-	5649587
+ORT	ORT	-	-	0:20:44.655000	0:20:45.949000	ORT	5649585
+ORT	ORT	-	-	0:20:44.655000	0:20:45.949000	ORT	5649586
+ORT	ORT	-	DIM	0:20:44.655000	0:20:45.949000	ORT	5649587
+ORT	ORT	-	-	0:20:44.655000	0:20:45.949000	ORT	5649588
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:45.949000" end="0:20:48.714000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 hm	-	-	-	0:20:45.949000	0:20:48.714000	-	5649591
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:45.949000" end="0:20:48.714000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+ORT	ORT	-	-	0:20:45.949000	0:20:48.714000	ORT	5649589
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:48.714000" end="0:20:52.063000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 könnte	-	-	IRR	0:20:48.714000	0:20:50.549000	-	5649593
@@ -5937,6 +5962,7 @@ nicht	-	-	IRR	0:20:48.714000	0:20:50.549000	-	5649596
 ?	-	-	-	0:20:48.714000	0:20:50.549000	-	5649597
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:50.549000" end="0:20:52.063000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+ORT	ORT	-	-	0:20:50.549000	0:20:52.063000	ORT	5649600
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:52.063000" end="0:20:57.959000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 "wia	-	-	-	0:20:52.063000	0:20:52.754000	-	5649601
@@ -5969,15 +5995,18 @@ immer	-	-	-	0:20:56.426000	0:20:57.270000	-	5649627
 noch	-	-	-	0:20:56.426000	0:20:57.270000	-	5649628
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:57.270000" end="0:20:59.439000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ich	-	-	-	0:20:57.959000	0:20:58.531000	-	5649633
-*weiß*	-	-	-	0:20:57.959000	0:20:58.531000	-	5649634
-auch	-	-	-	0:20:57.959000	0:20:58.531000	-	5649635
-nicht	-	-	-	0:20:57.959000	0:20:58.531000	-	5649636
-,	-	-	-	0:20:57.959000	0:20:58.531000	-	5649637
-was	-	-	-	0:20:58.531000	0:20:59.031000	-	5649638
-er	-	-	-	0:20:58.531000	0:20:59.031000	-	5649639
-was	-	-	-	0:20:59.031000	0:20:59.439000	-	5649640
-/.	-	-	-	0:20:59.031000	0:20:59.439000	-	5649642
+ORT	ORT	-	-	0:20:57.270000	0:20:57.959000	ORT	5649631
+ORT	ORT	-	-	0:20:57.959000	0:20:58.531000	ORT	5649632
+ORT	ORT	-	-	0:20:57.959000	0:20:58.531000	ORT	5649633
+ORT	ORT	-	-	0:20:57.959000	0:20:58.531000	ORT	5649634
+ORT	ORT	-	-	0:20:57.959000	0:20:58.531000	ORT	5649635
+ORT	ORT	-	-	0:20:57.959000	0:20:58.531000	ORT	5649636
+ORT	ORT	-	-	0:20:57.959000	0:20:58.531000	ORT	5649637
+ORT	ORT	-	-	0:20:58.531000	0:20:59.031000	ORT	5649638
+ORT	ORT	-	-	0:20:58.531000	0:20:59.031000	ORT	5649639
+ORT	ORT	-	-	0:20:59.031000	0:20:59.439000	ORT	5649640
+ORT	ORT	-	-	0:20:59.031000	0:20:59.439000	ORT	5649641
+ORT	ORT	-	-	0:20:59.031000	0:20:59.439000	ORT	5649642
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:59.439000" end="0:21:01.225000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 er	-	-	-	0:20:59.439000	0:21:00.291000	-	5649643
@@ -5987,31 +6016,32 @@ lustig	-	-	-	0:20:59.439000	0:21:00.291000	-	5649646
 ,	-	-	-	0:20:59.439000	0:21:00.291000	-	5649647
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:01.225000" end="0:21:02.310000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-(allweil)	-	-	-	0:21:01.225000	0:21:02.310000	-	5649712
-wieder	-	-	-	0:21:01.225000	0:21:02.310000	-	5649713
-aufgreifen	-	-	-	0:21:01.225000	0:21:02.310000	-	5649714
-(was)	-	-	-	0:21:01.225000	0:21:02.310000	-	5649715
+ORT	ORT	-	-	0:21:01.225000	0:21:02.310000	ORT	5649712
+ORT	ORT	-	-	0:21:01.225000	0:21:02.310000	ORT	5649713
+ORT	ORT	-	-	0:21:01.225000	0:21:02.310000	ORT	5649714
+ORT	ORT	-	-	0:21:01.225000	0:21:02.310000	ORT	5649715
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:02.310000" end="0:21:02.779000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:02.310000	0:21:02.779000	-	5649717
 ja	-	-	-	0:21:02.310000	0:21:02.779000	-	5649718
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:02.310000" end="0:21:02.779000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+ORT	ORT	-	-	0:21:02.310000	0:21:02.779000	ORT	5649716
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:02.779000" end="0:21:04.056000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 aufgreifen	-	-	-	0:21:02.779000	0:21:03.617000	-	5649719
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:03.617000" end="0:21:06.398000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:21:03.617000	0:21:04.056000	-	5649722
-sich	-	-	-	0:21:03.617000	0:21:04.056000	-	5649723
-jedes	-	-	-	0:21:03.617000	0:21:04.056000	-	5649724
-mal	-	-	-	0:21:03.617000	0:21:04.056000	-	5649725
-so	-	-	-	0:21:04.056000	0:21:04.816000	-	5649726
-abgekudert	-	-	-	0:21:04.056000	0:21:04.816000	-	5649727
-,	-	-	-	0:21:04.056000	0:21:04.816000	-	5649728
-wenn	-	-	-	0:21:04.816000	0:21:06.398000	-	5649729
-<pause duration="0,7s"/>
-wenn	-	-	-	0:21:04.816000	0:21:06.398000	-	5649731
+ORT	ORT	-	-	0:21:03.617000	0:21:04.056000	ORT	5649722
+ORT	ORT	-	-	0:21:03.617000	0:21:04.056000	ORT	5649723
+ORT	ORT	-	-	0:21:03.617000	0:21:04.056000	ORT	5649724
+ORT	ORT	-	-	0:21:03.617000	0:21:04.056000	ORT	5649725
+ORT	ORT	-	-	0:21:04.056000	0:21:04.816000	ORT	5649726
+ORT	ORT	-	-	0:21:04.056000	0:21:04.816000	ORT	5649727
+ORT	ORT	-	-	0:21:04.056000	0:21:04.816000	ORT	5649728
+ORT	ORT	-	-	0:21:04.816000	0:21:06.398000	ORT	5649729
+ORT	ORT	-	-	0:21:04.816000	0:21:06.398000	ORT	5649730
+ORT	ORT	-	-	0:21:04.816000	0:21:06.398000	ORT	5649731
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:06.398000" end="0:21:07.092000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:21:06.398000	0:21:07.092000	-	5649735
@@ -6019,12 +6049,12 @@ voll	-	-	-	0:21:06.398000	0:21:07.092000	-	5649736
 .	-	-	-	0:21:06.398000	0:21:07.092000	-	5649737
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:06.398000" end="0:21:07.842000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-wenn	-	-	-	0:21:06.398000	0:21:07.092000	-	5649732
-er	-	-	-	0:21:06.398000	0:21:07.092000	-	5649733
-das	-	-	-	0:21:06.398000	0:21:07.092000	-	5649734
-selber	-	-	-	0:21:07.092000	0:21:07.842000	-	5649738
-sagt	-	-	-	0:21:07.092000	0:21:07.842000	-	5649739
-,	-	-	-	0:21:07.092000	0:21:07.842000	-	5649743
+ORT	ORT	-	-	0:21:06.398000	0:21:07.092000	ORT	5649732
+ORT	ORT	-	-	0:21:06.398000	0:21:07.092000	ORT	5649733
+ORT	ORT	-	-	0:21:06.398000	0:21:07.092000	ORT	5649734
+ORT	ORT	-	-	0:21:07.092000	0:21:07.842000	ORT	5649738
+ORT	ORT	-	-	0:21:07.092000	0:21:07.842000	ORT	5649739
+ORT	ORT	-	-	0:21:07.092000	0:21:07.842000	ORT	5649743
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:07.842000" end="0:21:08.639000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:07.842000	0:21:08.639000	-	5649740
@@ -6032,17 +6062,17 @@ voll	-	-	-	0:21:07.842000	0:21:08.639000	-	5649741
 .	-	-	-	0:21:07.842000	0:21:08.639000	-	5649742
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:08.639000" end="0:21:10.142000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-(ich	-	-	-	0:21:08.639000	0:21:09.542000	-	5649744
-denke	-	-	-	0:21:08.639000	0:21:09.542000	-	5649745
-,	-	-	-	0:21:08.639000	0:21:09.542000	-	5714008
-man	-	-	-	0:21:08.639000	0:21:09.542000	-	5714009
-soll	-	-	-	0:21:08.639000	0:21:09.542000	-	5714010
-ja	-	-	-	0:21:08.639000	0:21:09.542000	-	5649749
-eh)	-	-	-	0:21:08.639000	0:21:09.542000	-	5649748
-gut	-	-	-	0:21:09.542000	0:21:10.142000	-	5649751
-ich	-	-	-	0:21:09.542000	0:21:10.142000	-	5649752
-meine	-	-	-	0:21:09.542000	0:21:10.142000	-	5649753
-,	-	-	-	0:21:09.542000	0:21:10.142000	-	5649754
+ORT	ORT	-	-	0:21:08.639000	0:21:09.542000	ORT	5649744
+ORT	ORT	-	-	0:21:08.639000	0:21:09.542000	ORT	5649745
+ORT	ORT	-	-	0:21:08.639000	0:21:09.542000	ORT	5714008
+ORT	ORT	-	-	0:21:08.639000	0:21:09.542000	ORT	5714009
+ORT	ORT	-	-	0:21:08.639000	0:21:09.542000	ORT	5714010
+ORT	ORT	-	-	0:21:08.639000	0:21:09.542000	ORT	5649749
+ORT	ORT	-	-	0:21:08.639000	0:21:09.542000	ORT	5649748
+ORT	ORT	-	-	0:21:09.542000	0:21:10.142000	ORT	5649751
+ORT	ORT	-	-	0:21:09.542000	0:21:10.142000	ORT	5649752
+ORT	ORT	-	-	0:21:09.542000	0:21:10.142000	ORT	5649753
+ORT	ORT	-	-	0:21:09.542000	0:21:10.142000	ORT	5649754
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:10.142000" end="0:21:11.337000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:21:10.142000	0:21:11.337000	-	5649758
@@ -6050,24 +6080,25 @@ eh	-	-	-	0:21:10.142000	0:21:11.337000	-	5649759
 .	-	-	-	0:21:10.142000	0:21:11.337000	-	5649760
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:10.142000" end="0:21:13.368000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-erwachsen	-	-	-	0:21:10.142000	0:21:11.337000	-	5649756
-ist	-	-	-	0:21:10.142000	0:21:11.337000	-	5649757
-*is*	-	-	-	0:21:11.337000	0:21:11.842000	-	5649761
-überhaupst	-	-	-	0:21:11.337000	0:21:11.842000	-	5649762
-so	-	-	-	0:21:11.337000	0:21:11.842000	-	5649763
-,	-	-	-	0:21:11.337000	0:21:11.842000	-	5649764
-*wennsd*	-	-	-	0:21:11.842000	0:21:12.411000	-	5649765
-sagst	-	-	-	0:21:11.842000	0:21:12.411000	-	5649766
-,	-	-	-	0:21:11.842000	0:21:12.411000	-	5649767
-ja	-	-	-	0:21:12.411000	0:21:13.368000	-	5649768
-jetzt	-	-	-	0:21:12.411000	0:21:13.368000	-	5649769
-haben	-	-	-	0:21:12.411000	0:21:13.368000	-	5649770
-wir	-	-	-	0:21:12.411000	0:21:13.368000	-	5649771
-es	-	-	-	0:21:12.411000	0:21:13.368000	-	5649772
-eh	-	-	-	0:21:12.411000	0:21:13.368000	-	5649773
-schon	-	-	-	0:21:12.411000	0:21:13.368000	-	5649774
-mal	-	-	-	0:21:12.411000	0:21:13.368000	-	5649775
-gehört	-	-	-	0:21:12.411000	0:21:13.368000	-	5649776
+ORT	ORT	-	-	0:21:10.142000	0:21:11.337000	ORT	5649755
+ORT	ORT	-	-	0:21:10.142000	0:21:11.337000	ORT	5649756
+ORT	ORT	-	-	0:21:10.142000	0:21:11.337000	ORT	5649757
+ORT	ORT	-	-	0:21:11.337000	0:21:11.842000	ORT	5649761
+ORT	ORT	-	-	0:21:11.337000	0:21:11.842000	ORT	5649762
+ORT	ORT	-	-	0:21:11.337000	0:21:11.842000	ORT	5649763
+ORT	ORT	-	-	0:21:11.337000	0:21:11.842000	ORT	5649764
+ORT	ORT	-	-	0:21:11.842000	0:21:12.411000	ORT	5649765
+ORT	ORT	-	-	0:21:11.842000	0:21:12.411000	ORT	5649766
+ORT	ORT	-	-	0:21:11.842000	0:21:12.411000	ORT	5649767
+ORT	ORT	-	-	0:21:12.411000	0:21:13.368000	ORT	5649768
+ORT	ORT	-	-	0:21:12.411000	0:21:13.368000	ORT	5649769
+ORT	ORT	-	-	0:21:12.411000	0:21:13.368000	ORT	5649770
+ORT	ORT	-	-	0:21:12.411000	0:21:13.368000	ORT	5649771
+ORT	ORT	-	-	0:21:12.411000	0:21:13.368000	ORT	5649772
+ORT	ORT	-	-	0:21:12.411000	0:21:13.368000	ORT	5649773
+ORT	ORT	-	-	0:21:12.411000	0:21:13.368000	ORT	5649774
+ORT	ORT	-	-	0:21:12.411000	0:21:13.368000	ORT	5649775
+ORT	ORT	-	-	0:21:12.411000	0:21:13.368000	ORT	5649776
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:13.368000" end="0:21:18.628000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (ja	-	-	-	0:21:13.368000	0:21:14.018000	-	5649777
@@ -6081,29 +6112,30 @@ lustiger	-	-	-	0:21:14.018000	0:21:16.216000	-	5649782
 <pause duration="1,0s"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:17.578000" end="0:21:21.520000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,0s"/>
-gut	-	-	-	0:21:18.628000	0:21:19.700000	-	5649787
-,	-	-	-	0:21:18.628000	0:21:19.700000	-	5649788
-es	-	-	-	0:21:18.628000	0:21:19.700000	-	5649789
-hat	-	-	-	0:21:18.628000	0:21:19.700000	-	5649790
-sicher	-	-	-	0:21:18.628000	0:21:19.700000	-	5649791
-auch	-	-	-	0:21:18.628000	0:21:19.700000	-	5649792
-geholfen	-	-	-	0:21:18.628000	0:21:19.700000	-	5649793
-,	-	-	-	0:21:18.628000	0:21:19.700000	-	5649794
-dass	-	-	-	0:21:19.700000	0:21:21.520000	-	5649795
-(du)	-	-	-	0:21:19.700000	0:21:21.520000	-	5649796
-da	-	-	-	0:21:19.700000	0:21:21.520000	-	5714013
-gerade	-	-	-	0:21:19.700000	0:21:21.520000	-	5649798
-was	-	-	-	0:21:19.700000	0:21:21.520000	-	5649799
-getrunken	-	-	-	0:21:19.700000	0:21:21.520000	-	5649800
-hast	-	-	-	0:21:19.700000	0:21:21.520000	-	5649801
-,	-	-	-	0:21:19.700000	0:21:21.520000	-	5649802
-nicht	-	-	-	0:21:19.700000	0:21:21.520000	-	5649803
-?	-	-	-	0:21:19.700000	0:21:21.520000	-	5649804
+ORT	ORT	-	-	0:21:17.578000	0:21:18.628000	ORT	5649786
+ORT	ORT	-	-	0:21:18.628000	0:21:19.700000	ORT	5649787
+ORT	ORT	-	-	0:21:18.628000	0:21:19.700000	ORT	5649788
+ORT	ORT	-	-	0:21:18.628000	0:21:19.700000	ORT	5649789
+ORT	ORT	-	-	0:21:18.628000	0:21:19.700000	ORT	5649790
+ORT	ORT	-	-	0:21:18.628000	0:21:19.700000	ORT	5649791
+ORT	ORT	-	-	0:21:18.628000	0:21:19.700000	ORT	5649792
+ORT	ORT	-	-	0:21:18.628000	0:21:19.700000	ORT	5649793
+ORT	ORT	-	-	0:21:18.628000	0:21:19.700000	ORT	5649794
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5649795
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5649796
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5714013
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5649798
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5649799
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5649800
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5649801
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5649802
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5649803
+ORT	ORT	-	-	0:21:19.700000	0:21:21.520000	ORT	5649804
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:21.520000" end="0:21:22.925000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:21.520000" end="0:21:22.925000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
+ORT	ORT	-	-	0:21:21.520000	0:21:22.925000	ORT	5649806
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:22.925000" end="0:21:28.490000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:22.925000	0:21:25.043000	-	5649815
@@ -6120,7 +6152,7 @@ ja	-	-	-	0:21:26.924000	0:21:27.438000	-	5649819
 <pause duration="1,1s"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:27.438000" end="0:21:28.490000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,1s"/>
+ORT	ORT	-	-	0:21:27.438000	0:21:28.490000	ORT	5649822
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:28.490000" end="0:21:36.762000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:21:28.490000	0:21:29.237000	-	5649823
@@ -6135,7 +6167,7 @@ sauber	-	-	-	0:21:29.761000	0:21:31.208000	-	5655109
 ,	-	-	-	0:21:29.761000	0:21:31.208000	-	5655110
 oder	-	-	-	0:21:29.761000	0:21:31.208000	-	5655111
 ?	-	-	-	0:21:29.761000	0:21:31.208000	-	5655112
-[Taufkirchen]O	-	-	-	0:21:31.208000	0:21:32.106000	-	5655113
+ORT	ORT	-	-	0:21:31.208000	0:21:32.106000	ORT	5655113
 (jetzt	-	-	-	0:21:31.208000	0:21:32.106000	-	5655114
 mal)	-	-	-	0:21:31.208000	0:21:32.106000	-	5655115
 ,	-	-	-	0:21:31.208000	0:21:32.106000	-	5655116
@@ -6163,29 +6195,31 @@ nicht	-	-	-	0:21:34.085000	0:21:36.762000	-	5655137
 ?	-	-	-	0:21:34.085000	0:21:36.762000	-	5655138
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:36.762000" end="0:21:38.104000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ich	-	-	-	0:21:36.762000	0:21:38.104000	-	5655140
-schätze	-	-	-	0:21:36.762000	0:21:38.104000	-	5655141
-einmal	-	-	-	0:21:36.762000	0:21:38.104000	-	5655142
-,	-	-	-	0:21:36.762000	0:21:38.104000	-	5655143
+ORT	ORT	-	-	0:21:36.762000	0:21:38.104000	ORT	5655139
+ORT	ORT	-	-	0:21:36.762000	0:21:38.104000	ORT	5655140
+ORT	ORT	-	-	0:21:36.762000	0:21:38.104000	ORT	5655141
+ORT	ORT	-	-	0:21:36.762000	0:21:38.104000	ORT	5655142
+ORT	ORT	-	-	0:21:36.762000	0:21:38.104000	ORT	5655143
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:38.104000" end="0:21:39.487000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 aber	-	-	-	0:21:38.104000	0:21:39.487000	-	5655144
 /.	-	-	-	0:21:38.104000	0:21:39.487000	-	5655145
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:38.104000" end="0:21:44.078000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:21:38.104000	0:21:39.487000	-	5655147
-<pause duration="0,5s"/>
-du	-	-	-	0:21:39.487000	0:21:43.384000	-	5655149
-*werdets*	-	-	-	0:21:39.487000	0:21:43.384000	-	5655150
-absehbar	-	-	-	0:21:39.487000	0:21:43.384000	-	5655151
-jetzt	-	-	-	0:21:39.487000	0:21:43.384000	-	5655152
-schon	-	-	-	0:21:39.487000	0:21:43.384000	-	5655153
-noch	-	-	-	0:21:39.487000	0:21:43.384000	-	5655154
-,	-	-	-	0:21:39.487000	0:21:43.384000	-	5655155
-(weiß	-	-	-	0:21:43.384000	0:21:44.078000	-	5655156
-ich	-	-	-	0:21:43.384000	0:21:44.078000	-	5655157
-nicht)	-	-	-	0:21:43.384000	0:21:44.078000	-	5655158
-/.	-	-	-	0:21:43.384000	0:21:44.078000	-	5655159
+ORT	ORT	-	-	0:21:38.104000	0:21:39.487000	ORT	5655146
+ORT	ORT	-	-	0:21:38.104000	0:21:39.487000	ORT	5655147
+ORT	ORT	-	-	0:21:39.487000	0:21:43.384000	ORT	5655148
+ORT	ORT	-	-	0:21:39.487000	0:21:43.384000	ORT	5655149
+ORT	ORT	-	-	0:21:39.487000	0:21:43.384000	ORT	5655150
+ORT	ORT	-	-	0:21:39.487000	0:21:43.384000	ORT	5655151
+ORT	ORT	-	-	0:21:39.487000	0:21:43.384000	ORT	5655152
+ORT	ORT	-	-	0:21:39.487000	0:21:43.384000	ORT	5655153
+ORT	ORT	-	-	0:21:39.487000	0:21:43.384000	ORT	5655154
+ORT	ORT	-	-	0:21:39.487000	0:21:43.384000	ORT	5655155
+ORT	ORT	-	-	0:21:43.384000	0:21:44.078000	ORT	5655156
+ORT	ORT	-	-	0:21:43.384000	0:21:44.078000	ORT	5655157
+ORT	ORT	-	-	0:21:43.384000	0:21:44.078000	ORT	5655158
+ORT	ORT	-	-	0:21:43.384000	0:21:44.078000	ORT	5655159
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:44.078000" end="0:21:49.087000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
@@ -6204,12 +6238,12 @@ einmal	-	-	-	0:21:47.083000	0:21:49.087000	-	5655171
 gebundener	-	-	-	0:21:47.083000	0:21:49.087000	-	5655173
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:47.083000" end="0:21:49.087000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-gebundener	-	-	-	0:21:47.083000	0:21:49.087000	-	5655174
-(sage	-	-	-	0:21:47.083000	0:21:49.087000	-	5655175
-ich	-	-	-	0:21:47.083000	0:21:49.087000	-	5714014
-einmal)	-	-	-	0:21:47.083000	0:21:49.087000	-	5714015
-ja	-	-	-	0:21:47.083000	0:21:49.087000	-	5655176
-.	-	-	-	0:21:47.083000	0:21:49.087000	-	5655177
+ORT	ORT	-	-	0:21:47.083000	0:21:49.087000	ORT	5655174
+ORT	ORT	-	-	0:21:47.083000	0:21:49.087000	ORT	5655175
+ORT	ORT	-	-	0:21:47.083000	0:21:49.087000	ORT	5714014
+ORT	ORT	-	-	0:21:47.083000	0:21:49.087000	ORT	5714015
+ORT	ORT	-	-	0:21:47.083000	0:21:49.087000	ORT	5655176
+ORT	ORT	-	-	0:21:47.083000	0:21:49.087000	ORT	5655177
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:49.087000" end="0:21:51.110000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:21:49.087000	0:21:50.362000	-	5655178
@@ -6219,32 +6253,33 @@ nicht	-	-	-	0:21:50.362000	0:21:51.110000	-	5655182
 ?	-	-	-	0:21:50.362000	0:21:51.110000	-	5655183
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:50.362000" end="0:21:56.159000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-genau	-	-	-	0:21:50.362000	0:21:51.110000	-	5655185
-,	-	-	-	0:21:50.362000	0:21:51.110000	-	5655186
-ja	-	-	-	0:21:50.362000	0:21:51.110000	-	5655187
-.	-	-	-	0:21:50.362000	0:21:51.110000	-	5655188
-naja	-	-	-	0:21:51.110000	0:21:51.718000	-	5655189
-weil	-	-	-	0:21:51.110000	0:21:51.718000	-	5655190
-<pause duration="1,0s"/>
-haben	-	-	-	0:21:52.745000	0:21:56.159000	-	5655192
-die	-	-	-	0:21:52.745000	0:21:56.159000	-	5655193
-NAME	NAME	-	-	0:21:52.745000	0:21:56.159000	NAME	5655194
-und	-	-	-	0:21:52.745000	0:21:56.159000	-	5655195
-ich	-	-	-	0:21:52.745000	0:21:56.159000	-	5655196
-auch	-	-	-	0:21:52.745000	0:21:56.159000	-	5655198
-geredet	-	-	-	0:21:52.745000	0:21:56.159000	-	5655199
-(auch)	-	-	-	0:21:52.745000	0:21:56.159000	-	5655200
-<pause duration="0,5s"/>
-zwecks	-	-	-	0:21:52.745000	0:21:56.159000	-	5655202
-der	-	-	-	0:21:52.745000	0:21:56.159000	-	5655203
-Wohnsituation	-	-	-	0:21:52.745000	0:21:56.159000	-	5655204
+ORT	ORT	-	-	0:21:50.362000	0:21:51.110000	ORT	5655185
+ORT	ORT	-	-	0:21:50.362000	0:21:51.110000	ORT	5655186
+ORT	ORT	-	-	0:21:50.362000	0:21:51.110000	ORT	5655187
+ORT	ORT	-	-	0:21:50.362000	0:21:51.110000	ORT	5655188
+ORT	ORT	-	-	0:21:51.110000	0:21:51.718000	ORT	5655189
+ORT	ORT	-	-	0:21:51.110000	0:21:51.718000	ORT	5655190
+ORT	ORT	-	-	0:21:51.718000	0:21:52.745000	ORT	5655191
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655192
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655193
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655194
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655195
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655196
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655197
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655198
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655199
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655200
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655201
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655202
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655203
+ORT	ORT	-	-	0:21:52.745000	0:21:56.159000	ORT	5655204
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:56.159000" end="0:21:56.521000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:56.159000	0:21:56.521000	-	5655206
 .	-	-	-	0:21:56.159000	0:21:56.521000	-	5655210
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:56.159000" end="0:21:56.521000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-dann	-	-	-	0:21:56.159000	0:21:56.521000	-	5655205
+ORT	ORT	-	-	0:21:56.159000	0:21:56.521000	ORT	5655205
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:56.521000" end="0:21:57.773000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:21:56.521000	0:21:57.328000	-	5655207
@@ -6254,65 +6289,66 @@ geschaut	-	-	-	0:21:57.328000	0:21:57.773000	-	5655211
 ?	-	-	-	0:21:57.328000	0:21:57.773000	-	5655212
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:57.328000" end="0:22:13.334000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:21:57.328000	0:21:57.773000	-	5655213
-(wir)	-	-	-	0:21:57.328000	0:21:57.773000	-	5655214
-(haben)	-	-	-	0:21:57.773000	0:21:59.207000	-	5655215
-alle	-	-	-	0:21:57.773000	0:21:59.207000	-	5655216
-Studentenheime	-	-	-	0:21:57.773000	0:21:59.207000	-	5655217
-angeschaut	-	-	-	0:21:57.773000	0:21:59.207000	-	5655218
-,	-	-	-	0:21:57.773000	0:21:59.207000	-	5655220
-(da	-	-	-	0:21:59.207000	0:21:59.951000	-	5655221
-war)	-	-	-	0:21:59.207000	0:21:59.951000	-	5655222
-eines	-	-	-	0:21:59.207000	0:21:59.951000	-	5655223
-,	-	-	-	0:21:59.207000	0:21:59.951000	-	5655224
-das	-	-	-	0:21:59.951000	0:22:00.934000	-	5655225
-neueste	-	-	-	0:21:59.951000	0:22:00.934000	-	5655226
-,	-	-	-	0:21:59.951000	0:22:00.934000	-	5655227
-<pause duration="0,6s"/>
-da	-	-	-	0:22:00.934000	0:22:03.847000	-	5655414
-gibt	-	-	-	0:22:00.934000	0:22:03.847000	-	5655415
-es	-	-	-	0:22:00.934000	0:22:03.847000	-	5655416
-halt	-	-	-	0:22:00.934000	0:22:03.847000	-	5655417
-fünf	-	-	-	0:22:00.934000	0:22:03.847000	-	5655418
-Einzelwohnungen	-	-	-	0:22:00.934000	0:22:03.847000	-	5655419
-,	-	-	-	0:22:00.934000	0:22:03.847000	-	5655420
-<pause duration="0,6s"/>
-die	-	-	-	0:22:03.847000	0:22:06.613000	-	5655422
-fünfzig	-	-	-	0:22:03.847000	0:22:06.613000	-	5655423
-Quadratmeter	-	-	-	0:22:03.847000	0:22:06.613000	-	5655424
-jeweils	-	-	-	0:22:03.847000	0:22:06.613000	-	5655425
-haben	-	-	-	0:22:03.847000	0:22:06.613000	-	5655426
-und	-	-	-	0:22:06.613000	0:22:07.411000	-	5655427
-voll	-	-	-	0:22:06.613000	0:22:07.411000	-	5655428
-schön	-	-	-	0:22:06.613000	0:22:07.411000	-	5655429
-sind	-	-	-	0:22:06.613000	0:22:07.411000	-	5655430
-,	-	-	-	0:22:06.613000	0:22:07.411000	-	5655431
-die	-	-	-	0:22:07.411000	0:22:11.679000	-	5655432
-also	-	-	-	0:22:07.411000	0:22:11.679000	-	5714016
-<pause duration="1,2s"/>
-Glasf/	-	-	-	0:22:07.411000	0:22:11.679000	-	5655435
-so	-	-	?? IRR	0:22:07.411000	0:22:11.679000	-	5655436
-eine	-	-	?? IRR	0:22:07.411000	0:22:11.679000	-	5655437
-so	-	-	?? IRR	0:22:07.411000	0:22:11.679000	-	5655438
-eine	-	-	?? IRR	0:22:07.411000	0:22:11.679000	-	5655439
-Glasfront	-	-	?? IRR	0:22:07.411000	0:22:11.679000	-	5655440
-haben	-	-	-	0:22:07.411000	0:22:11.679000	-	5655441
-,	-	-	-	0:22:07.411000	0:22:11.679000	-	5655442
-also	-	-	-	0:22:11.679000	0:22:13.334000	-	5655443
-so	-	-	-	0:22:11.679000	0:22:13.334000	-	5655444
-zweimal	-	-	-	0:22:11.679000	0:22:13.334000	-	5655445
-zwei	-	-	-	0:22:11.679000	0:22:13.334000	-	5655446
-Meter	-	-	-	0:22:11.679000	0:22:13.334000	-	5655447
-so	-	-	-	0:22:11.679000	0:22:13.334000	-	5655448
-in	-	-	-	0:22:11.679000	0:22:13.334000	-	5655449
-die	-	-	-	0:22:11.679000	0:22:13.334000	-	5655450
+ORT	ORT	-	-	0:21:57.328000	0:21:57.773000	ORT	5655213
+ORT	ORT	-	-	0:21:57.328000	0:21:57.773000	ORT	5655214
+ORT	ORT	-	-	0:21:57.773000	0:21:59.207000	ORT	5655215
+ORT	ORT	-	-	0:21:57.773000	0:21:59.207000	ORT	5655219
+ORT	ORT	-	-	0:21:57.773000	0:21:59.207000	ORT	5655216
+ORT	ORT	-	-	0:21:57.773000	0:21:59.207000	ORT	5655217
+ORT	ORT	-	-	0:21:57.773000	0:21:59.207000	ORT	5655218
+ORT	ORT	-	-	0:21:57.773000	0:21:59.207000	ORT	5655220
+ORT	ORT	-	-	0:21:59.207000	0:21:59.951000	ORT	5655221
+ORT	ORT	-	-	0:21:59.207000	0:21:59.951000	ORT	5655222
+ORT	ORT	-	-	0:21:59.207000	0:21:59.951000	ORT	5655223
+ORT	ORT	-	-	0:21:59.207000	0:21:59.951000	ORT	5655224
+ORT	ORT	-	-	0:21:59.951000	0:22:00.934000	ORT	5655225
+ORT	ORT	-	-	0:21:59.951000	0:22:00.934000	ORT	5655226
+ORT	ORT	-	-	0:21:59.951000	0:22:00.934000	ORT	5655227
+ORT	ORT	-	-	0:22:00.934000	0:22:03.847000	ORT	5655413
+ORT	ORT	-	-	0:22:00.934000	0:22:03.847000	ORT	5655414
+ORT	ORT	-	-	0:22:00.934000	0:22:03.847000	ORT	5655415
+ORT	ORT	-	-	0:22:00.934000	0:22:03.847000	ORT	5655416
+ORT	ORT	-	-	0:22:00.934000	0:22:03.847000	ORT	5655417
+ORT	ORT	-	-	0:22:00.934000	0:22:03.847000	ORT	5655418
+ORT	ORT	-	-	0:22:00.934000	0:22:03.847000	ORT	5655419
+ORT	ORT	-	-	0:22:00.934000	0:22:03.847000	ORT	5655420
+ORT	ORT	-	-	0:22:03.847000	0:22:06.613000	ORT	5655421
+ORT	ORT	-	-	0:22:03.847000	0:22:06.613000	ORT	5655422
+ORT	ORT	-	-	0:22:03.847000	0:22:06.613000	ORT	5655423
+ORT	ORT	-	-	0:22:03.847000	0:22:06.613000	ORT	5655424
+ORT	ORT	-	-	0:22:03.847000	0:22:06.613000	ORT	5655425
+ORT	ORT	-	-	0:22:03.847000	0:22:06.613000	ORT	5655426
+ORT	ORT	-	-	0:22:06.613000	0:22:07.411000	ORT	5655427
+ORT	ORT	-	-	0:22:06.613000	0:22:07.411000	ORT	5655428
+ORT	ORT	-	-	0:22:06.613000	0:22:07.411000	ORT	5655429
+ORT	ORT	-	-	0:22:06.613000	0:22:07.411000	ORT	5655430
+ORT	ORT	-	-	0:22:06.613000	0:22:07.411000	ORT	5655431
+ORT	ORT	-	-	0:22:07.411000	0:22:11.679000	ORT	5655432
+ORT	ORT	-	-	0:22:07.411000	0:22:11.679000	ORT	5714016
+ORT	ORT	-	-	0:22:07.411000	0:22:11.679000	ORT	5655434
+ORT	ORT	-	-	0:22:07.411000	0:22:11.679000	ORT	5655435
+ORT	ORT	-	?? IRR	0:22:07.411000	0:22:11.679000	ORT	5655436
+ORT	ORT	-	?? IRR	0:22:07.411000	0:22:11.679000	ORT	5655437
+ORT	ORT	-	?? IRR	0:22:07.411000	0:22:11.679000	ORT	5655438
+ORT	ORT	-	?? IRR	0:22:07.411000	0:22:11.679000	ORT	5655439
+ORT	ORT	-	?? IRR	0:22:07.411000	0:22:11.679000	ORT	5655440
+ORT	ORT	-	-	0:22:07.411000	0:22:11.679000	ORT	5655441
+ORT	ORT	-	-	0:22:07.411000	0:22:11.679000	ORT	5655442
+ORT	ORT	-	-	0:22:11.679000	0:22:13.334000	ORT	5655443
+ORT	ORT	-	-	0:22:11.679000	0:22:13.334000	ORT	5655444
+ORT	ORT	-	-	0:22:11.679000	0:22:13.334000	ORT	5655445
+ORT	ORT	-	-	0:22:11.679000	0:22:13.334000	ORT	5655446
+ORT	ORT	-	-	0:22:11.679000	0:22:13.334000	ORT	5655447
+ORT	ORT	-	-	0:22:11.679000	0:22:13.334000	ORT	5655448
+ORT	ORT	-	-	0:22:11.679000	0:22:13.334000	ORT	5655449
+ORT	ORT	-	-	0:22:11.679000	0:22:13.334000	ORT	5655450
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:13.334000" end="0:22:13.868000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 was	-	-	-	0:22:13.334000	0:22:13.868000	-	5655451
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:13.334000" end="0:22:13.868000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-Richtung	-	-	-	0:22:13.334000	0:22:13.868000	-	5655452
-.	-	-	-	0:22:13.334000	0:22:13.868000	-	5655453
+ORT	ORT	-	-	0:22:13.334000	0:22:13.868000	ORT	5655452
+ORT	ORT	-	-	0:22:13.334000	0:22:13.868000	ORT	5655453
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:13.868000" end="0:22:15.285000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 *bist*	-	-	-	0:22:13.868000	0:22:14.425000	-	5655454
@@ -6326,14 +6362,14 @@ da	-	-	-	0:22:14.425000	0:22:15.285000	-	5655461
 /?	-	-	-	0:22:14.425000	0:22:15.285000	-	5655462
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:15.285000" end="0:22:15.515000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-im	-	-	-	0:22:15.285000	0:22:15.515000	-	5655463
+ORT	ORT	-	-	0:22:15.285000	0:22:15.515000	ORT	5655463
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:15.515000" end="0:22:16.029000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:22:15.515000	0:22:16.029000	-	5655466
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:15.515000" end="0:22:16.029000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-Internet	-	-	-	0:22:15.515000	0:22:16.029000	-	5655464
-.	-	-	-	0:22:15.515000	0:22:16.029000	-	5655465
+ORT	ORT	-	-	0:22:15.515000	0:22:16.029000	ORT	5655464
+ORT	ORT	-	-	0:22:15.515000	0:22:16.029000	ORT	5655465
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:16.029000" end="0:22:16.775000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 im	-	-	-	0:22:16.029000	0:22:16.775000	-	5714017
@@ -6343,123 +6379,125 @@ aha	-	-	-	0:22:16.029000	0:22:16.775000	-	5714021
 .	-	-	-	0:22:16.029000	0:22:16.775000	-	5714020
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:16.775000" end="0:22:18.326000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:22:16.775000	0:22:18.326000	-	5655469
-und	-	-	-	0:22:16.775000	0:22:18.326000	-	5655470
-von	-	-	-	0:22:16.775000	0:22:18.326000	-	5655471
-außen	-	-	-	0:22:16.775000	0:22:18.326000	-	5655472
-kenne	-	-	-	0:22:16.775000	0:22:18.326000	-	5655473
-ich	-	-	-	0:22:16.775000	0:22:18.326000	-	5655474
-es	-	-	-	0:22:16.775000	0:22:18.326000	-	5655475
-ja	-	-	-	0:22:16.775000	0:22:18.326000	-	5655476
-schon	-	-	-	0:22:16.775000	0:22:18.326000	-	5655477
+ORT	ORT	-	-	0:22:16.775000	0:22:18.326000	ORT	5655469
+ORT	ORT	-	-	0:22:16.775000	0:22:18.326000	ORT	5655470
+ORT	ORT	-	-	0:22:16.775000	0:22:18.326000	ORT	5655471
+ORT	ORT	-	-	0:22:16.775000	0:22:18.326000	ORT	5655472
+ORT	ORT	-	-	0:22:16.775000	0:22:18.326000	ORT	5655473
+ORT	ORT	-	-	0:22:16.775000	0:22:18.326000	ORT	5655474
+ORT	ORT	-	-	0:22:16.775000	0:22:18.326000	ORT	5655475
+ORT	ORT	-	-	0:22:16.775000	0:22:18.326000	ORT	5655476
+ORT	ORT	-	-	0:22:16.775000	0:22:18.326000	ORT	5655477
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:18.326000" end="0:22:18.670000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:22:18.326000	0:22:18.670000	-	5655478
 .	-	-	-	0:22:18.326000	0:22:18.670000	-	5655479
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:18.670000" end="0:22:20.756000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:22:18.670000	0:22:20.756000	-	5655480
-sie	-	-	-	0:22:18.670000	0:22:20.756000	-	5655481
-haben	-	-	-	0:22:18.670000	0:22:20.756000	-	5655482
-eh	-	-	-	0:22:18.670000	0:22:20.756000	-	5655483
-dann	-	-	-	0:22:18.670000	0:22:20.756000	-	5655484
-überall	-	-	-	0:22:18.670000	0:22:20.756000	-	5655485
-Bilder	-	-	-	0:22:18.670000	0:22:20.756000	-	5655486
-auch	-	-	-	0:22:18.670000	0:22:20.756000	-	5655487
-von	-	-	-	0:22:18.670000	0:22:20.756000	-	5655488
-drinnen	-	-	-	0:22:18.670000	0:22:20.756000	-	5655489
-,	-	-	-	0:22:18.670000	0:22:20.756000	-	5655490
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655480
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655481
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655482
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655483
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655484
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655485
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655486
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655487
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655488
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655489
+ORT	ORT	-	-	0:22:18.670000	0:22:20.756000	ORT	5655490
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:20.756000" end="0:22:21.160000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:20.756000	0:22:21.160000	-	5655493
 .	-	-	-	0:22:20.756000	0:22:21.160000	-	5655494
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:20.756000" end="0:22:32.755000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nicht	-	-	-	0:22:20.756000	0:22:21.160000	-	5655491
-?	-	-	-	0:22:20.756000	0:22:21.160000	-	5655492
-*damits*	-	-	-	0:22:21.160000	0:22:22.973000	-	5655495
-dir	-	-	-	0:22:21.160000	0:22:22.973000	-	5655496
-was	-	-	-	0:22:21.160000	0:22:22.973000	-	5655497
-vorstellen	-	-	-	0:22:21.160000	0:22:22.973000	-	5655498
-kannst	-	-	-	0:22:21.160000	0:22:22.973000	-	5655499
-.	-	-	-	0:22:21.160000	0:22:22.973000	-	5655500
-<pause duration="0,8s"/>
-und	-	-	-	0:22:22.973000	0:22:24.617000	-	5655502
-<pause duration="1,3s"/>
-wo	-	-	-	0:22:25.878000	0:22:26.723000	-	5655504
-ich	-	-	-	0:22:25.878000	0:22:26.723000	-	5655505
-dann	-	-	-	0:22:25.878000	0:22:26.723000	-	5655506
-eh	-	-	-	0:22:25.878000	0:22:26.723000	-	5655507
-gesagt	-	-	-	0:22:25.878000	0:22:26.723000	-	5655508
-habe	-	-	-	0:22:25.878000	0:22:26.723000	-	5655509
-,	-	-	-	0:22:25.878000	0:22:26.723000	-	5655510
-"geh	-	-	-	0:22:26.723000	0:22:28.667000	-	5655511
-weiter	-	-	-	0:22:26.723000	0:22:28.667000	-	5655512
-,	-	-	-	0:22:26.723000	0:22:28.667000	-	5655513
-NAME	NAME	-	-	0:22:26.723000	0:22:28.667000	NAME	5655514
-geh	-	-	-	0:22:26.723000	0:22:28.667000	-	5655515
-halt	-	-	-	0:22:26.723000	0:22:28.667000	-	5655516
-auf	-	-	-	0:22:26.723000	0:22:28.667000	-	5655517
+ORT	ORT	-	-	0:22:20.756000	0:22:21.160000	ORT	5655491
+ORT	ORT	-	-	0:22:20.756000	0:22:21.160000	ORT	5655492
+ORT	ORT	-	-	0:22:21.160000	0:22:22.973000	ORT	5655495
+ORT	ORT	-	-	0:22:21.160000	0:22:22.973000	ORT	5655496
+ORT	ORT	-	-	0:22:21.160000	0:22:22.973000	ORT	5655497
+ORT	ORT	-	-	0:22:21.160000	0:22:22.973000	ORT	5655498
+ORT	ORT	-	-	0:22:21.160000	0:22:22.973000	ORT	5655499
+ORT	ORT	-	-	0:22:21.160000	0:22:22.973000	ORT	5655500
+ORT	ORT	-	-	0:22:22.973000	0:22:24.617000	ORT	5655501
+ORT	ORT	-	-	0:22:22.973000	0:22:24.617000	ORT	5655502
+ORT	ORT	-	-	0:22:24.617000	0:22:25.878000	ORT	5655503
+ORT	ORT	-	-	0:22:25.878000	0:22:26.723000	ORT	5655504
+ORT	ORT	-	-	0:22:25.878000	0:22:26.723000	ORT	5655505
+ORT	ORT	-	-	0:22:25.878000	0:22:26.723000	ORT	5655506
+ORT	ORT	-	-	0:22:25.878000	0:22:26.723000	ORT	5655507
+ORT	ORT	-	-	0:22:25.878000	0:22:26.723000	ORT	5655508
+ORT	ORT	-	-	0:22:25.878000	0:22:26.723000	ORT	5655509
+ORT	ORT	-	-	0:22:25.878000	0:22:26.723000	ORT	5655510
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655511
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655512
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655513
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655514
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655515
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655516
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655517
 ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655518
-oder	-	-	-	0:22:26.723000	0:22:28.667000	-	5655519
-so	-	-	-	0:22:26.723000	0:22:28.667000	-	5655520
-,	-	-	-	0:22:26.723000	0:22:28.667000	-	5655521
-da	-	-	-	0:22:28.667000	0:22:30.378000	-	5655522
-<pause duration="1,1s"/>
-(da)	-	-	-	0:22:28.667000	0:22:30.378000	-	5655524
-hast	-	-	-	0:22:28.667000	0:22:30.378000	-	5655525
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655519
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655520
+ORT	ORT	-	-	0:22:26.723000	0:22:28.667000	ORT	5655521
+ORT	ORT	-	-	0:22:28.667000	0:22:30.378000	ORT	5655522
+ORT	ORT	-	-	0:22:28.667000	0:22:30.378000	ORT	5655523
+ORT	ORT	-	-	0:22:28.667000	0:22:30.378000	ORT	5655524
+ORT	ORT	-	-	0:22:28.667000	0:22:30.378000	ORT	5655525
+ORT	ORT	-	-	0:22:30.378000	0:22:32.755000	ORT	5655526
 ORT	ORT	-	-	0:22:30.378000	0:22:32.755000	ORT	5655527
-*hast*	-	-	-	0:22:30.378000	0:22:32.755000	-	5655528
-von	-	-	-	0:22:30.378000	0:22:32.755000	-	5655529
+ORT	ORT	-	-	0:22:30.378000	0:22:32.755000	ORT	5655528
+ORT	ORT	-	-	0:22:30.378000	0:22:32.755000	ORT	5655529
 ORT	ORT	-	-	0:22:30.378000	0:22:32.755000	ORT	5655530
-was	-	-	-	0:22:30.378000	0:22:32.755000	-	5655531
-,	-	-	-	0:22:30.378000	0:22:32.755000	-	5655534
-eine	-	-	-	0:22:30.378000	0:22:32.755000	-	5655532
-Viertelstunde	-	-	-	0:22:30.378000	0:22:32.755000	-	5655533
+ORT	ORT	-	-	0:22:30.378000	0:22:32.755000	ORT	5655531
+ORT	ORT	-	-	0:22:30.378000	0:22:32.755000	ORT	5655534
+ORT	ORT	-	-	0:22:30.378000	0:22:32.755000	ORT	5655532
+ORT	ORT	-	-	0:22:30.378000	0:22:32.755000	ORT	5655533
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:32.755000" end="0:22:33.270000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:22:32.755000	0:22:33.270000	-	5655537
 .	-	-	-	0:22:32.755000	0:22:33.270000	-	5655538
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:32.755000" end="0:22:38.617000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-oder	-	-	-	0:22:32.755000	0:22:33.270000	-	5655535
-so	-	-	-	0:22:32.755000	0:22:33.270000	-	5655536
-,	-	-	-	0:22:32.755000	0:22:33.270000	-	5655539
-<pause duration="0,5s"/>
-(so)	-	-	-	0:22:33.270000	0:22:36.068000	-	5660507
-vielleicht	-	-	-	0:22:33.270000	0:22:36.068000	-	5660508
-*kriegst*	-	-	-	0:22:33.270000	0:22:36.068000	-	5660509
-in	-	-	-	0:22:33.270000	0:22:36.068000	-	5660510
+ORT	ORT	-	-	0:22:32.755000	0:22:33.270000	ORT	5655535
+ORT	ORT	-	-	0:22:32.755000	0:22:33.270000	ORT	5655536
+ORT	ORT	-	-	0:22:32.755000	0:22:33.270000	ORT	5655539
+ORT	ORT	-	-	0:22:33.270000	0:22:36.068000	ORT	5660506
+ORT	ORT	-	-	0:22:33.270000	0:22:36.068000	ORT	5660507
+ORT	ORT	-	-	0:22:33.270000	0:22:36.068000	ORT	5660508
+ORT	ORT	-	-	0:22:33.270000	0:22:36.068000	ORT	5660509
+ORT	ORT	-	-	0:22:33.270000	0:22:36.068000	ORT	5660510
 ORT	ORT	-	-	0:22:33.270000	0:22:36.068000	ORT	5660511
-einen	-	-	-	0:22:33.270000	0:22:36.068000	-	5660512
-Posten	-	-	-	0:22:33.270000	0:22:36.068000	-	5660513
-oder	-	-	-	0:22:36.068000	0:22:37.070000	-	5660514
-in	-	-	-	0:22:36.068000	0:22:37.070000	-	5660515
+ORT	ORT	-	-	0:22:33.270000	0:22:36.068000	ORT	5660512
+ORT	ORT	-	-	0:22:33.270000	0:22:36.068000	ORT	5660513
+ORT	ORT	-	-	0:22:36.068000	0:22:37.070000	ORT	5660514
+ORT	ORT	-	-	0:22:36.068000	0:22:37.070000	ORT	5660515
 ORT	ORT	-	-	0:22:36.068000	0:22:37.070000	ORT	5660516
-,	-	-	-	0:22:36.068000	0:22:37.070000	-	5660517
-na	-	-	-	0:22:37.070000	0:22:38.617000	-	5660518
-ist	-	-	-	0:22:37.070000	0:22:38.617000	-	5660519
-ja	-	-	-	0:22:37.070000	0:22:38.617000	-	5660520
-beides	-	-	-	0:22:37.070000	0:22:38.617000	-	5660521
-von	-	-	-	0:22:37.070000	0:22:38.617000	-	5660522
-der	-	-	-	0:22:37.070000	0:22:38.617000	-	5660523
-Richtung	-	-	-	0:22:37.070000	0:22:38.617000	-	5660524
-her	-	-	-	0:22:37.070000	0:22:38.617000	-	5660525
+ORT	ORT	-	-	0:22:36.068000	0:22:37.070000	ORT	5660517
+ORT	ORT	-	-	0:22:37.070000	0:22:38.617000	ORT	5660518
+ORT	ORT	-	-	0:22:37.070000	0:22:38.617000	ORT	5660519
+ORT	ORT	-	-	0:22:37.070000	0:22:38.617000	ORT	5660520
+ORT	ORT	-	-	0:22:37.070000	0:22:38.617000	ORT	5660521
+ORT	ORT	-	-	0:22:37.070000	0:22:38.617000	ORT	5660522
+ORT	ORT	-	-	0:22:37.070000	0:22:38.617000	ORT	5660523
+ORT	ORT	-	-	0:22:37.070000	0:22:38.617000	ORT	5660524
+ORT	ORT	-	-	0:22:37.070000	0:22:38.617000	ORT	5660525
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:38.617000" end="0:22:39.226000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:22:38.617000	0:22:39.226000	-	5660527
 .	-	-	-	0:22:38.617000	0:22:39.226000	-	5660528
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:38.617000" end="0:22:42.169000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-dankbar	-	-	-	0:22:38.617000	0:22:39.226000	-	5660526
-.	-	-	-	0:22:38.617000	0:22:39.226000	-	5660530
-<pause duration="1,3s"/>
-auch	-	-	-	0:22:40.516000	0:22:41.379000	-	5660532
-dankbar	-	-	-	0:22:40.516000	0:22:41.379000	-	5660533
-,	-	-	-	0:22:40.516000	0:22:41.379000	-	5660534
-<pause duration="0,5s"/>
-weil	-	-	-	0:22:41.379000	0:22:42.169000	-	5660536
-/.	-	-	-	0:22:41.379000	0:22:42.169000	-	5660539
+ORT	ORT	-	-	0:22:38.617000	0:22:39.226000	ORT	5660526
+ORT	ORT	-	-	0:22:38.617000	0:22:39.226000	ORT	5660530
+ORT	ORT	-	-	0:22:39.226000	0:22:40.516000	ORT	5660529
+ORT	ORT	-	-	0:22:40.516000	0:22:41.379000	ORT	5660531
+ORT	ORT	-	-	0:22:40.516000	0:22:41.379000	ORT	5660532
+ORT	ORT	-	-	0:22:40.516000	0:22:41.379000	ORT	5660533
+ORT	ORT	-	-	0:22:40.516000	0:22:41.379000	ORT	5660534
+ORT	ORT	-	-	0:22:41.379000	0:22:42.169000	ORT	5660535
+ORT	ORT	-	-	0:22:41.379000	0:22:42.169000	ORT	5660536
+ORT	ORT	-	-	0:22:41.379000	0:22:42.169000	ORT	5660539
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:42.169000" end="0:22:52.546000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:42.169000	0:22:42.660000	-	5660537
@@ -6506,22 +6544,23 @@ allweil	-	-	-	0:22:50.025000	0:22:51.056000	-	5660576
 ?	-	-	-	0:22:51.056000	0:22:52.546000	-	5660589
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:51.056000" end="0:22:52.546000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:22:51.056000	0:22:52.546000	-	5660581
-,	-	-	-	0:22:51.056000	0:22:52.546000	-	5660582
-das	-	-	-	0:22:51.056000	0:22:52.546000	-	5660583
-war	-	-	-	0:22:51.056000	0:22:52.546000	-	5660584
-Waldviertel	-	-	-	0:22:51.056000	0:22:52.546000	-	5660585
-,	-	-	-	0:22:51.056000	0:22:52.546000	-	5660586
+ORT	ORT	-	-	0:22:51.056000	0:22:52.546000	ORT	5660581
+ORT	ORT	-	-	0:22:51.056000	0:22:52.546000	ORT	5660582
+ORT	ORT	-	-	0:22:51.056000	0:22:52.546000	ORT	5660583
+ORT	ORT	-	-	0:22:51.056000	0:22:52.546000	ORT	5660584
+ORT	ORT	-	-	0:22:51.056000	0:22:52.546000	ORT	5660585
+ORT	ORT	-	-	0:22:51.056000	0:22:52.546000	ORT	5660586
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:52.546000" end="0:22:53.106000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:22:52.546000	0:22:53.106000	-	5660587
 .	-	-	-	0:22:52.546000	0:22:53.106000	-	5660588
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:52.546000" end="0:22:53.882000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-Waldviertel	-	-	-	0:22:52.546000	0:22:53.106000	-	5660590
-war	-	-	-	0:22:53.106000	0:22:53.882000	-	5660591
-das	-	-	-	0:22:53.106000	0:22:53.882000	-	5660592
-.	-	-	-	0:22:53.106000	0:22:53.882000	-	5660593
+ORT	ORT	-	-	0:22:52.546000	0:22:53.106000	ORT	5660590
+ORT	ORT	-	-	0:22:53.106000	0:22:53.882000	ORT	5660591
+ORT	ORT	-	-	0:22:53.106000	0:22:53.882000	ORT	5660592
+ORT	ORT	-	-	0:22:53.106000	0:22:53.882000	ORT	5660593
+ORT	ORT	-	-	0:22:53.106000	0:22:53.882000	ORT	5660594
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:53.882000" end="0:22:58.233000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:22:53.882000	0:22:54.966000	-	5660595
@@ -6529,49 +6568,52 @@ Waldviertel	-	-	-	0:22:53.882000	0:22:54.966000	-	5660596
 ,	-	-	-	0:22:53.882000	0:22:54.966000	-	5660598
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:56.163000" end="0:23:04.098000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:22:58.233000	0:23:00.038000	-	5660603
-in	-	-	-	0:22:58.233000	0:23:00.038000	-	5660604
-Sankt	-	-	-	0:22:58.233000	0:23:00.038000	-	5660605
-Pölten	-	-	-	0:22:58.233000	0:23:00.038000	-	5660606
-gäbe	-	-	IRR	0:22:58.233000	0:23:00.038000	-	5660607
-es	-	-	-	0:22:58.233000	0:23:00.038000	-	5660608
-(auch)	-	-	-	0:22:58.233000	0:23:00.038000	-	5660609
-wit/	-	-	-	0:23:00.038000	0:23:02.342000	-	5660610
-gibt	-	-	-	0:23:00.038000	0:23:02.342000	-	5660611
-es	-	-	-	0:23:00.038000	0:23:02.342000	-	5660612
-jetzt	-	-	-	0:23:00.038000	0:23:02.342000	-	5660613
-die	-	-	-	0:23:00.038000	0:23:02.342000	-	5660614
-zweite	-	-	-	0:23:00.038000	0:23:02.342000	-	5660615
-Uni	-	-	DIM	0:23:00.038000	0:23:02.342000	-	5660616
-in	-	-	-	0:23:00.038000	0:23:02.342000	-	5660617
-Österreich	-	-	-	0:23:00.038000	0:23:02.342000	-	5660618
-,	-	-	-	0:23:00.038000	0:23:02.342000	-	5660619
-die	-	-	-	0:23:02.342000	0:23:03.625000	-	5660620
-das	-	-	-	0:23:02.342000	0:23:03.625000	-	5660621
-<pause duration="0,8s"/>
-die	-	-	-	0:23:03.625000	0:23:04.098000	-	5660624
+ORT	ORT	-	-	0:22:56.163000	0:22:58.233000	ORT	5660601
+ORT	ORT	-	-	0:22:58.233000	0:23:00.038000	ORT	5660603
+ORT	ORT	-	-	0:22:58.233000	0:23:00.038000	ORT	5660604
+ORT	ORT	-	-	0:22:58.233000	0:23:00.038000	ORT	5660605
+ORT	ORT	-	-	0:22:58.233000	0:23:00.038000	ORT	5660606
+ORT	ORT	-	IRR	0:22:58.233000	0:23:00.038000	ORT	5660607
+ORT	ORT	-	-	0:22:58.233000	0:23:00.038000	ORT	5660608
+ORT	ORT	-	-	0:22:58.233000	0:23:00.038000	ORT	5660609
+ORT	ORT	-	-	0:23:00.038000	0:23:02.342000	ORT	5660610
+ORT	ORT	-	-	0:23:00.038000	0:23:02.342000	ORT	5660611
+ORT	ORT	-	-	0:23:00.038000	0:23:02.342000	ORT	5660612
+ORT	ORT	-	-	0:23:00.038000	0:23:02.342000	ORT	5660613
+ORT	ORT	-	-	0:23:00.038000	0:23:02.342000	ORT	5660614
+ORT	ORT	-	-	0:23:00.038000	0:23:02.342000	ORT	5660615
+ORT	ORT	-	DIM	0:23:00.038000	0:23:02.342000	ORT	5660616
+ORT	ORT	-	-	0:23:00.038000	0:23:02.342000	ORT	5660617
+ORT	ORT	-	-	0:23:00.038000	0:23:02.342000	ORT	5660618
+ORT	ORT	-	-	0:23:00.038000	0:23:02.342000	ORT	5660619
+ORT	ORT	-	-	0:23:02.342000	0:23:03.625000	ORT	5660620
+ORT	ORT	-	-	0:23:02.342000	0:23:03.625000	ORT	5660621
+ORT	ORT	-	-	0:23:02.342000	0:23:03.625000	ORT	5660622
+ORT	ORT	-	-	0:23:03.625000	0:23:04.098000	ORT	5660624
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:04.098000" end="0:23:05.825000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (das	-	-	-	0:23:04.098000	0:23:05.825000	-	5660628
 Studium)	-	-	-	0:23:04.098000	0:23:05.825000	-	5714022
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:04.098000" end="0:23:05.825000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-IT	-	-	-	0:23:04.098000	0:23:05.825000	-	5660625
-Security	-	-	-	0:23:04.098000	0:23:05.825000	-	5660626
-macht	-	-	-	0:23:04.098000	0:23:05.825000	-	5660627
-,	-	-	-	0:23:04.098000	0:23:05.825000	-	5660629
+ORT	ORT	-	-	0:23:04.098000	0:23:05.825000	ORT	5660625
+ORT	ORT	-	-	0:23:04.098000	0:23:05.825000	ORT	5660626
+ORT	ORT	-	-	0:23:04.098000	0:23:05.825000	ORT	5660627
+ORT	ORT	-	-	0:23:04.098000	0:23:05.825000	ORT	5660629
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:05.825000" end="0:23:06.515000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:23:05.825000	0:23:06.515000	-	5660630
 .	-	-	-	0:23:05.825000	0:23:06.515000	-	5660631
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:06.515000" end="0:23:09.747000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-aber	-	-	-	0:23:06.515000	0:23:08.683000	-	5660632
-Pölten	-	-	-	0:23:06.515000	0:23:08.683000	-	5660633
-ist	-	-	-	0:23:06.515000	0:23:08.683000	-	5660634
-halt	-	-	-	0:23:06.515000	0:23:08.683000	-	5660635
-(Pölten)	-	-	-	0:23:06.515000	0:23:08.683000	-	5660636
-.	-	-	-	0:23:06.515000	0:23:08.683000	-	5660637
+ORT	ORT	-	-	0:23:06.515000	0:23:08.683000	ORT	5660632
+ORT	ORT	-	-	0:23:06.515000	0:23:08.683000	ORT	5660633
+ORT	ORT	-	-	0:23:06.515000	0:23:08.683000	ORT	5660634
+ORT	ORT	-	-	0:23:06.515000	0:23:08.683000	ORT	5660635
+ORT	ORT	-	-	0:23:06.515000	0:23:08.683000	ORT	5660636
+ORT	ORT	-	-	0:23:06.515000	0:23:08.683000	ORT	5660637
+ORT	ORT	-	-	0:23:06.515000	0:23:08.683000	ORT	5660638
+ORT	ORT	-	-	0:23:08.683000	0:23:09.747000	ORT	5660639
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:09.747000" end="0:23:13.678000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:09.747000	0:23:10.239000	-	5660640
@@ -6587,11 +6629,12 @@ nicht	-	-	-	0:23:11.239000	0:23:13.678000	-	5660649
 ?	-	-	-	0:23:11.239000	0:23:13.678000	-	5660650
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:13.678000" end="0:23:14.915000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-auf	-	-	-	0:23:13.678000	0:23:14.915000	-	5660652
-alle	-	-	-	0:23:13.678000	0:23:14.915000	-	5660653
-Fälle	-	-	-	0:23:13.678000	0:23:14.915000	-	5660654
-noch	-	-	-	0:23:13.678000	0:23:14.915000	-	5660655
-.	-	-	-	0:23:13.678000	0:23:14.915000	-	5660656
+ORT	ORT	-	-	0:23:13.678000	0:23:14.915000	ORT	5660652
+ORT	ORT	-	-	0:23:13.678000	0:23:14.915000	ORT	5660653
+ORT	ORT	-	-	0:23:13.678000	0:23:14.915000	ORT	5660654
+ORT	ORT	-	-	0:23:13.678000	0:23:14.915000	ORT	5660655
+ORT	ORT	-	-	0:23:13.678000	0:23:14.915000	ORT	5660656
+ORT	ORT	-	-	0:23:13.678000	0:23:14.915000	ORT	5660657
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:14.915000" end="0:23:16.336000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:23:14.915000	0:23:15.366000	-	5660658
@@ -6603,8 +6646,8 @@ NAME	NAME	-	-	0:23:15.866000	0:23:16.336000	NAME	5660663
 ähm	-	-	-	0:23:15.866000	0:23:16.336000	-	5660664
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:15.866000" end="0:23:16.336000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:23:15.866000	0:23:16.336000	-	5660665
-.	-	-	-	0:23:15.866000	0:23:16.336000	-	5660666
+ORT	ORT	-	-	0:23:15.866000	0:23:16.336000	ORT	5660665
+ORT	ORT	-	-	0:23:15.866000	0:23:16.336000	ORT	5660666
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:16.336000" end="0:23:18.139000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 NAME	NAME	-	DIM	0:23:16.336000	0:23:17.446000	NAME	5660667
@@ -6621,53 +6664,54 @@ dann	-	-	-	0:23:17.446000	0:23:18.139000	-	5660677
 /?	-	-	-	0:23:17.446000	0:23:18.139000	-	5660676
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:18.139000" end="0:23:21.149000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:23:18.139000	0:23:20.139000	-	5660679
-sie	-	-	-	0:23:18.139000	0:23:20.139000	-	5660680
-hat	-	-	-	0:23:18.139000	0:23:20.139000	-	5660681
-jetzt	-	-	-	0:23:18.139000	0:23:20.139000	-	5660682
-nächstes	-	-	-	0:23:18.139000	0:23:20.139000	-	5660683
-Jahr	-	-	-	0:23:18.139000	0:23:20.139000	-	5660684
-schon	-	-	-	0:23:18.139000	0:23:20.139000	-	5660685
-noch	-	-	-	0:23:18.139000	0:23:20.139000	-	5660686
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660679
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660680
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660681
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660682
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660683
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660684
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660685
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660686
 ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660687
-,	-	-	-	0:23:18.139000	0:23:20.139000	-	5660688
-nicht	-	-	-	0:23:18.139000	0:23:20.139000	-	5660689
-?	-	-	-	0:23:18.139000	0:23:20.139000	-	5660690
-<pause duration="1,0s"/>
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660688
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660689
+ORT	ORT	-	-	0:23:18.139000	0:23:20.139000	ORT	5660690
+ORT	ORT	-	-	0:23:20.139000	0:23:21.149000	ORT	5660691
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:21.149000" end="0:23:21.852000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 schon	-	-	-	0:23:21.149000	0:23:21.852000	-	5660693
 ,	-	-	-	0:23:21.149000	0:23:21.852000	-	5660694
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:21.149000" end="0:23:21.852000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-_netta_	-	-	-	0:23:21.149000	0:23:21.852000	-	5660692
+ORT	ORT	-	-	0:23:21.149000	0:23:21.852000	ORT	5660692
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:21.852000" end="0:23:22.255000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:23:21.852000	0:23:22.255000	-	5660695
 .	-	-	-	0:23:21.852000	0:23:22.255000	-	5660696
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:21.852000" end="0:23:26.512000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-das	-	-	-	0:23:21.852000	0:23:22.255000	-	5660697
-Blöde	-	-	-	0:23:22.255000	0:23:23.276000	-	5660698
-ist	-	-	-	0:23:22.255000	0:23:23.276000	-	5660699
-eigentlich	-	-	-	0:23:22.255000	0:23:23.276000	-	5660701
-,	-	-	-	0:23:22.255000	0:23:23.276000	-	5660702
-es	-	-	-	0:23:23.276000	0:23:24.191000	-	5660703
-ist	-	-	-	0:23:23.276000	0:23:24.191000	-	5660704
-halt	-	-	-	0:23:23.276000	0:23:24.191000	-	5660705
-das	-	-	-	0:23:23.276000	0:23:24.191000	-	5660706
-Ziel	-	-	-	0:23:23.276000	0:23:24.191000	-	5660707
-,	-	-	-	0:23:23.276000	0:23:24.191000	-	5660708
-dass	-	-	-	0:23:24.191000	0:23:26.512000	-	5660709
-du	-	-	-	0:23:24.191000	0:23:26.512000	-	5660710
-so	-	-	-	0:23:24.191000	0:23:26.512000	-	5660711
-schnell	-	-	-	0:23:24.191000	0:23:26.512000	-	5660712
-wie	-	-	-	0:23:24.191000	0:23:26.512000	-	5660713
-möglich	-	-	-	0:23:24.191000	0:23:26.512000	-	5660714
-einen	-	-	-	0:23:24.191000	0:23:26.512000	-	5660715
-L-eins-Vertrag	-	-	-	0:23:24.191000	0:23:26.512000	-	5660716
-kriegst	-	-	-	0:23:24.191000	0:23:26.512000	-	5660717
-.	-	-	-	0:23:24.191000	0:23:26.512000	-	5660718
+ORT	ORT	-	-	0:23:21.852000	0:23:22.255000	ORT	5660697
+ORT	ORT	-	-	0:23:22.255000	0:23:23.276000	ORT	5660698
+ORT	ORT	-	-	0:23:22.255000	0:23:23.276000	ORT	5660699
+ORT	ORT	-	-	0:23:22.255000	0:23:23.276000	ORT	5660700
+ORT	ORT	-	-	0:23:22.255000	0:23:23.276000	ORT	5660701
+ORT	ORT	-	-	0:23:22.255000	0:23:23.276000	ORT	5660702
+ORT	ORT	-	-	0:23:23.276000	0:23:24.191000	ORT	5660703
+ORT	ORT	-	-	0:23:23.276000	0:23:24.191000	ORT	5660704
+ORT	ORT	-	-	0:23:23.276000	0:23:24.191000	ORT	5660705
+ORT	ORT	-	-	0:23:23.276000	0:23:24.191000	ORT	5660706
+ORT	ORT	-	-	0:23:23.276000	0:23:24.191000	ORT	5660707
+ORT	ORT	-	-	0:23:23.276000	0:23:24.191000	ORT	5660708
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660709
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660710
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660711
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660712
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660713
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660714
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660715
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660716
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660717
+ORT	ORT	-	-	0:23:24.191000	0:23:26.512000	ORT	5660718
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:26.512000" end="0:23:28.985000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:23:26.512000	0:23:27.618000	-	5660719
@@ -6692,81 +6736,81 @@ das	-	-	-	0:23:28.595000	0:23:28.985000	-	5660736
 /.	-	-	-	0:23:28.595000	0:23:28.985000	-	5660738
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:28.595000" end="0:23:28.985000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-genau	-	-	-	0:23:28.595000	0:23:28.985000	-	5660737
-,	-	-	-	0:23:28.595000	0:23:28.985000	-	5660741
+ORT	ORT	-	-	0:23:28.595000	0:23:28.985000	ORT	5660737
+ORT	ORT	-	-	0:23:28.595000	0:23:28.985000	ORT	5660741
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:28.985000" end="0:23:29.328000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:23:28.985000	0:23:29.328000	-	5660739
 .	-	-	-	0:23:28.985000	0:23:29.328000	-	5660740
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:29.328000" end="0:23:39.984000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-(man)	-	-	-	0:23:29.328000	0:23:31.684000	-	5660742
-muss	-	-	-	0:23:29.328000	0:23:31.684000	-	5660743
-ja	-	-	-	0:23:29.328000	0:23:31.684000	-	5660744
-fünf	-	-	-	0:23:29.328000	0:23:31.684000	-	5660745
-Jahre	-	-	-	0:23:29.328000	0:23:31.684000	-	5660746
-auf	-	-	-	0:23:29.328000	0:23:31.684000	-	5660747
-bei	-	-	-	0:23:29.328000	0:23:31.684000	-	5660748
-der	-	-	-	0:23:29.328000	0:23:31.684000	-	5660749
-gleichen	-	-	-	0:23:29.328000	0:23:31.684000	-	5660750
-Schule	-	-	-	0:23:29.328000	0:23:31.684000	-	5660751
-bleiben	-	-	-	0:23:29.328000	0:23:31.684000	-	5660752
-,	-	-	-	0:23:29.328000	0:23:31.684000	-	5660753
-aber	-	-	-	0:23:31.684000	0:23:33.939000	-	5660754
-jetzt	-	-	-	0:23:31.684000	0:23:33.939000	-	5660755
-*is*	-	-	-	0:23:31.684000	0:23:33.939000	-	5660756
-natürlich	-	-	-	0:23:31.684000	0:23:33.939000	-	5660757
-nur	-	-	-	0:23:31.684000	0:23:33.939000	-	5714025
-Karenzvertretung	-	-	-	0:23:31.684000	0:23:33.939000	-	5660758
-und	-	-	-	0:23:33.939000	0:23:34.489000	-	5660759
-die	-	-	-	0:23:33.939000	0:23:34.489000	-	5660760
-/.	-	-	-	0:23:33.939000	0:23:34.489000	-	5660761
-jetzt	-	-	-	0:23:34.489000	0:23:39.984000	-	5660762
-kann	-	-	-	0:23:34.489000	0:23:39.984000	-	5660763
-sie	-	-	-	0:23:34.489000	0:23:39.984000	-	5660764
-halt	-	-	-	0:23:34.489000	0:23:39.984000	-	5660765
-noch	-	-	-	0:23:34.489000	0:23:39.984000	-	5660766
-nächstes	-	-	-	0:23:34.489000	0:23:39.984000	-	5660767
-Jahr	-	-	-	0:23:34.489000	0:23:39.984000	-	5660768
-<pause duration="0,9s"/>
-vermutlich	-	-	-	0:23:34.489000	0:23:39.984000	-	5660770
-noch	-	-	-	0:23:34.489000	0:23:39.984000	-	5660771
-das	-	-	-	0:23:34.489000	0:23:39.984000	-	5660772
-ganze	-	-	-	0:23:34.489000	0:23:39.984000	-	5660773
-Jahr	-	-	-	0:23:34.489000	0:23:39.984000	-	5660774
-machen	-	-	-	0:23:34.489000	0:23:39.984000	-	5660775
-,	-	-	-	0:23:34.489000	0:23:39.984000	-	5660778
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660742
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660743
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660744
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660745
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660746
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660747
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660748
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660749
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660750
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660751
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660752
+ORT	ORT	-	-	0:23:29.328000	0:23:31.684000	ORT	5660753
+ORT	ORT	-	-	0:23:31.684000	0:23:33.939000	ORT	5660754
+ORT	ORT	-	-	0:23:31.684000	0:23:33.939000	ORT	5660755
+ORT	ORT	-	-	0:23:31.684000	0:23:33.939000	ORT	5660756
+ORT	ORT	-	-	0:23:31.684000	0:23:33.939000	ORT	5660757
+ORT	ORT	-	-	0:23:31.684000	0:23:33.939000	ORT	5714025
+ORT	ORT	-	-	0:23:31.684000	0:23:33.939000	ORT	5660758
+ORT	ORT	-	-	0:23:33.939000	0:23:34.489000	ORT	5660759
+ORT	ORT	-	-	0:23:33.939000	0:23:34.489000	ORT	5660760
+ORT	ORT	-	-	0:23:33.939000	0:23:34.489000	ORT	5660761
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660762
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660763
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660764
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660765
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660766
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660767
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660768
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660769
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660770
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660771
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660772
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660773
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660774
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660775
+ORT	ORT	-	-	0:23:34.489000	0:23:39.984000	ORT	5660778
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:39.984000" end="0:23:40.785000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:23:39.984000	0:23:40.785000	-	5660776
 .	-	-	-	0:23:39.984000	0:23:40.785000	-	5660777
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:40.785000" end="0:23:47.770000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-aber	-	-	-	0:23:40.785000	0:23:41.817000	-	5660779
-dann	-	-	-	0:23:40.785000	0:23:41.817000	-	5660780
-kommt	-	-	-	0:23:40.785000	0:23:41.817000	-	5660781
-die	-	-	-	0:23:40.785000	0:23:41.817000	-	5660782
-zurück	-	-	-	0:23:40.785000	0:23:41.817000	-	5660783
-<pause duration="0,9s"/>
-und	-	-	-	0:23:41.817000	0:23:44.052000	-	5660785
-es	-	-	-	0:23:41.817000	0:23:44.052000	-	5660786
-gibt	-	-	-	0:23:41.817000	0:23:44.052000	-	5660787
-nur	-	-	-	0:23:41.817000	0:23:44.052000	-	5660788
-noch	-	-	-	0:23:41.817000	0:23:44.052000	-	5660789
-es	-	-	-	0:23:44.052000	0:23:46.345000	-	5660790
-gibt	-	-	-	0:23:44.052000	0:23:46.345000	-	5660791
-insgesamt	-	-	-	0:23:44.052000	0:23:46.345000	-	5660792
-<pause duration="0,5s"/>
-drei	-	-	-	0:23:44.052000	0:23:46.345000	-	5660794
-Lehrer	-	-	-	0:23:44.052000	0:23:46.345000	-	5660795
-,	-	-	-	0:23:44.052000	0:23:46.345000	-	5660796
-die	-	-	-	0:23:46.345000	0:23:47.770000	-	5660797
-das	-	-	-	0:23:46.345000	0:23:47.770000	-	5660798
-unterrichten	-	-	-	0:23:46.345000	0:23:47.770000	-	5660799
-wie	-	-	-	0:23:46.345000	0:23:47.770000	-	5660800
-die	-	-	-	0:23:46.345000	0:23:47.770000	-	5660801
-NAME	NAME	-	-	0:23:46.345000	0:23:47.770000	NAME	5660802
-.	-	-	-	0:23:46.345000	0:23:47.770000	-	5660803
+ORT	ORT	-	-	0:23:40.785000	0:23:41.817000	ORT	5660779
+ORT	ORT	-	-	0:23:40.785000	0:23:41.817000	ORT	5660780
+ORT	ORT	-	-	0:23:40.785000	0:23:41.817000	ORT	5660781
+ORT	ORT	-	-	0:23:40.785000	0:23:41.817000	ORT	5660782
+ORT	ORT	-	-	0:23:40.785000	0:23:41.817000	ORT	5660783
+ORT	ORT	-	-	0:23:41.817000	0:23:44.052000	ORT	5660784
+ORT	ORT	-	-	0:23:41.817000	0:23:44.052000	ORT	5660785
+ORT	ORT	-	-	0:23:41.817000	0:23:44.052000	ORT	5660786
+ORT	ORT	-	-	0:23:41.817000	0:23:44.052000	ORT	5660787
+ORT	ORT	-	-	0:23:41.817000	0:23:44.052000	ORT	5660788
+ORT	ORT	-	-	0:23:41.817000	0:23:44.052000	ORT	5660789
+ORT	ORT	-	-	0:23:44.052000	0:23:46.345000	ORT	5660790
+ORT	ORT	-	-	0:23:44.052000	0:23:46.345000	ORT	5660791
+ORT	ORT	-	-	0:23:44.052000	0:23:46.345000	ORT	5660792
+ORT	ORT	-	-	0:23:44.052000	0:23:46.345000	ORT	5660793
+ORT	ORT	-	-	0:23:44.052000	0:23:46.345000	ORT	5660794
+ORT	ORT	-	-	0:23:44.052000	0:23:46.345000	ORT	5660795
+ORT	ORT	-	-	0:23:44.052000	0:23:46.345000	ORT	5660796
+ORT	ORT	-	-	0:23:46.345000	0:23:47.770000	ORT	5660797
+ORT	ORT	-	-	0:23:46.345000	0:23:47.770000	ORT	5660798
+ORT	ORT	-	-	0:23:46.345000	0:23:47.770000	ORT	5660799
+ORT	ORT	-	-	0:23:46.345000	0:23:47.770000	ORT	5660800
+ORT	ORT	-	-	0:23:46.345000	0:23:47.770000	ORT	5660801
+ORT	ORT	-	-	0:23:46.345000	0:23:47.770000	ORT	5660802
+ORT	ORT	-	-	0:23:46.345000	0:23:47.770000	ORT	5660803
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:47.770000" end="0:23:48.672000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:23:47.770000	0:23:48.672000	-	5660804
@@ -6774,8 +6818,8 @@ stimmt	-	-	-	0:23:47.770000	0:23:48.672000	-	5660805
 .	-	-	-	0:23:47.770000	0:23:48.672000	-	5660806
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:48.672000" end="0:23:49.996000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:23:48.672000	0:23:49.996000	-	5660807
-na	-	-	-	0:23:48.672000	0:23:49.996000	-	5660808
+ORT	ORT	-	-	0:23:48.672000	0:23:49.996000	ORT	5660807
+ORT	ORT	-	-	0:23:48.672000	0:23:49.996000	ORT	5660808
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:49.996000" end="0:23:51.660000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:23:49.996000	0:23:51.660000	-	5660814
@@ -6787,78 +6831,78 @@ Pension	-	-	-	0:23:49.996000	0:23:51.660000	-	5660820
 .	-	-	-	0:23:49.996000	0:23:51.660000	-	5660821
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:49.996000" end="0:23:55.234000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-einer	-	-	-	0:23:49.996000	0:23:51.660000	-	5660809
-ist	-	-	-	0:23:49.996000	0:23:51.660000	-	5660810
-halt	-	-	-	0:23:49.996000	0:23:51.660000	-	5660811
-schon	-	-	-	0:23:49.996000	0:23:51.660000	-	5660812
-aus	-	-	-	0:23:49.996000	0:23:51.660000	-	5660813
-dem	-	-	-	0:23:51.660000	0:23:52.702000	-	5660822
-Alter	-	-	-	0:23:51.660000	0:23:52.702000	-	5660823
-heraußen	-	-	-	0:23:51.660000	0:23:52.702000	-	5660824
-,	-	-	-	0:23:51.660000	0:23:52.702000	-	5660825
-wo	-	-	-	0:23:52.702000	0:23:53.256000	-	5660826
-er	-	-	-	0:23:52.702000	0:23:53.256000	-	5660827
-noch	-	-	-	0:23:52.702000	0:23:53.256000	-	5660828
-/.	-	-	-	0:23:52.702000	0:23:53.256000	-	5660829
-<pause duration="0,8s"/>
-also	-	-	-	0:23:53.256000	0:23:55.234000	-	5660831
-das	-	-	-	0:23:53.256000	0:23:55.234000	-	5660832
-ist	-	-	-	0:23:53.256000	0:23:55.234000	-	5660833
-ein	-	-	-	0:23:53.256000	0:23:55.234000	-	5660834
-Mann	-	-	-	0:23:53.256000	0:23:55.234000	-	5660835
-erstens	-	-	-	0:23:53.256000	0:23:55.234000	-	5660836
+ORT	ORT	-	-	0:23:49.996000	0:23:51.660000	ORT	5660809
+ORT	ORT	-	-	0:23:49.996000	0:23:51.660000	ORT	5660810
+ORT	ORT	-	-	0:23:49.996000	0:23:51.660000	ORT	5660811
+ORT	ORT	-	-	0:23:49.996000	0:23:51.660000	ORT	5660812
+ORT	ORT	-	-	0:23:49.996000	0:23:51.660000	ORT	5660813
+ORT	ORT	-	-	0:23:51.660000	0:23:52.702000	ORT	5660822
+ORT	ORT	-	-	0:23:51.660000	0:23:52.702000	ORT	5660823
+ORT	ORT	-	-	0:23:51.660000	0:23:52.702000	ORT	5660824
+ORT	ORT	-	-	0:23:51.660000	0:23:52.702000	ORT	5660825
+ORT	ORT	-	-	0:23:52.702000	0:23:53.256000	ORT	5660826
+ORT	ORT	-	-	0:23:52.702000	0:23:53.256000	ORT	5660827
+ORT	ORT	-	-	0:23:52.702000	0:23:53.256000	ORT	5660828
+ORT	ORT	-	-	0:23:52.702000	0:23:53.256000	ORT	5660829
+ORT	ORT	-	-	0:23:53.256000	0:23:55.234000	ORT	5660830
+ORT	ORT	-	-	0:23:53.256000	0:23:55.234000	ORT	5660831
+ORT	ORT	-	-	0:23:53.256000	0:23:55.234000	ORT	5660832
+ORT	ORT	-	-	0:23:53.256000	0:23:55.234000	ORT	5660833
+ORT	ORT	-	-	0:23:53.256000	0:23:55.234000	ORT	5660834
+ORT	ORT	-	-	0:23:53.256000	0:23:55.234000	ORT	5660835
+ORT	ORT	-	-	0:23:53.256000	0:23:55.234000	ORT	5660836
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:55.234000" end="0:23:55.668000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 okay	-	-	-	0:23:55.234000	0:23:55.668000	-	5660837
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:55.234000" end="0:24:01.250000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:23:55.234000	0:23:55.668000	-	5660838
-zweitens	-	-	-	0:23:55.668000	0:23:56.453000	-	5660839
-ist	-	-	-	0:23:55.668000	0:23:56.453000	-	5660840
-,	-	-	-	0:23:55.668000	0:23:56.453000	-	5660841
-<pause duration="0,5s"/>
-er	-	-	-	0:23:56.453000	0:24:00.125000	-	5660843
-und	-	-	-	0:23:56.453000	0:24:00.125000	-	5660844
-seine	-	-	-	0:23:56.453000	0:24:00.125000	-	5660845
-Freundin	-	-	-	0:23:56.453000	0:24:00.125000	-	5660846
-,	-	-	-	0:23:56.453000	0:24:00.125000	-	5660847
-Frau	-	-	-	0:23:56.453000	0:24:00.125000	-	5660848
-sind	-	-	-	0:23:56.453000	0:24:00.125000	-	5660849
-aus	-	-	-	0:23:56.453000	0:24:00.125000	-	5660850
-dem	-	-	-	0:23:56.453000	0:24:00.125000	-	5660851
-Alter	-	-	-	0:23:56.453000	0:24:00.125000	-	5660852
-heraußen	-	-	-	0:23:56.453000	0:24:00.125000	-	5660853
-,	-	-	-	0:23:56.453000	0:24:00.125000	-	5660854
-wo	-	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	-	5660855
-sie	-	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	-	5660856
-noch	-	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	-	5660857
-Kinder	-	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	-	5660858
-kriegen	-	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	-	5660859
-täten	-	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	-	5660860
-,	-	-	-	0:24:00.125000	0:24:01.250000	-	5660861
+ORT	ORT	-	-	0:23:55.234000	0:23:55.668000	ORT	5660838
+ORT	ORT	-	-	0:23:55.668000	0:23:56.453000	ORT	5660839
+ORT	ORT	-	-	0:23:55.668000	0:23:56.453000	ORT	5660840
+ORT	ORT	-	-	0:23:55.668000	0:23:56.453000	ORT	5660841
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660842
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660843
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660844
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660845
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660846
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660847
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660848
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660849
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660850
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660851
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660852
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660853
+ORT	ORT	-	-	0:23:56.453000	0:24:00.125000	ORT	5660854
+ORT	ORT	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	ORT	5660855
+ORT	ORT	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	ORT	5660856
+ORT	ORT	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	ORT	5660857
+ORT	ORT	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	ORT	5660858
+ORT	ORT	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	ORT	5660859
+ORT	ORT	-	?? KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:24:00.125000	0:24:01.250000	ORT	5660860
+ORT	ORT	-	-	0:24:00.125000	0:24:01.250000	ORT	5660861
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:01.250000" end="0:24:01.916000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:24:01.250000	0:24:01.916000	-	5660862
 .	-	-	-	0:24:01.250000	0:24:01.916000	-	5660863
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:01.916000" end="0:24:03.268000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-werden	-	-	-	0:24:01.916000	0:24:03.268000	-	5660864
-sie	-	-	-	0:24:01.916000	0:24:03.268000	-	5660865
-eh	-	-	-	0:24:01.916000	0:24:03.268000	-	5660866
-schon	-	-	-	0:24:01.916000	0:24:03.268000	-	5660867
-genug	-	-	-	0:24:01.916000	0:24:03.268000	-	5660868
-haben	-	-	-	0:24:01.916000	0:24:03.268000	-	5660869
-,	-	-	-	0:24:01.916000	0:24:03.268000	-	5660870
+ORT	ORT	-	-	0:24:01.916000	0:24:03.268000	ORT	5660864
+ORT	ORT	-	-	0:24:01.916000	0:24:03.268000	ORT	5660865
+ORT	ORT	-	-	0:24:01.916000	0:24:03.268000	ORT	5660866
+ORT	ORT	-	-	0:24:01.916000	0:24:03.268000	ORT	5660867
+ORT	ORT	-	-	0:24:01.916000	0:24:03.268000	ORT	5660868
+ORT	ORT	-	-	0:24:01.916000	0:24:03.268000	ORT	5660869
+ORT	ORT	-	-	0:24:01.916000	0:24:03.268000	ORT	5660870
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:03.268000" end="0:24:04.682000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:03.268000" end="0:24:04.682000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-also	-	-	-	0:24:03.268000	0:24:04.682000	-	5660871
-nein	-	-	-	0:24:03.268000	0:24:04.682000	-	5660873
-im	-	-	-	0:24:03.268000	0:24:04.682000	-	5660874
-Sinne	-	-	-	0:24:03.268000	0:24:04.682000	-	5660875
-von	-	-	-	0:24:03.268000	0:24:04.682000	-	5660876
-,	-	-	-	0:24:03.268000	0:24:04.682000	-	5660877
+ORT	ORT	-	-	0:24:03.268000	0:24:04.682000	ORT	5660871
+ORT	ORT	-	-	0:24:03.268000	0:24:04.682000	ORT	5660873
+ORT	ORT	-	-	0:24:03.268000	0:24:04.682000	ORT	5660874
+ORT	ORT	-	-	0:24:03.268000	0:24:04.682000	ORT	5660875
+ORT	ORT	-	-	0:24:03.268000	0:24:04.682000	ORT	5660876
+ORT	ORT	-	-	0:24:03.268000	0:24:04.682000	ORT	5660877
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:04.682000" end="0:24:05.532000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:04.682000	0:24:05.532000	-	5660880
@@ -6867,19 +6911,21 @@ ja	-	-	-	0:24:04.682000	0:24:05.532000	-	5660882
 .	-	-	-	0:24:04.682000	0:24:05.532000	-	5660883
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:04.682000" end="0:24:05.532000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-schon	-	-	-	0:24:04.682000	0:24:05.532000	-	5660879
+ORT	ORT	-	-	0:24:04.682000	0:24:05.532000	ORT	5660878
+ORT	ORT	-	-	0:24:04.682000	0:24:05.532000	ORT	5660879
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:05.532000" end="0:24:06.640000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 abgeschlossen	-	-	-	0:24:05.532000	0:24:06.640000	-	5660887
 .	-	-	-	0:24:05.532000	0:24:06.640000	-	5660888
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:05.532000" end="0:24:07.005000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-schon	-	-	-	0:24:05.532000	0:24:06.640000	-	5660885
-groß	-	-	-	0:24:05.532000	0:24:06.640000	-	5660886
-genug	-	-	-	0:24:06.640000	0:24:07.005000	-	5660889
-,	-	-	-	0:24:06.640000	0:24:07.005000	-	5660890
-ja	-	-	-	0:24:06.640000	0:24:07.005000	-	5660891
-.	-	-	-	0:24:06.640000	0:24:07.005000	-	5660892
+ORT	ORT	-	-	0:24:05.532000	0:24:06.640000	ORT	5660884
+ORT	ORT	-	-	0:24:05.532000	0:24:06.640000	ORT	5660885
+ORT	ORT	-	-	0:24:05.532000	0:24:06.640000	ORT	5660886
+ORT	ORT	-	-	0:24:06.640000	0:24:07.005000	ORT	5660889
+ORT	ORT	-	-	0:24:06.640000	0:24:07.005000	ORT	5660890
+ORT	ORT	-	-	0:24:06.640000	0:24:07.005000	ORT	5660891
+ORT	ORT	-	-	0:24:06.640000	0:24:07.005000	ORT	5660892
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:07.005000" end="0:24:09.048000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:07.005000	0:24:07.372000	-	5660893
@@ -6887,107 +6933,110 @@ ja	-	-	-	0:24:07.005000	0:24:07.372000	-	5660893
 <pause duration="1,7s"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:07.372000" end="0:24:14.363000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,7s"/>
-und	-	-	-	0:24:09.048000	0:24:11.900000	-	5660897
-der	-	-	-	0:24:09.048000	0:24:11.900000	-	5660899
-ein	-	-	-	0:24:09.048000	0:24:11.900000	-	5660900
-Sabbatical	-	-	-	0:24:09.048000	0:24:11.900000	-	5660901
-macht	-	-	-	0:24:09.048000	0:24:11.900000	-	5660902
-wäre	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:12.995000	0:24:14.363000	-	5660904
-auch	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:12.995000	0:24:14.363000	-	5660905
-einmal	-	-	-	0:24:12.995000	0:24:14.363000	-	5660906
-eine	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:12.995000	0:24:14.363000	-	5660907
-Option	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:12.995000	0:24:14.363000	-	5660908
-,	-	-	-	0:24:12.995000	0:24:14.363000	-	5660909
-nicht	-	-	-	0:24:12.995000	0:24:14.363000	-	5660910
-?	-	-	-	0:24:12.995000	0:24:14.363000	-	5660911
+ORT	ORT	-	-	0:24:07.372000	0:24:09.048000	ORT	5660896
+ORT	ORT	-	-	0:24:09.048000	0:24:11.900000	ORT	5660897
+ORT	ORT	-	-	0:24:09.048000	0:24:11.900000	ORT	5660898
+ORT	ORT	-	-	0:24:09.048000	0:24:11.900000	ORT	5660899
+ORT	ORT	-	-	0:24:09.048000	0:24:11.900000	ORT	5660900
+ORT	ORT	-	-	0:24:09.048000	0:24:11.900000	ORT	5660901
+ORT	ORT	-	-	0:24:09.048000	0:24:11.900000	ORT	5660902
+ORT	ORT	-	-	0:24:11.900000	0:24:12.995000	ORT	5660903
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:12.995000	0:24:14.363000	ORT	5660904
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:12.995000	0:24:14.363000	ORT	5660905
+ORT	ORT	-	-	0:24:12.995000	0:24:14.363000	ORT	5660906
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:12.995000	0:24:14.363000	ORT	5660907
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:12.995000	0:24:14.363000	ORT	5660908
+ORT	ORT	-	-	0:24:12.995000	0:24:14.363000	ORT	5660909
+ORT	ORT	-	-	0:24:12.995000	0:24:14.363000	ORT	5660910
+ORT	ORT	-	-	0:24:12.995000	0:24:14.363000	ORT	5660911
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:14.363000" end="0:24:14.711000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:24:14.363000	0:24:14.711000	-	5660912
 .	-	-	-	0:24:14.363000	0:24:14.711000	-	5660913
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:14.711000" end="0:24:24.489000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="0,6s"/>
-und	-	-	-	0:24:14.711000	0:24:16.298000	-	5660915
-die	-	-	-	0:24:16.298000	0:24:17.803000	-	5660916
-andere	-	-	-	0:24:16.298000	0:24:17.803000	-	5660917
-die	-	-	-	0:24:16.298000	0:24:17.803000	-	5660918
-hat	-	-	-	0:24:16.298000	0:24:17.803000	-	5660919
-schon	-	-	-	0:24:16.298000	0:24:17.803000	-	5660920
-ein	-	-	-	0:24:16.298000	0:24:17.803000	-	5660921
-Kind	-	-	-	0:24:16.298000	0:24:17.803000	-	5660922
-und	-	-	-	0:24:17.803000	0:24:18.255000	-	5660923
-sagt	-	-	-	0:24:17.803000	0:24:18.255000	-	5660924
-,	-	-	-	0:24:17.803000	0:24:18.255000	-	5660925
-sie	-	-	-	0:24:18.255000	0:24:19.399000	-	5660926
-möchte	-	-	-	0:24:18.255000	0:24:19.399000	-	5660927
-kein	-	-	-	0:24:18.255000	0:24:19.399000	-	5660928
-zweites	-	-	-	0:24:18.255000	0:24:19.399000	-	5660929
-mehr	-	-	-	0:24:18.255000	0:24:19.399000	-	5660930
-.	-	-	-	0:24:18.255000	0:24:19.399000	-	5660931
-<pause duration="0,8s"/>
-(ich	-	-	-	0:24:19.399000	0:24:20.771000	-	5660934
-sage)	-	-	-	0:24:19.399000	0:24:20.771000	-	5660935
-müsste	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	-	5660936
-man	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	-	5660944
-ihr	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	-	5660937
-ja	-	-	-	0:24:20.771000	0:24:22.046000	-	5660938
-_netta_	-	-	-	0:24:20.771000	0:24:22.046000	-	5660939
-ein	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	-	5660940
-wenig	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-|DIM	0:24:20.771000	0:24:22.046000	-	5660941
-einreden	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	-	5660942
-,	-	-	-	0:24:20.771000	0:24:22.046000	-	5660943
-*dass*	-	-	-	0:24:22.046000	0:24:24.489000	-	5660945
-<pause duration="0,5s"/>
-ja	-	-	-	0:24:22.046000	0:24:24.489000	-	5660947
-kein	-	-	-	0:24:22.046000	0:24:24.489000	-	5660948
-Einzelkind	-	-	-	0:24:22.046000	0:24:24.489000	-	5660949
-haben	-	-	-	0:24:22.046000	0:24:24.489000	-	5660950
-darf	-	-	-	0:24:22.046000	0:24:24.489000	-	5660951
-,	-	-	-	0:24:22.046000	0:24:24.489000	-	5660952
-nicht	-	-	-	0:24:22.046000	0:24:24.489000	-	5660953
-?	-	-	-	0:24:22.046000	0:24:24.489000	-	5660954
+ORT	ORT	-	-	0:24:14.711000	0:24:16.298000	ORT	5660914
+ORT	ORT	-	-	0:24:14.711000	0:24:16.298000	ORT	5660915
+ORT	ORT	-	-	0:24:16.298000	0:24:17.803000	ORT	5660916
+ORT	ORT	-	-	0:24:16.298000	0:24:17.803000	ORT	5660917
+ORT	ORT	-	-	0:24:16.298000	0:24:17.803000	ORT	5660918
+ORT	ORT	-	-	0:24:16.298000	0:24:17.803000	ORT	5660919
+ORT	ORT	-	-	0:24:16.298000	0:24:17.803000	ORT	5660920
+ORT	ORT	-	-	0:24:16.298000	0:24:17.803000	ORT	5660921
+ORT	ORT	-	-	0:24:16.298000	0:24:17.803000	ORT	5660922
+ORT	ORT	-	-	0:24:17.803000	0:24:18.255000	ORT	5660923
+ORT	ORT	-	-	0:24:17.803000	0:24:18.255000	ORT	5660924
+ORT	ORT	-	-	0:24:17.803000	0:24:18.255000	ORT	5660925
+ORT	ORT	-	-	0:24:18.255000	0:24:19.399000	ORT	5660926
+ORT	ORT	-	-	0:24:18.255000	0:24:19.399000	ORT	5660927
+ORT	ORT	-	-	0:24:18.255000	0:24:19.399000	ORT	5660928
+ORT	ORT	-	-	0:24:18.255000	0:24:19.399000	ORT	5660929
+ORT	ORT	-	-	0:24:18.255000	0:24:19.399000	ORT	5660930
+ORT	ORT	-	-	0:24:18.255000	0:24:19.399000	ORT	5660931
+ORT	ORT	-	-	0:24:19.399000	0:24:20.771000	ORT	5660932
+ORT	ORT	-	-	0:24:19.399000	0:24:20.771000	ORT	5660933
+ORT	ORT	-	-	0:24:19.399000	0:24:20.771000	ORT	5660934
+ORT	ORT	-	-	0:24:19.399000	0:24:20.771000	ORT	5660935
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	ORT	5660936
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	ORT	5660944
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	ORT	5660937
+ORT	ORT	-	-	0:24:20.771000	0:24:22.046000	ORT	5660938
+ORT	ORT	-	-	0:24:20.771000	0:24:22.046000	ORT	5660939
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	ORT	5660940
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-|DIM	0:24:20.771000	0:24:22.046000	ORT	5660941
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:24:20.771000	0:24:22.046000	ORT	5660942
+ORT	ORT	-	-	0:24:20.771000	0:24:22.046000	ORT	5660943
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660945
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660946
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660947
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660948
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660949
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660950
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660951
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660952
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660953
+ORT	ORT	-	-	0:24:22.046000	0:24:24.489000	ORT	5660954
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:24.489000" end="0:24:25.846000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (na	-	-	-	0:24:24.489000	0:24:25.846000	-	5714026
 furchtbar)	-	-	-	0:24:24.489000	0:24:25.846000	-	5714027
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:25.846000" end="0:24:28.456000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-Gottes	-	-	-	0:24:25.846000	0:24:26.431000	-	5660958
-Willen	-	-	-	0:24:25.846000	0:24:26.431000	-	5660959
-.	-	-	-	0:24:25.846000	0:24:26.431000	-	5660960
-dann	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:26.431000	0:24:27.213000	-	5660961
-wäre	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:26.431000	0:24:27.213000	-	5660962
-es	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:26.431000	0:24:27.213000	-	5660963
-perfekt	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:26.431000	0:24:27.213000	-	5660964
-,	-	-	-	0:24:26.431000	0:24:27.213000	-	5660965
-weil	-	-	-	0:24:27.213000	0:24:28.456000	-	5660966
-dann	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	-	5660967
-machte	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	-	5660968
-die	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	-	5660969
-ein	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	-	5660970
-Sabbatical	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	-	5660971
-,	-	-	-	0:24:27.213000	0:24:28.456000	-	5660972
+ORT	ORT	-	-	0:24:25.846000	0:24:26.431000	ORT	5660958
+ORT	ORT	-	-	0:24:25.846000	0:24:26.431000	ORT	5660959
+ORT	ORT	-	-	0:24:25.846000	0:24:26.431000	ORT	5660960
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:26.431000	0:24:27.213000	ORT	5660961
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:26.431000	0:24:27.213000	ORT	5660962
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:26.431000	0:24:27.213000	ORT	5660963
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:24:26.431000	0:24:27.213000	ORT	5660964
+ORT	ORT	-	-	0:24:26.431000	0:24:27.213000	ORT	5660965
+ORT	ORT	-	-	0:24:27.213000	0:24:28.456000	ORT	5660966
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	ORT	5660967
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	ORT	5660968
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	ORT	5660969
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	ORT	5660970
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ad+ circum stdL- swV	0:24:27.213000	0:24:28.456000	ORT	5660971
+ORT	ORT	-	-	0:24:27.213000	0:24:28.456000	ORT	5660972
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:28.456000" end="0:24:29.078000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:24:28.456000	0:24:29.078000	-	5660973
 .	-	-	-	0:24:28.456000	0:24:29.078000	-	5660974
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:28.456000" end="0:24:30.800000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-in	-	-	-	0:24:28.456000	0:24:29.078000	-	5660975
-Zwischenzeit	-	-	-	0:24:28.456000	0:24:29.078000	-	5660976
-wird	-	-	-	0:24:29.078000	0:24:29.849000	-	5660977
-(die	-	-	-	0:24:29.078000	0:24:29.849000	-	5660978
-andere)	-	-	-	0:24:29.078000	0:24:29.849000	-	5660980
-schwanger	-	-	-	0:24:29.078000	0:24:29.849000	-	5660979
-und	-	-	-	0:24:29.849000	0:24:30.800000	-	5660981
-dann	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	-	5660982
-hätte	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	-	5660983
-sie	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	-	5660984
-ihre	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	-	5660985
-fünf	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	-	5660986
-Jahre	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	-	5660987
-.	-	-	-	0:24:29.849000	0:24:30.800000	-	5660988
+ORT	ORT	-	-	0:24:28.456000	0:24:29.078000	ORT	5660975
+ORT	ORT	-	-	0:24:28.456000	0:24:29.078000	ORT	5660976
+ORT	ORT	-	-	0:24:29.078000	0:24:29.849000	ORT	5660977
+ORT	ORT	-	-	0:24:29.078000	0:24:29.849000	ORT	5660978
+ORT	ORT	-	-	0:24:29.078000	0:24:29.849000	ORT	5660980
+ORT	ORT	-	-	0:24:29.078000	0:24:29.849000	ORT	5660979
+ORT	ORT	-	-	0:24:29.849000	0:24:30.800000	ORT	5660981
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	ORT	5660982
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	ORT	5660983
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	ORT	5660984
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	ORT	5660985
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	ORT	5660986
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum habenVV std stdL+	0:24:29.849000	0:24:30.800000	ORT	5660987
+ORT	ORT	-	-	0:24:29.849000	0:24:30.800000	ORT	5660988
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:30.800000" end="0:24:33.821000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
@@ -7003,13 +7052,13 @@ nicht	-	-	-	0:24:33.004000	0:24:33.821000	-	5714038
 ,	-	-	-	0:24:33.004000	0:24:33.821000	-	5714046
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:33.004000" end="0:24:33.821000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-nein	-	-	-	0:24:33.004000	0:24:33.821000	-	5714039
-,	-	-	-	0:24:33.004000	0:24:33.821000	-	5714040
-dann	-	-	IRR	0:24:33.004000	0:24:33.821000	-	5714041
-hätte	-	-	IRR	0:24:33.004000	0:24:33.821000	-	5714042
-sie	-	-	IRR	0:24:33.004000	0:24:33.821000	-	5714043
-(den)	-	-	-	0:24:33.004000	0:24:33.821000	-	5714044
-/.	-	-	-	0:24:33.004000	0:24:33.821000	-	5714045
+ORT	ORT	-	-	0:24:33.004000	0:24:33.821000	ORT	5714039
+ORT	ORT	-	-	0:24:33.004000	0:24:33.821000	ORT	5714040
+ORT	ORT	-	IRR	0:24:33.004000	0:24:33.821000	ORT	5714041
+ORT	ORT	-	IRR	0:24:33.004000	0:24:33.821000	ORT	5714042
+ORT	ORT	-	IRR	0:24:33.004000	0:24:33.821000	ORT	5714043
+ORT	ORT	-	-	0:24:33.004000	0:24:33.821000	ORT	5714044
+ORT	ORT	-	-	0:24:33.004000	0:24:33.821000	ORT	5714045
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:33.821000" end="0:24:38.698000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 dann	-	-	-	0:24:33.821000	0:24:34.481000	-	5714047
@@ -7037,25 +7086,25 @@ nicht	-	-	-	0:24:37.799000	0:24:38.698000	-	5714068
 ?	-	-	-	0:24:37.799000	0:24:38.698000	-	5714069
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:37.799000" end="0:24:39.748000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:24:37.799000	0:24:38.698000	-	5714070
-eh	-	-	-	0:24:37.799000	0:24:38.698000	-	5714071
-,	-	-	-	0:24:37.799000	0:24:38.698000	-	5714077
-das	-	-	-	0:24:37.799000	0:24:38.698000	-	5717545
-denke	-	-	-	0:24:37.799000	0:24:38.698000	-	5714072
-ich	-	-	-	0:24:37.799000	0:24:38.698000	-	5714073
-mir	-	-	-	0:24:37.799000	0:24:38.698000	-	5714074
-auch	-	-	-	0:24:37.799000	0:24:38.698000	-	5714075
-,	-	-	-	0:24:37.799000	0:24:38.698000	-	5714076
-na	-	-	-	0:24:38.698000	0:24:39.748000	-	5714078
-aber	-	-	-	0:24:38.698000	0:24:39.748000	-	5714079
-andererseits	-	-	-	0:24:38.698000	0:24:39.748000	-	5714080
-/.	-	-	-	0:24:38.698000	0:24:39.748000	-	5714083
+ORT	ORT	-	-	0:24:37.799000	0:24:38.698000	ORT	5714070
+ORT	ORT	-	-	0:24:37.799000	0:24:38.698000	ORT	5714071
+ORT	ORT	-	-	0:24:37.799000	0:24:38.698000	ORT	5714077
+ORT	ORT	-	-	0:24:37.799000	0:24:38.698000	ORT	5717545
+ORT	ORT	-	-	0:24:37.799000	0:24:38.698000	ORT	5714072
+ORT	ORT	-	-	0:24:37.799000	0:24:38.698000	ORT	5714073
+ORT	ORT	-	-	0:24:37.799000	0:24:38.698000	ORT	5714074
+ORT	ORT	-	-	0:24:37.799000	0:24:38.698000	ORT	5714075
+ORT	ORT	-	-	0:24:37.799000	0:24:38.698000	ORT	5714076
+ORT	ORT	-	-	0:24:38.698000	0:24:39.748000	ORT	5714078
+ORT	ORT	-	-	0:24:38.698000	0:24:39.748000	ORT	5714079
+ORT	ORT	-	-	0:24:38.698000	0:24:39.748000	ORT	5714080
+ORT	ORT	-	-	0:24:38.698000	0:24:39.748000	ORT	5714083
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:39.748000" end="0:24:40.864000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:39.748000" end="0:24:40.864000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="1,1s"/>
+ORT	ORT	-	-	0:24:39.748000	0:24:40.864000	ORT	5714082
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:40.864000" end="0:24:42.400000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:24:40.864000	0:24:41.651000	-	5714084
@@ -7066,16 +7115,16 @@ nicht	-	-	-	0:24:41.651000	0:24:42.400000	-	5714088
 .	-	-	-	0:24:41.651000	0:24:42.400000	-	5714089
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:41.651000" end="0:24:43.752000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-*is*	-	-	-	0:24:41.651000	0:24:42.400000	-	5714090
-froh	-	-	-	0:24:41.651000	0:24:42.400000	-	5714091
-,	-	-	-	0:24:41.651000	0:24:42.400000	-	5714092
-erstens	-	-	-	0:24:42.400000	0:24:43.752000	-	5714093
-taugt	-	-	-	0:24:42.400000	0:24:43.752000	-	5714094
-es	-	-	-	0:24:42.400000	0:24:43.752000	-	5714095
-ihr	-	-	-	0:24:42.400000	0:24:43.752000	-	5714096
-dort	-	-	-	0:24:42.400000	0:24:43.752000	-	5714097
-voll	-	-	-	0:24:42.400000	0:24:43.752000	-	5714098
-,	-	-	-	0:24:42.400000	0:24:43.752000	-	5714099
+ORT	ORT	-	-	0:24:41.651000	0:24:42.400000	ORT	5714090
+ORT	ORT	-	-	0:24:41.651000	0:24:42.400000	ORT	5714091
+ORT	ORT	-	-	0:24:41.651000	0:24:42.400000	ORT	5714092
+ORT	ORT	-	-	0:24:42.400000	0:24:43.752000	ORT	5714093
+ORT	ORT	-	-	0:24:42.400000	0:24:43.752000	ORT	5714094
+ORT	ORT	-	-	0:24:42.400000	0:24:43.752000	ORT	5714095
+ORT	ORT	-	-	0:24:42.400000	0:24:43.752000	ORT	5714096
+ORT	ORT	-	-	0:24:42.400000	0:24:43.752000	ORT	5714097
+ORT	ORT	-	-	0:24:42.400000	0:24:43.752000	ORT	5714098
+ORT	ORT	-	-	0:24:42.400000	0:24:43.752000	ORT	5714099
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:43.752000" end="0:24:44.195000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:24:43.752000	0:24:44.195000	-	5714100
@@ -7083,116 +7132,116 @@ eh	-	-	-	0:24:43.752000	0:24:44.195000	-	5714101
 .	-	-	-	0:24:43.752000	0:24:44.195000	-	5714102
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:43.752000" end="0:24:45.285000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-weil	-	-	-	0:24:43.752000	0:24:44.195000	-	5714103
-das	-	-	-	0:24:43.752000	0:24:44.195000	-	5714104
-Kollegium	-	-	-	0:24:44.195000	0:24:45.285000	-	5714105
-voll	-	-	-	0:24:44.195000	0:24:45.285000	-	5714106
-super	-	-	-	0:24:44.195000	0:24:45.285000	-	5714107
-ist	-	-	-	0:24:44.195000	0:24:45.285000	-	5714108
+ORT	ORT	-	-	0:24:43.752000	0:24:44.195000	ORT	5714103
+ORT	ORT	-	-	0:24:43.752000	0:24:44.195000	ORT	5714104
+ORT	ORT	-	-	0:24:44.195000	0:24:45.285000	ORT	5714105
+ORT	ORT	-	-	0:24:44.195000	0:24:45.285000	ORT	5714106
+ORT	ORT	-	-	0:24:44.195000	0:24:45.285000	ORT	5714107
+ORT	ORT	-	-	0:24:44.195000	0:24:45.285000	ORT	5714108
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:45.285000" end="0:24:46.075000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 mhm	-	-	-	0:24:45.285000	0:24:46.075000	-	5714109
 .	-	-	-	0:24:45.285000	0:24:46.075000	-	5714110
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:46.075000" end="0:25:04.555000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:24:46.075000	0:24:46.958000	-	5714111
-die	-	-	-	0:24:46.075000	0:24:46.958000	-	5714112
-Direktorin	-	-	-	0:24:46.075000	0:24:46.958000	-	5714113
-,	-	-	-	0:24:46.075000	0:24:46.958000	-	5714114
-was	-	-	-	0:24:46.958000	0:24:49.222000	-	5714115
-selten	-	-	-	0:24:46.958000	0:24:49.222000	-	5714116
-beides	-	-	-	0:24:46.958000	0:24:49.222000	-	5714117
-der	-	-	-	0:24:46.958000	0:24:49.222000	-	5714118
-Fall	-	-	-	0:24:46.958000	0:24:49.222000	-	5714119
-ist	-	-	-	0:24:46.958000	0:24:49.222000	-	5714120
-<pause duration="1,3s"/>
-und	-	-	-	0:24:50.557000	0:24:51.376000	-	5714122
-ja	-	-	-	0:24:51.376000	0:24:51.815000	-	5714123
-,	-	-	-	0:24:51.376000	0:24:51.815000	-	5714124
-zweitens	-	-	-	0:24:51.815000	0:24:53.588000	-	5714125
-*is*	-	-	-	0:24:51.815000	0:24:53.588000	-	5714126
-jetzt	-	-	-	0:24:51.815000	0:24:53.588000	-	5714127
-nicht	-	-	-	0:24:51.815000	0:24:53.588000	-	5714128
-sicher	-	-	-	0:24:51.815000	0:24:53.588000	-	5714129
-,	-	-	-	0:24:51.815000	0:24:53.588000	-	5714130
-wenn	-	-	-	0:24:53.588000	0:24:54.462000	-	5714131
-sie	-	-	-	0:24:53.588000	0:24:54.462000	-	5714132
-aufhört	-	-	-	0:24:53.588000	0:24:54.462000	-	5714133
-,	-	-	-	0:24:53.588000	0:24:54.462000	-	5714134
-*dass*	-	-	-	0:24:54.462000	0:24:55.534000	-	5714135
-nächstes	-	-	-	0:24:54.462000	0:24:55.534000	-	5714136
-Jahr	-	-	-	0:24:54.462000	0:24:55.534000	-	5714137
-was	-	-	-	0:24:54.462000	0:24:55.534000	-	5714138
-kriegt	-	-	-	0:24:54.462000	0:24:55.534000	-	5714139
-<pause duration="0,9s"/>
-oder	-	-	-	0:24:55.534000	0:24:58.428000	-	5714141
-dass	-	-	-	0:24:55.534000	0:24:58.428000	-	5714142
-da	-	-	-	0:24:55.534000	0:24:58.428000	-	5714143
-nicht	-	-	-	0:24:55.534000	0:24:58.428000	-	5714144
-der	-	-	-	0:24:55.534000	0:24:58.428000	-	5714145
-Landesschulrat	-	-	-	0:24:55.534000	0:24:58.428000	-	5717546
-sagt	-	-	-	0:24:55.534000	0:24:58.428000	-	5714148
-,	-	-	-	0:24:55.534000	0:24:58.428000	-	5714149
-"	-	-	-	0:24:58.428000	0:25:00.609000	-	5714150
-ah	-	-	-	0:24:58.428000	0:25:00.609000	-	5714161
-ja	-	-	-	0:24:58.428000	0:25:00.609000	-	5714151
-,	-	-	-	0:24:58.428000	0:25:00.609000	-	5714152
-es	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	-	5714153
-hätte	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	-	5714154
-eh	-	-	-	0:24:58.428000	0:25:00.609000	-	5714155
-eine	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	-	5714156
-(Stelle)	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	-	5714157
-gegeben	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	-	5714158
-in	-	-	-	0:24:58.428000	0:25:00.609000	-	5714159
+ORT	ORT	-	-	0:24:46.075000	0:24:46.958000	ORT	5714111
+ORT	ORT	-	-	0:24:46.075000	0:24:46.958000	ORT	5714112
+ORT	ORT	-	-	0:24:46.075000	0:24:46.958000	ORT	5714113
+ORT	ORT	-	-	0:24:46.075000	0:24:46.958000	ORT	5714114
+ORT	ORT	-	-	0:24:46.958000	0:24:49.222000	ORT	5714115
+ORT	ORT	-	-	0:24:46.958000	0:24:49.222000	ORT	5714116
+ORT	ORT	-	-	0:24:46.958000	0:24:49.222000	ORT	5714117
+ORT	ORT	-	-	0:24:46.958000	0:24:49.222000	ORT	5714118
+ORT	ORT	-	-	0:24:46.958000	0:24:49.222000	ORT	5714119
+ORT	ORT	-	-	0:24:46.958000	0:24:49.222000	ORT	5714120
+ORT	ORT	-	-	0:24:49.222000	0:24:50.557000	ORT	5714121
+ORT	ORT	-	-	0:24:50.557000	0:24:51.376000	ORT	5714122
+ORT	ORT	-	-	0:24:51.376000	0:24:51.815000	ORT	5714123
+ORT	ORT	-	-	0:24:51.376000	0:24:51.815000	ORT	5714124
+ORT	ORT	-	-	0:24:51.815000	0:24:53.588000	ORT	5714125
+ORT	ORT	-	-	0:24:51.815000	0:24:53.588000	ORT	5714126
+ORT	ORT	-	-	0:24:51.815000	0:24:53.588000	ORT	5714127
+ORT	ORT	-	-	0:24:51.815000	0:24:53.588000	ORT	5714128
+ORT	ORT	-	-	0:24:51.815000	0:24:53.588000	ORT	5714129
+ORT	ORT	-	-	0:24:51.815000	0:24:53.588000	ORT	5714130
+ORT	ORT	-	-	0:24:53.588000	0:24:54.462000	ORT	5714131
+ORT	ORT	-	-	0:24:53.588000	0:24:54.462000	ORT	5714132
+ORT	ORT	-	-	0:24:53.588000	0:24:54.462000	ORT	5714133
+ORT	ORT	-	-	0:24:53.588000	0:24:54.462000	ORT	5714134
+ORT	ORT	-	-	0:24:54.462000	0:24:55.534000	ORT	5714135
+ORT	ORT	-	-	0:24:54.462000	0:24:55.534000	ORT	5714136
+ORT	ORT	-	-	0:24:54.462000	0:24:55.534000	ORT	5714137
+ORT	ORT	-	-	0:24:54.462000	0:24:55.534000	ORT	5714138
+ORT	ORT	-	-	0:24:54.462000	0:24:55.534000	ORT	5714139
+ORT	ORT	-	-	0:24:55.534000	0:24:58.428000	ORT	5714140
+ORT	ORT	-	-	0:24:55.534000	0:24:58.428000	ORT	5714141
+ORT	ORT	-	-	0:24:55.534000	0:24:58.428000	ORT	5714142
+ORT	ORT	-	-	0:24:55.534000	0:24:58.428000	ORT	5714143
+ORT	ORT	-	-	0:24:55.534000	0:24:58.428000	ORT	5714144
+ORT	ORT	-	-	0:24:55.534000	0:24:58.428000	ORT	5714145
+ORT	ORT	-	-	0:24:55.534000	0:24:58.428000	ORT	5717546
+ORT	ORT	-	-	0:24:55.534000	0:24:58.428000	ORT	5714148
+ORT	ORT	-	-	0:24:55.534000	0:24:58.428000	ORT	5714149
+ORT	ORT	-	-	0:24:58.428000	0:25:00.609000	ORT	5714150
+ORT	ORT	-	-	0:24:58.428000	0:25:00.609000	ORT	5714161
+ORT	ORT	-	-	0:24:58.428000	0:25:00.609000	ORT	5714151
+ORT	ORT	-	-	0:24:58.428000	0:25:00.609000	ORT	5714152
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	ORT	5714153
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	ORT	5714154
+ORT	ORT	-	-	0:24:58.428000	0:25:00.609000	ORT	5714155
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	ORT	5714156
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	ORT	5714157
+ORT	ORT	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:24:58.428000	0:25:00.609000	ORT	5714158
+ORT	ORT	-	-	0:24:58.428000	0:25:00.609000	ORT	5714159
 ORT	ORT	-	-	0:24:58.428000	0:25:00.609000	ORT	5714160
-,	-	-	-	0:24:58.428000	0:25:00.609000	-	5714167
-(wenn)	-	-	-	0:25:00.609000	0:25:01.911000	-	5714162
-Sie	-	-	-	0:25:00.609000	0:25:01.911000	-	5714163
-die	-	-	-	0:25:00.609000	0:25:01.911000	-	5714164
-ablehnen	-	-	-	0:25:00.609000	0:25:01.911000	-	5714165
-,	-	-	-	0:25:00.609000	0:25:01.911000	-	5714166
-dann	-	-	-	0:25:01.911000	0:25:04.555000	-	5714168
-werden	-	-	-	0:25:01.911000	0:25:04.555000	-	5714169
-Sie	-	-	-	0:25:01.911000	0:25:04.555000	-	5714170
-jetzt	-	-	-	0:25:01.911000	0:25:04.555000	-	5714171
-zurückgereiht	-	-	-	0:25:01.911000	0:25:04.555000	-	5714172
-auf	-	-	-	0:25:01.911000	0:25:04.555000	-	5714173
-Platz	-	-	-	0:25:01.911000	0:25:04.555000	-	5714174
-hundert	-	-	-	0:25:01.911000	0:25:04.555000	-	5714175
-"	-	-	-	0:25:01.911000	0:25:04.555000	-	5714176
+ORT	ORT	-	-	0:24:58.428000	0:25:00.609000	ORT	5714167
+ORT	ORT	-	-	0:25:00.609000	0:25:01.911000	ORT	5714162
+ORT	ORT	-	-	0:25:00.609000	0:25:01.911000	ORT	5714163
+ORT	ORT	-	-	0:25:00.609000	0:25:01.911000	ORT	5714164
+ORT	ORT	-	-	0:25:00.609000	0:25:01.911000	ORT	5714165
+ORT	ORT	-	-	0:25:00.609000	0:25:01.911000	ORT	5714166
+ORT	ORT	-	-	0:25:01.911000	0:25:04.555000	ORT	5714168
+ORT	ORT	-	-	0:25:01.911000	0:25:04.555000	ORT	5714169
+ORT	ORT	-	-	0:25:01.911000	0:25:04.555000	ORT	5714170
+ORT	ORT	-	-	0:25:01.911000	0:25:04.555000	ORT	5714171
+ORT	ORT	-	-	0:25:01.911000	0:25:04.555000	ORT	5714172
+ORT	ORT	-	-	0:25:01.911000	0:25:04.555000	ORT	5714173
+ORT	ORT	-	-	0:25:01.911000	0:25:04.555000	ORT	5714174
+ORT	ORT	-	-	0:25:01.911000	0:25:04.555000	ORT	5714175
+ORT	ORT	-	-	0:25:01.911000	0:25:04.555000	ORT	5714176
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:04.555000" end="0:25:05.152000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ah	-	-	-	0:25:04.555000	0:25:05.152000	-	5714177
 .	-	-	-	0:25:04.555000	0:25:05.152000	-	5714178
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:04.555000" end="0:25:07.692000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-oder	-	-	-	0:25:04.555000	0:25:05.152000	-	5714179
-was	-	-	-	0:25:04.555000	0:25:05.152000	-	5714180
-weiß	-	-	-	0:25:04.555000	0:25:05.152000	-	5714181
-ich	-	-	-	0:25:04.555000	0:25:05.152000	-	5714182
-,	-	-	-	0:25:04.555000	0:25:05.152000	-	5714183
-was	-	-	-	0:25:05.152000	0:25:05.919000	-	5714184
-(dann)	-	-	-	0:25:05.152000	0:25:05.919000	-	5714185
-/.	-	-	-	0:25:05.152000	0:25:05.919000	-	5714186
-keine	-	-	-	0:25:05.919000	0:25:06.887000	-	5714187
-Ahnung	-	-	-	0:25:05.919000	0:25:06.887000	-	5714188
-,	-	-	-	0:25:05.919000	0:25:06.887000	-	5714189
-nicht	-	-	-	0:25:05.919000	0:25:06.887000	-	5714190
-?	-	-	-	0:25:05.919000	0:25:06.887000	-	5714191
-<pause duration="0,5s"/>
-es	-	-	-	0:25:06.887000	0:25:07.692000	-	5714193
-ist	-	-	-	0:25:06.887000	0:25:07.692000	-	5714194
-halt	-	-	-	0:25:06.887000	0:25:07.692000	-	5714195
+ORT	ORT	-	-	0:25:04.555000	0:25:05.152000	ORT	5714179
+ORT	ORT	-	-	0:25:04.555000	0:25:05.152000	ORT	5714180
+ORT	ORT	-	-	0:25:04.555000	0:25:05.152000	ORT	5714181
+ORT	ORT	-	-	0:25:04.555000	0:25:05.152000	ORT	5714182
+ORT	ORT	-	-	0:25:04.555000	0:25:05.152000	ORT	5714183
+ORT	ORT	-	-	0:25:05.152000	0:25:05.919000	ORT	5714184
+ORT	ORT	-	-	0:25:05.152000	0:25:05.919000	ORT	5714185
+ORT	ORT	-	-	0:25:05.152000	0:25:05.919000	ORT	5714186
+ORT	ORT	-	-	0:25:05.919000	0:25:06.887000	ORT	5714187
+ORT	ORT	-	-	0:25:05.919000	0:25:06.887000	ORT	5714188
+ORT	ORT	-	-	0:25:05.919000	0:25:06.887000	ORT	5714189
+ORT	ORT	-	-	0:25:05.919000	0:25:06.887000	ORT	5714190
+ORT	ORT	-	-	0:25:05.919000	0:25:06.887000	ORT	5714191
+ORT	ORT	-	-	0:25:06.887000	0:25:07.692000	ORT	5714192
+ORT	ORT	-	-	0:25:06.887000	0:25:07.692000	ORT	5714193
+ORT	ORT	-	-	0:25:06.887000	0:25:07.692000	ORT	5714194
+ORT	ORT	-	-	0:25:06.887000	0:25:07.692000	ORT	5714195
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:07.692000" end="0:25:09.348000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:07.692000" end="0:25:09.348000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ist	-	-	-	0:25:07.692000	0:25:09.348000	-	5714197
-so	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:25:07.692000	0:25:09.348000	-	5714198
-ein	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:25:07.692000	0:25:09.348000	-	5714199
-zweischneidiges	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:25:07.692000	0:25:09.348000	-	5714200
-Schwert	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:25:07.692000	0:25:09.348000	-	5714201
-,	-	-	-	0:25:07.692000	0:25:09.348000	-	5714202
+ORT	ORT	-	-	0:25:07.692000	0:25:09.348000	ORT	5714197
+ORT	ORT	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:25:07.692000	0:25:09.348000	ORT	5714198
+ORT	ORT	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:25:07.692000	0:25:09.348000	ORT	5714199
+ORT	ORT	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:25:07.692000	0:25:09.348000	ORT	5714200
+ORT	ORT	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:25:07.692000	0:25:09.348000	ORT	5714201
+ORT	ORT	-	-	0:25:07.692000	0:25:09.348000	ORT	5714202
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:09.348000" end="0:25:10.397000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 Maria	-	-	-	0:25:09.348000	0:25:10.397000	-	5714203
@@ -7200,48 +7249,48 @@ na	-	-	-	0:25:09.348000	0:25:10.397000	-	5714204
 .	-	-	-	0:25:09.348000	0:25:10.397000	-	5714205
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:09.348000" end="0:25:12.250000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-einerseits	-	-	-	0:25:09.348000	0:25:10.397000	-	5714206
-klar	-	-	-	0:25:10.397000	0:25:12.250000	-	5714207
-(wäre)	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	-	5714208
-ein	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	-	5714209
-Wechsel	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	-	5714210
-so	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	-	5714211
-schnell	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	-	5714212
-wie	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	-	5714213
-möglich	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	-	5714214
+ORT	ORT	-	-	0:25:09.348000	0:25:10.397000	ORT	5714206
+ORT	ORT	-	-	0:25:10.397000	0:25:12.250000	ORT	5714207
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	ORT	5714208
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	ORT	5714209
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	ORT	5714210
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	ORT	5714211
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	ORT	5714212
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	ORT	5714213
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:10.397000	0:25:12.250000	ORT	5714214
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:12.250000" end="0:25:12.906000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:12.250000	0:25:12.906000	-	5714217
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:12.250000" end="0:25:12.906000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-sinnvoller	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:12.250000	0:25:12.906000	-	5714215
-,	-	-	-	0:25:12.250000	0:25:12.906000	-	5714216
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:12.250000	0:25:12.906000	ORT	5714215
+ORT	ORT	-	-	0:25:12.250000	0:25:12.906000	ORT	5714216
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:12.906000" end="0:25:13.521000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 freilich	-	-	-	0:25:12.906000	0:25:13.521000	-	5714218
 .	-	-	-	0:25:12.906000	0:25:13.521000	-	5714219
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:13.521000" end="0:25:20.038000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-<pause duration="0,8s"/>
-andererseits	-	-	-	0:25:13.521000	0:25:15.098000	-	5714221
-/.	-	-	-	0:25:13.521000	0:25:15.098000	-	5714222
-<pause duration="1,5s"/>
-weil	-	-	-	0:25:16.558000	0:25:17.521000	-	5714224
-so	-	-	-	0:25:16.558000	0:25:17.521000	-	5714225
-wäre	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:16.558000	0:25:17.521000	-	5714226
-es	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:16.558000	0:25:17.521000	-	5714227
-ja	-	-	-	0:25:16.558000	0:25:17.521000	-	5714228
-voll	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:16.558000	0:25:17.521000	-	5714229
-gemütlich	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:16.558000	0:25:17.521000	-	5714230
-,	-	-	-	0:25:16.558000	0:25:17.521000	-	5714231
-wenn	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	-	5714232
-wir	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	-	5714233
-beide	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	-	5714234
-<pause duration="0,5s"/>
-im	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	-	5714236
+ORT	ORT	-	-	0:25:13.521000	0:25:15.098000	ORT	5714220
+ORT	ORT	-	-	0:25:13.521000	0:25:15.098000	ORT	5714221
+ORT	ORT	-	-	0:25:13.521000	0:25:15.098000	ORT	5714222
+ORT	ORT	-	-	0:25:15.098000	0:25:16.558000	ORT	5714223
+ORT	ORT	-	-	0:25:16.558000	0:25:17.521000	ORT	5714224
+ORT	ORT	-	-	0:25:16.558000	0:25:17.521000	ORT	5714225
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:16.558000	0:25:17.521000	ORT	5714226
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:16.558000	0:25:17.521000	ORT	5714227
+ORT	ORT	-	-	0:25:16.558000	0:25:17.521000	ORT	5714228
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:16.558000	0:25:17.521000	ORT	5714229
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:25:16.558000	0:25:17.521000	ORT	5714230
+ORT	ORT	-	-	0:25:16.558000	0:25:17.521000	ORT	5714231
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	ORT	5714232
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	ORT	5714233
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	ORT	5714234
+ORT	ORT	-	-	0:25:17.521000	0:25:20.038000	ORT	5714235
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	ORT	5714236
 ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	ORT	5714237
-wohnen	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	-	5714238
-täten	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	-	5714239
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	ORT	5714238
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:17.521000	0:25:20.038000	ORT	5714239
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:20.038000" end="0:25:21.205000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 na	-	-	-	0:25:20.038000	0:25:20.648000	-	5714240
@@ -7249,7 +7298,7 @@ freilich	-	-	-	0:25:20.038000	0:25:20.648000	-	5714241
 (Schabernack)	-	-	-	0:25:20.648000	0:25:21.205000	-	5714242
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:20.648000" end="0:25:21.205000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:25:20.648000	0:25:21.205000	-	5714243
+ORT	ORT	-	-	0:25:20.648000	0:25:21.205000	ORT	5714243
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:21.205000" end="0:25:22.637000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 im	-	-	-	0:25:21.205000	0:25:22.637000	-	5714244
@@ -7263,13 +7312,13 @@ nicht	-	-	-	0:25:21.205000	0:25:22.637000	-	5714251
 ?	-	-	-	0:25:21.205000	0:25:22.637000	-	5714252
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:22.637000" end="0:25:24.547000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-ja	-	-	-	0:25:22.637000	0:25:24.547000	-	5714253
-und	-	-	-	0:25:22.637000	0:25:24.547000	-	5714254
+ORT	ORT	-	-	0:25:22.637000	0:25:24.547000	ORT	5714253
+ORT	ORT	-	-	0:25:22.637000	0:25:24.547000	ORT	5714254
 ORT	ORT	-	-	0:25:22.637000	0:25:24.547000	ORT	5714255
-ist	-	-	-	0:25:22.637000	0:25:24.547000	-	5714256
-auch	-	-	-	0:25:22.637000	0:25:24.547000	-	5714257
-voll	-	-	-	0:25:22.637000	0:25:24.547000	-	5714258
-schön	-	-	-	0:25:22.637000	0:25:24.547000	-	5714259
+ORT	ORT	-	-	0:25:22.637000	0:25:24.547000	ORT	5714256
+ORT	ORT	-	-	0:25:22.637000	0:25:24.547000	ORT	5714257
+ORT	ORT	-	-	0:25:22.637000	0:25:24.547000	ORT	5714258
+ORT	ORT	-	-	0:25:22.637000	0:25:24.547000	ORT	5714259
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:24.547000" end="0:25:25.487000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:24.547000	0:25:25.487000	-	5714260
@@ -7279,10 +7328,10 @@ freilich	-	-	-	0:25:24.547000	0:25:25.487000	-	5714263
 .	-	-	-	0:25:24.547000	0:25:25.487000	-	5714264
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:25.487000" end="0:25:27.689000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:25:25.487000	0:25:26.353000	-	5714265
-<pause duration="1,0s"/>
-und	-	-	-	0:25:27.395000	0:25:27.689000	-	5714267
-ja	-	-	-	0:25:27.395000	0:25:27.689000	-	5714268
+ORT	ORT	-	-	0:25:25.487000	0:25:26.353000	ORT	5714265
+ORT	ORT	-	-	0:25:26.353000	0:25:27.395000	ORT	5714266
+ORT	ORT	-	-	0:25:27.395000	0:25:27.689000	ORT	5714267
+ORT	ORT	-	-	0:25:27.395000	0:25:27.689000	ORT	5714268
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:27.689000" end="0:25:29.040000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 (für	-	-	-	0:25:27.689000	0:25:29.040000	-	5714273
@@ -7290,40 +7339,40 @@ eine	-	-	-	0:25:27.689000	0:25:29.040000	-	5714274
 Zeitlang)	-	-	-	0:25:27.689000	0:25:29.040000	-	5714275
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:27.689000" end="0:25:34.312000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-und	-	-	-	0:25:27.689000	0:25:29.040000	-	5714269
-wenn	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:27.689000	0:25:29.040000	-	5714270
-wir	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:27.689000	0:25:29.040000	-	5714271
-dann	-	-	-	0:25:27.689000	0:25:29.040000	-	5714272
-zusammenwohnen	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:27.689000	0:25:29.040000	-	5714277
-tun	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:29.040000	0:25:29.638000	-	5714278
-täten	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:29.040000	0:25:29.638000	-	5714279
-,	-	-	-	0:25:29.040000	0:25:29.638000	-	5714280
-dann	-	-	-	0:25:29.638000	0:25:31.638000	-	5714281
-müsste	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	-	5714282
-ich	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	-	5714283
-nicht	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	-	5714284
-allweil	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	-	5714285
-pendeln	-	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	-	5714286
-<pause duration="1,0s"/>
-und	-	-	-	0:25:32.631000	0:25:34.312000	-	5714288
-<pause duration="0,5s"/>
-es	-	-	-	0:25:32.631000	0:25:34.312000	-	5714290
-ist	-	-	-	0:25:32.631000	0:25:34.312000	-	5714291
-jetzt	-	-	-	0:25:32.631000	0:25:34.312000	-	5714292
-auch	-	-	-	0:25:32.631000	0:25:34.312000	-	5714293
-nicht	-	-	-	0:25:32.631000	0:25:34.312000	-	5714294
+ORT	ORT	-	-	0:25:27.689000	0:25:29.040000	ORT	5714269
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:27.689000	0:25:29.040000	ORT	5714270
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:27.689000	0:25:29.040000	ORT	5714271
+ORT	ORT	-	-	0:25:27.689000	0:25:29.040000	ORT	5714272
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:27.689000	0:25:29.040000	ORT	5714277
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:29.040000	0:25:29.638000	ORT	5714278
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:25:29.040000	0:25:29.638000	ORT	5714279
+ORT	ORT	-	-	0:25:29.040000	0:25:29.638000	ORT	5714280
+ORT	ORT	-	-	0:25:29.638000	0:25:31.638000	ORT	5714281
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	ORT	5714282
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	ORT	5714283
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	ORT	5714284
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	ORT	5714285
+ORT	ORT	-	KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth MV ModK ad+ circum stdL-	0:25:29.638000	0:25:31.638000	ORT	5714286
+ORT	ORT	-	-	0:25:31.638000	0:25:32.631000	ORT	5714287
+ORT	ORT	-	-	0:25:32.631000	0:25:34.312000	ORT	5714288
+ORT	ORT	-	-	0:25:32.631000	0:25:34.312000	ORT	5714289
+ORT	ORT	-	-	0:25:32.631000	0:25:34.312000	ORT	5714290
+ORT	ORT	-	-	0:25:32.631000	0:25:34.312000	ORT	5714291
+ORT	ORT	-	-	0:25:32.631000	0:25:34.312000	ORT	5714292
+ORT	ORT	-	-	0:25:32.631000	0:25:34.312000	ORT	5714293
+ORT	ORT	-	-	0:25:32.631000	0:25:34.312000	ORT	5714294
 </u>
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:34.312000" end="0:25:35.082000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 eben	-	-	-	0:25:34.312000	0:25:35.082000	-	5714298
 .	-	-	-	0:25:34.312000	0:25:35.082000	-	5717547
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:34.312000" end="0:25:37.694000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-aus	-	-	-	0:25:34.312000	0:25:35.082000	-	5714295
-der	-	-	-	0:25:34.312000	0:25:35.082000	-	5714296
-Welt	-	-	-	0:25:34.312000	0:25:35.082000	-	5714297
-<pause duration="0,6s"/>
-bezüglich	-	-	-	0:25:35.082000	0:25:37.694000	-	5714300
-([Esternberg]O)	-	-	-	0:25:35.082000	0:25:37.694000	-	5714301
+ORT	ORT	-	-	0:25:34.312000	0:25:35.082000	ORT	5714295
+ORT	ORT	-	-	0:25:34.312000	0:25:35.082000	ORT	5714296
+ORT	ORT	-	-	0:25:34.312000	0:25:35.082000	ORT	5714297
+ORT	ORT	-	-	0:25:35.082000	0:25:37.694000	ORT	5714299
+ORT	ORT	-	-	0:25:35.082000	0:25:37.694000	ORT	5714300
+ORT	ORT	-	-	0:25:35.082000	0:25:37.694000	ORT	5714301
 oder	-	-	-	0:25:35.082000	0:25:37.694000	-	5714302
 ORT	ORT	-	-	0:25:35.082000	0:25:37.694000	ORT	5714303
 ,	-	-	-	0:25:35.082000	0:25:37.694000	-	5714304
@@ -16420,7 +16469,7 @@ es	-	-	-	0:53:53.513000	0:53:53.992000	-	5751040
 <u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" subproject="PP03" standard_competence="6" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:53:53.992000" end="0:53:55.002000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 nur	-	-	-	0:53:53.992000	0:53:55.002000	-	5751041
 in	-	-	-	0:53:53.992000	0:53:55.002000	-	5751042
-[Taufkirchen]O	-	-	-	0:53:53.992000	0:53:55.002000	-	5751043
+ORT	ORT	-	-	0:53:53.992000	0:53:55.002000	ORT	5751043
 .	-	-	-	0:53:53.992000	0:53:55.002000	-	5751044
 </u>
 <u who="spk_503" sex="male" age="jung (18-35) +matura" name="Informant 0483" subproject="PP03" standard_competence="5" dialect_competence="6" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:53:55.002000" end="0:54:02.393000" persName="Informant 0483" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -17629,7 +17678,7 @@ denn	-	-	-	0:57:41.401000	0:57:42.109000	-	5754521
 ,	-	-	-	0:57:41.401000	0:57:42.109000	-	5754522
 Heim(wandeln)	-	-	-	0:57:42.109000	0:57:42.808000	-	5754523
 ,	-	-	-	0:57:42.109000	0:57:42.808000	-	5754524
-[Pram]O	-	-	-	0:57:42.808000	0:57:43.756000	-	5754525
+ORT	ORT	-	-	0:57:42.808000	0:57:43.756000	ORT	5754525
 noch	-	-	-	0:57:42.808000	0:57:43.756000	-	5754526
 hineinhüpfen	-	-	-	0:57:42.808000	0:57:43.756000	-	5754527
 ,	-	-	-	0:57:42.808000	0:57:43.756000	-	5754528

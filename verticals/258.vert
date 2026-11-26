@@ -12551,7 +12551,7 @@ wir	-	-	-	0:40:07.174000	0:40:08.980000	-	2858823
 sind	-	-	-	0:40:07.174000	0:40:08.980000	-	2858824
 einmal	-	-	-	0:40:07.174000	0:40:08.980000	-	2858825
 am	-	-	-	0:40:07.174000	0:40:08.980000	-	2858826
-[(Kirschwaldstein)]O	-	-	-	0:40:07.174000	0:40:08.980000	-	2858827
+ORT	ORT	-	-	0:40:07.174000	0:40:08.980000	ORT	2858827
 hinauf	-	-	-	0:40:07.174000	0:40:08.980000	-	2858828
 gegangen	-	-	-	0:40:07.174000	0:40:08.980000	-	2858829
 und	-	-	-	0:40:08.980000	0:40:11.258000	-	2858830
@@ -17677,7 +17677,7 @@ auch	-	-	-	0:55:06.673000	0:55:07.420000	-	2878253
 .	-	-	-	0:55:06.673000	0:55:07.420000	-	2878317
 NAME	NAME	-	-	0:55:06.673000	0:55:07.420000	NAME	2878250
 die	-	-	-	0:55:06.673000	0:55:07.420000	-	2878251
-[Lena]N	-	-	-	0:55:06.673000	0:55:07.420000	-	2878252
+NAME	NAME	-	-	0:55:06.673000	0:55:07.420000	NAME	2878252
 </u>
 <u who="spk_197" sex="female" age="jung (18-35) -matura" name="Informant 0622" subproject="PP03" standard_competence="4" dialect_competence="5" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:07.420000" end="0:55:09.340000" persName="Informant 0622" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 und	-	-	-	0:55:07.420000	0:55:09.340000	-	2878322
@@ -18749,7 +18749,7 @@ gell	-	-	-	0:57:56.073000	0:57:57.760000	-	2879190
 <u who="spk_197" sex="female" age="jung (18-35) -matura" name="Informant 0622" subproject="PP03" standard_competence="4" dialect_competence="5" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:57:57.760000" end="0:57:59.460000" persName="Informant 0622" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 geholt	-	-	-	0:57:57.760000	0:57:58.566000	-	2879197
 am	-	-	-	0:57:57.760000	0:57:58.566000	-	2879198
-[Pyhrn]O	-	-	-	0:57:57.760000	0:57:58.566000	-	2879199
+ORT	ORT	-	-	0:57:57.760000	0:57:58.566000	ORT	2879199
 .	-	-	-	0:57:57.760000	0:57:58.566000	-	2879200
 </u>
 <u who="spk_121" sex="female" age="jung (18-35) -matura" name="Informant 0609" subproject="PP03" standard_competence="4" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:57:58.566000" end="0:57:59.460000" persName="Informant 0609" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -18781,7 +18781,7 @@ oder	-	-	-	0:58:01.073000	0:58:04.826000	-	2879220
 wo	-	-	-	0:58:01.073000	0:58:04.826000	-	2879221
 hin	-	-	-	0:58:01.073000	0:58:04.826000	-	2879222
 beim	-	-	-	0:58:01.073000	0:58:04.826000	-	2879223
-[Pyhrn]O	-	-	-	0:58:01.073000	0:58:04.826000	-	2879224
+ORT	ORT	-	-	0:58:01.073000	0:58:04.826000	ORT	2879224
 ,	-	-	-	0:58:01.073000	0:58:04.826000	-	2879227
 </u>
 <u who="spk_197" sex="female" age="jung (18-35) -matura" name="Informant 0622" subproject="PP03" standard_competence="4" dialect_competence="5" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:58:04.826000" end="0:58:05.593000" persName="Informant 0622" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">

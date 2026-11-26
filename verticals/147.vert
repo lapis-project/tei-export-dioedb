@@ -689,7 +689,7 @@ das/	-	-	-	0:02:21.218000	0:02:21.618000	-	1733402
 .	-	-	-	0:02:21.218000	0:02:21.618000	-	1733192
 </u>
 <u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:21.618000" end="0:02:22.218000" persName="Informant 0614" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
-[Steyerling]O	Steyrling	PROPN	-	0:02:21.618000	0:02:22.218000	-	1726785
+ORT	ORT	PROPN	-	0:02:21.618000	0:02:22.218000	ORT	1726785
 .	-	-	-	0:02:21.618000	0:02:22.218000	-	1739203
 </u>
 <u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" subproject="PP03" standard_competence="UNK" dialect_competence="7" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:22.218000" end="0:02:26.324000" persName="Informant 0629" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -1558,7 +1558,7 @@ ja	ja	PART	-	0:05:06.466000	0:05:07.899000	-	1729422
 .	-	-	-	0:05:06.466000	0:05:07.899000	-	1735693
 </u>
 <u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" subproject="PP03" standard_competence="UNK" dialect_competence="7" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:05:06.466000" end="0:05:09.666000" persName="Informant 0629" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
-[Steyrling]O	Steyrling	PROPN	-	0:05:06.466000	0:05:07.899000	-	1726804
+ORT	ORT	PROPN	-	0:05:06.466000	0:05:07.899000	ORT	1726804
 ,	-	-	-	0:05:06.466000	0:05:07.899000	-	1739609
 nicht	nicht	PART	-	0:05:06.466000	0:05:07.899000	-	1736927
 ,	-	-	-	0:05:06.466000	0:05:07.899000	-	1736309
@@ -3811,7 +3811,7 @@ mhm	mhm	PROPN	-	0:11:45.599000	0:11:46.663000	-	1727957
 <u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:46.663000" end="0:11:49.120000" persName="Informant 0614" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 sind	sein	AUX	-	0:11:46.663000	0:11:48.399000	-	1739792
 eh	eh	ADV	-	0:11:46.663000	0:11:48.399000	-	1731736
-[Steyrlinger]O	Steyrlinger	PROPN	-	0:11:46.663000	0:11:48.399000	-	1739430
+ORT	ORT	PROPN	-	0:11:46.663000	0:11:48.399000	ORT	1739430
 sind	sein	AUX	-	0:11:46.663000	0:11:48.399000	-	1731740
 noch	noch	ADV	-	0:11:46.663000	0:11:48.399000	-	1732507
 paar	paar	PRON	-	0:11:46.663000	0:11:48.399000	-	1727235
@@ -5129,7 +5129,7 @@ gesagt	-	-	-	0:15:39.763000	0:15:42.070000	-	1734034
 letztes	-	-	-	0:15:39.763000	0:15:42.070000	-	1731827
 Mal	-	-	-	0:15:39.763000	0:15:42.070000	-	1733757
 ist	-	-	-	0:15:39.763000	0:15:42.070000	-	1735342
-[Steyrling]O	-	-	-	0:15:39.763000	0:15:42.070000	-	1739543
+ORT	ORT	-	-	0:15:39.763000	0:15:42.070000	ORT	1739543
 .	-	-	-	0:15:39.763000	0:15:42.070000	-	1728063
 </u>
 <u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:42.070000" end="0:15:42.506000" persName="Informant 0614" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -5237,7 +5237,7 @@ ja	ja	PART	-	0:16:01.459000	0:16:02.439000	-	1727514
 .	-	-	-	0:16:01.459000	0:16:02.439000	-	1730974
 </u>
 <u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:02.439000" end="0:16:04.439000" persName="Informant 0614" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
-[(Imbisselstein)]O	Imbisselstein	NOUN	?? DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:16:02.439000	0:16:04.439000	-	1731942
+ORT	ORT	NOUN	?? DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:16:02.439000	0:16:04.439000	ORT	1731942
 .	-	-	-	0:16:02.439000	0:16:04.439000	-	1729877
 <pause duration="1,0s"/>
 </u>
@@ -5387,8 +5387,8 @@ von	von	ADP	-	0:16:24.159000	0:16:26.865000	-	1738962
 da	da	ADV	-	0:16:24.159000	0:16:26.865000	-	1727894
 aus	aus	ADP	-	0:16:24.159000	0:16:26.865000	-	1735034
 den	der	DET	-	0:16:24.159000	0:16:26.865000	-	1738007
-[Kasberg]O	Kasberg	PROPN	-	0:16:24.159000	0:16:26.865000	-	1732649
-[(Volkemauer)]O	Volkemauer	NOUN	-	0:16:26.865000	0:16:28.072000	-	1732188
+ORT	ORT	PROPN	-	0:16:24.159000	0:16:26.865000	ORT	1732649
+ORT	ORT	NOUN	-	0:16:26.865000	0:16:28.072000	ORT	1732188
 .	-	-	-	0:16:26.865000	0:16:28.072000	-	1733656
 </u>
 <u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" subproject="PP03" standard_competence="UNK" dialect_competence="7" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:26.865000" end="0:16:29.119000" persName="Informant 0629" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -5423,7 +5423,7 @@ ja	-	-	-	0:16:29.119000	0:16:31.119000	-	1733820
 auf	-	-	-	0:16:31.119000	0:16:32.479000	-	1731326
 auf	-	-	-	0:16:31.119000	0:16:32.479000	-	1738299
 die	-	-	-	0:16:31.119000	0:16:32.479000	-	1733219
-[Kremsmauer]O	-	-	-	0:16:31.119000	0:16:32.479000	-	1740944
+ORT	ORT	-	-	0:16:31.119000	0:16:32.479000	ORT	1740944
 .	-	-	-	0:16:31.119000	0:16:32.479000	-	1733195
 </u>
 <u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" subproject="PP03" standard_competence="UNK" dialect_competence="7" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:32.479000" end="0:16:34.885000" persName="Informant 0629" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -5434,7 +5434,7 @@ gerne	gerne	ADV	-	0:16:32.479000	0:16:34.885000	-	1740248
 wir	ich	PRON	-	0:16:32.479000	0:16:34.885000	-	1733523
 gehen	gehen	VERB	-	0:16:32.479000	0:16:34.885000	-	1726672
 den	der	DET	-	0:16:32.479000	0:16:34.885000	-	1738897
-[Pastorensteig]O	Pastorensteig	NOUN	-	0:16:32.479000	0:16:34.885000	-	1736720
+ORT	ORT	NOUN	-	0:16:32.479000	0:16:34.885000	ORT	1736720
 hinauf	hinauf	ADP	-	0:16:32.479000	0:16:34.885000	-	1741263
 ,	-	-	-	0:16:32.479000	0:16:34.885000	-	1741456
 </u>
@@ -5465,7 +5465,7 @@ dann	-	-	-	0:16:37.372000	0:16:39.372000	-	1738567
 am	-	-	-	0:16:37.372000	0:16:39.372000	-	1741451
 am	-	-	-	0:16:37.372000	0:16:39.372000	-	1733501
 im	-	-	-	0:16:37.372000	0:16:39.372000	-	1741243
-[Wieselstein]O	-	-	-	0:16:37.372000	0:16:39.372000	-	1728349
+ORT	ORT	-	-	0:16:37.372000	0:16:39.372000	ORT	1728349
 </u>
 <u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:39.372000" end="0:16:41.372000" persName="Informant 0614" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 genau	genau	ADJ	-	0:16:39.372000	0:16:41.372000	-	1727638
@@ -5794,14 +5794,14 @@ da	-	-	-	0:17:28.325000	0:17:31.779000	-	1740428
 hinunter	-	-	-	0:17:28.325000	0:17:31.779000	-	1738364
 ja	-	-	-	0:17:28.325000	0:17:31.779000	-	1736789
 ja	-	-	-	0:17:28.325000	0:17:31.779000	-	1735945
-[Pastorensteig]O	-	-	-	0:17:28.325000	0:17:31.779000	-	1733047
+ORT	ORT	-	-	0:17:28.325000	0:17:31.779000	ORT	1733047
 weiter	-	-	-	0:17:28.325000	0:17:31.779000	-	1729075
 hinunter	-	-	-	0:17:28.325000	0:17:31.779000	-	1727465
 .	-	-	-	0:17:28.325000	0:17:31.779000	-	1733225
 </u>
 <u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" subproject="PP03" standard_competence="UNK" dialect_competence="7" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:17:28.325000" end="0:17:42.345000" persName="Informant 0629" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 den	der	DET	-	0:17:28.325000	0:17:31.779000	-	1737354
-[Pastorensteig]O	Pastorensteig	NOUN	-	0:17:28.325000	0:17:31.779000	-	1735950
+ORT	ORT	NOUN	-	0:17:28.325000	0:17:31.779000	ORT	1735950
 noch	noch	ADV	-	0:17:28.325000	0:17:31.779000	-	1735696
 weiter	weit	ADV	-	0:17:28.325000	0:17:31.779000	-	1731706
 gegangen	gehen	VERB	-	0:17:28.325000	0:17:31.779000	-	1738912
@@ -5844,7 +5844,7 @@ gegangen	gehen	VERB	-	0:17:38.325000	0:17:42.345000	-	1734321
 auf	auf	ADP	-	0:17:38.325000	0:17:42.345000	-	1739053
 NAME	NAME	-	-	0:17:38.325000	0:17:42.345000	NAME	1728918
 NAME	NAME	ADJ	-	0:17:38.325000	0:17:42.345000	NAME	1727040
-Leiden)]O	Leid	NOUN	-	0:17:38.325000	0:17:42.345000	-	1739491
+ORT	ORT	NOUN	-	0:17:38.325000	0:17:42.345000	ORT	1739491
 ,	-	-	-	0:17:38.325000	0:17:42.345000	-	1731658
 <pause duration="1,5s"/>
 </u>
@@ -5934,7 +5934,7 @@ du	du	PRON	-	0:17:53.468000	0:17:55.733000	-	1737162
 könntest	können	VERB	circum KForm KKon KKt KLaut KMark KONJ KPrät Ksynth KVerb ModK MV std stdL-	0:17:53.468000	0:17:55.733000	-	1736922
 auch	auch	ADV	-	0:17:53.468000	0:17:55.733000	-	1735049
 vom	vom	ADP	-	0:17:53.468000	0:17:55.733000	-	1737566
-[(Imbisel)stein]O	Imbiselstein	NOUN	?? DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:17:53.468000	0:17:55.733000	-	1737872
+ORT	ORT	NOUN	?? DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:17:53.468000	0:17:55.733000	ORT	1737872
 hinüber	hinüber	ADV	-	0:17:53.468000	0:17:55.733000	-	1731552
 gehen	gehen	VERB	-	0:17:53.468000	0:17:55.733000	-	1736932
 </u>
@@ -6594,7 +6594,7 @@ haben	haben	AUX	-	0:19:40.528000	0:19:42.238000	-	1738292
 </u>
 <u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:19:42.238000" end="0:19:44.538000" persName="Informant 0614" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 am	am	ADP	-	0:19:42.238000	0:19:43.953000	-	1737519
-[(Imbiselstein)]O	Imbiselstein	NOUN	?? DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:19:42.238000	0:19:43.953000	-	1731316
+ORT	ORT	NOUN	?? DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:19:42.238000	0:19:43.953000	ORT	1731316
 gehst	gehen	VERB	-	0:19:42.238000	0:19:43.953000	-	1734553
 .	-	-	-	0:19:42.238000	0:19:43.953000	-	1736530
 ein	einen	DET	-	0:19:43.953000	0:19:44.538000	-	1728675
@@ -6859,7 +6859,7 @@ jetzt	jetzt	ADV	-	0:20:26.978000	0:20:29.038000	-	1728062
 haben	haben	AUX	-	0:20:26.978000	0:20:29.038000	-	1737172
 wir	ich	PRON	-	0:20:26.978000	0:20:29.038000	-	1728493
 unser	sich	DET	-	0:20:26.978000	0:20:29.038000	-	1730690
-[Steyerling]O	Steyerling	NOUN	-	0:20:26.978000	0:20:29.038000	-	1740889
+ORT	ORT	NOUN	-	0:20:26.978000	0:20:29.038000	ORT	1740889
 gelobt	loben	VERB	-	0:20:26.978000	0:20:29.038000	-	1740414
 genug	genug	ADV	-	0:20:26.978000	0:20:29.038000	-	1737864
 ,	-	-	-	0:20:26.978000	0:20:29.038000	-	1740804
@@ -7344,7 +7344,7 @@ ORT	ORT	PROPN	-	0:21:46.483000	0:21:52.143000	ORT	1737641
 heißt	heißen	VERB	-	0:21:46.483000	0:21:52.143000	-	1736429
 es	ich	PRON	-	0:21:46.483000	0:21:52.143000	-	1726484
 unter	unter	ADP	-	0:21:52.143000	0:21:53.773000	-	1736150
-[Melk]O	Melk	NOUN	-	0:21:52.143000	0:21:53.773000	-	1732991
+ORT	ORT	NOUN	-	0:21:52.143000	0:21:53.773000	ORT	1732991
 ja	ja	ADV	-	0:21:52.143000	0:21:53.773000	-	1738109
 ja	ja	PART	-	0:21:52.143000	0:21:53.773000	-	1739547
 ,	-	-	-	0:21:52.143000	0:21:53.773000	-	1729739
@@ -7359,7 +7359,7 @@ ja	ja	ADV	-	0:21:52.143000	0:21:53.773000	-	1735378
 <u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:53.773000" end="0:21:56.108000" persName="Informant 0614" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 unter	unter	ADP	-	0:21:53.773000	0:21:56.108000	-	1740953
 unter	unter	ADP	-	0:21:53.773000	0:21:56.108000	-	1729391
-[Melk]O	Melk	NOUN	-	0:21:53.773000	0:21:56.108000	-	1737207
+ORT	ORT	NOUN	-	0:21:53.773000	0:21:56.108000	ORT	1737207
 gleich	gleichen	ADV	-	0:21:53.773000	0:21:56.108000	-	1740368
 .	-	-	-	0:21:53.773000	0:21:56.108000	-	1732640
 </u>
@@ -8177,7 +8177,7 @@ traurig	traurig	ADJ	igReal igVar LautNach MG P	0:24:09.283000	0:24:11.998000	d̥
 bei	bei	ADP	-	0:24:09.283000	0:24:11.998000	-	1731899
 uns	sich	PRON	-	0:24:09.283000	0:24:11.998000	-	1727616
 in	in	ADP	-	0:24:09.283000	0:24:11.998000	-	1727761
-[Steyerling]O	Steyrling	PROPN	-	0:24:09.283000	0:24:11.998000	-	1732872
+ORT	ORT	PROPN	-	0:24:09.283000	0:24:11.998000	ORT	1732872
 ,	-	-	-	0:24:09.283000	0:24:11.998000	-	1741463
 weil	weil	SCONJ	-	0:24:11.998000	0:24:14.053000	-	1741143
 wir	ich	PRON	-	0:24:11.998000	0:24:14.053000	-	1734608
@@ -8731,7 +8731,7 @@ NAME	NAME	NOUN	-	0:25:40.022000	0:25:44.332000	NAME	1730154
 bleiben	bleiben	VERB	-	0:25:40.022000	0:25:44.332000	-	1736900
 draußen	draußen	ADV	-	0:25:40.022000	0:25:44.332000	-	1740347
 in	in	ADP	-	0:25:40.022000	0:25:44.332000	-	1738372
-[Klaus]O	Klaus	PROPN	-	0:25:40.022000	0:25:44.332000	-	1734757
+ORT	ORT	PROPN	-	0:25:40.022000	0:25:44.332000	ORT	1734757
 mit	mit	ADP	-	0:25:40.022000	0:25:44.332000	-	1736851
 unserem	mein	DET	-	0:25:40.022000	0:25:44.332000	-	1737324
 kompletten	komplett	ADJ	-	0:25:40.022000	0:25:44.332000	-	1741504
@@ -17913,7 +17913,7 @@ gelegt	legen	VERB	-	0:52:13.877000	0:52:16.057000	-	1734314
 der	der	DET	-	0:52:13.877000	0:52:16.057000	-	1729007
 NAME	NAME	NOUN	-	0:52:13.877000	0:52:16.057000	NAME	1732690
 ,	-	-	-	0:52:13.877000	0:52:16.057000	-	1737438
-[Maria]N!	-	-	-	0:52:13.877000	0:52:16.057000	-	1732088
+NAME	NAME	-	-	0:52:13.877000	0:52:16.057000	NAME	1732088
 </u>
 <u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" subproject="PP03" standard_competence="4" dialect_competence="4" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:16.957000" end="0:52:19.097000" persName="Informant 0614" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 _dings_	-	-	-	0:52:16.957000	0:52:17.497000	-	1729848

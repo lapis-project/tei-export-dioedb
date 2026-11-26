@@ -3140,7 +3140,7 @@ ich	ich	PRON	-	0:12:48.533000	0:12:49.406000	-	72810
 <u who="spk_9" sex="male" age="jung (18-35) +matura" name="Informant 0028" subproject="PP03" standard_competence="5" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:12:49.406000" end="0:12:51.253000" persName="Informant 0028" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 *bist*	-	-	-	0:12:49.406000	0:12:51.253000	-	77473
 in	-	-	-	0:12:49.406000	0:12:51.253000	-	78468
-[Neckenmarkt]O	-	-	-	0:12:49.406000	0:12:51.253000	-	79365
+ORT	ORT	-	-	0:12:49.406000	0:12:51.253000	ORT	79365
 geblieben	-	-	-	0:12:49.406000	0:12:51.253000	-	73671
 .	-	-	-	0:12:49.406000	0:12:51.253000	-	82294
 </u>
@@ -13949,7 +13949,7 @@ du	du	PRON	-	0:52:20.705000	0:52:22.248000	-	78395
 dann	dann	ADV	-	0:52:20.705000	0:52:22.248000	-	80620
 auf	auf	ADP	-	0:52:20.705000	0:52:22.248000	-	84431
 einem	einer	DET	-	0:52:20.705000	0:52:22.248000	-	75609
-[Neckenmarkter]O	Neckenmarkter	NOUN	-belebt App Gen PM PR Pkon Poss Prel Prop Zug pränomin	0:52:20.705000	0:52:22.248000	-	78593
+ORT	ORT	NOUN	-belebt App Gen PM PR Pkon Poss Prel Prop Zug pränomin	0:52:20.705000	0:52:22.248000	ORT	78593
 Ball	Ball	NOUN	-belebt App Gen PM PR Pkon Poss Prel Prop Zug pränomin	0:52:20.705000	0:52:22.248000	-	80436
 bist	sein	AUX	-	0:52:20.705000	0:52:22.248000	-	75822
 ,	-	-	-	0:52:20.705000	0:52:22.248000	-	71613
@@ -15116,7 +15116,7 @@ ja	ja	PART	-	0:55:59.519000	0:56:01.867000	-	76432
 das	der	PRON	-	0:55:59.519000	0:56:01.867000	-	85035
 ist	sein	AUX	-	0:55:59.519000	0:56:01.867000	-	80990
 wahrscheinlich	wahrscheinlich	ADJ	-	0:55:59.519000	0:56:01.867000	-	77957
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:55:59.519000	0:56:01.867000	-	82353
+ORT	ORT	NOUN	-	0:55:59.519000	0:56:01.867000	ORT	82353
 .	-	-	-	0:55:59.519000	0:56:01.867000	-	73027
 </u>
 <u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" subproject="PP03" standard_competence="5" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:56:02.362000" end="0:56:03.210000" persName="Informant 0029" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -15246,7 +15246,7 @@ sein	mein	AUX	-	0:56:31.191000	0:56:33.891000	-	76385
 ,	-	-	-	0:56:31.191000	0:56:33.891000	-	82675
 also	also	ADV	-	0:56:33.891000	0:56:34.924000	-	76892
 in	in	ADP	-	0:56:33.891000	0:56:34.924000	-	79152
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:56:33.891000	0:56:34.924000	-	75966
+ORT	ORT	NOUN	-	0:56:33.891000	0:56:34.924000	ORT	75966
 ,	-	-	-	0:56:33.891000	0:56:34.924000	-	79366
 <pause duration="0,5s"/>
 das	der	PRON	-	0:56:34.924000	0:56:36.605000	-	82158
@@ -15479,7 +15479,7 @@ zum	zum	ADP	-	0:57:23.196000	0:57:26.915000	-	76965
 Beispiel	Beispiel	NOUN	-	0:57:23.196000	0:57:26.915000	-	77153
 <pause duration="0,9s"/>
 die	der	DET	-belebt App Gen PM PR Pkon Poss Prel Prop Zug pränomin	0:57:23.196000	0:57:26.915000	-	72792
-[Neckenmarkter]O	Neckenmarkter	ADJ	-belebt App Gen PM PR Pkon Poss Prel Prop Zug pränomin	0:57:23.196000	0:57:26.915000	-	82789
+ORT	ORT	ADJ	-belebt App Gen PM PR Pkon Poss Prel Prop Zug pränomin	0:57:23.196000	0:57:26.915000	ORT	82789
 Weingärten	Weingärten	NOUN	-belebt App Gen PM PR Pkon Poss Prel Prop Zug pränomin|0 Diph Diph- Interf Interf- NPL Rund Rund- sd+ SDent Suff U+ Uml	0:57:23.196000	0:57:26.915000	-	77793
 ,	-	-	-	0:57:23.196000	0:57:26.915000	-	84500
 die	der	DET	-	0:57:26.915000	0:57:27.643000	-	79062
@@ -15576,16 +15576,16 @@ ein	einen	DET	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:57:41.62400
 so	so	ADV	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:57:41.624000	0:57:44.005000	-	79967
 ein	einen	DET	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:57:41.624000	0:57:44.005000	-	75922
 ähm	ähm	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:57:41.624000	0:57:44.005000	-	79270
-[Neckenmarkter]O	Neckenmarkter	ADJ	-belebt ?? App Gen PM PR Pkon Poss Prel Prop Zug pränomin|2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:57:41.624000	0:57:44.005000	-	76203
+ORT	ORT	ADJ	-belebt ?? App Gen PM PR Pkon Poss Prel Prop Zug pränomin|2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:57:41.624000	0:57:44.005000	ORT	76203
 Partie	Partie	NOUN	-belebt ?? App Gen PM PR Pkon Poss Prel Prop Zug pränomin|2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:57:41.624000	0:57:44.005000	-	71950
 ,	-	-	-	0:57:41.624000	0:57:44.005000	-	73185
 wie	wie	ADV	-	0:57:44.005000	0:57:46.234000	-	79123
 die	der	DET	-	0:57:44.005000	0:57:46.234000	-	83722
-[Weinriegl-Band]S	Weinriegl-Band	NOUN	-	0:57:44.005000	0:57:46.234000	-	74560
+SONSTIGE	SONSTIGE	NOUN	-	0:57:44.005000	0:57:46.234000	SONSTIGE	74560
 oder	oder	CCONJ	-	0:57:44.005000	0:57:46.234000	-	73173
-[Die	der	DET	-	0:57:44.005000	0:57:46.234000	-	75094
-Fidelen	Fidelen	ADJ	-	0:57:44.005000	0:57:46.234000	-	80018
-Weinhauer]S	Weinhauer	NOUN	-	0:57:44.005000	0:57:46.234000	-	82521
+SONSTIGE	SONSTIGE	DET	-	0:57:44.005000	0:57:46.234000	SONSTIGE	75094
+SONSTIGE	SONSTIGE	ADJ	-	0:57:44.005000	0:57:46.234000	SONSTIGE	80018
+SONSTIGE	SONSTIGE	NOUN	-	0:57:44.005000	0:57:46.234000	SONSTIGE	82521
 oder	oder	CCONJ	-	0:57:44.005000	0:57:46.234000	-	74793
 so	so	ADV	-	0:57:44.005000	0:57:46.234000	-	75459
 </u>

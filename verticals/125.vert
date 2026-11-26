@@ -1365,7 +1365,7 @@ dass	dass	SCONJ	-	0:05:54.079000	0:05:59.219000	-	1472031
 das	der	PRON	-	0:05:54.079000	0:05:59.219000	-	1473382
 eigentlich	eigentlich	ADV	-	0:05:54.079000	0:05:59.219000	-	1468392
 in	in	ADP	-	0:05:54.079000	0:05:59.219000	-	1462949
-[Oberwölz]O	Oberwölz	PROPN	-	0:05:54.079000	0:05:59.219000	-	1472850
+ORT	ORT	PROPN	-	0:05:54.079000	0:05:59.219000	ORT	1472850
 nie	nie	ADV	-	0:05:54.079000	0:05:59.219000	-	1474171
 so	so	ADV	-	0:05:54.079000	0:05:59.219000	-	1461176
 ein	einen	DET	-	0:05:54.079000	0:05:59.219000	-	1472729
@@ -2112,7 +2112,7 @@ bissel	bissel	NOUN	DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:08:45.03
 verhaftet	verhaften	VERB	-	0:08:45.033000	0:08:48.173000	-	1473682
 jetzt	jetzt	ADV	-	0:08:45.033000	0:08:48.173000	-	1471919
 in	in	ADP	-	0:08:45.033000	0:08:48.173000	-	1469412
-[Oberwölz]N	Oberwölz	NOUN	-	0:08:45.033000	0:08:48.173000	-	1473958
+NAME	NAME	NOUN	-	0:08:45.033000	0:08:48.173000	NAME	1473958
 </u>
 <u who="spk_370" sex="female" age="jung (18-35) +matura" name="Informant 0323" subproject="PP03" standard_competence="6" dialect_competence="3" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:48.173000" end="0:08:48.659000" persName="Informant 0323" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:48.173000	0:08:48.659000	-	1460137
@@ -2925,7 +2925,7 @@ ja	ja	PART	-	0:11:41.706000	0:11:42.339000	-	1476270
 .	-	-	-	0:11:41.706000	0:11:42.339000	-	1458704
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:42.339000" end="0:11:43.773000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Oberwölz]O	Oberwölz	PROPN	-	0:11:42.339000	0:11:43.773000	-	1467122
+ORT	ORT	PROPN	-	0:11:42.339000	0:11:43.773000	ORT	1467122
 ,	-	-	-	0:11:42.339000	0:11:43.773000	-	1469189
 Alpenblick	Alpenblick	PROPN	-	0:11:42.339000	0:11:43.773000	-	1472507
 </u>
@@ -3066,7 +3066,7 @@ ja	ja	PART	-	0:12:16.206000	0:12:16.726000	-	1460165
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:16.726000" end="0:12:19.786000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:12:16.726000	0:12:19.786000	-	1461730
-[Oberwölz]O	Oberwölz	PROPN	-	0:12:16.726000	0:12:19.786000	-	1469529
+ORT	ORT	PROPN	-	0:12:16.726000	0:12:19.786000	ORT	1469529
 gehört	hören	VERB	-	0:12:16.726000	0:12:19.786000	-	1470107
 sicher	sichern	ADV	-	0:12:16.726000	0:12:19.786000	-	1476366
 dazu	dazu	ADV	-	0:12:16.726000	0:12:19.786000	-	1463634
@@ -11194,7 +11194,7 @@ ich/	-	-	-	0:42:46.099000	0:42:46.705000	-	1476480
 mir	sich	PRON	-	0:42:46.099000	0:42:46.705000	-	1469771
 </u>
 <u who="spk_370" sex="female" age="jung (18-35) +matura" name="Informant 0323" subproject="PP03" standard_competence="6" dialect_competence="3" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:46.705000" end="0:42:52.332000" persName="Informant 0323" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Oberwölz]O	Oberwölz	PROPN	-	0:42:46.705000	0:42:50.272000	-	1469636
+ORT	ORT	PROPN	-	0:42:46.705000	0:42:50.272000	ORT	1469636
 ist	sein	AUX	-	0:42:46.705000	0:42:50.272000	-	1464858
 so	so	ADV	-	0:42:46.705000	0:42:50.272000	-	1472988
 eine	einen	DET	-	0:42:46.705000	0:42:50.272000	-	1472372
@@ -11425,7 +11425,7 @@ reingeschrieben	reingeschrieben	VERB	-	0:43:36.665000	0:43:37.599000	-	1468938
 </u>
 <u who="spk_370" sex="female" age="jung (18-35) +matura" name="Informant 0323" subproject="PP03" standard_competence="6" dialect_competence="3" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:37.599000" end="0:43:39.432000" persName="Informant 0323" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
-[oberwölzer]S	oberwölzer	ADJ	-	0:43:37.599000	0:43:39.432000	-	1462224
+SONSTIGE	SONSTIGE	ADJ	-	0:43:37.599000	0:43:39.432000	SONSTIGE	1462224
 Dialekt	Dialekt	NOUN	-	0:43:37.599000	0:43:39.432000	-	1467268
 .	-	-	-	0:43:37.599000	0:43:39.432000	-	1475154
 </u>
@@ -11433,7 +11433,7 @@ Dialekt	Dialekt	NOUN	-	0:43:37.599000	0:43:39.432000	-	1467268
 ja	ja	ADV	-	0:43:39.432000	0:43:40.159000	-	1466606
 genau	genau	ADJ	-	0:43:39.432000	0:43:40.159000	-	1476257
 .	-	-	-	0:43:39.432000	0:43:40.159000	-	1472440
-[oberwölzerisch]S	oberwölzerisch	ADJ	-	0:43:40.159000	0:43:41.105000	-	1465234
+SONSTIGE	SONSTIGE	ADJ	-	0:43:40.159000	0:43:41.105000	SONSTIGE	1465234
 .	-	-	-	0:43:40.159000	0:43:41.105000	-	1474281
 ich	ich	PRON	-	0:43:41.105000	0:43:43.665000	-	1471401
 habe	habe	AUX	-	0:43:41.105000	0:43:43.665000	-	1460501
@@ -11786,7 +11786,7 @@ habe/	-	-	-	0:44:50.792000	0:44:56.365000	-	1469266
 ich	ich	PRON	-	0:44:50.792000	0:44:56.365000	-	1476810
 habe	habe	AUX	-	0:44:50.792000	0:44:56.365000	-	1463478
 auch	auch	ADV	-	0:44:50.792000	0:44:56.365000	-	1471416
-[oberwölzerisch]S	oberwölzerisch	ADJ	-	0:44:50.792000	0:44:56.365000	-	1473601
+SONSTIGE	SONSTIGE	ADJ	-	0:44:50.792000	0:44:56.365000	SONSTIGE	1473601
 genommen	nehmen	VERB	-	0:44:50.792000	0:44:56.365000	-	1469243
 .	-	-	-	0:44:50.792000	0:44:56.365000	-	1475882
 <pause duration="1,2s"/>
@@ -12024,7 +12024,7 @@ habe	habe	AUX	-	0:46:13.539000	0:46:14.232000	-	1474693
 dass	dass	SCONJ	-	0:46:14.232000	0:46:17.065000	-	1474850
 eigentlich	eigentlich	ADV	-	0:46:14.232000	0:46:17.065000	-	1475889
 in	in	ADP	-	0:46:14.232000	0:46:17.065000	-	1476343
-[Oberwölz]O	Oberwölz	NOUN	-	0:46:14.232000	0:46:17.065000	-	1462387
+ORT	ORT	NOUN	-	0:46:14.232000	0:46:17.065000	ORT	1462387
 der	der	DET	-	0:46:14.232000	0:46:17.065000	-	1468505
 Einfluss	Einfluss	NOUN	-	0:46:14.232000	0:46:17.065000	-	1476998
 ja	ja	ADV	-	0:46:14.232000	0:46:17.065000	-	1472044
@@ -12074,7 +12074,7 @@ dazu	dazu	ADV	-	0:46:24.299000	0:46:29.225000	-	1461447
 ,	-	-	-	0:46:24.299000	0:46:29.225000	-	1464328
 auch	auch	ADV	-	0:46:24.299000	0:46:29.225000	-	1466389
 in	in	ADP	-	0:46:24.299000	0:46:29.225000	-	1471588
-[Oberwölz]O	Oberwölz	PROPN	-	0:46:24.299000	0:46:29.225000	-	1474886
+ORT	ORT	PROPN	-	0:46:24.299000	0:46:29.225000	ORT	1474886
 .	-	-	-	0:46:24.299000	0:46:29.225000	-	1468932
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:29.225000" end="0:46:30.379000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -12537,7 +12537,7 @@ das/	-	-	-	0:48:19.572000	0:48:23.759000	-	1473524
 also	also	ADV	-	0:48:19.572000	0:48:23.759000	-	1476886
 das	der	DET	-	0:48:19.572000	0:48:23.759000	-	1465780
 nach	nach	ADP	-	0:48:19.572000	0:48:23.759000	-	1471924
-[Oberwölz]O	Oberwölz	NOUN	-	0:48:19.572000	0:48:23.759000	-	1474381
+ORT	ORT	NOUN	-	0:48:19.572000	0:48:23.759000	ORT	1474381
 kommen	kommen	VERB	-	0:48:19.572000	0:48:23.759000	-	1474396
 ist	sein	AUX	-	0:48:19.572000	0:48:23.759000	-	1461353
 nicht	nicht	PART	-	0:48:19.572000	0:48:23.759000	-	1476298
@@ -13940,7 +13940,7 @@ auch	auch	ADV	-	0:53:18.459000	0:53:19.059000	-	1473867
 <pause duration="1,3s"/>
 Bauernhof	Bauernhof	NOUN	-	0:53:19.059000	0:53:24.459000	-	1469300
 <pause duration="0,6s"/>
-[Oberwölz]O	Oberwölz	PROPN	-	0:53:19.059000	0:53:24.459000	-	1467760
+ORT	ORT	PROPN	-	0:53:19.059000	0:53:24.459000	ORT	1467760
 ist	sein	AUX	-	0:53:19.059000	0:53:24.459000	-	1476689
 eigentlich	eigentlich	ADV	-	0:53:19.059000	0:53:24.459000	-	1473368
 ziemlich	ziemlich	ADV	-	0:53:19.059000	0:53:24.459000	-	1476797
@@ -15882,7 +15882,7 @@ sagen	sagen	VERB	-	1:00:08.305000	1:00:10.305000	-	1468339
 ?	-	-	-	1:00:08.305000	1:00:10.305000	-	1460081
 ganz	ganz	ADV	-	1:00:10.305000	1:00:11.878000	-	1465310
 normal	normal	ADJ	-	1:00:10.305000	1:00:11.878000	-	1465208
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	1:00:10.305000	1:00:11.878000	-	1472917
+SONSTIGE	SONSTIGE	NOUN	-	1:00:10.305000	1:00:11.878000	SONSTIGE	1472917
 .	-	-	-	1:00:10.305000	1:00:11.878000	-	1465194
 </u>
 <u who="spk_370" sex="female" age="jung (18-35) +matura" name="Informant 0323" subproject="PP03" standard_competence="6" dialect_competence="3" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:00:11.878000" end="1:00:20.132000" persName="Informant 0323" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">

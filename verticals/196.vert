@@ -606,7 +606,7 @@ kommen	kommen	VERB	-	0:03:54.786000	0:03:58.046000	-	2355160
 Sie	ich	PRON	-	0:03:54.786000	0:03:58.046000	-	2348590
 hier	hier	ADV	-	0:03:54.786000	0:03:58.046000	-	2355207
 nach	nach	ADP	-	0:03:54.786000	0:03:58.046000	-	2354069
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:03:54.786000	0:03:58.046000	-	2355614
+ORT	ORT	NOUN	-	0:03:54.786000	0:03:58.046000	ORT	2355614
 ?	-	-	-	0:03:54.786000	0:03:58.046000	-	2357048
 </u>
 <u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" subproject="PP03" standard_competence="4" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:58.046000" end="0:04:01.599000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -2091,7 +2091,7 @@ alteingesessenen	alteingesessen	ADJ	-	0:11:02.026000	0:11:06.099000	-	2356262
 ähm	ähm	NOUN	-	0:11:02.026000	0:11:06.099000	-	2354884
 Bewohner	Bewohner	NOUN	-	0:11:02.026000	0:11:06.099000	-	2355241
 in	in	ADP	-	0:11:02.026000	0:11:06.099000	-	2354847
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:11:02.026000	0:11:06.099000	-	2352341
+ORT	ORT	NOUN	-	0:11:02.026000	0:11:06.099000	ORT	2352341
 sprechen	sprechen	VERB	-	0:11:02.026000	0:11:06.099000	-	2351415
 ?	-	-	-	0:11:02.026000	0:11:06.099000	-	2351032
 ähm	ähm	X	-	0:11:06.099000	0:11:06.772000	-	2352554
@@ -2102,15 +2102,15 @@ ja	ja	PART	-	0:11:06.099000	0:11:06.772000	-	2352793
 sprechen	sprechen	VERB	-	0:11:06.772000	0:11:10.406000	-	2352072
 alle	all	DET	-	0:11:06.772000	0:11:10.406000	-	2349806
 <pause duration="1,1s"/>
-[Neckenmarkterisch]O	Neckenmarkterisch	NOUN	-	0:11:06.772000	0:11:10.406000	-	2352856
+ORT	ORT	NOUN	-	0:11:06.772000	0:11:10.406000	ORT	2352856
 .	-	-	-	0:11:06.772000	0:11:10.406000	-	2347116
 </u>
 <u who="spk_629" sex="male" age="UNK" name="Informant EXP14" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:10.406000" end="0:11:12.906000" persName="Informant EXP14" age_lower="1" age_upper="999">
-[Neckenmarkterisch]O	Neckenmarkterisch	NOUN	-	0:11:10.406000	0:11:12.906000	-	2350383
+ORT	ORT	NOUN	-	0:11:10.406000	0:11:12.906000	ORT	2350383
 mhm	mhm	VERB	-	0:11:10.406000	0:11:12.906000	-	2353305
 </u>
 <u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" subproject="PP03" standard_competence="4" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:11:10.406000" end="0:11:14.059000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
-[Neckenmarkterisch]O	Neckenmarkterisch	ADJ	-	0:11:10.406000	0:11:12.906000	-	2350775
+ORT	ORT	ADJ	-	0:11:10.406000	0:11:12.906000	ORT	2350775
 ja	ja	PART	-	0:11:10.406000	0:11:12.906000	-	2356628
 .	-	-	-	0:11:10.406000	0:11:12.906000	-	2352612
 </u>
@@ -2176,7 +2176,7 @@ fragt	-	SPACE	-	0:11:32.552000	0:11:33.366000	-	2349654
 </u>
 <u who="spk_629" sex="male" age="UNK" name="Informant EXP14" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:11:33.366000" end="0:11:34.819000" persName="Informant EXP14" age_lower="1" age_upper="999">
 die	der	DET	-	0:11:33.366000	0:11:34.819000	-	2351021
-[Neckenmarkterisch]O	Neckenmarkterisch	NOUN	-	0:11:33.366000	0:11:34.819000	-	2348547
+ORT	ORT	NOUN	-	0:11:33.366000	0:11:34.819000	ORT	2348547
 .	-	-	-	0:11:33.366000	0:11:34.819000	-	2354740
 </u>
 <u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" subproject="PP03" standard_competence="4" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:11:33.366000" end="0:11:34.819000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -2190,12 +2190,12 @@ genau	genau	ADJ	-	0:11:34.819000	0:11:38.299000	-	2350112
 .	-	-	-	0:11:34.819000	0:11:38.299000	-	2348884
 </u>
 <u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" subproject="PP03" standard_competence="4" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:11:34.819000" end="0:11:40.372000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:11:34.819000	0:11:38.299000	-	2355721
+ORT	ORT	NOUN	-	0:11:34.819000	0:11:38.299000	ORT	2355721
 d/	-	-	-	0:11:34.819000	0:11:38.299000	-	2349564
 den	der	DET	-	0:11:34.819000	0:11:38.299000	-	2353076
 Dialekt	Dialekt	NOUN	-	0:11:34.819000	0:11:38.299000	-	2349974
 von	von	ADP	-	0:11:34.819000	0:11:38.299000	-	2354746
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:11:34.819000	0:11:38.299000	-	2347985
+ORT	ORT	NOUN	-	0:11:34.819000	0:11:38.299000	ORT	2347985
 ?	-	-	-	0:11:34.819000	0:11:38.299000	-	2347482
 na	na	X	-	0:11:38.299000	0:11:39.099000	-	2348307
 ich	ich	PRON	-	0:11:38.299000	0:11:39.099000	-	2351971
@@ -2702,7 +2702,7 @@ ja	ja	ADV	-	0:14:00.359000	0:14:00.765000	-	2347075
 Personen	Person	NOUN	-	0:14:00.765000	0:14:02.552000	-	2353617
 aus	aus	ADP	-	0:14:00.765000	0:14:02.552000	-	2357047
 aus	aus	ADP	-	0:14:00.765000	0:14:02.552000	-	2351507
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:14:00.765000	0:14:02.552000	-	2353206
+ORT	ORT	NOUN	-	0:14:00.765000	0:14:02.552000	ORT	2353206
 denken	denken	VERB	-	0:14:00.765000	0:14:02.552000	-	2356407
 ?	-	-	-	0:14:00.765000	0:14:02.552000	-	2352052
 </u>
@@ -3969,7 +3969,7 @@ Gebrauch	Gebrauch	NOUN	-	0:20:06.605000	0:20:12.725000	-	2356206
 ähm	ähm	ADJ	-	0:20:06.605000	0:20:12.725000	-	2355757
 vo/	-	-	-	0:20:06.605000	0:20:12.725000	-	2348881
 vom	vom	ADP	-	0:20:06.605000	0:20:12.725000	-	2347778
-[Neckenmarkterisch]O	Neckenmarkterisch	NOUN	-	0:20:06.605000	0:20:12.725000	-	2353606
+ORT	ORT	NOUN	-	0:20:06.605000	0:20:12.725000	ORT	2353606
 einfach	einfach	ADV	-	0:20:06.605000	0:20:12.725000	-	2355036
 passend	passen	ADJ	-	0:20:06.605000	0:20:12.725000	-	2356746
 erscheint	erscheinen	VERB	-	0:20:06.605000	0:20:12.725000	-	2353440
@@ -4084,7 +4084,7 @@ mhm	mhm	PROPN	-	0:20:44.072000	0:20:44.898000	-	2350582
 egal	egal	ADV	-	0:20:44.072000	0:20:44.898000	-	2348157
 wer	wer	PRON	-	0:20:44.072000	0:20:44.898000	-	2353711
 das	der	DET	-	0:20:44.072000	0:20:44.898000	-	2348872
-[Neckenmarkter]O	Neckenmarkter	NOUN	-	0:20:44.898000	0:20:47.972000	-	2355758
+ORT	ORT	NOUN	-	0:20:44.898000	0:20:47.972000	ORT	2355758
 mit	mit	ADP	-	0:20:44.898000	0:20:47.972000	-	2356712
 (denen)	der	PRON	-	0:20:44.898000	0:20:47.972000	-	2351241
 kann	können	VERB	-	0:20:44.898000	0:20:47.972000	-	2351745
@@ -4124,7 +4124,7 @@ ist	sein	AUX	-	0:20:54.745000	0:20:58.652000	-	2348680
 (nicht	nicht	PART	-	0:20:54.745000	0:20:58.652000	-	2353670
 ein	einen	DET	-	0:20:54.745000	0:20:58.652000	-	2350049
 direkter)	direkt	ADJ	-	0:20:54.745000	0:20:58.652000	-	2350395
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:20:54.745000	0:20:58.652000	-	2349934
+ORT	ORT	NOUN	-	0:20:54.745000	0:20:58.652000	ORT	2349934
 ,	-	-	-	0:20:54.745000	0:20:58.652000	-	2352246
 na	na	INTJ	-	0:20:54.745000	0:20:58.652000	-	2347561
 dann	dann	ADV	-	0:20:54.745000	0:20:58.652000	-	2348126
@@ -4220,7 +4220,7 @@ stehen	stehen	VERB	-	0:21:16.045000	0:21:19.805000	-	2347353
 Menschen	Mensch	NOUN	-	0:21:16.045000	0:21:19.805000	-	2355417
 zur	zur	ADP	-	0:21:16.045000	0:21:19.805000	-	2347881
 zur	zur	ADP	-	0:21:16.045000	0:21:19.805000	-	2348044
-[Neckenmarkter]O	Neckenmarkter	NOUN	-	0:21:16.045000	0:21:19.805000	-	2357165
+ORT	ORT	NOUN	-	0:21:16.045000	0:21:19.805000	ORT	2357165
 Mundart	Mundart	NOUN	-	0:21:16.045000	0:21:19.805000	-	2352460
 ,	-	-	-	0:21:16.045000	0:21:19.805000	-	2351156
 die	der	DET	-	0:21:19.805000	0:21:23.678000	-	2350055
@@ -4446,7 +4446,7 @@ sie	ich	PRON	-	0:22:29.998000	0:22:33.672000	-	2348559
 wurden	werden	AUX	-	0:22:29.998000	0:22:33.672000	-	2351145
 begrüßt	begrüßen	VERB	META	0:22:29.998000	0:22:33.672000	-	2351669
 in	in	ADP	-	0:22:29.998000	0:22:33.672000	-	2352187
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:22:29.998000	0:22:33.672000	-	2350947
+ORT	ORT	NOUN	-	0:22:29.998000	0:22:33.672000	ORT	2350947
 in	in	ADP	-	0:22:29.998000	0:22:33.672000	-	2351540
 der	der	DET	-	0:22:29.998000	0:22:33.672000	-	2356440
 Winzerhalle	Winzerhalle	NOUN	-	0:22:29.998000	0:22:33.672000	-	2354014
@@ -4891,7 +4891,7 @@ vom	vom	ADP	-	0:24:37.665000	0:24:44.285000	-	2346761
 vom	vom	ADP	-	0:24:37.665000	0:24:44.285000	-	2353676
 Dialekt	Dialekt	NOUN	-	0:24:37.665000	0:24:44.285000	-	2351811
 von	von	ADP	-	0:24:37.665000	0:24:44.285000	-	2354607
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:24:37.665000	0:24:44.285000	-	2356786
+ORT	ORT	NOUN	-	0:24:37.665000	0:24:44.285000	ORT	2356786
 denken	denken	VERB	-	0:24:37.665000	0:24:44.285000	-	2351703
 ähm	ähm	ADJ	-	0:24:37.665000	0:24:44.285000	-	2355471
 ,	-	-	-	0:24:37.665000	0:24:44.285000	-	2355303
@@ -4961,7 +4961,7 @@ Dialekt	Dialekt	NOUN	-	0:25:02.295000	0:25:02.805000	-	2352401
 den	der	PRON	-	0:25:02.805000	0:25:04.472000	-	2347522
 was	was	PRON	-	0:25:02.805000	0:25:04.472000	-	2356449
 wir	ich	PRON	-	0:25:02.805000	0:25:04.472000	-	2350832
-[Neckenmarkterisch]O	Neckenmarkterisch	NOUN	-	0:25:02.805000	0:25:04.472000	-	2347902
+ORT	ORT	NOUN	-	0:25:02.805000	0:25:04.472000	ORT	2347902
 heißen	heiß	VERB	-	0:25:04.472000	0:25:04.987000	hɔɐ̯sn̩	2353126
 .	-	-	-	0:25:04.472000	0:25:04.987000	-	2352905
 </u>
@@ -5643,7 +5643,7 @@ eh	eh	X	-	0:28:02.158000	0:28:03.018000	-	2354345
 er	ich	PRON	-	0:28:03.018000	0:28:05.385000	-	2355980
 le/	-	-	-	0:28:03.018000	0:28:05.385000	-	2356054
 redet	reden	VERB	-	0:28:03.018000	0:28:05.385000	-	2346817
-[Neckenmarkterisch]O	Neckenmarkterisch	NOUN	-	0:28:03.018000	0:28:05.385000	-	2356808
+ORT	ORT	NOUN	-	0:28:03.018000	0:28:05.385000	ORT	2356808
 ,	-	-	-	0:28:03.018000	0:28:05.385000	-	2357218
 </u>
 <u who="spk_629" sex="male" age="UNK" name="Informant EXP14" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:05.385000" end="0:28:05.818000" persName="Informant EXP14" age_lower="1" age_upper="999">
@@ -5969,7 +5969,7 @@ das	der	DET	-	0:29:15.338000	0:29:24.798000	-	2348970
 Thema	Thema	NOUN	-	0:29:15.338000	0:29:24.798000	-	2354559
 weg	weg	ADV	-	0:29:15.338000	0:29:24.798000	-	2357142
 von	von	ADP	-	0:29:15.338000	0:29:24.798000	-	2350232
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:29:15.338000	0:29:24.798000	-	2354681
+ORT	ORT	NOUN	-	0:29:15.338000	0:29:24.798000	ORT	2354681
 ähm	ähm	PROPN	-	0:29:15.338000	0:29:24.798000	-	2351757
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:29:24.798000	0:29:30.571000	-	2347228
@@ -7893,7 +7893,7 @@ mhm	mhm	PROPN	-	0:39:46.571000	0:39:47.064000	-	2352229
 "kommst	-	-	-	0:39:46.571000	0:39:47.064000	-	2350195
 du	-	-	-	0:39:47.064000	0:39:48.464000	-	2350574
 von	-	-	-	0:39:47.064000	0:39:48.464000	-	2350048
-[Neckenmarkt]O?"	-	-	-	0:39:47.064000	0:39:48.464000	-	2352592
+ORT	ORT	-	-	0:39:47.064000	0:39:48.464000	ORT	2352592
 </u>
 <u who="spk_629" sex="male" age="UNK" name="Informant EXP14" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:39:48.464000" end="0:39:49.717000" persName="Informant EXP14" age_lower="1" age_upper="999">
 </u>
@@ -8530,7 +8530,7 @@ Deutsch	Deutsch	NOUN	-	0:42:34.817000	0:42:43.117000	-	2351818
 ähm	ähm	PROPN	-	0:42:34.817000	0:42:43.117000	-	2350771
 hier	hier	ADV	-	0:42:34.817000	0:42:43.117000	-	2347091
 in	in	ADP	-	0:42:34.817000	0:42:43.117000	-	2356857
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:42:34.817000	0:42:43.117000	-	2354406
+ORT	ORT	NOUN	-	0:42:34.817000	0:42:43.117000	ORT	2354406
 ,	-	-	-	0:42:34.817000	0:42:43.117000	-	2347946
 die	der	DET	-	0:42:43.117000	0:42:47.397000	-	2355483
 <pause duration="0,6s"/>
@@ -12139,7 +12139,7 @@ gesehen	sehen	VERB	-	0:59:27.670000	0:59:31.496000	-	2355936
 und	und	CCONJ	-	0:59:31.496000	0:59:35.636000	-	2353387
 und	und	CCONJ	-	0:59:31.496000	0:59:35.636000	-	2349769
 können	können	VERB	-	0:59:31.496000	0:59:35.636000	-	2350688
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:59:31.496000	0:59:35.636000	-	2350167
+ORT	ORT	NOUN	-	0:59:31.496000	0:59:35.636000	ORT	2350167
 vergleichen	vergleichen	VERB	-	0:59:31.496000	0:59:35.636000	-	2348148
 mit	mit	ADP	-	0:59:31.496000	0:59:35.636000	-	2352983
 anderen	ander	ADJ	-	0:59:31.496000	0:59:35.636000	-	2347056

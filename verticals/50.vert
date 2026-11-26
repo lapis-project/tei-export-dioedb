@@ -7423,7 +7423,7 @@ ist	sein	AUX	-	0:28:46.386000	0:28:48.557000	-	568146
 schon	schon	ADV	-	0:28:46.386000	0:28:48.557000	-	575157
 ewig	ewig	ADJ	-	0:28:46.386000	0:28:48.557000	-	583874
 in	in	ADP	-	0:28:46.386000	0:28:48.557000	-	567618
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:28:46.386000	0:28:48.557000	-	576397
+ORT	ORT	PROPN	-	0:28:46.386000	0:28:48.557000	ORT	576397
 ,	-	-	-	0:28:46.386000	0:28:48.557000	-	570552
 </u>
 <u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:28:48.557000" end="0:28:50.557000" persName="Informant EXP5" age_lower="1" age_upper="999">

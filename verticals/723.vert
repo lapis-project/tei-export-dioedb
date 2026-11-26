@@ -79,7 +79,7 @@ aufgewachsen	-	-	-	0:00:20.721000	0:00:22.481000	-	6325563
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:22.481000" end="0:00:24.025000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 in	-	-	-	0:00:22.481000	0:00:24.025000	-	6325566
-[Steyrling]O	-	-	-	0:00:22.481000	0:00:24.025000	-	6325567
+ORT	ORT	-	-	0:00:22.481000	0:00:24.025000	ORT	6325567
 .	-	-	-	0:00:22.481000	0:00:24.025000	-	6325568
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:24.025000" end="0:00:30.427000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -98,7 +98,7 @@ gewohnt	-	-	-	0:00:25.141000	0:00:29.078000	-	6325580
 oder	-	-	-	0:00:29.078000	0:00:30.427000	-	6325581
 immer	-	-	-	0:00:29.078000	0:00:30.427000	-	6325582
 in	-	-	-	0:00:29.078000	0:00:30.427000	-	6325583
-[Steyrling]O	-	-	-	0:00:29.078000	0:00:30.427000	-	6325584
+ORT	ORT	-	-	0:00:29.078000	0:00:30.427000	ORT	6325584
 ?	-	-	-	0:00:29.078000	0:00:30.427000	-	6325585
 </u>
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:30.427000" end="0:00:33.184000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -162,7 +162,7 @@ genau	-	-	-	0:00:48.369000	0:00:49.057000	-	6325638
 ,	-	-	-	0:00:48.369000	0:00:49.057000	-	6325639
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:48.369000" end="0:00:49.057000" persName="Informant EXP9" age_lower="1" age_upper="999">
-[Steyrling]O	-	-	-	0:00:48.369000	0:00:49.057000	-	6325636
+ORT	ORT	-	-	0:00:48.369000	0:00:49.057000	ORT	6325636
 ?	-	-	-	0:00:48.369000	0:00:49.057000	-	6325637
 </u>
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:49.057000" end="0:00:49.568000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -1131,7 +1131,7 @@ die	-	-	-	0:04:54.858000	0:04:59.264000	-	6326435
 alteingesessenen	-	-	-	0:04:54.858000	0:04:59.264000	-	6326436
 Bewohner	-	-	-	0:04:54.858000	0:04:59.264000	-	6326437
 von	-	-	-	0:04:54.858000	0:04:59.264000	-	6326438
-[Steyrling]O	-	-	-	0:04:54.858000	0:04:59.264000	-	6326439
+ORT	ORT	-	-	0:04:54.858000	0:04:59.264000	ORT	6326439
 typischerweise	-	-	-	0:04:54.858000	0:04:59.264000	-	6326440
 miteinander	-	-	-	0:04:54.858000	0:04:59.264000	-	6326441
 sprechen	-	-	-	0:04:54.858000	0:04:59.264000	-	6326442
@@ -1357,7 +1357,7 @@ Mundart	-	-	-	0:05:48.915000	0:05:49.792000	-	6326611
 ,	-	-	-	0:05:48.915000	0:05:49.792000	-	6326612
 die	-	-	-	0:05:49.792000	0:05:51.395000	-	6326613
 in	-	-	-	0:05:49.792000	0:05:51.395000	-	6326614
-[Steyrling]O	-	-	-	0:05:49.792000	0:05:51.395000	-	6326615
+ORT	ORT	-	-	0:05:49.792000	0:05:51.395000	ORT	6326615
 gesprochen	-	-	-	0:05:49.792000	0:05:51.395000	-	6326616
 wird	-	-	-	0:05:49.792000	0:05:51.395000	-	6326617
 .	-	-	-	0:05:49.792000	0:05:51.395000	-	6326618
@@ -1393,7 +1393,7 @@ würden	-	-	-	0:05:54.500000	0:05:59.218000	-	6326635
 aber	-	-	-	0:05:54.500000	0:05:59.218000	-	6326636
 die	-	-	-	0:05:54.500000	0:05:59.218000	-	6326637
 die	-	-	-	0:05:54.500000	0:05:59.218000	-	6326638
-[Steyrlinger]O	-	-	-	0:05:54.500000	0:05:59.218000	-	6326639
+ORT	ORT	-	-	0:05:54.500000	0:05:59.218000	ORT	6326639
 Mundart	-	-	-	0:05:54.500000	0:05:59.218000	-	6326640
 jetzt	-	-	-	0:05:54.500000	0:05:59.218000	-	6326641
 trotzdem	-	-	-	0:05:54.500000	0:05:59.218000	-	6326642
@@ -1501,7 +1501,7 @@ mhm	-	-	-	0:06:16.560000	0:06:17.116000	-	6326725
 .	-	-	-	0:06:16.560000	0:06:17.116000	-	6326727
 </u>
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:06:16.560000" end="0:06:17.116000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Steyrling]O	-	-	-	0:06:16.560000	0:06:17.116000	-	6326723
+ORT	ORT	-	-	0:06:16.560000	0:06:17.116000	ORT	6326723
 .	-	-	-	0:06:16.560000	0:06:17.116000	-	6326724
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:17.116000" end="0:06:20.674000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -1609,7 +1609,7 @@ zu	-	-	-	0:06:37.181000	0:06:40.390000	-	6346656
 der	-	-	-	0:06:37.181000	0:06:40.390000	-	6346657
 Mundart	-	-	-	0:06:37.181000	0:06:40.390000	-	6346658
 in	-	-	-	0:06:37.181000	0:06:40.390000	-	6346659
-[Steyrling]O	-	-	-	0:06:37.181000	0:06:40.390000	-	6346660
+ORT	ORT	-	-	0:06:37.181000	0:06:40.390000	ORT	6346660
 ,	-	-	-	0:06:37.181000	0:06:40.390000	-	6346661
 <pause duration="0,5s"/>
 ähm	-	-	-	0:06:40.390000	0:06:43.478000	-	6346663
@@ -1618,7 +1618,7 @@ gut	-	-	-	0:06:40.390000	0:06:43.478000	-	6346665
 verstehen	-	-	-	0:06:40.390000	0:06:43.478000	-	6346666
 Sie	-	-	-	0:06:40.390000	0:06:43.478000	-	6346667
 die	-	-	-	0:06:40.390000	0:06:43.478000	-	6346668
-[Steyrlinger]O	-	-	-	0:06:40.390000	0:06:43.478000	-	6346669
+ORT	ORT	-	-	0:06:40.390000	0:06:43.478000	ORT	6346669
 Mundart	-	-	-	0:06:40.390000	0:06:43.478000	-	6346670
 ?	-	-	-	0:06:40.390000	0:06:43.478000	-	6346671
 </u>
@@ -1685,7 +1685,7 @@ die	-	-	-	0:07:04.251000	0:07:08.021000	-	6326868
 ältesten	-	-	-	0:07:04.251000	0:07:08.021000	-	6326869
 Bewohner	-	-	-	0:07:04.251000	0:07:08.021000	-	6326870
 von	-	-	-	0:07:04.251000	0:07:08.021000	-	6326871
-[Steyrling]O	-	-	-	0:07:04.251000	0:07:08.021000	-	6326872
+ORT	ORT	-	-	0:07:04.251000	0:07:08.021000	ORT	6326872
 ,	-	-	-	0:07:04.251000	0:07:08.021000	-	6326873
 </u>
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:08.021000" end="0:07:08.314000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -2314,7 +2314,7 @@ auf	-	-	-	0:09:44.532000	0:09:47.212000	-	6328225
 die	-	-	-	0:09:44.532000	0:09:47.212000	-	6328227
 Mundart	-	-	-	0:09:44.532000	0:09:47.212000	-	6328228
 in	-	-	-	0:09:44.532000	0:09:47.212000	-	6328229
-[Steyrling]O	-	-	-	0:09:44.532000	0:09:47.212000	-	6328230
+ORT	ORT	-	-	0:09:44.532000	0:09:47.212000	ORT	6328230
 bezogen	-	-	-	0:09:44.532000	0:09:47.212000	-	6328231
 ,	-	-	-	0:09:44.532000	0:09:47.212000	-	6328232
 die	-	-	-	0:09:47.212000	0:09:48.924000	-	6328233
@@ -2466,7 +2466,7 @@ Deutschland	-	-	-	0:10:28.268000	0:10:30.620000	-	6328355
 da	-	-	-	0:10:28.268000	0:10:30.620000	-	6328356
 in	-	-	-	0:10:28.268000	0:10:30.620000	-	6328357
 in	-	-	-	0:10:28.268000	0:10:30.620000	-	6328358
-[Steyrling]O	-	-	-	0:10:30.620000	0:10:31.430000	-	6346675
+ORT	ORT	-	-	0:10:30.620000	0:10:31.430000	ORT	6346675
 ,	-	-	-	0:10:30.620000	0:10:31.430000	-	6346676
 </u>
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:30.620000" end="0:10:31.905000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -2544,7 +2544,7 @@ welche	-	-	-	0:10:41.272000	0:10:45.070000	-	6328414
 Personenkreise	-	-	-	0:10:41.272000	0:10:45.070000	-	6328415
 hier	-	-	-	0:10:41.272000	0:10:45.070000	-	6328416
 in	-	-	-	0:10:41.272000	0:10:45.070000	-	6328417
-[Steyrling]O	-	-	-	0:10:41.272000	0:10:45.070000	-	6328418
+ORT	ORT	-	-	0:10:41.272000	0:10:45.070000	ORT	6328418
 sprechen	-	-	-	0:10:41.272000	0:10:45.070000	-	6328419
 denn	-	-	-	0:10:41.272000	0:10:45.070000	-	6328420
 Mundart	-	-	-	0:10:41.272000	0:10:45.070000	-	6328421
@@ -2692,7 +2692,7 @@ von	-	-	-	0:11:17.852000	0:11:20.685000	-	6328540
 der	-	-	-	0:11:17.852000	0:11:20.685000	-	6328541
 Mundart	-	-	-	0:11:17.852000	0:11:20.685000	-	6328542
 in	-	-	-	0:11:17.852000	0:11:20.685000	-	6328543
-[Steyrling]O	-	-	-	0:11:17.852000	0:11:20.685000	-	6328544
+ORT	ORT	-	-	0:11:17.852000	0:11:20.685000	ORT	6328544
 ?	-	-	-	0:11:17.852000	0:11:20.685000	-	6328545
 </u>
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:20.685000" end="0:11:23.060000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -2830,7 +2830,7 @@ ist	-	-	-	0:11:44.261000	0:11:45.310000	-	6328646
 die	-	-	-	0:11:45.310000	0:11:47.224000	-	6328648
 jetzt	-	-	-	0:11:45.310000	0:11:47.224000	-	6328649
 auf	-	-	-	0:11:45.310000	0:11:47.224000	-	6328650
-[Steyrling]O	-	-	-	0:11:45.310000	0:11:47.224000	-	6328651
+ORT	ORT	-	-	0:11:45.310000	0:11:47.224000	ORT	6328651
 beschränkt	-	-	-	0:11:45.310000	0:11:47.224000	-	6328652
 ist	-	-	-	0:11:45.310000	0:11:47.224000	-	6328653
 ,	-	-	-	0:11:45.310000	0:11:47.224000	-	6328654
@@ -3002,7 +3002,7 @@ aber	-	-	NegC	0:12:18.024000	0:12:20.831000	-	6328788
 jetzt	-	-	NegC	0:12:18.024000	0:12:20.831000	-	6328789
 bezogen	-	-	NegC	0:12:18.024000	0:12:20.831000	-	6328790
 auf	-	-	NegC	0:12:18.024000	0:12:20.831000	-	6328791
-[Steyrling]O	-	-	NegC	0:12:18.024000	0:12:20.831000	-	6328792
+ORT	ORT	-	NegC	0:12:18.024000	0:12:20.831000	ORT	6328792
 mache	-	-	NegC	0:12:18.024000	0:12:20.831000	-	6328793
 ich	-	-	NegC	0:12:18.024000	0:12:20.831000	-	6328794
 mir	-	-	NegC	0:12:18.024000	0:12:20.831000	-	6328795
@@ -3035,7 +3035,7 @@ und	-	-	-	0:12:24.381000	0:12:27.257000	-	6328813
 warum	-	-	-	0:12:24.381000	0:12:27.257000	-	6328814
 genau	-	-	-	0:12:24.381000	0:12:27.257000	-	6328815
 in	-	-	-	0:12:24.381000	0:12:27.257000	-	6328816
-[Steyrling]O	-	-	-	0:12:24.381000	0:12:27.257000	-	6328817
+ORT	ORT	-	-	0:12:24.381000	0:12:27.257000	ORT	6328817
 machen	-	-	-	0:12:24.381000	0:12:27.257000	-	6328818
 Sie	-	-	-	0:12:24.381000	0:12:27.257000	-	6328819
 sich	-	-	-	0:12:24.381000	0:12:27.257000	-	6328820
@@ -3087,7 +3087,7 @@ mhm	-	-	-	0:12:33.267000	0:12:33.772000	-	6328855
 </u>
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:33.267000" end="0:12:38.704000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 in	-	-	-	0:12:33.267000	0:12:33.772000	-	6328852
-[Steyrling]O	-	-	-	0:12:33.267000	0:12:33.772000	-	6328853
+ORT	ORT	-	-	0:12:33.267000	0:12:33.772000	ORT	6328853
 ,	-	-	-	0:12:33.267000	0:12:33.772000	-	6328854
 eigentlich	-	-	-	0:12:33.772000	0:12:34.991000	-	6328857
 so	-	-	-	0:12:33.772000	0:12:34.991000	-	6328858
@@ -3128,7 +3128,7 @@ auch	-	-	-	0:12:42.371000	0:12:45.556000	-	6328890
 eher	-	-	-	0:12:42.371000	0:12:45.556000	-	6328891
 dann	-	-	-	0:12:42.371000	0:12:45.556000	-	6328892
 in	-	-	-	0:12:42.371000	0:12:45.556000	-	6328893
-[Steyrling]O	-	-	-	0:12:42.371000	0:12:45.556000	-	6328894
+ORT	ORT	-	-	0:12:42.371000	0:12:45.556000	ORT	6328894
 oder	-	-	-	0:12:42.371000	0:12:45.556000	-	6328895
 /?	-	-	-	0:12:42.371000	0:12:45.556000	-	6328896
 </u>
@@ -3169,7 +3169,7 @@ wie	-	-	-	0:12:50.649000	0:12:51.799000	-	6328925
 vor	-	-	-	0:12:50.649000	0:12:51.799000	-	6328926
 in	-	-	-	0:12:50.649000	0:12:51.799000	-	6328927
 der	-	-	-	0:12:50.649000	0:12:51.799000	-	6328928
-[Steyrling]O	-	-	-	0:12:50.649000	0:12:51.799000	-	6328929
+ORT	ORT	-	-	0:12:50.649000	0:12:51.799000	ORT	6328929
 .	-	-	-	0:12:50.649000	0:12:51.799000	-	6328930
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:51.799000" end="0:12:52.537000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -5967,7 +5967,7 @@ Ihnen	-	-	-	0:25:20.001000	0:25:21.217000	-	6347285
 Sie	-	-	-	0:25:21.217000	0:25:23.661000	-	6347290
 müssen	-	-	-	0:25:21.217000	0:25:23.661000	-	6347291
 aus	-	-	-	0:25:21.217000	0:25:23.661000	-	6347292
-[Steyrling]O	-	-	-	0:25:21.217000	0:25:23.661000	-	6347293
+ORT	ORT	-	-	0:25:21.217000	0:25:23.661000	ORT	6347293
 kommen"	-	-	-	0:25:21.217000	0:25:23.661000	-	6347294
 oder	-	-	-	0:25:23.661000	0:25:24.129000	-	6347295
 /?	-	-	-	0:25:23.661000	0:25:24.129000	-	6347296
@@ -6005,7 +6005,7 @@ eher	-	-	-	0:25:29.453000	0:25:31.297000	-	6347320
 schwierig	-	-	-	0:25:29.453000	0:25:31.297000	-	6347321
 ,	-	-	-	0:25:29.453000	0:25:31.297000	-	6347322
 <pause duration="0,5s"/>
-[Steyrling]O	-	-	-	0:25:31.297000	0:25:32.955000	-	6347325
+ORT	ORT	-	-	0:25:31.297000	0:25:32.955000	ORT	6347325
 sowieso	-	-	-	0:25:31.297000	0:25:32.955000	-	6347326
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:25:32.955000" end="0:25:33.519000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -6181,7 +6181,7 @@ mhm	-	-	-	0:26:03.613000	0:26:04.314000	-	6347459
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:03.613000" end="0:26:06.596000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 wie	-	-	-	0:26:03.613000	0:26:04.314000	-	6347456
 in	-	-	-	0:26:03.613000	0:26:04.314000	-	6347457
-[Steyrling]O	-	-	-	0:26:03.613000	0:26:04.314000	-	6347458
+ORT	ORT	-	-	0:26:03.613000	0:26:04.314000	ORT	6347458
 ,	-	-	-	0:26:03.613000	0:26:04.314000	-	6347461
 also	-	-	-	0:26:04.314000	0:26:05.603000	-	6347462
 da	-	-	-	0:26:04.314000	0:26:05.603000	-	6347463
@@ -6925,7 +6925,7 @@ gesprochenen	-	-	-	0:29:20.974000	0:29:24.659000	-	6349905
 Deutsch	-	-	-	0:29:20.974000	0:29:24.659000	-	6349906
 hier	-	-	-	0:29:20.974000	0:29:24.659000	-	6349907
 in	-	-	-	0:29:20.974000	0:29:24.659000	-	6349908
-[Steyrling]O	-	-	-	0:29:20.974000	0:29:24.659000	-	6349909
+ORT	ORT	-	-	0:29:20.974000	0:29:24.659000	ORT	6349909
 ,	-	-	-	0:29:20.974000	0:29:24.659000	-	6349910
 die	-	-	-	0:29:24.659000	0:29:27.503000	-	6349911
 Sie	-	-	-	0:29:24.659000	0:29:27.503000	-	6349912
@@ -7024,7 +7024,7 @@ nein	-	-	-	0:29:50.505000	0:29:50.868000	-	6349998
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:29:50.868000" end="0:29:53.837000" persName="Informant EXP9" age_lower="1" age_upper="999">
 so	-	-	-	0:29:50.868000	0:29:52.712000	-	6350000
 richtige	-	-	-	0:29:50.868000	0:29:52.712000	-	6350001
-[Steyrlinger]O	-	-	-	0:29:50.868000	0:29:52.712000	-	6350002
+ORT	ORT	-	-	0:29:50.868000	0:29:52.712000	ORT	6350002
 haben	-	-	-	0:29:50.868000	0:29:52.712000	-	6350003
 sonst	-	-	-	0:29:52.712000	0:29:53.837000	-	6350004
 n/	-	-	-	0:29:52.712000	0:29:53.837000	-	6350005
@@ -7112,7 +7112,7 @@ nicht	-	-	-	0:30:09.181000	0:30:11.411000	-	6350073
 spezifisch	-	-	-	0:30:09.181000	0:30:11.411000	-	6350074
 von	-	-	-	0:30:09.181000	0:30:11.411000	-	6350075
 der	-	-	-	0:30:09.181000	0:30:11.411000	-	6350076
-[Steyrling]O	-	-	-	0:30:09.181000	0:30:11.411000	-	6350077
+ORT	ORT	-	-	0:30:09.181000	0:30:11.411000	ORT	6350077
 kommen	-	-	-	0:30:09.181000	0:30:11.411000	-	6350078
 ,	-	-	-	0:30:09.181000	0:30:11.411000	-	6350079
 sondern	-	-	-	0:30:11.411000	0:30:13.180000	-	6350080
@@ -9539,7 +9539,7 @@ Sie	-	-	-	0:39:27.760000	0:39:29.582000	-	6370209
 gerne	-	-	-	0:39:27.760000	0:39:29.582000	-	6370210
 hier	-	-	-	0:39:27.760000	0:39:29.582000	-	6370211
 in	-	-	-	0:39:27.760000	0:39:29.582000	-	6370212
-[Steyrling]O	-	-	-	0:39:27.760000	0:39:29.582000	-	6370213
+ORT	ORT	-	-	0:39:27.760000	0:39:29.582000	ORT	6370213
 ?	-	-	-	0:39:27.760000	0:39:29.582000	-	6370214
 </u>
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:29.582000" end="0:39:30.481000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -9745,7 +9745,7 @@ Bedingungen	-	-	-	0:40:06.493000	0:40:09.185000	-	6370382
 vorstellen	-	-	-	0:40:06.493000	0:40:09.185000	-	6370383
 ,	-	-	-	0:40:06.493000	0:40:09.185000	-	6370384
 von	-	-	-	0:40:09.185000	0:40:10.720000	-	6370385
-[Steyrling]O	-	-	-	0:40:09.185000	0:40:10.720000	-	6370386
+ORT	ORT	-	-	0:40:09.185000	0:40:10.720000	ORT	6370386
 wegzuziehen	-	-	-	0:40:09.185000	0:40:10.720000	-	6370387
 ?	-	-	-	0:40:09.185000	0:40:10.720000	-	6370388
 </u>
@@ -9923,7 +9923,7 @@ Gruppen	-	-	-	0:40:36.461000	0:40:38.941000	-	6370519
 aktiv	-	-	-	0:40:36.461000	0:40:38.941000	-	6370520
 hier	-	-	-	0:40:36.461000	0:40:38.941000	-	6370521
 in	-	-	-	0:40:36.461000	0:40:38.941000	-	6370522
-[Steyrling]O	-	-	-	0:40:36.461000	0:40:38.941000	-	6370523
+ORT	ORT	-	-	0:40:36.461000	0:40:38.941000	ORT	6370523
 ?	-	-	-	0:40:36.461000	0:40:38.941000	-	6370524
 </u>
 <u who="spk_218" sex="male" age="jung (18-35) -matura" name="Informant 0627" subproject="PP03" standard_competence="2" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:38.941000" end="0:40:47.245000" persName="Informant 0627" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">

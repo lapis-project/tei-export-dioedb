@@ -8190,7 +8190,7 @@ Dorffest	Dorffest	NOUN	-	0:26:29.572000	0:26:32.365000	-	416126
 </u>
 <u who="spk_45" sex="male" age="jung (18-35) -matura" name="Informant 0206" subproject="PP03" standard_competence="3" dialect_competence="7" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:26:32.365000" end="0:26:34.052000" persName="Informant 0206" residence="Neumarkt an der Ybbs" affiliation="PP03" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:32.365000	0:26:34.052000	-	417859
-[Neumarkt]O	Neumarkt	NOUN	NegC	0:26:32.365000	0:26:34.052000	-	406427
+ORT	ORT	NOUN	NegC	0:26:32.365000	0:26:34.052000	ORT	406427
 ist	sein	AUX	NegC	0:26:32.365000	0:26:34.052000	-	408456
 ja	ja	ADV	NegC	0:26:32.365000	0:26:34.052000	-	412219
 auch	auch	ADV	NegC	0:26:32.365000	0:26:34.052000	-	408554

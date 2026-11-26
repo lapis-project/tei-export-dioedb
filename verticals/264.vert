@@ -7263,7 +7263,7 @@ da	-	-	-	0:39:04.933000	0:39:08.500000	-	2702032
 herinnen	-	-	-	0:39:04.933000	0:39:08.500000	-	2701919
 bleiben	-	-	-	0:39:04.933000	0:39:08.500000	-	2702015
 in	-	-	-	0:39:04.933000	0:39:08.500000	-	2702025
-[Steyrling]O	-	-	-	0:39:04.933000	0:39:08.500000	-	2702050
+ORT	ORT	-	-	0:39:04.933000	0:39:08.500000	ORT	2702050
 ?	-	-	-	0:39:04.933000	0:39:08.500000	-	2701962
 </u>
 <u who="spk_200" sex="male" age="jung (18-35) -matura" name="Informant 0624" subproject="PP03" standard_competence="5" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:08.500000" end="0:39:13.400000" persName="Informant 0624" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -7305,7 +7305,7 @@ die	-	-	-	0:39:21.366000	0:39:25.766000	-	2702037
 dann	-	-	-	0:39:21.366000	0:39:25.766000	-	2702012
 hauptsächlich	-	-	-	0:39:21.366000	0:39:25.766000	-	2701965
 aus	-	-	-	0:39:21.366000	0:39:25.766000	-	2702039
-[Steyrling]O	-	-	-	0:39:21.366000	0:39:25.766000	-	2701932
+ORT	ORT	-	-	0:39:21.366000	0:39:25.766000	ORT	2701932
 oder	-	-	-	0:39:21.366000	0:39:25.766000	-	2702013
 aus	-	-	-	0:39:21.366000	0:39:25.766000	-	2702043
 anderen	-	-	-	0:39:21.366000	0:39:25.766000	-	2702000
@@ -7604,7 +7604,7 @@ Sie	-	-	-	0:40:39.520000	0:40:42.600000	-	2711760
 gerne	-	-	-	0:40:39.520000	0:40:42.600000	-	2711866
 hier	-	-	-	0:40:39.520000	0:40:42.600000	-	2711794
 in	-	-	-	0:40:39.520000	0:40:42.600000	-	2711924
-[Steyrling]O	-	-	-	0:40:39.520000	0:40:42.600000	-	2711801
+ORT	ORT	-	-	0:40:39.520000	0:40:42.600000	ORT	2711801
 ?	-	-	-	0:40:39.520000	0:40:42.600000	-	2711877
 </u>
 <u who="spk_200" sex="male" age="jung (18-35) -matura" name="Informant 0624" subproject="PP03" standard_competence="5" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:42.600000" end="0:40:53.480000" persName="Informant 0624" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -7861,7 +7861,7 @@ Bedingungen	-	-	-	0:41:45.646000	0:41:49.980000	-	2712132
 schon	-	-	-	0:41:45.646000	0:41:49.980000	-	2712125
 vorstellen	-	-	-	0:41:45.646000	0:41:49.980000	-	2712093
 von	-	-	-	0:41:45.646000	0:41:49.980000	-	2712070
-[Steyrling]O	-	-	-	0:41:45.646000	0:41:49.980000	-	2712078
+ORT	ORT	-	-	0:41:45.646000	0:41:49.980000	ORT	2712078
 wegzuziehen	-	-	-	0:41:45.646000	0:41:49.980000	-	2712145
 .	-	-	-	0:41:45.646000	0:41:49.980000	-	2712155
 </u>
@@ -7976,7 +7976,7 @@ in	-	-	-	0:42:23.093000	0:42:26.093000	-	2712252
 im	-	-	-	0:42:23.093000	0:42:26.093000	-	2712288
 Ort	-	-	-	0:42:23.093000	0:42:26.093000	-	2712314
 in	-	-	-	0:42:23.093000	0:42:26.093000	-	2712348
-[Steyrling]O	-	-	-	0:42:23.093000	0:42:26.093000	-	2712342
+ORT	ORT	-	-	0:42:23.093000	0:42:26.093000	ORT	2712342
 ?	-	-	-	0:42:23.093000	0:42:26.093000	-	2712260
 </u>
 <u who="spk_200" sex="male" age="jung (18-35) -matura" name="Informant 0624" subproject="PP03" standard_competence="5" dialect_competence="6" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:26.093000" end="0:42:28.520000" persName="Informant 0624" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -8062,7 +8062,7 @@ ziemlich	-	-	-	0:42:45.553000	0:42:49.173000	-	2712338
 viele	-	-	-	0:42:45.553000	0:42:49.173000	-	2712198
 Vereine	-	-	-	0:42:45.553000	0:42:49.173000	-	2712188
 in	-	-	-	0:42:45.553000	0:42:49.173000	-	2712291
-[Steyrling]O	-	-	-	0:42:45.553000	0:42:49.173000	-	2712292
+ORT	ORT	-	-	0:42:45.553000	0:42:49.173000	ORT	2712292
 .	-	-	-	0:42:45.553000	0:42:49.173000	-	2712395
 <pause duration="0,6s"/>
 gibt	-	-	-	0:42:49.173000	0:42:51.460000	-	2712448

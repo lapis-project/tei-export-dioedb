@@ -1739,7 +1739,7 @@ wieder	-	-	-	0:07:16.212000	0:07:18.046000	-	1708573
 sagen	sagen	VERB	-	0:07:18.046000	0:07:18.846000	-	1707260
 wir	ich	PRON	-	0:07:18.046000	0:07:18.846000	-	1702349
 ,	-	-	-	0:07:18.046000	0:07:18.846000	-	1709493
-[Hinterstoder]O	Hinterstoder	NOUN	-	0:07:18.846000	0:07:20.679000	-	1704051
+ORT	ORT	NOUN	-	0:07:18.846000	0:07:20.679000	ORT	1704051
 hat	haben	AUX	-	0:07:18.846000	0:07:20.679000	-	1703306
 einen	ein	DET	-	0:07:18.846000	0:07:20.679000	-	1710121
 anderen	ander	ADJ	-	0:07:18.846000	0:07:20.679000	-	1707240
@@ -1750,7 +1750,7 @@ aha	aha	PROPN	-	0:07:20.679000	0:07:21.246000	-	1701604
 <u who="spk_188" sex="female" age="Alt (65+)" name="Informant 0612" subproject="PP03" standard_competence="6" dialect_competence="5" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:20.679000" end="0:07:23.212000" persName="Informant 0612" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 Dialekt	Dialekt	NOUN	-	0:07:20.679000	0:07:21.246000	-	1705501
 ,	-	-	-	0:07:20.679000	0:07:21.246000	-	1707144
-[Grünau]O	Grünau	PROPN	-	0:07:21.246000	0:07:23.212000	-	1704926
+ORT	ORT	PROPN	-	0:07:21.246000	0:07:23.212000	ORT	1704926
 hat	haben	AUX	-	0:07:21.246000	0:07:23.212000	-	1707281
 einen	ein	DET	-	0:07:21.246000	0:07:23.212000	-	1704125
 anderen	ander	ADJ	-	0:07:21.246000	0:07:23.212000	-	1704612
@@ -3187,7 +3187,7 @@ ach	-	-	-	0:13:26.525000	0:13:28.719000	-	1700270
 so	-	-	-	0:13:26.525000	0:13:28.719000	-	1705797
 nein	-	-	-	0:13:26.525000	0:13:28.719000	-	1701499
 in	-	-	-	0:13:26.525000	0:13:28.719000	-	1706763
-[Steyrling]O!	-	-	-	0:13:26.525000	0:13:28.719000	-	1710452
+ORT	ORT	-	-	0:13:26.525000	0:13:28.719000	ORT	1710452
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:13:26.525000" end="0:13:28.719000" persName="Informant EXP9" age_lower="1" age_upper="999">
 oder	oder	CCONJ	-	0:13:26.525000	0:13:28.719000	-	1701648
@@ -3774,7 +3774,7 @@ zum	zum	ADP	-	0:15:54.985000	0:15:56.639000	-	1708286
 Beispiel	Beispiel	NOUN	-	0:15:54.985000	0:15:56.639000	-	1704447
 ,	-	-	-	0:15:54.985000	0:15:56.639000	-	1702955
 in	-	-	-	0:15:56.639000	0:15:58.505000	-	1702112
-[Kirchdorf]O	-	-	-	0:15:56.639000	0:15:58.505000	-	1707305
+ORT	ORT	-	-	0:15:56.639000	0:15:58.505000	ORT	1707305
 auf	-	-	-	0:15:56.639000	0:15:58.505000	-	1704773
 *Amt*	-	-	-	0:15:56.639000	0:15:58.505000	-	1708219
 gehe	-	-	-	0:15:56.639000	0:15:58.505000	-	1703962
@@ -5593,7 +5593,7 @@ ist	sein	AUX	-	0:23:54.696000	0:23:58.982000	-	1710276
 halt	halt	ADV	-	0:23:54.696000	0:23:58.982000	-	1708484
 ein	einen	DET	-	0:23:54.696000	0:23:58.982000	-	1702375
 alter	altern	ADJ	-	0:23:54.696000	0:23:58.982000	-	1703699
-[Ursteyrlinger]O	Ursteyrlinger	NOUN	-	0:23:54.696000	0:23:58.982000	-	1708985
+ORT	ORT	NOUN	-	0:23:54.696000	0:23:58.982000	ORT	1708985
 .	-	-	-	0:23:54.696000	0:23:58.982000	-	1709722
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:23:58.982000" end="0:23:59.346000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -5732,7 +5732,7 @@ Steyrling	Steyrling	PROPN	-	0:24:29.775000	0:24:30.503000	-	1701507
 nein	nein	PART	-	0:24:30.503000	0:24:31.553000	-	1708584
 ,	-	-	-	0:24:30.503000	0:24:31.553000	-	1710039
 aus	aus	ADP	-	0:24:30.503000	0:24:31.553000	-	1700278
-[Steyrling]O	Steyrling	PROPN	-	0:24:30.503000	0:24:31.553000	-	1702457
+ORT	ORT	PROPN	-	0:24:30.503000	0:24:31.553000	ORT	1702457
 ,	-	-	-	0:24:30.503000	0:24:31.553000	-	1704111
 ich	ich	PRON	-	0:24:31.553000	0:24:33.989000	-	1706319
 bin	sein	AUX	-	0:24:31.553000	0:24:33.989000	-	1708237
@@ -5829,7 +5829,7 @@ haben	haben	AUX	-	0:24:55.103000	0:24:56.989000	-	1700846
 sie	ich	PRON	-	0:24:55.103000	0:24:56.989000	-	1705444
 früher	früh	ADJ	-	0:24:55.103000	0:24:56.989000	-	1707992
 in	in	ADP	-	0:24:55.103000	0:24:56.989000	-	1705380
-[Steyrling]O	Steyrling	PROPN	-	0:24:55.103000	0:24:56.989000	-	1704999
+ORT	ORT	PROPN	-	0:24:55.103000	0:24:56.989000	ORT	1704999
 .	-	-	-	0:24:55.103000	0:24:56.989000	-	1702574
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:24:56.989000" end="0:24:57.253000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -5838,7 +5838,7 @@ aha	aha	PROPN	-	0:24:56.989000	0:24:57.253000	-	1700628
 </u>
 <u who="spk_188" sex="female" age="Alt (65+)" name="Informant 0612" subproject="PP03" standard_competence="6" dialect_competence="5" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:57.253000" end="0:24:59.703000" persName="Informant 0612" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 (weil)	-	-	-	0:24:57.253000	0:24:59.703000	-	1710150
-[Steyrling]O	-	-	-	0:24:57.253000	0:24:59.703000	-	1703654
+ORT	ORT	-	-	0:24:57.253000	0:24:59.703000	ORT	1703654
 ist	-	-	-	0:24:57.253000	0:24:59.703000	-	1709798
 ähm	-	-	-	0:24:57.253000	0:24:59.703000	-	1707683
 sitzt	-	-	-	0:24:57.253000	0:24:59.703000	-	1704399
@@ -10552,7 +10552,7 @@ oder	oder	CCONJ	-	0:44:50.108000	0:44:50.879000	-	1709369
 </u>
 <u who="spk_188" sex="female" age="Alt (65+)" name="Informant 0612" subproject="PP03" standard_competence="6" dialect_competence="5" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:44:50.879000" end="0:44:52.087000" persName="Informant 0612" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 in	in	ADP	-	0:44:50.879000	0:44:52.087000	-	1708728
-[Filzmoos]O	Filzmoos	PROPN	-	0:44:50.879000	0:44:52.087000	-	1704883
+ORT	ORT	PROPN	-	0:44:50.879000	0:44:52.087000	ORT	1704883
 ,	-	-	-	0:44:50.879000	0:44:52.087000	-	1702142
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:44:52.087000" end="0:44:52.801000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -10771,7 +10771,7 @@ sagen	sagen	VERB	-	0:45:42.586000	0:45:43.515000	-	1705232
 ,	-	-	-	0:45:42.586000	0:45:43.515000	-	1703386
 </u>
 <u who="spk_188" sex="female" age="Alt (65+)" name="Informant 0612" subproject="PP03" standard_competence="6" dialect_competence="5" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:43.515000" end="0:45:46.136000" persName="Informant 0612" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
-[Steyrling]O	Steyrling	PROPN	-	0:45:43.515000	0:45:46.136000	-	1702510
+ORT	ORT	PROPN	-	0:45:43.515000	0:45:46.136000	ORT	1702510
 hat	haben	AUX	-	0:45:43.515000	0:45:46.136000	-	1707714
 keinen	kein	DET	-	0:45:43.515000	0:45:46.136000	-	1702489
 ausgesprochenen	ausgesprochen	ADJ	-	0:45:43.515000	0:45:46.136000	-	1701212
@@ -11979,7 +11979,7 @@ mit	mit	ADP	-	0:50:06.597000	0:50:09.384000	-	1708981
 dem	der	DET	-	0:50:06.597000	0:50:09.384000	-	1704686
 Bus	Bus	NOUN	-	0:50:06.597000	0:50:09.384000	-	1703804
 nach	nach	ADP	-	0:50:06.597000	0:50:09.384000	-	1706945
-[Kirchdorf]O	Kirchdorf	PROPN	-	0:50:06.597000	0:50:09.384000	-	1705812
+ORT	ORT	PROPN	-	0:50:06.597000	0:50:09.384000	ORT	1705812
 fahren	fahren	VERB	-	0:50:06.597000	0:50:09.384000	-	1700420
 ,	-	-	-	0:50:06.597000	0:50:09.384000	-	1704551
 wenn	wenn	SCONJ	-	0:50:09.384000	0:50:10.077000	-	1705193

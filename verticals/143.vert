@@ -1897,7 +1897,7 @@ genau	genau	ADJ	-	0:05:42.605000	0:05:43.265000	-	1687735
 <u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:42.605000" end="0:05:43.665000" persName="Informant EXP5" age_lower="1" age_upper="999">
 er	-	SPACE	-	0:05:42.605000	0:05:43.265000	-	1683173
 von	von	ADP	-	0:05:42.605000	0:05:43.265000	-	1681503
-[Raggal]O	Raggal	PROPN	-	0:05:43.265000	0:05:43.665000	-	1684397
+ORT	ORT	PROPN	-	0:05:43.265000	0:05:43.665000	ORT	1684397
 ,	-	-	-	0:05:43.265000	0:05:43.665000	-	1683656
 </u>
 <u who="spk_129" sex="male" age="Alt (65+)" name="Informant 0528" subproject="PP03" standard_competence="6" dialect_competence="7" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:43.665000" end="0:05:44.112000" persName="Informant 0528" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" affiliation="PP03" age_lower="65" age_upper="999">

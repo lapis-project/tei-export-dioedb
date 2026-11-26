@@ -7302,7 +7302,7 @@ nix	-	-	-	0:48:34.551000	0:48:35.311000	-	3631329
 Sie	-	-	-	0:48:35.311000	0:48:35.798000	-	3631331
 sind	-	-	-	0:48:35.311000	0:48:35.798000	-	3631332
 ja	-	-	-	0:48:35.311000	0:48:35.798000	-	3631333
-[GRAZ]O	-	-	-	0:48:35.311000	0:48:35.798000	-	3631334
+ORT	ORT	-	-	0:48:35.311000	0:48:35.798000	ORT	3631334
 ORT	ORT	-	-	0:48:35.798000	0:48:36.278000	ORT	3636470
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:48:36.278000" end="0:48:36.965000" persName="Informant EXP12" age_lower="1" age_upper="999">

@@ -1762,7 +1762,7 @@ mhm	mhm	PROPN	-	0:06:53.992000	0:06:54.352000	-	1411940
 warum	-	-	-	0:06:54.352000	0:06:56.919000	-	1413481
 nicht	-	-	-	0:06:54.352000	0:06:56.919000	-	1424079
 in	-	-	-	0:06:54.352000	0:06:56.919000	-	1429276
-[Tux]O?	-	-	-	0:06:54.352000	0:06:56.919000	-	1412368
+ORT	ORT	-	-	0:06:54.352000	0:06:56.919000	ORT	1412368
 </u>
 <u who="spk_481" sex="female" age="jung (18-35) -matura" name="Informant 0298" subproject="PP03" standard_competence="UNK" dialect_competence="7" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:06:56.919000" end="0:07:02.159000" persName="Informant 0298" residence="Tux, Schwaz, Tirol, 6293, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>

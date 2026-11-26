@@ -201,7 +201,7 @@ ich	ich	PRON	-	0:00:46.446000	0:00:48.766000	-	543683
 war	sein	AUX	-	0:00:46.446000	0:00:48.766000	-	545645
 durchgehend	durchgehen	ADJ	-	0:00:46.446000	0:00:48.766000	-	543198
 in	in	ADP	-	0:00:46.446000	0:00:48.766000	-	545580
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:00:46.446000	0:00:48.766000	-	544772
+ORT	ORT	PROPN	-	0:00:46.446000	0:00:48.766000	ORT	544772
 .	-	-	-	0:00:46.446000	0:00:48.766000	-	542617
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:48.766000" end="0:00:51.186000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -6674,7 +6674,7 @@ momentan	momentan	ADJ	-	0:32:17.848000	0:32:19.848000	-	541785
 <pause duration="1,5s"/>
 gehen	gehen	VERB	-	0:32:19.848000	0:32:21.575000	-	545232
 von	von	ADP	-	0:32:19.848000	0:32:21.575000	-	545810
-[Gaweinstal]O	Gaweinstal	NOUN	-	0:32:19.848000	0:32:21.575000	-	543641
+ORT	ORT	NOUN	-	0:32:19.848000	0:32:21.575000	ORT	543641
 aus	aus	ADP	-	0:32:19.848000	0:32:21.575000	-	541872
 ja	ja	ADV	-	0:32:19.848000	0:32:21.575000	-	542014
 .	-	-	-	0:32:19.848000	0:32:21.575000	-	541429
@@ -6705,8 +6705,8 @@ also	also	ADV	-	0:32:26.375000	0:32:27.688000	-	544324
 eher	eher	ADV	-	0:32:26.375000	0:32:27.688000	-	542221
 wenig	wenig	PRON	-	0:32:26.375000	0:32:27.688000	-	545260
 in	in	ADP	-	0:32:26.375000	0:32:27.688000	-	546724
-[Gaweins=	Gaweinstal	PROPN	-	0:32:26.375000	0:32:27.688000	-	543396
-tal]O	-	SPACE	-	0:32:27.688000	0:32:28.475000	-	542646
+ORT	ORT	PROPN	-	0:32:26.375000	0:32:27.688000	ORT	543396
+ORT	ORT	SPACE	-	0:32:27.688000	0:32:28.475000	ORT	542646
 .	-	-	-	0:32:27.688000	0:32:28.475000	-	546758
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:27.688000" end="0:32:32.282000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -6755,7 +6755,7 @@ aber	aber	ADV	-	0:32:37.595000	0:32:43.922000	-	545002
 nicht	nicht	PART	-	0:32:37.595000	0:32:43.922000	-	542237
 direkt	direkt	ADJ	-	0:32:37.595000	0:32:43.922000	-	545589
 aus	aus	ADP	-	0:32:37.595000	0:32:43.922000	-	543616
-[Gaweinstal]O	Gaweinstal	PROPN	-	0:32:37.595000	0:32:43.922000	-	546368
+ORT	ORT	PROPN	-	0:32:37.595000	0:32:43.922000	ORT	546368
 ,	-	-	-	0:32:37.595000	0:32:43.922000	-	541527
 auch	auch	ADV	-	0:32:43.922000	0:32:45.002000	-	541782
 aus	aus	ADP	-	0:32:43.922000	0:32:45.002000	-	544428
@@ -6773,7 +6773,7 @@ nicht	nicht	PART	-	0:32:45.922000	0:32:48.542000	-	540993
 nicht	nicht	PART	-	0:32:45.922000	0:32:48.542000	-	543192
 alle	all	PRON	-	0:32:45.922000	0:32:48.542000	-	541333
 aus	aus	ADP	-	0:32:45.922000	0:32:48.542000	-	540988
-[Gaweinstal]O	Gaweinstal	NOUN	-	0:32:45.922000	0:32:48.542000	-	543617
+ORT	ORT	NOUN	-	0:32:45.922000	0:32:48.542000	ORT	543617
 .	-	-	-	0:32:45.922000	0:32:48.542000	-	543495
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:32:48.542000" end="0:32:49.348000" persName="Informant EXP9" age_lower="1" age_upper="999">
@@ -7035,8 +7035,8 @@ ich	ich	PRON	-	0:33:44.615000	0:33:45.741000	-	542998
 wohne	wohnen	VERB	-	0:33:44.615000	0:33:45.741000	-	546387
 gerne	gerne	ADV	-	0:33:44.615000	0:33:45.741000	-	546327
 in	in	ADP	-	0:33:44.615000	0:33:45.741000	-	541174
-[Gaweins=	Gaweinstal	PROPN	-	0:33:44.615000	0:33:45.741000	-	543059
-tal]O	-	SPACE	-	0:33:45.741000	0:33:46.035000	-	544703
+ORT	ORT	PROPN	-	0:33:44.615000	0:33:45.741000	ORT	543059
+ORT	ORT	SPACE	-	0:33:45.741000	0:33:46.035000	ORT	544703
 .	-	-	-	0:33:45.741000	0:33:46.035000	-	546445
 </u>
 <u who="spk_624" sex="female" age="UNK" name="Informant EXP9" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:33:45.741000" end="0:33:46.035000" persName="Informant EXP9" age_lower="1" age_upper="999">

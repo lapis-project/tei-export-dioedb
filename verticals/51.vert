@@ -4894,7 +4894,7 @@ gesagt	sagen	VERB	-	0:16:45.205000	0:16:45.790000	-	588379
 ,	-	-	-	0:16:45.205000	0:16:45.790000	-	588497
 sie	ich	PRON	KONJ	0:16:45.790000	0:16:47.118000	-	595351
 hätten	haben	AUX	KONJ	0:16:45.790000	0:16:47.118000	-	589960
-[Ruppersdorf]O	Ruppersdorf	PROPN	KONJ	0:16:45.790000	0:16:47.118000	-	594561
+ORT	ORT	PROPN	KONJ	0:16:45.790000	0:16:47.118000	ORT	594561
 nehmen	nehmen	VERB	KONJ	0:16:45.790000	0:16:47.118000	-	587668
 sollen	sollen	VERB	KONJ	0:16:45.790000	0:16:47.118000	-	585755
 .	-	-	-	0:16:45.790000	0:16:47.118000	-	587109
@@ -4988,7 +4988,7 @@ das	der	PRON	-	0:17:05.431000	0:17:06.877000	-	592225
 ist	sein	AUX	-	0:17:05.431000	0:17:06.877000	-	593584
 so	so	ADV	-	0:17:05.431000	0:17:06.877000	-	597479
 in	in	ADP	-	0:17:05.431000	0:17:06.877000	-	591159
-[Ruppersdorf]O	Ruppersdorf	PROPN	-	0:17:05.431000	0:17:06.877000	-	597852
+ORT	ORT	PROPN	-	0:17:05.431000	0:17:06.877000	ORT	597852
 .	-	-	-	0:17:05.431000	0:17:06.877000	-	591252
 <pause duration="0,6s"/>
 vor	vor	ADP	-	0:17:06.877000	0:17:08.631000	-	593236
@@ -5003,7 +5003,7 @@ dann	-	-	-	0:17:08.631000	0:17:09.915000	-	591529
 *bist*	-	-	-	0:17:08.631000	0:17:09.915000	-	594802
 kein	-	-	-	0:17:08.631000	0:17:09.915000	-	592558
 richtiger	-	-	-	0:17:08.631000	0:17:09.915000	-	592205
-[Ruppersdorfer]S	-	-	-	0:17:08.631000	0:17:09.915000	-	592950
+SONSTIGE	SONSTIGE	-	-	0:17:08.631000	0:17:09.915000	SONSTIGE	592950
 </u>
 <u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" subproject="PP03" standard_competence="5" dialect_competence="7" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:09.920000" end="0:17:10.586000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ach	ach	X	-	0:17:09.920000	0:17:10.586000	-	589393

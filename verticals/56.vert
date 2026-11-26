@@ -51,7 +51,7 @@ sind	sein	AUX	-	0:00:16.033000	0:00:19.424000	-	634729
 dann	dann	ADV	-	0:00:16.033000	0:00:19.424000	-	639022
 auch	auch	ADV	-	0:00:16.033000	0:00:19.424000	-	635383
 in	in	ADP	-	0:00:16.033000	0:00:19.424000	-	640229
-[Taufkichen]O	Taufkichen	NOUN	-	0:00:16.033000	0:00:19.424000	-	639018
+ORT	ORT	NOUN	-	0:00:16.033000	0:00:19.424000	ORT	639018
 aufgewachsen	aufwachsen	VERB	-	0:00:16.033000	0:00:19.424000	-	638384
 ?	-	-	-	0:00:16.033000	0:00:19.424000	-	637054
 </u>
@@ -90,7 +90,7 @@ woanders	woanders	ADV	-	0:00:24.970000	0:00:26.841000	-	637001
 .	-	-	-	0:00:24.970000	0:00:26.841000	-	643257
 immer	immer	ADV	-	0:00:26.841000	0:00:28.033000	-	641572
 in	in	ADP	-	0:00:26.841000	0:00:28.033000	-	637074
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:00:26.841000	0:00:28.033000	-	635885
+ORT	ORT	NOUN	-	0:00:26.841000	0:00:28.033000	ORT	635885
 .	-	-	-	0:00:26.841000	0:00:28.033000	-	640488
 </u>
 <u who="spk_626" sex="male" age="UNK" name="Informant EXP11" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:28.033000" end="0:00:29.816000" persName="Informant EXP11" age_lower="1" age_upper="999">
@@ -822,7 +822,7 @@ die	der	PRON	-	0:03:26.688000	0:03:28.544000	-	639897
 auch	auch	ADV	-	0:03:26.688000	0:03:28.544000	-	643294
 noch	noch	ADV	-	0:03:26.688000	0:03:28.544000	-	635394
 in	in	ADP	-	0:03:26.688000	0:03:28.544000	-	638814
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:03:26.688000	0:03:28.544000	-	641482
+ORT	ORT	NOUN	-	0:03:26.688000	0:03:28.544000	ORT	641482
 ?	-	-	-	0:03:26.688000	0:03:28.544000	-	639244
 </u>
 <u who="spk_178" sex="male" age="Alt (65+)" name="Informant 0478" subproject="PP03" standard_competence="5" dialect_competence="7" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:03:28.544000" end="0:03:39.666000" persName="Informant 0478" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -1299,7 +1299,7 @@ skizzieren	skizzieren	VERB	-	0:05:31.077000	0:05:32.238000	-	641933
 naja	naja	INTJ	-	0:05:32.238000	0:05:36.322000	-	641229
 ,	-	-	-	0:05:32.238000	0:05:36.322000	-	635213
 in	in	ADP	-	0:05:32.238000	0:05:36.322000	-	636438
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:05:32.238000	0:05:36.322000	-	643720
+ORT	ORT	NOUN	-	0:05:32.238000	0:05:36.322000	ORT	643720
 mit	mit	ADP	-	0:05:32.238000	0:05:36.322000	-	639676
 Nachbarn	Nachbar	NOUN	-	0:05:32.238000	0:05:36.322000	-	638526
 und	und	CCONJ	-	0:05:32.238000	0:05:36.322000	-	643441
@@ -1333,7 +1333,7 @@ mir	sich	PRON	-	0:05:44.244000	0:05:46.194000	-	643068
 aus	aus	ADP	-	0:05:44.244000	0:05:46.194000	-	642116
 aus	aus	ADP	-	0:05:44.244000	0:05:46.194000	-	635292
 dem	der	DET	-	0:05:44.244000	0:05:46.194000	-	638155
-[Ruhrgebiet]O	Ruhrgebiet	NOUN	-	0:05:44.244000	0:05:46.194000	-	635049
+ORT	ORT	NOUN	-	0:05:44.244000	0:05:46.194000	ORT	635049
 gekommen	kommen	VERB	-	0:05:44.244000	0:05:46.194000	-	636212
 sind	sein	AUX	-	0:05:44.244000	0:05:46.194000	-	637635
 ,	-	-	-	0:05:44.244000	0:05:46.194000	-	636934
@@ -1355,7 +1355,7 @@ haben	haben	AUX	-	0:05:48.005000	0:05:50.499000	-	643745
 Kundschaft	Kundschaft	NOUN	-	0:05:48.005000	0:05:50.499000	-	643528
 aus	aus	ADP	-	0:05:48.005000	0:05:50.499000	-	644020
 dem	der	DET	-	0:05:48.005000	0:05:50.499000	-	638534
-[Ruhrgebiet]O	Ruhrgebiet	NOUN	-	0:05:48.005000	0:05:50.499000	-	639061
+ORT	ORT	NOUN	-	0:05:48.005000	0:05:50.499000	ORT	639061
 auch	auch	ADV	-	0:05:48.005000	0:05:50.499000	-	636885
 gehabt	haben	AUX	-	0:05:48.005000	0:05:50.499000	-	641978
 ?	-	-	-	0:05:48.005000	0:05:50.499000	-	642612
@@ -1407,7 +1407,7 @@ aus	aus	ADP	-	0:05:59.605000	0:06:01.399000	-	640335
 dem	der	DET	-	0:05:59.605000	0:06:01.399000	-	641155
 aus	aus	ADP	-	0:05:59.605000	0:06:01.399000	-	640050
 dem	der	DET	-	0:05:59.605000	0:06:01.399000	-	637542
-[Ruhrgebiet]O	Ruhrgebiet	NOUN	-	0:05:59.605000	0:06:01.399000	-	636925
+ORT	ORT	NOUN	-	0:05:59.605000	0:06:01.399000	ORT	636925
 zum	zum	ADP	-	0:05:59.605000	0:06:01.399000	-	638422
 Beispiel	Beispiel	NOUN	-	0:05:59.605000	0:06:01.399000	-	640512
 .	-	-	-	0:05:59.605000	0:06:01.399000	-	639987
@@ -1443,7 +1443,7 @@ die	der	DET	-	0:06:05.960000	0:06:08.488000	-	635549
 alteingesessenen	alteingesessen	ADJ	-	0:06:05.960000	0:06:08.488000	-	635030
 Bewohner	Bewohner	NOUN	-	0:06:05.960000	0:06:08.488000	-	641505
 in	in	ADP	-	0:06:05.960000	0:06:08.488000	-	641314
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:06:05.960000	0:06:08.488000	-	639218
+ORT	ORT	NOUN	-	0:06:05.960000	0:06:08.488000	ORT	639218
 sprechen	sprechen	VERB	-	0:06:05.960000	0:06:08.488000	-	636967
 ?	-	-	-	0:06:05.960000	0:06:08.488000	-	641494
 wie	wie	ADV	-	0:06:08.488000	0:06:09.644000	-	640093
@@ -1509,12 +1509,12 @@ es	ich	PRON	-	0:06:23.127000	0:06:24.821000	-	641658
 sowas	sowas	PROPN	-	0:06:23.127000	0:06:24.821000	-	640166
 wie	wie	CCONJ	-	0:06:23.127000	0:06:24.821000	-	636416
 einen	ein	DET	-	0:06:23.127000	0:06:24.821000	-	639778
-[taufkirchner]O	taufkirchner	ADJ	-	0:06:23.127000	0:06:24.821000	-	637006
+ORT	ORT	ADJ	-	0:06:23.127000	0:06:24.821000	ORT	637006
 Dialekt	Dialekt	NOUN	-	0:06:23.127000	0:06:24.821000	-	640322
 gibt	geben	VERB	-	0:06:23.127000	0:06:24.821000	-	641831
 ,	-	-	-	0:06:23.127000	0:06:24.821000	-	641205
 oder	oder	CCONJ	-	0:06:24.821000	0:06:25.727000	-	639517
-[Taufkirchnerisch]O	Taufkirchnerisch	NOUN	-	0:06:24.821000	0:06:25.727000	-	635347
+ORT	ORT	NOUN	-	0:06:24.821000	0:06:25.727000	ORT	635347
 ,	-	-	-	0:06:24.821000	0:06:25.727000	-	639447
 oder	oder	CCONJ	-	0:06:25.727000	0:06:27.360000	-	642031
 ist	sein	AUX	-	0:06:25.727000	0:06:27.360000	-	643497
@@ -1541,10 +1541,10 @@ wenn	wenn	SCONJ	-	0:06:30.155000	0:06:32.488000	-	636479
 wir	ich	PRON	-	0:06:30.155000	0:06:32.488000	-	636819
 zum	zum	ADP	-	0:06:30.155000	0:06:32.488000	-	639345
 Beispiel	Beispiel	NOUN	-	0:06:30.155000	0:06:32.488000	-	643550
-[Sankt	Sankt	PROPN	-	0:06:30.155000	0:06:32.488000	-	639591
-Florian	Florian	PROPN	-	0:06:30.155000	0:06:32.488000	-	642281
-am	am	ADP	-	0:06:30.155000	0:06:32.488000	-	642061
-Inn]O	Inn	NOUN	-	0:06:30.155000	0:06:32.488000	-	637488
+ORT	ORT	PROPN	-	0:06:30.155000	0:06:32.488000	ORT	639591
+ORT	ORT	PROPN	-	0:06:30.155000	0:06:32.488000	ORT	642281
+ORT	ORT	ADP	-	0:06:30.155000	0:06:32.488000	ORT	642061
+ORT	ORT	NOUN	-	0:06:30.155000	0:06:32.488000	ORT	637488
 hernehmen	hernehmen	VERB	-	0:06:30.155000	0:06:32.488000	-	639752
 ,	-	-	-	0:06:30.155000	0:06:32.488000	-	640679
 <pause duration="0,9s"/>
@@ -1554,7 +1554,7 @@ ist	sein	AUX	-	0:06:32.488000	0:06:35.405000	-	640822
 zwischen	zwischen	ADP	-	0:06:32.488000	0:06:35.405000	-	634739
 uns	sich	PRON	-	0:06:32.488000	0:06:35.405000	-	637330
 und	und	CCONJ	-	0:06:32.488000	0:06:35.405000	-	643213
-[Schärding]O	Schärding	NOUN	-	0:06:32.488000	0:06:35.405000	-	638474
+ORT	ORT	NOUN	-	0:06:32.488000	0:06:35.405000	ORT	638474
 ,	-	-	-	0:06:32.488000	0:06:35.405000	-	635650
 </u>
 <u who="spk_626" sex="male" age="UNK" name="Informant EXP11" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:35.405000" end="0:06:35.755000" persName="Informant EXP11" age_lower="1" age_upper="999">
@@ -1568,7 +1568,7 @@ ein	einen	DET	-	0:06:35.755000	0:06:39.494000	-	643965
 bissel	bissel	NOUN	DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:06:35.755000	0:06:39.494000	-	637163
 vornehmer	vornehm	ADJ	-	0:06:35.755000	0:06:39.494000	-	639406
 als	als	ADP	-	0:06:35.755000	0:06:39.494000	-	637178
-[Taufkirchner]O	Taufkirchner	NOUN	-	0:06:35.755000	0:06:39.494000	-	639311
+ORT	ORT	NOUN	-	0:06:35.755000	0:06:39.494000	ORT	639311
 .	-	-	-	0:06:35.755000	0:06:39.494000	-	636697
 </u>
 <u who="spk_626" sex="male" age="UNK" name="Informant EXP11" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:06:39.494000" end="0:06:40.049000" persName="Informant EXP11" age_lower="1" age_upper="999">
@@ -1619,7 +1619,7 @@ mhm	mhm	PROPN	-	0:06:48.971000	0:06:49.355000	-	643530
 das	der	PRON	-	0:06:49.355000	0:06:51.144000	-	634752
 sagen	sagen	VERB	-	0:06:49.355000	0:06:51.144000	-	636620
 die	der	DET	-	0:06:49.355000	0:06:51.144000	-	639116
-[Florianinger]O	Florianinger	NOUN	-	0:06:49.355000	0:06:51.144000	-	638554
+ORT	ORT	NOUN	-	0:06:49.355000	0:06:51.144000	ORT	638554
 nicht	nicht	PART	-	0:06:49.355000	0:06:51.144000	-	638503
 .	-	-	-	0:06:49.355000	0:06:51.144000	-	640012
 <pause duration="0,5s"/>
@@ -1713,7 +1713,7 @@ ist	sein	AUX	-	0:07:08.777000	0:07:09.999000	-	638576
 .	-	-	-	0:07:08.777000	0:07:09.999000	-	641243
 <pause duration="0,7s"/>
 in	-	-	-	0:07:09.999000	0:07:14.071000	-	643516
-[Taufkirchen]O	-	-	-	0:07:09.999000	0:07:14.071000	-	642483
+ORT	ORT	-	-	0:07:09.999000	0:07:14.071000	ORT	642483
 sagt	-	-	-	0:07:09.999000	0:07:14.071000	-	639892
 man	-	-	-	0:07:09.999000	0:07:14.071000	-	637236
 fast	-	-	-	0:07:09.999000	0:07:14.071000	-	639543
@@ -1760,7 +1760,7 @@ für	für	ADP	-	0:07:20.010000	0:07:23.805000	-	642488
 die	der	DET	-	0:07:20.010000	0:07:23.805000	-	640461
 Sprache	Sprache	NOUN	-	0:07:20.010000	0:07:23.805000	-	641690
 in	in	ADP	-	0:07:20.010000	0:07:23.805000	-	641333
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:07:20.010000	0:07:23.805000	-	640432
+ORT	ORT	NOUN	-	0:07:20.010000	0:07:23.805000	ORT	640432
 .	-	-	-	0:07:20.010000	0:07:23.805000	-	643471
 sagen	sagen	VERB	-	0:07:23.805000	0:07:24.766000	-	643119
 wir	ich	PRON	-	0:07:23.805000	0:07:24.766000	-	635978
@@ -1793,7 +1793,7 @@ verwenden	verwenden	VERB	-	0:07:28.005000	0:07:30.005000	-	641429
 (da)	da	ADV	-	0:07:28.005000	0:07:30.005000	-	642251
 das	der	DET	-	0:07:28.005000	0:07:30.005000	-	640966
 Wort	Wort	NOUN	-	0:07:28.005000	0:07:30.005000	-	635562
-[Taufkirchnerisch]O	Taufkirchnerisch	NOUN	-	0:07:28.005000	0:07:30.005000	-	635306
+ORT	ORT	NOUN	-	0:07:28.005000	0:07:30.005000	ORT	635306
 ?	-	-	-	0:07:28.005000	0:07:30.005000	-	638436
 oder	oder	CCONJ	-	0:07:30.005000	0:07:30.849000	-	642791
 gibt	geben	VERB	-	0:07:30.005000	0:07:30.849000	-	635082
@@ -1808,7 +1808,7 @@ nicht	nicht	PART	-	0:07:30.005000	0:07:30.849000	-	635321
 na	na	PROPN	-	0:07:30.849000	0:07:33.255000	-	636754
 d/	-	-	-	0:07:30.849000	0:07:33.255000	-	641584
 direkt	direkt	ADJ	-	0:07:30.849000	0:07:33.255000	-	641344
-[Taufkirchnerisch]O	Taufkirchnerisch	NOUN	-	0:07:30.849000	0:07:33.255000	-	642537
+ORT	ORT	NOUN	-	0:07:30.849000	0:07:33.255000	ORT	642537
 .	-	-	-	0:07:30.849000	0:07:33.255000	-	643908
 also	also	ADV	-	0:07:33.255000	0:07:35.821000	-	640420
 fiele	fallen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPräs KVerb Ksynth VV ad+ stV stdL-	0:07:33.255000	0:07:35.821000	-	642252
@@ -1836,7 +1836,7 @@ mal	mal	ADV	-	0:07:37.460000	0:07:39.966000	-	638144
 </u>
 <u who="spk_178" sex="male" age="Alt (65+)" name="Informant 0478" subproject="PP03" standard_competence="5" dialect_competence="7" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:07:39.966000" end="0:07:43.733000" persName="Informant 0478" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 ähm	ähm	PROPN	-	0:07:39.966000	0:07:42.305000	-	635692
-[Reinbach]O	Reinbach	NOUN	-	0:07:39.966000	0:07:42.305000	-	640710
+ORT	ORT	NOUN	-	0:07:39.966000	0:07:42.305000	ORT	640710
 ist	sein	AUX	-	0:07:39.966000	0:07:42.305000	-	636449
 schon	schon	ADV	-	0:07:39.966000	0:07:42.305000	-	643448
 wieder	wieder	ADV	-	0:07:39.966000	0:07:42.305000	-	641265
@@ -1858,7 +1858,7 @@ mhm	mhm	VERB	-	0:07:43.733000	0:07:43.966000	-	643094
 <u who="spk_178" sex="male" age="Alt (65+)" name="Informant 0478" subproject="PP03" standard_competence="5" dialect_competence="7" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:07:43.966000" end="0:07:51.560000" persName="Informant 0478" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 <pause duration="0,6s"/>
 der	der	DET	-	0:07:43.966000	0:07:45.888000	-	642946
-[Sauwald]O	Sauwald	PROPN	-	0:07:43.966000	0:07:45.888000	-	634681
+ORT	ORT	PROPN	-	0:07:43.966000	0:07:45.888000	ORT	634681
 Dialekt	Dialekt	PROPN	-	0:07:43.966000	0:07:45.888000	-	643432
 ,	-	-	-	0:07:43.966000	0:07:45.888000	-	640902
 das	der	DET	-	0:07:45.888000	0:07:50.466000	-	637325
@@ -1872,7 +1872,7 @@ Donau	Donau	PROPN	-	0:07:45.888000	0:07:50.466000	-	638297
 ist	sein	AUX	-	0:07:45.888000	0:07:50.466000	-	637636
 der	der	DET	-	0:07:45.888000	0:07:50.466000	-	642146
 sogenannte	sogenannt	ADJ	-	0:07:45.888000	0:07:50.466000	-	634734
-[Sauwald]S	Sauwald	PROPN	-	0:07:45.888000	0:07:50.466000	-	634702
+SONSTIGE	SONSTIGE	PROPN	-	0:07:45.888000	0:07:50.466000	SONSTIGE	634702
 ,	-	-	-	0:07:45.888000	0:07:50.466000	-	642486
 ich	ich	PRON	-	0:07:50.466000	0:07:50.883000	-	640217
 weiß	weiß	VERB	-	0:07:50.466000	0:07:50.883000	-	634861
@@ -1937,7 +1937,7 @@ Sie	ich	PRON	-	0:08:02.316000	0:08:05.921000	-	643886
 denn	denn	ADV	-	0:08:02.316000	0:08:05.921000	-	636366
 diesen	dies	DET	-	0:08:02.316000	0:08:05.921000	-	637522
 <pause duration="0,9s"/>
-[Taufkirchner]O	Taufkirchner	ADJ	-	0:08:02.316000	0:08:05.921000	-	641516
+ORT	ORT	ADJ	-	0:08:02.316000	0:08:05.921000	ORT	641516
 Dialekt	Dialekt	NOUN	-	0:08:02.316000	0:08:05.921000	-	637605
 ,	-	-	-	0:08:02.316000	0:08:05.921000	-	638141
 über	über	ADP	-	0:08:05.921000	0:08:07.994000	-	639739
@@ -2027,7 +2027,7 @@ dann	dann	ADV	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV ad+ 
 ich	ich	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV ad+ stdL- swV	0:08:26.646000	0:08:31.486000	-	636356
 so	so	ADV	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV ad+ stdL- swV	0:08:26.646000	0:08:31.486000	-	635589
 ziemlich	ziemlich	ADV	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV ad+ stdL- swV	0:08:26.646000	0:08:31.486000	-	642325
-[Taufkirchnerisch]O	Taufkirchnerisch	PROPN	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV ad+ stdL- swV	0:08:26.646000	0:08:31.486000	-	637353
+ORT	ORT	PROPN	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV ad+ stdL- swV	0:08:26.646000	0:08:31.486000	ORT	637353
 ,	-	-	-	0:08:26.646000	0:08:31.486000	-	640336
 schon	schon	ADV	-	0:08:26.646000	0:08:31.486000	-	636111
 .	-	-	-	0:08:26.646000	0:08:31.486000	-	637152
@@ -2786,7 +2786,7 @@ wenn	wenn	SCONJ	-	0:11:52.186000	0:11:55.866000	-	636902
 ich	ich	PRON	-	0:11:52.186000	0:11:55.866000	-	643946
 meine	meinen	DET	-	0:11:52.186000	0:11:55.866000	-	643618
 urigsten	urig	ADJ	-	0:11:52.186000	0:11:55.866000	-	636778
-[Taufkirchner]O	Taufkirchner	ADJ	-	0:11:52.186000	0:11:55.866000	-	641102
+ORT	ORT	ADJ	-	0:11:52.186000	0:11:55.866000	ORT	641102
 Freunde	Freund	NOUN	-	0:11:52.186000	0:11:55.866000	-	635326
 ,	-	-	-	0:11:52.186000	0:11:55.866000	-	635011
 oder	oder	CCONJ	-	0:11:55.866000	0:11:58.226000	-	643035
@@ -3412,13 +3412,13 @@ Ihrem	mein	DET	-	0:14:33.719000	0:14:36.113000	-	642196
 Dialekt	Dialekt	NOUN	-	0:14:33.719000	0:14:36.113000	-	636215
 da	da	ADV	-	0:14:33.719000	0:14:36.113000	-	640882
 in	in	ADP	-	0:14:33.719000	0:14:36.113000	-	643445
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:14:33.719000	0:14:36.113000	-	641949
+ORT	ORT	NOUN	-	0:14:33.719000	0:14:36.113000	ORT	641949
 ,	-	-	-	0:14:33.719000	0:14:36.113000	-	636355
 die	der	DET	-	0:14:36.113000	0:14:37.799000	-	643449
 selber	selber	ADV	-	0:14:36.113000	0:14:37.799000	-	634714
 nicht	nicht	PART	-	0:14:36.113000	0:14:37.799000	-	637122
 aus	aus	ADP	-	0:14:36.113000	0:14:37.799000	-	639741
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:14:36.113000	0:14:37.799000	-	641476
+ORT	ORT	NOUN	-	0:14:36.113000	0:14:37.799000	ORT	641476
 kommen	kommen	VERB	-	0:14:36.113000	0:14:37.799000	-	640880
 ?	-	-	-	0:14:36.113000	0:14:37.799000	-	640660
 <pause duration="1,5s"/>
@@ -3657,7 +3657,7 @@ keinen	kein	DET	-	0:15:40.359000	0:15:42.959000	-	636136
 Dialekt	Dialekt	NOUN	-	0:15:40.359000	0:15:42.959000	-	643262
 sprechen	sprechen	VERB	-	0:15:40.359000	0:15:42.959000	-	639805
 in	in	ADP	-	0:15:40.359000	0:15:42.959000	-	637494
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:15:40.359000	0:15:42.959000	-	635095
+ORT	ORT	NOUN	-	0:15:40.359000	0:15:42.959000	ORT	635095
 ?	-	-	-	0:15:40.359000	0:15:42.959000	-	639777
 </u>
 <u who="spk_178" sex="male" age="Alt (65+)" name="Informant 0478" subproject="PP03" standard_competence="5" dialect_competence="7" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:15:42.959000" end="0:15:44.333000" persName="Informant 0478" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -3831,7 +3831,7 @@ von	von	ADP	-	0:16:28.586000	0:16:32.046000	-	641324
 Ihrem	mein	DET	-	0:16:28.586000	0:16:32.046000	-	641714
 Dialekt	Dialekt	NOUN	-	0:16:28.586000	0:16:32.046000	-	637063
 in	in	ADP	-	0:16:28.586000	0:16:32.046000	-	636706
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:16:28.586000	0:16:32.046000	-	637931
+ORT	ORT	NOUN	-	0:16:28.586000	0:16:32.046000	ORT	637931
 ?	-	-	-	0:16:28.586000	0:16:32.046000	-	640293
 jetzt	jetzt	ADV	-	0:16:32.046000	0:16:34.133000	-	643347
 denken	denken	VERB	-	0:16:32.046000	0:16:34.133000	-	643983
@@ -4171,7 +4171,7 @@ sich	sich	PRON	??	0:18:05.746000	0:18:06.279000	-	636792
 dass	dass	SCONJ	-	0:18:06.279000	0:18:07.673000	-	635921
 das	der	PRON	-	0:18:06.279000	0:18:07.673000	-	638755
 auf	auf	ADP	-	0:18:06.279000	0:18:07.673000	-	638939
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:18:06.279000	0:18:07.673000	-	638855
+ORT	ORT	NOUN	-	0:18:06.279000	0:18:07.673000	ORT	638855
 beschränkt	beschränken	VERB	-	0:18:06.279000	0:18:07.673000	-	635135
 ist	sein	AUX	-	0:18:06.279000	0:18:07.673000	-	635954
 ,	-	-	-	0:18:06.279000	0:18:07.673000	-	639769
@@ -4198,7 +4198,7 @@ ist	sein	AUX	-	0:18:10.673000	0:18:12.066000	-	636258
 also	also	ADV	-	0:18:12.066000	0:18:14.553000	-	639642
 nicht	nicht	PART	-	0:18:12.066000	0:18:14.553000	-	634989
 nur	nur	ADV	-	0:18:12.066000	0:18:14.553000	-	641822
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:18:12.066000	0:18:14.553000	-	641374
+ORT	ORT	NOUN	-	0:18:12.066000	0:18:14.553000	ORT	641374
 ,	-	-	-	0:18:12.066000	0:18:14.553000	-	639456
 sondern	sondern	CCONJ	-	0:18:12.066000	0:18:14.553000	-	641998
 überhautp	überhaupt	VERB	-	0:18:12.066000	0:18:14.553000	-	636558
@@ -4417,7 +4417,7 @@ wissen	wissen	VERB	-	0:19:16.553000	0:19:19.239000	-	636495
 ,	-	-	-	0:19:16.553000	0:19:19.239000	-	636835
 aber	aber	CCONJ	-	0:19:19.239000	0:19:21.813000	-	642680
 in	in	ADP	-	0:19:19.239000	0:19:21.813000	-	643028
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:19:19.239000	0:19:21.813000	-	637222
+ORT	ORT	NOUN	-	0:19:19.239000	0:19:21.813000	ORT	637222
 hat	haben	AUX	-	0:19:19.239000	0:19:21.813000	-	639257
 es	ich	PRON	-	0:19:19.239000	0:19:21.813000	-	636888
 eine	einen	DET	-	0:19:19.239000	0:19:21.813000	-	635093
@@ -5827,7 +5827,7 @@ mhm	mhm	PROPN	-	0:25:40.272000	0:25:42.032000	-	636130
 haben	haben	AUX	-	0:25:40.272000	0:25:42.032000	-	639201
 Sie	ich	PRON	-	0:25:40.272000	0:25:42.032000	-	642088
 in	in	ADP	-	0:25:40.272000	0:25:42.032000	-	638781
-[Taufkirchen]O	Taufkirchen	PROPN	-	0:25:40.272000	0:25:42.032000	-	639963
+ORT	ORT	PROPN	-	0:25:40.272000	0:25:42.032000	ORT	639963
 Flüchtlinge	Flüchtling	NOUN	-	0:25:40.272000	0:25:42.032000	-	643977
 ?	-	-	-	0:25:40.272000	0:25:42.032000	-	638338
 </u>
@@ -5948,7 +5948,7 @@ wir	ich	PRON	-	0:26:10.826000	0:26:13.172000	-	641903
 haben	haben	AUX	-	0:26:10.826000	0:26:13.172000	-	641939
 da	da	ADV	-	0:26:10.826000	0:26:13.172000	-	640536
 in	in	ADP	-	0:26:10.826000	0:26:13.172000	-	637561
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:26:10.826000	0:26:13.172000	-	634945
+ORT	ORT	NOUN	-	0:26:10.826000	0:26:13.172000	ORT	634945
 ein	einen	DET	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe+ spe-	0:26:10.826000	0:26:13.172000	-	642553
 sehr	sehr	ADV	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe+ spe-	0:26:10.826000	0:26:13.172000	-	643778
 <pause duration="1,2s"/>
@@ -6056,7 +6056,7 @@ wenn	wenn	SCONJ	-	0:26:39.939000	0:26:41.299000	-	639762
 Sie	ich	PRON	-	0:26:39.939000	0:26:41.299000	-	634938
 aus	aus	ADP	-	0:26:39.939000	0:26:41.299000	-	637910
 dem	der	DET	-	0:26:39.939000	0:26:41.299000	-	639038
-[Ruhrgebiet]O	Ruhrgebiet	NOUN	-	0:26:39.939000	0:26:41.299000	-	643635
+ORT	ORT	NOUN	-	0:26:39.939000	0:26:41.299000	ORT	643635
 die	der	PRON	-	0:26:41.299000	0:26:42.939000	-	635963
 </u>
 <u who="spk_178" sex="male" age="Alt (65+)" name="Informant 0478" subproject="PP03" standard_competence="5" dialect_competence="7" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:26:41.299000" end="0:26:42.939000" persName="Informant 0478" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -6087,7 +6087,7 @@ ja	ja	PART	-	0:26:44.746000	0:26:46.486000	-	639126
 .	-	-	-	0:26:44.746000	0:26:46.486000	-	639581
 </u>
 <u who="spk_178" sex="male" age="Alt (65+)" name="Informant 0478" subproject="PP03" standard_competence="5" dialect_competence="7" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:26:44.746000" end="0:27:22.739000" persName="Informant 0478" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
-[Ruhrgebiet]O	Ruhrgebiet	NOUN	-	0:26:44.746000	0:26:46.486000	-	636919
+ORT	ORT	NOUN	-	0:26:44.746000	0:26:46.486000	ORT	636919
 Kunden	Kunde	NOUN	-	0:26:44.746000	0:26:46.486000	-	641918
 gekommen	kommen	VERB	-	0:26:44.746000	0:26:46.486000	-	637829
 .	-	-	-	0:26:44.746000	0:26:46.486000	-	640907
@@ -6109,7 +6109,7 @@ meisten	meist	PRON	-	0:26:51.052000	0:26:57.919000	-	642696
 sind	sein	AUX	-	0:26:51.052000	0:26:57.919000	-	635234
 ja	ja	ADV	-	0:26:51.052000	0:26:57.919000	-	638643
 <pause duration="0,9s"/>
-[Taufkirchner]O	Taufkirchner	NOUN	-	0:26:51.052000	0:26:57.919000	-	643718
+ORT	ORT	NOUN	-	0:26:51.052000	0:26:57.919000	ORT	643718
 aus	aus	ADP	-	0:26:51.052000	0:26:57.919000	-	640080
 der	der	DET	-	0:26:51.052000	0:26:57.919000	-	636536
 nächsten	nächst	ADJ	-	0:26:51.052000	0:26:57.919000	-	636596
@@ -6125,7 +6125,7 @@ mal	mal	ADV	-	0:26:57.919000	0:27:01.766000	-	634960
 wieder)	wieder	ADV	-	0:26:57.919000	0:27:01.766000	-	643684
 über	über	ADP	-	0:26:57.919000	0:27:01.766000	-	643636
 den	der	DET	-	0:26:57.919000	0:27:01.766000	-	635594
-[Inn]S	Inn	NOUN	-	0:26:57.919000	0:27:01.766000	-	638232
+SONSTIGE	SONSTIGE	NOUN	-	0:26:57.919000	0:27:01.766000	SONSTIGE	638232
 oder	oder	CCONJ	-	0:26:57.919000	0:27:01.766000	-	643835
 so	so	ADV	-	0:26:57.919000	0:27:01.766000	-	639372
 .	-	-	-	0:26:57.919000	0:27:01.766000	-	643350
@@ -6482,7 +6482,7 @@ Gegend	Gegend	NOUN	-	0:28:46.899000	0:28:52.032000	-	636782
 da	da	SCONJ	-	0:28:46.899000	0:28:52.032000	-	637084
 <pause duration="0,7s"/>
 das	der	DET	-	0:28:46.899000	0:28:52.032000	-	635417
-[Innviertel]O	Innviertel	NOUN	-	0:28:46.899000	0:28:52.032000	-	637380
+ORT	ORT	NOUN	-	0:28:46.899000	0:28:52.032000	ORT	637380
 ist	sein	AUX	-	0:28:46.899000	0:28:52.032000	-	641405
 ja	ja	ADV	-	0:28:46.899000	0:28:52.032000	-	642063
 erst	erst	ADV	-	0:28:46.899000	0:28:52.032000	-	643013
@@ -6802,7 +6802,7 @@ da	da	SCONJ	-	0:29:55.066000	0:29:58.066000	-	642495
 gleich	gleichen	ADV	-	0:29:55.066000	0:29:58.066000	-	641437
 (über	über	ADP	-	0:29:55.066000	0:29:58.066000	-	636651
 den)	der	DET	-	0:29:55.066000	0:29:58.066000	-	640560
-[Inn]S	Inn	NOUN	-	0:29:55.066000	0:29:58.066000	-	635747
+SONSTIGE	SONSTIGE	NOUN	-	0:29:55.066000	0:29:58.066000	SONSTIGE	635747
 ,	-	-	-	0:29:55.066000	0:29:58.066000	-	640159
 das	der	PRON	-	0:29:58.066000	0:29:59.279000	-	641230
 ist	sein	AUX	-	0:29:58.066000	0:29:59.279000	-	641686
@@ -10472,7 +10472,7 @@ Sie	ich	PRON	-	0:46:32.319000	0:46:34.119000	-	641645
 gerne	gerne	ADV	-	0:46:32.319000	0:46:34.119000	-	643052
 hier	hier	ADV	-	0:46:32.319000	0:46:34.119000	-	641792
 in	in	ADP	-	0:46:34.119000	0:46:34.972000	-	635386
-[Taufkirchen]O	Taufkirchen	NOUN	-	0:46:34.119000	0:46:34.972000	-	638887
+ORT	ORT	NOUN	-	0:46:34.119000	0:46:34.972000	ORT	638887
 ?	-	-	-	0:46:34.119000	0:46:34.972000	-	640813
 </u>
 <u who="spk_178" sex="male" age="Alt (65+)" name="Informant 0478" subproject="PP03" standard_competence="5" dialect_competence="7" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:46:34.119000" end="0:46:34.972000" persName="Informant 0478" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" affiliation="PP03" age_lower="65" age_upper="999">

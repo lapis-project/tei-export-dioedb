@@ -232,16 +232,16 @@ jetzt/	-	-	-	0:00:56.679000	0:00:57.446000	-	1910468
 .	-	-	-	0:00:56.679000	0:00:57.446000	-	1907787
 </u>
 <u who="spk_6" sex="male" age="jung (18-35) +matura" name="Informant 0025" subproject="PP03" standard_competence="5" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:57.446000" end="0:00:58.499000" persName="Informant 0025" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Neckenmarkt]O	Neckenmarkt	VERB	-	0:00:57.446000	0:00:58.499000	-	1909682
+ORT	ORT	VERB	-	0:00:57.446000	0:00:58.499000	ORT	1909682
 ,	-	-	-	0:00:57.446000	0:00:58.499000	-	1901000
-[Horitschon]O	Horitschon	NOUN	-	0:00:57.446000	0:00:58.499000	-	1900904
+ORT	ORT	NOUN	-	0:00:57.446000	0:00:58.499000	ORT	1900904
 .	-	-	-	0:00:57.446000	0:00:58.499000	-	1910340
 </u>
 <u who="spk_5" sex="male" age="jung (18-35) +matura" name="Informant 0024" subproject="PP03" standard_competence="4" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:58.499000" end="0:00:58.946000" persName="Informant 0024" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 gena=	genau	ADJ	-	0:00:58.499000	0:00:58.946000	-	1903889
 </u>
 <u who="spk_6" sex="male" age="jung (18-35) +matura" name="Informant 0025" subproject="PP03" standard_competence="5" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:58.946000" end="0:00:59.193000" persName="Informant 0025" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Kreutz]O	Kreutz	NOUN	-	0:00:58.946000	0:00:59.193000	-	1899896
+ORT	ORT	NOUN	-	0:00:58.946000	0:00:59.193000	ORT	1899896
 ,	-	-	-	0:00:58.946000	0:00:59.193000	-	1912148
 </u>
 <u who="spk_5" sex="male" age="jung (18-35) +matura" name="Informant 0024" subproject="PP03" standard_competence="4" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:58.946000" end="0:00:59.193000" persName="Informant 0024" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -249,17 +249,17 @@ u	-	SPACE	-	0:00:58.946000	0:00:59.193000	-	1915074
 .	-	-	-	0:00:58.946000	0:00:59.193000	-	1908697
 </u>
 <u who="spk_6" sex="male" age="jung (18-35) +matura" name="Informant 0025" subproject="PP03" standard_competence="5" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:59.193000" end="0:00:59.806000" persName="Informant 0025" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Petersdo=	Petersdorf	PROPN	Asp Asp- F kurz lang LautNach LautVor Len Len+ MG pLen stimm stimm- stimm+ tLen Vpal Vvel	0:00:59.193000	0:00:59.759000	b̥ɛːdɐʃd̥ɔɐ̯f	1905795
-rf]O	-	SPACE	-	0:00:59.759000	0:00:59.806000	-	1909537
+ORT	ORT	PROPN	Asp Asp- F kurz lang LautNach LautVor Len Len+ MG pLen stimm stimm- stimm+ tLen Vpal Vvel	0:00:59.193000	0:00:59.759000	ORT	1905795
+ORT	ORT	SPACE	-	0:00:59.759000	0:00:59.806000	ORT	1909537
 .	-	-	-	0:00:59.759000	0:00:59.806000	-	1911568
 </u>
 <u who="spk_5" sex="male" age="jung (18-35) +matura" name="Informant 0024" subproject="PP03" standard_competence="4" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:59.759000" end="0:00:59.806000" persName="Informant 0024" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Peter=	Petersdorf	PROPN	-	0:00:59.759000	0:00:59.806000	-	1909512
+ORT	ORT	PROPN	-	0:00:59.759000	0:00:59.806000	ORT	1909512
 </u>
 <u who="spk_6" sex="male" age="jung (18-35) +matura" name="Informant 0025" subproject="PP03" standard_competence="5" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:59.806000" end="0:01:00.373000" persName="Informant 0025" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_5" sex="male" age="jung (18-35) +matura" name="Informant 0024" subproject="PP03" standard_competence="4" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:59.806000" end="0:01:01.379000" persName="Informant 0024" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-sdorf]O	-	SPACE	-	0:00:59.806000	0:01:00.373000	-	1908919
+ORT	ORT	SPACE	-	0:00:59.806000	0:01:00.373000	ORT	1908919
 ist	sein	AUX	-	0:00:59.806000	0:01:00.373000	-	1903971
 eigentlich	eigentlich	ADV	-	0:01:00.373000	0:01:01.379000	-	1906238
 schon	schon	ADV	-	0:01:00.373000	0:01:01.379000	-	1906394
@@ -3840,7 +3840,7 @@ die	der	PRON	-	0:13:37.665000	0:13:39.812000	-	1904790
 war	sein	AUX	-	0:13:37.665000	0:13:39.812000	-	1901474
 eh	eh	ADV	-	0:13:37.665000	0:13:39.812000	-	1907989
 in	in	ADP	-	0:13:37.665000	0:13:39.812000	-	1909184
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:13:37.665000	0:13:39.812000	-	1905445
+ORT	ORT	NOUN	-	0:13:37.665000	0:13:39.812000	ORT	1905445
 ,	-	-	-	0:13:37.665000	0:13:39.812000	-	1907547
 die	der	DET	-	0:13:37.665000	0:13:39.812000	-	1900351
 Vera	Vera	PROPN	-	0:13:37.665000	0:13:39.812000	-	1911586
@@ -5508,7 +5508,7 @@ nicht	nicht	PART	-	0:20:34.445000	0:20:35.752000	-	1906926
 sagen	sagen	VERB	-	0:20:34.445000	0:20:35.752000	-	1899985
 ,	-	-	-	0:20:34.445000	0:20:35.752000	-	1903267
 dass	dass	SCONJ	-	0:20:34.445000	0:20:35.752000	-	1910535
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:20:34.445000	0:20:35.752000	-	1910488
+ORT	ORT	NOUN	-	0:20:34.445000	0:20:35.752000	ORT	1910488
 der	der	DET	-belebt App Gen Meronym PM PR Pkon Poss Prel postnomin	0:20:34.445000	0:20:35.752000	-	1907457
 schönste	schönste	ADJ	-belebt App Gen Meronym PM PR Pkon Poss Prel postnomin|ADJS Der- e- E e-Mono F LautNach LautVor mhd. /œ/ Nas oeReal Pseu- sd+ SDent Suff U- Uml	0:20:35.752000	0:20:36.050000	ʃɛnsd̥ɛ	1909242
 Ort	Ort	NOUN	-belebt App Gen Meronym PM PR Pkon Poss Prel postnomin	0:20:36.050000	0:20:36.593000	-	1903826
@@ -6271,7 +6271,7 @@ wird	werden	AUX	-	0:23:37.114000	0:23:39.245000	-	1913008
 entweder	entweder	CCONJ	-	0:23:37.114000	0:23:39.245000	-	1913002
 ORT	ORT	PROPN	-	0:23:37.114000	0:23:39.245000	ORT	1902940
 oder	oder	CCONJ	-	0:23:37.114000	0:23:39.245000	-	1908561
-[Neckenmarkt]O	Neckenmarkt	VERB	-	0:23:37.114000	0:23:39.245000	-	1900752
+ORT	ORT	VERB	-	0:23:37.114000	0:23:39.245000	ORT	1900752
 werden	werden	AUX	-	0:23:37.114000	0:23:39.245000	-	1909576
 ,	-	-	-	0:23:37.114000	0:23:39.245000	-	1913771
 schauen	schauen	VERB	-	0:23:39.245000	0:23:39.719000	-	1910204
@@ -6351,7 +6351,7 @@ Silvester	-	-	-	0:23:56.640000	0:24:00.503000	-	1911979
 ja	-	-	-	0:23:56.640000	0:24:00.503000	-	1907522
 doch	-	-	-	0:23:56.640000	0:24:00.503000	-	1902304
 in	-	-	-	0:23:56.640000	0:24:00.503000	-	1907363
-[Neckenmarkt]O	-	-	-	0:23:56.640000	0:24:00.503000	-	1910418
+ORT	ORT	-	-	0:23:56.640000	0:24:00.503000	ORT	1910418
 sein	-	-	-	0:23:56.640000	0:24:00.503000	-	1911384
 ,	-	-	-	0:23:56.640000	0:24:00.503000	-	1905697
 oder	oder	CCONJ	QuestTag	0:23:56.640000	0:24:00.503000	-	1904699
@@ -7186,7 +7186,7 @@ a	-	SPACE	-	0:26:33.658000	0:26:33.971000	-	1906710
 nicht	nicht	PART	-	0:26:33.971000	0:26:35.405000	-	1911291
 nur	nur	ADV	-	0:26:33.971000	0:26:35.405000	-	1912459
 mehr	mehr	DET	-	0:26:33.971000	0:26:35.405000	-	1912735
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:26:33.971000	0:26:35.405000	-	1905921
+ORT	ORT	NOUN	-	0:26:33.971000	0:26:35.405000	ORT	1905921
 sein	mein	AUX	-	0:26:33.971000	0:26:35.405000	-	1905598
 ,	-	-	-	0:26:33.971000	0:26:35.405000	-	1910723
 aber/	-	-	-	0:26:33.971000	0:26:35.405000	-	1911161
@@ -8419,8 +8419,8 @@ bissel	-	-	DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:31:09.331000	0:3
 <pause duration="1,8s"/>
 das/	-	-	-	0:31:10.971000	0:31:12.304000	-	1904302
 die	-	-	-	0:31:10.971000	0:31:12.304000	-	1911536
-[Petersdorfer	-	-	-	0:31:10.971000	0:31:12.304000	-	1908777
-Petersdorfer]O	-	-	?? 0 artdef Asp Asp- attrAdj attrAdj- DPintern DPintern+ generic+ gener_prag Interf Interf- lang LautNach LautVor Len Len+ MG NomNum NPL NumKat nummark+ NumMark NumMarkKat pLen Plur sd+ SDent stimm stimm- Suff U- Uml Vpal VPintern VPintern- wortintern+ WortIntern	0:31:12.304000	0:31:13.871000	b̥ɛːdɐʃd̥ɔɐ̯fɐ	1905826
+ORT	ORT	-	-	0:31:10.971000	0:31:12.304000	ORT	1908777
+ORT	ORT	-	?? 0 artdef Asp Asp- attrAdj attrAdj- DPintern DPintern+ generic+ gener_prag Interf Interf- lang LautNach LautVor Len Len+ MG NomNum NPL NumKat nummark+ NumMark NumMarkKat pLen Plur sd+ SDent stimm stimm- Suff U- Uml Vpal VPintern VPintern- wortintern+ WortIntern	0:31:12.304000	0:31:13.871000	ORT	1905826
 sagen	-	-	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno sentstr stress- Wurzel	0:31:13.871000	0:31:14.058000	sɔŋ	1908089
 zum	-	-	-	0:31:13.871000	0:31:14.058000	-	1905692
 Beispiel	-	-	F LautNach LautVor lVar LVOK LVOK+ MG VokChange VokChange+ Vpal	0:31:14.058000	0:31:14.411000	b̥æe̯ʃb̥ʏː	1911634
@@ -8441,7 +8441,7 @@ und	-	-	-	0:31:16.911000	0:31:18.705000	-	1903288
 </u>
 <u who="spk_5" sex="male" age="jung (18-35) +matura" name="Informant 0024" subproject="PP03" standard_competence="4" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:31:20.278000" end="0:31:21.978000" persName="Informant 0024" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 die	-	-	-	0:31:20.278000	0:31:21.978000	-	1907320
-[Piringer]O	-	-	-	0:31:20.278000	0:31:21.978000	-	1909489
+ORT	ORT	-	-	0:31:20.278000	0:31:21.978000	ORT	1909489
 *verstehst*	-	-	-	0:31:20.278000	0:31:21.978000	-	1914423
 gar	-	-	-	0:31:20.278000	0:31:21.978000	-	1905947
 nicht	-	-	-	0:31:20.278000	0:31:21.978000	-	1915110
@@ -8487,7 +8487,7 @@ ja	ja	ADV	-	0:31:33.025000	0:31:35.271000	-	1912931
 .	-	-	-	0:31:33.025000	0:31:35.271000	-	1913453
 sogar	sogar	ADV	-	0:31:35.271000	0:31:36.718000	-	1912821
 in	in	ADP	-	0:31:35.271000	0:31:36.718000	-	1902227
-[Horitschon]O	Horitschon	NOUN	-	0:31:35.271000	0:31:36.718000	-	1914938
+ORT	ORT	NOUN	-	0:31:35.271000	0:31:36.718000	ORT	1914938
 reden	reden	VERB	eDiph eReal eVar L LautNach LautVor mhd. /e/ Nas sentstr stress+ Wurzel	0:31:35.271000	0:31:36.718000	ɾɛe̯ns	1908251
 sie	ich	PRON	-	0:31:35.271000	0:31:36.718000	-	1901796
 anders	anders	ADV	-	0:31:35.271000	0:31:36.718000	-	1910581
@@ -8538,7 +8538,7 @@ jetzt/	-	-	-	0:31:41.691000	0:31:44.498000	-	1900607
 <pause duration="0,9s"/>
 was	was	PRON	-	0:31:44.498000	0:31:47.651000	-	1912463
 in	in	ADP	-	0:31:44.498000	0:31:47.651000	-	1906199
-[Horitschon]O	Horitschon	NOUN	-	0:31:44.498000	0:31:47.651000	-	1915126
+ORT	ORT	NOUN	-	0:31:44.498000	0:31:47.651000	ORT	1915126
 ist	sein	AUX	-	0:31:44.498000	0:31:47.651000	-	1907894
 ,	-	-	-	0:31:44.498000	0:31:47.651000	-	1908301
 was	was	PRON	-	0:31:44.498000	0:31:47.651000	-	1914119
@@ -8569,9 +8569,9 @@ ist	sein	AUX	-	0:31:51.498000	0:31:53.092000	-	1914905
 nur	nur	ADV	-	0:31:51.498000	0:31:53.092000	-	1914597
 <pause duration="1,1s"/>
 ja	ja	ADV	-	0:31:51.498000	0:31:53.092000	-	1909481
-[Petersdorf]O	Petersdorf	NOUN	Asp Asp- lang LautNach LautVor Len Len+ MG pLen stimm stimm- Vpal Vvel	0:31:53.092000	0:31:53.757000	b̥ɛːdɐʃd̥ɔɐ̯f	1913387
+ORT	ORT	NOUN	Asp Asp- lang LautNach LautVor Len Len+ MG pLen stimm stimm- Vpal Vvel	0:31:53.092000	0:31:53.757000	ORT	1913387
 und	und	CCONJ	-	0:31:53.757000	0:31:55.285000	-	1902053
-[Kreutz]O	Kreutz	NOUN	-	0:31:53.757000	0:31:55.285000	-	1913680
+ORT	ORT	NOUN	-	0:31:53.757000	0:31:55.285000	ORT	1913680
 ,	-	-	-	0:31:53.757000	0:31:55.285000	-	1912976
 ja	ja	PART	-	0:31:53.757000	0:31:55.285000	-	1913201
 .	-	-	-	0:31:53.757000	0:31:55.285000	-	1901349
@@ -15413,7 +15413,7 @@ Kirchenplatz	Kirchenplatz	NOUN	App -belebt irrelevant Komp Pkon PM Poss PR Prel 
 ,	-	-	-	0:57:28.176000	0:57:28.977000	-	1913040
 wie	wie	ADV	-	0:57:28.977000	0:57:29.530000	-	1913419
 der	der	DET	-	0:57:28.977000	0:57:29.530000	-	1911485
-[Schwanaplatz]O	Schwanaplatz	NOUN	-	0:57:28.977000	0:57:29.530000	-	1911512
+ORT	ORT	NOUN	-	0:57:28.977000	0:57:29.530000	ORT	1911512
 umge=	umbauen	VERB	-	0:57:28.977000	0:57:29.530000	-	1909880
 baut	-	SPACE	-	0:57:29.530000	0:57:30.130000	-	1903886
 worden	werden	AUX	-	0:57:29.530000	0:57:30.130000	-	1913755
@@ -15546,7 +15546,7 @@ kay	-	SPACE	-	0:57:46.162000	0:57:46.583000	-	1899835
 </u>
 <u who="spk_6" sex="male" age="jung (18-35) +matura" name="Informant 0025" subproject="PP03" standard_competence="5" dialect_competence="6" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:57:46.583000" end="0:58:00.917000" persName="Informant 0025" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 am	am	ADP	-	0:57:46.583000	0:57:47.697000	-	1904397
-[Schwanaplatz]O	Schwanaplatz	NOUN	-	0:57:46.583000	0:57:47.697000	-	1906643
+ORT	ORT	NOUN	-	0:57:46.583000	0:57:47.697000	ORT	1906643
 auch	auch	ADV	-	0:57:46.583000	0:57:47.697000	-	1904654
 ,	-	-	-	0:57:46.583000	0:57:47.697000	-	1912587
 das	-	-	-	0:57:47.697000	0:57:49.063000	-	1903720
@@ -15817,7 +15817,7 @@ Beispiel	Beispiel	NOUN	F LautNach LautVor lVar LVOK LVOK+ MG VokChange VokChange
 von	von	ADP	-	0:58:41.863000	0:58:44.383000	-	1905887
 von	von	ADP	-	0:58:41.863000	0:58:44.383000	-	1914655
 ähm	ähm	PROPN	-	0:58:41.863000	0:58:44.383000	-	1902360
-[Fahnenschwingen]N	Fahnenschwingen	NOUN	-	0:58:41.863000	0:58:44.383000	-	1911513
+NAME	NAME	NOUN	-	0:58:41.863000	0:58:44.383000	NAME	1911513
 ausgehen	ausgehen	VERB	eMono eReal eVar LautNach LautVor mhd. /ê/ Nas P sentstr stress- Wurzel	0:58:41.863000	0:58:44.383000	aɔ̯sg̥ɛŋɐ	1909827
 oder	oder	CCONJ	-	0:58:44.383000	0:58:45.303000	-	1908181
 vom	vom	ADP	-	0:58:44.383000	0:58:45.303000	-	1910188

@@ -14130,7 +14130,7 @@ ja	ja	PART	-	0:46:01.918000	0:46:02.218000	-	701459
 <u who="spk_164" sex="female" age="jung (18-35) -matura" name="Informant 0239" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:46:01.918000" end="0:46:02.758000" persName="Informant 0239" residence="Tarrenz, Imst, Tirol, 6464, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 zeit	-	SPACE	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:46:01.918000	0:46:02.218000	-	706380
 der	der	DET	-	0:46:01.918000	0:46:02.218000	-	698437
-[Pitztaler]O	Pitztaler	NOUN	-	0:46:02.218000	0:46:02.758000	-	706718
+ORT	ORT	NOUN	-	0:46:02.218000	0:46:02.758000	ORT	706718
 .	-	-	-	0:46:02.218000	0:46:02.758000	-	701215
 </u>
 <u who="spk_289" sex="female" age="jung (18-35) +matura" name="Informant 0257" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:46:02.758000" end="0:46:03.358000" persName="Informant 0257" residence="Tarrenz, Imst, Tirol, 6464, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -14176,7 +14176,7 @@ ja	ja	PART	-	0:46:06.558000	0:46:07.464000	-	704043
 .	-	-	-	0:46:06.558000	0:46:07.464000	-	698169
 </u>
 <u who="spk_164" sex="female" age="jung (18-35) -matura" name="Informant 0239" subproject="PP03" standard_competence="5" dialect_competence="7" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:46:06.558000" end="0:46:11.624000" persName="Informant 0239" residence="Tarrenz, Imst, Tirol, 6464, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Pitztaler]O	Pitztaler	NOUN	-	0:46:06.558000	0:46:07.464000	-	706464
+ORT	ORT	NOUN	-	0:46:06.558000	0:46:07.464000	ORT	706464
 ist	sein	AUX	-	0:46:06.558000	0:46:07.464000	-	704981
 .	-	-	-	0:46:06.558000	0:46:07.464000	-	705720
 <pause duration="2,8s"/>
@@ -14902,7 +14902,7 @@ die	der	DET	-	0:47:58.444000	0:48:00.064000	-	708400
 wohnen	wohnen	NOUN	-	0:47:58.444000	0:48:00.064000	-	699435
 ja	ja	ADV	-	0:47:58.444000	0:48:00.064000	-	706889
 in	in	ADP	-	0:47:58.444000	0:48:00.064000	-	699203
-[Paznaun]O	Paznaun	PROPN	-	0:47:58.444000	0:48:00.064000	-	706994
+ORT	ORT	PROPN	-	0:47:58.444000	0:48:00.064000	ORT	706994
 die	der	DET	-	0:47:58.444000	0:48:00.064000	-	708522
 Oma	Oma	NOUN	-	0:47:58.444000	0:48:00.064000	-	696121
 und	und	CCONJ	-	0:47:58.444000	0:48:00.064000	-	701976

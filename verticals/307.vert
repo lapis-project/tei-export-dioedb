@@ -369,7 +369,7 @@ außerhalb	außerhalb	ADP	-	0:01:29.013000	0:01:31.360000	-	3027471
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:31.360000" end="0:01:32.193000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 von	von	ADP	-	0:01:31.360000	0:01:32.193000	-	3027472
-[Passail]O	-	-	-	0:01:31.360000	0:01:32.193000	-	3027473
+ORT	ORT	-	-	0:01:31.360000	0:01:32.193000	ORT	3027473
 ?	-	-	-	0:01:31.360000	0:01:32.193000	-	3027474
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:01:31.360000" end="0:01:33.633000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -380,7 +380,7 @@ genau	genau	ADV	-	0:01:32.193000	0:01:33.633000	-	3027480
 .	-	-	-	0:01:32.193000	0:01:33.633000	-	3027482
 ähm	ähm	PROPN	-	0:01:32.193000	0:01:33.633000	-	3027476
 von	von	ADP	-	0:01:32.193000	0:01:33.633000	-	3027477
-[Passail]O	-	-	-	0:01:32.193000	0:01:33.633000	-	3027478
+ORT	ORT	-	-	0:01:32.193000	0:01:33.633000	ORT	3027478
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:33.633000" end="0:01:38.180000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:01:33.633000	0:01:38.180000	-	3027483
@@ -1710,7 +1710,7 @@ die	der	DET	-	0:07:04.686000	0:07:09.973000	-	3028551
 alteingesessenen	alteingesessen	ADJ	-	0:07:04.686000	0:07:09.973000	-	3028552
 Bewohner	Bewohner	NOUN	-	0:07:04.686000	0:07:09.973000	-	3028553
 von	von	ADP	-	0:07:04.686000	0:07:09.973000	-	3028554
-[Passail]O	-	-	-	0:07:04.686000	0:07:09.973000	-	3028555
+ORT	ORT	-	-	0:07:04.686000	0:07:09.973000	ORT	3028555
 typischerweise	typischerweise	ADV	-	0:07:04.686000	0:07:09.973000	-	3028556
 miteinander	miteinander	ADV	-	0:07:04.686000	0:07:09.973000	-	3028557
 sprechen	sprechen	VERB	-	0:07:04.686000	0:07:09.973000	-	3028558
@@ -1730,7 +1730,7 @@ mhm	mhm	PROPN	-	0:07:11.973000	0:07:12.413000	-	3028567
 .	-	-	-	0:07:11.973000	0:07:12.413000	-	3028568
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:12.413000" end="0:07:13.266000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Passailerisch]O	-	-	-	0:07:12.413000	0:07:13.266000	-	3028569
+ORT	ORT	-	-	0:07:12.413000	0:07:13.266000	ORT	3028569
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:13.266000" end="0:07:15.460000" persName="Informant EXP4" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:07:13.266000	0:07:15.460000	ORT	3028570
@@ -1957,7 +1957,7 @@ wi	wi	PROPN	-	0:08:14	0:08:14.820000	-	3029476
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:14" end="0:08:15.893000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 was	was	PRON	-	0:08:14	0:08:14.820000	-	3029478
 ich	ich	PRON	-	0:08:14	0:08:14.820000	-	3029479
-[Passailerisch]O	-	-	-	0:08:14.820000	0:08:15.893000	-	3029480
+ORT	ORT	-	-	0:08:14.820000	0:08:15.893000	ORT	3029480
 rede	rede	VERB	-	0:08:14.820000	0:08:15.893000	-	3029481
 ?	-	-	-	0:08:14.820000	0:08:15.893000	-	3029482
 </u>
@@ -2066,7 +2066,7 @@ sprechen	sprechen	VERB	-	0:08:40.980000	0:08:42.472000	-	3029616
 und	und	CCONJ	-	0:08:42.472000	0:08:45.500000	-	3029617
 was	was	PRON	-	0:08:42.472000	0:08:45.500000	-	3029618
 dem	der	DET	-	0:08:42.472000	0:08:45.500000	-	3029619
-[Passailerisch]O	-	-	-	0:08:42.472000	0:08:45.500000	-	3029620
+ORT	ORT	-	-	0:08:42.472000	0:08:45.500000	ORT	3029620
 sozusagen	sozusagen	ADV	-	0:08:42.472000	0:08:45.500000	-	3029621
 am	am	ADP	-	0:08:42.472000	0:08:45.500000	-	3029622
 nächsten	nächst	ADJ	-	0:08:42.472000	0:08:45.500000	-	3029623
@@ -2090,7 +2090,7 @@ ich	ich	PRON	-	0:08:52.573000	0:08:56.540000	-	3029638
 würde	werden	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:08:52.573000	0:08:56.540000	-	3029639
 es	ich	PRON	-	0:08:52.573000	0:08:56.540000	-	3029640
 auch	auch	ADV	-	0:08:52.573000	0:08:56.540000	-	3029641
-[Passailerisch]O	-	-	-	0:08:52.573000	0:08:56.540000	-	3029642
+ORT	ORT	-	-	0:08:52.573000	0:08:56.540000	ORT	3029642
 nennen	nennen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:08:52.573000	0:08:56.540000	-	3029643
 oder	oder	CCONJ	-	0:08:52.573000	0:08:56.540000	-	3029644
 einfach	einfach	ADV	-	0:08:52.573000	0:08:56.540000	-	3029645
@@ -2268,7 +2268,7 @@ Alteingesessenen	Alteingesessene	NOUN	-	0:09:49.700000	0:09:55.653000	-	3054968
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:55.653000" end="0:09:58.560000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 hm	hm	X	-	0:09:55.653000	0:09:58.560000	-	3054971
-[Neupassailerisch]O	-	-	-	0:09:55.653000	0:09:58.560000	-	3054972
+ORT	ORT	-	-	0:09:55.653000	0:09:58.560000	ORT	3054972
 ist	sein	AUX	-	0:09:55.653000	0:09:58.560000	-	3054973
 meines	mein	DET	-	0:09:55.653000	0:09:58.560000	-	3054974
 .	-	-	-	0:09:55.653000	0:09:58.560000	-	3054975
@@ -2280,7 +2280,7 @@ okay	okay	PROPN	-	0:09:58.560000	0:10:00.280000	-	3054978
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:58.560000" end="0:10:00.280000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:10:00.280000" end="0:10:04.966000" persName="Informant EXP4" age_lower="1" age_upper="999">
-[Neupassailerisch]O	-	-	-	0:10:00.280000	0:10:04.966000	-	3054979
+ORT	ORT	-	-	0:10:00.280000	0:10:04.966000	ORT	3054979
 passt	passt	VERB	-	0:10:00.280000	0:10:04.966000	-	3054980
 ,	-	-	-	0:10:00.280000	0:10:04.966000	-	3054985
 okay	okay	PROPN	-	0:10:00.280000	0:10:04.966000	-	3054981
@@ -2474,10 +2474,10 @@ zwischen	zwischen	ADP	-	0:10:56.913000	0:11:04.913000	-	3055159
 dem	der	DET	-	0:10:56.913000	0:11:04.913000	-	3055160
 also	also	ADV	-	0:10:56.913000	0:11:04.913000	-	3055166
 dem	der	DET	-	0:10:56.913000	0:11:04.913000	-	3055167
-[Passailerisch]O	-	-	-	0:10:56.913000	0:11:04.913000	-	3055161
+ORT	ORT	-	-	0:10:56.913000	0:11:04.913000	ORT	3055161
 und	und	CCONJ	-	0:10:56.913000	0:11:04.913000	-	3055162
 dem	der	DET	-	0:10:56.913000	0:11:04.913000	-	3055163
-[Neupassailerisch]O	-	-	-	0:10:56.913000	0:11:04.913000	-	3055164
+ORT	ORT	-	-	0:10:56.913000	0:11:04.913000	ORT	3055164
 sozusagen	sozusagen	ADV	-	0:10:56.913000	0:11:04.913000	-	3055165
 ?	-	-	-	0:10:56.913000	0:11:04.913000	-	3055168
 </u>
@@ -2493,7 +2493,7 @@ würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV cir
 zum	zum	ADP	-	0:11:07.713000	0:11:11.800000	-	3055177
 Beispiel	Beispiel	NOUN	-	0:11:07.713000	0:11:11.800000	-	3055178
 kein	kein	DET	-	0:11:07.713000	0:11:11.800000	-	3055179
-[Passailer]O	-	-	-	0:11:07.713000	0:11:11.800000	-	3055180
+ORT	ORT	-	-	0:11:07.713000	0:11:11.800000	ORT	3055180
 sagen	sagen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:11:07.713000	0:11:11.800000	-	3055181
 ,	-	-	-	0:11:07.713000	0:11:11.800000	-	3055182
 nicht	nicht	PART	-	0:11:07.713000	0:11:11.800000	-	3055183
@@ -2635,7 +2635,7 @@ ka/	-	-	-	0:11:44.620000	0:11:47.680000	-	3055286
 sprechen	sprechen	VERB	-	0:11:44.620000	0:11:47.680000	-	3055290
 Sie	ich	PRON	-	0:11:44.620000	0:11:47.680000	-	3055287
 gerne	gerne	ADV	-	0:11:44.620000	0:11:47.680000	-	3055288
-[Neupassailerisch]O	-	-	-	0:11:44.620000	0:11:47.680000	-	3055289
+ORT	ORT	-	-	0:11:44.620000	0:11:47.680000	ORT	3055289
 ?	-	-	-	0:11:44.620000	0:11:47.680000	-	3055291
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:47.680000" end="0:11:52.053000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -2786,7 +2786,7 @@ denen	der	PRON	-	0:12:38.726000	0:12:41.520000	-	3055415
 Sie	ich	PRON	-	0:12:38.726000	0:12:41.520000	-	3055416
 sozusagen	sozusagen	ADV	-	0:12:38.726000	0:12:41.520000	-	3055417
 das	der	DET	-	0:12:38.726000	0:12:41.520000	-	3055418
-[Passailerisch]O	-	-	-	0:12:38.726000	0:12:41.520000	-	3055419
+ORT	ORT	-	-	0:12:38.726000	0:12:41.520000	ORT	3055419
 ,	-	-	-	0:12:38.726000	0:12:41.520000	-	3055420
 also	also	ADV	-	0:12:38.726000	0:12:41.520000	-	3055421
 /.	-	-	-	0:12:38.726000	0:12:41.520000	-	3055422
@@ -2818,7 +2818,7 @@ dann	dann	ADV	-	0:12:45.246000	0:12:50.820000	-	3055442
 einfach	einfach	ADV	-	0:12:45.246000	0:12:50.820000	-	3055443
 mit	mit	ADP	-	0:12:45.246000	0:12:50.820000	-	3055444
 älteren	alt	ADJ	-	0:12:45.246000	0:12:50.820000	-	3055445
-[Passailer]O	-	-	-	0:12:45.246000	0:12:50.820000	-	3055446
+ORT	ORT	-	-	0:12:45.246000	0:12:50.820000	ORT	3055446
 Nachbarn	Nachbar	NOUN	-	0:12:45.246000	0:12:50.820000	-	3055447
 oder	oder	CCONJ	-	0:12:45.246000	0:12:50.820000	-	3055448
 was	was	PRON	-	0:12:45.246000	0:12:50.820000	-	3055449
@@ -2897,7 +2897,7 @@ oft	oft	ADV	-	0:13:06.400000	0:13:09.206000	-	3055518
 sprechen	sprechen	VERB	-	0:13:06.400000	0:13:09.206000	-	3055519
 Sie	ich	PRON	-	0:13:06.400000	0:13:09.206000	-	3055520
 das	der	DET	-	0:13:06.400000	0:13:09.206000	-	3055521
-[Passailerisch]O	-	-	-	0:13:06.400000	0:13:09.206000	-	3055522
+ORT	ORT	-	-	0:13:06.400000	0:13:09.206000	ORT	3055522
 ?	-	-	-	0:13:06.400000	0:13:09.206000	-	3055523
 also	also	ADV	-	0:13:09.206000	0:13:10.466000	-	3055525
 jetzt	jetzt	ADV	-	0:13:09.206000	0:13:10.466000	-	3055526
@@ -2936,7 +2936,7 @@ so	so	ADV	-	0:13:16.506000	0:13:24.393000	-	3055550
 tief	tief	ADV	-	0:13:16.506000	0:13:24.393000	-	3055551
 wirklich	wirklich	ADV	IRR	0:13:16.506000	0:13:24.393000	-	3055552
 originales	original	ADJ	IRR	0:13:16.506000	0:13:24.393000	-	3055557
-[Passailerisch]O	-	-	IRR	0:13:16.506000	0:13:24.393000	-	3055553
+ORT	ORT	-	IRR	0:13:16.506000	0:13:24.393000	ORT	3055553
 pah	pah	PROPN	-	0:13:16.506000	0:13:24.393000	-	3055554
 hm	hm	PROPN	-	0:13:16.506000	0:13:24.393000	-	3055555
 .	-	-	-	0:13:16.506000	0:13:24.393000	-	3055556
@@ -3017,7 +3017,7 @@ auch	auch	ADV	-	0:13:39.513000	0:13:46.153000	-	3055619
 <pause duration="2,4s"/>
 irgendwie	irgendwie	ADV	-	0:13:39.513000	0:13:46.153000	-	3055620
 so	so	ADV	-	0:13:39.513000	0:13:46.153000	-	3055628
-[Passailerisch]O	-	-	-	0:13:39.513000	0:13:46.153000	-	3055629
+ORT	ORT	-	-	0:13:39.513000	0:13:46.153000	ORT	3055629
 mehr	mehr	ADV	-	0:13:39.513000	0:13:46.153000	-	3055621
 oder	oder	CCONJ	-	0:13:39.513000	0:13:46.153000	-	3055622
 weniger	wenig	ADV	-	0:13:39.513000	0:13:46.153000	-	3055625
@@ -3085,7 +3085,7 @@ sozusagen	sozusagen	ADV	-	0:13:59.960000	0:14:04.746000	-	3055681
 da	da	ADV	-	0:13:59.960000	0:14:04.746000	-	3055682
 darunter	darunter	ADV	-	0:13:59.960000	0:14:04.746000	-	3055687
 noch	noch	ADV	-	0:13:59.960000	0:14:04.746000	-	3055688
-[Neupassailerisch]O	-	-	-	0:13:59.960000	0:14:04.746000	-	3055683
+ORT	ORT	-	-	0:13:59.960000	0:14:04.746000	ORT	3055683
 dazuschreiben	dazuschreiben	VERB	-	0:13:59.960000	0:14:04.746000	-	3055684
 ,	-	-	-	0:13:59.960000	0:14:04.746000	-	3055685
 ähm	ähm	VERB	-	0:14:04.746000	0:14:09.646000	-	3055689
@@ -3173,7 +3173,7 @@ der	der	DET	-	0:14:26.073000	0:14:30.946000	-	3055759
 Gebrauch	Gebrauch	NOUN	-	0:14:26.073000	0:14:30.946000	-	3055760
 <pause duration="0,7s"/>
 vom	vom	ADP	-	0:14:26.073000	0:14:30.946000	-	3055761
-[Passailerischen]O	-	-	-	0:14:26.073000	0:14:30.946000	-	3055762
+ORT	ORT	-	-	0:14:26.073000	0:14:30.946000	ORT	3055762
 ähm	ähm	PROPN	-	0:14:26.073000	0:14:30.946000	-	3055763
 absolut	absolut	ADV	-	0:14:26.073000	0:14:30.946000	-	3055766
 passend	passen	ADV	-	0:14:26.073000	0:14:30.946000	-	3055764
@@ -3333,7 +3333,7 @@ der	der	PRON	-	0:15:16.451000	0:15:19.632000	-	4061661
 redet	reden	VERB	-	0:15:16.451000	0:15:19.632000	-	4061662
 sicher	sichern	ADV	-	0:15:16.451000	0:15:19.632000	-	4061663
 kein	kein	DET	-	0:15:16.451000	0:15:19.632000	-	4061664
-[Passailerisch]O	-	-	-	0:15:16.451000	0:15:19.632000	-	4061666
+ORT	ORT	-	-	0:15:16.451000	0:15:19.632000	ORT	4061666
 ,	-	-	-	0:15:16.451000	0:15:19.632000	-	4061667
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:19.632000" end="0:15:20.083000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -3484,7 +3484,7 @@ Ihnen	ich	PRON	-	0:15:50.116000	0:15:53.935000	-	4061791
 der	der	DET	-	0:15:50.116000	0:15:53.935000	-	4061792
 Gebrauch	Gebrauch	NOUN	-	0:15:50.116000	0:15:53.935000	-	4061793
 vom	vom	ADP	-	0:15:50.116000	0:15:53.935000	-	4061794
-[Passailerischen]O	-	-	-	0:15:50.116000	0:15:53.935000	-	4061795
+ORT	ORT	-	-	0:15:50.116000	0:15:53.935000	ORT	4061795
 unpassend	unpassend	ADV	-	0:15:50.116000	0:15:53.935000	-	4061796
 erscheint	erscheinen	VERB	-	0:15:50.116000	0:15:53.935000	-	4061797
 ?	-	-	-	0:15:50.116000	0:15:53.935000	-	4061798
@@ -3579,7 +3579,7 @@ und	und	CCONJ	-	0:16:14.735000	0:16:16.070000	-	4061868
 ich	ich	PRON	-	0:16:14.735000	0:16:16.070000	-	4061869
 rede	rede	VERB	-	0:16:14.735000	0:16:16.070000	-	4061870
 da	da	ADV	-	0:16:14.735000	0:16:16.070000	-	4061871
-[Passailerisch]O	-	-	-	0:16:14.735000	0:16:16.070000	-	4061872
+ORT	ORT	-	-	0:16:14.735000	0:16:16.070000	ORT	4061872
 ,	-	-	-	0:16:14.735000	0:16:16.070000	-	4061873
 dann	dann	ADV	-	0:16:16.070000	0:16:20.212000	-	4061874
 nehme	nehmen	VERB	-	0:16:16.070000	0:16:20.212000	-	4061875
@@ -3630,7 +3630,7 @@ wie	wie	ADV	-	0:16:32.896000	0:16:34.896000	-	4061917
 stehen	stehen	VERB	-	0:16:32.896000	0:16:34.896000	-	4061918
 Menschen	Mensch	NOUN	-	0:16:32.896000	0:16:34.896000	-	4061919
 zum	zum	ADP	-	0:16:32.896000	0:16:34.896000	-	4061920
-[Passailerischen]O	-	-	-	0:16:32.896000	0:16:34.896000	-	4061921
+ORT	ORT	-	-	0:16:32.896000	0:16:34.896000	ORT	4061921
 ,	-	-	-	0:16:32.896000	0:16:34.896000	-	4061922
 die	der	PRON	-	0:16:34.896000	0:16:37.238000	-	4061923
 selbst	selbst	ADV	-	0:16:34.896000	0:16:37.238000	-	4061924
@@ -3783,12 +3783,12 @@ Ort	Ort	NOUN	-	0:17:23.477000	0:17:30.632000	-	4062053
 ,	-	-	-	0:17:23.477000	0:17:30.632000	-	4062061
 also	also	ADV	-	0:17:23.477000	0:17:30.632000	-	4062054
 in	in	ADP	-	0:17:23.477000	0:17:30.632000	-	4062055
-[Passail]O	-	-	-	0:17:23.477000	0:17:30.632000	-	4062056
+ORT	ORT	-	-	0:17:23.477000	0:17:30.632000	ORT	4062056
 selbst	selbst	ADV	-	0:17:23.477000	0:17:30.632000	-	4062062
 sprechen	sprechen	VERB	-	0:17:23.477000	0:17:30.632000	-	4062057
 ,	-	-	-	0:17:23.477000	0:17:30.632000	-	4062063
 ähm	ähm	PROPN	-	0:17:23.477000	0:17:30.632000	-	4062058
-[Passailerisch]O	-	-	-	0:17:23.477000	0:17:30.632000	-	4062064
+ORT	ORT	-	-	0:17:23.477000	0:17:30.632000	ORT	4062064
 ?	-	-	-	0:17:23.477000	0:17:30.632000	-	4062065
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:30.632000" end="0:17:39.522000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -3904,7 +3904,7 @@ mhm	mhm	PROPN	-	0:17:59.193000	0:17:59.819000	-	4062161
 .	-	-	-	0:17:59.193000	0:17:59.819000	-	4062162
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:59.193000" end="0:18:07.529000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Passailerisch]O	-	-	-	0:17:59.193000	0:17:59.819000	-	4062160
+ORT	ORT	-	-	0:17:59.193000	0:17:59.819000	ORT	4062160
 auch	auch	ADV	-	0:17:59.819000	0:18:02.812000	-	4062163
 ja	ja	ADV	-	0:17:59.819000	0:18:02.812000	-	4062164
 ,	-	-	-	0:17:59.819000	0:18:02.812000	-	4062167
@@ -3999,7 +3999,7 @@ reden	reden	VERB	-	0:18:32.064000	0:18:34.238000	-	4062515
 so	so	ADV	-	0:18:32.064000	0:18:34.238000	-	4062516
 richtig	richtig	ADV	-	0:18:32.064000	0:18:34.238000	-	4062517
 halt	halt	ADV	-	0:18:32.064000	0:18:34.238000	-	4062518
-[Passailerisch]O	-	-	-	0:18:32.064000	0:18:34.238000	-	4062519
+ORT	ORT	-	-	0:18:32.064000	0:18:34.238000	ORT	4062519
 ,	-	-	-	0:18:32.064000	0:18:34.238000	-	4062520
 wo	wo	SCONJ	-	0:18:34.238000	0:18:37.303000	-	4062521
 halt	halt	ADV	-	0:18:34.238000	0:18:37.303000	-	4062522
@@ -4187,7 +4187,7 @@ Sie	ich	PRON	-	0:19:19.477000	0:19:23.696000	-	4062684
 die	der	DET	-	0:19:19.477000	0:19:23.696000	-	4062685
 Zukunft	Zukunft	NOUN	-	0:19:19.477000	0:19:23.696000	-	4062686
 vom	vom	ADP	-	0:19:19.477000	0:19:23.696000	-	4062687
-[Passailerischen]O	-	-	-	0:19:19.477000	0:19:23.696000	-	4062688
+ORT	ORT	-	-	0:19:19.477000	0:19:23.696000	ORT	4062688
 ?	-	-	-	0:19:19.477000	0:19:23.696000	-	4062689
 <pause duration="1,2s"/>
 </u>
@@ -4204,7 +4204,7 @@ ist	sein	AUX	-	0:19:24.348000	0:19:27.819000	-	4062695
 ganz	ganz	ADV	-	0:19:24.348000	0:19:27.819000	-	4062696
 gut	gut	ADV	-	0:19:24.348000	0:19:27.819000	-	4062698
 weil	weil	SCONJ	-	0:19:27.819000	0:19:32.380000	-	4062702
-[Passail]O	-	-	-	0:19:27.819000	0:19:32.380000	-	4062703
+ORT	ORT	-	-	0:19:27.819000	0:19:32.380000	ORT	4062703
 ja	ja	ADV	-	0:19:27.819000	0:19:32.380000	-	4062704
 doch	doch	ADV	-	0:19:27.819000	0:19:32.380000	-	4062710
 so	so	ADV	-	0:19:27.819000	0:19:32.380000	-	4062711
@@ -4367,11 +4367,11 @@ nach	nach	ADV	-	0:20:22.206000	0:20:27.883000	-	4063331
 wie	wie	CCONJ	-	0:20:22.206000	0:20:27.883000	-	4063332
 vor	vor	ADV	-	0:20:22.206000	0:20:27.883000	-	4063333
 in	in	ADP	-	0:20:22.206000	0:20:27.883000	-	4063337
-[Passail]O	-	-	-	0:20:22.206000	0:20:27.883000	-	4063334
+ORT	ORT	-	-	0:20:22.206000	0:20:27.883000	ORT	4063334
 recht	recht	ADV	-	0:20:22.206000	0:20:27.883000	-	4063335
 viel	viel	PRON	-	0:20:22.206000	0:20:27.883000	-	4063338
 im	im	ADP	-	0:20:22.206000	0:20:27.883000	-	4063339
-[Passailerischen]O	-	-	-	0:20:22.206000	0:20:27.883000	-	4063340
+ORT	ORT	-	-	0:20:22.206000	0:20:27.883000	ORT	4063340
 Dialekt	Dialekt	NOUN	-	0:20:22.206000	0:20:27.883000	-	4063341
 redet	reden	VERB	-	0:20:22.206000	0:20:27.883000	-	4063336
 .	-	-	-	0:20:22.206000	0:20:27.883000	-	4063342
@@ -4403,7 +4403,7 @@ ist	sein	AUX	-	0:20:32.051000	0:20:33.232000	-	4063360
 ,	-	-	-	0:20:32.051000	0:20:33.232000	-	4063362
 die	der	PRON	-	0:20:33.232000	0:20:38.890000	-	4063363
 auf	auf	ADP	-	0:20:33.232000	0:20:38.890000	-	4063364
-[Passail]O	-	-	-	0:20:33.232000	0:20:38.890000	-	4063365
+ORT	ORT	-	-	0:20:33.232000	0:20:38.890000	ORT	4063365
 beschränkt	beschränken	VERB	-	0:20:33.232000	0:20:38.890000	-	4063366
 ist	sein	AUX	-	0:20:33.232000	0:20:38.890000	-	4063367
 ?	-	-	-	0:20:33.232000	0:20:38.890000	-	4063368
@@ -4415,7 +4415,7 @@ würde	werden	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV s
 nicht	nicht	PART	-	0:20:38.890000	0:20:40.129000	-	4063372
 sagen	sagen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:20:38.890000	0:20:40.129000	-	4063373
 auf	auf	ADP	-	0:20:38.890000	0:20:40.129000	-	4063374
-[Passail]O	-	-	-	0:20:38.890000	0:20:40.129000	-	4063375
+ORT	ORT	-	-	0:20:38.890000	0:20:40.129000	ORT	4063375
 ,	-	-	-	0:20:38.890000	0:20:40.129000	-	4063376
 ich	ich	PRON	-	0:20:40.129000	0:20:42.303000	-	4063377
 glaube	glauben	VERB	-	0:20:40.129000	0:20:42.303000	-	4063378
@@ -6117,7 +6117,7 @@ linken	-	-	-	0:30:56.374000	0:31:00.845000	-	4085365
 Seite	-	-	-	0:30:56.374000	0:31:00.845000	-	4085366
 sozusagen	-	-	-	0:30:56.374000	0:31:00.845000	-	4085367
 ähm	-	-	-	0:30:56.374000	0:31:00.845000	-	4085368
-[Passailerisch]O	-	-	-	0:30:56.374000	0:31:00.845000	-	4085369
+ORT	ORT	-	-	0:30:56.374000	0:31:00.845000	ORT	4085369
 hätten	-	-	-	0:30:56.374000	0:31:00.845000	-	4085370
 und	-	-	-	0:31:00.845000	0:31:01.400000	-	4085371
 auf	-	-	-	0:31:00.845000	0:31:01.400000	-	4085372
@@ -6146,7 +6146,7 @@ sicher	sichern	ADV	-	0:31:03.161000	0:31:04.025000	-	4085388
 .	-	-	-	0:31:03.161000	0:31:04.025000	-	4085389
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:31:04.025000" end="0:31:15.729000" persName="Informant EXP4" age_lower="1" age_upper="999">
-[Passailerisch]O	-	-	-	0:31:04.025000	0:31:11.419000	-	4085390
+ORT	ORT	-	-	0:31:04.025000	0:31:11.419000	ORT	4085390
 da	da	ADV	-	0:31:04.025000	0:31:11.419000	-	4085391
 <pause duration="2,7s"/>
 und	und	CCONJ	-	0:31:04.025000	0:31:11.419000	-	4085392
@@ -6308,7 +6308,7 @@ du	-	-	-	0:32:01.793000	0:32:02.496000	-	4085519
 jetzt	-	-	-	0:32:01.793000	0:32:02.496000	-	4085520
 sagst	-	-	-	0:32:01.793000	0:32:02.496000	-	4085521
 ,	-	-	-	0:32:01.793000	0:32:02.496000	-	4085522
-[Passailerisch]O	-	-	-	0:32:02.496000	0:32:08.303000	-	4085523
+ORT	ORT	-	-	0:32:02.496000	0:32:08.303000	ORT	4085523
 und	-	-	-	0:32:02.496000	0:32:08.303000	-	4085524
 dann	-	-	-	0:32:02.496000	0:32:08.303000	-	4085525
 deutsches	-	-	-	0:32:02.496000	0:32:08.303000	-	4085526
@@ -8075,7 +8075,7 @@ würden	werden	AUX	-	0:41:30.406000	0:41:32.832000	-	4093226
 das	der	PRON	-	0:41:30.406000	0:41:32.832000	-	4093227
 dann	dann	ADV	-	0:41:30.406000	0:41:32.832000	-	4093228
 am	am	ADP	-	0:41:30.406000	0:41:32.832000	-	4093229
-[Passailerischen]O	-	-	-	0:41:30.406000	0:41:32.832000	-	4093230
+ORT	ORT	-	-	0:41:30.406000	0:41:32.832000	ORT	4093230
 erkennen	erkennen	VERB	-	0:41:30.406000	0:41:32.832000	-	4093231
 sozusagen	sozusagen	ADV	-	0:41:32.832000	0:41:36.593000	-	4093242
 und	und	CCONJ	-	0:41:32.832000	0:41:36.593000	-	4093243
@@ -8791,7 +8791,7 @@ des	der	DET	-	0:45:55.593000	0:45:59.593000	-	4109879
 gesprochenen	gesprochen	ADJ	-	0:45:55.593000	0:45:59.593000	-	4109880
 Deutsch	Deutsch	NOUN	-	0:45:55.593000	0:45:59.593000	-	4109881
 in	in	ADP	-	0:45:55.593000	0:45:59.593000	-	4109882
-[Passail]O	-	-	-	0:45:55.593000	0:45:59.593000	-	4109883
+ORT	ORT	-	-	0:45:55.593000	0:45:59.593000	ORT	4109883
 ,	-	-	-	0:45:55.593000	0:45:59.593000	-	4109884
 die	der	PRON	-	0:45:59.593000	0:46:01.425000	-	4109885
 Sie	ich	PRON	-	0:45:59.593000	0:46:01.425000	-	4109886
@@ -8812,9 +8812,9 @@ haben	haben	AUX	-	0:46:01.425000	0:46:07.903000	-	4109898
 also	also	ADV	-	0:46:07.903000	0:46:16.077000	-	4109901
 wir	ich	PRON	-	0:46:07.903000	0:46:16.077000	-	4109902
 haben	haben	VERB	-	0:46:07.903000	0:46:16.077000	-	4109903
-[Passailerisch]O	-	-	-	0:46:07.903000	0:46:16.077000	-	4109906
+ORT	ORT	-	-	0:46:07.903000	0:46:16.077000	ORT	4109906
 ,	-	-	-	0:46:07.903000	0:46:16.077000	-	4109904
-[Neupassailerisch]O	-	-	-	0:46:07.903000	0:46:16.077000	-	4109905
+ORT	ORT	-	-	0:46:07.903000	0:46:16.077000	ORT	4109905
 ,	-	-	-	0:46:07.903000	0:46:16.077000	-	4109907
 <pause duration="1,2s"/>
 ähm	ähm	PROPN	-	0:46:07.903000	0:46:16.077000	-	4109911
@@ -8856,9 +8856,9 @@ sozusagen	sozusagen	ADV	-	0:46:24.522000	0:46:32.083000	-	4110322
 dazwischen	dazwischen	ADV	-	0:46:24.522000	0:46:32.083000	-	4110330
 gibt	geben	VERB	-	0:46:24.522000	0:46:32.083000	-	4110323
 zwischen	zwischen	ADP	-	0:46:24.522000	0:46:32.083000	-	4110324
-[Passailerisch]O	-	-	-	0:46:24.522000	0:46:32.083000	-	4110325
+ORT	ORT	-	-	0:46:24.522000	0:46:32.083000	ORT	4110325
 ,	-	-	-	0:46:24.522000	0:46:32.083000	-	4110331
-[Neupassailierisch]O	-	-	-	0:46:24.522000	0:46:32.083000	-	4110326
+ORT	ORT	-	-	0:46:24.522000	0:46:32.083000	ORT	4110326
 und	und	CCONJ	-	0:46:24.522000	0:46:32.083000	-	4110327
 dem	der	DET	-	0:46:24.522000	0:46:32.083000	-	4110328
 versuchten	versuchen	ADJ	-	0:46:24.522000	0:46:32.083000	-	4110329
@@ -9060,11 +9060,11 @@ eben	eben	ADV	-	0:47:55.200000	0:48:00.903000	-	4110672
 sagen	sagen	VERB	-	0:47:55.200000	0:48:00.903000	-	4110673
 wir	ich	PRON	-	0:47:55.200000	0:48:00.903000	-	4110674
 das	der	DET	-	0:47:55.200000	0:48:00.903000	-	4110675
-[Neupassailerisch]O	-	-	-	0:47:55.200000	0:48:00.903000	-	4110676
+ORT	ORT	-	-	0:47:55.200000	0:48:00.903000	ORT	4110676
 ,	-	-	-	0:47:55.200000	0:48:00.903000	-	4110677
 also	also	ADV	-	0:48:00.903000	0:48:03.322000	-	4110681
 oder	oder	CCONJ	-	0:48:00.903000	0:48:03.322000	-	4110682
-[Passailerisch]O	-	-	-	0:48:00.903000	0:48:03.322000	-	4110683
+ORT	ORT	-	-	0:48:00.903000	0:48:03.322000	ORT	4110683
 ,	-	-	-	0:48:00.903000	0:48:03.322000	-	4110684
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:48:03.322000" end="0:48:04.664000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -9135,7 +9135,7 @@ mehr	-	-	-	0:48:38.012000	0:48:43.509000	-	4110742
 okay	-	-	-	0:48:38.012000	0:48:43.509000	-	4110735
 ja	-	-	-	0:48:38.012000	0:48:43.509000	-	4110736
 Richtung	-	-	-	0:48:38.012000	0:48:43.509000	-	4110743
-[Passailerisch]O	-	-	-	0:48:38.012000	0:48:43.509000	-	4110744
+ORT	ORT	-	-	0:48:38.012000	0:48:43.509000	ORT	4110744
 also	-	-	-	0:48:38.012000	0:48:43.509000	-	4110737
 gehend	-	-	-	0:48:43.509000	0:48:44.929000	-	4110748
 ,	-	-	-	0:48:43.509000	0:48:44.929000	-	4110749
@@ -9415,7 +9415,7 @@ okay	-	-	-	0:50:34.529000	0:50:35.870000	-	4112343
 ich	-	-	-	0:50:34.529000	0:50:35.870000	-	4112344
 bin	-	-	-	0:50:34.529000	0:50:35.870000	-	4112345
 aus	-	-	-	0:50:34.529000	0:50:35.870000	-	4112346
-[Passail]O"	-	-	-	0:50:34.529000	0:50:35.870000	-	4112347
+ORT	ORT	-	-	0:50:34.529000	0:50:35.870000	ORT	4112347
 "ich	-	-	-	0:50:35.870000	0:50:39.651000	-	4112349
 bin	-	-	-	0:50:35.870000	0:50:39.651000	-	4112350
 aus	-	-	-	0:50:35.870000	0:50:39.651000	-	4112351
@@ -9569,7 +9569,7 @@ gesehen	sehen	VERB	-	0:51:10.864000	0:51:15.593000	-	4112472
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:51:15.593000" end="0:51:18.993000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:51:15.593000	0:51:18.993000	-	4112474
 beim	beim	ADP	-	0:51:15.593000	0:51:18.993000	-	4112475
-[Neupassailerisch]O	-	-	-	0:51:15.593000	0:51:18.993000	-	4112478
+ORT	ORT	-	-	0:51:15.593000	0:51:18.993000	ORT	4112478
 und	und	CCONJ	-	0:51:15.593000	0:51:18.993000	-	4112476
 ja	ja	ADV	-	0:51:15.593000	0:51:18.993000	-	4112477
 </u>
@@ -9613,7 +9613,7 @@ dem	der	DET	-	0:51:31.374000	0:51:43.064000	-	4119001
 Großteil	Großteil	NOUN	-	0:51:31.374000	0:51:43.064000	-	4119002
 spreche	sprechen	VERB	-	0:51:31.374000	0:51:43.064000	-	4119003
 ich	ich	PRON	-	0:51:31.374000	0:51:43.064000	-	4119004
-[Passailerisch]O	-	-	-	0:51:31.374000	0:51:43.064000	-	4119005
+ORT	ORT	-	-	0:51:31.374000	0:51:43.064000	ORT	4119005
 .	-	-	-	0:51:31.374000	0:51:43.064000	-	4119006
 meinen	mein	DET	-	0:51:43.064000	0:51:54.206000	-	4119007
 Eltern	Eltern	NOUN	-	0:51:43.064000	0:51:54.206000	-	4119008
@@ -9680,7 +9680,7 @@ Kindergarten	Kindergarten	NOUN	-	0:52:06.935000	0:52:10.896000	-	4119068
 geht	gehen	VERB	-	0:52:06.935000	0:52:10.896000	-	4119069
 und	und	CCONJ	-	0:52:06.935000	0:52:10.896000	-	4119070
 in	in	ADP	-	0:52:06.935000	0:52:10.896000	-	4119071
-[Passail]O	-	-	-	0:52:06.935000	0:52:10.896000	-	4119072
+ORT	ORT	-	-	0:52:06.935000	0:52:10.896000	ORT	4119072
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:52:10.896000" end="0:52:11.580000" persName="Informant EXP4" age_lower="1" age_upper="999">
 mhm	mhm	PROPN	-	0:52:10.896000	0:52:11.580000	-	4119073
@@ -10129,7 +10129,7 @@ Partner	Partner	NOUN	-	0:54:25.858000	0:54:31.400000	-	4119659
 jetzt	jetzt	ADV	-	0:54:25.858000	0:54:31.400000	-	4119661
 nicht	nicht	PART	-	0:54:25.858000	0:54:31.400000	-	4119662
 so	so	ADV	-	0:54:25.858000	0:54:31.400000	-	4119663
-[Passailerisch]O	-	-	-	0:54:25.858000	0:54:31.400000	-	4119664
+ORT	ORT	-	-	0:54:25.858000	0:54:31.400000	ORT	4119664
 spricht	sprechen	VERB	-	0:54:25.858000	0:54:31.400000	-	4119665
 ,	-	-	-	0:54:25.858000	0:54:31.400000	-	4119667
 nicht	nicht	PART	-	0:54:25.858000	0:54:31.400000	-	4119668
@@ -10182,7 +10182,7 @@ gesprochen	sprechen	VERB	-	0:54:42.341000	0:54:45.651000	-	4119712
 <pause duration="1,0s"/>
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:54:45.651000" end="0:54:46.909000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Passailerisch]O	-	-	-	0:54:45.651000	0:54:46.909000	-	4119715
+ORT	ORT	-	-	0:54:45.651000	0:54:46.909000	ORT	4119715
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:54:46.909000" end="0:54:47.677000" persName="Informant EXP4" age_lower="1" age_upper="999">
 mhm	mhm	PROPN	-	0:54:46.909000	0:54:47.677000	-	4119718
@@ -10202,7 +10202,7 @@ Kind	Kind	NOUN	-	0:54:47.677000	0:54:52.316000	-	4119723
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:54:52.316000" end="0:54:54.316000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:54:52.316000	0:54:54.316000	-	4119726
-[Passailerisch]O	-	-	-	0:54:52.316000	0:54:54.316000	-	4119727
+ORT	ORT	-	-	0:54:52.316000	0:54:54.316000	ORT	4119727
 glaube	glauben	VERB	-	0:54:52.316000	0:54:54.316000	-	4119728
 ich	ich	PRON	-	0:54:52.316000	0:54:54.316000	-	4119729
 .	-	-	-	0:54:52.316000	0:54:54.316000	-	4119730
@@ -10491,7 +10491,7 @@ wir	ich	PRON	-	0:56:26.587000	0:56:29.522000	-	4120127
 waren	sein	AUX	-	0:56:26.587000	0:56:29.522000	-	4120128
 sehr	sehr	ADV	-	0:56:26.587000	0:56:29.522000	-	4120129
 viele	viel	DET	-	0:56:26.587000	0:56:29.522000	-	4120130
-[Passailer]O	-	-	-	0:56:26.587000	0:56:29.522000	-	4120131
+ORT	ORT	-	-	0:56:26.587000	0:56:29.522000	ORT	4120131
 Kinder	Kind	NOUN	-	0:56:26.587000	0:56:29.522000	-	4120132
 ,	-	-	-	0:56:26.587000	0:56:29.522000	-	4120133
 </u>
@@ -10799,7 +10799,7 @@ der	der	PRON	-	0:58:04.161000	0:58:07.483000	-	4121120
 Sie	ich	PRON	-	0:58:04.161000	0:58:07.483000	-	4121121
 außerhalb	außerhalb	ADP	-	0:58:04.161000	0:58:07.483000	-	4121122
 von	von	ADP	-	0:58:04.161000	0:58:07.483000	-	4121123
-[Passail]O	-	-	-	0:58:04.161000	0:58:07.483000	-	4121124
+ORT	ORT	-	-	0:58:04.161000	0:58:07.483000	ORT	4121124
 gelebt	leben	VERB	-	0:58:04.161000	0:58:07.483000	-	4121125
 haben	haben	AUX	-	0:58:04.161000	0:58:07.483000	-	4121127
 ?	-	-	-	0:58:04.161000	0:58:07.483000	-	4121128
@@ -10922,7 +10922,7 @@ sagen	sagen	VERB	-	0:58:44.561000	0:58:46.122000	-	4121233
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:58:46.122000" end="0:58:53.954000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 hm	hm	X	-	0:58:46.122000	0:58:50.503000	-	4121236
-[Neupassailerisch]O	-	-	-	0:58:50.503000	0:58:53.954000	-	4121237
+ORT	ORT	-	-	0:58:50.503000	0:58:53.954000	ORT	4121237
 bis	bis	ADP	-	0:58:50.503000	0:58:53.954000	-	4121238
 schönen	schön	ADJ	-	0:58:50.503000	0:58:53.954000	-	4121239
 Dialekt	Dialekt	NOUN	-	0:58:50.503000	0:58:53.954000	-	4121240
@@ -11233,7 +11233,7 @@ wir	ich	PRON	-	1:00:20.587000	1:00:25.651000	-	4121518
 haben	haben	VERB	-	1:00:20.587000	1:00:25.651000	-	4121519
 eben	eben	ADV	-	1:00:20.587000	1:00:25.651000	-	4121520
 das	der	DET	-	1:00:20.587000	1:00:25.651000	-	4121521
-[Passailerisch]O	-	-	-	1:00:20.587000	1:00:25.651000	-	4121522
+ORT	ORT	-	-	1:00:20.587000	1:00:25.651000	ORT	4121522
 oder	oder	CCONJ	-	1:00:20.587000	1:00:25.651000	-	4121523
 s/	-	-	-	1:00:20.587000	1:00:25.651000	-	4121524
 oder	oder	CCONJ	-	1:00:20.587000	1:00:25.651000	-	4121526
@@ -12150,7 +12150,7 @@ aus	aus	ADP	-	1:05:17.819000	1:05:23.070000	-	4127684
 dem	der	DET	-	1:05:17.819000	1:05:23.070000	-	4127685
 Ort	Ort	NOUN	-	1:05:17.819000	1:05:23.070000	-	4127686
 ?	-	-	-	1:05:17.819000	1:05:23.070000	-	4127687
-[Passail]O	-	-	-	1:05:23.070000	1:05:27.122000	-	4127695
+ORT	ORT	-	-	1:05:23.070000	1:05:27.122000	ORT	4127695
 ?	-	-	-	1:05:23.070000	1:05:27.122000	-	4127848
 sind	sein	AUX	-	1:05:23.070000	1:05:27.122000	-	4127688
 Sie	ich	PRON	-	1:05:23.070000	1:05:27.122000	-	4127689
@@ -12267,7 +12267,7 @@ einfach	einfach	ADV	-	1:05:55.561000	1:05:59.387000	-	4127936
 freu/	-	-	-	1:05:55.561000	1:05:59.387000	-	4127937
 also	also	ADV	-	1:05:55.561000	1:05:59.387000	-	4127938
 in	in	ADP	-	1:05:55.561000	1:05:59.387000	-	4127939
-[Passail]O	-	-	-	1:05:55.561000	1:05:59.387000	-	4127940
+ORT	ORT	-	-	1:05:55.561000	1:05:59.387000	ORT	4127940
 Freundschaften	Freundschaft	NOUN	-	1:05:55.561000	1:05:59.387000	-	4127941
 mei	mei	NOUN	-	1:05:55.561000	1:05:59.387000	-	4127942
 /.	-	-	-	1:05:55.561000	1:05:59.387000	-	4127945
@@ -12650,7 +12650,7 @@ Sie	ich	PRON	-	1:07:27.245000	1:07:29.677000	-	4128258
 wieder	wieder	ADV	-	1:07:27.245000	1:07:29.677000	-	4128259
 zurück	zurück	ADV	-	1:07:27.245000	1:07:29.677000	-	4128260
 nach	nach	ADP	-	1:07:27.245000	1:07:29.677000	-	4128261
-[Passail]O	-	-	-	1:07:29.677000	1:07:30.690000	-	4128264
+ORT	ORT	-	-	1:07:29.677000	1:07:30.690000	ORT	4128264
 .	-	-	-	1:07:29.677000	1:07:30.690000	-	4128265
 </u>
 <u who="spk_478" sex="female" age="jung (18-35) +matura" name="Informant 0365" subproject="PP03" standard_competence="2" dialect_competence="6" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="1:07:29.677000" end="1:07:30.690000" persName="Informant 0365" residence="Passail, Weiz, Steiermark, 8162, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -12812,7 +12812,7 @@ wegzuziehen	wegziehen	VERB	-	1:08:13.012000	1:08:16.870000	-	4128402
 oder	oder	CCONJ	-	1:08:16.870000	1:08:18.734000	-	4128406
 wird	werden	AUX	-	1:08:16.870000	1:08:18.734000	-	4128407
 jetzt	jetzt	ADV	-	1:08:16.870000	1:08:18.734000	-	4128408
-[Passail]O	-	-	-	1:08:16.870000	1:08:18.734000	-	4128409
+ORT	ORT	-	-	1:08:16.870000	1:08:18.734000	ORT	4128409
 einfach	einfach	ADV	-	1:08:16.870000	1:08:18.734000	-	4128410
 /.	-	-	-	1:08:16.870000	1:08:18.734000	-	4128411
 </u>
@@ -12835,7 +12835,7 @@ sollte	sollen	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät Ksynth KVerb MV 
 mal	mal	ADV	-	1:08:21.941000	1:08:23.779000	-	4128424
 wei/	-	-	-	1:08:21.941000	1:08:23.779000	-	4128425
 bei	bei	ADP	-	1:08:21.941000	1:08:23.779000	-	4128428
-[Passail]O	-	-	-	1:08:21.941000	1:08:23.779000	-	4128426
+ORT	ORT	-	-	1:08:21.941000	1:08:23.779000	ORT	4128426
 bleiben	bleiben	VERB	-	1:08:21.941000	1:08:23.779000	-	4128427
 ,	-	-	-	1:08:21.941000	1:08:23.779000	-	4128429
 weil	weil	SCONJ	-	1:08:23.779000	1:08:27.019000	-	4128430
@@ -12886,7 +12886,7 @@ sozusagen	sozusagen	ADV	-	1:08:34.670000	1:08:41.161000	-	4128546
 ja	ja	ADV	-	1:08:34.670000	1:08:41.161000	-	4128547
 gefällt	gefallen	VERB	-	1:08:34.670000	1:08:41.161000	-	4128548
 Ihnen	ich	PRON	-	1:08:34.670000	1:08:41.161000	-	4128549
-[Passail]O	-	-	-	1:08:34.670000	1:08:41.161000	-	4128550
+ORT	ORT	-	-	1:08:34.670000	1:08:41.161000	ORT	4128550
 als	als	CCONJ	-	1:08:34.670000	1:08:41.161000	-	4128551
 auch	auch	ADV	-	1:08:34.670000	1:08:41.161000	-	4128557
 als	als	ADP	-	1:08:34.670000	1:08:41.161000	-	4128556
@@ -13100,7 +13100,7 @@ ich	ich	PRON	-	1:09:40.432000	1:09:43.631000	-	4128737
 wahrscheinlich	wahrscheinlich	ADV	-	1:09:40.432000	1:09:43.631000	-	4128738
 nicht	nicht	PART	-	1:09:40.432000	1:09:43.631000	-	4128739
 nach	nach	ADP	-	1:09:40.432000	1:09:43.631000	-	4128740
-[Passail]O	-	-	-	1:09:40.432000	1:09:43.631000	-	4128741
+ORT	ORT	-	-	1:09:40.432000	1:09:43.631000	ORT	4128741
 zurück	zurück	ADV	-	1:09:40.432000	1:09:43.631000	-	4128742
 gegangen	gehen	VERB	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum seinAux std stdL+	1:09:40.432000	1:09:43.631000	-	4128743
 ,	-	-	-	1:09:40.432000	1:09:43.631000	-	4128745

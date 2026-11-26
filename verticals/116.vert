@@ -55,7 +55,7 @@ ZAHL	ZAHL	PROPN	aReal aVar dumpf+ F igReal igVar LautNach LautVor MG mhd. /a/ of
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:12.826000" end="0:00:15.099000" persName="Informant EXP3" age_lower="1" age_upper="999">
 NAME	NAME	NOUN	-	0:00:12.826000	0:00:15.099000	NAME	1358064
-siebter]Z/	-	-	-	0:00:12.826000	0:00:15.099000	-	1358331
+ZAHL	ZAHL	-	-	0:00:12.826000	0:00:15.099000	ZAHL	1358331
 .	-	-	-	0:00:12.826000	0:00:15.099000	-	1355441
 </u>
 <u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" subproject="PP03" standard_competence="6" dialect_competence="6" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:15.099000" end="0:00:18.519000" persName="Informant 0283" residence="Tux, Schwaz, Tirol, 6293, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -1128,7 +1128,7 @@ ja	ja	PART	-	0:03:57.666000	0:03:58.206000	-	1355547
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:03:57.666000" end="0:04:01.959000" persName="Informant EXP3" age_lower="1" age_upper="999">
 ak/	-	-	-	0:03:57.666000	0:03:58.206000	-	1365045
-ak]S/	-	-	-	0:03:57.666000	0:03:58.206000	-	1356938
+SONSTIGE	SONSTIGE	-	-	0:03:57.666000	0:03:58.206000	SONSTIGE	1356938
 okay	okay	NOUN	-	0:03:58.206000	0:03:59.799000	-	1361023
 .	-	-	-	0:03:58.206000	0:03:59.799000	-	1367356
 und	und	CCONJ	-	0:03:58.206000	0:03:59.799000	-	1356875

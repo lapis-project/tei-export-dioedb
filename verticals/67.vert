@@ -14569,7 +14569,7 @@ uns	-	-	-	0:46:12.497000	0:46:14.497000	-	764136
 den/	-	-	-	0:46:12.497000	0:46:14.497000	-	764380
 den	-	-	-	0:46:12.497000	0:46:14.497000	-	774882
 ORT	ORT	-	-	0:46:12.497000	0:46:14.497000	ORT	769877
-Baumann]N?	-	-	-	0:46:12.497000	0:46:14.497000	-	765925
+NAME	NAME	-	-	0:46:12.497000	0:46:14.497000	NAME	765925
 </u>
 <u who="spk_152" sex="male" age="jung (18-35) +matura" name="Informant 0228" subproject="PP03" standard_competence="3" dialect_competence="6" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:46:14.497000" end="0:46:15.217000" persName="Informant 0228" residence="Tarrenz, Imst, Tirol, 6464, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:46:14.497000	0:46:15.217000	-	772582

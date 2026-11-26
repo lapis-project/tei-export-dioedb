@@ -392,7 +392,7 @@ aufgewachsen	aufwachsen	VERB	-	0:01:25.846000	0:01:30.086000	-	2412641
 </u>
 <u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" subproject="PP03" standard_competence="5" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:30.086000" end="0:01:33.940000" persName="Informant 0029" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 In	In	ADP	-	0:01:30.086000	0:01:33.940000	-	2412669
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:01:30.086000	0:01:33.940000	-	2412668
+ORT	ORT	NOUN	-	0:01:30.086000	0:01:33.940000	ORT	2412668
 ,	-	-	-	0:01:30.086000	0:01:33.940000	-	2412633
 also	also	ADV	-	0:01:30.086000	0:01:33.940000	-	2412719
 eh	eh	ADV	-	0:01:30.086000	0:01:33.940000	-	2412568
@@ -13143,7 +13143,7 @@ in	in	ADP	-	0:46:22.520000	0:46:25.014000	-	104469
 erster	erst	ADJ	-	0:46:22.520000	0:46:25.014000	-	102147
 Linie	Linie	NOUN	-	0:46:22.520000	0:46:25.014000	-	99926
 aus	aus	ADP	-	0:46:22.520000	0:46:25.014000	-	104766
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:46:22.520000	0:46:25.014000	-	97716
+ORT	ORT	NOUN	-	0:46:22.520000	0:46:25.014000	ORT	97716
 oder	oder	CCONJ	-	0:46:22.520000	0:46:25.014000	-	97406
 ?	-	-	-	0:46:22.520000	0:46:25.014000	-	105106
 </u>
@@ -13181,7 +13181,7 @@ eigentlich	eigentlich	ADV	-	0:46:28.020000	0:46:31.755000	-	99502
 hauptsächlich	hauptsächlich	ADJ	-	0:46:28.020000	0:46:31.755000	-	96457
 alle	all	PRON	-	0:46:28.020000	0:46:31.755000	-	99488
 aus	aus	ADP	-	0:46:28.020000	0:46:31.755000	-	99125
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:46:28.020000	0:46:31.755000	-	102008
+ORT	ORT	NOUN	-	0:46:28.020000	0:46:31.755000	ORT	102008
 .	-	-	-	0:46:28.020000	0:46:31.755000	-	105146
 </u>
 <u who="spk_620" sex="female" age="UNK" name="Informant EXP5" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:31.755000" end="0:46:32.331000" persName="Informant EXP5" age_lower="1" age_upper="999">
@@ -13239,7 +13239,7 @@ die	der	DET	-	0:46:38.308000	0:46:40.049000	-	105904
 Personen	Person	NOUN	-(e)n Interf Interf- NPL sd+ SDent Suff U- Uml	0:46:38.308000	0:46:40.049000	-	106240
 meistens	meistens	ADV	ADVS ASond sd+ SDent suppl	0:46:38.308000	0:46:40.049000	-	106576
 aus	aus	ADP	-	0:46:38.308000	0:46:40.049000	-	105279
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:46:38.308000	0:46:40.049000	-	100427
+ORT	ORT	NOUN	-	0:46:38.308000	0:46:40.049000	ORT	100427
 .	-	-	-	0:46:38.308000	0:46:40.049000	-	99998
 genau	genau	ADJ	-	0:46:40.049000	0:46:40.431000	-	105175
 .	-	-	-	0:46:40.049000	0:46:40.431000	-	102012
@@ -13451,7 +13451,7 @@ wohnen	wohnen	VERB	-	0:47:22.702000	0:47:27.096000	-	105777
 Sie	ich	PRON	-	0:47:22.702000	0:47:27.096000	-	103254
 gerne	gerne	ADV	-	0:47:22.702000	0:47:27.096000	-	101546
 in	in	ADP	-	0:47:22.702000	0:47:27.096000	-	101520
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:47:22.702000	0:47:27.096000	-	101137
+ORT	ORT	NOUN	-	0:47:22.702000	0:47:27.096000	ORT	101137
 ?	-	-	-	0:47:22.702000	0:47:27.096000	-	106174
 </u>
 <u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" subproject="PP03" standard_competence="5" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:47:27.096000" end="0:47:29.655000" persName="Informant 0029" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -13492,7 +13492,7 @@ schön	schön	ADJ	-	0:47:33.320000	0:47:35.361000	-	105120
 ,	-	-	-	0:47:33.320000	0:47:35.361000	-	99677
 ich	ich	PRON	-	0:47:35.361000	0:47:37.837000	-	98761
 glaube	glauben	VERB	-	0:47:35.361000	0:47:37.837000	-	98380
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:47:35.361000	0:47:37.837000	-	103284
+ORT	ORT	NOUN	-	0:47:35.361000	0:47:37.837000	ORT	103284
 verbindet	verbinden	VERB	-	0:47:35.361000	0:47:37.837000	-	102994
 sehr	sehr	ADV	-	0:47:35.361000	0:47:37.837000	-	99779
 viele	viel	DET	-	0:47:35.361000	0:47:37.837000	-	98854
@@ -13574,7 +13574,7 @@ ja	ja	PART	-	0:47:50.978000	0:47:51.625000	-	102876
 <u who="spk_10" sex="male" age="jung (18-35) -matura" name="Informant 0029" subproject="PP03" standard_competence="5" dialect_competence="7" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:47:51.625000" end="0:47:55.437000" persName="Informant 0029" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:47:51.625000	0:47:54.437000	-	103481
 in	in	ADP	-	0:47:51.625000	0:47:54.437000	-	102550
-[Neckenmarkt]O	Neckenmarkt	NOUN	-	0:47:51.625000	0:47:54.437000	-	99662
+ORT	ORT	NOUN	-	0:47:51.625000	0:47:54.437000	ORT	99662
 hat	haben	AUX	-	0:47:51.625000	0:47:54.437000	-	106624
 man	man	PRON	-	0:47:51.625000	0:47:54.437000	-	99610
 das	der	DET	-	0:47:51.625000	0:47:54.437000	-	99719

@@ -2408,7 +2408,7 @@ ja	-	-	-	0:09:48.026000	0:09:48.393000	-	684414
 und	und	CCONJ	-	0:09:48.393000	0:09:49.599000	-	686663
 das	der	PRON	-	0:09:48.393000	0:09:49.599000	-	686333
 ist	sein	AUX	-	0:09:48.393000	0:09:49.599000	-	685785
-[Tarrenzerrisch]O	Tarrenzerrisch	NOUN	-	0:09:48.393000	0:09:49.599000	-	690049
+ORT	ORT	NOUN	-	0:09:48.393000	0:09:49.599000	ORT	690049
 .	-	-	-	0:09:48.393000	0:09:49.599000	-	680789
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:09:49.599000" end="0:09:49.986000" persName="Informant EXP3" age_lower="1" age_upper="999">
@@ -15062,7 +15062,7 @@ Aktivitäten	Aktivität	NOUN	-	1:00:28.745000	1:00:31.552000	-	683598
 ,	-	-	-	1:00:28.745000	1:00:31.552000	-	681978
 die	der	DET	-	1:00:28.745000	1:00:31.552000	-	681462
 in	in	ADP	-	1:00:28.745000	1:00:31.552000	-	690678
-[Tarrenz]O	Tarrenz	PROPN	-	1:00:28.745000	1:00:31.552000	-	686177
+ORT	ORT	PROPN	-	1:00:28.745000	1:00:31.552000	ORT	686177
 passieren	passieren	VERB	-	1:00:28.745000	1:00:31.552000	-	691057
 ,	-	-	-	1:00:28.745000	1:00:31.552000	-	692554
 oder	oder	CCONJ	-	1:00:28.745000	1:00:31.552000	-	690987
@@ -15071,13 +15071,13 @@ oder	oder	CCONJ	-	1:00:28.745000	1:00:31.552000	-	690987
 <u who="spk_161" sex="female" age="Alt (65+)" name="Informant 0237" subproject="PP03" standard_competence="1" dialect_competence="6" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="1:00:31.552000" end="1:00:32.552000" persName="Informant 0237" residence="Tarrenz, Imst, Tirol, 6464, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 alles	alle	PRON	-	1:00:31.552000	1:00:32.552000	-	692404
 in	in	ADP	-	1:00:31.552000	1:00:32.552000	-	691206
-[Tarrenz]O	Tarrenz	NOUN	-	1:00:31.552000	1:00:32.552000	-	682367
+ORT	ORT	NOUN	-	1:00:31.552000	1:00:32.552000	ORT	682367
 .	-	-	-	1:00:31.552000	1:00:32.552000	-	683772
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:32.552000" end="1:00:36.752000" persName="Informant EXP3" age_lower="1" age_upper="999">
 alles	alle	PRON	-	1:00:32.552000	1:00:33.985000	-	690981
 in	in	ADP	-	1:00:32.552000	1:00:33.985000	-	691817
-[Tarrenz]O	Tarrenz	PROPN	-	1:00:32.552000	1:00:33.985000	-	684217
+ORT	ORT	PROPN	-	1:00:32.552000	1:00:33.985000	ORT	684217
 mhm	mhm	PROPN	-	1:00:32.552000	1:00:33.985000	-	690032
 .	-	-	-	1:00:32.552000	1:00:33.985000	-	692233
 treffen	treffen	VERB	-	1:00:33.985000	1:00:36.752000	-	687721
@@ -15111,14 +15111,14 @@ sind	sein	AUX	-	1:00:38.272000	1:00:39.758000	-	686836
 dann	dann	ADV	-	1:00:38.272000	1:00:39.758000	-	692196
 auch	auch	ADV	-	1:00:38.272000	1:00:39.758000	-	680306
 aus	aus	ADP	-	1:00:38.272000	1:00:39.758000	-	686419
-[Tarrenz]O	Tarrenz	NOUN	-	1:00:39.758000	1:00:40.878000	-	687185
+ORT	ORT	NOUN	-	1:00:39.758000	1:00:40.878000	ORT	687185
 ja	ja	PART	-	1:00:39.758000	1:00:40.878000	-	688456
 .	-	-	-	1:00:39.758000	1:00:40.878000	-	682842
 </u>
 <u who="spk_161" sex="female" age="Alt (65+)" name="Informant 0237" subproject="PP03" standard_competence="1" dialect_competence="6" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="1:00:39.758000" end="1:00:40.878000" persName="Informant 0237" residence="Tarrenz, Imst, Tirol, 6464, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
 auch	auch	ADV	-	1:00:39.758000	1:00:40.878000	-	686795
 aus	aus	ADP	-	1:00:39.758000	1:00:40.878000	-	686923
-[Tarrenz]O	Tarrenz	NOUN	-	1:00:39.758000	1:00:40.878000	-	691264
+ORT	ORT	NOUN	-	1:00:39.758000	1:00:40.878000	ORT	691264
 .	-	-	-	1:00:39.758000	1:00:40.878000	-	690299
 </u>
 <u who="spk_618" sex="male" age="UNK" name="Informant EXP3" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:00:40.878000" end="1:00:42.292000" persName="Informant EXP3" age_lower="1" age_upper="999">
@@ -15484,7 +15484,7 @@ wohnen	wohnen	VERB	-	1:02:02.778000	1:02:03.752000	-	681819
 Sie	ich	PRON	-	1:02:02.778000	1:02:03.752000	-	680023
 gerne	gerne	ADV	-	1:02:02.778000	1:02:03.752000	-	685166
 in	in	ADP	-	1:02:02.778000	1:02:03.752000	-	683810
-[Tarrenz]O	Tarrenz	NOUN	-	1:02:02.778000	1:02:03.752000	-	680316
+ORT	ORT	NOUN	-	1:02:02.778000	1:02:03.752000	ORT	680316
 ?	-	-	-	1:02:02.778000	1:02:03.752000	-	688189
 </u>
 <u who="spk_161" sex="female" age="Alt (65+)" name="Informant 0237" subproject="PP03" standard_competence="1" dialect_competence="6" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="1:02:03.752000" end="1:02:04.245000" persName="Informant 0237" residence="Tarrenz, Imst, Tirol, 6464, Österreich" affiliation="PP03" age_lower="65" age_upper="999">
@@ -15501,7 +15501,7 @@ was	was	PRON	-	1:02:04.245000	1:02:07.372000	-	683238
 macht	machen	NOUN	-	1:02:04.245000	1:02:07.372000	-	680604
 wohnen	wohnen	VERB	-	1:02:04.245000	1:02:07.372000	-	686178
 in	in	ADP	-	1:02:04.245000	1:02:07.372000	-	689307
-[Tarrenz]O	Tarrenz	PROPN	-	1:02:04.245000	1:02:07.372000	-	689074
+ORT	ORT	PROPN	-	1:02:04.245000	1:02:07.372000	ORT	689074
 so	so	ADV	-	1:02:04.245000	1:02:07.372000	-	684253
 schön	schön	ADJ	-	1:02:04.245000	1:02:07.372000	-	686097
 für	für	ADP	-	1:02:04.245000	1:02:07.372000	-	687493
@@ -15646,7 +15646,7 @@ Bedingungen	Bedingung	NOUN	-	1:02:36.645000	1:02:39.478000	-	680510
 vorstellen	vorstellen	VERB	-	1:02:36.645000	1:02:39.478000	-	681974
 ,	-	-	-	1:02:36.645000	1:02:39.478000	-	691796
 aus	aus	ADP	-	1:02:39.478000	1:02:40.218000	-	687577
-[Tarrenz]O	Tarrenz	NOUN	-	1:02:39.478000	1:02:40.218000	-	688900
+ORT	ORT	NOUN	-	1:02:39.478000	1:02:40.218000	ORT	688900
 wegzu=	wegziehen	VERB	-	1:02:39.478000	1:02:40.218000	-	686299
 ziehen	-	SPACE	-	1:02:40.218000	1:02:40.705000	-	682710
 ?	-	-	-	1:02:40.218000	1:02:40.705000	-	683597
@@ -15759,7 +15759,7 @@ wird	werden	AUX	-	1:02:58.212000	1:02:59.632000	-	690041
 die	der	PRON	-	1:02:59.632000	1:03:04.132000	-	686227
 müssen	müssen	VERB	-	1:02:59.632000	1:03:04.132000	-	691637
 von	von	ADP	-	1:02:59.632000	1:03:04.132000	-	684509
-[Tarrenz]O	Tarrenz	NOUN	-	1:02:59.632000	1:03:04.132000	-	685692
+ORT	ORT	NOUN	-	1:02:59.632000	1:03:04.132000	ORT	685692
 teilweise	teilweise	ADV	-	1:02:59.632000	1:03:04.132000	-	691015
 nach	nach	ADP	-	1:02:59.632000	1:03:04.132000	-	685037
 Innsbruck	Innsbruck	NOUN	-	1:02:59.632000	1:03:04.132000	-	688908

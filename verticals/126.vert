@@ -131,7 +131,7 @@ aufgewachsen	aufwachsen	VERB	-	0:00:28.219000	0:00:32.519000	-	1487362
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:32.519000" end="0:00:33.593000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	0:00:32.519000	0:00:33.593000	-	1478113
-[Oberwölz]O	Oberwölz	PROPN	-	0:00:32.519000	0:00:33.593000	-	1489195
+ORT	ORT	PROPN	-	0:00:32.519000	0:00:33.593000	ORT	1489195
 .	-	-	-	0:00:32.519000	0:00:33.593000	-	1479687
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:33.593000" end="0:00:33.986000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -143,7 +143,7 @@ ja	ja	PART	-	0:00:33.986000	0:00:34.446000	-	1479140
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:00:34.446000" end="0:00:36.226000" persName="Informant EXP4" age_lower="1" age_upper="999">
 in	in	ADP	-	0:00:34.446000	0:00:36.226000	-	1486637
-[Oberwölz]O	Oberwölz	PROPN	-	0:00:34.446000	0:00:36.226000	-	1480016
+ORT	ORT	PROPN	-	0:00:34.446000	0:00:36.226000	ORT	1480016
 direkt	direkt	ADJ	-	0:00:34.446000	0:00:36.226000	-	1485403
 oder/	-	-	-	0:00:34.446000	0:00:36.226000	-	1489795
 .	-	-	-	0:00:34.446000	0:00:36.226000	-	1484790
@@ -170,7 +170,7 @@ ORT	ORT	PROPN	-	0:00:41.746000	0:00:43.746000	ORT	1477417
 hat	haben	AUX	-	0:00:43.746000	0:00:45.606000	-	1487864
 früher	früh	ADJ	-	0:00:43.746000	0:00:45.606000	-	1487086
 zu	zu	ADP	-	0:00:43.746000	0:00:45.606000	-	1481294
-[Oberwölz]O	Oberwölz	PROPN	-	0:00:43.746000	0:00:45.606000	-	1478925
+ORT	ORT	PROPN	-	0:00:43.746000	0:00:45.606000	ORT	1478925
 Umgebung	Umgebung	NOUN	-	0:00:43.746000	0:00:45.606000	-	1486874
 gehört	hören	VERB	-	0:00:43.746000	0:00:45.606000	-	1485253
 .	-	-	-	0:00:43.746000	0:00:45.606000	-	1479624
@@ -950,7 +950,7 @@ ihre	mein	DET	-	0:03:44.786000	0:03:46.679000	-	1477565
 Familie	Familie	NOUN	-	0:03:44.786000	0:03:46.679000	-	1479980
 ist	sein	AUX	-	0:03:44.786000	0:03:46.679000	-	1487924
 in	in	ADP	-	0:03:44.786000	0:03:46.679000	-	1483592
-[Oberwölz]O	Oberwölz	NOUN	-	0:03:44.786000	0:03:46.679000	-	1482853
+ORT	ORT	NOUN	-	0:03:44.786000	0:03:46.679000	ORT	1482853
 geblieben	bleiben	VERB	-	0:03:44.786000	0:03:46.679000	-	1489513
 ?	-	-	-	0:03:44.786000	0:03:46.679000	-	1483172
 </u>
@@ -1151,7 +1151,7 @@ stellt	stellen	VERB	-	0:04:31.199000	0:04:34.626000	-	1490619
 sich	sich	PRON	-	0:04:31.199000	0:04:34.626000	-	1484604
 halt	halt	ADV	-	0:04:31.199000	0:04:34.626000	-	1488519
 in	in	ADP	-	0:04:31.199000	0:04:34.626000	-	1482511
-[Oberwölz]O	Oberwölz	PROPN	-	0:04:31.199000	0:04:34.626000	-	1486933
+ORT	ORT	PROPN	-	0:04:31.199000	0:04:34.626000	ORT	1486933
 so	so	ADV	-	0:04:31.199000	0:04:34.626000	-	1491393
 wie	wie	CCONJ	-	0:04:31.199000	0:04:34.626000	-	1478441
 so	so	ADV	-	0:04:31.199000	0:04:34.626000	-	1477422
@@ -1186,7 +1186,7 @@ nicht	nicht	PART	-	0:04:41.126000	0:04:45.652000	-	1486146
 <pause duration="0,7s"/>
 ähm	ähm	ADJ	-	0:04:41.126000	0:04:45.652000	-	1478002
 in	in	ADP	-	0:04:41.126000	0:04:45.652000	-	1490717
-[Oberwölz]O	Oberwölz	PROPN	-	0:04:41.126000	0:04:45.652000	-	1486480
+ORT	ORT	PROPN	-	0:04:41.126000	0:04:45.652000	ORT	1486480
 kann	können	VERB	-	0:04:41.126000	0:04:45.652000	-	1481169
 man	man	PRON	-	0:04:41.126000	0:04:45.652000	-	1489199
 nicht	nicht	PART	-	0:04:41.126000	0:04:45.652000	-	1479183
@@ -1244,7 +1244,7 @@ Freunde	Freund	NOUN	-	0:04:56.586000	0:04:58.786000	-	1489381
 waren	sein	AUX	-	0:04:56.586000	0:04:58.786000	-	1490894
 dann	dann	ADV	-	0:04:56.586000	0:04:58.786000	-	1487650
 in	in	ADP	-	0:04:56.586000	0:04:58.786000	-	1489139
-[Klagenfurt]O	Klagenfurt	PROPN	-	0:04:56.586000	0:04:58.786000	-	1485113
+ORT	ORT	PROPN	-	0:04:56.586000	0:04:58.786000	ORT	1485113
 oder	oder	CCONJ	-	0:04:56.586000	0:04:58.786000	-	1484310
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:04:58.786000" end="0:04:59.392000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -1265,9 +1265,9 @@ oder	oder	CCONJ	-	0:04:59.392000	0:05:08.786000	-	1479388
 die	der	DET	-	0:04:59.392000	0:05:08.786000	-	1488969
 Gymnasien	Gymnasium	NOUN	-	0:04:59.392000	0:05:08.786000	-	1491522
 in	in	ADP	-	0:04:59.392000	0:05:08.786000	-	1490503
-[Tamsweg]O	Tamsweg	PROPN	-	0:04:59.392000	0:05:08.786000	-	1484908
+ORT	ORT	PROPN	-	0:04:59.392000	0:05:08.786000	ORT	1484908
 oder	oder	CCONJ	-	0:04:59.392000	0:05:08.786000	-	1477206
-[Judenburg]O	Judenburg	PROPN	-	0:04:59.392000	0:05:08.786000	-	1490110
+ORT	ORT	PROPN	-	0:04:59.392000	0:05:08.786000	ORT	1490110
 .	-	-	-	0:04:59.392000	0:05:08.786000	-	1478318
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:05:08.786000" end="0:05:09.599000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -1716,7 +1716,7 @@ alt	alt	ADJ	-	0:06:47.506000	0:06:52.146000	-	1491562
 eingesessenen	eingesessen	ADJ	-	0:06:47.506000	0:06:52.146000	-	1491168
 Bewohner	Bewohner	NOUN	-	0:06:47.506000	0:06:52.146000	-	1477107
 von	von	ADP	-	0:06:47.506000	0:06:52.146000	-	1478487
-[Oberwölz]O	Oberwölz	PROPN	-	0:06:47.506000	0:06:52.146000	-	1484971
+ORT	ORT	PROPN	-	0:06:47.506000	0:06:52.146000	ORT	1484971
 typischerweise	typischerweise	ADV	-	0:06:47.506000	0:06:52.146000	-	1488531
 miteinander	miteinander	ADV	-	0:06:47.506000	0:06:52.146000	-	1487215
 sprechen	sprechen	VERB	-	0:06:47.506000	0:06:52.146000	-	1485618
@@ -1729,7 +1729,7 @@ hm	hm	X	-	0:06:52.146000	0:06:56.939000	-	1490124
 schwierig	schwierig	ADJ	-	0:06:52.146000	0:06:56.939000	-	1485976
 ja	ja	PART	-	0:06:52.146000	0:06:56.939000	-	1488792
 .	-	-	-	0:06:52.146000	0:06:56.939000	-	1484874
-[Oberwölzerisch]S	Oberwölzerisch	ADJ	-	0:06:52.146000	0:06:56.939000	-	1491487
+SONSTIGE	SONSTIGE	ADJ	-	0:06:52.146000	0:06:56.939000	SONSTIGE	1491487
 wahrscheinlich	wahrscheinlich	ADJ	-	0:06:52.146000	0:06:56.939000	-	1489146
 ,	-	-	-	0:06:52.146000	0:06:56.939000	-	1483080
 ja	ja	PART	-	0:06:52.146000	0:06:56.939000	-	1477809
@@ -1787,7 +1787,7 @@ ja	ja	PART	-	0:07:12.039000	0:07:12.359000	-	1483640
 .	-	-	-	0:07:12.039000	0:07:12.359000	-	1491385
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:07:12.359000" end="0:07:15.092000" persName="Informant EXP4" age_lower="1" age_upper="999">
-[Oberwölzerisch]S	Oberwölzerisch	ADJ	-	0:07:12.359000	0:07:14.159000	-	1484751
+SONSTIGE	SONSTIGE	ADJ	-	0:07:12.359000	0:07:14.159000	SONSTIGE	1484751
 oder	oder	CCONJ	-	0:07:12.359000	0:07:14.159000	-	1481188
 kann	können	VERB	-	0:07:12.359000	0:07:14.159000	-	1486662
 man	man	PRON	-	0:07:12.359000	0:07:14.159000	-	1485255
@@ -1849,7 +1849,7 @@ mhm	mhm	PROPN	-	0:07:23.972000	0:07:24.739000	-	1484543
 und	und	CCONJ	-	0:07:24.739000	0:07:28.192000	-	1480024
 <pause duration="0,9s"/>
 die	der	DET	-	0:07:24.739000	0:07:28.192000	-	1477967
-[Tamsweger]S	Tamsweger	NOUN	-	0:07:24.739000	0:07:28.192000	-	1482067
+SONSTIGE	SONSTIGE	NOUN	-	0:07:24.739000	0:07:28.192000	SONSTIGE	1482067
 reden	reden	VERB	-	0:07:24.739000	0:07:28.192000	-	1484966
 auch	auch	ADV	-	0:07:24.739000	0:07:28.192000	-	1477436
 wieder	wieder	ADV	-	0:07:24.739000	0:07:28.192000	-	1485839
@@ -1908,7 +1908,7 @@ kö/	-	-	-	0:07:40.099000	0:07:45.232000	-	1481551
 können	können	VERB	-	0:07:40.099000	0:07:45.232000	-	1489499
 sie	ich	PRON	-	0:07:40.099000	0:07:45.232000	-	1479065
 auch	auch	ADV	-	0:07:40.099000	0:07:45.232000	-	1487952
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:07:40.099000	0:07:45.232000	-	1478366
+SONSTIGE	SONSTIGE	NOUN	-	0:07:40.099000	0:07:45.232000	SONSTIGE	1478366
 sprechen	sprechen	VERB	-	0:07:40.099000	0:07:45.232000	-	1483262
 ?	-	-	-	0:07:40.099000	0:07:45.232000	-	1481584
 </u>
@@ -2898,7 +2898,7 @@ es	ich	PRON	-	0:11:59.512000	0:12:00.712000	-	1485830
 ist	sein	AUX	-	0:11:59.512000	0:12:00.712000	-	1484684
 auch	auch	ADV	-	0:11:59.512000	0:12:00.712000	-	1486857
 in	in	ADP	-	0:11:59.512000	0:12:00.712000	-	1478349
-[Obberwölz]O	Obberwölz	PROPN	-	0:11:59.512000	0:12:00.712000	-	1490247
+ORT	ORT	PROPN	-	0:11:59.512000	0:12:00.712000	ORT	1490247
 nicht	nicht	PART	-	0:11:59.512000	0:12:00.712000	-	1482896
 so	so	ADV	-	0:11:59.512000	0:12:00.712000	-	1481866
 ,	-	-	-	0:11:59.512000	0:12:00.712000	-	1478591
@@ -2914,7 +2914,7 @@ auch	auch	ADV	-	0:12:00.712000	0:12:03.412000	-	1484685
 ,	-	-	-	0:12:00.712000	0:12:03.412000	-	1488170
 selbst	selbst	ADV	-	0:12:03.412000	0:12:05.739000	-	1490500
 in	in	ADP	-	0:12:03.412000	0:12:05.739000	-	1484544
-[Oberwölz]O	Oberwölz	PROPN	-	0:12:03.412000	0:12:05.739000	-	1489617
+ORT	ORT	PROPN	-	0:12:03.412000	0:12:05.739000	ORT	1489617
 ,	-	-	-	0:12:03.412000	0:12:05.739000	-	1483714
 was	was	PRON	-	0:12:03.412000	0:12:05.739000	-	1484626
 ja	ja	ADV	-	0:12:03.412000	0:12:05.739000	-	1487079
@@ -3155,7 +3155,7 @@ dass	dass	SCONJ	-	0:12:59.632000	0:12:59.965000	-	1485937
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:12:59.965000" end="0:13:01.145000" persName="Informant EXP4" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
-[O/Oberwölz]O	OOberwölz	ADJ	-	0:12:59.965000	0:13:01.145000	-	1488644
+ORT	ORT	ADJ	-	0:12:59.965000	0:13:01.145000	ORT	1488644
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:59.965000" end="0:13:01.145000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
@@ -3286,7 +3286,7 @@ eben	eben	ADV	-	0:13:24.965000	0:13:27.959000	-	1480834
 jetzt	jetzt	ADV	-	0:13:24.965000	0:13:27.959000	-	1483669
 alles	alle	PRON	-	0:13:24.965000	0:13:27.959000	-	1478816
 zu	zu	ADP	-	0:13:24.965000	0:13:27.959000	-	1487320
-[Oberwölz]O	Oberwölz	NOUN	-	0:13:24.965000	0:13:27.959000	-	1489038
+ORT	ORT	NOUN	-	0:13:24.965000	0:13:27.959000	ORT	1489038
 gehört	hören	VERB	-	0:13:24.965000	0:13:27.959000	-	1480160
 .	-	-	-	0:13:24.965000	0:13:27.959000	-	1489226
 aber	aber	CCONJ	-	0:13:27.959000	0:13:30.632000	-	1487592
@@ -3373,7 +3373,7 @@ Leute	Leute	NOUN	-	0:13:45.012000	0:13:46.852000	-	1490971
 gibt	geben	VERB	-	0:13:45.012000	0:13:46.852000	-	1489081
 ,	-	-	-	0:13:45.012000	0:13:46.852000	-	1478137
 in	in	ADP	-	0:13:45.012000	0:13:46.852000	-	1478274
-[Oberwölz]O	Oberwölz	PROPN	-	0:13:45.012000	0:13:46.852000	-	1491738
+ORT	ORT	PROPN	-	0:13:45.012000	0:13:46.852000	ORT	1491738
 ,	-	-	-	0:13:45.012000	0:13:46.852000	-	1484363
 die	der	PRON	-	0:13:46.852000	0:13:47.272000	-	1487769
 sagen	sagen	VERB	-	0:13:46.852000	0:13:47.272000	-	1480920
@@ -3381,7 +3381,7 @@ sagen	sagen	VERB	-	0:13:46.852000	0:13:47.272000	-	1480920
 sie	ich	PRON	-	0:13:47.272000	0:13:49.718000	-	1481501
 sprechen	sprechen	VERB	-	0:13:47.272000	0:13:49.718000	-	1480787
 nicht	nicht	PART	-	0:13:47.272000	0:13:49.718000	-	1488381
-[Oberwölzerisch]S	Oberwölzerisch	ADJ	-	0:13:47.272000	0:13:49.718000	-	1477534
+SONSTIGE	SONSTIGE	ADJ	-	0:13:47.272000	0:13:49.718000	SONSTIGE	1477534
 oder	oder	CCONJ	-	0:13:47.272000	0:13:49.718000	-	1488807
 ?	-	-	-	0:13:47.272000	0:13:49.718000	-	1481165
 </u>
@@ -3530,7 +3530,7 @@ fallen	fallen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV ci
 ,	-	-	-	0:14:15.932000	0:14:17.932000	-	1491782
 jetzt	jetzt	ADV	-	0:14:17.932000	0:14:21.812000	-	1490924
 plötzlich	plötzlich	ADJ	-	0:14:17.932000	0:14:21.812000	-	1483233
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:14:17.932000	0:14:21.812000	-	1478838
+SONSTIGE	SONSTIGE	NOUN	-	0:14:17.932000	0:14:21.812000	SONSTIGE	1478838
 zu	zu	PART	-	0:14:17.932000	0:14:21.812000	-	1480426
 reden	reden	VERB	-	0:14:17.932000	0:14:21.812000	-	1485273
 .	-	-	-	0:14:17.932000	0:14:21.812000	-	1488317
@@ -3620,7 +3620,7 @@ also	also	ADV	-	0:14:44.605000	0:14:46.832000	-	1489645
 der	der	DET	-	0:14:44.605000	0:14:46.832000	-	1477447
 Freundeskreis	Freundeskreis	NOUN	-	0:14:44.605000	0:14:46.832000	-	1489758
 in	in	ADP	-	0:14:44.605000	0:14:46.832000	-	1491140
-[Oberwölz]O	Oberwölz	PROPN	-	0:14:44.605000	0:14:46.832000	-	1485542
+ORT	ORT	PROPN	-	0:14:44.605000	0:14:46.832000	ORT	1485542
 jetzt	jetzt	ADV	-	0:14:44.605000	0:14:46.832000	-	1489236
 meine	meinen	VERB	-	0:14:44.605000	0:14:46.832000	-	1477760
 ich	ich	PRON	-	0:14:44.605000	0:14:46.832000	-	1488435
@@ -3716,7 +3716,7 @@ und	und	CCONJ	-	0:15:14.418000	0:15:15.665000	-	1489438
 das	der	PRON	-	0:15:14.418000	0:15:15.665000	-	1488265
 ist	sein	AUX	-	0:15:14.418000	0:15:15.665000	-	1479427
 dann	dann	ADV	-	0:15:14.418000	0:15:15.665000	-	1479241
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:15:14.418000	0:15:15.665000	-	1488093
+SONSTIGE	SONSTIGE	NOUN	-	0:15:14.418000	0:15:15.665000	SONSTIGE	1488093
 .	-	-	-	0:15:14.418000	0:15:15.665000	-	1488619
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:15:15.665000" end="0:15:16.285000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -3776,11 +3776,11 @@ wie	wie	ADV	-	0:15:29.218000	0:15:33.205000	-	1484767
 gut	gut	ADJ	-	0:15:29.218000	0:15:33.205000	-	1477768
 sie	ich	PRON	-	0:15:29.218000	0:15:33.205000	-	1488947
 den	der	DET	-	0:15:29.218000	0:15:33.205000	-	1485134
-[oberwölzer]S	oberwölzer	ADJ	-	0:15:29.218000	0:15:33.205000	-	1490511
+SONSTIGE	SONSTIGE	ADJ	-	0:15:29.218000	0:15:33.205000	SONSTIGE	1490511
 Dialekt	Dialekt	NOUN	-	0:15:29.218000	0:15:33.205000	-	1480243
 oder	oder	CCONJ	-	0:15:29.218000	0:15:33.205000	-	1486084
 das	der	DET	-	0:15:29.218000	0:15:33.205000	-	1483123
-[Oberwölzerische]S	Oberwölzerische	NOUN	-	0:15:29.218000	0:15:33.205000	-	1488201
+SONSTIGE	SONSTIGE	NOUN	-	0:15:29.218000	0:15:33.205000	SONSTIGE	1488201
 verstehen	verstehen	VERB	-	0:15:29.218000	0:15:33.205000	-	1480067
 .	-	-	-	0:15:29.218000	0:15:33.205000	-	1480142
 <pause duration="0,9s"/>
@@ -3824,7 +3824,7 @@ wie	wie	ADV	-	0:15:40.192000	0:15:42.192000	-	1490154
 häufig	häufig	ADJ	-	0:15:40.192000	0:15:42.192000	-	1486400
 sprechen	sprechen	VERB	-	0:15:40.192000	0:15:42.192000	-	1481719
 sie	ich	PRON	-	0:15:40.192000	0:15:42.192000	-	1481296
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:15:40.192000	0:15:42.192000	-	1484546
+SONSTIGE	SONSTIGE	NOUN	-	0:15:40.192000	0:15:42.192000	SONSTIGE	1484546
 ?	-	-	-	0:15:40.192000	0:15:42.192000	-	1487153
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:42.192000" end="0:15:46.292000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -4043,7 +4043,7 @@ ihnen	ich	PRON	-	0:16:40.678000	0:16:45.025000	-	1489259
 der	der	DET	-	0:16:40.678000	0:16:45.025000	-	1489647
 Gebrauch	Gebrauch	NOUN	-	0:16:40.678000	0:16:45.025000	-	1479791
 vom	vom	ADP	-	0:16:40.678000	0:16:45.025000	-	1487487
-[Oberwölzerischen]S	Oberwölzerischen	NOUN	-	0:16:40.678000	0:16:45.025000	-	1480268
+SONSTIGE	SONSTIGE	NOUN	-	0:16:40.678000	0:16:45.025000	SONSTIGE	1480268
 als	als	ADP	-	0:16:40.678000	0:16:45.025000	-	1486211
 absolut	absolut	ADJ	-	0:16:40.678000	0:16:45.025000	-	1485411
 passend	passen	ADJ	-	0:16:40.678000	0:16:45.025000	-	1477707
@@ -4226,7 +4226,7 @@ wenn	wenn	SCONJ	-	0:17:32.992000	0:17:35.538000	-	1484564
 halt	halt	ADV	-	0:17:32.992000	0:17:35.538000	-	1479001
 jemand	jemand	PRON	-	0:17:32.992000	0:17:35.538000	-	1480038
 in	in	ADP	-	0:17:32.992000	0:17:35.538000	-	1491537
-[Oberwölz]O	Oberwölz	PROPN	-	0:17:32.992000	0:17:35.538000	-	1488903
+ORT	ORT	PROPN	-	0:17:32.992000	0:17:35.538000	ORT	1488903
 Ansprachen	Ansprache	NOUN	-	0:17:32.992000	0:17:35.538000	-	1479864
 hält	halten	VERB	-	0:17:32.992000	0:17:35.538000	-	1485114
 .	-	-	-	0:17:32.992000	0:17:35.538000	-	1486231
@@ -4545,11 +4545,11 @@ wie	wie	ADV	-	0:18:59.845000	0:19:02.018000	-	1489194
 stehen	stehen	VERB	-	0:18:59.845000	0:19:02.018000	-	1480596
 Menschen	Mensch	NOUN	-	0:18:59.845000	0:19:02.018000	-	1485535
 zum	zum	ADP	-	0:18:59.845000	0:19:02.018000	-	1481596
-[oberwölzer]S	oberwölzer	ADJ	-	0:18:59.845000	0:19:02.018000	-	1485174
+SONSTIGE	SONSTIGE	ADJ	-	0:18:59.845000	0:19:02.018000	SONSTIGE	1485174
 Dialekt	Dialekt	NOUN	-	0:18:59.845000	0:19:02.018000	-	1491123
 ,	-	-	-	0:18:59.845000	0:19:02.018000	-	1483889
 zum	zum	ADP	-	0:19:02.018000	0:19:05.005000	-	1489466
-[Oberwölzerischen]S	Oberwölzerischen	NOUN	-	0:19:02.018000	0:19:05.005000	-	1484353
+SONSTIGE	SONSTIGE	NOUN	-	0:19:02.018000	0:19:05.005000	SONSTIGE	1484353
 ,	-	-	-	0:19:02.018000	0:19:05.005000	-	1486514
 die	der	DET	-	0:19:02.018000	0:19:05.005000	-	1491192
 das	der	PRON	-	0:19:02.018000	0:19:05.005000	-	1477144
@@ -5079,10 +5079,10 @@ Personenkreise	Personenkreise	NOUN	-	0:21:23.182000	0:21:29.918000	-	1483647
 bei	bei	ADP	-	0:21:23.182000	0:21:29.918000	-	1477646
 ihnen	ich	PRON	-	0:21:23.182000	0:21:29.918000	-	1491265
 in	in	ADP	-	0:21:23.182000	0:21:29.918000	-	1485333
-[Oberwölz]O	Oberwölz	PROPN	-	0:21:23.182000	0:21:29.918000	-	1488307
+ORT	ORT	PROPN	-	0:21:23.182000	0:21:29.918000	ORT	1488307
 also	also	ADV	-	0:21:23.182000	0:21:29.918000	-	1488834
 sprechen	sprechen	ADJ	-	0:21:23.182000	0:21:29.918000	-	1482878
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:21:23.182000	0:21:29.918000	-	1482840
+SONSTIGE	SONSTIGE	NOUN	-	0:21:23.182000	0:21:29.918000	SONSTIGE	1482840
 vor	vor	ADP	-	0:21:23.182000	0:21:29.918000	-	1477561
 allem	alle	PRON	-	0:21:23.182000	0:21:29.918000	-	1483147
 ?	-	-	-	0:21:23.182000	0:21:29.918000	-	1898094
@@ -5833,7 +5833,7 @@ sie	ich	PRON	-	0:24:35.165000	0:24:37.997000	-	1480471
 die	der	DET	-	0:24:35.165000	0:24:37.997000	-	1483877
 Zukunft	Zukunft	NOUN	-	0:24:35.165000	0:24:37.997000	-	1487759
 vom	vom	ADP	-	0:24:35.165000	0:24:37.997000	-	1481179
-[Oberwölzerischen]S	Oberwölzerischen	NOUN	-	0:24:35.165000	0:24:37.997000	-	1482956
+SONSTIGE	SONSTIGE	NOUN	-	0:24:35.165000	0:24:37.997000	SONSTIGE	1482956
 ?	-	-	-	0:24:35.165000	0:24:37.997000	-	1483833
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:37.997000" end="0:24:46.765000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -6150,7 +6150,7 @@ Leuten	Leute	NOUN	-	0:26:05.237000	0:26:14.229000	-	1488766
 die	der	DET	-	0:26:05.237000	0:26:14.229000	-	1481392
 wirklich	wirklich	ADJ	-	0:26:05.237000	0:26:14.229000	-	1479630
 in	in	ADP	-	0:26:05.237000	0:26:14.229000	-	1490350
-[Oberwölz]O	Oberwölz	NOUN	-	0:26:05.237000	0:26:14.229000	-	1478488
+ORT	ORT	NOUN	-	0:26:05.237000	0:26:14.229000	ORT	1478488
 <pause duration="1,3s"/>
 von	von	ADP	-	0:26:05.237000	0:26:14.229000	-	1478217
 kleinauf	kleinauf	NOUN	-	0:26:05.237000	0:26:14.229000	-	1477066
@@ -10676,9 +10676,9 @@ Umgang	Umgang	NOUN	-	0:46:53.076000	0:46:59.169000	-	1478330
 mit	mit	ADP	-	0:46:53.076000	0:46:59.169000	-	1480515
 <pause duration="0,7s"/>
 mit	mit	ADP	-	0:46:53.076000	0:46:59.169000	-	1489581
-[Oberwölzern]S	Oberwölzern	NOUN	-	0:46:53.076000	0:46:59.169000	-	1482680
+SONSTIGE	SONSTIGE	NOUN	-	0:46:53.076000	0:46:59.169000	SONSTIGE	1482680
 oder	oder	CCONJ	-	0:46:53.076000	0:46:59.169000	-	1481250
-[Oberwölzerinnen]S	Oberwölzerinnen	NOUN	-	0:46:53.076000	0:46:59.169000	-	1480595
+SONSTIGE	SONSTIGE	NOUN	-	0:46:53.076000	0:46:59.169000	SONSTIGE	1480595
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:46:59.169000" end="0:46:59.723000" persName="Informant EXP4" age_lower="1" age_upper="999">
 mhm	mhm	PROPN	-	0:46:59.169000	0:46:59.723000	-	1485647
@@ -10840,7 +10840,7 @@ wenn	wenn	SCONJ	-	0:47:31.863000	0:47:33.989000	-	1477285
 wenn	wenn	SCONJ	-	0:47:31.863000	0:47:33.989000	-	1482119
 man	man	PRON	-	0:47:31.863000	0:47:33.989000	-	1488803
 aus	aus	ADP	-	0:47:31.863000	0:47:33.989000	-	1489042
-[Oberwölz]O	Oberwölz	NOUN	-	0:47:31.863000	0:47:33.989000	-	1482339
+ORT	ORT	NOUN	-	0:47:31.863000	0:47:33.989000	ORT	1482339
 ist	sein	AUX	-	0:47:31.863000	0:47:33.989000	-	1487961
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:47:33.989000	0:47:42.389000	-	1478030
@@ -10863,7 +10863,7 @@ es	ich	PRON	-	0:47:33.989000	0:47:42.389000	-	1483567
 fällt	fällen	VERB	-	0:47:33.989000	0:47:42.389000	-	1481545
 auf	auf	ADP	-	0:47:33.989000	0:47:42.389000	-	1479047
 in	in	ADP	-	0:47:33.989000	0:47:42.389000	-	1489744
-[Oberwölz]O	Oberwölz	PROPN	-	0:47:33.989000	0:47:42.389000	-	1486008
+ORT	ORT	PROPN	-	0:47:33.989000	0:47:42.389000	ORT	1486008
 ,	-	-	-	0:47:33.989000	0:47:42.389000	-	1479028
 wenn	wenn	SCONJ	-	0:47:42.389000	0:47:44.029000	-	1479557
 jemand	jemand	PRON	-	0:47:42.389000	0:47:44.029000	-	1480880
@@ -10906,7 +10906,7 @@ kann	können	VERB	-	0:47:51.276000	0:47:52.883000	-	1489232
 auch	auch	ADV	-	0:47:51.276000	0:47:52.883000	-	1484251
 nicht	nicht	PART	-	0:47:51.276000	0:47:52.883000	-	1491731
 mehr	mehr	ADV	-	0:47:51.276000	0:47:52.883000	-	1478339
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:47:51.276000	0:47:52.883000	-	1483686
+SONSTIGE	SONSTIGE	NOUN	-	0:47:51.276000	0:47:52.883000	SONSTIGE	1483686
 oder	oder	CCONJ	-	0:47:51.276000	0:47:52.883000	-	1481923
 so	so	ADV	-	0:47:51.276000	0:47:52.883000	-	1491602
 oder	oder	CCONJ	-	0:47:52.883000	0:47:53.623000	-	1480240
@@ -11138,7 +11138,7 @@ so	so	ADV	-	0:48:41.996000	0:48:44.649000	-	1482272
 aber	aber	CCONJ	-	0:48:44.649000	0:48:47.443000	-	1489833
 wenn	wenn	SCONJ	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:48:44.649000	0:48:47.443000	-	1478700
 jetzt	jetzt	ADV	-	0:48:44.649000	0:48:47.443000	-	1488724
-[Oberwölzer]S	Oberwölzer	NOUN	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:48:44.649000	0:48:47.443000	-	1485322
+SONSTIGE	SONSTIGE	NOUN	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:48:44.649000	0:48:47.443000	SONSTIGE	1485322
 versuchen	versuchen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:48:44.649000	0:48:47.443000	-	1480761
 würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:48:44.649000	0:48:47.443000	-	1478198
 ,	-	-	-	0:48:44.649000	0:48:47.443000	-	1489384
@@ -12601,7 +12601,7 @@ mhm	mhm	PROPN	-	0:55:32.002000	0:55:32.255000	-	1479504
 haben	haben	AUX	-	0:55:32.255000	0:55:34.329000	-	1478745
 haben	haben	AUX	-	0:55:32.255000	0:55:34.329000	-	1479760
 das	der	DET	-	0:55:32.255000	0:55:34.329000	-	1489630
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:55:32.255000	0:55:34.329000	-	1480507
+SONSTIGE	SONSTIGE	NOUN	-	0:55:32.255000	0:55:34.329000	SONSTIGE	1480507
 gehabt	haben	AUX	-	0:55:32.255000	0:55:34.329000	-	1481733
 ,	-	-	-	0:55:32.255000	0:55:34.329000	-	1480996
 wir	ich	PRON	-	0:55:34.329000	0:55:36.942000	-	1491145
@@ -12757,7 +12757,7 @@ sozusagen	sozusagen	ADV	-	0:56:13.395000	0:56:20.729000	-	1486414
 zwischen	zwischen	ADP	-	0:56:13.395000	0:56:20.729000	-	1491153
 dazwischen	dazwischen	ADV	-	0:56:13.395000	0:56:20.729000	-	1490161
 zwischen	zwischen	ADP	-	0:56:13.395000	0:56:20.729000	-	1491759
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:56:13.395000	0:56:20.729000	-	1488737
+SONSTIGE	SONSTIGE	NOUN	-	0:56:13.395000	0:56:20.729000	SONSTIGE	1488737
 und	und	CCONJ	-	0:56:13.395000	0:56:20.729000	-	1484788
 <pause duration="0,6s"/>
 ähm	ähm	ADJ	-	0:56:13.395000	0:56:20.729000	-	1483379
@@ -12804,7 +12804,7 @@ meinem	mein	DET	-	0:56:29.002000	0:56:34.975000	-	1486732
 Freund/	-	-	-	0:56:29.002000	0:56:34.975000	-	1489468
 in	in	ADP	-	0:56:29.002000	0:56:34.975000	-	1490438
 meinem	mein	DET	-	0:56:29.002000	0:56:34.975000	-	1483537
-[oberwölzer]S	oberwölzer	ADJ	-	0:56:29.002000	0:56:34.975000	-	1488085
+SONSTIGE	SONSTIGE	ADJ	-	0:56:29.002000	0:56:34.975000	SONSTIGE	1488085
 Freundeskreis	Freundeskreis	NOUN	-	0:56:29.002000	0:56:34.975000	-	1482881
 <pause duration="0,9s"/>
 gesprochen	sprechen	VERB	-	0:56:29.002000	0:56:34.975000	-	1490072
@@ -12824,7 +12824,7 @@ urigen	urig	ADJ	-	0:56:34.975000	0:56:42.169000	-	1491249
 oder	oder	CCONJ	-	0:56:34.975000	0:56:42.169000	-	1480117
 zum	zum	ADP	-	0:56:34.975000	0:56:42.169000	-	1486402
 ursprünglichen	ursprünglich	ADJ	-	0:56:34.975000	0:56:42.169000	-	1486281
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:56:34.975000	0:56:42.169000	-	1482805
+SONSTIGE	SONSTIGE	NOUN	-	0:56:34.975000	0:56:42.169000	SONSTIGE	1482805
 .	-	-	-	0:56:34.975000	0:56:42.169000	-	1489954
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:56:42.169000" end="0:56:42.689000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -12925,7 +12925,7 @@ Wörter	Wort	NOUN	-	0:57:02.402000	0:57:08.922000	-	1489923
 verwende	verwenden	VERB	-	0:57:02.402000	0:57:08.922000	-	1491825
 aus	aus	ADP	-	0:57:02.402000	0:57:08.922000	-	1487037
 dem	der	DET	-	0:57:02.402000	0:57:08.922000	-	1487776
-[Oberwölzerischen]S	Oberwölzerischen	NOUN	-	0:57:02.402000	0:57:08.922000	-	1478989
+SONSTIGE	SONSTIGE	NOUN	-	0:57:02.402000	0:57:08.922000	SONSTIGE	1478989
 ,	-	-	-	0:57:02.402000	0:57:08.922000	-	1480732
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:57:08.922000" end="0:57:09.529000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -13060,7 +13060,7 @@ der	der	DET	-	0:57:32.555000	0:57:36.709000	-	1488213
 einen	ein	ADJ	-	0:57:32.555000	0:57:36.709000	-	1485739
 Seite	Seite	NOUN	-	0:57:32.555000	0:57:36.709000	-	1487441
 das	der	DET	-	0:57:32.555000	0:57:36.709000	-	1486384
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:57:32.555000	0:57:36.709000	-	1480096
+SONSTIGE	SONSTIGE	NOUN	-	0:57:32.555000	0:57:36.709000	SONSTIGE	1480096
 eben	eben	ADV	-	0:57:36.709000	0:57:37.235000	-	1482876
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:57:36.709000" end="0:57:37.235000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -13168,7 +13168,7 @@ schon	schon	ADV	-	0:58:08.409000	0:58:12.415000	-	1484737
 sehr	sehr	ADV	-	0:58:08.409000	0:58:12.415000	-	1489877
 nahe	nahe	ADJ	-	0:58:08.409000	0:58:12.415000	-	1480261
 am	am	ADP	-	0:58:08.409000	0:58:12.415000	-	1484288
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:58:08.409000	0:58:12.415000	-	1487927
+SONSTIGE	SONSTIGE	NOUN	-	0:58:08.409000	0:58:12.415000	SONSTIGE	1487927
 .	-	-	-	0:58:08.409000	0:58:12.415000	-	1486183
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:58:12.415000" end="0:58:13.082000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -13185,7 +13185,7 @@ ja	ja	PART	-	0:58:12.769000	0:58:13.082000	-	1486044
 aber	aber	ADV	-	0:58:13.082000	0:58:14.882000	-	1477706
 das	der	DET	-	0:58:13.082000	0:58:14.882000	-	1490724
 urige	urige	ADJ	-	0:58:13.082000	0:58:14.882000	-	1484182
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:58:13.082000	0:58:14.882000	-	1485858
+SONSTIGE	SONSTIGE	NOUN	-	0:58:13.082000	0:58:14.882000	SONSTIGE	1485858
 gemeint	meinen	VERB	-	0:58:14.882000	0:58:15.562000	-	1481288
 ?	-	-	-	0:58:14.882000	0:58:15.562000	-	1480486
 </u>
@@ -13260,7 +13260,7 @@ im	im	ADP	-	0:58:24.089000	0:58:26.409000	-	1483444
 Vergleich	Vergleich	NOUN	-	0:58:24.089000	0:58:26.409000	-	1477935
 zum	zum	ADP	-	0:58:24.089000	0:58:26.409000	-	1491465
 urigen	urig	ADJ	-	0:58:24.089000	0:58:26.409000	-	1486891
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:58:26.409000	0:58:27.849000	-	1488729
+SONSTIGE	SONSTIGE	NOUN	-	0:58:26.409000	0:58:27.849000	SONSTIGE	1488729
 okay	okay	VERB	-	0:58:26.409000	0:58:27.849000	-	1487461
 oder	oder	CCONJ	-	0:58:26.409000	0:58:27.849000	-	1478393
 ?	-	-	-	0:58:26.409000	0:58:27.849000	-	1483525
@@ -13360,7 +13360,7 @@ eher	eher	ADV	-	0:58:50.889000	0:58:55.142000	-	1477237
 Kärntnerisch	Kärntnerisch	ADJ	-	0:58:50.889000	0:58:55.142000	-	1486876
 klingen	klingen	VERB	-	0:58:50.889000	0:58:55.142000	-	1487503
 als	als	ADP	-	0:58:50.889000	0:58:55.142000	-	1478875
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:58:50.889000	0:58:55.142000	-	1477519
+SONSTIGE	SONSTIGE	NOUN	-	0:58:50.889000	0:58:55.142000	SONSTIGE	1477519
 .	-	-	-	0:58:50.889000	0:58:55.142000	-	1487800
 also	also	ADV	-	0:58:55.142000	0:58:57.035000	-	1479232
 nicht	nicht	PART	-	0:58:55.142000	0:58:57.035000	-	1477245
@@ -13383,7 +13383,7 @@ ist	sein	AUX	-	0:58:57.035000	0:59:01.455000	-	1477349
 auch	auch	ADV	-	0:58:57.035000	0:59:01.455000	-	1482258
 sicher	sichern	ADV	-	0:58:57.035000	0:59:01.455000	-	1480657
 kein	kein	DET	-	0:58:57.035000	0:59:01.455000	-	1491238
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:58:57.035000	0:59:01.455000	-	1477458
+SONSTIGE	SONSTIGE	NOUN	-	0:58:57.035000	0:59:01.455000	SONSTIGE	1477458
 ähm	ähm	ADJ	-	0:59:01.455000	0:59:03.342000	-	1478705
 <pause duration="1,0s"/>
 ,	-	-	-	0:59:01.455000	0:59:03.342000	-	1478047
@@ -13474,7 +13474,7 @@ zum	zum	ADP	-	0:59:21.822000	0:59:23.482000	-	1482740
 dann	dann	ADV	-	0:59:23.482000	0:59:23.802000	-	1491335
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:23.802000" end="0:59:24.448000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:59:23.802000	0:59:24.448000	-	1490019
+SONSTIGE	SONSTIGE	NOUN	-	0:59:23.802000	0:59:24.448000	SONSTIGE	1490019
 .	-	-	-	0:59:23.802000	0:59:24.448000	-	1480849
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="0:59:24.448000" end="0:59:27.195000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -14022,7 +14022,7 @@ andere	ander	ADJ	-	1:01:33.495000	1:01:34.915000	-	1488595
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:34.915000" end="1:01:36.728000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
-[Oberwölzerisch]S	Oberwölzerisch	ADJ	-	1:01:34.915000	1:01:36.728000	-	1477953
+SONSTIGE	SONSTIGE	ADJ	-	1:01:34.915000	1:01:36.728000	SONSTIGE	1477953
 .	-	-	-	1:01:34.915000	1:01:36.728000	-	1486059
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:01:36.728000" end="1:01:37.842000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -14101,7 +14101,7 @@ leiblichen	leiblich	ADJ	-	1:01:53.275000	1:02:02.582000	-	1485055
 Familie	Familie	NOUN	-	1:01:53.275000	1:02:02.582000	-	1488694
 mit	mit	ADP	-	1:01:53.275000	1:02:02.582000	-	1484077
 allen	alle	DET	-	1:01:53.275000	1:02:02.582000	-	1490878
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	1:01:53.275000	1:02:02.582000	-	1477690
+SONSTIGE	SONSTIGE	NOUN	-	1:01:53.275000	1:02:02.582000	SONSTIGE	1477690
 .	-	-	-	1:01:53.275000	1:02:02.582000	-	1485106
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:02:02.582000" end="1:02:02.948000" persName="Informant EXP4" age_lower="1" age_upper="999">
@@ -14156,7 +14156,7 @@ nicht	nicht	PART	-	1:02:15.182000	1:02:16.662000	-	1482580
 grundsätzlich	grundsätzlich	ADJ	-	1:02:16.662000	1:02:20.388000	-	1487458
 versteht	verstehen	VERB	-	1:02:16.662000	1:02:20.388000	-	1483913
 sie	ich	PRON	-	1:02:16.662000	1:02:20.388000	-	1485665
-[Oberwölzerisch]S	Oberwölzerisch	NOUN	-	1:02:16.662000	1:02:20.388000	-	1485347
+SONSTIGE	SONSTIGE	NOUN	-	1:02:16.662000	1:02:20.388000	SONSTIGE	1485347
 ganz	ganz	ADV	-	1:02:16.662000	1:02:20.388000	-	1485318
 normal	normal	ADJ	-	1:02:16.662000	1:02:20.388000	-	1491694
 .	-	-	-	1:02:16.662000	1:02:20.388000	-	1482767
@@ -16958,7 +16958,7 @@ wohnen	wohnen	VERB	-	1:14:31.527000	1:14:36.194000	-	1482341
 sie	ich	PRON	-	1:14:31.527000	1:14:36.194000	-	1486869
 gerne	gerne	ADV	-	1:14:31.527000	1:14:36.194000	-	1480074
 in	in	ADP	-	1:14:31.527000	1:14:36.194000	-	1483865
-[Oberwölz]O	Oberwölz	NOUN	-	1:14:31.527000	1:14:36.194000	-	1485266
+ORT	ORT	NOUN	-	1:14:31.527000	1:14:36.194000	ORT	1485266
 ?	-	-	-	1:14:31.527000	1:14:36.194000	-	1480934
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:36.194000" end="1:14:43.741000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
@@ -17379,12 +17379,12 @@ in	in	ADP	-	1:16:23.801000	1:16:24.767000	-	1481527
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:24.767000" end="1:16:25.341000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
 in	in	ADP	-	1:16:24.767000	1:16:25.341000	-	1484953
-[Oberwölz]O	Oberwölz	PROPN	-	1:16:24.767000	1:16:25.341000	-	1483684
+ORT	ORT	PROPN	-	1:16:24.767000	1:16:25.341000	ORT	1483684
 .	-	-	-	1:16:24.767000	1:16:25.341000	-	1481371
 </u>
 <u who="spk_619" sex="female" age="UNK" name="Informant EXP4" subproject="UNK" standard_competence="UNK" dialect_competence="UNK" location="UNK" lat="None" lon="None" start="1:16:25.341000" end="1:16:26.121000" persName="Informant EXP4" age_lower="1" age_upper="999">
 in	in	ADP	-	1:16:25.341000	1:16:26.121000	-	1486959
-[Oberwölz]O	Oberwölz	PROPN	-	1:16:25.341000	1:16:26.121000	-	1491713
+ORT	ORT	PROPN	-	1:16:25.341000	1:16:26.121000	ORT	1491713
 .	-	-	-	1:16:25.341000	1:16:26.121000	-	1479468
 </u>
 <u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" subproject="PP03" standard_competence="4" dialect_competence="7" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:25.341000" end="1:16:26.121000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" affiliation="PP03" age_lower="18" age_upper="35">
