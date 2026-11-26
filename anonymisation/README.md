@@ -16,7 +16,7 @@ This directory contains two independent Python workflows for anonymising DiÖ (D
 | [`mute_audio.py`](./mute_audio.py) | Mutes timestamped intervals in `.ogg` audio files and writes muted copies to `audio_muted/`. |
 | [`process_tokens.py`](./process_tokens.py) | Scans PostgreSQL `token` rows for bracketed anonymisation tags and replaces PII fields in-place. |
 | [`select_tokens.sql`](./select_tokens.sql) | Query loaded by `process_tokens.py` to fetch chronologically ordered tokens per transcript and speaker. |
-| [`requirements.txt`](./requirements.txt) | Pinned Python dependencies (`psycopg2-binary`, `pydub`, `python-dotenv`, plus `audioop-lts` on Python 3.13+). |
+| [`requirements.txt`](./requirements.txt) | Pinned Python dependencies for `process_tokens.py` (`psycopg2-binary`, `python-dotenv`); `mute_audio.py` uses only the Python standard library plus `ffmpeg`/`ffprobe`. |
 | [`.env.example`](./.env.example) | Template for PostgreSQL credentials required by `process_tokens.py`. |
 | `audio/` | Input directory for raw `.ogg` recordings (gitignored; must mirror the subfolders declared in `anon/*.csv`). |
 | `anon/` | Input directory containing timestamped anonymisation interval CSVs (`<stem>_YYYYMMDD_HHMMSS.csv`, gitignored). |
@@ -72,8 +72,8 @@ The output is Ogg Opus at 48,000 Hz. One PCM frame contains one sample per chann
 3. Selects the CSV for each recording and flags recordings missing a CSV (`skipped`).
 4. Validates line 1 against the file's relative path, parses `start`/`end` with exact `Decimal` millisecond math, validates bounds against exact PCM duration (clamping up to `100ms` of minor decoder drift at EOF), and merges overlapping/adjacent intervals.
 5. On a rerun, reuses an output only if it is at least as recent as the source and selected CSV, and decodes as 48 kHz Opus with the expected channel and frame counts. Older outputs and legacy Vorbis files are rebuilt. Use a fresh output directory when changing bitrate or when input files have been replaced with preserved modification times.
-6. Zeroes the selected PCM frames before resampling and Opus encoding. A valid CSV with zero intervals produces an Opus recording with the full signal. Opus is lossy, so samples near mute boundaries may decode to small nonzero values.
-7. Decodes the temporary Ogg with `ffprobe` and sums the samples per channel. Only a file with the expected codec, sample rate, channel count and exact frame count replaces the destination. The CLI reports the verified frame count.
+6. Streams decoded 16-bit PCM in fixed-size chunks (`--chunk-frames`, ~64 KiB for stereo) directly from `ffmpeg` through Python into a second `ffmpeg` `libopus` encoder process, zeroing muted frame ranges in-place without loading whole recordings into RAM or writing temporary WAV files. A valid CSV with zero intervals produces an Opus recording with the full signal. Opus is lossy, so samples near mute boundaries may decode to small nonzero values.
+7. Probes stream metadata with `ffprobe` and streams the temporary Ogg through `ffmpeg` in constant memory to verify the exact decoded frame count. Only a file with the expected codec, sample rate, channel count, and exact frame count replaces the destination. The CLI reports per-file progress and the verified frame count.
 
 ### Usage
 
@@ -88,7 +88,11 @@ python anonymisation/mute_audio.py \
   --audio-dir ./anonymisation/audio \
   --anon-dir ./anonymisation/anon \
   --output-dir ./anonymisation/audio_muted \
-  --opus-bitrate 96k
+  --opus-bitrate 96k \
+  --opus-compression-level 5 \
+  --workers 4 \
+  --ffmpeg-threads 1 \
+  --nice 10
 ```
 
 ### CLI Options
@@ -96,11 +100,16 @@ python anonymisation/mute_audio.py \
 - `--anon-dir`: Directory containing timestamped interval CSVs (default: `anonymisation/anon`).
 - `--output-dir`: Destination directory for muted `.ogg` files (default: `anonymisation/audio_muted`).
 - `--opus-bitrate` sets the target bitrate for newly encoded files, for example `96k`. By default, libopus selects the bitrate based on the number of channels. The legacy `--ogg-quality` option is accepted with a warning and has no effect on Opus.
+- `--opus-compression-level`: `libopus` encoding complexity `0`–`10` (default: `libopus` default `10`; `5`–`6` encodes speech ~1.5–2× faster with near-identical quality).
+- `--workers`: Number of audio files processed concurrently (default: `1`). Each worker uses ~65 MB peak RAM; on an 8-core machine `--workers 4` keeps memory under ~300 MB while cutting total runtime ~3–3.5×.
+- `--ffmpeg-threads`: Limits worker threads per `ffmpeg` process (default: `1`) to keep CPU usage and thermal load bounded during large multi-gigabyte runs.
+- `--chunk-frames`: Number of PCM frames processed per streaming chunk (default: `16384`, ~64 KiB for stereo `s16le`).
+- `--nice`: POSIX scheduling niceness increment `0`–`19` (default: `10`) so long batches yield smoothly to desktop processes (`0` disables).
 
 ### Exit Codes
 - `0`: At least one `.ogg` file was processed or already existed, with zero missing-CSV skips and zero failures.
 - `1`: No `.ogg` files were found, at least one `.ogg` file was missing a CSV, or at least one file failed CSV validation, decoding, encoding, or output verification.
-- `2`: Startup prerequisite failed (missing/invalid directory, `ffmpeg` or `ffprobe` missing from `PATH`, or `pydub`/`audioop` missing).
+- `2`: Startup prerequisite failed (missing/invalid directory, or `ffmpeg`/`ffprobe` missing from `PATH`).
 
 ---
 
